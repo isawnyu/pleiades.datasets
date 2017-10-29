@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        30.0241836,
-        46.5,
-        33.683333,
-        55.866667
+        32.5778028,
+        48.8201149,
+        32.5778028,
+        48.8201149
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/226544"
@@ -37,56 +37,41 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-23T19:10:10Z",
+    "created": "2017-10-27T18:32:34Z",
     "creators": [
         {
             "name": "David Braund",
             "username": null
         }
     ],
-    "description": "The Inhulets River is a right tributary of the Dnieper River that flows through the Ukraine.\r\n\r\n",
+    "description": "The Inhulets River is a right tributary of the Dnieper River that flows through the Ukraine.",
     "details": "<p>The Barrington Atlas Directory notes: upper Ingulets</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            33.0,
-                            47.0
-                        ],
-                        [
-                            33.0,
-                            48.0
-                        ],
-                        [
-                            34.0,
-                            48.0
-                        ],
-                        [
-                            34.0,
-                            47.0
-                        ],
-                        [
-                            33.0,
-                            47.0
-                        ]
-                    ]
+                    32.5778028,
+                    48.8201149
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-inhulets-river",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/226505/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Representative point Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/226505/location-of-inhulets-river",
+                "location_precision": "precise",
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM location of Inhulets (river)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Cleaned up extraneous whitespace in description. See https://github.com/isawnyu/pleiades-gazetteer/issues/140.",
+            "modified": "2017-10-27T18:43:02Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2017-02-25T00:12:27Z",
@@ -112,96 +97,83 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
+                    "timePeriod": "modern"
                 }
             ],
             "contributors": [
                 {
-                    "name": "Diane Braund",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-23T19:10:10Z",
+            "created": "2013-11-10T17:37:18Z",
             "creators": [
                 {
-                    "name": "David Braund",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative point Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            33.0,
-                            47.0
-                        ],
-                        [
-                            33.0,
-                            48.0
-                        ],
-                        [
-                            34.0,
-                            48.0
-                        ],
-                        [
-                            34.0,
-                            47.0
-                        ],
-                        [
-                            33.0,
-                            47.0
-                        ]
-                    ]
+                    32.5778028,
+                    48.8201149
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:17:04Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2017-10-27T18:43:58Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-11-10T17:37:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-11-10T17:37:22Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-inhulets-river",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 23 G1 Acesinus? fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 234997697, version 2, osm:changeset=17500157, 2013-08-25T14:14:58Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/234997697",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 234997697",
+                    "formattedCitation": "osm:way=234997697",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/226505/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Inhulets (river)",
+            "uri": "https://pleiades.stoa.org/places/226505/location-of-inhulets-river"
         }
     ],
     "names": [
@@ -306,8 +278,8 @@
         }
     ],
     "reprPoint": [
-        32.013616533333334,
-        51.80271566666667
+        32.5778028,
+        48.8201149
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
