@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        44.660806,
-        32.555123,
-        44.660806,
-        32.555123
+        44.5852547,
+        32.5407858,
+        44.5993371,
+        32.5519776
     ],
     "connectsWith": [],
     "contributors": [
@@ -21,6 +21,12 @@
         {
             "name": "W. Röllig",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Jamie Novotny",
+            "uri": "https://pleiades.stoa.org/author/jnovotny",
+            "username": "jnovotny"
         },
         {
             "homepage": null,
@@ -71,28 +77,51 @@
         }
     ],
     "description": "Kish was an ancient city of Sumer located east of Babylon in Mesopotamia. Kish was occupied from the Jemdet Nasr period (ca. 3100 BC) until its abandonment under the Seleucids.",
-    "details": "The Barrington Atlas Directory notes: Tell Uhaimir and Ingharra",
+    "details": "<p>The Barrington Atlas Directory notes: Tell Uhaimir and Ingharra</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    44.660806,
-                    32.555123
+                    44.5852547,
+                    32.5519776
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-22452",
+            "id": "osm-location-of-tell-uhaimir-kish",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/894028/darmc-location-22452",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/894028/osm-location-of-tell-uhaimir-kish",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 22452"
+                "snippet": "Settlement; 720 BC - 540 BC",
+                "title": "OSM Location of Tell Uhaimir/Kish"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.5993371,
+                    32.5407858
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-tell-ingharra-hursagkalama",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/894028/osm-location-of-tell-ingharra-hursagkalama",
+                "location_precision": "precise",
+                "snippet": "Settlement; 720 BC - 540 BC",
+                "title": "OSM Location of Tell Ingharra/Hursagkalama"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "darmc 22452",
+            "modified": "2017-12-10T16:10:12Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "edited description; added references",
             "modified": "2013-05-21T14:06:55Z",
@@ -128,94 +157,163 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "classical"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "timePeriod": "neo-assyrian-babylonian-middle-east"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2011-03-10T01:10:08Z",
+            "created": "2017-12-09T16:30:29Z",
             "creators": [
                 {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22452",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": -540,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    44.660806,
-                    32.555123
+                    44.5852547,
+                    32.5519776
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:22:47Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2017-12-10T16:11:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:10:09Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2017-12-09T16:31:24Z",
+                    "modifiedBy": "jnovotny"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-12-09T16:30:29Z",
+                    "modifiedBy": "jnovotny"
                 }
             ],
-            "id": "darmc-location-22452",
+            "id": "osm-location-of-tell-uhaimir-kish",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 22452",
+            "provenance": "OpenStreetMap (Node 5273797712, version 1, osm:changeset=54490452, 2017-12-09T16:27:18Z)",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/5273797712",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "citationDetail": "Node 5273797712",
+                    "formattedCitation": "osm:node=5273797712",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 22452",
-            "uri": "https://pleiades.stoa.org/places/894028/darmc-location-22452"
+            "start": -720,
+            "title": "OSM Location of Tell Uhaimir/Kish",
+            "uri": "https://pleiades.stoa.org/places/894028/osm-location-of-tell-uhaimir-kish"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2017-12-09T16:34:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": -540,
+            "featureType": [
+                "settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    44.5993371,
+                    32.5407858
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2017-12-10T16:13:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2017-12-09T16:35:34Z",
+                    "modifiedBy": "jnovotny"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-12-09T16:34:49Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "osm-location-of-tell-ingharra-hursagkalama",
+            "locationType": [
+                "representative"
+            ],
+            "provenance": "OpenStreetMap (Node 5273804712, version 1, osm:changeset=54490586, 2017-12-09T16:34:10Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/5273804712",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 5273804712",
+                    "formattedCitation": "osm:node=5273804712",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -720,
+            "title": "OSM Location of Tell Ingharra/Hursagkalama",
+            "uri": "https://pleiades.stoa.org/places/894028/osm-location-of-tell-ingharra-hursagkalama"
         }
     ],
     "names": [
@@ -1063,13 +1161,13 @@
                     "type": "cites"
                 },
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Kish_(Sumer)",
+                    "accessURI": "https://en.wikipedia.org/wiki/Kish_(Sumer)",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Kish (Sumer)",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "Kish (Sumer)",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Kish (Sumer).",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeAlso"
                 },
                 {
@@ -1270,24 +1368,14 @@
     "provenance": "Barrington Atlas: BAtlas 91 F5 Kish",
     "references": [
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Kish_(Sumer)",
+            "accessURI": "https://en.wikipedia.org/wiki/Kish_(Sumer)",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Kish (Sumer)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "citationDetail": "Kish (Sumer)",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Kish (Sumer).",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
-        },
-        {
-            "accessURI": "http://en.wikipedia.org/wiki/Kish_(Sumer)",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia \"Kish (Sumer).\"",
-            "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeAlso"
         },
         {
             "accessURI": "",
@@ -1308,11 +1396,21 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22452",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        44.660806,
-        32.555123
+        44.592295899999996,
+        32.5463817
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
