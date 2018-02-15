@@ -2,11 +2,13 @@
     "@type": "Place",
     "bbox": [
         43.2280283,
-        36.501818,
-        43.231685,
+        36.5097353,
+        43.2280283,
         36.5097353
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/29492"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -90,24 +92,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    43.231685,
-                    36.501818
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-32918",
-            "properties": {
-                "description": "  scale point location",
-                "link": "https://pleiades.stoa.org/places/874458/darmc-location-32918",
-                "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 330 BC",
-                "title": "DARMC location 32918"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     43.2280283,
                     36.5097353
                 ],
@@ -125,6 +109,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "retracted DARCM 32918 and added as reference",
+            "modified": "2018-02-13T14:08:54Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added references",
             "modified": "2016-10-29T14:56:11Z",
@@ -158,93 +147,6 @@
     ],
     "id": "874458",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "classical"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:44:57Z",
-            "creators": [
-                {
-                    "name": "S.E. Kroll",
-                    "username": null
-                },
-                {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
-                },
-                {
-                    "name": "T. Sinclair",
-                    "username": null
-                }
-            ],
-            "description": "  scale point location",
-            "details": "DARMC OBJECTID: 32918",
-            "end": -330,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    43.231685,
-                    36.501818
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:01:10Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:44:58Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-32918",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "DARMC OBJECTID: 32918",
-            "references": [
-                {
-                    "accessURI": "http://darmc.harvard.edu",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                }
-            ],
-            "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 32918",
-            "uri": "https://pleiades.stoa.org/places/874458/darmc-location-32918"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
@@ -447,6 +349,11 @@
             "details": "GANE OBJECT 16711",
             "end": -540,
             "history": [
+                {
+                    "comment": "Baseline created",
+                    "modified": "2018-02-02T09:14:46Z",
+                    "modifiedBy": "jnovotny"
+                },
                 {
                     "comment": "New locations, names, and places for the Ancient Near East from the Alexandria Archive Institute's GANE project: http://alexandriaarchive.org/projects/gane/.",
                     "modified": "2013-08-22T05:54:48Z",
@@ -795,13 +702,13 @@
     "provenance": "Barrington Atlas: BAtlas 89 F4 Dur-Sharrukin",
     "references": [
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Dur-Sharrukin",
+            "accessURI": "https://en.wikipedia.org/wiki/Dur-Sharrukin",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Dur-Sharrukin",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "citationDetail": "Dur-Sharrukin",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Dur-Sharrukin.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -883,11 +790,21 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "32918",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        43.22985665,
-        36.50577665
+        43.2280283,
+        36.5097353
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
