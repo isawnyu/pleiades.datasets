@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        15.818321,
-        40.961051,
+        15.827406,
+        40.969056,
         15.827406,
         40.969056
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/356966898"
+        "https://pleiades.stoa.org/places/356966898",
+        "https://pleiades.stoa.org/places/510986601",
+        "https://pleiades.stoa.org/places/102529957"
     ],
     "contributors": [
         {
@@ -60,24 +62,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    15.818321,
-                    40.961051
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-18997",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/442847/darmc-location-18997",
-                "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 18997"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     15.827406,
                     40.969056
                 ],
@@ -95,6 +79,21 @@
         }
     ],
     "history": [
+        {
+            "comment": "darmc",
+            "modified": "2018-02-25T20:56:50Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "references",
+            "modified": "2018-02-25T20:00:55Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2018-02-25T19:48:09Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2017-11-05T01:34:25Z",
@@ -148,89 +147,6 @@
     ],
     "id": "442847",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-31T20:59:42Z",
-            "creators": [
-                {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18997",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    15.818321,
-                    40.961051
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:11:42Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T20:59:43Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-18997",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "DARMC OBJECTID: 18997",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18997",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18997.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 18997",
-            "uri": "https://pleiades.stoa.org/places/442847/darmc-location-18997"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
@@ -321,14 +237,10 @@
                     "timePeriod": "late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Venusia",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -336,6 +248,18 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2010-11-11T20:44:48Z",
@@ -354,16 +278,32 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "reference",
+                    "modified": "2018-02-25T21:11:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:11:42Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "venusia",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 45 C3 Venusia",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://latin.packhum.org/loc/978/1/250/2459-2466",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.104.4",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Venusia",
             "start": -330,
@@ -398,13 +338,13 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Venosa",
+            "accessURI": "https://en.wikipedia.org/wiki/Venosa",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Venosa",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "citationDetail": "Venosa",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Venosa.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -456,11 +396,101 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PCMD7AM7",
+            "citationDetail": "",
+            "formattedCitation": "<div class=\"csl-entry\">Marchi, M.L., and G. Sabbatini. <i>Venusia (IGM 187 I NO / I NE).</i> Forma Italiae 37. Florence: Leo Olschki, 1996.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "FormIt Venusia",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ETYN2598",
+            "citationDetail": "",
+            "formattedCitation": "<div class=\"csl-entry\">Colivicchi, Fabio, and Luigi M. Caliò, eds. <i>Local Cultures of South Italy and Sicily in the Late Republican Period: Between Hellenism and Rome</i>. Journal of Roman Archaeology 83. Portsmouth, R.I: Journal of Roman Archaeology, 2011.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Colivicchi 2011",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RSQYI7T8",
+            "citationDetail": "",
+            "formattedCitation": "<div class=\"csl-entry\">Jacobone, Nunzio. <i>Venusia: storia e topografia</i>. Trani: Vecchi e C, 1909.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Jacobone 1909",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2M4WY8VV",
+            "citationDetail": "",
+            "formattedCitation": "<div class=\"csl-entry\">Sirago, Vito Antonio. “Venusia al tempo di Augusto.” In <i>Bollettino storico della Basilicata, 2.1986</i>, 9–17, 1986.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Sirago 1986",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U75Y5PXQ",
+            "citationDetail": "",
+            "formattedCitation": "<div class=\"csl-entry\">Dileo, R. “Iscrizioni latine inedite di Venusia.” In <i>Epigraphica, 35.1973</i>, 142–152, Abb, 1973.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Dileo 1973",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/I3KQTHQW",
+            "citationDetail": "",
+            "formattedCitation": "<div class=\"csl-entry\">Marchi, Maria Luisa. “Le colonie di Luceria e Venusia. Dinamiche insediative, urbanizzazione e assetti agrari.” In <i>Roman Republican colonization : new perspectives from archaeology and ancient history</i>, 233–53. Roma: Palombi, 2014.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Marchi 2014",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WHMIDMFR",
+            "citationDetail": "",
+            "formattedCitation": "<div class=\"csl-entry\">Torelli, M. “Contributi al supplemento del ‘Corpus inscriptionum Latinarum IX. Venusia.’” In <i>Atti della Accademia nazionale dei Lincei. Classe di scienze morali, storiche e filologiche. Rendiconti, 8,29.1974</i>, 605–638, Taf.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Torelli 1974",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RDTF4DVE",
+            "citationDetail": "",
+            "formattedCitation": "<div class=\"csl-entry\">Chelotti, Marcella, and Unione accademica nazionale, eds. <i>Supplementa italica. 20: Nuova serie</i>. Roma: Quasar, 2003.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Supplementa italica, 20",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18997",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        15.8228635,
-        40.965053499999996
+        15.827406,
+        40.969056
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
