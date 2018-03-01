@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        24.79489,
-        35.056542,
-        24.79489,
-        35.056542
+        24.7921069,
+        35.0586177,
+        24.7937486,
+        35.0600175
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/589748"
@@ -54,23 +54,72 @@
         {
             "geometry": {
                 "coordinates": [
-                    24.79489,
-                    35.056542
+                    [
+                        [
+                            24.7924343,
+                            35.0586177
+                        ],
+                        [
+                            24.7922729,
+                            35.0586449
+                        ],
+                        [
+                            24.7921353,
+                            35.0587614
+                        ],
+                        [
+                            24.7921069,
+                            35.0589751
+                        ],
+                        [
+                            24.7922113,
+                            35.0592042
+                        ],
+                        [
+                            24.7932371,
+                            35.0600175
+                        ],
+                        [
+                            24.7937486,
+                            35.0598813
+                        ],
+                        [
+                            24.7936586,
+                            35.0592625
+                        ],
+                        [
+                            24.793604,
+                            35.0589815
+                        ],
+                        [
+                            24.7933501,
+                            35.0588391
+                        ],
+                        [
+                            24.7924343,
+                            35.0586177
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-1977",
+            "id": "osm-location-of-agia-triada",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/589672/darmc-location-1977",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/589672/osm-location-of-agia-triada",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 30 BC",
-                "title": "DARMC location 1977"
+                "snippet": "Settlement; 2000 BC - 1000 BC",
+                "title": "OSM location of Agia Triada"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "references + darmc",
+            "modified": "2018-02-27T17:21:31Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "TM GEO ID 33323",
             "modified": "2017-11-20T02:56:11Z",
@@ -106,82 +155,115 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "timePeriod": "2nd-millenium-bce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:46:37Z",
+            "contributors": [],
+            "created": "2017-11-20T02:57:51Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 1977",
-            "end": -30,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": -1000,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    24.79489,
-                    35.056542
+                    [
+                        [
+                            24.7924343,
+                            35.0586177
+                        ],
+                        [
+                            24.7922729,
+                            35.0586449
+                        ],
+                        [
+                            24.7921353,
+                            35.0587614
+                        ],
+                        [
+                            24.7921069,
+                            35.0589751
+                        ],
+                        [
+                            24.7922113,
+                            35.0592042
+                        ],
+                        [
+                            24.7932371,
+                            35.0600175
+                        ],
+                        [
+                            24.7937486,
+                            35.0598813
+                        ],
+                        [
+                            24.7936586,
+                            35.0592625
+                        ],
+                        [
+                            24.793604,
+                            35.0589815
+                        ],
+                        [
+                            24.7933501,
+                            35.0588391
+                        ],
+                        [
+                            24.7924343,
+                            35.0586177
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:47:06Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM Location",
+                    "modified": "2017-11-20T02:58:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:46:37Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-11-20T02:57:52Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-1977",
+            "id": "osm-location-of-agia-triada",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 1977",
+            "provenance": "OpenStreetMap (Way 59628857, version 4, osm:changeset=18934558, 2013-11-16T14:40:52Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/59628857",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "1977",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 1977.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 59628857",
+                    "formattedCitation": "osm:way=59628857",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 1977",
-            "uri": "https://pleiades.stoa.org/places/589672/darmc-location-1977"
+            "start": -2000,
+            "title": "OSM location of Agia Triada",
+            "uri": "https://pleiades.stoa.org/places/589672/osm-location-of-agia-triada"
         }
     ],
     "names": [],
@@ -229,11 +311,21 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "1977",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. See: 1977.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        24.79489,
-        35.056542
+        24.79299455814276,
+        35.05925712103546
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
