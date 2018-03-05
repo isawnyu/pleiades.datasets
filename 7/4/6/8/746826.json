@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.975917,
-        28.541115,
-        33.977634,
-        28.555651
+        33.9754652,
+        28.5554815,
+        33.976435,
+        28.5564129
     ],
     "connectsWith": [],
     "contributors": [
@@ -54,24 +54,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    33.977634,
-                    28.541115
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-18100",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/746826/darmc-location-18100",
-                "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 18100"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     33.975917,
                     28.555651
                 ],
@@ -86,9 +68,81 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            33.9762312,
+                            28.5554815
+                        ],
+                        [
+                            33.9759015,
+                            28.5556105
+                        ],
+                        [
+                            33.9758289,
+                            28.5556393
+                        ],
+                        [
+                            33.9755488,
+                            28.5557524
+                        ],
+                        [
+                            33.9754652,
+                            28.5558029
+                        ],
+                        [
+                            33.9754878,
+                            28.5558419
+                        ],
+                        [
+                            33.975819,
+                            28.5564129
+                        ],
+                        [
+                            33.9762118,
+                            28.5562196
+                        ],
+                        [
+                            33.976435,
+                            28.5561087
+                        ],
+                        [
+                            33.9762924,
+                            28.555581
+                        ],
+                        [
+                            33.9762312,
+                            28.5554815
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-st-catherines-monastery",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/746826/osm-location-of-st-catherines-monastery",
+                "location_precision": "precise",
+                "snippet": "Church-2; AD 640 - AD 2100",
+                "title": "OSM location of St Catherine's Monastery"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "remove duplicate darmc reference",
+            "modified": "2018-02-28T23:24:39Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "references + darmc",
+            "modified": "2018-02-28T23:24:11Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2017-12-17T05:23:57Z",
@@ -132,77 +186,6 @@
     ],
     "id": "746826",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:11:12Z",
-            "creators": [
-                {
-                    "name": "D.F. Graf",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18100",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    33.977634,
-                    28.541115
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:18:27Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:11:13Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-18100",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "DARMC OBJECTID: 18100",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18100",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18100.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 18100",
-            "uri": "https://pleiades.stoa.org/places/746826/darmc-location-18100"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
@@ -265,6 +248,122 @@
             "start": 300,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/746826/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "mediaeval-byzantine"
+                },
+                {
+                    "confidence": "confident",
+                    "timePeriod": "modern"
+                }
+            ],
+            "contributors": [],
+            "created": "2017-12-17T05:02:17Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "church-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            33.9762312,
+                            28.5554815
+                        ],
+                        [
+                            33.9759015,
+                            28.5556105
+                        ],
+                        [
+                            33.9758289,
+                            28.5556393
+                        ],
+                        [
+                            33.9755488,
+                            28.5557524
+                        ],
+                        [
+                            33.9754652,
+                            28.5558029
+                        ],
+                        [
+                            33.9754878,
+                            28.5558419
+                        ],
+                        [
+                            33.975819,
+                            28.5564129
+                        ],
+                        [
+                            33.9762118,
+                            28.5562196
+                        ],
+                        [
+                            33.976435,
+                            28.5561087
+                        ],
+                        [
+                            33.9762924,
+                            28.555581
+                        ],
+                        [
+                            33.9762312,
+                            28.5554815
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2017-12-17T05:03:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-12-17T05:02:19Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-st-catherines-monastery",
+            "locationType": [
+                "representative"
+            ],
+            "provenance": "OpenStreetMap (Way 115392340, version 13, osm:changeset=47104150, 2017-03-23T18:26:13Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/115392340",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 115392340",
+                    "formattedCitation": "osm:way=115392340",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 640,
+            "title": "OSM location of St Catherine's Monastery",
+            "uri": "https://pleiades.stoa.org/places/746826/osm-location-of-st-catherines-monastery"
         }
     ],
     "names": [
@@ -322,6 +421,59 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/746826/tou-batou"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "modern"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2017-12-17T05:24:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "name",
+                    "modified": "2017-12-17T05:24:47Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "name.2017-12-17.2522054010",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/350564/saint-catherine-s-monastery.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "formattedCitation": "GeoNames 350564",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Saint Catherine's Monastery",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/746826/name.2017-12-17.2522054010"
         }
     ],
     "placeTypes": [
@@ -412,8 +564,8 @@
         }
     ],
     "reprPoint": [
-        33.9767755,
-        28.548383
+        33.97592161331971,
+        28.555812404030732
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
