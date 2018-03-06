@@ -1,5 +1,9 @@
 # Pleiades gazetteer datasets
 
+Please report problems and make feature requests via [the main Pleiades Gazetteer Issue Tracker](https://github.com/isawnyu/pleiades-gazetteer/issues/).
+
+[![License: CC BY 3.0](https://licensebuttons.net/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/) Content is governed by the copyrights of the individual contributors responsible for its creation. Some rights are reserved. All content is distributed under the terms of a [Creative Commons Attribution license (cc-by)](https://creativecommons.org/licenses/by/3.0/).
+
 ## Overview
 
 This is a package of data derived from the _Pleiades_ gazetteer of ancient places. It is used for archival and redistribution purposes and is likely to be less up-to-date than the live data at https://pleiades.stoa.org.
