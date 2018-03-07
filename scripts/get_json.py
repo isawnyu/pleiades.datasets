@@ -27,7 +27,8 @@ OPTIONAL_ARGUMENTS = [
         'very verbose output (logging level == DEBUG)', False],
     ['-u', '--user_agent', 'Pleiades Playground 0.1', 'user agent for header',
         False],
-    ['-f', '--from', '', 'email address', False]
+    ['-f', '--from', '', 'email address', False],
+    ['-x', '--overwrite', False, 'parse dates in files instead of timestamps on files', False]
 ]
 POSITIONAL_ARGUMENTS = [
     # each row is a list with 3 elements: name, type, help
@@ -79,11 +80,22 @@ def main(**kwargs):
         path = '{}.json'.format(join(*parts))
         path = abspath(realpath(path))
         save = False
-        try:
-            file_modified = datetime.fromtimestamp(getmtime(path), timezone.utc)
-        except FileNotFoundError:
-            save = True
+        if kwargs['overwrite']:
+            try:
+                with open(path, 'r') as f:
+                    fp = json.load(f)
+            except FileNotFoundError
+                save = True
+            else:
+                del f
+                file_modified = sorted([parse_date(h['modified']) for h in fp['history']])[-1]
+                del fp
         else:
+            try:
+                file_modified = datetime.fromtimestamp(getmtime(path), timezone.utc)
+            except FileNotFoundError:
+                save = True
+        if not save:
             place_modified = sorted([parse_date(h['modified']) for h in p['history']])[-1]
             if file_modified < place_modified:
                 save = True
