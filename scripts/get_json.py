@@ -84,7 +84,7 @@ def main(**kwargs):
             try:
                 with open(path, 'r') as f:
                     fp = json.load(f)
-            except FileNotFoundError
+            except FileNotFoundError:
                 save = True
             else:
                 del f
