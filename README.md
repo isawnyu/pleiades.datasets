@@ -6,7 +6,7 @@ Please report problems and make feature requests via [the main Pleiades Gazettee
 
 ## Overview
 
-This is a package of data derived from the _Pleiades_ gazetteer of ancient places. It is used for archival and redistribution purposes and is likely to be less up-to-date than the live data at https://pleiades.stoa.org.
+This is a package of data derived from the _Pleiades_ gazetteer of ancient places. It is used for archival and redistribution purposes and is likely to be __less up-to-date than the live data at https://pleiades.stoa.org.__
 
 _Pleiades_ is a community-built gazetteer and graph of ancient places. It
 publishes authoritative information about ancient places and spaces,
@@ -22,6 +22,10 @@ contributions from any knowledgeable person and doing so in a context of
 pervasive peer review. _Pleiades_ welcomes your contribution, no matter how
 small, and we have a number of useful tasks suitable for volunteers of every
 interest.
+
+## Access and Archiving
+
+The latest versions of this package can be had by fork or download from the master branch at https://github.com/isawnyu/pleiades-datasets. [Numbered releases](https://github.com/isawnyu/pleiades-datasets/releases) are created periodically at GitHub. These are archived at zenodo.org using the DOI https://doi.org/10.5281/zenodo.1193921.
 
 ## Credits
 
