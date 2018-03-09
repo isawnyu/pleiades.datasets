@@ -39,9 +39,9 @@ POSITIONAL_ARGUMENTS = [
 def get_last_mod(p):
     dates = [parse_date(h['modified']) for h in p['history']]
     for loc in p['locations']:
-        dates.extend([parse_date(h['modified'] for h in loc['history'])])
+        dates.extend([parse_date(h['modified']) for h in loc['history']])
     for nam in p['names']:
-        dates.extend([parse_date(h['modified'] for h in nam['history'])])
+        dates.extend([parse_date(h['modified']) for h in nam['history']])
     # todo: connections once they're added to the JSON properly
     return sorted(dates)[-1]
 
