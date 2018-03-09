@@ -3,7 +3,7 @@
     "bbox": [
         21.616415,
         38.345792,
-        21.6256144,
+        21.63333,
         38.3521586
     ],
     "connectsWith": [
@@ -29,6 +29,12 @@
             "name": "Ryan Horne",
             "uri": "https://pleiades.stoa.org/author/rmhorne",
             "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "name": "G. Reger",
@@ -86,8 +92,26 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/540829/39a3c43c9-3923b13c33b93bb3b93ba",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; AD 1700 - AD 2100",
-                "title": "Κάτω Βασιλική"
+                "snippet": "Settlement; AD 1700 - AD 2100",
+                "title": "OSM location of modern Κάτω Βασιλική"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.63333,
+                    38.35
+                ],
+                "type": "Point"
+            },
+            "id": "kato-vasiliki",
+            "properties": {
+                "description": "Representative location based on Geonames.",
+                "link": "https://pleiades.stoa.org/places/540829/kato-vasiliki",
+                "location_precision": "precise",
+                "snippet": "Settlement; AD 1700 - AD 2100",
+                "title": "GeoNames location of Káto Vasilikí"
             },
             "type": "Feature"
         }
@@ -198,14 +222,14 @@
             "provenance": "DARMC OBJECTID: 12826",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "12826",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12826.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -216,7 +240,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "attestations": [
                 {
@@ -224,7 +248,14 @@
                     "timePeriod": "modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2013-04-22T19:38:00Z",
             "creators": [
                 {
@@ -238,8 +269,7 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -249,6 +279,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2018-02-15T03:40:27Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Initial revision",
                     "modified": "2013-04-22T19:38:26Z",
@@ -279,8 +314,88 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Κάτω Βασιλική",
+            "title": "OSM location of modern Κάτω Βασιλική",
             "uri": "https://pleiades.stoa.org/places/540829/39a3c43c9-3923b13c33b93bb3b93ba"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "modern"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2013-04-22T19:40:19Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
+                }
+            ],
+            "description": "Representative location based on Geonames.",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    21.63333,
+                    38.35
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2017-09-13T06:38:54Z",
+                    "modifiedBy": "rmhorne"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2013-04-26T13:37:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2013-04-22T19:40:26Z",
+                    "modifiedBy": "rmhorne"
+                }
+            ],
+            "id": "kato-vasiliki",
+            "locationType": [
+                "representative"
+            ],
+            "provenance": "GeoNames.org 260460: Káto Vasilikí",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/260460/kato-vasiliki.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "formattedCitation": "GeoNames.org 260460: Káto Vasilikí",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "GeoNames location of Káto Vasilikí",
+            "uri": "https://pleiades.stoa.org/places/540829/kato-vasiliki"
         }
     ],
     "names": [
@@ -472,8 +587,8 @@
         }
     ],
     "reprPoint": [
-        21.6210147,
-        38.348975300000006
+        21.625119800000004,
+        38.34931686666667
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
