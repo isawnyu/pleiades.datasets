@@ -28,11 +28,22 @@ OPTIONAL_ARGUMENTS = [
     ['-u', '--user_agent', 'Pleiades Playground 0.1', 'user agent for header',
         False],
     ['-f', '--from', '', 'email address', False],
-    ['-x', '--overwrite', False, 'parse dates in files instead of timestamps on files', False]
+    ['-x', '--overwrite', False,
+        'parse dates in files instead of timestamps on files', False]
 ]
 POSITIONAL_ARGUMENTS = [
     # each row is a list with 3 elements: name, type, help
 ]
+
+
+def get_last_mod(p):
+    dates = [parse_date(h['modified']) for h in p['history']]
+    for loc in p['locations']:
+        dates.extend([parse_date(h['modified'] for h in loc['history'])])
+    for nam in p['names']:
+        dates.extend([parse_date(h['modified'] for h in nam['history'])])
+    # todo: connections once they're added to the JSON properly
+    return sorted(dates)[-1]
 
 
 def main(**kwargs):
@@ -57,7 +68,7 @@ def main(**kwargs):
         r = requests.get(url, stream=True)
         with open(path, 'wb') as f:
             for chunk in r.iter_content(chunk_size=1024):
-                if chunk: # filter out keep-alive new chunks
+                if chunk:  # filter out keep-alive new chunks
                     f.write(chunk)
         print('downloaded {}'.format(path))
     else:
@@ -87,15 +98,16 @@ def main(**kwargs):
                 save = True
             else:
                 del f
-                file_modified = sorted([parse_date(h['modified']) for h in fp['history']])[-1]
+                file_modified = get_last_mod(fp)
                 del fp
         else:
             try:
-                file_modified = datetime.fromtimestamp(getmtime(path), timezone.utc)
+                file_modified = datetime.fromtimestamp(
+                    getmtime(path), timezone.utc)
             except FileNotFoundError:
                 save = True
         if not save:
-            place_modified = sorted([parse_date(h['modified']) for h in p['history']])[-1]
+            place_modified = get_last_mod(p)
             if file_modified < place_modified:
                 save = True
         if save:
