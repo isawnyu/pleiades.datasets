@@ -25,13 +25,17 @@ interest.
 
 ## Access and Archiving
 
-The latest versions of this package can be had by fork or download from the master branch at https://github.com/isawnyu/pleiades-datasets. [Numbered releases](https://github.com/isawnyu/pleiades-datasets/releases) are created periodically at GitHub. These are archived at zenodo.org using the DOI https://doi.org/10.5281/zenodo.1193921.
+The latest versions of this package can be had by fork or download from the master branch at https://github.com/isawnyu/pleiades-datasets. [Numbered releases](https://github.com/isawnyu/pleiades-datasets/releases) are created periodically at GitHub. These are archived at:
+
+ - zenodo.org using the DOI https://doi.org/10.5281/zenodo.1193921
+ - archive.nyu.edu using the URI http://hdl.handle.net/2451/34305
 
 ## Credits
 
 Pleiades is brought to you by:
 
-  * Our volunteer content contributors (see html/credits.html).
+  * Our volunteer content contributors (see rdf/authors.ttl for complete list 
+    and associated identifiers).
   * _Pleiades_ has received significant, periodic support from the [National 
     Endowment for the Humanities](https://www.neh.gov) since 2006. Grant numbers: HK-230973-15, 
     PA-51873-06, PX-50003-08, and PW-50557-10. Any views, findings, 
@@ -52,13 +56,11 @@ __directory: /json/__
 
 The __complete__ serialization of each published object in the _Pleiades_ database (i.e., every place, name, location, and connection resource) is written to [a single, large JSON file](http://atlantides.org/downloads/pleiades/json/) once daily. We periodically download this file and split it up into individual files, one for each place resource (together with its subordinate name, location, and connection resources). 
 
+Each file is named with the final, numeric portion of the place resource's Uniform Resource Identifier (URI), plus the filename extension ".json". So, for example, the URI for the Pleiades place resource describing Roman Heidelberg is https://pleiades.stoa.org/places/118731. The corresponding JSON file in this dataset is named "118731.json". 
+
+In order to avoid performance problems on operating systems that cannot handle large numbers of files in a single directory efficiently, the JSON files are distributed throughout a hierarchical directory structure using each of the first few digits in the base filename as a subdirectory. So, for the Heidelberg example, one would find the JSON file at the relative path ```json/1/1/8/7/118731.json```.
+
 NB: Ryan Baumann has created a script that converts the _Pleiades_ CSV files (q.v.) into GeoJSON files for redistribution, together with a handy JSON index of names. These can be found at https://github.com/ryanfb/pleiades-geojson.
-
-### Hypertext Markup Language (HTML)
-
-__directory: /html/__
-
-Copies of select pages from the site are periodically downloaded into this directory (e.g., the [credits page](https://pleiades.stoa.org/credits)).
 
 ### Comma-Separated Values (CSV)
 
