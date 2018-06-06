@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -5.0,
-        42.0,
-        -4.0,
-        43.0
+        -4.2345005,
+        42.8390976,
+        -4.2345005,
+        42.8390976
     ],
     "connectsWith": [],
     "contributors": [
@@ -44,38 +44,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -5.0,
-                            42.0
-                        ],
-                        [
-                            -5.0,
-                            43.0
-                        ],
-                        [
-                            -4.0,
-                            43.0
-                        ],
-                        [
-                            -4.0,
-                            42.0
-                        ],
-                        [
-                            -5.0,
-                            42.0
-                        ]
-                    ]
+                    -4.2345005,
+                    42.8390976
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-puente-de-la-perdiz",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/237841/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/237841/location-of-puente-de-la-perdiz",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Puente de la Perdiz"
             },
             "type": "Feature"
         }
@@ -101,92 +81,93 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-24T16:39:22Z",
+            "created": "2014-01-12T06:25:53Z",
             "creators": [
                 {
-                    "name": "E.W. Haley",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -5.0,
-                            42.0
-                        ],
-                        [
-                            -5.0,
-                            43.0
-                        ],
-                        [
-                            -4.0,
-                            43.0
-                        ],
-                        [
-                            -4.0,
-                            42.0
-                        ],
-                        [
-                            -5.0,
-                            42.0
-                        ]
-                    ]
+                    -4.2345005,
+                    42.8390976
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:25:35Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2018-05-25T12:13:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-01-12T06:26:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-01-12T06:25:59Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-puente-de-la-perdiz",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 24 G2 15",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 116825024, version 1, osm:changeset=8379920, 2011-06-08T14:05:08Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/116825024",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 116825024",
+                    "formattedCitation": "osm:way=116825024",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.pueblos-espana.org/castilla+y+leon/palencia/nestar/Puente+romano+de+la+Perdiz/",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "formattedCitation": "Puente romano de la Perdiz, NESTAR",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/237841/batlas-location"
+            "title": "OSM location of Puente de la Perdiz",
+            "uri": "https://pleiades.stoa.org/places/237841/location-of-puente-de-la-perdiz"
         }
     ],
     "names": [],
@@ -227,8 +208,8 @@
         }
     ],
     "reprPoint": [
-        -4.5,
-        42.5
+        -4.2345005,
+        42.8390976
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

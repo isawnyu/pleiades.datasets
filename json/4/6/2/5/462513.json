@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        13.6937879,
+        13.696138,
         37.983992,
         13.696369,
-        37.9878085
+        37.986401
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/462492"
+        "https://pleiades.stoa.org/places/462492",
+        "https://pleiades.stoa.org/places/462492",
+        "https://pleiades.stoa.org/places/233803923"
     ],
     "contributors": [
         {
@@ -63,7 +65,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 47 D3 Thermae Himeraeae",
-    "details": "The Barrington Atlas Directory notes: Termini Imerese",
+    "details": "<p>The Barrington Atlas Directory notes: Termini Imerese</p>",
     "features": [
         {
             "geometry": {
@@ -75,7 +77,7 @@
             },
             "id": "darmc-location-18940",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/462513/darmc-location-18940",
                 "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 640",
@@ -100,27 +102,19 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    13.6937879,
-                    37.9878085
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/462513/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "OSM location of Roman amphitheater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "adj ref type",
+            "modified": "2018-05-30T22:43:19Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "check in",
+            "modified": "2018-05-30T22:42:25Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2016-01-05T17:44:31Z",
@@ -195,7 +189,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 18940",
             "end": 640,
             "featureType": [
@@ -227,14 +221,14 @@
             "provenance": "DARMC OBJECTID: 18940",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "18940",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18940.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -316,90 +310,6 @@
             "start": -550,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/462513/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2014-02-09T05:13:05Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    13.6937879,
-                    37.9878085
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-01-07T16:59:22Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2014-02-09T05:13:52Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-02-09T05:13:10Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Node 1879336406, version 3, osm:changeset=20458801, 2014-02-09T05:12:45Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/1879336406",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 1879336406",
-                    "formattedCitation": "osm:node=1879336406",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://it.wikipedia.org/wiki/Anfiteatro_di_Termini_Imerese",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (Italian), Anfiteatro di Termini Imerese",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/462513/location-of-roman-amphitheater"
         }
     ],
     "names": [
@@ -609,11 +519,11 @@
                 {
                     "accessURI": "https://it.wikipedia.org/wiki/Termini_Imerese",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (Italian), Termini Imerese",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Termini Imerese",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Termini Imerese.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (Italian)",
                     "type": "seeFurther"
                 },
                 {
@@ -790,8 +700,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "amphitheatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 47 D3 Thermae Himeraeae",
     "references": [
@@ -826,13 +735,13 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://it.wikipedia.org/wiki/Termini_Imerese",
+            "accessURI": "https://it.wikipedia.org/wiki/Termini_Imerese",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Termini Imerese",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Termini Imerese",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Termini Imerese.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         },
         {
@@ -846,19 +755,39 @@
             "type": "citesAsEvidence"
         },
         {
-            "accessURI": "http://it.wikipedia.org/wiki/Anfiteatro_di_Termini_Imerese",
+            "accessURI": "https://it.wikipedia.org/wiki/Anfiteatro_di_Termini_Imerese",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Anfiteatro di Termini Imerese",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Anfiteatro di Termini Imerese.",
+            "otherIdentifier": " ",
+            "shortTitle": "Wikipedia (Italian)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.trismegistos.org/place/22348",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "formattedCitation": "Wikipedia, Anfiteatro di Termini Imerese",
+            "formattedCitation": "TM GEO ID 22348",
+            "otherIdentifier": " ",
+            "shortTitle": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://arachne.uni-koeln.de/entity/entity.php?param=4021",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "",
+            "formattedCitation": "Arachne 8005425: Thermae Himeraeae",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        13.695431633333333,
-        37.986067166666665
+        13.696253500000001,
+        37.9851965
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
