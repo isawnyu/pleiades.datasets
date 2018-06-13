@@ -1,20 +1,30 @@
 {
     "@type": "Place",
     "bbox": [
-        8.2133218,
-        47.4767142,
+        8.220204,
+        47.478494,
         8.220204,
         47.478494
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/82696741"
+    ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
         {
             "name": "DARMC",
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         },
         {
             "homepage": null,
@@ -24,24 +34,22 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
         }
     ],
-    "created": "2010-06-23T12:39:05Z",
+    "created": "2018-06-07T20:56:00Z",
     "creators": [
         {
             "name": "G.D. Woolf",
@@ -61,34 +69,21 @@
             },
             "id": "darmc-location-8429",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/177661/darmc-location-8429",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
                 "title": "DARMC location 8429"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    8.2133218,
-                    47.4767142
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/177661/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "location of Roman amphitheater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-07T20:56:03Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "added reference",
             "modified": "2013-07-04T04:04:43Z",
@@ -169,7 +164,7 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 8429",
             "end": 640,
             "featureType": [
@@ -206,89 +201,20 @@
             "provenance": "DARMC OBJECTID: 8429",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "8429",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 8429.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
             "title": "DARMC location 8429",
             "uri": "https://pleiades.stoa.org/places/177661/darmc-location-8429"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-03-12T03:18:30Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    8.2133218,
-                    47.4767142
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2013-03-12T03:19:01Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-03-12T03:18:34Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Node 317475484, version 1, osm:changeset=278114, 2008-12-08T22:12:39Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/317475484",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 317475484",
-                    "formattedCitation": "osm:node=317475484",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/177661/location-of-roman-amphitheater"
         }
     ],
     "names": [
@@ -404,7 +330,6 @@
         }
     ],
     "placeTypes": [
-        "amphitheatre",
         "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 18 F2 Vindonissa",
@@ -460,13 +385,13 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Vindonissa",
+            "accessURI": "https://en.wikipedia.org/wiki/Vindonissa",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Vindonissa",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Vindonissa",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Vindonissa.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -478,11 +403,21 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://topostext.org/place/475082UVin",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Vindonissa (Helvetia)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        8.216762899999999,
-        47.4776041
+        8.220204,
+        47.478494
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,22 +1,33 @@
 {
     "@type": "Place",
     "bbox": [
-        12.6662021,
-        42.9883445,
-        12.6729529,
-        42.9957909
+        12.671828,
+        42.989813,
+        12.671901,
+        42.990904
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/856514595"
+        "https://pleiades.stoa.org/places/856514595",
+        "https://pleiades.stoa.org/places/554161962",
+        "https://pleiades.stoa.org/places/251063522",
+        "https://pleiades.stoa.org/places/820236688"
     ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
         {
             "name": "DARMC",
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         },
         {
             "homepage": null,
@@ -26,24 +37,22 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
         }
     ],
-    "created": "2010-11-12T15:28:10Z",
+    "created": "2018-06-07T23:15:52Z",
     "creators": [
         {
             "name": "W.V. Harris",
@@ -63,7 +72,7 @@
             },
             "id": "darmc-location-18037",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/413170/darmc-location-18037",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
@@ -88,63 +97,19 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    12.6662021,
-                    42.9957909
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/413170/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "OSM location of Roman amphitheater"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    12.6729529,
-                    42.9883445
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-porta-consolare",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/413170/location-of-porta-consolare",
-                "location_precision": "precise",
-                "snippet": "City-gate, ; 30 BC - AD 300",
-                "title": "OSM location of Porta Consolare"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    12.6700472,
-                    42.9916309
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-porta-venere",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/413170/location-of-porta-venere",
-                "location_precision": "precise",
-                "snippet": "City-gate, ; 30 BC - AD 300",
-                "title": "OSM location of Porta Venere"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-07T23:15:56Z",
+            "modifiedBy": "admin"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2018-06-07T23:15:51Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "added reference",
             "modified": "2016-07-26T17:19:21Z",
@@ -225,7 +190,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 18037",
             "end": 640,
             "featureType": [
@@ -257,14 +222,14 @@
             "provenance": "DARMC OBJECTID: 18037",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "18037",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18037.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -342,231 +307,6 @@
             "start": -330,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/413170/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-07-26T03:48:55Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.6662021,
-                    42.9957909
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-26T17:16:31Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-07-26T03:49:23Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-26T03:48:59Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 225411019, version 1, osm:changeset=16523146, 2013-06-12T12:16:47Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/225411019",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 225411019",
-                    "formattedCitation": "osm:way=225411019",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/413170/location-of-roman-amphitheater"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-07-26T03:51:59Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "city-gate",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.6729529,
-                    42.9883445
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-26T17:17:08Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-07-26T03:52:35Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-26T03:52:03Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-porta-consolare",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 226703040, version 1, osm:changeset=16640882, 2013-06-21T11:17:26Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/226703040",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 226703040",
-                    "formattedCitation": "osm:way=226703040",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Porta Consolare",
-            "uri": "https://pleiades.stoa.org/places/413170/location-of-porta-consolare"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-07-26T03:56:58Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "city-gate",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.6700472,
-                    42.9916309
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-26T17:17:40Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-07-26T03:57:30Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-26T03:57:00Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-porta-venere",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 225785107, version 1, osm:changeset=16562047, 2013-06-15T11:57:43Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/225785107",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 225785107",
-                    "formattedCitation": "osm:way=225785107",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Porta Venere",
-            "uri": "https://pleiades.stoa.org/places/413170/location-of-porta-venere"
         }
     ],
     "names": [
@@ -659,9 +399,7 @@
         }
     ],
     "placeTypes": [
-        "city-gate",
-        "settlement",
-        "amphitheatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 42 D3 Hispellum",
     "references": [
@@ -686,13 +424,13 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Spello",
+            "accessURI": "https://en.wikipedia.org/wiki/Spello",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Spello",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Spello",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Spello.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -794,11 +532,21 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/430127UHis",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Hispellum (Umbria)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "http://atlantides.org/bibliography/",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        12.67058624,
-        42.991296659999996
+        12.6718645,
+        42.9903585
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

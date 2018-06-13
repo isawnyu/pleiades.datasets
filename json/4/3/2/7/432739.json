@@ -3,11 +3,12 @@
     "bbox": [
         14.132073,
         41.199929,
-        14.1324935,
-        41.2001827
+        14.132176,
+        41.199993
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/93042695"
+        "https://pleiades.stoa.org/places/93042695",
+        "https://pleiades.stoa.org/places/237635766"
     ],
     "contributors": [
         {
@@ -15,20 +16,26 @@
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -43,7 +50,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-11-11T23:23:52Z",
+    "created": "2018-06-07T23:08:55Z",
     "creators": [
         {
             "name": "N. Purcell",
@@ -63,7 +70,7 @@
             },
             "id": "darmc-location-7012",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/432739/darmc-location-7012",
                 "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 640",
@@ -88,27 +95,14 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    14.1324935,
-                    41.2001827
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-theater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/432739/location-of-roman-theater",
-                "location_precision": "precise",
-                "snippet": "Theatre, ; 30 BC - AD 300",
-                "title": "location of Roman theater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-07T23:08:58Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "references",
             "modified": "2017-11-05T01:06:06Z",
@@ -203,7 +197,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 7012",
             "end": 640,
             "featureType": [
@@ -319,100 +313,6 @@
             "start": -550,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/432739/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-06-30T04:12:48Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "theatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    14.1324935,
-                    41.2001827
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added references",
-                    "modified": "2014-02-09T04:13:14Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-06-30T04:13:20Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-06-30T04:12:50Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-theater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 228024024, version 1, osm:changeset=16760184, 2013-06-30T04:12:18Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/228024024",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 228024024",
-                    "formattedCitation": "osm:way=228024024",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://www.theatrum.de/543.html",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Theatrum.de, 543",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "http://cir.campania.beniculturali.it/archeocales/itinerari-tematici/schede/teatro",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Cales Teatro romano",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "location of Roman theater",
-            "uri": "https://pleiades.stoa.org/places/432739/location-of-roman-theater"
         }
     ],
     "names": [
@@ -485,8 +385,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "theatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 44 F3 Cales",
     "references": [
@@ -521,13 +420,13 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Cales",
+            "accessURI": "https://en.wikipedia.org/wiki/Cales",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Cales",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Cales",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Cales.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -639,11 +538,21 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/412141UCal",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Cales (Campania)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "http://atlantides.org/bibliography/",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        14.1322475,
-        41.2000349
+        14.1321245,
+        41.199961
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

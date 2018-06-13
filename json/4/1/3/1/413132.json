@@ -1,28 +1,26 @@
 {
     "@type": "Place",
     "bbox": [
-        12.1309826,
+        12.132177,
         42.48859,
         12.132177,
-        42.4887038
+        42.48859
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/580975875"
+        "https://pleiades.stoa.org/places/580975875",
+        "https://pleiades.stoa.org/places/412987",
+        "https://pleiades.stoa.org/places/455441008"
     ],
     "contributors": [
         {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
             "name": "DARMC",
             "username": null
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -32,12 +30,22 @@
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         }
     ],
-    "created": "2010-11-12T15:27:25Z",
+    "created": "2018-06-08T10:49:49Z",
     "creators": [
         {
             "name": "W.V. Harris",
@@ -57,34 +65,21 @@
             },
             "id": "darmc-location-18434",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/413132/darmc-location-18434",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
                 "title": "DARMC location 18434"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    12.1309826,
-                    42.4887038
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-theater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/413132/location-of-roman-theater",
-                "location_precision": "precise",
-                "snippet": "Theatre, ; 330 BC - AD 300",
-                "title": "location of Roman theater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-08T10:49:54Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "added reference",
             "modified": "2017-01-15T02:47:22Z",
@@ -180,7 +175,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 18434",
             "end": 640,
             "featureType": [
@@ -212,93 +207,20 @@
             "provenance": "DARMC OBJECTID: 18434",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "18434",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18434.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
             "title": "DARMC location 18434",
             "uri": "https://pleiades.stoa.org/places/413132/darmc-location-18434"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-11-27T02:59:49Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "theatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.1309826,
-                    42.4887038
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2013-11-27T03:02:35Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-11-27T02:59:51Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-theater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 248609705, version 1, osm:changeset=19137808, 2013-11-27T02:57:07Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/248609705",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 248609705",
-                    "formattedCitation": "osm:way=248609705",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "location of Roman theater",
-            "uri": "https://pleiades.stoa.org/places/413132/location-of-roman-theater"
         }
     ],
     "names": [
@@ -367,8 +289,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "theatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 42 C4 Ferentium",
     "references": [
@@ -413,13 +334,13 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://it.wikipedia.org/wiki/Ferento",
+            "accessURI": "https://it.wikipedia.org/wiki/Ferento",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Ferento",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Ferento",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Ferento.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         },
         {
@@ -501,11 +422,21 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/425121UFer",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Ferentium (Italy)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "http://atlantides.org/bibliography/",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        12.1315798,
-        42.488646900000006
+        12.132177,
+        42.48859
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

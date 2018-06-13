@@ -6,35 +6,23 @@
         34.894124,
         31.62077
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/52124866"
+    ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
-        },
-        {
-            "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
-            "name": "Adam Prins",
-            "uri": "https://pleiades.stoa.org/author/adamp",
-            "username": "adamp"
-        },
-        {
-            "name": "Jen Thum",
-            "username": null
-        },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "Mark Depauw",
+            "username": null
         },
         {
             "homepage": null,
@@ -43,7 +31,29 @@
             "username": "thomase"
         },
         {
-            "name": "DARMC",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "homepage": null,
+            "name": "Adam Prins",
+            "uri": "https://pleiades.stoa.org/author/adamp",
+            "username": "adamp"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "name": "Jen Thum",
             "username": null
         },
         {
@@ -51,15 +61,13 @@
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "Mark Depauw",
-            "username": null
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
         }
     ],
-    "created": "2009-09-17T12:31:49Z",
+    "created": "2018-06-07T23:53:47Z",
     "creators": [
         {
             "name": "B. Isaac",
@@ -79,7 +87,7 @@
             },
             "id": "darmc-location-6362",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/687854/darmc-location-6362",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
@@ -104,27 +112,19 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    34.8937367,
-                    31.6084511
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/687854/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "location of Roman amphitheater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-07T23:53:50Z",
+            "modifiedBy": "admin"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2018-06-07T23:53:45Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "edited description; added references",
             "modified": "2013-06-17T19:46:00Z",
@@ -191,7 +191,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 6362",
             "end": 640,
             "featureType": [
@@ -223,14 +223,14 @@
             "provenance": "DARMC OBJECTID: 6362",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "6362",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6362.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -304,90 +304,6 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/687854/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-06-17T19:43:23Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    34.8937367,
-                    31.6084511
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added reference",
-                    "modified": "2014-01-18T17:10:40Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-06-17T19:43:53Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-06-17T19:43:26Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 149788063, version 1, osm:changeset=10647432, 2012-02-10T21:09:22Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/149788063",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 149788063",
-                    "formattedCitation": "osm:way=149788063",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://fr.wikipedia.org/wiki/Eleutheropolis",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Eleutheropolis",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/687854/location-of-roman-amphitheater"
         }
     ],
     "names": [
@@ -516,8 +432,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "amphitheatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 70 F2 Beth Govrin/Eleutheropolis",
     "references": [
@@ -562,19 +477,29 @@
             "type": "seeAlso"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Eleutheropolis",
+            "accessURI": "https://en.wikipedia.org/wiki/Eleutheropolis",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Eleutheropolis",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Eleutheropolis",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Eleutheropolis.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/316348UEle",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Eleutheropolis (Palestine)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        34.891944566666666,
-        31.6123197
+        34.8910485,
+        31.614254000000003
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

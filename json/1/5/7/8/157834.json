@@ -1,20 +1,30 @@
 {
     "@type": "Place",
     "bbox": [
-        7.2752435,
+        7.275363,
         43.718954,
         7.276296,
         43.719991
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/43994933"
+    ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
         {
             "name": "DARMC",
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         },
         {
             "homepage": null,
@@ -24,24 +34,22 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
         }
     ],
-    "created": "2010-06-22T18:43:17Z",
+    "created": "2018-06-07T23:03:37Z",
     "creators": [
         {
             "name": "S. Loseby",
@@ -65,7 +73,7 @@
             },
             "id": "darmc-location-5643",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/157834/darmc-location-5643",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
@@ -90,27 +98,19 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    7.2752435,
-                    43.7196728
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Representative location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/157834/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "OSM location of Roman amphitheater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-07T23:03:40Z",
+            "modifiedBy": "admin"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2018-06-07T23:03:35Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "edited references",
             "modified": "2016-07-26T17:27:13Z",
@@ -205,7 +205,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 5643",
             "end": 640,
             "featureType": [
@@ -242,14 +242,14 @@
             "provenance": "DARMC OBJECTID: 5643",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "5643",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 5643.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -327,101 +327,6 @@
             "start": -330,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/157834/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-07-03T14:34:21Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Representative location based on OpenStreetMap.",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    7.2752435,
-                    43.7196728
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-26T17:32:56Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2016-06-07T23:10:18Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added reference",
-                    "modified": "2014-01-18T06:51:37Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-07-03T14:34:57Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-03T14:34:26Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 140009090, version 2, osm:changeset=15140092, 2013-02-23T19:24:48Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/140009090",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 140009090",
-                    "formattedCitation": "osm:way=140009090",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://fr.wikipedia.org/wiki/Ar%C3%A8nes_de_Cimiez",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (French), Arènes de Cimiez",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/157834/location-of-roman-amphitheater"
         }
     ],
     "names": [
@@ -565,8 +470,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "amphitheatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 16 D2 Cemenelum",
     "references": [
@@ -631,13 +535,13 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Cimiez",
+            "accessURI": "https://en.wikipedia.org/wiki/Cimiez",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Cimiez",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Cimiez",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Cimiez.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -719,11 +623,21 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/437073UCem",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Cemenelum (Gallia)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "http://atlantides.org/bibliography/",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        7.275634166666667,
-        43.719539266666665
+        7.2758295,
+        43.719472499999995
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

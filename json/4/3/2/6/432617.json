@@ -3,18 +3,28 @@
     "bbox": [
         14.592313,
         40.961516,
-        14.6089428,
+        14.608472,
         40.968592
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/395695982"
+    ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
         {
             "name": "DARMC",
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         },
         {
             "homepage": null,
@@ -24,24 +34,22 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
         }
     ],
-    "created": "2010-11-11T23:22:10Z",
+    "created": "2018-06-08T11:33:44Z",
     "creators": [
         {
             "name": "N. Purcell",
@@ -61,7 +69,7 @@
             },
             "id": "darmc-location-18141",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/432617/darmc-location-18141",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
@@ -86,27 +94,19 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    14.6089428,
-                    40.9619663
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Representative location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/432617/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre; 30 BC - AD 300",
-                "title": "OSM location of Roman amphitheater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-08T11:33:47Z",
+            "modifiedBy": "admin"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2018-06-08T11:33:42Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "Edited",
             "modified": "2016-07-25T04:43:45Z",
@@ -182,7 +182,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 18141",
             "end": 640,
             "featureType": [
@@ -294,134 +294,6 @@
             "start": -330,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/432617/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-06-30T03:35:01Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Representative location based on OpenStreetMap.",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre"
-            ],
-            "geometry": {
-                "coordinates": [
-                    14.6089428,
-                    40.9619663
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "reference",
-                    "modified": "2018-04-06T01:44:25Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-25T04:44:54Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added reference",
-                    "modified": "2014-06-19T23:19:52Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2014-02-09T23:45:08Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-06-30T03:35:31Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-06-30T03:35:05Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 228021739, version 1, osm:changeset=16760060, 2013-06-30T03:34:28Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/228021739",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 228021739",
-                    "formattedCitation": "osm:way=228021739",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://www.amphi-theatrum.de/1461.html",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "amphi-theatrum.de, 1461",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://atlantides.org/bibliography/",
-                    "citationDetail": "",
-                    "formattedCitation": "CIL 10, 1211",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "http://www.incampania.com/beniculturali.cfm?s=5&Menu_ID=200&Sub_ID=203&Info_ID=4366",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Anfiteatro di Abella",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "https://it.wikipedia.org/wiki/Anfiteatro_romano_di_Avella",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
-                    "citationDetail": "Anfiteatro romano di Avella",
-                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
-                    "otherIdentifier": "",
-                    "shortTitle": "Wikipedia (Italian)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/432617/location-of-roman-amphitheater"
         }
     ],
     "names": [
@@ -490,8 +362,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "amphitheatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 44 G4 Abella",
     "references": [
@@ -554,11 +425,21 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/410146UAbe",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Abella (Campania)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        14.603242600000002,
-        40.96402476666667
+        14.600392500000002,
+        40.965054
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,22 +1,32 @@
 {
     "@type": "Place",
     "bbox": [
-        -2.4411523,
-        50.7076292,
+        -2.440264,
+        50.708019,
         -2.434066,
-        50.7175013
+        50.71055
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/232755444"
+        "https://pleiades.stoa.org/places/95537454",
+        "https://pleiades.stoa.org/places/232755444",
+        "https://pleiades.stoa.org/places/95537452"
     ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
         {
             "name": "DARMC",
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         },
         {
             "homepage": null,
@@ -26,9 +36,13 @@
         },
         {
             "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "name": "R. Warner",
@@ -36,18 +50,12 @@
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
         }
     ],
-    "created": "2009-10-30T22:36:23Z",
+    "created": "2018-06-07T19:44:45Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
@@ -67,7 +75,7 @@
             },
             "id": "darmc-location-20222",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/79431/darmc-location-20222",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
@@ -92,45 +100,14 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -2.4402608,
-                    50.7076292
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Representative location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/79431/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "OSM location of Roman amphitheater"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -2.4411523,
-                    50.7175013
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-town-house-dorchester",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/79431/location-of-roman-town-house-dorchester",
-                "location_precision": "precise",
-                "snippet": "Townhouse, ; 30 BC - AD 300",
-                "title": "location of Roman Town House, Dorchester"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-07T19:44:48Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "added reference",
             "modified": "2017-04-06T18:16:07Z",
@@ -202,7 +179,7 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 20222",
             "end": 640,
             "featureType": [
@@ -234,14 +211,14 @@
             "provenance": "DARMC OBJECTID: 20222",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick (ed.), Digital Atlas of Roman and Medieval Civilizations",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "20222",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20222.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -315,169 +292,6 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/79431/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2014-01-18T19:21:44Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Representative location based on OpenStreetMap.",
-            "details": "<p>A Neolithic henge monument that was repurposed as a Roman amphitheater ca. AD 100.</p>",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    -2.4402608,
-                    50.7076292
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-06-07T23:01:21Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2014-01-18T19:24:45Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-01-18T19:21:53Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 231784357, version 3, osm:changeset=20072169, 2014-01-18T19:16:23Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/231784357",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 231784357",
-                    "formattedCitation": "osm:way=231784357",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://en.wikipedia.org/wiki/Maumbury_Rings",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Maumbury Rings",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/79431/location-of-roman-amphitheater"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2014-01-18T19:27:41Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "townhouse",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    -2.4411523,
-                    50.7175013
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2014-01-18T19:29:00Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-01-18T19:27:45Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-town-house-dorchester",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Node 2425177590, version 3, osm:changeset=20072384, 2014-01-18T19:27:10Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/2425177590",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 2425177590",
-                    "formattedCitation": "osm:node=2425177590",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://en.wikipedia.org/wiki/Roman_Town_House,_Dorchester",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Roman Town House, Dorchester",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "location of Roman Town House, Dorchester",
-            "uri": "https://pleiades.stoa.org/places/79431/location-of-roman-town-house-dorchester"
         }
     ],
     "names": [
@@ -609,9 +423,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "amphitheatre",
-        "townhouse"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 8 E4 Durno(no)varia",
     "references": [
@@ -638,11 +450,11 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Durnovaria",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Durnovaria",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Durnovaria",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Durnovaria.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -684,11 +496,21 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/507000UDur",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Durnovaria/Durotriges (Britannia)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        -2.438935775,
-        50.710924874999996
+        -2.4371650000000002,
+        50.709284499999995
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

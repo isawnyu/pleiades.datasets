@@ -2,21 +2,31 @@
     "@type": "Place",
     "bbox": [
         20.950753,
-        32.7034218,
-        20.9601802,
+        32.708144,
+        20.950756,
         32.70947
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/375997"
+        "https://pleiades.stoa.org/places/375997",
+        "https://pleiades.stoa.org/places/490374098",
+        "https://pleiades.stoa.org/places/885142066"
     ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
         {
             "name": "DARMC",
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         },
         {
             "homepage": null,
@@ -26,30 +36,28 @@
         },
         {
             "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
             "name": "Ryan Horne",
             "uri": "https://pleiades.stoa.org/author/rmhorne",
             "username": "rmhorne"
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
         }
     ],
-    "created": "2011-01-08T14:24:15Z",
+    "created": "2018-06-08T10:01:23Z",
     "creators": [
         {
             "name": "D.J. Mattingly",
@@ -69,7 +77,7 @@
             },
             "id": "darmc-location-5613",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/373879/darmc-location-5613",
                 "location_precision": "precise",
                 "snippet": "Unknown; 750 BC - AD 640",
@@ -94,27 +102,19 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    20.9601802,
-                    32.7034218
-                ],
-                "type": "Point"
-            },
-            "id": "osm-location-of-hippodrome",
-            "properties": {
-                "description": "Representative location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/373879/osm-location-of-hippodrome",
-                "location_precision": "precise",
-                "snippet": "Circus; 30 BC - AD 300",
-                "title": "OSM location of hippodrome"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-08T10:01:26Z",
+            "modifiedBy": "admin"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2018-06-08T10:01:19Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "Edited",
             "modified": "2013-07-09T02:59:56Z",
@@ -203,7 +203,7 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 5613",
             "end": 640,
             "featureType": [
@@ -235,14 +235,14 @@
             "provenance": "DARMC OBJECTID: 5613",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "5613",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 5613.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -328,86 +328,6 @@
             "start": -750,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/373879/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Ryan Horne",
-                    "uri": "https://pleiades.stoa.org/author/rmhorne",
-                    "username": "rmhorne"
-                }
-            ],
-            "created": "2014-11-18T18:33:00Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Representative location based on OpenStreetMap.",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "circus"
-            ],
-            "geometry": {
-                "coordinates": [
-                    20.9601802,
-                    32.7034218
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2017-09-13T06:02:22Z",
-                    "modifiedBy": "rmhorne"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2014-11-18T18:35:05Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-11-18T18:33:02Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "osm-location-of-hippodrome",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Node 3194252527, version 1, osm:changeset=26870480, 2014-11-18T18:32:36Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/3194252527",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 3194252527",
-                    "formattedCitation": "osm:node=3194252527",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of hippodrome",
-            "uri": "https://pleiades.stoa.org/places/373879/osm-location-of-hippodrome"
         }
     ],
     "names": [
@@ -569,9 +489,7 @@
         }
     ],
     "placeTypes": [
-        "circus",
         "settlement",
-        "amphitheatre",
         "port"
     ],
     "provenance": "Barrington Atlas: BAtlas 38 B1 Ptolemais/Barkes Limen",
@@ -617,13 +535,13 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Ptolemais,_Cyrenaica",
+            "accessURI": "https://en.wikipedia.org/wiki/Ptolemais,_Cyrenaica",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Ptolemais, Cyrenaica",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Ptolemais, Cyrenaica",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Ptolemais, Cyrenaica.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -645,11 +563,21 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/327210UPto",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Ptolemais (Libya)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        20.9538964,
-        32.707011933333334
+        20.9507545,
+        32.708807
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

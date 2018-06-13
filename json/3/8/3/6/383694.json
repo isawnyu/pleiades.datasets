@@ -2,27 +2,25 @@
     "@type": "Place",
     "bbox": [
         8.857185,
-        44.7063357,
-        8.8675522,
+        44.7072204,
+        8.8649342,
         44.722563
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/788760849"
+        "https://pleiades.stoa.org/places/788760849",
+        "https://pleiades.stoa.org/places/533171569",
+        "https://pleiades.stoa.org/places/608454005"
     ],
     "contributors": [
         {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
             "name": "DARMC",
             "username": null
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -32,12 +30,22 @@
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         }
     ],
-    "created": "2010-11-15T17:57:24Z",
+    "created": "2018-06-08T00:36:25Z",
     "creators": [
         {
             "name": "M. Pearce",
@@ -61,7 +69,7 @@
             },
             "id": "darmc-location-6694",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/383694/darmc-location-6694",
                 "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 640",
@@ -86,45 +94,14 @@
                 "title": "OSM location of archaeological area of Libarna"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    8.8675522,
-                    44.7063357
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/383694/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "OSM location of Roman amphitheater"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    8.8649183,
-                    44.7071097
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-theater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/383694/location-of-roman-theater",
-                "location_precision": "precise",
-                "snippet": "Theatre, ; 30 BC - AD 300",
-                "title": "OSM location of Roman theater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modified": "2018-06-08T00:36:29Z",
+            "modifiedBy": "admin"
+        },
         {
             "comment": "Edited",
             "modified": "2017-05-20T01:06:06Z",
@@ -213,7 +190,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 6694",
             "end": 640,
             "featureType": [
@@ -245,14 +222,14 @@
             "provenance": "DARMC OBJECTID: 6694",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "6694",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6694.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -346,156 +323,6 @@
             "start": -550,
             "title": "OSM location of archaeological area of Libarna",
             "uri": "https://pleiades.stoa.org/places/383694/location-of-archaeological-area-of-libarna"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-06-30T02:34:28Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    8.8675522,
-                    44.7063357
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-10-30T17:09:24Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-06-30T02:35:09Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-06-30T02:34:33Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 228019818, version 1, osm:changeset=16759924, 2013-06-30T02:30:36Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/228019818",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 228019818",
-                    "formattedCitation": "osm:way=228019818",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/383694/location-of-roman-amphitheater"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-06-30T02:36:35Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "theatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    8.8649183,
-                    44.7071097
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-10-30T17:18:15Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-06-30T02:37:07Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-06-30T02:36:37Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-theater",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 228019817, version 1, osm:changeset=16759924, 2013-06-30T02:30:36Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/228019817",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 228019817",
-                    "formattedCitation": "osm:way=228019817",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman theater",
-            "uri": "https://pleiades.stoa.org/places/383694/location-of-roman-theater"
         }
     ],
     "names": [
@@ -596,9 +423,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "amphitheatre",
-        "theatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 39 D4 Libarna",
     "references": [
@@ -633,13 +458,13 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://it.wikipedia.org/wiki/Libarna",
+            "accessURI": "https://it.wikipedia.org/wiki/Libarna",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Libarna",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Libarna",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Libarna.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         },
         {
@@ -731,11 +556,21 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/44789ULib",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "citationDetail": "Libarna (Italy)",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "http://atlantides.org/bibliography/",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        8.863647425,
-        44.71080719999999
+        8.8610596,
+        44.714891699999995
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
