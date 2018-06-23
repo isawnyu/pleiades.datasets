@@ -1,13 +1,14 @@
 {
     "@type": "Place",
     "bbox": [
-        -5.5,
-        35.5,
-        -5.0,
-        36.0
+        -5.4129554,
+        35.8989516,
+        -5.4129554,
+        35.8989516
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/256198"
+        "https://pleiades.stoa.org/places/256198",
+        "https://pleiades.stoa.org/places/275703"
     ],
     "contributors": [
         {
@@ -44,49 +45,34 @@
             "username": null
         }
     ],
-    "description": "Jebel Musa is a mountain on the African side of the Strait of Gibraltar that is usually identified as the southern Pillar of Hercules.",
+    "description": "The northern peaks of Jebel Musa, a mountain on the African side of the Strait of Gibraltar that is usually identified as the southern Pillar of Hercules. They share toponomy with, and lie to the west of, the ancient settlement of Septem (modern Ceuta). ",
     "details": "<p>The Barrington Atlas Directory notes: Jebel Musa</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -5.5,
-                            35.5
-                        ],
-                        [
-                            -5.5,
-                            36.0
-                        ],
-                        [
-                            -5.0,
-                            36.0
-                        ],
-                        [
-                            -5.0,
-                            35.5
-                        ],
-                        [
-                            -5.5,
-                            35.5
-                        ]
-                    ]
+                    -5.4129554,
+                    35.8989516
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-jebel-musa",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/275704/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/275704/osm-location-of-jebel-musa",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "OSM location of Jebel Musa"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title, summary",
+            "modified": "2018-06-22T11:44:48Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "summary",
             "modified": "2018-06-18T15:04:32Z",
@@ -117,87 +103,71 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "timePeriod": "modern"
                 }
             ],
-            "created": "2010-09-24T20:03:51Z",
+            "contributors": [],
+            "created": "2018-06-18T15:02:27Z",
             "creators": [
                 {
-                    "name": "M. Euzennat",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -5.5,
-                            35.5
-                        ],
-                        [
-                            -5.5,
-                            36.0
-                        ],
-                        [
-                            -5.0,
-                            36.0
-                        ],
-                        [
-                            -5.0,
-                            35.5
-                        ],
-                        [
-                            -5.5,
-                            35.5
-                        ]
-                    ]
+                    -5.4129554,
+                    35.8989516
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:58:06Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2018-06-18T15:02:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-06-18T15:02:31Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-jebel-musa",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 28 D2 Septem Fratres M.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1827015420, version 10, osm:changeset=59927619, 2018-06-18T03:04:39Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1827015420",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1827015420",
+                    "formattedCitation": "osm:node=1827015420",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/275704/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Jebel Musa",
+            "uri": "https://pleiades.stoa.org/places/275704/osm-location-of-jebel-musa"
         }
     ],
     "names": [
@@ -293,13 +263,13 @@
         }
     ],
     "reprPoint": [
-        -5.25,
-        35.75
+        -5.4129554,
+        35.8989516
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Septem Fratres M.",
+    "title": "Septem Fratres Montes",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/275704"
 }
