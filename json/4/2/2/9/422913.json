@@ -1,12 +1,14 @@
 {
     "@type": "Place",
     "bbox": [
-        12.954639,
-        41.725638,
-        12.954639,
-        41.725638
+        12.9538593,
+        41.731389,
+        12.9540626,
+        41.7315215
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/93042695"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -52,23 +54,48 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.954639,
-                    41.725638
+                    [
+                        [
+                            12.9539046,
+                            41.731389
+                        ],
+                        [
+                            12.9538593,
+                            41.7314353
+                        ],
+                        [
+                            12.9540173,
+                            41.7315215
+                        ],
+                        [
+                            12.9540626,
+                            41.7314753
+                        ],
+                        [
+                            12.9539046,
+                            41.731389
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-3796",
+            "id": "osm-location-of-tempio-di-muracci-di-crepaddosso",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/422913/darmc-location-3796",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/422913/osm-location-of-tempio-di-muracci-di-crepaddosso",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "DARMC location 3796"
+                "snippet": "Temple-2; 550 BC - 30 BC",
+                "title": "OSM location of tempio di Muracci di Crepaddosso"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC reference",
+            "modified": "2018-07-11T22:31:10Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2018-03-03T14:29:36Z",
@@ -104,8 +131,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "attestations": [
                 {
@@ -117,64 +144,82 @@
                     "timePeriod": "hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:06:19Z",
+            "contributors": [],
+            "created": "2018-03-03T14:24:38Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 3796",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    12.954639,
-                    41.725638
+                    [
+                        [
+                            12.9539046,
+                            41.731389
+                        ],
+                        [
+                            12.9538593,
+                            41.7314353
+                        ],
+                        [
+                            12.9540173,
+                            41.7315215
+                        ],
+                        [
+                            12.9540626,
+                            41.7314753
+                        ],
+                        [
+                            12.9539046,
+                            41.731389
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:55:32Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2018-03-03T14:25:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-03-03T14:24:40Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-3796",
+            "id": "osm-location-of-tempio-di-muracci-di-crepaddosso",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 3796",
+            "provenance": "OpenStreetMap (Way 566127799, version 1, osm:changeset=56848389, 2018-03-03T14:24:11Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/566127799",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "3796",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 3796.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 566127799",
+                    "formattedCitation": "osm:way=566127799",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 3796",
-            "uri": "https://pleiades.stoa.org/places/422913/darmc-location-3796"
+            "title": "OSM location of tempio di Muracci di Crepaddosso",
+            "uri": "https://pleiades.stoa.org/places/422913/osm-location-of-tempio-di-muracci-di-crepaddosso"
         }
     ],
     "names": [],
@@ -212,11 +257,21 @@
             "otherIdentifier": "",
             "shortTitle": "Luttazzi 1990",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3796",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.954639,
-        41.725638
+        12.953960940687253,
+        41.73145526644242
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

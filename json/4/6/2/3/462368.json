@@ -1,12 +1,14 @@
 {
     "@type": "Place",
     "bbox": [
-        14.781727,
-        37.447225,
-        14.781727,
-        37.447225
+        14.7497625,
+        37.4970811,
+        14.7497625,
+        37.4970811
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/462492"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -43,28 +45,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 47 F4 Monte Turcisi",
-    "details": "The Barrington Atlas Directory notes: Monte Turcisi",
+    "details": "<p>The Barrington Atlas Directory notes: Monte Turcisi</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    14.781727,
-                    37.447225
+                    14.7497625,
+                    37.4970811
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-29157",
+            "id": "osm-location",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/462368/darmc-location-29157",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/462368/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 330 BC",
-                "title": "DARMC location 29157"
+                "snippet": "Fort; 550 BC - 330 BC",
+                "title": "OSM location of archaeological area of  Monte Turcisi (Castel di Iudica, CT)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference after retracting associated location",
+            "modified": "2018-07-11T00:32:02Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2017-01-08T03:05:05Z",
@@ -95,8 +102,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "attestations": [
                 {
@@ -104,65 +111,67 @@
                     "timePeriod": "classical"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:45:24Z",
+            "contributors": [],
+            "created": "2014-06-09T18:34:54Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 29157",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": -330,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "geometry": {
                 "coordinates": [
-                    14.781727,
-                    37.447225
+                    14.7497625,
+                    37.4970811
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:22:14Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2017-01-08T03:03:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:45:25Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-06-09T18:36:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-06-09T18:35:01Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-29157",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 29157",
+            "provenance": "OpenStreetMap (Node 2907821921, version 1, osm:changeset=22835921, 2014-06-09T18:34:29Z)",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2907821921",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "citationDetail": "Node 2907821921",
+                    "formattedCitation": "osm:node=2907821921",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 29157",
-            "uri": "https://pleiades.stoa.org/places/462368/darmc-location-29157"
+            "title": "OSM location of archaeological area of  Monte Turcisi (Castel di Iudica, CT)",
+            "uri": "https://pleiades.stoa.org/places/462368/osm-location"
         }
     ],
     "names": [],
@@ -200,11 +209,21 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "29157",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        14.781727,
-        37.447225
+        14.7497625,
+        37.4970811
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

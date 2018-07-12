@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -8.687059,
-        39.236177,
-        -8.687059,
-        39.236177
+        -8.6774238,
+        39.2335206,
+        -8.6774238,
+        39.2335206
     ],
     "connectsWith": [],
     "contributors": [
@@ -55,28 +55,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 26 B2 Scallabis/Praesidium Iulium",
-    "details": "The Barrington Atlas Directory notes: Santarém POR",
+    "details": "<p>The Barrington Atlas Directory notes: Santarém POR</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    -8.687059,
-                    39.236177
+                    -8.6774238,
+                    39.2335206
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-3508",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/256438/darmc-location-3508",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/256438/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 3508"
+                "snippet": "Settlement, ; 750 BC - AD 640",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference",
+            "modified": "2018-07-11T23:03:56Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2013-11-12T23:56:32Z",
@@ -112,7 +117,7 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "attestations": [
@@ -130,76 +135,66 @@
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "timePeriod": "roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:59:38Z",
+            "contributors": [],
+            "created": "2014-05-03T17:29:39Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 3508",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement",
+                ""
             ],
             "geometry": {
                 "coordinates": [
-                    -8.687059,
-                    39.236177
+                    -8.6774238,
+                    39.2335206
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:46:30Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-05-03T17:30:40Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:59:39Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-03T17:29:45Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-3508",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 3508",
+            "provenance": "OpenStreetMap (Way 140838607, version 2, osm:changeset=11475050, 2012-05-01T22:38:29Z)",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/140838607",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "citationDetail": "Way 140838607",
+                    "formattedCitation": "osm:way=140838607",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 3508",
-            "uri": "https://pleiades.stoa.org/places/256438/darmc-location-3508"
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/256438/osm-location"
         }
     ],
     "names": [
@@ -561,6 +556,71 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/256438/col-scalabitana"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "roman"
+                }
+            ],
+            "attested": "Scalabis",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2015-03-10T20:51:15Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2018-07-11T23:02:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added name",
+                    "modified": "2015-03-10T20:51:24Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "name.2015-03-10.6442864655",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://latin.packhum.org/loc/978/1/313/1226-1240#315",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "formattedCitation": "Plin. HN 4.117.7",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Scalabis",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/256438/name.2015-03-10.6442864655"
         }
     ],
     "placeTypes": [
@@ -599,19 +659,29 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Scalabis",
+            "accessURI": "https://en.wikipedia.org/wiki/Scalabis",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Scalabis",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Scalabis",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Scalabis.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3508",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        -8.687059,
-        39.236177
+        -8.6774238,
+        39.2335206
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
