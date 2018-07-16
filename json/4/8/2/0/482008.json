@@ -1,28 +1,26 @@
 {
     "@type": "Place",
     "bbox": [
-        21.395639,
-        41.247786,
-        21.395639,
-        41.247786
+        21.3972749,
+        41.2437372,
+        21.3972749,
+        41.2437372
     ],
     "connectsWith": [],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
         {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -32,13 +30,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-07T23:57:30Z",
@@ -49,28 +49,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 49 D2 Stuberra",
-    "details": "The Barrington Atlas Directory notes: Čepigovo MAC",
+    "details": "<p>The Barrington Atlas Directory notes: Čepigovo MAC</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    21.395639,
-                    41.247786
+                    21.3972749,
+                    41.2437372
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-24769",
+            "id": "osm-location",
             "properties": {
-                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/482008/darmc-location-24769",
+                "description": "Representative location based on a way derived from OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/482008/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 24769"
+                "snippet": "Settlement, ; 330 BC - AD 640",
+                "title": "OSM location of archaeological site"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference",
+            "modified": "2018-07-13T19:20:29Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T23:57:32Z",
@@ -116,7 +121,7 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "attestations": [
@@ -126,72 +131,71 @@
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "timePeriod": "roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-02-25T22:12:19Z",
+            "contributors": [],
+            "created": "2014-12-05T17:49:49Z",
             "creators": [
                 {
-                    "name": "J.J. Wilkes",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 24769",
+            "description": "Representative location based on a way derived from OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement",
+                ""
             ],
             "geometry": {
                 "coordinates": [
-                    21.395639,
-                    41.247786
+                    21.3972749,
+                    41.2437372
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:33:16Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2016-02-14T17:34:57Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-02-25T22:12:20Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-12-05T17:50:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-12-05T17:49:57Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-24769",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 24769",
+            "provenance": "OpenStreetMap (Way 243981081, version 1, osm:changeset=18608959, 2013-10-29T21:33:44Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/243981081",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "24769",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24769.",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 243981081",
+                    "formattedCitation": "osm:way=243981081",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 24769",
-            "uri": "https://pleiades.stoa.org/places/482008/darmc-location-24769"
+            "title": "OSM location of archaeological site",
+            "uri": "https://pleiades.stoa.org/places/482008/osm-location"
         }
     ],
     "names": [
@@ -303,11 +307,21 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "24769",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        21.395639,
-        41.247786
+        21.3972749,
+        41.2437372
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

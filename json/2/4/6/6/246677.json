@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.043999,
-        41.233952,
-        -0.043999,
-        41.233952
+        -0.1910243,
+        41.2209484,
+        -0.1910243,
+        41.2209484
     ],
     "connectsWith": [],
     "contributors": [
@@ -56,23 +56,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.043999,
-                    41.233952
+                    -0.1910243,
+                    41.2209484
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20408",
+            "id": "osm-location-of-oppidum",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/246677/darmc-location-20408",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/246677/osm-location-of-oppidum",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "DARMC location 20408"
+                "snippet": "Settlement, ; 330 BC - 30 BC",
+                "title": "OSM Location of oppidum"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference",
+            "modified": "2018-07-12T21:20:06Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T22:35:59Z",
@@ -98,7 +103,7 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "attestations": [
@@ -107,73 +112,73 @@
                     "timePeriod": "hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-04T23:32:26Z",
+            "contributors": [],
+            "created": "2014-03-23T15:52:43Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 20408",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "settlement",
+                ""
             ],
             "geometry": {
                 "coordinates": [
-                    -0.043999,
-                    41.233952
+                    -0.1910243,
+                    41.2209484
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:35:04Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-03-23T15:54:41Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-04T23:32:26Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-23T15:52:47Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20408",
+            "id": "osm-location-of-oppidum",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 20408",
+            "provenance": "OpenStreetMap (Way 268357775, version 1, osm:changeset=21266836, 2014-03-23T15:52:23Z)",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/268357775",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 268357775",
+                    "formattedCitation": "osm:way=268357775",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.patrimonioculturaldearagon.es/bienes-culturales/despoblado-iberico-de-rocatallada-caspe",
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "formattedCitation": "Despoblado ibérico de Rocatallada (Caspe, ZARAGOZA)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "cites"
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 20408",
-            "uri": "https://pleiades.stoa.org/places/246677/darmc-location-20408"
+            "title": "OSM Location of oppidum",
+            "uri": "https://pleiades.stoa.org/places/246677/osm-location-of-oppidum"
         }
     ],
     "names": [],
@@ -201,18 +206,28 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20408",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -0.043999,
-        41.233952
+        -0.1910243,
+        41.2209484
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
     "title": "La Tallada",
     "type": "FeatureCollection",

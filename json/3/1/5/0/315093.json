@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        10.741166,
-        36.45043,
-        10.741166,
-        36.45043
+        10.7160239,
+        36.4385523,
+        10.7203875,
+        36.4421673
     ],
     "connectsWith": [],
     "contributors": [
@@ -52,23 +52,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    10.741166,
-                    36.45043
+                    [
+                        [
+                            10.7173971,
+                            36.4385523
+                        ],
+                        [
+                            10.7167571,
+                            36.4393471
+                        ],
+                        [
+                            10.7160239,
+                            36.4407132
+                        ],
+                        [
+                            10.7181547,
+                            36.4416095
+                        ],
+                        [
+                            10.7194812,
+                            36.4421673
+                        ],
+                        [
+                            10.7203875,
+                            36.4408033
+                        ],
+                        [
+                            10.720217,
+                            36.439427
+                        ],
+                        [
+                            10.7175412,
+                            36.4385709
+                        ],
+                        [
+                            10.7173971,
+                            36.4385523
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-1708",
+            "id": "osm-location-of-archeological-site-of-neapolis",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/315093/darmc-location-1708",
+                "description": "Representative location of the archaeological site based on an  OpenStreetMap way that traces the visible outlines of the site.",
+                "link": "https://pleiades.stoa.org/places/315093/osm-location-of-archeological-site-of-neapolis",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 1708"
+                "snippet": "Settlement; 550 BC - AD 640",
+                "title": "OSM location of Archeological site of Neapolis"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference",
+            "modified": "2018-07-12T19:56:29Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2018-04-18T17:29:06Z",
@@ -114,10 +155,14 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "classical"
+                },
                 {
                     "confidence": "confident",
                     "timePeriod": "hellenistic-republican"
@@ -131,65 +176,98 @@
                     "timePeriod": "late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:44:50Z",
+            "contributors": [],
+            "created": "2018-04-18T16:55:30Z",
             "creators": [
                 {
-                    "name": "R.B. Hitchner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 1708",
+            "description": "Representative location of the archaeological site based on an  OpenStreetMap way that traces the visible outlines of the site.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    10.741166,
-                    36.45043
+                    [
+                        [
+                            10.7173971,
+                            36.4385523
+                        ],
+                        [
+                            10.7167571,
+                            36.4393471
+                        ],
+                        [
+                            10.7160239,
+                            36.4407132
+                        ],
+                        [
+                            10.7181547,
+                            36.4416095
+                        ],
+                        [
+                            10.7194812,
+                            36.4421673
+                        ],
+                        [
+                            10.7203875,
+                            36.4408033
+                        ],
+                        [
+                            10.720217,
+                            36.439427
+                        ],
+                        [
+                            10.7175412,
+                            36.4385709
+                        ],
+                        [
+                            10.7173971,
+                            36.4385523
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:11:46Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location, as previous pending state OSM location had had its underlying OSM data deleted.",
+                    "modified": "2018-04-18T16:56:48Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:44:51Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-04-18T16:55:30Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-1708",
+            "id": "osm-location-of-archeological-site-of-neapolis",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 1708",
+            "provenance": "OpenStreetMap (Way 244714904, version 2, osm:changeset=25432176, 2014-09-14T13:24:48Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/244714904",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "1708",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 1708.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 244714904",
+                    "formattedCitation": "osm:way=244714904",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 1708",
-            "uri": "https://pleiades.stoa.org/places/315093/darmc-location-1708"
+            "start": -550,
+            "title": "OSM location of Archeological site of Neapolis",
+            "uri": "https://pleiades.stoa.org/places/315093/osm-location-of-archeological-site-of-neapolis"
         }
     ],
     "names": [
@@ -329,11 +407,21 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "1708",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        10.741166,
-        36.45043
+        10.718354249537311,
+        36.44033754179989
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
