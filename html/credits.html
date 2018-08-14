@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<!-- Propagates search term wildcard, a smelly hack --><!-- Customize to send a site message on every page --><!--tal:b 
+  condition="python:request and context.plone_utils.addPortalMessage((u'Site will be read-only while undergoing maintenance from 18:00 US Eastern Time on September 9 through 11:00 on September 10.'))" 
+    ></tal:b--><html xmlns="http://www.w3.org/1999/xhtml" prefix="
+            bibo: http://purl.org/ontology/bibo/ 
+            cc: http://creativecommons.org/ns#
+            dcterms: http://purl.org/dc/terms/
+            foaf: http://xmlns.com/foaf/0.1/
+            og: http://ogp.me/ns#
+            schema: http://schema.org/
+            " typeof="bibo:Webpage cc:Work schema:ItemPage foaf:page og:article" lang="en">
+
+    
+    
+    
+    
+    
+
+
+<head>
+    
+
+    
+        <base href="https://pleiades.stoa.org/"><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+
+
+
+
+    <title property="dcterms:title og:title schema:name">Pleiades</title>
+
+
+
+
+
+<meta property="dcterms:type schema:genre" content="a gazetteer of past places">
+
+<meta property="og:description dcterms:description schema:description" name="description" content="Pleiades gives scholars, students, and enthusiasts worldwide the ability to use, 
+create, and share historical geographic information about the Greek and Roman World in digital form.
+">
+
+<meta property="dcterms:date schema:dateModified" content="2009-04-17T15:55:45-04:00">
+
+<meta property="bibo:shortTitle schema:alternateName" content="Pleiades">
+
+<meta property="dcterms:language schema:inLanguage" content="en">
+
+<meta property="dcterms:rights" content="">
+
+<meta property="license cc:license schema:license dcterms:license" content="https://creativecommons.org/licenses/by/3.0/us/">
+
+<meta property="dcterms:publisher schema:publisher" content="Institute for the Study of the Ancient World (NYU); Ancient World Mapping Center (UNC-CH)">
+
+<meta property="dcterms:identifier schema:url" content="https://pleiades.stoa.org">
+
+<meta property="og:site_name" content="Pleiades: a gazetteer of past places">
+
+<meta property="schema:isPartOf" content="https://pleiades.stoa.org/">
+
+<link rel="foaf:PrimaryTopic schema:about" href="https://pleiades.stoa.org#this">
+
+
+
+
+  
+    <link rel="stylesheet" type="text/css" media="screen" href="https://pleiades.stoa.org/portal_css/Notre%20Dame/reset-cachekey-097135c41a462bb5d9c467ceb4b37990.css">
+    <style type="text/css" media="screen">@import url(https://pleiades.stoa.org/portal_css/Notre%20Dame/base-cachekey-e681879e2aa7901a825bff5a27a8d194.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://pleiades.stoa.org/portal_css/Notre%20Dame/resourcetinymce.stylesheetstinymce-cachekey-ad1352292625f2b34722563fe607164b.css">
+    <style type="text/css">@import url(https://pleiades.stoa.org/portal_css/Notre%20Dame/print-cachekey-a337b43ae01d5961026774ec5480f03f.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://pleiades.stoa.org/portal_css/Notre%20Dame/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-d9f04d8fa120ee63731999118d21bec4.css">
+    <style type="text/css" media="screen">@import url(https://pleiades.stoa.org/portal_css/Notre%20Dame/resourcepleiades.notredame.stylesheetsmain-cachekey-13803673c1a706c69399c843deb28a94.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://pleiades.stoa.org/portal_css/Notre%20Dame/resourcepleiades.notredame.stylesheetscolumns-cachekey-7fcc983850c5b3f4b3538df0bb2e6a1f.css">
+    <style type="text/css">@import url(https://pleiades.stoa.org/portal_css/Notre%20Dame/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-e37c8e45d1388cb5bfb3ad6f567f33fd.css);</style>
+
+  
+  
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/resourceplone.app.jquery-cachekey-3a4a68973ed8b014d68d66a3e85245e6.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/referencebrowser-cachekey-3548322990a88c01274775ed3eef1415.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/ga_pleiades-cachekey-82697f8d6fa49fd8a5236273a055588d.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/kss-bbb-cachekey-1dfe226090883e8e7ac48cf86f7856c3.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/inline_validation-cachekey-a4796d308d03c3c58420af82b7c547c7.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/forms-cachekey-5c68da89c92d12a7c0a37fc9c0499e33.js"></script>
+
+
+
+        
+    <link rel="author" href="https://pleiades.stoa.org/author/" title="Author information">
+
+
+    <link rel="canonical" href="https://pleiades.stoa.org">
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://pleiades.stoa.org/favicon.ico">
+    <link rel="apple-touch-icon" href="https://pleiades.stoa.org/touch_icon.png">
+
+
+
+
+
+    <link rel="alternate" href="https://pleiades.stoa.org/RSS" title="Pleiades - RSS 1.0" type="application/rss+xml">
+
+    <link rel="alternate" href="https://pleiades.stoa.org/rss.xml" title="Pleiades - RSS 2.0" type="application/rss+xml">
+
+    <link rel="alternate" href="https://pleiades.stoa.org/atom.xml" title="Pleiades - Atom" type="application/rss+xml">
+
+
+    <link rel="search" href="https://pleiades.stoa.org/@@search" title="Search this site">
+
+
+
+        
+        
+        
+        
+        
+
+        <meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666">
+        <meta name="generator" content="Plone - http://plone.org">
+    
+</head>
+
+<body class="template-default_error_message portaltype-plone-site site-plone icons-on userrole-anonymous" dir="ltr">
+
+<div id="visual-portal-wrapper">
+  <div id="visual-padded-portal-wrapper">
+
+        <div id="portal-top">
+            <ul id="portal-siteactions">
+
+    <li id="siteaction-accessibility"><a href="https://pleiades.stoa.org/accessibility-info" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-contact"><a href="https://pleiades.stoa.org/contact-info" accesskey="9" title="Contact">Contact</a></li>
+    <li id="siteaction-help"><a href="https://pleiades.stoa.org/help" accesskey="" title="Help">Help</a></li>
+    <li id="siteaction-join"><a href="https://pleiades.stoa.org/welcome" accesskey="" title="Join/Login">Join/Login</a></li>
+    <li id="siteaction-site-status"><a href="http://pleiades-site-status.tumblr.com/" accesskey="" title="Site Status">Site Status</a></li>
+</ul>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+<ul id="portal-personaltools" class="visualInline">
+   
+
+    
+        <li>
+            <a href="https://pleiades.stoa.org/login">Log in</a>
+        </li>
+    
+
+</ul>
+</div>
+
+        </div>
+        <div id="portal-header">
+            <p class="hiddenStructure">
+  <a accesskey="2" href="https://pleiades.stoa.org/credits.html#content">Skip to content.</a> |
+
+  <a accesskey="6" href="https://pleiades.stoa.org/credits.html#portal-globalnav">Skip to navigation</a>
+</p>
+
+
+
+<a id="portal-logo" title="Pleiades" accesskey="1" href="https://pleiades.stoa.org">
+    <img src="https://pleiades.stoa.org/pleiades-logo-neg-tag.png" alt="Pleiades" title="Pleiades" height="130" width="340"></a>
+
+
+    <p class="hiddenStructure">Navigation</p>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="selected"><a href="https://pleiades.stoa.org" title="">Home</a></li><li id="portaltab-places" class="plain"><a href="https://pleiades.stoa.org/places" title="">Browse Places</a></li><li id="portaltab-downloads" class="plain"><a href="https://pleiades.stoa.org/downloads" title="Data to download">Download Data</a></li><li id="portaltab-blog" class="plain"><a href="https://pleiades.stoa.org/news/blog" title="">Blog</a></li><li id="portaltab-credits" class="plain"><a href="https://pleiades.stoa.org/credits" title="">Credits</a></li><li id="portaltab-docs" class="plain"><a href="https://pleiades.stoa.org/docs" title="">Documentation</a></li><li id="portaltab-vocabs" class="plain"><a href="https://pleiades.stoa.org/vocabularies" title="Controlled vocabularies">Vocabs</a></li></ul>
+
+
+        </div>
+    <div id="portal-columns">
+
+        
+        
+
+        
+        
+
+        <div id="portal-column-content" class="">
+          <div id="portal-content-wrapper">
+
+            <div id="viewlet-above-content"></div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+        
+
+            
+
+                
+
+                <h1 class="documentFirstHeading">
+                    This page does not seem to exist&#8230;
+                </h1>
+
+                <div id="content-core">
+                    <p>
+                      We apologize for the inconvenience, but the page you were trying to access is not at this address.
+                        You can use the links below to help you find what you are looking for.
+                     </p>
+
+                    <p>
+                        If you are certain you have the correct web address but are encountering an error, please
+                        contact the <span> <a href="https://pleiades.stoa.org/contact-info">Site Administration</a></span>.
+                    </p>
+
+                    <p>
+                    Thank you.
+                    </p>
+
+                    <!-- Offer search results for suggestions -->
+                    
+
+                        <h3>You might have been looking for&#8230;</h3>
+
+                        <dl>
+
+                        
+
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/site-security-patches-applied" class="state-published">Site security patches applied</a>
+
+                                    <span class="discreet">
+                                    by sgillies,
+                                    Nov 06, 2012 06:44 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>Plone Hotfix 20121106 (Nov 06, 2012)  was applied this morning.</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/pleiades-site-upgrade-2011-02-07" class="state-published">Pleiades site upgrade 2011-02-07</a>
+
+                                    <span class="discreet">
+                                    by sgillies,
+                                    May 18, 2012 09:54 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>The Pleiades site will be read-only from 15:00-21:00 UTC on February 7</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/upgrade-completion" class="state-published">Upgrade completion</a>
+
+                                    <span class="discreet">
+                                    by sgillies,
+                                    May 18, 2012 09:54 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>We're now running Plone 3.3.5 with the latest security patch and the site is again read-write</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/get-help" class="state-published">Get help</a>
+
+                                    <span class="discreet">
+                                    by sgillies,
+                                    May 18, 2012 09:54 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>We're making the site more helpful</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/kml-formatting-for-search-results" class="state-published">KML formatting for search results</a>
+
+                                    <span class="discreet">
+                                    by sgillies,
+                                    May 18, 2012 09:54 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>Search results can now be had as KML and viewed in Google Earth</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/evolution-of-the-pleiades-brand" class="state-published">Evolution of the Pleiades brand</a>
+
+                                    <span class="discreet">
+                                    by sgillies,
+                                    May 18, 2012 09:54 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>We have a new icon for Pleiades and partner sites</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/monitoring-the-editorial-process-2" class="state-published">Monitoring the editorial process: 2</a>
+
+                                    <span class="discreet">
+                                    by sgillies,
+                                    May 18, 2012 09:54 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>Part 2 in a series of recipes for getting information about the editorial process out of Pleiades</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/navigating-name-resources" class="state-published">Navigating name resources</a>
+
+                                    <span class="discreet">
+                                    by sgillies,
+                                    May 18, 2012 09:54 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>On an effort to improve discoverability and navigability of name resources</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-news-item">
+                                  
+                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/material-tags-for-mines-and-quarries" class="state-published">Material tags for mines and quarries</a>
+
+                                    <span class="discreet">
+                                    by sgillies,
+                                    May 18, 2012 09:54 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>It's now possible to dig in Pleiades for gold and silver</dd>
+
+                            
+                        
+                        
+                            
+                                <dt class="contenttype-document">
+                                  
+                                   <a href="https://pleiades.stoa.org/help/pleiades-data-model" class="state-published">Pleiades Data Model</a>
+
+                                    <span class="discreet">
+                                    by thomase,
+                                    Apr 09, 2017 06:41 AM
+                                    </span>
+
+                                </dt>
+
+                                <dd>This document provides an overview of the manner in which Pleiades content is modeled in the database.</dd>
+
+                            
+                        
+
+                        </dl>
+
+                    
+                </div>
+            
+
+        
+
+        
+
+        
+        
+
+
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+</div>
+          </div>
+          <div class="visualClear" id="clear-space-after-portal-wrapper"><!-- --></div>
+        </div>
+
+    </div>
+
+
+    <div id="portal-footer-wrapper" class="row">
+        <div class="cell width-full position-0">
+            <div id="portal-footer">
+
+<p>
+Copyright &#169; Ancient World Mapping Center and Institute for the Study of the Ancient World. 
+Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).
+Please see our <a href="https://pleiades.stoa.org/credits">credits</a>.
+</p>
+
+</div>
+
+<div id="portal-colophon">
+<div class="colophonWrapper">
+<ul>
+  <li>
+    <a href="http://plone.org" title="This site was built using the Plone Open Source CMS/WCM.">
+      Powered by Plone &amp; Python</a>
+  </li>
+</ul>
+</div>
+</div>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-accessibility"><a href="https://pleiades.stoa.org/accessibility-info" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-contact"><a href="https://pleiades.stoa.org/contact-info" accesskey="9" title="Contact">Contact</a></li>
+    <li id="siteaction-help"><a href="https://pleiades.stoa.org/help" accesskey="" title="Help">Help</a></li>
+    <li id="siteaction-join"><a href="https://pleiades.stoa.org/welcome" accesskey="" title="Join/Login">Join/Login</a></li>
+    <li id="siteaction-site-status"><a href="http://pleiades-site-status.tumblr.com/" accesskey="" title="Site Status">Site Status</a></li>
+</ul>
+
+
+        </div>
+    </div>
+
+
+  </div>
+</div>
+</body>
+</html>
