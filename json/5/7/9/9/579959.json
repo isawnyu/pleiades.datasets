@@ -6,25 +6,23 @@
         23.6959733,
         37.9582581
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/570654",
+        "https://pleiades.stoa.org/places/579846",
+        "https://pleiades.stoa.org/places/277534797"
+    ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
         {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -35,6 +33,12 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-07T23:03:50Z",
@@ -45,7 +49,7 @@
         }
     ],
     "description": "Ilissos fl. is a river of Athens, Greece, that was originally a tributary of the Kifissos River. The Ilissos is now, for the most part, channeled below ground.",
-    "details": "The Barrington Atlas Directory notes: Ilissos",
+    "details": "<p>The Barrington Atlas Directory notes: Ilissos</p>",
     "features": [
         {
             "geometry": {
@@ -57,16 +61,21 @@
             },
             "id": "location-of-course-of-Ilissos-fl",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/579959/location-of-course-of-Ilissos-fl",
                 "location_precision": "precise",
-                "snippet": "River, ; AD 1700 - AD 2100",
-                "title": "location of course of Ilissos fl."
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM location of course of Ilissos (river)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2018-09-10T21:53:05Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T23:03:52Z",
@@ -103,7 +112,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "attestations": [
                 {
@@ -121,12 +130,11 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 2100,
             "featureType": [
-                "river",
-                ""
+                "river"
             ],
             "geometry": {
                 "coordinates": [
@@ -136,6 +144,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2018-09-10T21:49:12Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "added location",
                     "modified": "2013-09-01T14:51:14Z",
@@ -166,7 +179,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of course of Ilissos fl.",
+            "title": "OSM location of course of Ilissos (river)",
             "uri": "https://pleiades.stoa.org/places/579959/location-of-course-of-Ilissos-fl"
         }
     ],
@@ -174,15 +187,16 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
-            "attestations": [],
-            "attested": "",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "roman"
+                }
+            ],
+            "attested": "Ἰλισσός",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -190,6 +204,18 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2010-11-10T21:32:58Z",
@@ -201,8 +227,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "history": [
+                {
+                    "comment": "time period, reference",
+                    "modified": "2018-09-10T21:54:18Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:41:44Z",
@@ -210,13 +241,24 @@
                 }
             ],
             "id": "ilissos",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 59 B3 Ilissos fl.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:9.1.24",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "9.1.24",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Ilissos",
-            "start": null,
+            "start": -30,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/579959/ilissos"
@@ -266,6 +308,26 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://referenceworks.brillonline.com/entries/brill-s-new-pauly/ilissus-e523250?s.num=11&s.q=ilissos",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "",
+            "formattedCitation": "New Pauly, Ilis(s)us",
+            "otherIdentifier": "",
+            "shortTitle": "",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:9.1.24",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "citationDetail": "9.1.24",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Str. (Meineke: Perseus)",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
