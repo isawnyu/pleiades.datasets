@@ -1,13 +1,25 @@
 {
     "@type": "Place",
     "bbox": [
-        34.963823,
-        32.817493,
-        34.963823,
-        32.817493
+        34.9554726,
+        32.8246398,
+        34.9554726,
+        32.8246398
     ],
     "connectsWith": [],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
@@ -15,7 +27,29 @@
             "username": "jbecker"
         },
         {
+            "name": "W. Röllig",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "H. Kopp",
+            "username": null
+        },
+        {
             "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "name": "B. Siewert-Mayer",
             "username": null
         },
         {
@@ -26,43 +60,9 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
-        },
-        {
-            "homepage": null,
             "name": "Eric Kansa",
             "uri": "https://pleiades.stoa.org/author/ekansa",
             "username": "ekansa"
-        },
-        {
-            "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
-        },
-        {
-            "name": "H. Kopp",
-            "username": null
-        },
-        {
-            "name": "W. Röllig",
-            "username": null
-        },
-        {
-            "name": "B. Siewert-Mayer",
-            "username": null
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
         }
     ],
     "created": "2018-06-07T21:04:36Z",
@@ -82,23 +82,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    34.963823,
-                    32.817493
+                    34.9554726,
+                    32.8246398
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-9895",
+            "id": "osm-location-of-tel-shikmona",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/678404/darmc-location-9895",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/678404/osm-location-of-tel-shikmona",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - AD 640",
-                "title": "DARMC location 9895"
+                "snippet": "Settlement; 550 BC - AD 640",
+                "title": "OSM location of Tel Shikmona"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference for retracted location",
+            "modified": "2018-09-25T22:20:35Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T21:04:48Z",
@@ -139,8 +144,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "attestations": [
                 {
@@ -160,69 +165,62 @@
                     "timePeriod": "late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T20:27:21Z",
+            "contributors": [],
+            "created": "2017-10-20T18:38:34Z",
             "creators": [
                 {
-                    "name": "J.P. Brown",
-                    "username": null
-                },
-                {
-                    "name": "E.M. Meyers",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 9895",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    34.963823,
-                    32.817493
+                    34.9554726,
+                    32.8246398
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:52:02Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2017-10-20T18:39:35Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T20:27:22Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-10-20T18:38:35Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-9895",
+            "id": "osm-location-of-tel-shikmona",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 9895",
+            "provenance": "OpenStreetMap (Node 278473400, version 5, osm:changeset=49225264, 2017-06-03T17:28:49Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/278473400",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "9895",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 9895.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 278473400",
+                    "formattedCitation": "osm:node=278473400",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 9895",
-            "uri": "https://pleiades.stoa.org/places/678404/darmc-location-9895"
+            "title": "OSM location of Tel Shikmona",
+            "uri": "https://pleiades.stoa.org/places/678404/osm-location-of-tel-shikmona"
         }
     ],
     "names": [
@@ -2939,11 +2937,21 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "9895",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        34.963823,
-        32.817493
+        34.9554726,
+        32.8246398
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

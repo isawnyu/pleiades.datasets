@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        28.5,
-        41.0,
-        29.0,
-        41.5
+        28.6829362,
+        41.3475547,
+        28.6829362,
+        41.3475547
     ],
     "connectsWith": [],
     "contributors": [
@@ -13,14 +13,22 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2009-10-15T08:16:20Z",
@@ -36,38 +44,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            28.5,
-                            41.0
-                        ],
-                        [
-                            28.5,
-                            41.5
-                        ],
-                        [
-                            29.0,
-                            41.5
-                        ],
-                        [
-                            29.0,
-                            41.0
-                        ],
-                        [
-                            28.5,
-                            41.0
-                        ]
-                    ]
+                    28.6829362,
+                    41.3475547
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "osm-location-of-karaburnu",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/511360/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Undetermined location"
+                "description": "Representative location of the modern Karaburnu lighthouse station represents the ancient promontory. Location based on a node derived from OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/511360/osm-location-of-karaburnu",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 1700 - AD 2100",
+                "title": "OSM location of Karaburnu"
             },
             "type": "Feature"
         }
@@ -93,83 +81,71 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "timePeriod": "modern"
                 }
             ],
-            "created": "2009-10-15T08:16:21Z",
+            "contributors": [],
+            "created": "2018-09-22T02:25:22Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location of the modern Karaburnu lighthouse station represents the ancient promontory. Location based on a node derived from OpenStreetMap.",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            28.5,
-                            41.0
-                        ],
-                        [
-                            28.5,
-                            41.5
-                        ],
-                        [
-                            29.0,
-                            41.5
-                        ],
-                        [
-                            29.0,
-                            41.0
-                        ],
-                        [
-                            28.5,
-                            41.0
-                        ]
-                    ]
+                    28.6829362,
+                    41.3475547
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:52:19Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2018-09-22T02:26:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-09-22T02:25:22Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location-of-karaburnu",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 52 D2 Philia Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1578799551, version 3, osm:changeset=54285672, 2017-12-03T00:22:11Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1578799551",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1578799551",
+                    "formattedCitation": "osm:node=1578799551",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/511360/undetermined"
+            "start": 1700,
+            "title": "OSM location of Karaburnu",
+            "uri": "https://pleiades.stoa.org/places/511360/osm-location-of-karaburnu"
         }
     ],
     "names": [
@@ -251,13 +227,13 @@
         }
     ],
     "reprPoint": [
-        28.75,
-        41.25
+        28.6829362,
+        41.3475547
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Philia Pr.",
+    "title": "Philia (promontory)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/511360"
 }

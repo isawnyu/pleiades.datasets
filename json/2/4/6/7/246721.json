@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -3.082109,
-        41.585279,
-        -3.082109,
-        41.585279
+        -3.0947549,
+        41.5750018,
+        -3.0947549,
+        41.5750018
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/246188"
@@ -12,25 +12,9 @@
     "contributors": [
         {
             "homepage": null,
-            "name": "Alex Ayris",
-            "uri": "https://pleiades.stoa.org/author/aayris",
-            "username": "aayris"
-        },
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -40,19 +24,35 @@
         },
         {
             "homepage": null,
-            "name": "María Jesús Redondo",
-            "uri": "https://pleiades.stoa.org/author/mjredondo",
-            "username": "mjredondo"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Alex Ayris",
+            "uri": "https://pleiades.stoa.org/author/aayris",
+            "username": "aayris"
         },
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "María Jesús Redondo",
+            "uri": "https://pleiades.stoa.org/author/mjredondo",
+            "username": "mjredondo"
         }
     ],
     "created": "2018-06-08T11:23:24Z",
@@ -76,23 +76,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    -3.082109,
-                    41.585279
+                    -3.0947549,
+                    41.5750018
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-4547",
+            "id": "osm-location-of-uxama",
             "properties": {
-                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/246721/darmc-location-4547",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/246721/osm-location-of-uxama",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 4547"
+                "snippet": "Settlement, ; 550 BC - AD 640",
+                "title": "OSM location of Uxama Argaela"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference for retracted location",
+            "modified": "2018-09-25T22:18:00Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-08T11:23:30Z",
@@ -143,10 +148,14 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "classical"
+                },
                 {
                     "confidence": "confident",
                     "timePeriod": "hellenistic-republican"
@@ -160,73 +169,73 @@
                     "timePeriod": "late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-04T23:24:13Z",
+            "contributors": [],
+            "created": "2016-02-13T03:44:57Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 4547",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement",
+                ""
             ],
             "geometry": {
                 "coordinates": [
-                    -3.082109,
-                    41.585279
+                    -3.0947549,
+                    41.5750018
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:35:32Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2016-06-30T15:05:13Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-04T23:24:14Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2016-06-30T15:03:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2016-02-13T03:45:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2016-02-13T03:45:01Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-4547",
+            "id": "osm-location-of-uxama",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 4547",
+            "provenance": "OpenStreetMap (Node 302403737, version 2, osm:changeset=37180447, 2016-02-13T03:42:48Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/302403737",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "4547",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 4547.",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 302403737",
+                    "formattedCitation": "osm:node=302403737",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 4547",
-            "uri": "https://pleiades.stoa.org/places/246721/darmc-location-4547"
+            "start": -550,
+            "title": "OSM location of Uxama Argaela",
+            "uri": "https://pleiades.stoa.org/places/246721/osm-location-of-uxama"
         }
     ],
     "names": [
@@ -694,11 +703,21 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "4547",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -3.082109,
-        41.585279
+        -3.0947549,
+        41.5750018
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

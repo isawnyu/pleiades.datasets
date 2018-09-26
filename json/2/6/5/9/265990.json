@@ -1,14 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        -3.718138,
-        38.760085,
-        -3.718138,
-        38.760085
+        -3.7256823,
+        38.7606439,
+        -3.7256823,
+        38.7606439
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/265988",
-        "https://pleiades.stoa.org/places/265989"
+        "https://pleiades.stoa.org/places/265989",
+        "https://pleiades.stoa.org/places/753071609"
     ],
     "contributors": [
         {
@@ -50,28 +51,33 @@
         }
     ],
     "description": "Oretum was a tributary city of the Oretani that was a part of the conventus of Carthago Nova, according to Pliny the Elder.",
-    "details": "The Barrington Atlas Directory notes: Nuestra Señora de Zúqueca, 2 miles SE Granátula",
+    "details": "<p>The Barrington Atlas Directory notes: Nuestra Señora de Zúqueca, 2 miles SE Granátula</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    -3.718138,
-                    38.760085
+                    -3.7256823,
+                    38.7606439
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-890",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/265990/darmc-location-890",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/265990/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 890"
+                "snippet": "Settlement, ; 330 BC - AD 640",
+                "title": "OSM location of Zuqueca, Granátula de Calatrava"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference for retracted location",
+            "modified": "2018-09-25T22:07:08Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2016-02-06T16:54:46Z",
@@ -117,82 +123,81 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
+                    "timePeriod": "hellenistic-roman-early-empire"
                 },
                 {
                     "confidence": "confident",
                     "timePeriod": "late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:37:09Z",
+            "contributors": [],
+            "created": "2014-07-20T02:37:31Z",
             "creators": [
                 {
-                    "name": "P.O. Spann",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 890",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement",
+                ""
             ],
             "geometry": {
                 "coordinates": [
-                    -3.718138,
-                    38.760085
+                    -3.7256823,
+                    38.7606439
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:52:10Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2016-02-06T16:45:46Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:37:10Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-07-20T02:38:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-07-20T02:37:33Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-890",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 890",
+            "provenance": "OpenStreetMap (Node 2970984443, version 2, osm:changeset=24247102, 2014-07-20T02:36:42Z)",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2970984443",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "citationDetail": "Node 2970984443",
+                    "formattedCitation": "osm:node=2970984443",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 890",
-            "uri": "https://pleiades.stoa.org/places/265990/darmc-location-890"
+            "title": "OSM location of Zuqueca, Granátula de Calatrava",
+            "uri": "https://pleiades.stoa.org/places/265990/osm-location"
         }
     ],
     "names": [
@@ -409,8 +414,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "cemetery"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 27 B3 Oretum",
     "references": [
@@ -493,11 +497,21 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "890",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -3.718138,
-        38.760085
+        -3.7256823,
+        38.7606439
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
