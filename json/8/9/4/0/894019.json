@@ -2,12 +2,16 @@
     "@type": "Place",
     "bbox": [
         43.3275,
-        36.099167,
-        43.3275,
+        36.094884,
+        43.3317193,
         36.099167
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/912964"
+        "https://pleiades.stoa.org/places/912964",
+        "https://pleiades.stoa.org/places/894183",
+        "https://pleiades.stoa.org/places/29492",
+        "https://pleiades.stoa.org/places/439136375",
+        "https://pleiades.stoa.org/places/413309737"
     ],
     "contributors": [
         {
@@ -92,9 +96,32 @@
                 "title": "DARMC location 22400"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.3317193,
+                    36.094884
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/894019/osm-location",
+                "location_precision": "precise",
+                "snippet": "Settlement, ; 720 BC - 30 BC",
+                "title": "OSM location of Nimrud"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2018-10-09T15:10:04Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added Oates 1961",
             "modified": "2017-05-13T15:35:07Z",
@@ -216,20 +243,108 @@
             "provenance": "DARMC OBJECTID: 22400",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "22400",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22400.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
             "title": "DARMC location 22400",
             "uri": "https://pleiades.stoa.org/places/894019/darmc-location-22400"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                },
+                {
+                    "confidence": "confident",
+                    "timePeriod": "classical"
+                },
+                {
+                    "confidence": "confident",
+                    "timePeriod": "hellenistic-republican"
+                }
+            ],
+            "contributors": [],
+            "created": "2015-03-08T16:03:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": -30,
+            "featureType": [
+                "settlement",
+                ""
+            ],
+            "geometry": {
+                "coordinates": [
+                    43.3317193,
+                    36.094884
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2016-10-28T13:47:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-10-28T13:46:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2015-03-08T16:05:29Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-03-08T16:03:54Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location",
+            "locationType": [
+                "representative",
+                ""
+            ],
+            "provenance": "OpenStreetMap (Way 295528281, version 3, osm:changeset=26822206, 2014-11-16T13:54:32Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/295528281",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 295528281",
+                    "formattedCitation": "osm:way=295528281",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -720,
+            "title": "OSM location of Nimrud",
+            "uri": "https://pleiades.stoa.org/places/894019/osm-location"
         }
     ],
     "names": [
@@ -914,13 +1029,13 @@
                     "type": "cites"
                 },
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Nimrud",
+                    "accessURI": "https://en.wikipedia.org/wiki/Nimrud",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Nimrud",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Nimrud",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Nimrud.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeAlso"
                 },
                 {
@@ -944,23 +1059,23 @@
                     "type": "seeAlso"
                 },
                 {
-                    "accessURI": "http://fr.wikipedia.org/wiki/Kalkhu",
+                    "accessURI": "https://fr.wikipedia.org/wiki/Kalkhu",
                     "alternateURI": "",
-                    "bibliographicURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
                     "citationDetail": "",
-                    "formattedCitation": "Wikipédia (French). Kalkhu",
+                    "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), .",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (French)",
                     "type": "seeAlso"
                 },
                 {
-                    "accessURI": "http://de.wikipedia.org/wiki/Nimrud",
+                    "accessURI": "https://de.wikipedia.org/wiki/Nimrud",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (German). Nimrud",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
+                    "citationDetail": "Nimrud",
+                    "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Nimrud.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (German)",
                     "type": "seeAlso"
                 }
             ],
@@ -978,33 +1093,33 @@
     "provenance": "Barrington Atlas: BAtlas 91 E1 Kalhu/Calah/‘Larisa’?",
     "references": [
         {
-            "accessURI": "http://fr.wikipedia.org/wiki/Kalkhu",
+            "accessURI": "https://fr.wikipedia.org/wiki/Kalkhu",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
             "citationDetail": "",
-            "formattedCitation": "Wikipédia (French), Kalkhu",
+            "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), .",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (French)",
             "type": "seeFurther"
         },
         {
             "accessURI": "https://en.wikipedia.org/wiki/Nimrud",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Nimrud",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Nimrud",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Nimrud.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://de.wikipedia.org/wiki/Nimrud",
+            "accessURI": "https://de.wikipedia.org/wiki/Nimrud",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (German), Nimrud",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
+            "citationDetail": "Nimrud",
+            "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Nimrud.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (German)",
             "type": "seeFurther"
         },
         {
@@ -1018,23 +1133,23 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://openlibrary.org/works/OL8327792W",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
-            "formattedCitation": "BAtlas 91 E1 Kalhu/Calah/‘Larisa’?",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "91 E1 Kalhu/Calah/‘Larisa’?",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://openlibrary.org/works/OL8327792W.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "https://books.google.com/books?id=Z7ltAAAAMAAJ&q=nimrud&dq=nimrud&hl=en&sa=X&ei=d3L8VNPcOJKqyASK_4K4BA&ved=0CCYQ6AEwAQ",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S55JVIUS",
             "citationDetail": "",
-            "formattedCitation": "Oates, J. and D. Oates. 2001. Nimrud: An Assyrian Imperial City Revealed. British School of Archaeology in Iraq.",
+            "formattedCitation": "<div class=\"csl-entry\">Oates, Joan, and David Oates. <i>Nimrud: An Assyrian Imperial City Revealed</i>. London: The British School of Archaeology in Iraq, 2004.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Oates and Oates 2004",
             "type": "seeFurther"
         },
         {
@@ -1050,11 +1165,11 @@
         {
             "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/kalhu-e605880?s.num=0&s.q=Kal%E1%B8%ABu",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "New Pauly, Kalḫu",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Kalḫu",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
         },
         {
@@ -1089,8 +1204,8 @@
         }
     ],
     "reprPoint": [
-        43.3275,
-        36.099167
+        43.32960965,
+        36.0970255
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
