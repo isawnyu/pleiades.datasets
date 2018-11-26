@@ -1,31 +1,31 @@
 {
     "@type": "Place",
     "bbox": [
-        13.0144392,
-        43.8431286,
+        13.016921,
+        43.844902,
         13.016921,
         43.844902
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/856514595",
-        "https://pleiades.stoa.org/places/1004"
+        "https://pleiades.stoa.org/places/1004",
+        "https://pleiades.stoa.org/places/415256",
+        "https://pleiades.stoa.org/places/565088210"
     ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
         {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -35,13 +35,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-07T23:21:40Z",
@@ -71,27 +73,14 @@
                 "title": "DARMC location 18429"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    13.0144392,
-                    43.8431286
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-arch-of-augustus",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/413129/location-of-arch-of-augustus",
-                "location_precision": "precise",
-                "snippet": "Arch; 30 BC - AD 300",
-                "title": "OSM location of Arch of Augustus"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "reference",
+            "modified": "2018-11-10T17:50:16Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T23:21:43Z",
@@ -263,79 +252,6 @@
             "start": -330,
             "title": "DARMC location 18429",
             "uri": "https://pleiades.stoa.org/places/413129/darmc-location-18429"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-07-09T17:31:00Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "arch"
-            ],
-            "geometry": {
-                "coordinates": [
-                    13.0144392,
-                    43.8431286
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2017-11-05T17:22:00Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2013-07-09T18:57:56Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-09T17:31:23Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-arch-of-augustus",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 229319029, version 1, osm:changeset=16889929, 2013-07-09T17:30:26Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/229319029",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 229319029",
-                    "formattedCitation": "osm:way=229319029",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Arch of Augustus",
-            "uri": "https://pleiades.stoa.org/places/413129/location-of-arch-of-augustus"
         }
     ],
     "names": [
@@ -428,8 +344,7 @@
         }
     ],
     "placeTypes": [
-        "settlement",
-        "arch"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 42 E1 Fanum Fortunae",
     "references": [
@@ -642,11 +557,21 @@
             "otherIdentifier": "http://atlantides.org/bibliography/",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/68RZSEM9",
+            "citationDetail": "",
+            "formattedCitation": "<div class=\"csl-entry\">Alfieri, N. “Per la topografia storica di Fanum Fortunae (Fano).” In <i>Rivista storica dell’antichità, 6.1976-77</i>, 147–171, Abb, 1976.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Alfieri 1976",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        13.0156801,
-        43.844015299999995
+        13.016921,
+        43.844902
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
