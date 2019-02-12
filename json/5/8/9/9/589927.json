@@ -1,12 +1,14 @@
 {
     "@type": "Place",
     "bbox": [
-        23.5,
-        35.5,
-        24.0,
-        36.0
+        23.5799,
+        35.6107,
+        23.5799,
+        35.6107
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/589879"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -48,43 +50,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            23.5,
-                            35.5
-                        ],
-                        [
-                            23.5,
-                            36.0
-                        ],
-                        [
-                            24.0,
-                            36.0
-                        ],
-                        [
-                            24.0,
-                            35.5
-                        ],
-                        [
-                            23.5,
-                            35.5
-                        ]
-                    ]
+                    23.5799,
+                    35.6107
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-mese-ins",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589927/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "coordinates after GeoHack.",
+                "link": "https://pleiades.stoa.org/places/589927/location-of-mese-ins",
+                "location_precision": "precise",
+                "snippet": "Island, ; AD 1700 - AD 2100",
+                "title": "Imagery location of Gramvousa (island)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Initial revision",
+            "modified": "2019-02-02T15:03:47Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:49:48Z",
@@ -100,87 +87,82 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "timePeriod": "modern"
                 }
             ],
-            "created": "2010-09-22T19:22:53Z",
+            "contributors": [],
+            "created": "2013-05-01T23:00:00Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "coordinates after GeoHack.",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "island",
+                ""
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            23.5,
-                            35.5
-                        ],
-                        [
-                            23.5,
-                            36.0
-                        ],
-                        [
-                            24.0,
-                            36.0
-                        ],
-                        [
-                            24.0,
-                            35.5
-                        ],
-                        [
-                            23.5,
-                            35.5
-                        ]
-                    ]
+                    23.5799,
+                    35.6107
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:49:48Z",
-                    "modifiedBy": "admin"
+                    "comment": "edited title",
+                    "modified": "2016-07-12T18:33:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-05-01T23:00:05Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-mese-ins",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 A1 Mese Ins.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Gramvousa",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Gramvousa",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Gramvousa.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "http://toolserver.org/~geohack/geohack.php?pagename=Gramvousa&params=35_36_0_N_23_34_6_E_",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "formattedCitation": "GeoHack - Gramvousa",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589927/batlas-location"
+            "start": 1700,
+            "title": "Imagery location of Gramvousa (island)",
+            "uri": "https://pleiades.stoa.org/places/589927/location-of-mese-ins"
         }
     ],
     "names": [
@@ -237,6 +219,59 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/589927/mese"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "modern"
+                }
+            ],
+            "attested": "Ήμερη Γραμβούσα",
+            "contributors": [],
+            "created": "2019-02-02T15:04:58Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "name",
+                    "modified": "2019-02-02T15:05:20Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "imeri-gramvousa",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Gramvousa",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Gramvousa",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Imeri Gramvousa",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/589927/imeri-gramvousa"
         }
     ],
     "placeTypes": [
@@ -245,34 +280,44 @@
     "provenance": "Barrington Atlas: BAtlas 60 A1 Mese Ins.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://openlibrary.org/works/OL8327792W",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
-            "formattedCitation": "BAtlas 60 A1 Mese Ins.",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 A1 Mese Ins.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://openlibrary.org/works/OL8327792W.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/g.html#Gondicas-1988",
-            "citationDetail": "",
-            "formattedCitation": "Gondicas 1988, 146-50",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/A8UZCEXA",
+            "citationDetail": "146-50",
+            "formattedCitation": "<div class=\"csl-entry\">Gondicas, Daphne. <i>Recherches Sur La Crete Occidentale: De l’époque Géométrique à La Conquête Romaine: Inventaire Des Sources Archéologiques et Textuelles, Position Du Problème</i>. Amsterdam: A.M. Hakkert, 1988.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Gondicas 1988",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Gramvousa",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Gramvousa",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        23.75,
-        35.75
+        23.5799,
+        35.6107
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Mese Ins.",
+    "title": "Mese (island)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/589927"
 }
