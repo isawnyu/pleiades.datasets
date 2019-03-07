@@ -2,18 +2,18 @@
     "@type": "Place",
     "bbox": [
         4.315881,
-        43.868161,
-        4.315881,
+        43.860661,
+        4.327895,
         43.868161
     ],
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -21,18 +21,48 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2009-11-01T16:52:59Z",
+    "created": "2019-02-27T22:27:05Z",
     "creators": [
         {
             "name": "S. Loseby",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 15 C2 Roquemaillère",
-    "details": "The Barrington Atlas Directory notes: Roquemaillère",
+    "description": "A Roman-era limestone quarry located to the north of Nîmes in modern France.",
+    "details": "<p>The Barrington Atlas Directory notes: Roquemaillère</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    4.327895,
+                    43.860661
+                ],
+                "type": "Point"
+            },
+            "id": "imagery-location-of-modern-quarry-operation",
+            "properties": {
+                "description": "This associated modern point was created using Google Earth and Google Street View to identify the general location of the modern operator \"Carrieres Romaine Roquemailler\" who claims to operate on the same site as the ancient quarry.",
+                "link": "https://pleiades.stoa.org/places/148173/imagery-location-of-modern-quarry-operation",
+                "location_precision": "precise",
+                "snippet": "Mine; AD 1700 - AD 2100",
+                "title": "Imagery Location of Modern Quarry Operation"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -43,7 +73,7 @@
             },
             "id": "darmc-location-7392",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/148173/darmc-location-7392",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
@@ -53,6 +83,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "check in of working copy with improved summary, add'l references, new location",
+            "modified": "2019-02-27T23:14:18Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2019-02-27T22:26:59Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T19:21:03Z",
@@ -98,6 +138,70 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "timePeriod": "modern"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2019-02-27T22:44:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "This associated modern point was created using Google Earth and Google Street View to identify the general location of the modern operator \"Carrieres Romaine Roquemailler\" who claims to operate on the same site as the ancient quarry.",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "mine"
+            ],
+            "geometry": {
+                "coordinates": [
+                    4.327895,
+                    43.860661
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2019-02-27T23:15:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-02-27T22:44:36Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "imagery-location-of-modern-quarry-operation",
+            "locationType": [
+                "associated_modern"
+            ],
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": 1700,
+            "title": "Imagery Location of Modern Quarry Operation",
+            "uri": "https://pleiades.stoa.org/places/148173/imagery-location-of-modern-quarry-operation"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
@@ -120,7 +224,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 7392",
             "end": 300,
             "featureType": [
@@ -157,14 +261,14 @@
             "provenance": "DARMC OBJECTID: 7392",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "7392",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7392.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -192,27 +296,47 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Bessac-1981",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSFU438W",
             "citationDetail": "",
-            "formattedCitation": "Bessac 1981",
+            "formattedCitation": "<div class=\"csl-entry\">J.-C. Bessac. “Les Carrières de Nîmes.” <i>Dossiers, Histoire et Archéologie</i> 55 (1981): 59–67.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Bessac 1981",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/420603957",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8XD7BSXX",
+            "citationDetail": "30-31",
+            "formattedCitation": "<div class=\"csl-entry\">Bedon, R. <i>Les Carrières et Les Carriers de La Gaule Romaine</i>. Paris: Picard, 1984. http://www.worldcat.org/oclc/420603957.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Bedon 1984",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://oxrep.classics.ox.ac.uk/databases/stone_quarries_database/records/3987/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R9E44TD6",
+            "citationDetail": "̌Roquemaillère (3987)",
+            "formattedCitation": "<div class=\"csl-entry\">Russell, Ben. <i>Stone Quarries Database</i>. Oxford Roman Economy Project, 2013. http://oxrep.classics.ox.ac.uk/databases/stone_quarries_database/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Stone Quarries Database",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        4.315881,
-        43.868161
+        4.3218879999999995,
+        43.864411000000004
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
+        "dare:ancient=0",
         "dare:feature=mine",
-        "limestone",
-        "dare:ancient=0"
+        "limestone"
     ],
-    "title": "Roquemaillère",
+    "title": "Roquemaillère Roman Quarry",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/148173"
 }

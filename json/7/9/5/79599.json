@@ -1,15 +1,17 @@
 {
     "@type": "Place",
     "bbox": [
-        0.938913,
-        51.790439,
-        0.938913,
-        51.790439
+        0.9314015,
+        51.7911217,
+        0.9314015,
+        51.7911217
     ],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/490598212"
+    ],
     "contributors": [
         {
-            "name": "R. Warner",
+            "name": "DARMC",
             "username": null
         },
         {
@@ -17,14 +19,26 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Warner",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2009-10-30T22:38:58Z",
@@ -34,29 +48,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 8 I3 Mersea",
+    "description": "A Roman barrow tomb on Mersea Island.",
     "details": "The Barrington Atlas Directory notes: Mersea",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    0.938913,
-                    51.790439
+                    0.9314015,
+                    51.7911217
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-23659",
+            "id": "osm-location-of-mersea-mount",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/79599/darmc-location-23659",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/79599/osm-location-of-mersea-mount",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 23659"
+                "snippet": "Tumulus; AD 43 - AD 410",
+                "title": "OSM location of Mersea Mount"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Initial revision",
+            "modified": "2019-02-23T19:57:47Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:35:02Z",
@@ -82,78 +101,71 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "timePeriod": "roman-britain"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:51:28Z",
+            "contributors": [],
+            "created": "2019-02-23T19:55:46Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 23659",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 410,
             "featureType": [
-                "unknown"
+                "tumulus"
             ],
             "geometry": {
                 "coordinates": [
-                    0.938913,
-                    51.790439
+                    0.9314015,
+                    51.7911217
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:33:08Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2019-02-23T19:56:15Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:51:29Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-02-23T19:55:47Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-23659",
+            "id": "osm-location-of-mersea-mount",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 23659",
+            "provenance": "OpenStreetMap (Node 5763409651, version 1, osm:changeset=60756371, 2018-07-16T09:42:55Z)",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/5763409651",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick (ed.), Digital Atlas of Roman and Medieval Civilizations",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "citationDetail": "Node 5763409651",
+                    "formattedCitation": "osm:node=5763409651",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 23659",
-            "uri": "https://pleiades.stoa.org/places/79599/darmc-location-23659"
+            "start": 43,
+            "title": "OSM location of Mersea Mount",
+            "uri": "https://pleiades.stoa.org/places/79599/osm-location-of-mersea-mount"
         }
     ],
     "names": [],
@@ -181,11 +193,21 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.pastscape.org.uk/hob.aspx?hob_id=386082",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GLEU38X",
+            "citationDetail": "monument no. 386082",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>PastScape: Information on England’s Archaeology and Architecture</i>, 2015. https://www.pastscape.org.uk/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "PastScape",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        0.938913,
-        51.790439
+        0.9314015,
+        51.7911217
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -194,7 +216,7 @@
         "dare:ancient=0",
         "dare:feature=tumulus"
     ],
-    "title": "Mersea",
+    "title": "Roman Tomb at Mersea",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/79599"
 }
