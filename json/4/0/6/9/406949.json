@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        10.316667,
-        42.333333,
-        10.316667,
-        42.333333
+        10.3019945,
+        42.3376802,
+        10.3019945,
+        42.3376802
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/403247"
@@ -33,56 +33,41 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-15T18:56:22Z",
+    "created": "2019-03-24T16:08:18Z",
     "creators": [
         {
             "name": "W.V. Harris",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 41 C5 unnamed monastery (Oglasa)",
-    "details": "The Barrington Atlas Directory notes: Oglasa",
+    "description": "The monastery of San Mamiliano located on the island of Montecristo.",
+    "details": "<p>The Barrington Atlas Directory notes: Oglasa</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            10.0,
-                            42.0
-                        ],
-                        [
-                            10.0,
-                            42.5
-                        ],
-                        [
-                            10.5,
-                            42.5
-                        ],
-                        [
-                            10.5,
-                            42.0
-                        ],
-                        [
-                            10.0,
-                            42.0
-                        ]
-                    ]
+                    10.3019945,
+                    42.3376802
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-monastero-di-san-mamiliano",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/406949/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/406949/osm-location-of-monastero-di-san-mamiliano",
+                "location_precision": "precise",
+                "snippet": "Abbey; AD 640 - AD 1453",
+                "title": "OSM location of Monastero di San Mamiliano"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title, summary, references",
+            "modified": "2019-03-27T19:05:16Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2019-03-24T16:08:15Z",
@@ -108,92 +93,76 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "timePeriod": "mediaeval-byzantine"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-15T18:56:23Z",
+            "contributors": [],
+            "created": "2019-03-24T16:12:50Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap.",
             "details": "",
-            "end": 640,
+            "end": 1453,
             "featureType": [
-                "unknown"
+                "abbey"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            10.0,
-                            42.0
-                        ],
-                        [
-                            10.0,
-                            42.5
-                        ],
-                        [
-                            10.5,
-                            42.5
-                        ],
-                        [
-                            10.5,
-                            42.0
-                        ],
-                        [
-                            10.0,
-                            42.0
-                        ]
-                    ]
+                    10.3019945,
+                    42.3376802
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:46:15Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2019-03-24T16:13:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-03-24T16:12:50Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-monastero-di-san-mamiliano",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 41 C5",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1532763481, version 4, osm:changeset=46595620, 2017-03-05T13:09:38Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1532763481",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1532763481",
+                    "formattedCitation": "osm:node=1532763481",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": 300,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/406949/batlas-location"
+            "start": 640,
+            "title": "OSM location of Monastero di San Mamiliano",
+            "uri": "https://pleiades.stoa.org/places/406949/osm-location-of-monastero-di-san-mamiliano"
         }
     ],
     "names": [],
     "placeTypes": [
+        "abbey",
         "church"
     ],
     "provenance": "Barrington Atlas: BAtlas 41 C5",
@@ -217,16 +186,36 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://it.wikipedia.org/wiki/Monastero_di_San_Mamiliano",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
+            "citationDetail": "Monastero di San Mamiliano",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (Italian)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://commons.wikimedia.org/wiki/Category:Monastero_di_San_Mamiliano",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/L8RBW985",
+            "citationDetail": "Category:Monastero di San Mamiliano",
+            "formattedCitation": "<div class=\"csl-entry\">“Wikimedia Commons.” Media file repository. Wikimedia Commons, 2004. https://commons.wikimedia.org/wiki/Main_Page.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikimedia Commons",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        10.316667,
-        42.333333
+        10.3019945,
+        42.3376802
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Monastero di San Mamiliano",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/406949"
 }
