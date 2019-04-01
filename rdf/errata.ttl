@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2018/04/15 06:51:22.924579 GMT-4
+# Date: 2019/03/31 06:53:7.753759 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4326
+# Triple count: 4336
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -37,11 +37,6 @@
     rdfs:label "Asia";
     rdfs:comment "An ancient place, cited: BAtlas 102 E4 no. 20 (Asia)";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/1001906> .
-
-<https://pleiades.stoa.org/errata/1001909#this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Lydia (Byzantine province)";
-    rdfs:comment "An ancient place, cited: BAtlas 102 E4 no. 23 (Lydia)";
-    foaf:primaryTopicOf <https://pleiades.stoa.org/errata/1001909> .
 
 <https://pleiades.stoa.org/errata/1001910#this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Pisidia";
@@ -77,6 +72,16 @@
     rdfs:label "Withdrawn (duplicate): Aquae Calidae";
     rdfs:comment "This place resource is a duplicate for http://pleiades.stoa.org/places/138186 and was erroneously created and published on the basis of unlinked information in the Barrington Atlas Map-by-Map Directory listings. It has been withdrawn and moved to errata.";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/177444> .
+
+<https://pleiades.stoa.org/errata/180447#this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Untitled";
+    rdfs:comment "This place resource has been withdrawn because it was created and published due to a technical error.";
+    foaf:primaryTopicOf <https://pleiades.stoa.org/errata/180447> .
+
+<https://pleiades.stoa.org/errata/180467#this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Untitled";
+    rdfs:comment "This place resource has been withdrawn because it was created and published due to a technical error. ";
+    foaf:primaryTopicOf <https://pleiades.stoa.org/errata/180467> .
 
 <https://pleiades.stoa.org/errata/215496319#this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn: Tellaro Roman villa";
@@ -120,7 +125,8 @@
 
 <https://pleiades.stoa.org/errata/55607045#this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Church of Sant'Urbano alla Caffarella";
-    spatial:C <https://pleiades.stoa.org/places/423025#this>;
+    spatial:C <https://pleiades.stoa.org/places/422889#this>,
+        <https://pleiades.stoa.org/places/423025#this>;
     rdfs:comment "A tenth century church built on the site of a Roman structure that was either a temple or a tomb dating ca. AD 160.";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/55607045> .
 
@@ -445,6 +451,10 @@
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[40.0, 30.0], [40.0, 35.0], [35.0, 35.0], [35.0, 30.0], [40.0, 30.0]]]}";
     osgeo:asWKT "POLYGON ((40.0000000000000000 30.0000000000000000, 40.0000000000000000 35.0000000000000000, 35.0000000000000000 35.0000000000000000, 35.0000000000000000 30.0000000000000000, 40.0000000000000000 30.0000000000000000))" .
 
+<http://atlantides.org/capgrids/18#this-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[9.0, 45.0], [9.0, 49.0], [3.0, 49.0], [3.0, 45.0], [9.0, 45.0]]]}";
+    osgeo:asWKT "POLYGON ((9.0000000000000000 45.0000000000000000, 9.0000000000000000 49.0000000000000000, 3.0000000000000000 49.0000000000000000, 3.0000000000000000 45.0000000000000000, 9.0000000000000000 45.0000000000000000))" .
+
 <http://atlantides.org/capgrids/56#E2-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[27.5, 39.5], [27.5, 40.0], [27.0, 40.0], [27.0, 39.5], [27.5, 39.5]]]}";
     osgeo:asWKT "POLYGON ((27.5000000000000000 39.5000000000000000, 27.5000000000000000 40.0000000000000000, 27.0000000000000000 40.0000000000000000, 27.0000000000000000 39.5000000000000000, 27.5000000000000000 39.5000000000000000))" .
@@ -708,69 +718,6 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/1001906/batlas-location>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 E4 20" ] .
-
-<https://pleiades.stoa.org/errata/1001909> a <http://www.w3.org/2004/02/skos/core#Concept>,
-        <https://pleiades.stoa.org/places/vocab#Place>;
-    osspatial:within <http://atlantides.org/capgrids/102#E4>;
-    dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:coverage "Asiane";
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/91669326>;
-    dcterms:description "An ancient place, cited: BAtlas 102 E4 no. 23 (Lydia)";
-    dcterms:modified "2012-12-18T12:04:14-04:00";
-    dcterms:title "Lydia (Byzantine province)";
-    cito:citesForInformation [ ];
-    owl:sameAs <http://pleiades.stoa.org/errata/1001909>;
-    skos:altLabel "Lydia";
-    skos:inScheme <https://pleiades.stoa.org/places>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 E4 23" ];
-    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/province>;
-    pleiades:hasLocation <https://pleiades.stoa.org/errata/1001909/batlas-location>;
-    pleiades:hasName <https://pleiades.stoa.org/errata/1001909/lydia> .
-
-<https://pleiades.stoa.org/errata/1001909/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
-    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/102#E4>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/91669326>;
-    dcterms:description "";
-    dcterms:modified "2012-02-14T17:07:39-04:00";
-    dcterms:title "Barrington Atlas location";
-    owl:sameAs <http://pleiades.stoa.org/errata/1001909/batlas-location>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 E4 23" ] .
-
-<https://pleiades.stoa.org/errata/1001909/lydia> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/91669326>;
-    dcterms:description "";
-    dcterms:modified "2012-02-14T17:07:39-04:00";
-    dcterms:title "Lydia";
-    owl:sameAs <http://pleiades.stoa.org/errata/1001909/lydia>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 E4 23" ];
-    pleiades:nameRomanized "Lydia" .
 
 <https://pleiades.stoa.org/errata/1001910> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -1203,6 +1150,68 @@
     owl:sameAs <http://pleiades.stoa.org/errata/177444/center-point-of-commune-vichy>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ] .
 
+<https://pleiades.stoa.org/errata/180447> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    osspatial:within <http://atlantides.org/capgrids/18#this>;
+    dcterms:bibliographicCitation "";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "(major)";
+    dcterms:creator <http://viaf.org/viaf/29622273>;
+    dcterms:description "This place resource has been withdrawn because it was created and published due to a technical error.";
+    dcterms:modified "2018-11-10T07:38:12-04:00";
+    dcterms:title "Withdrawn: Untitled";
+    cito:citesForInformation [ ];
+    owl:sameAs <http://pleiades.stoa.org/errata/180447>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 18" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/road>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/180447/batlas-location> .
+
+<https://pleiades.stoa.org/errata/180447/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/18#this>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/29622273>;
+    dcterms:description "Roughly located within a bounding box";
+    dcterms:modified "2012-02-14T17:39:12-04:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/180447/batlas-location>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 18" ] .
+
+<https://pleiades.stoa.org/errata/180467> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    osspatial:within <http://atlantides.org/capgrids/18#this>;
+    dcterms:bibliographicCitation "";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "(minor)";
+    dcterms:creator <http://viaf.org/viaf/29622273>;
+    dcterms:description "This place resource has been withdrawn because it was created and published due to a technical error. ";
+    dcterms:modified "2018-11-10T07:40:18-04:00";
+    dcterms:title "Withdrawn: Untitled";
+    cito:citesForInformation [ ];
+    owl:sameAs <http://pleiades.stoa.org/errata/180467>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 18" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/road>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/180467/batlas-location> .
+
+<https://pleiades.stoa.org/errata/180467/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/18#this>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/29622273>;
+    dcterms:description "Roughly located within a bounding box";
+    dcterms:modified "2012-02-14T17:39:19-04:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/180467/batlas-location>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 18" ] .
+
 <https://pleiades.stoa.org/errata/215496319> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "";
@@ -1551,15 +1560,17 @@
 
 <https://pleiades.stoa.org/errata/55607045> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "";
+    dcterms:bibliographicCitation "",
+        "Wikipedia (English) Church of Sant'Urbano alla Caffarella";
     dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "A tenth century church built on the site of a Roman structure that was either a temple or a tomb dating ca. AD 160.";
-    dcterms:modified "2016-08-10T18:32:07-04:00";
+    dcterms:modified "2018-04-26T16:19:46-04:00";
     dcterms:title "Church of Sant'Urbano alla Caffarella";
     cito:citesForInformation [ ],
         [ ];
-    rdfs:seeAlso <https://pleiades.stoa.org/places/423025>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/422889>,
+        <https://pleiades.stoa.org/places/423025>;
     owl:sameAs <http://pleiades.stoa.org/errata/55607045>;
     geo:lat 41.857844;
     geo:long 12.524306;
@@ -1932,11 +1943,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87#A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -1955,11 +1966,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87#A4>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1973,11 +1984,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -4394,6 +4405,8 @@
 
 <http://atlantides.org/capgrids/102#E3> osgeo:extent <http://atlantides.org/capgrids/102#E3-extent> .
 
+<http://atlantides.org/capgrids/102#E4> osgeo:extent <http://atlantides.org/capgrids/102#E4-extent> .
+
 <http://atlantides.org/capgrids/102#F3> osgeo:extent <http://atlantides.org/capgrids/102#F3-extent> .
 
 <http://atlantides.org/capgrids/102#G4> osgeo:extent <http://atlantides.org/capgrids/102#G4-extent> .
@@ -4452,9 +4465,9 @@
 
 <http://atlantides.org/capgrids/102#D3> osgeo:extent <http://atlantides.org/capgrids/102#D3-extent> .
 
-<http://atlantides.org/capgrids/102#E4> osgeo:extent <http://atlantides.org/capgrids/102#E4-extent> .
-
 <http://atlantides.org/capgrids/102#F4> osgeo:extent <http://atlantides.org/capgrids/102#F4-extent> .
+
+<http://atlantides.org/capgrids/18#this> osgeo:extent <http://atlantides.org/capgrids/18#this-extent> .
 
 <http://atlantides.org/capgrids/101#L3> osgeo:extent <http://atlantides.org/capgrids/101#L3-extent> .
 
