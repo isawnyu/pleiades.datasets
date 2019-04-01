@@ -18,10 +18,12 @@
 
 
 <head>
-    
+    <script type="text/javascript">//<!--
+window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);
+//--></script>
 
     
-        <base href="https://pleiades.stoa.org/"><!--[if lt IE 7]></base><![endif]-->
+        <base href="https://pleiades.stoa.org/credits/"><!--[if lt IE 7]></base><![endif]-->
     
 
     
@@ -30,37 +32,38 @@
 
 
 
-    <title property="dcterms:title og:title schema:name">Pleiades</title>
+    <title property="dcterms:title og:title schema:name">Credits for the Pleiades gazetteer</title>
 
+    
+        <meta property="dcterms:creator schema:creator" content="Tom Elliott">
+    
 
 
 
 
 <meta property="dcterms:type schema:genre" content="a gazetteer of past places">
 
-<meta property="og:description dcterms:description schema:description" name="description" content="Pleiades gives scholars, students, and enthusiasts worldwide the ability to use, 
-create, and share historical geographic information about the Greek and Roman World in digital form.
-">
+<meta property="og:description dcterms:description schema:description" name="description" content="">
 
-<meta property="dcterms:date schema:dateModified" content="2009-04-17T15:55:45-04:00">
+<meta property="dcterms:date schema:dateModified" content="2016-12-14T17:08:25-05:00">
 
-<meta property="bibo:shortTitle schema:alternateName" content="Pleiades">
+<meta property="bibo:shortTitle schema:alternateName" content="Credits for the Pleiades gazetteer">
 
 <meta property="dcterms:language schema:inLanguage" content="en">
 
-<meta property="dcterms:rights" content="">
+<meta property="dcterms:rights" content="Copyright &#169; The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).">
 
 <meta property="license cc:license schema:license dcterms:license" content="https://creativecommons.org/licenses/by/3.0/us/">
 
 <meta property="dcterms:publisher schema:publisher" content="Institute for the Study of the Ancient World (NYU); Ancient World Mapping Center (UNC-CH)">
 
-<meta property="dcterms:identifier schema:url" content="https://pleiades.stoa.org">
+<meta property="dcterms:identifier schema:url" content="https://pleiades.stoa.org/credits">
 
 <meta property="og:site_name" content="Pleiades: a gazetteer of past places">
 
 <meta property="schema:isPartOf" content="https://pleiades.stoa.org/">
 
-<link rel="foaf:PrimaryTopic schema:about" href="https://pleiades.stoa.org#this">
+<link rel="foaf:PrimaryTopic schema:about" href="https://pleiades.stoa.org/credits#this">
 
 
 
@@ -87,10 +90,10 @@ create, and share historical geographic information about the Greek and Roman Wo
 
 
         
-    <link rel="author" href="https://pleiades.stoa.org/author/" title="Author information">
+    <link rel="author" href="https://pleiades.stoa.org/author/thomase" title="Author information">
 
 
-    <link rel="canonical" href="https://pleiades.stoa.org">
+    <link rel="canonical" href="https://pleiades.stoa.org/credits">
 
     <link rel="shortcut icon" type="image/x-icon" href="https://pleiades.stoa.org/favicon.ico">
     <link rel="apple-touch-icon" href="https://pleiades.stoa.org/touch_icon.png">
@@ -98,12 +101,6 @@ create, and share historical geographic information about the Greek and Roman Wo
 
 
 
-
-    <link rel="alternate" href="https://pleiades.stoa.org/RSS" title="Pleiades - RSS 1.0" type="application/rss+xml">
-
-    <link rel="alternate" href="https://pleiades.stoa.org/rss.xml" title="Pleiades - RSS 2.0" type="application/rss+xml">
-
-    <link rel="alternate" href="https://pleiades.stoa.org/atom.xml" title="Pleiades - Atom" type="application/rss+xml">
 
 
     <link rel="search" href="https://pleiades.stoa.org/@@search" title="Search this site">
@@ -121,7 +118,7 @@ create, and share historical geographic information about the Greek and Roman Wo
     
 </head>
 
-<body class="template-default_error_message portaltype-plone-site site-plone icons-on userrole-anonymous" dir="ltr">
+<body class="template-credits_template portaltype-folder site-plone section-credits icons-on userrole-anonymous" dir="ltr">
 
 <div id="visual-portal-wrapper">
   <div id="visual-padded-portal-wrapper">
@@ -155,9 +152,9 @@ create, and share historical geographic information about the Greek and Roman Wo
         </div>
         <div id="portal-header">
             <p class="hiddenStructure">
-  <a accesskey="2" href="https://pleiades.stoa.org/credits.html#content">Skip to content.</a> |
+  <a accesskey="2" href="https://pleiades.stoa.org/credits#content">Skip to content.</a> |
 
-  <a accesskey="6" href="https://pleiades.stoa.org/credits.html#portal-globalnav">Skip to navigation</a>
+  <a accesskey="6" href="https://pleiades.stoa.org/credits#portal-globalnav">Skip to navigation</a>
 </p>
 
 
@@ -168,7 +165,7 @@ create, and share historical geographic information about the Greek and Roman Wo
 
     <p class="hiddenStructure">Navigation</p>
 
-    <ul id="portal-globalnav"><li id="portaltab-index_html" class="selected"><a href="https://pleiades.stoa.org" title="">Home</a></li><li id="portaltab-places" class="plain"><a href="https://pleiades.stoa.org/places" title="">Browse Places</a></li><li id="portaltab-downloads" class="plain"><a href="https://pleiades.stoa.org/downloads" title="Data to download">Download Data</a></li><li id="portaltab-blog" class="plain"><a href="https://pleiades.stoa.org/news/blog" title="">Blog</a></li><li id="portaltab-credits" class="plain"><a href="https://pleiades.stoa.org/credits" title="">Credits</a></li><li id="portaltab-docs" class="plain"><a href="https://pleiades.stoa.org/docs" title="">Documentation</a></li><li id="portaltab-vocabs" class="plain"><a href="https://pleiades.stoa.org/vocabularies" title="Controlled vocabularies">Vocabs</a></li></ul>
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="https://pleiades.stoa.org" title="">Home</a></li><li id="portaltab-places" class="plain"><a href="https://pleiades.stoa.org/places" title="">Browse Places</a></li><li id="portaltab-downloads" class="plain"><a href="https://pleiades.stoa.org/downloads" title="Data to download">Download Data</a></li><li id="portaltab-blog" class="plain"><a href="https://pleiades.stoa.org/news/blog" title="">Blog</a></li><li id="portaltab-credits" class="selected"><a href="https://pleiades.stoa.org/credits" title="">Credits</a></li><li id="portaltab-docs" class="plain"><a href="https://pleiades.stoa.org/docs" title="">Documentation</a></li><li id="portaltab-vocabs" class="plain"><a href="https://pleiades.stoa.org/vocabularies" title="Controlled vocabularies">Vocabs</a></li></ul>
 
 
         </div>
@@ -177,10 +174,130 @@ create, and share historical geographic information about the Greek and Roman Wo
         
         
 
-        
+        <div id="portal-column-two">
+          <div class="visualPadding">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f706c6f6e650a736561726368" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f706c6f6e650a736561726368">
+<dl class="portlet portletSearch">
+
+  <dt class="portletHeader">
+      <span class="portletTopLeft"></span>
+      <a class="tile" href="https://pleiades.stoa.org/@@search">Search</a>
+      <span class="portletTopRight"></span>
+  </dt>
+
+    <dd class="portletItem">
+      <form id="searchform" action="https://pleiades.stoa.org/@@search">
+        <div class="LSBox">
+          <input class="searchField portlet-search-gadget" name="SearchableText" type="text" size="15" title="Search Site" placeholder="Search Site">
+          <input class="searchButton" type="submit" value="Search">
+
+          <div class="LSResult" style="">
+            <div class="LSShadow"></div>
+          </div>
+        </div>
+      </form>
+      <div class="visualClear"><!-- --></div>
+    </dd>
+
+    <dd class="portletFooter">
+        <a href="https://pleiades.stoa.org/search_form" class="tile">
+        Advanced Search&#8230;
+        </a>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+<div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f706c6f6e650a6e657773" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f706c6f6e650a6e657773">
+<dl class="portlet portletNews">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <a href="https://pleiades.stoa.org/news" class="tile">News</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    
+    <dd class="portletItem odd">
+
+        <a href="https://pleiades.stoa.org/news/blog/coverage-march-2019" class="tile" title="Pleiades documents 36,541 places as of this morning's JSON update.">
+            
+            Coverage (March 2019)
+         </a>
+            <span class="portletItemDetails">Mar 11, 2019</span>
+
+    </dd>
+    
+    
+    <dd class="portletItem even">
+
+        <a href="https://pleiades.stoa.org/news/blog/improving-reference-citations" class="tile" title="Pleiades cites a wide variety of resources, both online and in print. New documentation and tools are making existing references better and easing the process of creating new ones.">
+            
+            Improving Reference Citations
+         </a>
+            <span class="portletItemDetails">Dec 15, 2017</span>
+
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+
+        <a href="https://pleiades.stoa.org/news/blog/boston-2018" class="tile" title="A three-hour workshop on Pleiades and related tools and techniques will be held in Boston on Friday, January 5, 1:45 - 4:45 pm.">
+            
+            Boston Workshop, January 2018
+         </a>
+            <span class="portletItemDetails">Sep 29, 2017</span>
+
+    </dd>
+    
+    
+    <dd class="portletItem even">
+
+        <a href="https://pleiades.stoa.org/news/blog/introducing-geocollider" class="tile" title="A new tool to help you match lists of placenames or geographic locations against the Pleiades gazetteer.">
+            
+            Introducing Geocollider
+         </a>
+            <span class="portletItemDetails">Jun 08, 2017</span>
+
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+
+        <a href="https://pleiades.stoa.org/news/blog/new-help-topic-open-pleiades-csv-in-qgis" class="tile" title="Are you eager to use Pleiades data in a geographic information system? Here's a quick, introductory tutorial.">
+            
+            New help topic: Open Pleiades CSV in QGIS
+         </a>
+            <span class="portletItemDetails">Apr 20, 2017</span>
+
+    </dd>
+    
+
+    <dd class="portletFooter">
+        <span class="portletBottomLeft"></span>
+        <a href="https://pleiades.stoa.org/news">
+          More news&#8230;
+        </a>
+        <span class="portletBottomRight"></span>
+    </dd>
+    
+</dl>
+
+</div>
+
+
+
+
+            
+          </div>
+        </div>
         
 
-        <div id="portal-column-content" class="">
+        <div id="portal-column-content" class="sr">
           <div id="portal-content-wrapper">
 
             <div id="viewlet-above-content"></div>
@@ -204,227 +321,3488 @@ create, and share historical geographic information about the Greek and Roman Wo
 
                             
 
-                            
+                            <div>
 
-        
+    <div id="portal-breadcrumbs">
 
-            
+      <span id="breadcrumbs-you-are-here">
+        You are here:
+      </span>
+      <a href="http://pleiades.stoa.org/home">Home</a>
+      <span class="breadcrumbSeparator">&#8594;</span>
+      <span dir="ltr">
+        <span>Credits</span>
+      </span>
 
-                
+    </div>
 
-                <h1 class="documentFirstHeading">
-                    This page does not seem to exist&#8230;
-                </h1>
+    <h1>Credits</h1>
 
-                <div id="content-core">
-                    <p>
-                      We apologize for the inconvenience, but the page you were trying to access is not at this address.
-                        You can use the links below to help you find what you are looking for.
-                     </p>
+    <p>
+      Pleiades is a joint project of the <a title="AWMC" href="http://www.unc.edu/awmc/">Ancient World Mapping Center</a>,
+      the <a title="Stoa" href="http://www.stoa.org/">Stoa Consortium</a>, and the
+      <a title="ISAW" href="http://www.nyu.edu/isaw/">Institute for the Study of the Ancient World</a>. Copyrights on 
+      software and content are held by the participating institutions and by the
+      <a href="/credits#credits-list">individual contributors listed below</a>. Using, sharing, and remixing of the content
+      is permitted under terms of the
+      <a class="external-link" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0
+      License (cc-by)</a>.
+    </p>
 
-                    <p>
-                        If you are certain you have the correct web address but are encountering an error, please
-                        contact the <span> <a href="https://pleiades.stoa.org/contact-info">Site Administration</a></span>.
-                    </p>
+    <p>
+      <strong>Senior Editors:</strong>
+      <a href="/author/rbagnall">Roger Bagnall</a>,
+      <a href="/author/rtalbert">Richard Talbert</a>
+      <br>
 
-                    <p>
-                    Thank you.
-                    </p>
+      <strong>Managing Editors:</strong>
+      <a href="/author/thomase">Tom Elliott</a>,
+      <a href="/author/lholman">Lindsay Holman</a>
+      <br>
 
-                    <!-- Offer search results for suggestions -->
-                    
+      <strong>Associate Editors:</strong>
+      <a href="/author/jbecker">Jeffrey Becker</a>,
+      <a href="/author/sbond">Sarah Bond</a>,
+      <a href="/author/sgillies">Sean Gillies</a>,
+      <a href="/author/rmhorne">Ryan Horne</a>,
+      <a href="/author/gmoss">Gabe Moss</a>,
+      <a href="/author/arabinowitz">Adam Rabinowitz</a>,
+      <a href="/author/erobinson">Elizabeth Robinson</a>,
+      <a href="/author/bdturner">Brian Turner</a>
+      <br>
 
-                        <h3>You might have been looking for&#8230;</h3>
+      <strong>Reviewers:</strong>
+      <a href="/author/scosta">Stefano Costa</a>,
+      <a href="/author/adgraauw">Arthur De Graauw</a>,
+      <a href="/author/sdunn">Stuart Dunn</a>,
+      <a href="/author/mdurusu">M&#252;ge Durusu</a>,
+      <a href="/author/nkaye">Noah Kaye</a>,
+      <a href="/author/ctupman">Charlotte Tupman</a>,
+      <a href="/author/sarcanon">Scott Vanderbilt</a>,
+      <a href="/author/vvitale">Valeria Vitale</a>
+    </p>
 
-                        <dl>
+    <p>The Pleiades community is grateful to the following individuals who previously served as members of the editorial college: <a href="/author/mccormick">Michael McCormick</a>, <a href="/author/rosst">Ross Twele</a>.</p>
+    <p>We are also grateful to the following individuals who previously served as reviewers: <a href="/author/pscalfano">Perry Scalfano</a>.</p>
+    
+    <h2>Individual Contributions</h2>
+    
+    <p>The following individuals have contributed their time and talent to expanding and enhancing the content of Pleiades.</p>
 
-                        
+    <div id="sort-actions">
+      <p>
+        sort by:
+        <a id="sort-name" href="#" style="font-weight: bold;">name</a>
+        |
+        <a id="sort-count" href="#">contribution</a>
+        |
+        <a id="sort-roles" href="#">role</a>
+        |
+        <a id="sort-date" href="#">date</a>
+      </p>
+    </div>
 
-                        
-                            
-                                <dt class="contenttype-news-item">
-                                  
-                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/site-security-patches-applied" class="state-published">Site security patches applied</a>
+    <div id="credits-list">
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ahorsting">
+          <h4 class="credit-name">A. Horsting</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>6 November 2013</span>.
+          <a rel="nofollow" href="/search?Creator=ahorsting">
+            <span>6</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ahorsting">
+            <span>8</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">14</span>
+          <span class="credit-date" style="display:none;">2013-11-06T17:38:41-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/adamp">
+        <a rel="nofollow" href="/author/adamp">
+          <h4 class="credit-name">Adam Prins</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>5 April 2012</span>.
+          <a rel="nofollow" href="/search?Creator=adamp">
+            <span>148</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=adamp">
+            <span>380</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">528</span>
+          <span class="credit-date" style="display:none;">2012-04-05T05:20:53-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/arabinowitz">
+        <a rel="nofollow" href="/author/arabinowitz">
+          <h4 class="credit-name">Adam Rabinowitz</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>11 January 2011</span>.
+          <a rel="nofollow" href="/search?Creator=arabinowitz">
+            <span>20</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=arabinowitz">
+            <span>197</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">217</span>
+          <span class="credit-date" style="display:none;">2011-01-11T14:56:35-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/alecpm">
+          <h4 class="credit-name">Alec Mitchell</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Manager; Member</span>
+          since
+          <span>12 January 2016</span>.
+          <a rel="nofollow" href="/search?Creator=alecpm">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=alecpm">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2016-01-12T19:27:00-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/abattisti">
+          <h4 class="credit-name">Alessandro Battisti</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>7 April 2017</span>.
+          <a rel="nofollow" href="/search?Creator=abattisti">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=abattisti">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2017-04-07T13:53:47-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/aayris">
+          <h4 class="credit-name">Alex Ayris</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>5 March 2016</span>.
+          <a rel="nofollow" href="/search?Creator=aayris">
+            <span>8</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=aayris">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">9</span>
+          <span class="credit-date" style="display:none;">2016-03-05T18:06:42-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/alexbiad">
+          <h4 class="credit-name">Alex Biad</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>1 May 2013</span>.
+          <a rel="nofollow" href="/search?Creator=alexbiad">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=alexbiad">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2013-05-01T16:22:46-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/amyh">
+          <h4 class="credit-name">Amy Hawkins</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>.
+          <a rel="nofollow" href="/search?Creator=amyh">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=amyh">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;"></span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/asinger">
+          <h4 class="credit-name">Amy Singer</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 May 2017</span>.
+          <a rel="nofollow" href="/search?Creator=asinger">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=asinger">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2017-05-26T13:46:44-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/akokiousis">
+          <h4 class="credit-name">Anastasia Kokiousis</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>28 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=akokiousis">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=akokiousis">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2013-04-28T16:25:23-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/asquitieri">
+          <h4 class="credit-name">Andrea Squitieri</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>31 March 2016</span>.
+          <a rel="nofollow" href="/search?Creator=asquitieri">
+            <span>6</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=asquitieri">
+            <span>7</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">13</span>
+          <span class="credit-date" style="display:none;">2016-03-31T09:12:41-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/acabaniss">
+          <h4 class="credit-name">Andrew Cabaniss</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>29 October 2015</span>.
+          <a rel="nofollow" href="/search?Creator=acabaniss">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=acabaniss">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2015-10-29T22:35:06-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ameadows">
+          <h4 class="credit-name">Andy Meadows</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>9 September 2009</span>.
+          <a rel="nofollow" href="/search?Creator=ameadows">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ameadows">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2009-09-09T19:41:57-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/amorgan">
+          <h4 class="credit-name">Ann Morgan</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>21 September 2014</span>.
+          <a rel="nofollow" href="/search?Creator=amorgan">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=amorgan">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2014-09-21T16:32:55-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/avstockhausen">
+          <h4 class="credit-name">Annette von Stockhausen</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>3 September 2015</span>.
+          <a rel="nofollow" href="/search?Creator=avstockhausen">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=avstockhausen">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2015-09-03T14:42:05-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/adgraauw">
+          <h4 class="credit-name">Arthur De Graauw</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reviewer; Member</span>
+          since
+          <span>16 April 2012</span>.
+          <a rel="nofollow" href="/search?Creator=adgraauw">
+            <span>9</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=adgraauw">
+            <span>97</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">106</span>
+          <span class="credit-date" style="display:none;">2012-04-16T08:48:32-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/avarveri">
+          <h4 class="credit-name">Athanasia Varveri</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>21 May 2015</span>.
+          <a rel="nofollow" href="/search?Creator=avarveri">
+            <span>253</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=avarveri">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">255</span>
+          <span class="credit-date" style="display:none;">2015-05-21T06:49:59-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/bduman">
+          <h4 class="credit-name">Bahadir Duman</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>2 January 2013</span>.
+          <a rel="nofollow" href="/search?Creator=bduman">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=bduman">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2013-01-02T08:11:26-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/bcrowther">
+          <h4 class="credit-name">Benjamin M Crowther</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>22 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=bcrowther">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=bcrowther">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2013-04-22T12:14:34-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/btremmel">
+          <h4 class="credit-name">Bettina Tremmel</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>2 December 2011</span>.
+          <a rel="nofollow" href="/search?Creator=btremmel">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=btremmel">
+            <span>6</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-date" style="display:none;">2011-12-02T04:04:38-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/bkiesling">
+          <h4 class="credit-name">Brady Kiesling</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>27 January 2014</span>.
+          <a rel="nofollow" href="/search?Creator=bkiesling">
+            <span>5</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=bkiesling">
+            <span>2144</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2149</span>
+          <span class="credit-date" style="display:none;">2014-01-27T07:37:53-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/bdturner">
+          <h4 class="credit-name">Brian Turner</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>9 July 2009</span>.
+          <a rel="nofollow" href="/search?Creator=bdturner">
+            <span>9</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=bdturner">
+            <span>27</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">36</span>
+          <span class="credit-date" style="display:none;">2009-07-09T08:43:04-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/bazzani">
+        <a rel="nofollow" href="/author/bazzani">
+          <h4 class="credit-name">Bruno Bazzani</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>1 October 2012</span>.
+          <a rel="nofollow" href="/search?Creator=bazzani">
+            <span>8</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=bazzani">
+            <span>8</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">16</span>
+          <span class="credit-date" style="display:none;">2012-10-01T17:25:58-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/cmartinez">
+          <h4 class="credit-name">Carlos Martinez</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>28 April 2015</span>.
+          <a rel="nofollow" href="/search?Creator=cmartinez">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=cmartinez">
+            <span>6</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">9</span>
+          <span class="credit-date" style="display:none;">2015-04-28T17:58:23-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/croueche">
+          <h4 class="credit-name">Charlotte Rouech&#233;</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>25 June 2009</span>.
+          <a rel="nofollow" href="/search?Creator=croueche">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=croueche">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2009-06-25T16:21:26-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/ctupman">
+        <a rel="nofollow" href="/author/ctupman">
+          <h4 class="credit-name">Charlotte Tupman</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>11 February 2017</span>.
+          <a rel="nofollow" href="/search?Creator=ctupman">
+            <span>5</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ctupman">
+            <span>11</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">16</span>
+          <span class="credit-date" style="display:none;">2017-02-11T08:36:34-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/cpalladino">
+          <h4 class="credit-name">Chiara Palladino</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>30 November 2017</span>.
+          <a rel="nofollow" href="/search?Creator=cpalladino">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=cpalladino">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2017-11-30T15:42:52-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/cdukes">
+          <h4 class="credit-name">Christian Dukes</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>.
+          <a rel="nofollow" href="/search?Creator=cdukes">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=cdukes">
+            <span>7</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">7</span>
+          <span class="credit-date" style="display:none;"></span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/chuckj">
+          <h4 class="credit-name">Chuck Jones</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>.
+          <a rel="nofollow" href="/search?Creator=chuckj">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=chuckj">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;"></span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ciarawisecup">
+          <h4 class="credit-name">Ciara L Wisecup</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=ciarawisecup">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ciarawisecup">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2013-04-26T14:03:31-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/chorst">
+          <h4 class="credit-name">Claudia Horst</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>31 March 2016</span>.
+          <a rel="nofollow" href="/search?Creator=chorst">
+            <span>60</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=chorst">
+            <span>69</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">129</span>
+          <span class="credit-date" style="display:none;">2016-03-31T09:53:23-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ctiah">
+          <h4 class="credit-name">Clifflena Tiah</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 September 2016</span>.
+          <a rel="nofollow" href="/search?Creator=ctiah">
+            <span>13</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ctiah">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">16</span>
+          <span class="credit-date" style="display:none;">2016-09-26T12:31:25-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/cargyrakou">
+          <h4 class="credit-name">Constantina Argyrakou</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>18 November 2014</span>.
+          <a rel="nofollow" href="/search?Creator=cargyrakou">
+            <span>6</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=cargyrakou">
+            <span>11</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">17</span>
+          <span class="credit-date" style="display:none;">2014-11-18T09:47:39-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/diffenda">
+        <a rel="nofollow" href="/author/diffenda">
+          <h4 class="credit-name">Dan Diffendale</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>24 September 2011</span>.
+          <a rel="nofollow" href="/search?Creator=diffenda">
+            <span>36</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=diffenda">
+            <span>19</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">55</span>
+          <span class="credit-date" style="display:none;">2011-09-24T17:49:32-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/dpett">
+          <h4 class="credit-name">Daniel Pett</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>.
+          <a rel="nofollow" href="/search?Creator=dpett">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=dpett">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;"></span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/dhoyer">
+          <h4 class="credit-name">Danielle Hoyer</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=dhoyer">
+            <span>6</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=dhoyer">
+            <span>4</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">10</span>
+          <span class="credit-date" style="display:none;">2013-04-26T15:31:21-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/dadima">
+          <h4 class="credit-name">David D&#237;ez Mata</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>11 June 2013</span>.
+          <a rel="nofollow" href="/search?Creator=dadima">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=dadima">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2013-06-11T16:41:42-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/dmichelson">
+          <h4 class="credit-name">David Michelson</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>11 December 2012</span>.
+          <a rel="nofollow" href="/search?Creator=dmichelson">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=dmichelson">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2012-12-11T15:49:36-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mimno">
+          <h4 class="credit-name">David Mimno</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>29 June 2011</span>.
+          <a rel="nofollow" href="/search?Creator=mimno">
+            <span>25</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mimno">
+            <span>24</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">49</span>
+          <span class="credit-date" style="display:none;">2011-06-29T12:22:26-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ddzhigova">
+          <h4 class="credit-name">Denitsa Dzhigova</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>23 March 2016</span>.
+          <a rel="nofollow" href="/search?Creator=ddzhigova">
+            <span>13</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ddzhigova">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">14</span>
+          <span class="credit-date" style="display:none;">2016-03-23T17:17:11-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/dchau">
+          <h4 class="credit-name">Diane Chau</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>1 May 2015</span>.
+          <a rel="nofollow" href="/search?Creator=dchau">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=dchau">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2015-05-01T15:54:03-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/dhagmann">
+        <a rel="nofollow" href="/author/dhagmann">
+          <h4 class="credit-name">Dominik Hagmann</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>9 February 2017</span>.
+          <a rel="nofollow" href="/search?Creator=dhagmann">
+            <span>5</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=dhagmann">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2017-02-09T05:28:05-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ekeogh">
+          <h4 class="credit-name">Edward Keogh</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>2 February 2018</span>.
+          <a rel="nofollow" href="/search?Creator=ekeogh">
+            <span>4</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ekeogh">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">7</span>
+          <span class="credit-date" style="display:none;">2018-02-02T16:11:06-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/eweaverdyck">
+          <h4 class="credit-name">Eli Weaverdyck</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>22 February 2016</span>.
+          <a rel="nofollow" href="/search?Creator=eweaverdyck">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=eweaverdyck">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2016-02-22T15:25:17-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ekolovos">
+          <h4 class="credit-name">Elias Kolovos</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>4 May 2017</span>.
+          <a rel="nofollow" href="/search?Creator=ekolovos">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ekolovos">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2017-05-04T14:45:34-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/efentress">
+          <h4 class="credit-name">Elizabeth Fentress</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>19 December 2013</span>.
+          <a rel="nofollow" href="/search?Creator=efentress">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=efentress">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2013-12-19T14:48:16-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/erobinson">
+          <h4 class="credit-name">Elizabeth Robinson</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>18 July 2016</span>.
+          <a rel="nofollow" href="/search?Creator=erobinson">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=erobinson">
+            <span>118</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">118</span>
+          <span class="credit-date" style="display:none;">2016-07-18T14:43:40-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ekansa">
+          <h4 class="credit-name">Eric Kansa</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>7 March 2011</span>.
+          <a rel="nofollow" href="/search?Creator=ekansa">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ekansa">
+            <span>2989</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2990</span>
+          <span class="credit-date" style="display:none;">2011-03-07T17:12:35-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/fdeblauwe">
+        <a rel="nofollow" href="/author/fdeblauwe">
+          <h4 class="credit-name">Francis Deblauwe</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>19 October 2011</span>.
+          <a rel="nofollow" href="/search?Creator=fdeblauwe">
+            <span>47</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=fdeblauwe">
+            <span>3008</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3055</span>
+          <span class="credit-date" style="display:none;">2011-10-19T13:50:43-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/flynam">
+          <h4 class="credit-name">Frank Lynam</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>31 March 2013</span>.
+          <a rel="nofollow" href="/search?Creator=flynam">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=flynam">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2013-03-31T15:48:06-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/fbrown">
+          <h4 class="credit-name">Frazer Brown</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>7 December 2012</span>.
+          <a rel="nofollow" href="/search?Creator=fbrown">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=fbrown">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2012-12-07T21:02:26-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/gbodard">
+        <a rel="nofollow" href="/author/gbodard">
+          <h4 class="credit-name">Gabriel Bodard</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>23 April 2009</span>.
+          <a rel="nofollow" href="/search?Creator=gbodard">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=gbodard">
+            <span>9</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">12</span>
+          <span class="credit-date" style="display:none;">2009-04-23T12:06:41-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/gmckee">
+        <a rel="nofollow" href="/author/gmckee">
+          <h4 class="credit-name">Gabriel Mckee</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>21 September 2016</span>.
+          <a rel="nofollow" href="/search?Creator=gmckee">
+            <span>673</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=gmckee">
+            <span>66</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">739</span>
+          <span class="credit-date" style="display:none;">2016-09-21T16:55:00-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/gmoss">
+          <h4 class="credit-name">Gabriel Moss</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>9 February 2016</span>.
+          <a rel="nofollow" href="/search?Creator=gmoss">
+            <span>20</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=gmoss">
+            <span>82</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">102</span>
+          <span class="credit-date" style="display:none;">2016-02-09T18:58:27-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/glembi">
+          <h4 class="credit-name">Gaia Lembi</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>.
+          <a rel="nofollow" href="/search?Creator=glembi">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=glembi">
+            <span>4</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-date" style="display:none;"></span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/grees">
+          <h4 class="credit-name">Gethin Rees</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>12 December 2011</span>.
+          <a rel="nofollow" href="/search?Creator=grees">
+            <span>4</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=grees">
+            <span>8</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">12</span>
+          <span class="credit-date" style="display:none;">2011-12-12T11:17:28-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/gboykov">
+        <a rel="nofollow" href="/author/gboykov">
+          <h4 class="credit-name">Grigor Boykov</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 September 2016</span>.
+          <a rel="nofollow" href="/search?Creator=gboykov">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=gboykov">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2016-09-26T02:47:25-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/hspock">
+          <h4 class="credit-name">Hannah Spock</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>28 April 2015</span>.
+          <a rel="nofollow" href="/search?Creator=hspock">
+            <span>5</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=hspock">
+            <span>4</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">9</span>
+          <span class="credit-date" style="display:none;">2015-04-28T18:48:16-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/holgerj">
+          <h4 class="credit-name">Holger R.E. J&#252;rgenliemk</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>29 November 2012</span>.
+          <a rel="nofollow" href="/search?Creator=holgerj">
+            <span>8</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=holgerj">
+            <span>8</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">16</span>
+          <span class="credit-date" style="display:none;">2012-11-29T16:34:19-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/hsypniewski">
+          <h4 class="credit-name">Holly Sypniewski</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 June 2017</span>.
+          <a rel="nofollow" href="/search?Creator=hsypniewski">
+            <span>5</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=hsypniewski">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2017-06-26T09:50:42-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/hcayless">
+          <h4 class="credit-name">Hugh Cayless</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>25 August 2009</span>.
+          <a rel="nofollow" href="/search?Creator=hcayless">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=hcayless">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2009-08-25T23:05:26-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/isoto">
+          <h4 class="credit-name">Irene Soto</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>5 April 2012</span>.
+          <a rel="nofollow" href="/search?Creator=isoto">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=isoto">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2012-04-05T13:54:19-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ivagionakis">
+          <h4 class="credit-name">Irene Vagionakis</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>10 August 2016</span>.
+          <a rel="nofollow" href="/search?Creator=ivagionakis">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ivagionakis">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-date" style="display:none;">2016-08-10T10:03:47-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/irisf">
+          <h4 class="credit-name">Iris Fernandez</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>18 November 2011</span>.
+          <a rel="nofollow" href="/search?Creator=irisf">
+            <span>34</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=irisf">
+            <span>7</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">41</span>
+          <span class="credit-date" style="display:none;">2011-11-18T19:37:19-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jhenshaw">
+          <h4 class="credit-name">Jack Henshaw</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 June 2017</span>.
+          <a rel="nofollow" href="/search?Creator=jhenshaw">
+            <span>6</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jhenshaw">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-date" style="display:none;">2017-06-26T10:32:49-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jmiller">
+          <h4 class="credit-name">Jackson N Miller</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>23 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=jmiller">
+            <span>4</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jmiller">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-date" style="display:none;">2013-04-23T11:11:39-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jraines">
+          <h4 class="credit-name">Jacob Raines</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>27 July 2015</span>.
+          <a rel="nofollow" href="/search?Creator=jraines">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jraines">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2015-07-27T06:41:54-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jlipscomb">
+          <h4 class="credit-name">Jake Lipscomb</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>2 May 2015</span>.
+          <a rel="nofollow" href="/search?Creator=jlipscomb">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jlipscomb">
+            <span>7</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">10</span>
+          <span class="credit-date" style="display:none;">2015-05-02T17:50:12-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/jatkins">
+        <a rel="nofollow" href="/author/jatkins">
+          <h4 class="credit-name">James Atkins</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>25 January 2012</span>.
+          <a rel="nofollow" href="/search?Creator=jatkins">
+            <span>5</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jatkins">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2012-01-25T12:58:59-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jcowey">
+          <h4 class="credit-name">James Cowey</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>13 December 2011</span>.
+          <a rel="nofollow" href="/search?Creator=jcowey">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jcowey">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2011-12-13T10:29:21-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jherbst">
+          <h4 class="credit-name">James Herbst</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>9 August 2013</span>.
+          <a rel="nofollow" href="/search?Creator=jherbst">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jherbst">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2013-08-09T01:40:00-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/newhardj">
+          <h4 class="credit-name">James Newhard</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>5 April 2012</span>.
+          <a rel="nofollow" href="/search?Creator=newhardj">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=newhardj">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2012-04-05T14:01:26-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/jnovotny">
+        <a rel="nofollow" href="/author/jnovotny">
+          <h4 class="credit-name">Jamie Novotny</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>18 December 2015</span>.
+          <a rel="nofollow" href="/search?Creator=jnovotny">
+            <span>1050</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jnovotny">
+            <span>82</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1132</span>
+          <span class="credit-date" style="display:none;">2015-12-18T09:33:41-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jmartinez">
+          <h4 class="credit-name">Javier Mart&#237;nez Jim&#233;nez</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>1 November 2012</span>.
+          <a rel="nofollow" href="/search?Creator=jmartinez">
+            <span>10</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jmartinez">
+            <span>5</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">15</span>
+          <span class="credit-date" style="display:none;">2012-11-01T10:32:25-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jlpiroux">
+          <h4 class="credit-name">Jean Luc PIROUX</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>1 November 2011</span>.
+          <a rel="nofollow" href="/search?Creator=jlpiroux">
+            <span>19</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jlpiroux">
+            <span>18</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">37</span>
+          <span class="credit-date" style="display:none;">2011-11-01T02:41:10-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/jbecker">
+        <a rel="nofollow" href="/author/jbecker">
+          <h4 class="credit-name">Jeffrey Becker</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>24 November 2009</span>.
+          <a rel="nofollow" href="/search?Creator=jbecker">
+            <span>6749</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jbecker">
+            <span>16940</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">23689</span>
+          <span class="credit-date" style="display:none;">2009-11-24T12:31:36-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jkent">
+          <h4 class="credit-name">Joel Michael Kent</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>29 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=jkent">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jkent">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2013-04-29T01:55:46-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jahlfeldt">
+          <h4 class="credit-name">Johan &#197;hlfeldt</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>16 October 2011</span>.
+          <a rel="nofollow" href="/search?Creator=jahlfeldt">
+            <span>2585</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jahlfeldt">
+            <span>2725</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5310</span>
+          <span class="credit-date" style="display:none;">2011-10-16T17:01:27-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/jmuccigr">
+        <a rel="nofollow" href="/author/jmuccigr">
+          <h4 class="credit-name">John Muccigrosso</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 July 2010</span>.
+          <a rel="nofollow" href="/search?Creator=jmuccigr">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jmuccigr">
+            <span>4</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2010-07-26T21:43:27-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jpullen">
+          <h4 class="credit-name">John Pullen</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>3 May 2015</span>.
+          <a rel="nofollow" href="/search?Creator=jpullen">
+            <span>6</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jpullen">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-date" style="display:none;">2015-05-03T20:37:07-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jpaguilar">
+          <h4 class="credit-name">JohnPaul Aguilar</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>.
+          <a rel="nofollow" href="/search?Creator=jpaguilar">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jpaguilar">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;"></span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jprag">
+          <h4 class="credit-name">Jonathan Prag</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>16 July 2015</span>.
+          <a rel="nofollow" href="/search?Creator=jprag">
+            <span>19</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jprag">
+            <span>279</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">298</span>
+          <span class="credit-date" style="display:none;">2015-07-16T08:49:16-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/Jweiland">
+        <a rel="nofollow" href="/author/Jweiland">
+          <h4 class="credit-name">Jonathan Weiland</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>21 March 2013</span>.
+          <a rel="nofollow" href="/search?Creator=Jweiland">
+            <span>11</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=Jweiland">
+            <span>13</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">24</span>
+          <span class="credit-date" style="display:none;">2013-03-21T03:06:10-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jsosin">
+          <h4 class="credit-name">Joshua Sosin</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>13 October 2013</span>.
+          <a rel="nofollow" href="/search?Creator=jsosin">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jsosin">
+            <span>5</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2013-10-13T16:42:48-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/kbender">
+        <a rel="nofollow" href="/author/kbender">
+          <h4 class="credit-name">K. Bender</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 October 2012</span>.
+          <a rel="nofollow" href="/search?Creator=kbender">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=kbender">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2012-10-26T15:14:29-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/kcbruhn">
+          <h4 class="credit-name">Kai-Christian Bruhn</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>14 August 2013</span>.
+          <a rel="nofollow" href="/search?Creator=kcbruhn">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=kcbruhn">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2013-08-14T08:39:57-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/kkocian">
+          <h4 class="credit-name">Kali Kocian</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>24 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=kkocian">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=kkocian">
+            <span>4</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-date" style="display:none;">2013-04-24T17:47:22-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/kmccullough">
+          <h4 class="credit-name">Katelin McCullough</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>13 February 2018</span>.
+          <a rel="nofollow" href="/search?Creator=kmccullough">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=kmccullough">
+            <span>12</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">12</span>
+          <span class="credit-date" style="display:none;">2018-02-13T16:48:51-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/kpetrarca">
+          <h4 class="credit-name">Kelly Petrarca</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>7 July 2015</span>.
+          <a rel="nofollow" href="/search?Creator=kpetrarca">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=kpetrarca">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2015-07-07T17:14:35-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/kerilp">
+          <h4 class="credit-name">Keri Lynne Porter</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>2 May 2013</span>.
+          <a rel="nofollow" href="/search?Creator=kerilp">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=kerilp">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2013-05-02T04:20:09-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/leifuss">
+          <h4 class="credit-name">Leif Isaksen</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>14 September 2009</span>.
+          <a rel="nofollow" href="/search?Creator=leifuss">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=leifuss">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2009-09-14T04:50:09-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/lstaine">
+          <h4 class="credit-name">Lewin Ernest Staine</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>28 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=lstaine">
+            <span>6</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=lstaine">
+            <span>5</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">11</span>
+          <span class="credit-date" style="display:none;">2013-04-28T20:10:08-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/lholman">
+          <h4 class="credit-name">Lindsay Holman</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>5 September 2017</span>.
+          <a rel="nofollow" href="/search?Creator=lholman">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=lholman">
+            <span>4</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2017-09-05T12:30:36-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/lstylianopoulos">
+          <h4 class="credit-name">Lucie Stylianopoulos</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>30 November 2017</span>.
+          <a rel="nofollow" href="/search?Creator=lstylianopoulos">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=lstylianopoulos">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2017-11-30T14:50:36-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mbroquin">
+          <h4 class="credit-name">Marc Broquin</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 January 2014</span>.
+          <a rel="nofollow" href="/search?Creator=mbroquin">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mbroquin">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2014-01-26T13:31:24-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mkrier">
+          <h4 class="credit-name">Mark Krier</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>20 December 2012</span>.
+          <a rel="nofollow" href="/search?Creator=mkrier">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mkrier">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2012-12-20T13:44:23-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mjredondo">
+          <h4 class="credit-name">Mar&#237;a Jes&#250;s Redondo</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>24 August 2016</span>.
+          <a rel="nofollow" href="/search?Creator=mjredondo">
+            <span>233</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mjredondo">
+            <span>37</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">270</span>
+          <span class="credit-date" style="display:none;">2016-08-24T17:55:42-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mgander">
+          <h4 class="credit-name">Max Gander</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>15 January 2013</span>.
+          <a rel="nofollow" href="/search?Creator=mgander">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mgander">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2013-01-15T17:48:46-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mhubbard">
+          <h4 class="credit-name">McKenna Hubbard</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>28 April 2015</span>.
+          <a rel="nofollow" href="/search?Creator=mhubbard">
+            <span>9</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mhubbard">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">9</span>
+          <span class="credit-date" style="display:none;">2015-04-28T16:41:40-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mheubel">
+          <h4 class="credit-name">Michael Heubel</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>8 October 2013</span>.
+          <a rel="nofollow" href="/search?Creator=mheubel">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mheubel">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2013-10-08T17:48:14-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mhorst">
+          <h4 class="credit-name">Michael Horst</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>21 April 2015</span>.
+          <a rel="nofollow" href="/search?Creator=mhorst">
+            <span>10</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mhorst">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">10</span>
+          <span class="credit-date" style="display:none;">2015-04-21T13:05:14-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/msatlow">
+          <h4 class="credit-name">Michael Satlow</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>.
+          <a rel="nofollow" href="/search?Creator=msatlow">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=msatlow">
+            <span>6</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-date" style="display:none;"></span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mwilloughby">
+          <h4 class="credit-name">Michelle Willoughby</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>28 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=mwilloughby">
+            <span>6</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mwilloughby">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">9</span>
+          <span class="credit-date" style="display:none;">2013-04-28T00:27:24-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/mdurusu">
+        <a rel="nofollow" href="/author/mdurusu">
+          <h4 class="credit-name">M&#252;ge Durusu</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>23 October 2016</span>.
+          <a rel="nofollow" href="/search?Creator=mdurusu">
+            <span>7</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mdurusu">
+            <span>8</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">15</span>
+          <span class="credit-date" style="display:none;">2016-10-23T15:15:23-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/nnagy">
+          <h4 class="credit-name">Nate Nagy</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>13 September 2010</span>.
+          <a rel="nofollow" href="/search?Creator=nnagy">
+            <span>36</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=nnagy">
+            <span>7</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">43</span>
+          <span class="credit-date" style="display:none;">2010-09-13T12:54:13-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/nprevot">
+          <h4 class="credit-name">Nathalie Pr&#233;v&#244;t</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>19 January 2018</span>.
+          <a rel="nofollow" href="/search?Creator=nprevot">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=nprevot">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2018-01-19T09:51:31-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/nevenj">
+        <a rel="nofollow" href="/author/nevenj">
+          <h4 class="credit-name">Neven Jovanovic</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>1 October 2012</span>.
+          <a rel="nofollow" href="/search?Creator=nevenj">
+            <span>10</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=nevenj">
+            <span>4</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">14</span>
+          <span class="credit-date" style="display:none;">2012-10-01T14:51:51-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ndarbyshire">
+          <h4 class="credit-name">Nicholas Darbyshire</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>3 January 2013</span>.
+          <a rel="nofollow" href="/search?Creator=ndarbyshire">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ndarbyshire">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2013-01-03T07:37:35-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/naravecchia">
+          <h4 class="credit-name">Nicola Aravecchia</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 June 2009</span>.
+          <a rel="nofollow" href="/search?Creator=naravecchia">
+            <span>8</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=naravecchia">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">11</span>
+          <span class="credit-date" style="display:none;">2009-06-26T11:05:31-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/nshafir">
+          <h4 class="credit-name">Nir Shafir</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>20 June 2016</span>.
+          <a rel="nofollow" href="/search?Creator=nshafir">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=nshafir">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2016-06-20T16:27:51-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/nkaye">
+          <h4 class="credit-name">Noah Kaye</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>8 December 2012</span>.
+          <a rel="nofollow" href="/search?Creator=nkaye">
+            <span>20</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=nkaye">
+            <span>49</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">69</span>
+          <span class="credit-date" style="display:none;">2012-12-08T09:47:02-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/nouraa">
+          <h4 class="credit-name">Noura Alavi</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>22 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=nouraa">
+            <span>7</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=nouraa">
+            <span>4</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">11</span>
+          <span class="credit-date" style="display:none;">2013-04-22T18:08:00-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/nstrupler">
+          <h4 class="credit-name">N&#233;h&#233;mie Strupler</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>9 February 2016</span>.
+          <a rel="nofollow" href="/search?Creator=nstrupler">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=nstrupler">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2016-02-09T10:32:28-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/pdevarney">
+          <h4 class="credit-name">Patrick DeVarney</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>28 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=pdevarney">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=pdevarney">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2013-04-28T17:37:33-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/pscalfano">
+          <h4 class="credit-name">Perry Scalfano</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reviewer; Member</span>
+          since
+          <span>19 March 2012</span>.
+          <a rel="nofollow" href="/search?Creator=pscalfano">
+            <span>14</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=pscalfano">
+            <span>236</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">250</span>
+          <span class="credit-date" style="display:none;">2012-03-19T11:08:39-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/cobbp">
+        <a rel="nofollow" href="/author/cobbp">
+          <h4 class="credit-name">Peter Cobb</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>5 February 2014</span>.
+          <a rel="nofollow" href="/search?Creator=cobbp">
+            <span>14</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=cobbp">
+            <span>9</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">23</span>
+          <span class="credit-date" style="display:none;">2014-02-05T10:44:10-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ppilhofer">
+          <h4 class="credit-name">Philipp Pilhofer</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>14 July 2014</span>.
+          <a rel="nofollow" href="/search?Creator=ppilhofer">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ppilhofer">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2014-07-14T18:15:57-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/pacheson">
+          <h4 class="credit-name">Phoebe Acheson</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>24 January 2011</span>.
+          <a rel="nofollow" href="/search?Creator=pacheson">
+            <span>6</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=pacheson">
+            <span>27</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">33</span>
+          <span class="credit-date" style="display:none;">2011-01-24T11:22:28-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/pmotylewicz">
+          <h4 class="credit-name">Pierre Motylewicz</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>25 August 2015</span>.
+          <a rel="nofollow" href="/search?Creator=pmotylewicz">
+            <span>43</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=pmotylewicz">
+            <span>38</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">81</span>
+          <span class="credit-date" style="display:none;">2015-08-25T14:08:54-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/pschneider">
+          <h4 class="credit-name">Pierre Schneider</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>7 October 2012</span>.
+          <a rel="nofollow" href="/search?Creator=pschneider">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=pschneider">
+            <span>5</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2012-10-07T16:18:17-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/pliuzzo">
+          <h4 class="credit-name">Pietro Maria Liuzzo</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>3 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=pliuzzo">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=pliuzzo">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2013-04-03T01:14:37-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rbrowning">
+          <h4 class="credit-name">Rachaelle L Browning</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>24 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=rbrowning">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rbrowning">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2013-04-24T14:04:24-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rbenefiel">
+          <h4 class="credit-name">Rebecca Benefiel</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>21 June 2017</span>.
+          <a rel="nofollow" href="/search?Creator=rbenefiel">
+            <span>4</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rbenefiel">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2017-06-21T10:02:33-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/renevoorburg">
+          <h4 class="credit-name">Ren&#233; Voorburg</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>25 July 2011</span>.
+          <a rel="nofollow" href="/search?Creator=renevoorburg">
+            <span>5</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=renevoorburg">
+            <span>5</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">10</span>
+          <span class="credit-date" style="display:none;">2011-07-25T16:49:21-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rmursinna">
+          <h4 class="credit-name">Rio Mursinna</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>3 May 2015</span>.
+          <a rel="nofollow" href="/search?Creator=rmursinna">
+            <span>8</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rmursinna">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">9</span>
+          <span class="credit-date" style="display:none;">2015-05-03T14:43:30-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rchavez">
+          <h4 class="credit-name">Rob Chavez</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>28 August 2010</span>.
+          <a rel="nofollow" href="/search?Creator=rchavez">
+            <span>12</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rchavez">
+            <span>28</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">40</span>
+          <span class="credit-date" style="display:none;">2010-08-28T13:56:17-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rcamp">
+          <h4 class="credit-name">Robert B Camp</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>2 May 2013</span>.
+          <a rel="nofollow" href="/search?Creator=rcamp">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rcamp">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2013-05-02T12:38:12-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rconsoli">
+          <h4 class="credit-name">Robert Consoli</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>19 September 2012</span>.
+          <a rel="nofollow" href="/search?Creator=rconsoli">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rconsoli">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2012-09-19T21:58:10-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rmcneil">
+          <h4 class="credit-name">Robert McNeil</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>29 April 2015</span>.
+          <a rel="nofollow" href="/search?Creator=rmcneil">
+            <span>9</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rmcneil">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">9</span>
+          <span class="credit-date" style="display:none;">2015-04-29T14:58:39-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/komponisto">
+          <h4 class="credit-name">Robin Iversen R&#246;nnlund</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>7 September 2011</span>.
+          <a rel="nofollow" href="/search?Creator=komponisto">
+            <span>28</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=komponisto">
+            <span>15</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">43</span>
+          <span class="credit-date" style="display:none;">2011-09-07T10:00:48-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rrumora">
+          <h4 class="credit-name">Roko Rumora</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>13 June 2012</span>.
+          <a rel="nofollow" href="/search?Creator=rrumora">
+            <span>21</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rrumora">
+            <span>7</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">28</span>
+          <span class="credit-date" style="display:none;">2012-06-13T14:16:49-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/rrattenborg">
+        <a rel="nofollow" href="/author/rrattenborg">
+          <h4 class="credit-name">Rune Rattenborg</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>9 August 2018</span>.
+          <a rel="nofollow" href="/search?Creator=rrattenborg">
+            <span>4</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rrattenborg">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2018-08-09T04:56:59-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rfbaumann">
+          <h4 class="credit-name">Ryan Baumann</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>7 February 2013</span>.
+          <a rel="nofollow" href="/search?Creator=rfbaumann">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rfbaumann">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2013-02-07T16:10:44-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/rmhorne">
+        <a rel="nofollow" href="/author/rmhorne">
+          <h4 class="credit-name">Ryan Horne</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>5 October 2012</span>.
+          <a rel="nofollow" href="/search?Creator=rmhorne">
+            <span>393</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rmhorne">
+            <span>1163</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1556</span>
+          <span class="credit-date" style="display:none;">2012-10-05T12:16:24-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/rmoffat">
+        <a rel="nofollow" href="/author/rmoffat">
+          <h4 class="credit-name">STEFAN MOFFAT</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>6 January 2014</span>.
+          <a rel="nofollow" href="/search?Creator=rmoffat">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rmoffat">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2014-01-06T17:01:50-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/shales">
+          <h4 class="credit-name">Sara Hales</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>5 February 2018</span>.
+          <a rel="nofollow" href="/search?Creator=shales">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=shales">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2018-02-05T22:28:58-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/sbond">
+        <a rel="nofollow" href="/author/sbond">
+          <h4 class="credit-name">Sarah Bond</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>18 September 2013</span>.
+          <a rel="nofollow" href="/search?Creator=sbond">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=sbond">
+            <span>25</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">28</span>
+          <span class="credit-date" style="display:none;">2013-09-18T19:02:47-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/sarcanon">
+          <h4 class="credit-name">Scott Vanderbilt</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>1 February 2011</span>.
+          <a rel="nofollow" href="/search?Creator=sarcanon">
+            <span>763</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=sarcanon">
+            <span>132</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">895</span>
+          <span class="credit-date" style="display:none;">2011-02-01T17:48:18-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/sebs">
+          <h4 class="credit-name">Sebastian Heath</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>9 September 2009</span>.
+          <a rel="nofollow" href="/search?Creator=sebs">
+            <span>4</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=sebs">
+            <span>14</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">18</span>
+          <span class="credit-date" style="display:none;">2009-09-09T15:12:00-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ssmith">
+          <h4 class="credit-name">Shanell Smith</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>3 May 2015</span>.
+          <a rel="nofollow" href="/search?Creator=ssmith">
+            <span>3</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ssmith">
+            <span>7</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">10</span>
+          <span class="credit-date" style="display:none;">2015-05-03T22:25:33-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/simonkh">
+          <h4 class="credit-name">Simon Krause-Heiber</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>13 January 2016</span>.
+          <a rel="nofollow" href="/search?Creator=simonkh">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=simonkh">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2016-01-13T14:13:10-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/belizarius">
+          <h4 class="credit-name">Stanis&#322;aw Ludwi&#324;ski</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>16 December 2016</span>.
+          <a rel="nofollow" href="/search?Creator=belizarius">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=belizarius">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2016-12-16T16:10:21-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/scosta">
+        <a rel="nofollow" href="/author/scosta">
+          <h4 class="credit-name">Stefano Costa</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>16 November 2010</span>.
+          <a rel="nofollow" href="/search?Creator=scosta">
+            <span>58</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=scosta">
+            <span>48</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">106</span>
+          <span class="credit-date" style="display:none;">2010-11-16T15:12:40-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/sluecke">
+          <h4 class="credit-name">Stephan Luecke</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>17 January 2019</span>.
+          <a rel="nofollow" href="/search?Creator=sluecke">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=sluecke">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2019-01-17T04:16:51-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/smaurer">
+          <h4 class="credit-name">Stephan Maurer</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>15 December 2017</span>.
+          <a rel="nofollow" href="/search?Creator=smaurer">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=smaurer">
+            <span>17</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">17</span>
+          <span class="credit-date" style="display:none;">2017-12-15T14:37:34-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/swright">
+          <h4 class="credit-name">Sterling Wright</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>24 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=swright">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=swright">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2013-04-24T10:04:41-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/sdunn">
+          <h4 class="credit-name">Stuart Dunn</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>9 September 2009</span>.
+          <a rel="nofollow" href="/search?Creator=sdunn">
+            <span>19</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=sdunn">
+            <span>17</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">36</span>
+          <span class="credit-date" style="display:none;">2009-09-09T16:48:29-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/saloni">
+          <h4 class="credit-name">Syvanne Aloni</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>13 June 2017</span>.
+          <a rel="nofollow" href="/search?Creator=saloni">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=saloni">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2017-06-13T06:14:39-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/sstark">
+          <h4 class="credit-name">S&#246;ren Stark</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>14 March 2014</span>.
+          <a rel="nofollow" href="/search?Creator=sstark">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=sstark">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2014-03-14T12:25:26-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/tcarlson">
+          <h4 class="credit-name">Thomas Carlson</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>26 October 2012</span>.
+          <a rel="nofollow" href="/search?Creator=tcarlson">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=tcarlson">
+            <span>7</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">8</span>
+          <span class="credit-date" style="display:none;">2012-10-26T18:03:01-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/tlandvatter">
+          <h4 class="credit-name">Thomas Landvatter</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>19 January 2017</span>.
+          <a rel="nofollow" href="/search?Creator=tlandvatter">
+            <span>42</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=tlandvatter">
+            <span>9</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">51</span>
+          <span class="credit-date" style="display:none;">2017-01-19T17:08:43-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/telliott">
+          <h4 class="credit-name">Tom Elliott</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>15 May 2018</span>.
+          <a rel="nofollow" href="/search?Creator=telliott">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=telliott">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2018-05-15T12:39:32-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/vvitale">
+        <a rel="nofollow" href="/author/vvitale">
+          <h4 class="credit-name">Valeria Vitale</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
+          since
+          <span>20 May 2015</span>.
+          <a rel="nofollow" href="/search?Creator=vvitale">
+            <span>488</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=vvitale">
+            <span>110</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">598</span>
+          <span class="credit-date" style="display:none;">2015-05-20T09:40:20-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/vpapathanasiou">
+          <h4 class="credit-name">Vasiliki Papathanasiou</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>21 May 2015</span>.
+          <a rel="nofollow" href="/search?Creator=vpapathanasiou">
+            <span>74</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=vpapathanasiou">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">74</span>
+          <span class="credit-date" style="display:none;">2015-05-21T12:47:01-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/wtuttle">
+          <h4 class="credit-name">Wade Tuttle</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>7 July 2015</span>.
+          <a rel="nofollow" href="/search?Creator=wtuttle">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=wtuttle">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2015-07-07T10:39:25-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/bcaraher">
+          <h4 class="credit-name">William Caraher</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>20 July 2017</span>.
+          <a rel="nofollow" href="/search?Creator=bcaraher">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=bcaraher">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2017-07-20T12:32:03-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+    </div>
 
-                                    <span class="discreet">
-                                    by sgillies,
-                                    Nov 06, 2012 06:44 AM
-                                    </span>
+<div>
+<p>Funding for the creation of this on-going digital publication has been provided by the participating institutions, 
+      and by grants (2006-2014) from the U.S.
+      <a href="http://www.neh.gov">National Endowment for the Humanities</a>.
+    </p>
 
-                                </dt>
+    <p>Pleiades incorporates content from the following works:</p> 
+    <ul>
+      <li>Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.) <em>Digital Atlas of Roman and Medieval 
+      Civilizations,</em> Harvard University Center for Geographic Analysis:
+      <a href="http://darmc.harvard.edu/">http://darmc.harvard.edu</a>.</li>
+      <li>Richard Talbert (ed.), <em>Barrington Atlas of the Greek and Roman World,</em> Princeton, 2000.</li>
+    </ul>
 
-                                <dd>Plone Hotfix 20121106 (Nov 06, 2012)  was applied this morning.</dd>
+    <p>The website theme is adapted from
+      <a href="http://plone.org/products/plonetheme-notredame">plonetheme.notredame</a>
+      by
+      <a class="external-link" href="http://plone.org/author/daftdog">Christian Schneider</a>.
+    </p>
 
-                            
-                        
-                        
-                            
-                                <dt class="contenttype-news-item">
-                                  
-                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/pleiades-site-upgrade-2011-02-07" class="state-published">Pleiades site upgrade 2011-02-07</a>
+    <p>The banner image of the 
+      <a href="http://en.wikipedia.org/wiki/Nereid_Monument">Nereid Monument</a>
+      is adapted from a photo by
+      <a href="http://www.flickr.com/photos/jikamajoja/796816947/">jikamajoja</a>. The home page also uses images from
+      <a class="external-link" href="http://en.wikipedia.org/wiki/File:Mosaique_du_Nil_(palais_Barberini).JPG">Wikipedia</a>,
+      <a class="external-link" href="http://www.flickr.com/photos/dandiffendale/2344521696/in/pool-1282398@N20/">Dan Diffendale (on Flickr)</a>, and NYU's
+      <a class="external-link" href="http://www.flickr.com/photos/isawnyu/4727178977/in/set-72157624340575014/">Ancient World Image Bank (on Flickr)</a>.
+    </p>
 
-                                    <span class="discreet">
-                                    by sgillies,
-                                    May 18, 2012 09:54 AM
-                                    </span>
+    <p>The dynamic maps found throughout the website were designed and coded by Sean Gillies and Tom Elliott using the 
+      <a href="http://leafletjs.com/">Leaflet Javascript map library</a>. User-selectable terrain layers are provided, including:</p>
+    <ul>
+      <li>"Ancient terrain (default)" (2014) by Ryan Horne, et al. for AWMC. See further: 
+        <a href="http://awmc.unc.edu/wordpress/tiles/map-tile-information">AWMC Map Tiles</a>.</li>
+      <li>"Modern terrain" and "Modern Streets" (2012) by Sean Gillies for ISAW</li>
+      <li>"Roman Empire" (2012) by Johan &#197;hlfeldt for the <a href="http://pelagios-project.blogspot.com/">Pelagios Project</a>. See further: 
+        <a href="http://pelagios.dme.ait.ac.at/maps/greco-roman/about.html">About the Digital Map of the Roman Empire</a>.</li>
+    </ul>
+    <p>The AWMC and ISAW map bases are served to the web via <a href="https://www.mapbox.com/">Mapbox.com</a>; funding provided by ISAW.</p>
 
-                                </dt>
+    <p>
+      The presentation of credits on this page is intended to conform to the emerging best practice in digital humanities projects as reflected in the draft
+      <a class="external-link" href="http://mediacommons.futureofthebook.org/mcpress/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/">Collaborators' Bill of Rights</a>
+      and the
+      <a href="http://faircite.wordpress.com/">Fair Cite Initiative</a>.
+    </p>
+</div>
 
-                                <dd>The Pleiades site will be read-only from 15:00-21:00 UTC on February 7</dd>
+    <script type="text/javascript">
+(function($) {
 
-                            
-                        
-                        
-                            
-                                <dt class="contenttype-news-item">
-                                  
-                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/upgrade-completion" class="state-published">Upgrade completion</a>
+  function sortCredits(key) {
+    var list = $('div#credits-list');
+    var items = list.children('div.credit-record');
+    items.sort(function(a, b) {
+      var compA = $('.credit-' + key, $(a)).text();
+      var compB = $('.credit-' + key, $(b)).text();
+      return (compA > compB) ? 1 : (compA < compB) ? -1 : 0;
+    });
+    $.each(items, function(idx, itm) { list.append(itm); });
+  }
 
-                                    <span class="discreet">
-                                    by sgillies,
-                                    May 18, 2012 09:54 AM
-                                    </span>
+  function sortCreditsCount() {
+    var list = $('div#credits-list');
+    var items = list.children('div.credit-record');
+    items.sort(function(a, b) {
+      var compA = parseInt($('.credit-count', $(a)).text());
+      var compB = parseInt($('.credit-count', $(b)).text());
+      return (compA < compB) ? 1 : (compA > compB) ? -1 : 0;
+    });
+    $.each(items, function(idx, itm) { list.append(itm); });
+  }
 
-                                </dt>
+  function reverseCredits() {
+    var list = $('div#credits-list');
+    var items = list.children('div.credit-record');
+    var arr = $.makeArray(items);
+    arr.reverse();
+    $.each(arr, function(idx, itm) { list.append(itm); });
+  }
 
-                                <dd>We're now running Plone 3.3.5 with the latest security patch and the site is again read-write</dd>
+  $(function() {
 
-                            
-                        
-                        
-                            
-                                <dt class="contenttype-news-item">
-                                  
-                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/get-help" class="state-published">Get help</a>
+    $('a#sort-name').click(function(evt){
+      evt.preventDefault();
+      if ($(this).css('font-weight') == 'bold') {
+        reverseCredits();
+      }
+      else {
+        $('#sort-actions a').css('font-weight', 'normal');
+        $(this).css('font-weight', 'bold');
+        sortCredits('name');
+      }
+    });
 
-                                    <span class="discreet">
-                                    by sgillies,
-                                    May 18, 2012 09:54 AM
-                                    </span>
+    $('a#sort-count').click(function(evt){
+      evt.preventDefault();
+      if ($(this).css('font-weight') == 'bold') {
+        reverseCredits();
+      }
+      else {
+        $('#sort-actions a').css('font-weight', 'normal');
+        $(this).css('font-weight', 'bold');
+        sortCreditsCount();
+      }
+    });
 
-                                </dt>
+    $('a#sort-roles').click(function(evt){
+      evt.preventDefault();
+      if ($(this).css('font-weight') == 'bold') {
+        reverseCredits();
+      }
+      else {
+        $('#sort-actions a').css('font-weight', 'normal');
+        $(this).css('font-weight', 'bold');
+        sortCredits('roles');
+      }
+    });
 
-                                <dd>We're making the site more helpful</dd>
+    $('a#sort-date').click(function(evt){
+      evt.preventDefault();
+      if ($(this).css('font-weight') == 'bold') {
+        reverseCredits();
+      }
+      else {
+        $('#sort-actions a').css('font-weight', 'normal');
+        $(this).css('font-weight', 'bold');
+        sortCredits('date');
+      }
+    });
 
-                            
-                        
-                        
-                            
-                                <dt class="contenttype-news-item">
-                                  
-                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/kml-formatting-for-search-results" class="state-published">KML formatting for search results</a>
+  });
 
-                                    <span class="discreet">
-                                    by sgillies,
-                                    May 18, 2012 09:54 AM
-                                    </span>
-
-                                </dt>
-
-                                <dd>Search results can now be had as KML and viewed in Google Earth</dd>
-
-                            
-                        
-                        
-                            
-                                <dt class="contenttype-news-item">
-                                  
-                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/evolution-of-the-pleiades-brand" class="state-published">Evolution of the Pleiades brand</a>
-
-                                    <span class="discreet">
-                                    by sgillies,
-                                    May 18, 2012 09:54 AM
-                                    </span>
-
-                                </dt>
-
-                                <dd>We have a new icon for Pleiades and partner sites</dd>
-
-                            
-                        
-                        
-                            
-                                <dt class="contenttype-news-item">
-                                  
-                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/monitoring-the-editorial-process-2" class="state-published">Monitoring the editorial process: 2</a>
-
-                                    <span class="discreet">
-                                    by sgillies,
-                                    May 18, 2012 09:54 AM
-                                    </span>
-
-                                </dt>
-
-                                <dd>Part 2 in a series of recipes for getting information about the editorial process out of Pleiades</dd>
-
-                            
-                        
-                        
-                            
-                                <dt class="contenttype-news-item">
-                                  
-                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/navigating-name-resources" class="state-published">Navigating name resources</a>
-
-                                    <span class="discreet">
-                                    by sgillies,
-                                    May 18, 2012 09:54 AM
-                                    </span>
-
-                                </dt>
-
-                                <dd>On an effort to improve discoverability and navigability of name resources</dd>
-
-                            
-                        
-                        
-                            
-                                <dt class="contenttype-news-item">
-                                  
-                                   <a href="https://pleiades.stoa.org/Members/sgillies/news-items/material-tags-for-mines-and-quarries" class="state-published">Material tags for mines and quarries</a>
-
-                                    <span class="discreet">
-                                    by sgillies,
-                                    May 18, 2012 09:54 AM
-                                    </span>
-
-                                </dt>
-
-                                <dd>It's now possible to dig in Pleiades for gold and silver</dd>
-
-                            
-                        
-                        
-                            
-                                <dt class="contenttype-document">
-                                  
-                                   <a href="https://pleiades.stoa.org/help/pleiades-data-model" class="state-published">Pleiades Data Model</a>
-
-                                    <span class="discreet">
-                                    by thomase,
-                                    Apr 09, 2017 06:41 AM
-                                    </span>
-
-                                </dt>
-
-                                <dd>This document provides an overview of the manner in which Pleiades content is modeled in the database.</dd>
-
-                            
-                        
-
-                        </dl>
-
-                    
-                </div>
-            
-
-        
-
-        
-
-        
-        
-
-
+})(jQuery);
+</script>
+  </div>
                         </div>
                     
 
@@ -433,6 +3811,9 @@ create, and share historical geographic information about the Greek and Roman Wo
             
 
             <div id="viewlet-below-content">
+
+
+
 </div>
           </div>
           <div class="visualClear" id="clear-space-after-portal-wrapper"><!-- --></div>
@@ -480,5 +3861,7 @@ Please see our <a href="https://pleiades.stoa.org/credits">credits</a>.
 
   </div>
 </div>
-</body>
+<script type="text/javascript">//<!--
+window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8413aea1c7","agent":"","transactionName":"ZARbMUpZWUECABANXF1OYwpIXQUdMxELAEZQFUpLaFlQVzcGCRRfUhVcFhZiWEIGMwUDVmcEVBVUWUNXTTkLFFZjAF4AbF1aQg8CEAE=","applicationID":"17811158","errorBeacon":"bam.nr-data.net","applicationTime":6955}
+//--></script></body>
 </html>
