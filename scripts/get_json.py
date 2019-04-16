@@ -29,7 +29,8 @@ OPTIONAL_ARGUMENTS = [
         False],
     ['-f', '--from', '', 'email address', False],
     ['-x', '--overwrite', False,
-        'parse dates in files instead of timestamps on files', False]
+        'parse dates in files instead of timestamps on files', False],
+    ['-r', '--rewrite', False, 'write everything', False]
 ]
 POSITIONAL_ARGUMENTS = [
     # each row is a list with 3 elements: name, type, help
@@ -90,7 +91,9 @@ def main(**kwargs):
         path = '{}.json'.format(join(*parts))
         path = abspath(realpath(path))
         save = False
-        if kwargs['overwrite']:
+        if kwargs['rewrite']:
+            save = True
+        elif kwargs['overwrite']:
             try:
                 with open(path, 'r') as f:
                     fp = json.load(f)
