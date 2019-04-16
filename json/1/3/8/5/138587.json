@@ -6,6 +6,37 @@
         -2.959754,
         47.3846318
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/138644",
+            "contributors": [],
+            "created": "2016-07-13T13:58:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "138644",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Veneticae (islands)",
+            "uri": "https://pleiades.stoa.org/places/138587/138644"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/138644"
     ],
@@ -105,10 +136,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -127,6 +161,10 @@
             "featureType": [
                 "island",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -151,6 +189,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 4534301, version 33, osm:changeset=14153889, 2012-12-04T17:09:03Z)",
             "references": [
                 {
@@ -158,6 +200,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 4534301",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=4534301",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -174,14 +217,19 @@
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -240,6 +288,9 @@
             "uri": "https://pleiades.stoa.org/places/138587/siata"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
+    ],
     "placeTypes": [
         "island"
     ],
@@ -250,6 +301,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 14 C1 Siata? Ins.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -260,29 +312,32 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Siata",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Siata",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Houat",
+            "accessURI": "https://en.wikipedia.org/wiki/Houat",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Houat",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Houat",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Houat.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://fr.wikipedia.org/wiki/%C3%8Ele-d'Houat",
+            "accessURI": "https://fr.wikipedia.org/wiki/%C3%8Ele-d'Houat",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (French), \tÎle-d'Houat",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
+            "citationDetail": "Île-d'Houat",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), Île-d'Houat.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (French)",
             "type": "seeFurther"
         }
     ],

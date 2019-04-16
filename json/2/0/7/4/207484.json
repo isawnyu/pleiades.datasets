@@ -6,6 +6,37 @@
         22.3122814,
         44.6569375
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/226577",
+            "contributors": [],
+            "created": "2016-07-13T13:59:27Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "226577",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Danuvius/Istros/Hister fl.",
+            "uri": "https://pleiades.stoa.org/places/207484/226577"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/226577"
     ],
@@ -126,10 +157,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "restored",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -154,6 +188,9 @@
             "end": 2100,
             "featureType": [
                 "monument"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument"
             ],
             "geometry": {
                 "coordinates": [
@@ -183,6 +220,9 @@
             "locationType": [
                 "relocated_modern"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument"
+            ],
             "provenance": "OpenStreetMap (Node 1918839400, version 5, osm:changeset=43577940, 2016-11-12T10:04:53Z)",
             "references": [
                 {
@@ -190,6 +230,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 1918839400",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=1918839400",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -203,6 +244,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/monument"
+    ],
     "placeTypes": [
         "monument"
     ],
@@ -213,6 +257,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 21 E5 Tabula Traiana",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -223,6 +268,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/i.html#ILIug-63",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "ILIug 63",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -233,6 +279,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U8NJVRER",
             "citationDetail": "113-14",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Aquincum - Sarmizegetusa - Sirmium</i>. Tabula Imperii Romani L34. Budapest, Hungary: Cartographia Budapest; Magyar Tudományos Akadémia: Archaeologiai Bizottság, 1968.</div>",
             "otherIdentifier": "",
             "shortTitle": "TIR Aquincum",
@@ -243,19 +290,21 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7J8DPX38",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">P. Petrović. “Rimski Put U Djerdapu / La Voie Romaine Dans Les Portes de Fer.” <i>Starinar</i> 37 (1986): 41–52.</div>",
             "otherIdentifier": "",
             "shortTitle": "Petrović 1986",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Trajan%27s_Bridge",
+            "accessURI": "https://en.wikipedia.org/wiki/Trajan%27s_Bridge",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Trajan's Bridge",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Trajan's Bridge",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Trajan's Bridge.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         },
         {
@@ -263,6 +312,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "HD011474",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -271,11 +321,12 @@
         {
             "accessURI": "https://de.wikipedia.org/wiki/Tabula_Traiana",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (German), Tabula Traiana",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
+            "citationDetail": "Tabula Traiana",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Tabula Traiana.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (German)",
             "type": "seeFurther"
         },
         {
@@ -283,6 +334,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "TM Text id 192652",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -293,17 +345,19 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Lupa 15228",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://darmc.harvard.edu/home",
+            "accessURI": "https://darmc.harvard.edu/",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FG54V3UQ",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
             "citationDetail": "16222",
-            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick. “The Digital Atlas of Roman and Medieval Civilizations,” 2007. http://darmc.harvard.edu/home.</div>",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 16222.",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"

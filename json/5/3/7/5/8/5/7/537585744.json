@@ -6,6 +6,62 @@
         12.5150843,
         41.8876475
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/423025",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:53:25Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "reference, changed cnxn type",
+                    "modified": "2018-07-01T18:50:43Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "423025",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://de.wikisource.org/wiki/RE:Castrense_amphitheatrum",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "RE:Castrense amphitheatrum",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Roma",
+            "uri": "https://pleiades.stoa.org/places/537585744/423025"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423025"
     ],
@@ -85,14 +141,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -111,6 +172,10 @@
             "featureType": [
                 "amphitheatre",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -151,6 +216,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 1791417716, version 1, osm:changeset=11923571, 2012-06-17T09:54:52Z)",
             "references": [
                 {
@@ -158,6 +227,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 1791417716",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=1791417716",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -171,6 +241,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
+    ],
     "placeTypes": [
         "amphitheatre"
     ],
@@ -181,6 +254,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Amphitheatrum Castrense",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Amphitheatrum Castrense.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -191,6 +265,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Platner and Ashby 1929 (Perseus), AMPHITHEATRUM CASTRENSE",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -201,6 +276,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Paus. 5.12.6",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -211,6 +287,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 8015086",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -221,6 +298,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE:Castrense amphitheatrum",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -231,6 +309,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
             "citationDetail": "Q475012",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",

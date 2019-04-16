@@ -3,10 +3,13 @@
     "bbox": [
         6.238405,
         46.380843,
-        6.2412447,
-        46.3831955
+        6.238405,
+        46.380843
     ],
-    "connectsWith": [],
+    "connections": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/290096493"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -68,24 +71,6 @@
                 "title": "DARMC location 12060"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    6.2412447,
-                    46.3831955
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/177496/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "location of Roman amphitheater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -142,18 +127,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -174,6 +166,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -203,120 +198,52 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 12060",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "12060",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12060.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
             "title": "DARMC location 12060",
             "uri": "https://pleiades.stoa.org/places/177496/darmc-location-12060"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2014-01-19T01:24:27Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    6.2412447,
-                    46.3831955
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2014-01-19T01:25:19Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-01-19T01:24:30Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 36853557, version 4, osm:changeset=15907105, 2013-04-29T11:31:28Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/36853557",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 36853557",
-                    "formattedCitation": "osm:way=36853557",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://www.nyon.ch/fr/vivre/culture-histoire/amphitheatre-romain-617-3866",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "AMPHITHÉÂTRE ROMAIN",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/177496/location-of-roman-amphitheater"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -373,10 +300,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -433,10 +363,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -473,9 +406,11 @@
             "uri": "https://pleiades.stoa.org/places/177496/nyon"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "settlement",
-        "amphitheatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 18 D3 Col. Iulia Equestris/Noviodunum",
     "references": [
@@ -484,6 +419,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 18 D3 Col. Iulia Equestris/Noviodunum",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -494,6 +430,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#Römer-Schweiz-452-57",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Römer Schweiz 452-57",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -504,6 +441,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "RFO 21",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -514,19 +452,21 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), NOVIODUNUM (Nyon) Vaud, Switzerland",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Nyon",
+            "accessURI": "https://en.wikipedia.org/wiki/Nyon",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Nyon",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Nyon",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Nyon.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -534,6 +474,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "TP 2B2 (Talbert 950)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -544,6 +485,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Plin. HN 4.106.9",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -554,6 +496,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Colonia Iulia Equestris",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -561,8 +504,8 @@
         }
     ],
     "reprPoint": [
-        6.23982485,
-        46.38201925
+        6.238405,
+        46.380843
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

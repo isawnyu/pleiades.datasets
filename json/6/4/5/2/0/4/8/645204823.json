@@ -6,6 +6,43 @@
         25.2673782,
         39.8857201
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/550693",
+            "contributors": [],
+            "created": "2018-01-18T19:52:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2018-01-18T19:52:06Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "lemnos-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Lemnos (island)",
+            "uri": "https://pleiades.stoa.org/places/645204823/lemnos-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/550693"
     ],
@@ -65,14 +102,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "3rd-millennium-bc"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
             "contributors": [],
@@ -91,6 +133,10 @@
             "featureType": [
                 "island",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -115,6 +161,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 353288786, version 4, osm:changeset=10044452, 2011-12-05T20:01:24Z)",
             "references": [
                 {
@@ -122,6 +172,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 353288786",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=353288786",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -138,10 +189,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Κουκονήσι",
@@ -178,8 +232,9 @@
                 {
                     "accessURI": "https://en.wikipedia.org/wiki/Koukonesi",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
                     "citationDetail": "Koukonesi",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Koukonesi.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
@@ -194,6 +249,9 @@
             "uri": "https://pleiades.stoa.org/places/645204823/name.2013-08-02.1691234893"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
+    ],
     "placeTypes": [
         "island"
     ],
@@ -202,8 +260,9 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Koukonesi",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Koukonesi",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Koukonesi.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -214,6 +273,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/37FNUD6B",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Papadimitriou, Nikos. “Koukonisi on Lemnos.” In <i>The Encyclopedia of Ancient History</i>. John Wiley &amp; Sons, Inc., 2013. https://doi.org/10.1002/9781444338386.wbeah30259.</div>",
             "otherIdentifier": "",
             "shortTitle": "Papadimitriou 2013",

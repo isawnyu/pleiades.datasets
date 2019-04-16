@@ -6,6 +6,37 @@
         16.9803603,
         42.9746938
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/1004",
+            "contributors": [],
+            "created": "2016-07-13T13:55:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "1004",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "(H)Adriaticum/Superum Mare",
+            "uri": "https://pleiades.stoa.org/places/197224/1004"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/1004",
         "https://pleiades.stoa.org/places/197340"
@@ -101,10 +132,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -123,6 +157,10 @@
             "featureType": [
                 "island",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -147,6 +185,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 142621975, version 6, osm:changeset=15248870, 2013-03-04T17:15:11Z)",
             "references": [
                 {
@@ -154,6 +196,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 142621975",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=142621975",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -170,22 +213,31 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -244,6 +296,9 @@
             "uri": "https://pleiades.stoa.org/places/197224/corcyra-nigra"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
+    ],
     "placeTypes": [
         "island"
     ],
@@ -254,6 +309,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 20 D7 Corcyra Nigra Ins.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -264,19 +320,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Korkyra-3",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Korkyra 3",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Kor%C4%8Dula",
+            "accessURI": "https://en.wikipedia.org/wiki/Kor%C4%8Dula",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikpedia, Korčula",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Korčula",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Korčula.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],

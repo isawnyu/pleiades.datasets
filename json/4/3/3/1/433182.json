@@ -6,6 +6,37 @@
         14.2626948,
         41.785598
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/433017",
+            "contributors": [],
+            "created": "2016-07-13T13:42:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "433017",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Pentri",
+            "uri": "https://pleiades.stoa.org/places/433182/433017"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/433017"
     ],
@@ -148,14 +179,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -181,6 +217,10 @@
             "featureType": [
                 "sanctuary",
                 "temple-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -238,6 +278,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+            ],
             "provenance": "OpenStreetMap (Way 377510840, version 4, osm:changeset=46246109, 2017-02-20T14:51:07Z)",
             "references": [
                 {
@@ -245,6 +289,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 377510840",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=377510840",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -258,6 +303,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+    ],
     "placeTypes": [
         "sanctuary",
         "temple-2"
@@ -269,6 +318,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 44 F2 Vastogirardi",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -279,6 +329,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#Torelli-1970",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Torelli 1970",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -289,6 +340,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/m.html#Morel",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Morel, J. P. 1976. \"Le sanctuaire de Vastogirardi (Molise) et les influences héllenistiques en Italie centrale.\" In Hellenismus in Mittelitalien, Abhandlungen Gòttingen, 97, voi. I, pp. 255-66.",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -299,6 +351,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Il Tempio Sannitico di Vastogirardi",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -309,17 +362,19 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Enciclopedia dell' Arte Antica (1997), VASTOGIRARDII",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://darmc.harvard.edu/",
+            "accessURI": "https://darmc.harvard.edu/",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
             "citationDetail": "20675",
-            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. http://darmc.harvard.edu/.</div>",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20675.",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"

@@ -6,8 +6,40 @@
         24.333333,
         37.616667
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/560353",
+            "contributors": [],
+            "created": "2016-07-13T13:39:18Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "560353",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Cyclades Islands",
+            "uri": "https://pleiades.stoa.org/places/570348/560353"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/560353",
+        "https://pleiades.stoa.org/places/570033",
         "https://pleiades.stoa.org/places/570731",
         "https://pleiades.stoa.org/places/570314",
         "https://pleiades.stoa.org/places/570315",
@@ -16,8 +48,7 @@
         "https://pleiades.stoa.org/places/937883503",
         "https://pleiades.stoa.org/places/570333",
         "https://pleiades.stoa.org/places/570670",
-        "https://pleiades.stoa.org/places/570370",
-        "https://pleiades.stoa.org/places/789524294"
+        "https://pleiades.stoa.org/places/570370"
     ],
     "contributors": [
         {
@@ -137,10 +168,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -171,6 +205,9 @@
             "end": 2100,
             "featureType": [
                 "island"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
             "geometry": {
                 "coordinates": [
@@ -205,6 +242,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -212,6 +252,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
                     "citationDetail": "Kea (island)",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Kea (island).",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
@@ -228,6 +269,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -278,7 +320,67 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/570348/keos"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Νησί Κέα",
+            "contributors": [],
+            "created": "2018-09-26T02:22:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "name",
+                    "modified": "2018-09-26T02:22:14Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "nisi-kea",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/260347/nisi-kea.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "GeoNames 260347",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Nisi Kea, Nisí Kéa",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/570348/nisi-kea"
         }
+    ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
     ],
     "placeTypes": [
         "island"
@@ -290,6 +392,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
             "citationDetail": "58 G2 Keos Ins.",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://openlibrary.org/works/OL8327792W.</div>",
             "otherIdentifier": " ",
             "shortTitle": "BAtlas",
@@ -300,6 +403,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Keos-2",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Keos 2",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -310,6 +414,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Kea (island)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Kea (island).",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -320,6 +425,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), KEOS (Ceos, Cea, Zea; now officially Kea, but called Tzia) one of the Cyclades, Greece",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -330,6 +436,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
             "citationDetail": "Keos",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
             "shortTitle": "New Pauly",
@@ -340,6 +447,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
             "citationDetail": "GEO ID 1032",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Mark Depauw, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "TM",
@@ -350,6 +458,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
             "citationDetail": "Keos (Kea)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
@@ -360,6 +469,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/L9PG9YSR",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Cherry, John F, Jack L Davis, E Mantzourani, Los Angeles University of California, and Institute of Archaeology. <i>Landscape Archaeology as Long-Term History: Northern Keos in the Cycladic Islands from the Earliest Settlement until Modern Times</i>. Los Angeles, Calif.: Institute of Archaeology, University of Archaeology, 1991. http://www.worldcat.org/oclc/503671403.</div>",
             "otherIdentifier": "",
             "shortTitle": "Cherry et al. 1991",
@@ -370,6 +480,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SZRR3V3Q",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">University of Cincinnati, Department of Classics, and American School of Classical Studies at Athens. <i>Keos: Results of Excavations Conducted by the University of Cincinnati under the Auspices of the American School of Classical Studies at Athens.</i> Princeton, N.J.: American School of Classical Studies, 1977.</div>",
             "otherIdentifier": "",
             "shortTitle": "Keos",
@@ -380,6 +491,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 260347",
             "otherIdentifier": "",
             "shortTitle": "",

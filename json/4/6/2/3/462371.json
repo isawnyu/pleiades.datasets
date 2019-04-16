@@ -6,6 +6,48 @@
         13.235331,
         37.560943
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/462492",
+            "contributors": [],
+            "created": "2016-12-30T18:47:46Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2017-07-30T15:29:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added cnxn",
+                    "modified": "2016-12-30T18:47:47Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "sicilia-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sicilia (island)",
+            "uri": "https://pleiades.stoa.org/places/462371/sicilia-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/462492"
     ],
@@ -100,14 +142,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -128,6 +175,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -152,17 +202,21 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 18668",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "18668",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18668.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -172,6 +226,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -182,6 +239,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 47 C3 Montevergine di S. Anna",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -192,6 +250,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/B328IGPU",
             "citationDetail": "762-63",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Panvini, R. “Ricerche nel territorio di Monte S. Giuliano (CL), Monte Desusino, S. Giovanni Gemini, Caltabellotta, Sant’Anna.” <i>Kokalos</i> 39–40 (1993–1994): 755–63.</div>",
             "otherIdentifier": "",
             "shortTitle": "Pavnini 1993a",

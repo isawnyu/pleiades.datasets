@@ -6,6 +6,66 @@
         9.2339521,
         45.8098419
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/383645",
+            "contributors": [],
+            "created": "2016-07-13T13:33:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "383645",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Eupilis L.",
+            "uri": "https://pleiades.stoa.org/places/383686/383645"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/393469",
+            "contributors": [],
+            "created": "2016-07-13T13:33:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "393469",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Padus/Eridanus (river)",
+            "uri": "https://pleiades.stoa.org/places/383686/393469"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/383645",
         "https://pleiades.stoa.org/places/393469"
@@ -96,10 +156,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -118,6 +181,10 @@
             "featureType": [
                 "river",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -142,6 +209,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 192156667, version 2, osm:changeset=15813511, 2013-04-21T21:29:02Z)",
             "references": [
                 {
@@ -149,6 +220,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 192156667",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=192156667",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -165,14 +237,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -226,6 +303,9 @@
             "uri": "https://pleiades.stoa.org/places/383686/lambrus"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/river"
+    ],
     "placeTypes": [
         "river"
     ],
@@ -236,6 +316,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 39 E2 Lambrus fl.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -246,19 +327,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Lambrus",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Lambrus",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Lambro",
+            "accessURI": "https://en.wikipedia.org/wiki/Lambro",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Lambro",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Lambro",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Lambro.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -266,6 +349,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Lambrus",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -276,6 +360,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Plin. HN 3.131.9",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -286,6 +371,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Plin. HN 3.118.8",
             "otherIdentifier": " ",
             "shortTitle": "",

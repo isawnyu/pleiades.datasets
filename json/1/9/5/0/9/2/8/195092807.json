@@ -6,6 +6,37 @@
         12.480833,
         41.876389
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/423025",
+            "contributors": [],
+            "created": "2016-07-13T13:34:59Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "423025",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Roma",
+            "uri": "https://pleiades.stoa.org/places/195092807/423025"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423025"
     ],
@@ -85,14 +116,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -112,6 +148,11 @@
                 "pyramid",
                 "tomb",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pyramid",
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -141,6 +182,11 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pyramid",
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -148,6 +194,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "GeoHack - Pyramid of Cestius",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -164,10 +211,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Piramide di Caio Cestio",
@@ -201,6 +251,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "GeoNames 8015133",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -215,6 +266,10 @@
             "uri": "https://pleiades.stoa.org/places/195092807/piramide-di-caio-cestio"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+        "https://pleiades.stoa.org/vocabularies/place-types/pyramid"
+    ],
     "placeTypes": [
         "tomb",
         "pyramid"
@@ -222,13 +277,14 @@
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Pyramid_of_Cestius",
+            "accessURI": "https://en.wikipedia.org/wiki/Pyramid_of_Cestius",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Pyramid of Cestius",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Pyramid of Cestius",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pyramid of Cestius.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -236,6 +292,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Piramide Cestia",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -246,6 +303,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Platner and Ashby 1929 (Perseus), SEP. C. CESTII",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -256,6 +314,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Cic. Phil. 3.26.5",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -266,6 +325,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CIL vi. 1374",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -276,6 +336,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CIL vi. 1375",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -286,6 +347,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Livius.org: Pyramid of Cestius",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -296,6 +358,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "SSBAR: Pyramid of Caius Cestius",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -306,6 +369,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 8015133",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -316,6 +380,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "wikidata Q725404",
             "otherIdentifier": "",
             "shortTitle": "",

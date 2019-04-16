@@ -6,6 +6,7 @@
         0.9736408,
         41.4288637
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -58,44 +59,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            0.0,
-                            41.0
-                        ],
-                        [
-                            0.0,
-                            42.0
-                        ],
-                        [
-                            1.0,
-                            42.0
-                        ],
-                        [
-                            1.0,
-                            41.0
-                        ],
-                        [
-                            0.0,
-                            41.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/246138/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     0.9736408,
                     41.4288637
                 ],
@@ -138,114 +101,22 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-09T18:53:58Z",
-            "creators": [
-                {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            0.0,
-                            41.0
-                        ],
-                        [
-                            0.0,
-                            42.0
-                        ],
-                        [
-                            1.0,
-                            42.0
-                        ],
-                        [
-                            1.0,
-                            41.0
-                        ],
-                        [
-                            0.0,
-                            41.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:29:04Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 25 F4 Ad Novas",
-            "references": [],
-            "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/246138/batlas-location"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -263,6 +134,9 @@
             "end": 640,
             "featureType": [
                 "station"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
             "geometry": {
                 "coordinates": [
@@ -282,6 +156,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -289,6 +166,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -305,14 +183,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -370,6 +253,9 @@
             "uri": "https://pleiades.stoa.org/places/246138/ad-novas"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/station"
+    ],
     "placeTypes": [
         "station"
     ],
@@ -380,6 +266,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 25 F4 Ad Novas",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -390,6 +277,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2ARG7RH4",
             "citationDetail": "31",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Guitart i Duran, Josep, Guillermo Fatás Cabeza, Adela Cepas Palanca, and Unió Acadèmica Internacional. <i>Tabula Imperii Romani: Full K/J-31 : Pyrénées Orientales - Baleares, Tarraco-Baliares : sobre la base cartogràfica a escala 1:1.000.000 de l’IGN</i>. Madrid: Instituto Geográfico Nacional, DL, 1997. http://www.worldcat.org/oclc/807830204.</div>",
             "otherIdentifier": "",
             "shortTitle": "TIR Tarraco",
@@ -400,6 +288,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 27343",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -408,11 +297,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Vinaixa",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Vinaixa",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Vinaixa",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Vinaixa.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],

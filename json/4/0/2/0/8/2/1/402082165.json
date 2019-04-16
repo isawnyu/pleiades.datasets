@@ -6,6 +6,50 @@
         12.5036838,
         41.8952924
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/423025",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2016-07-13T13:53:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-02-04T21:39:24Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "423025",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Roma",
+            "uri": "https://pleiades.stoa.org/places/402082165/423025"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423025",
         "https://pleiades.stoa.org/places/679976755"
@@ -71,14 +115,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -97,6 +146,10 @@
             "featureType": [
                 "fountain",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -132,6 +185,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 256753115, version 3, osm:changeset=19733549, 2013-12-31T14:47:20Z)",
             "references": [
                 {
@@ -139,6 +196,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 256753115",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=256753115",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -155,10 +213,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -192,6 +253,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
                     "citationDetail": "Ninfeo di Alessandro",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Wikipedia (Italian)",
@@ -206,6 +268,10 @@
             "uri": "https://pleiades.stoa.org/places/402082165/name.2019-01-10.2294633350"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fountain",
+        "https://pleiades.stoa.org/vocabularies/place-types/monument"
+    ],
     "placeTypes": [
         "fountain",
         "monument"
@@ -217,6 +283,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Ninfeo di Alessandro",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Ninfeo di Alessandro.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
@@ -227,6 +294,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Monumenti / Roma antica - Sovrintendenza, Trofei di Mario",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -237,6 +305,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/C46B8MG2",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Tedeschi Grisanti, Giovanna. <i>I trofei di Mario: il Ninfeo dell’acqua Giulia sull’Esquilino</i>. I Monumenti romani 7. Roma: Istituto di studi romani, 1977.</div>",
             "otherIdentifier": "",
             "shortTitle": "Tedeschi Grisanti 1977",
@@ -247,6 +316,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/32ZZMWXJ",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Tedeschi Grisanti, G. “Trofei di Mario. Il monumento.” In <i>Roma. Archeologia nel centro, 1. L’area archeologica centrale. 2. La città murata</i>, 487–500, Abb. Lavori e studi di archeologia 6; 1–2. Rome: De Luca, 1985.</div>",
             "otherIdentifier": "",
             "shortTitle": "Tedeschi Grisanti 1985",
@@ -257,6 +327,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T9HDUIXM",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Gautier di Confiengo, E. “Pirro Ligorio ed i ‘Trofei di Mario.’” In <i>Atti della Pontificia Accademia Romana di Archeologia, Rendiconti, 83.2010-2011</i>, 90–99. Roma: Tipografia vaticana, 2011.</div>",
             "otherIdentifier": "",
             "shortTitle": "Gautier di Confiengo 2011",

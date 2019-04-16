@@ -6,6 +6,37 @@
         23.43,
         38.56
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/560221",
+            "contributors": [],
+            "created": "2016-07-13T13:50:46Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "560221",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Aegaeum Mare",
+            "uri": "https://pleiades.stoa.org/places/579931/560221"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/560221"
     ],
@@ -103,10 +134,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -131,6 +165,9 @@
             "end": 2100,
             "featureType": [
                 "water-open"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
             ],
             "geometry": {
                 "coordinates": [
@@ -165,16 +202,20 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Gulf_of_Euboea",
+                    "accessURI": "https://en.wikipedia.org/wiki/Gulf_of_Euboea",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Gulf of Euboea",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Gulf of Euboea",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Gulf of Euboea.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "cites"
                 },
                 {
@@ -182,6 +223,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "GeoHack - Gulf of Euboea",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -198,6 +240,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -246,6 +289,9 @@
             "uri": "https://pleiades.stoa.org/places/579931/euboicus-sinus"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/water-open"
+    ],
     "placeTypes": [
         "water-open"
     ],
@@ -256,6 +302,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 59 B1 Euboicus Sinus",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -266,19 +313,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Euboia",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Euboia",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Gulf_of_Euboea",
+            "accessURI": "https://en.wikipedia.org/wiki/Gulf_of_Euboea",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Gulf of Euboea",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Gulf of Euboea",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Gulf of Euboea.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],

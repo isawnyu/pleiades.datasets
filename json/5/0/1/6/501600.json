@@ -6,6 +6,50 @@
         25.5874978,
         40.4616628
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/501597",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:54:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2017-08-03T15:04:22Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "501597",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Samothrace (island)",
+            "uri": "https://pleiades.stoa.org/places/501600/501597"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/501597"
     ],
@@ -101,10 +145,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -123,6 +170,10 @@
             "featureType": [
                 "mountain",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -152,6 +203,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 26864081, version 3, osm:changeset=3611122, 2010-01-13T16:37:08Z)",
             "references": [
                 {
@@ -159,6 +214,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 26864081",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=26864081",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -175,6 +231,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -227,6 +284,9 @@
             "uri": "https://pleiades.stoa.org/places/501600/Saos-M"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+    ],
     "placeTypes": [
         "mountain"
     ],
@@ -237,6 +297,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 51 F4 Saos M.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -247,19 +308,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Philippi-53",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "TIR Philippi 53",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Samothrace",
+            "accessURI": "https://en.wikipedia.org/wiki/Samothrace",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Samothrace",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Samothrace",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Samothrace.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         }
     ],

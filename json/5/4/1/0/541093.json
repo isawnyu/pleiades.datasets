@@ -6,6 +6,37 @@
         24.56,
         38.85
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/599944",
+            "contributors": [],
+            "created": "2016-07-13T13:43:35Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "599944",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sporades (archipelago)",
+            "uri": "https://pleiades.stoa.org/places/541093/599944"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/599944",
         "https://pleiades.stoa.org/places/540860",
@@ -111,10 +142,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -134,6 +168,10 @@
                 "island",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     24.56,
@@ -152,16 +190,21 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Skyros",
+                    "accessURI": "https://en.wikipedia.org/wiki/Skyros",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikpedia, Skyros",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Skyros",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Skyros.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "cites"
                 }
             ],
@@ -175,6 +218,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -231,6 +275,9 @@
             "uri": "https://pleiades.stoa.org/places/541093/scyrus"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
+    ],
     "placeTypes": [
         "island"
     ],
@@ -241,6 +288,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 55 G3 Scyrus Ins.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -251,19 +299,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/l.html#Lauffer-1989",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Lauffer 1989, 626-27",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Skyros",
+            "accessURI": "https://en.wikipedia.org/wiki/Skyros",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Skyros",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Skyros",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Skyros.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -271,6 +321,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 33249",
             "otherIdentifier": "",
             "shortTitle": "",

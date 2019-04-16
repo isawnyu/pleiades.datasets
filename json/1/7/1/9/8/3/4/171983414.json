@@ -6,6 +6,66 @@
         9.316006,
         40.568547
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/472014",
+            "contributors": [],
+            "created": "2016-07-13T13:53:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "472014",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sardinia (island)",
+            "uri": "https://pleiades.stoa.org/places/171983414/472014"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/471898",
+            "contributors": [],
+            "created": "2016-07-13T13:53:38Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "471898",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Caput Tyrsi",
+            "uri": "https://pleiades.stoa.org/places/171983414/471898"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/472014",
         "https://pleiades.stoa.org/places/471898"
@@ -83,10 +143,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
             "contributors": [],
@@ -105,6 +168,10 @@
             "featureType": [
                 "nuraghe",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/nuraghe",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -135,6 +202,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/nuraghe",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
@@ -144,19 +215,23 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/nuraghe"
+    ],
     "placeTypes": [
         "nuraghe"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://it.wikipedia.org/wiki/Buddus%C3%B2",
+            "accessURI": "https://it.wikipedia.org/wiki/Buddus%C3%B2",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikpedia, Buddusò",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Buddusò",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Buddusò.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeAlso"
         },
         {
@@ -164,6 +239,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "MacKenzie, D. 1913. \"Dolmens and Nuraghi of Sardinia.\" PBSR 6.2:127-70.",
             "otherIdentifier": " ",
             "shortTitle": "",

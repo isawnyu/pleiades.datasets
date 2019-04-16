@@ -6,6 +6,37 @@
         8.769874,
         40.486543
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/472014",
+            "contributors": [],
+            "created": "2016-07-13T13:43:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "472014",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sardinia (island)",
+            "uri": "https://pleiades.stoa.org/places/422755499/472014"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/472014"
     ],
@@ -82,10 +113,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
             "contributors": [],
@@ -104,6 +138,10 @@
             "featureType": [
                 "nuraghe",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/nuraghe",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -129,6 +167,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/nuraghe",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
@@ -138,29 +180,34 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/nuraghe"
+    ],
     "placeTypes": [
         "nuraghe"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://it.wikipedia.org/wiki/Nuraghe_Santu_Antine",
+            "accessURI": "https://it.wikipedia.org/wiki/Nuraghe_Santu_Antine",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Nuraghe Santu Antine",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Nuraghe Santu Antine",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Nuraghe Santu Antine.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Torralba,_Italy",
+            "accessURI": "https://en.wikipedia.org/wiki/Torralba,_Italy",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Torralba, Sardinia",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Torralba, Sardinia",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Torralba, Sardinia.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         },
         {
@@ -168,6 +215,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Moravetti, A. 1988. Il Nuraghe S. Antine di Torralba: architettura. In: Moravetti, Alberto (ed). Il nuraghe S. Antine nel Logudoro-Meilogu, Sassari, Carlo Delfino editore. pp. 45-60. ",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -178,6 +226,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Nuraghe Santu Antine e Museo della Valle dei Nuraghi",
             "otherIdentifier": " ",
             "shortTitle": "",

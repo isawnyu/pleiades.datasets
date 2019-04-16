@@ -6,6 +6,37 @@
         9.1731134,
         39.7857904
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/472014",
+            "contributors": [],
+            "created": "2016-07-13T13:37:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "472014",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sardinia (island)",
+            "uri": "https://pleiades.stoa.org/places/625626693/472014"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/472014"
     ],
@@ -70,10 +101,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
             "contributors": [],
@@ -93,6 +127,11 @@
                 "settlement",
                 "nuraghe",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/nuraghe",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -123,6 +162,11 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/nuraghe",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 2708434198, version 3, osm:changeset=27737725, 2014-12-27T18:57:25Z)",
             "references": [
                 {
@@ -130,6 +174,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 2708434198",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=2708434198",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -143,6 +188,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/nuraghe",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "nuraghe",
         "settlement"
@@ -154,6 +203,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Sardegna Cultura: Villanova Tulo, Complesso di Adoni",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -162,11 +212,12 @@
         {
             "accessURI": "https://it.wikipedia.org/wiki/Nuraghe_Adoni",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Nuraghe Adoni",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Nuraghe Adoni",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Nuraghe Adoni.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         },
         {
@@ -174,6 +225,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Villanovatulo (CA). Nuraghe Adoni Europa » Italia » Villanovatulo (CA). Nuraghe Adoni",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -184,6 +236,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "ArkeoSardinia: Nuraghe Adoni",
             "otherIdentifier": " ",
             "shortTitle": "",

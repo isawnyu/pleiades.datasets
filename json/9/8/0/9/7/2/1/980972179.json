@@ -6,6 +6,7 @@
         7.0939421,
         46.9640126
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -65,10 +66,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -94,6 +98,10 @@
             "featureType": [
                 "mountain",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -134,6 +142,10 @@
                 "associated_modern",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 1425180906, version 1, osm:changeset=9228081, 2011-09-06T14:37:53Z)",
             "references": [
                 {
@@ -141,6 +153,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 1425180906",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=1425180906",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -154,6 +167,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "mountain",
         "settlement"
@@ -165,19 +182,21 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Oppida.org: Mont Vully",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://de.wikipedia.org/wiki/Oppidum_von_Bas-Vully",
+            "accessURI": "https://de.wikipedia.org/wiki/Oppidum_von_Bas-Vully",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (German), Oppidum von Bas-Vully",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
+            "citationDetail": "Oppidum von Bas-Vully",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Oppidum von Bas-Vully.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (German)",
             "type": "seeFurther"
         }
     ],

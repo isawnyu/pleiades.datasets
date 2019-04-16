@@ -1,12 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        -3.1816779,
+        -3.1814,
         51.481299,
         -3.180501,
         51.4822
     ],
-    "connectsWith": [],
+    "connections": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/735520832"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -90,24 +93,6 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -3.1816779,
-                    51.4813553
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-cardiff-castle",
-            "properties": {
-                "description": "Cardiff Castle incorporates remains of the antecedent Roman fort. Location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/79706/location-of-cardiff-castle",
-                "location_precision": "precise",
-                "snippet": "Fort, ; AD 640 - AD 1453",
-                "title": "location of Cardiff Castle"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -154,14 +139,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -200,6 +190,10 @@
                 "fort",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     -3.180501,
@@ -228,17 +222,22 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "DARMC OBJECTID: 19206",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick (ed.), Digital Atlas of Roman and Medieval Civilizations",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "19206",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19206.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -251,14 +250,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -276,6 +280,9 @@
             "end": 640,
             "featureType": [
                 "fort"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
@@ -295,6 +302,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -302,6 +312,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -312,99 +323,25 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/79706/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-08-10T02:56:12Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Cardiff Castle incorporates remains of the antecedent Roman fort. Location based on OpenStreetMap.",
-            "details": "",
-            "end": 1453,
-            "featureType": [
-                "fort",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    -3.1816779,
-                    51.4813553
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2013-08-10T02:57:46Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-08-10T02:56:14Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-cardiff-castle",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 115180980, version 3, osm:changeset=16186188, 2013-05-18T21:43:44Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/115180980",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 115180980",
-                    "formattedCitation": "osm:way=115180980",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://en.wikipedia.org/wiki/Cardiff_Castle",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Cardiff Castle",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": 640,
-            "title": "location of Cardiff Castle",
-            "uri": "https://pleiades.stoa.org/places/79706/location-of-cardiff-castle"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -460,10 +397,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -500,11 +440,12 @@
                 {
                     "accessURI": "https://en.wikipedia.org/wiki/Cardiff",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Cardiff",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Cardiff",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Cardiff.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "citesAsEvidence"
                 }
             ],
@@ -518,10 +459,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -551,13 +495,14 @@
             "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Cardiff",
+                    "accessURI": "https://en.wikipedia.org/wiki/Cardiff",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Cardiff",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Cardiff",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Cardiff.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "citesAsEvidence"
                 }
             ],
@@ -569,6 +514,9 @@
             "uri": "https://pleiades.stoa.org/places/79706/name.2013-08-12.6874440258"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+    ],
     "placeTypes": [
         "fort"
     ],
@@ -579,6 +527,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 8 D3 Tamion?",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -589,6 +538,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/w.html#Webster-1981",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Webster 1981",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -599,29 +549,32 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Condate-34",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "TIR Condate 34",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/History_of_Cardiff#Origins",
+            "accessURI": "https://en.wikipedia.org/wiki/History_of_Cardiff#Origins",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, History of Cardiff",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "History of Cardiff",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), History of Cardiff.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Cardiff_Roman_Fort",
+            "accessURI": "https://en.wikipedia.org/wiki/Cardiff_Roman_Fort",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Cardiff Roman Fort",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Cardiff Roman Fort",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Cardiff Roman Fort.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -629,6 +582,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), CARDIFF S. Glamorgan, Wales",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -636,8 +590,8 @@
         }
     ],
     "reprPoint": [
-        -3.1811929666666665,
-        51.4816181
+        -3.1809505,
+        51.4817495
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

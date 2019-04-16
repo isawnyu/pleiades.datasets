@@ -6,6 +6,37 @@
         13.5720027,
         42.8582867
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/413036",
+            "contributors": [],
+            "created": "2016-07-13T13:37:56Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "413036",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Asculum",
+            "uri": "https://pleiades.stoa.org/places/413249073/413036"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/413036"
     ],
@@ -65,14 +96,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 }
             ],
             "contributors": [],
@@ -91,6 +127,10 @@
             "featureType": [
                 "city-gate",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -120,6 +160,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 675437601, version 5, osm:changeset=23218793, 2014-06-27T14:36:32Z)",
             "references": [
                 {
@@ -127,6 +171,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 675437601",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=675437601",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -140,6 +185,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
+    ],
     "placeTypes": [
         "city-gate"
     ],
@@ -148,11 +196,12 @@
         {
             "accessURI": "https://it.wikipedia.org/wiki/Porta_Solest%C3%A0",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Porta Solestà",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Porta Solestà",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Porta Solestà.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         }
     ],

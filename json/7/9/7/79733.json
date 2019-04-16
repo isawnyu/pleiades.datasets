@@ -1,30 +1,53 @@
 {
     "@type": "Place",
     "bbox": [
-        -2.7709127,
+        -2.768088,
         51.611,
         -2.768,
-        51.6133993
+        51.61124
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/79686",
+            "contributors": [],
+            "created": "2016-07-13T13:48:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "79686",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Silures",
+            "uri": "https://pleiades.stoa.org/places/79733/79686"
+        }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/79686"
+        "https://pleiades.stoa.org/places/79686",
+        "https://pleiades.stoa.org/places/4645261",
+        "https://pleiades.stoa.org/places/783906720"
     ],
     "contributors": [
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -34,9 +57,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -45,7 +74,13 @@
             "username": "erobinson"
         },
         {
-            "name": "R. Talbert",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "DARMC",
             "username": null
         },
         {
@@ -59,10 +94,8 @@
             "username": null
         },
         {
-            "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
+            "name": "R. Talbert",
+            "username": null
         }
     ],
     "created": "2018-06-08T11:46:41Z",
@@ -108,24 +141,6 @@
                 "location_precision": "precise",
                 "snippet": "Settlement; 30 BC - AD 640",
                 "title": "DARE Location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -2.7709127,
-                    51.6133993
-                ],
-                "type": "Point"
-            },
-            "id": "osm-location-of-north-wall",
-            "properties": {
-                "description": "Representative point derived from an OpenStreetMap way",
-                "link": "https://pleiades.stoa.org/places/79733/osm-location-of-north-wall",
-                "location_precision": "precise",
-                "snippet": "City-wall, ; 30 BC - AD 300",
-                "title": "OSM location of North Wall"
             },
             "type": "Feature"
         }
@@ -204,14 +219,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -232,6 +252,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -256,6 +279,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 4561",
             "references": [
                 {
@@ -263,6 +289,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "4561",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 4561.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -279,14 +306,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -304,6 +336,9 @@
             "end": 640,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -323,6 +358,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -330,6 +368,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -340,107 +379,25 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/79733/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Elizabeth Robinson",
-                    "uri": "https://pleiades.stoa.org/author/erobinson",
-                    "username": "erobinson"
-                }
-            ],
-            "created": "2015-11-16T06:28:52Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Representative point derived from an OpenStreetMap way",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "city-wall",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    -2.7709127,
-                    51.6133993
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-08-21T13:10:56Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited title and summary to conform with editorial guidelines, updated level of archaeological remains to substantive",
-                    "modified": "2016-08-04T16:00:17Z",
-                    "modifiedBy": "erobinson"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2015-11-16T06:29:20Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2015-11-16T06:28:55Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "osm-location-of-north-wall",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 120170582, version 1, osm:changeset=8619945, 2011-07-03T15:09:25Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/120170582",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 120170582",
-                    "formattedCitation": "osm:way=120170582",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of North Wall",
-            "uri": "https://pleiades.stoa.org/places/79733/osm-location-of-north-wall"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -499,11 +456,13 @@
             "uri": "https://pleiades.stoa.org/places/79733/venta"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/city-wall",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "city-wall",
-        "settlement",
-        "basilica",
-        "plaza"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 8 E3 Venta",
     "references": [
@@ -512,6 +471,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 8 E3 Venta",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -522,6 +482,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/32793368",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wacher 1995, 378-91",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -532,6 +493,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 14526",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -542,6 +504,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), VENTA SILURUM Caerwent, Monmouthshire, S Wales",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -552,6 +515,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Venta Silurum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Venta Silurum.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -562,6 +526,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Caerwent — Venta Silurum: the excavation of a Roman town",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -572,6 +537,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Coflein 403916",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -582,6 +548,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Coflein 403922",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -592,6 +559,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Coflein 93753",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -602,6 +570,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Venta Silurum",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -612,6 +581,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Tac. Agr. 17.3.4",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -622,6 +592,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "SEG 36 959",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -632,6 +603,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
             "citationDetail": "Venta Silurum (Britannia)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
@@ -639,8 +611,8 @@
         }
     ],
     "reprPoint": [
-        -2.7690002333333332,
-        51.61187976666667
+        -2.7680439999999997,
+        51.61112
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

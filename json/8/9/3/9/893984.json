@@ -6,6 +6,7 @@
         45.0,
         34.0
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -118,6 +119,7 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "contributors": [
                 {
@@ -151,6 +153,9 @@
             "end": null,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -190,6 +195,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "Barrington Atlas: BAtlas 91 F4 ‘Diabas’/Turnat fl.",
             "references": [],
             "review_state": "published",
@@ -202,6 +210,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -251,6 +260,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://atlantides.org/bibliography/a.html#AmmMarc-23.6.20",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "AmmMarc 23.6.20",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -267,6 +277,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -316,6 +327,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://atlantides.org/bibliography/r.html#RGTC-5",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "RGTC 5, 321-2",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -332,10 +344,13 @@
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -399,6 +414,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Plin. HN 6.132.4",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -413,6 +429,9 @@
             "uri": "https://pleiades.stoa.org/places/893984/tornadotus"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/river"
+    ],
     "placeTypes": [
         "river"
     ],
@@ -423,6 +442,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 91 F4 ‘Diabas’/Turnat fl.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -433,6 +453,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/a.html#AmmMarc-23.6.20",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "AmmMarc 23.6.20",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -443,6 +464,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RGTC-5",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RGTC 5, 321-2",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -453,6 +475,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Plin. HN (Mayhoff: PHI) 6.132.4",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -461,11 +484,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Diyala_River",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Diyala River",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Diyala River",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Diyala River.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],

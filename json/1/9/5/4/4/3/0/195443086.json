@@ -1,13 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        31.20046,
-        29.891051,
+        31.20404,
+        29.896115,
         31.20404,
         29.896115
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/736963",
+            "contributors": [],
+            "created": "2016-07-13T13:52:54Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "736963",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Memphis",
+            "uri": "https://pleiades.stoa.org/places/195443086/736963"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/736963"
+        "https://pleiades.stoa.org/places/736963",
+        "https://pleiades.stoa.org/places/141085064",
+        "https://pleiades.stoa.org/places/442642787"
     ],
     "contributors": [
         {
@@ -58,24 +91,6 @@
                 "title": "Center of Visible Remains at Abu Sir"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    31.20046,
-                    29.891051
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-the-saite-persian-shaft-tombs-at-abu-sir",
-            "properties": {
-                "description": "Representative location based on coordinates derived from Coppens 2009 and verified in Google Earth 2016.",
-                "link": "https://pleiades.stoa.org/places/195443086/location-of-the-saite-persian-shaft-tombs-at-abu-sir",
-                "location_precision": "precise",
-                "snippet": "Tomb; 664 BC - 332 BC",
-                "title": "Imagery location of the Saite-Persian shaft tombs at Abu Sir"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -122,10 +137,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "old-kingdom-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "old-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-kingdom-egypt"
                 }
             ],
             "contributors": [
@@ -150,6 +168,9 @@
             "end": -2168,
             "featureType": [
                 "cemetery"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "geometry": {
                 "coordinates": [
@@ -179,102 +200,28 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+            ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": -2670,
             "title": "Center of Visible Remains at Abu Sir",
             "uri": "https://pleiades.stoa.org/places/195443086/center-of-visible-remains-at-abu-sir"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2015",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-period-egypt"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "created": "2016-12-08T16:21:09Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Gabriel Mckee",
-                    "uri": "https://pleiades.stoa.org/author/gmckee",
-                    "username": "gmckee"
-                }
-            ],
-            "description": "Representative location based on coordinates derived from Coppens 2009 and verified in Google Earth 2016.",
-            "details": "",
-            "end": -332,
-            "featureType": [
-                "tomb"
-            ],
-            "geometry": {
-                "coordinates": [
-                    31.20046,
-                    29.891051
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-12-09T03:24:58Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2016-12-09T03:22:50Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2016-12-08T16:21:11Z",
-                    "modifiedBy": "gmckee"
-                }
-            ],
-            "id": "location-of-the-saite-persian-shaft-tombs-at-abu-sir",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/863612298",
-                    "citationDetail": "",
-                    "formattedCitation": "Coppens, F. 2009. Abusir XX: Lesser Late Period Tombs at Abusir : The Tomb of Padihor and the Anonymous Tomb R3. Prague: Czech Institute of Egyptology.",
-                    "otherIdentifier": "",
-                    "shortTitle": "Coppens 2009",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -664,
-            "title": "Imagery location of the Saite-Persian shaft tombs at Abu Sir",
-            "uri": "https://pleiades.stoa.org/places/195443086/location-of-the-saite-persian-shaft-tombs-at-abu-sir"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "ابوصير",
@@ -308,6 +255,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "dbpedia: Abusir",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -322,8 +270,10 @@
             "uri": "https://pleiades.stoa.org/places/195443086/abu-sir"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
     "placeTypes": [
-        "tomb",
         "cemetery"
     ],
     "provenance": "Pleiades",
@@ -333,6 +283,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Encyclopedia Britannica: Abu Sir",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -341,11 +292,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Abusir",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Abusir",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Abusir",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Abusir.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -353,6 +305,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 4827",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -363,6 +316,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/586071008",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Krejčí 2009",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -373,6 +327,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/144615032",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Vlčková et al. 2006",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -383,6 +338,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/80631708",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Verner 1977-1986",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -393,6 +349,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/758686525",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Bárta et al. 2010",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -403,6 +360,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 362071",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -413,6 +371,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikidata Q1568438",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -420,8 +379,8 @@
         }
     ],
     "reprPoint": [
-        31.20225,
-        29.893583
+        31.20404,
+        29.896115
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

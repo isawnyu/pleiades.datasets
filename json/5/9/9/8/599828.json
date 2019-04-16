@@ -6,6 +6,7 @@
         27.061996,
         36.581154
     ],
+    "connections": [],
     "connectsWith": [
         "https://pleiades.stoa.org/places/602493"
     ],
@@ -16,15 +17,15 @@
         },
         {
             "homepage": null,
-            "name": "Ryan Horne",
-            "uri": "https://pleiades.stoa.org/author/rmhorne",
-            "username": "rmhorne"
-        },
-        {
-            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
@@ -59,44 +60,6 @@
     "description": "An ancient place, cited: BAtlas 61 E4 Nisyrion Inss.",
     "details": "<p>The Barrington Atlas Directory notes: Perigousa and Pakhia GRE</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            27.0,
-                            36.5
-                        ],
-                        [
-                            27.0,
-                            37.0
-                        ],
-                        [
-                            27.5,
-                            37.0
-                        ],
-                        [
-                            27.5,
-                            36.5
-                        ],
-                        [
-                            27.0,
-                            36.5
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "undetermined",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/599828/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Undetermined location"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -165,97 +128,16 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-15T09:09:18Z",
-            "creators": [
-                {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            27.0,
-                            36.5
-                        ],
-                        [
-                            27.0,
-                            37.0
-                        ],
-                        [
-                            27.5,
-                            37.0
-                        ],
-                        [
-                            27.5,
-                            36.5
-                        ],
-                        [
-                            27.0,
-                            36.5
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:02:12Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 61 E4 Nisyrion Inss.",
-            "references": [],
-            "review_state": "published",
-            "start": null,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599828/undetermined"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -281,6 +163,10 @@
             "featureType": [
                 "island",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -311,6 +197,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 4517509, version 3, osm:changeset=20510592, 2014-02-11T20:35:26Z)",
             "references": [
                 {
@@ -318,6 +208,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 4517509",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=4517509",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -334,10 +225,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -363,6 +257,10 @@
             "featureType": [
                 "island",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -393,6 +291,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 4517495, version 3, osm:changeset=20510592, 2014-02-11T20:35:25Z)",
             "references": [
                 {
@@ -400,6 +302,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 4517495",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=4517495",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -416,6 +319,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -468,6 +372,10 @@
             "uri": "https://pleiades.stoa.org/places/599828/nisyrion"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/archipelago",
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
+    ],
     "placeTypes": [
         "archipelago",
         "island"
@@ -479,6 +387,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 61 E4 Nisyrion Inss.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -489,6 +398,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Strab. (Meineke: Perseus) 10.5.16",
             "otherIdentifier": " ",
             "shortTitle": "",

@@ -6,6 +6,37 @@
         80.510826,
         5.952062
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/50298",
+            "contributors": [],
+            "created": "2016-07-13T13:54:17Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "50298",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Taprobane/Palaisimoundou/Salike (island)",
+            "uri": "https://pleiades.stoa.org/places/50124/50298"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/50298"
     ],
@@ -109,10 +140,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -151,6 +185,10 @@
                 "unknown",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     80.510826,
@@ -179,17 +217,22 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "DARMC OBJECTID: 30478",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": 30478,
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 30478.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -199,6 +242,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -209,6 +255,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 5 inset Matara",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -219,6 +266,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/w.html#Wheeler-1951",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wheeler 1951, 381",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -229,6 +277,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Walburg 1996: The preserved part of the Matara coin hoard, Sri Lanka. Lanka-Roman imitations of Late Roman copper coins in the British Museum, London. ",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -237,11 +286,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Matara,_Sri_Lanka",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Matara, Sri Lanka",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Matara, Sri Lanka",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Matara, Sri Lanka.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         }
     ],

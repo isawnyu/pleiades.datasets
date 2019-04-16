@@ -3,8 +3,81 @@
     "bbox": [
         -4.834583,
         39.95945,
-        -4.834583,
-        39.95945
+        -4.8299634,
+        39.96071
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/269563",
+            "contributors": [],
+            "created": "2016-07-13T13:51:55Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "269563",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Untitled",
+            "uri": "https://pleiades.stoa.org/places/265834/269563"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/256463",
+            "contributors": [],
+            "created": "2016-10-24T12:31:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "added cnxn",
+                    "modified": "2016-10-24T12:31:15Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "tagus-river",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -30,
+            "title": "Tagus (river)",
+            "uri": "https://pleiades.stoa.org/places/265834/tagus-river"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/269563",
@@ -40,6 +113,12 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "María Jesús Redondo",
+            "uri": "https://pleiades.stoa.org/author/mjredondo",
+            "username": "mjredondo"
         }
     ],
     "created": "2010-09-24T19:01:27Z",
@@ -62,11 +141,29 @@
             },
             "id": "darmc-location-20088",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/265834/darmc-location-20088",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 300",
                 "title": "DARMC location 20088"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.8299634,
+                    39.96071
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-modern-talavera-de-la-reina",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/265834/osm-location-of-modern-talavera-de-la-reina",
+                "location_precision": "precise",
+                "snippet": "Settlement; AD 640 - AD 1453",
+                "title": "OSM location of modern Talavera de la Reina"
             },
             "type": "Feature"
         }
@@ -105,14 +202,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -128,11 +230,14 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 20088",
             "end": 300,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -157,37 +262,113 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 20088",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "20088",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20088.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
             "title": "DARMC location 20088",
             "uri": "https://pleiades.stoa.org/places/265834/darmc-location-20088"
+        },
+        {
+            "@type": "Location",
+            "accuracy": null,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
+                }
+            ],
+            "contributors": [],
+            "created": "2017-07-23T01:35:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "María Jesús Redondo",
+                    "uri": "https://pleiades.stoa.org/author/mjredondo",
+                    "username": "mjredondo"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 1453,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -4.8299634,
+                    39.96071
+                ],
+                "type": "Point"
+            },
+            "history": [],
+            "id": "osm-location-of-modern-talavera-de-la-reina",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Node 496524427, version 18, osm:changeset=43222644, 2016-10-27T16:51:58Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/496524427",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 496524427",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=496524427",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 640,
+            "title": "OSM location of modern Talavera de la Reina",
+            "uri": "https://pleiades.stoa.org/places/265834/osm-location-of-modern-talavera-de-la-reina"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -239,7 +420,112 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/265834/caesarobriga"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
+                }
+            ],
+            "attested": "Talauera",
+            "contributors": [],
+            "created": "2017-07-23T01:35:22Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "María Jesús Redondo",
+                    "uri": "https://pleiades.stoa.org/author/mjredondo",
+                    "username": "mjredondo"
+                }
+            ],
+            "description": "Medieval Spanish name of village associated with modern Talavera de la Reina.",
+            "details": "",
+            "end": 1453,
+            "history": [],
+            "id": "name.2016-09-29.6198879543",
+            "language": "es",
+            "nameType": "geographic",
+            "provenance": "Hispanic Seminary of Medieval Studies",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6PJGZ3HT",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "Herrera, M.ª Teresa, M.ª Nieves Sánchez, M.ª Estela González de Fauve y M.ª Purificación Zabía. Textos y Concordancias Electrónicos de Documentos Castellanos de Alfonso X. Madison: Hispanic Seminary of Medieval Studies, 1999, CD-ROM.",
+                    "type": "cites"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Talauera",
+            "start": 640,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/265834/name.2016-09-29.6198879543"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Talavera de la Reina",
+            "contributors": [],
+            "created": "2017-07-23T01:35:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "María Jesús Redondo",
+                    "uri": "https://pleiades.stoa.org/author/mjredondo",
+                    "username": "mjredondo"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [],
+            "id": "talavera-de-la-reina",
+            "language": "es",
+            "nameType": "geographic",
+            "provenance": "Hispanic Seminary of Medieval Studies",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/6361825/talavera-de-la-reina.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames 6361825 Talavera de la Reina",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Talavera de la Reina",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/265834/talavera-de-la-reina"
         }
+    ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
         "settlement"
@@ -251,6 +537,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 27 A2 Caesarobriga",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -261,25 +548,27 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#Tovar-1976",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Tovar 1976, 236",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://es.wikipedia.org/wiki/Caesarobriga",
+            "accessURI": "https://es.wikipedia.org/wiki/Caesarobriga",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Caesarobriga",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/LPYQ8SZL",
+            "citationDetail": "Caesarobriga",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: la enciclopedia de contenido libre (2001-), Caesarobriga.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Spanish)",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        -4.834583,
-        39.95945
+        -4.8322731999999995,
+        39.96008
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

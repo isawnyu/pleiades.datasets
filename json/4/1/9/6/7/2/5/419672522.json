@@ -6,6 +6,37 @@
         14.4840775,
         40.7537462
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/433032",
+            "contributors": [],
+            "created": "2016-07-13T13:41:28Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "433032",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Pompeii",
+            "uri": "https://pleiades.stoa.org/places/419672522/433032"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/433032"
     ],
@@ -82,10 +113,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -111,6 +145,10 @@
             "featureType": [
                 "cemetery",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -145,6 +183,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 2032812266, version 1, osm:changeset=14034387, 2012-11-25T20:07:34Z)",
             "references": [
                 {
@@ -152,6 +194,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 2032812266",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=2032812266",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -165,6 +208,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
     "placeTypes": [
         "cemetery"
     ],
@@ -175,6 +221,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "pompeiisites.org: Necropolis of Porta Vesuvio",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -185,6 +232,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Pompeii. Tombs at Porta Vesuvio. Tomb VG3. Tomb of Arellia Tertulla, daughter of Numerius and wife of Veius Fronto",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -195,6 +243,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Spani, G. 1943. “La tomba dell'edile Vestorio Prisco a Pompeii.” MemLinc s. vii 3, 6:237-315.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -205,6 +254,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "AD 79: Vesuvius Gate",
             "otherIdentifier": " ",
             "shortTitle": "",

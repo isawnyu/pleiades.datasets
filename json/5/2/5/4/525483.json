@@ -6,6 +6,37 @@
         28.9228226,
         40.9997684
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/520998",
+            "contributors": [],
+            "created": "2016-07-13T13:52:27Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "520998",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Constantinopolis",
+            "uri": "https://pleiades.stoa.org/places/525483/520998"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/520998"
     ],
@@ -124,18 +155,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -153,6 +191,9 @@
             "end": 2100,
             "featureType": [
                 "city-wall"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/city-wall"
             ],
             "geometry": {
                 "coordinates": [
@@ -205,6 +246,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/city-wall"
+            ],
             "provenance": "OpenStreetMap (Way 23273442, version 6, osm:changeset=41973379, 2016-09-07T08:09:12Z)",
             "references": [
                 {
@@ -212,6 +256,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 23273442",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=23273442",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -225,6 +270,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/city-wall"
+    ],
     "placeTypes": [
         "city-wall"
     ],
@@ -235,6 +283,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 53 A2",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -245,6 +294,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QECQN2PI",
             "citationDetail": "265-83",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Janin, R. <i>Constantinople Byzantine: Dévelopment Urbain et Répertoire Topographique</i>. 2. éd. Archives de l’Orient Chrétien, 4 A. Paris: Institut Français d’Etudes Byzantines, 1964.</div>",
             "otherIdentifier": "",
             "shortTitle": "Janin 1964",
@@ -253,11 +303,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Walls_of_Constantinople",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Walls of Constantinople",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Walls of Constantinople",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Walls of Constantinople.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -265,6 +316,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Livius.org: Constantinople, Theodosian Walls",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -273,11 +325,12 @@
         {
             "accessURI": "https://de.wikipedia.org/wiki/Theodosianische_Mauer",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (German), Theodosianische Mauer",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
+            "citationDetail": "Theodosianische Mauer",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Theodosianische Mauer.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (German)",
             "type": "seeFurther"
         }
     ],

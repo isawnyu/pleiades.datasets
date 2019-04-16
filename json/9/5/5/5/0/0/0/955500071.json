@@ -6,6 +6,39 @@
         2.3525032,
         48.8451662
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": [
+                "at"
+            ],
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectsTo": "https://pleiades.stoa.org/places/109126",
+            "contributors": [],
+            "created": "2018-05-13T10:59:05Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "1455276131",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Lutetia",
+            "uri": "https://pleiades.stoa.org/places/955500071/1455276131"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/109126"
     ],
@@ -81,10 +114,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -103,6 +139,10 @@
             "featureType": [
                 "amphitheatre",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -127,6 +167,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 174966289, version 2, osm:changeset=13563119, 2012-10-20T01:29:09Z)",
             "references": [
                 {
@@ -134,6 +178,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 174966289",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=174966289",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -144,6 +189,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
                     "citationDetail": "Arènes de Lutèce",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Arènes de Lutèce.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
@@ -156,7 +202,68 @@
             "uri": "https://pleiades.stoa.org/places/955500071/location-of-arenes-de-lutece"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Arênes de Lutèce",
+            "contributors": [],
+            "created": "2018-05-13T14:22:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "added name via GeoNames 6452894",
+                    "modified": "2018-05-13T14:22:44Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "arenes-de-lutece",
+            "language": "fr",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/6452894/arenes-de-lutece.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "GeoNames 6452894",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Arenes de Lutece",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/955500071/arenes-de-lutece"
+        }
+    ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
+    ],
     "placeTypes": [
         "amphitheatre"
     ],
@@ -167,6 +274,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Arènes de Lutèce",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",

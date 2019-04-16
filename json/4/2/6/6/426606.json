@@ -1,13 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        12.7898323,
-        41.960833,
-        12.8010789,
-        41.9667689
+        12.79818,
+        41.963602,
+        12.79818,
+        41.963602
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/423081",
+            "contributors": [],
+            "created": "2016-07-13T13:41:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "423081",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Tibur",
+            "uri": "https://pleiades.stoa.org/places/426606/423081"
+        }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/423081"
+        "https://pleiades.stoa.org/places/423081",
+        "https://pleiades.stoa.org/places/423127"
     ],
     "contributors": [
         {
@@ -125,10 +157,13 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -163,6 +198,9 @@
             "end": 300,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -202,6 +240,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "Barrington Atlas: BAtlas 43 D2 30",
             "references": [],
             "review_state": "published",
@@ -211,6 +252,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
     "placeTypes": [
         "cemetery"
     ],
@@ -221,6 +265,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 43 D2 30",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -231,6 +276,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/25657271",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Mari, Z. 1991. Tibur. Pars quarta (Forma Italiae; 35). Florence: L.S. Olschki. pp. 211-19.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -238,8 +284,8 @@
         }
     ],
     "reprPoint": [
-        12.796380299574913,
-        41.963515511642974
+        12.79818,
+        41.963602
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

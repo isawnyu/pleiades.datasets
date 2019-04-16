@@ -6,8 +6,53 @@
         12.5012225,
         41.8940964
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/423025",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:59:45Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2018-10-19T20:58:47Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "423025",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Roma",
+            "uri": "https://pleiades.stoa.org/places/866548110/423025"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/423025"
+        "https://pleiades.stoa.org/places/423025",
+        "https://pleiades.stoa.org/places/950724706"
     ],
     "contributors": [],
     "created": "2013-02-23T03:28:31Z",
@@ -60,10 +105,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -82,6 +130,10 @@
             "featureType": [
                 "architecturalcomplex",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -121,6 +173,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 1159449593, version 1, osm:changeset=7324904, 2011-02-18T18:23:14Z)",
             "references": [
                 {
@@ -128,6 +184,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 1159449593",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=1159449593",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -141,6 +198,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
+    ],
     "placeTypes": [
         "architecturalcomplex"
     ],
@@ -151,19 +211,21 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Platner and Ashby 1929 (Perseus),  AUDITORIUM MAECENATIS",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Gardens_of_Maecenas",
+            "accessURI": "https://en.wikipedia.org/wiki/Gardens_of_Maecenas",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Gardens of Maecenas",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Gardens of Maecenas",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Gardens of Maecenas.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         }
     ],

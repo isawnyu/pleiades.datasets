@@ -6,6 +6,39 @@
         31.2185513,
         29.8737597
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": [
+                "at"
+            ],
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectsTo": "https://pleiades.stoa.org/places/796289136",
+            "contributors": [],
+            "created": "2016-08-31T20:56:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "9707622347",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Saqqarah",
+            "uri": "https://pleiades.stoa.org/places/393558281/9707622347"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/796289136"
     ],
@@ -76,10 +109,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "old-kingdom-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "old-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-kingdom-egypt"
                 }
             ],
             "contributors": [],
@@ -98,6 +134,10 @@
             "featureType": [
                 "tomb",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -128,6 +168,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 1139038016, version 1, osm:changeset=7202716, 2011-02-06T13:02:02Z)",
             "references": [
                 {
@@ -135,19 +179,21 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 1139038016",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=1139038016",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 },
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Pyramid_of_Userkaf",
+                    "accessURI": "https://en.wikipedia.org/wiki/Pyramid_of_Userkaf",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Pyramid of Userkaf",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Pyramid of Userkaf",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pyramid of Userkaf.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeFurther"
                 }
             ],
@@ -158,6 +204,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+        "https://pleiades.stoa.org/vocabularies/place-types/pyramid"
+    ],
     "placeTypes": [
         "tomb",
         "pyramid"
@@ -167,11 +217,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Pyramid_of_Userkaf",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "Wikipedia, Pyramid of Userkaf",
-            "formattedCitation": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Pyramid of Userkaf",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pyramid of Userkaf.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -179,6 +230,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikidata Q1570082",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -189,6 +241,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 351937",
             "otherIdentifier": "",
             "shortTitle": "",

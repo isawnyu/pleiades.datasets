@@ -6,6 +6,7 @@
         -1.3929306,
         51.555968
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -60,14 +61,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "bronze-age-britain"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "bronze-age-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/bronze-age-britain"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "iron-age-britain"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "iron-age-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/iron-age-britain"
                 }
             ],
             "contributors": [
@@ -93,6 +99,10 @@
             "featureType": [
                 "causeway",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/causeway",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -127,6 +137,10 @@
             "locationType": [
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/causeway",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 38030616, version 10, osm:changeset=15114074, 2013-02-21T16:29:59Z)",
             "references": [
                 {
@@ -134,6 +148,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 38030616",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=38030616",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -147,19 +162,23 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/causeway"
+    ],
     "placeTypes": [
         "causeway"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://en.wikipedia.org/wiki/The_Ridgeway",
+            "accessURI": "https://en.wikipedia.org/wiki/The_Ridgeway",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, The Ridgeway",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "The Ridgeway",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), The Ridgeway.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -167,6 +186,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "The Ridgeway National Trail",
             "otherIdentifier": " ",
             "shortTitle": "",

@@ -6,6 +6,50 @@
         14.4116,
         35.933331
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/462311",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2016-07-13T13:45:54Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "ctype -> part of (topographic)",
+                    "modified": "2019-02-13T22:47:28Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "462311",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Melita/Malta (island)",
+            "uri": "https://pleiades.stoa.org/places/462480/462311"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/462311"
     ],
@@ -60,18 +104,6 @@
                 "title": "Visible Remains of San Pawl Milqi Roman Villa"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": null,
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/462480/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -108,18 +140,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -138,6 +177,10 @@
             "featureType": [
                 "estate",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/estate",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -167,82 +210,22 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/estate",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": -330,
             "title": "Visible Remains of San Pawl Milqi Roman Villa",
             "uri": "https://pleiades.stoa.org/places/462480/visible-remains-of-san-pawl-milqi-roman-villa"
-        },
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T15:14:38Z",
-            "creators": [
-                {
-                    "name": "R.J.A. Wilson",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:23:30Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 47 inset S. Pawl Milqi",
-            "references": [],
-            "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/462480/batlas-location"
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/estate"
+    ],
     "placeTypes": [
         "estate"
     ],
@@ -253,6 +236,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 47 inset S. Pawl Milqi",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -263,6 +247,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TVMU5Z9C",
             "citationDetail": "85-86",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Lewis, Harrison Adolphus. <i>Ancient Malta ; a Study of Its Antiquities</i>. Gerrards Cross: Smythe, 1977.</div>",
             "otherIdentifier": "",
             "shortTitle": "Lewis 1977",
@@ -273,6 +258,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "San Pawl Milqi",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), San Pawl Milqi.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",

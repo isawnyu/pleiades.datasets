@@ -3,11 +3,13 @@
     "bbox": [
         1.461921,
         50.021578,
-        1.465386,
-        50.021599
+        1.461921,
+        50.021578
     ],
+    "connections": [],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/937860872"
+        "https://pleiades.stoa.org/places/937860872",
+        "https://pleiades.stoa.org/places/757819779"
     ],
     "contributors": [
         {
@@ -46,11 +48,11 @@
     "created": "2009-11-02T15:47:28Z",
     "creators": [
         {
-            "name": "C. Haselgrove",
+            "name": "J. Kunow",
             "username": null
         },
         {
-            "name": "J. Kunow",
+            "name": "C. Haselgrove",
             "username": null
         }
     ],
@@ -72,24 +74,6 @@
                 "location_precision": "precise",
                 "snippet": "Theatre, Plaza, Sanctuary, ; 330 BC - AD 640",
                 "title": "Location of the archaeological site of Bois l'Abbé"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    1.465386,
-                    50.021599
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-the-roman-theater",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/108771/location-of-the-roman-theater",
-                "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "Location of the Roman theater"
             },
             "type": "Feature"
         }
@@ -143,18 +127,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-digitalglobe-imagery-2012",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -182,6 +173,12 @@
                 "plaza",
                 "sanctuary",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -221,6 +218,12 @@
             "locationType": [
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -228,6 +231,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Devillers, Dubois and Mantel, Une agglomération antique sort de l'anonymat (Eu, \"Bois L'Abbé\", Seine-Maritime) : Briga ressuscité, Revue archéologique de Picardie 3 (2006), 31-50",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -238,19 +242,21 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "PECS augusta-ambianorum",
                     "otherIdentifier": " ",
                     "shortTitle": "",
                     "type": "seeFurther"
                 },
                 {
-                    "accessURI": "http://fr.wikipedia.org/wiki/Site_gallo-romain_de_Bois-l%27Abb%C3%A9",
+                    "accessURI": "https://fr.wikipedia.org/wiki/Site_gallo-romain_de_Bois-l%27Abb%C3%A9",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipédia : Site_gallo-romain_de_Bois-l'Abbé",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
+                    "citationDetail": "Site gallo-romain de Bois-l'Abbé",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), Site gallo-romain de Bois-l'Abbé.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (French)",
                     "type": "seeFurther"
                 },
                 {
@@ -258,6 +264,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "AdlFI: Eu, Bois l’Abbé",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -268,75 +275,37 @@
             "start": -330,
             "title": "Location of the archaeological site of Bois l'Abbé",
             "uri": "https://pleiades.stoa.org/places/108771/location-of-the-archaeological-site-bois-labbe"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-digitalglobe-imagery-2012",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [],
-            "created": "2012-03-18T21:02:32Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    1.465386,
-                    50.021599
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Initial revision",
-                    "modified": "2012-03-18T21:02:33Z",
-                    "modifiedBy": "jahlfeldt"
-                }
-            ],
-            "id": "location-of-the-roman-theater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Pleiades",
-            "references": [],
-            "review_state": "published",
-            "start": null,
-            "title": "Location of the Roman theater",
-            "uri": "https://pleiades.stoa.org/places/108771/location-of-the-roman-theater"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 }
             ],
             "attested": "Augusta Ambianorum",
@@ -404,14 +373,19 @@
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "Briga",
@@ -467,6 +441,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "EDH HD063570 = AE 2007, 0980 = AE 2006, 0837",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -483,10 +458,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -523,6 +501,11 @@
             "uri": "https://pleiades.stoa.org/places/108771/bois-labbe-eu"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/theatre",
+        "https://pleiades.stoa.org/vocabularies/place-types/plaza"
+    ],
     "placeTypes": [
         "sanctuary",
         "theatre",
@@ -535,6 +518,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 11 B2 [Augusta] Ambianorum",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -545,6 +529,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Lutetia-84",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "TIR Lutetia 84",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -555,6 +540,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), AUGUSTA AMBIANORUM Seine-Maritime, France",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -565,6 +551,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/f.html#Fichtl-1994",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Fichtl 1994, 161",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -575,6 +562,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "RFO 13746",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -582,8 +570,8 @@
         }
     ],
     "reprPoint": [
-        1.4636535,
-        50.0215885
+        1.461921,
+        50.021578
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

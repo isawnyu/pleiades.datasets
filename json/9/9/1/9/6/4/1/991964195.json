@@ -6,6 +6,37 @@
         34.695556,
         40.234444
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/837",
+            "contributors": [],
+            "created": "2016-07-13T13:50:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "837",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Asia Minor",
+            "uri": "https://pleiades.stoa.org/places/991964195/837"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/837"
     ],
@@ -87,18 +118,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "early-geometric"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-geometric",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-geometric"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "neolithic-eastern-med"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neolithic-eastern-med",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-eastern-med"
                 }
             ],
             "contributors": [],
@@ -117,6 +155,10 @@
             "featureType": [
                 "settlement",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -161,6 +203,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -168,6 +214,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "GeoHack - Alaca Höyük",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -184,10 +231,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Alacahöyük",
@@ -217,13 +267,14 @@
             "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Alaca_H%C3%B6y%C3%BCk",
+                    "accessURI": "https://en.wikipedia.org/wiki/Alaca_H%C3%B6y%C3%BCk",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Alaca Höyük",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Alaca Höyük",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Alaca Höyük.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "citesAsEvidence"
                 }
             ],
@@ -235,6 +286,9 @@
             "uri": "https://pleiades.stoa.org/places/991964195/alaca-hoeyuk"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -245,19 +299,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/83242911",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Gursan-Salzmann, Ayse. 1992. Alaca Hoyuk: A reassessment of the excavation and sequence of the Early Bronze Age settlement. Ph.D. thesis, University of Pennsylvania.",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Alaca_H%C3%B6y%C3%BCk",
+            "accessURI": "https://en.wikipedia.org/wiki/Alaca_H%C3%B6y%C3%BCk",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Alaca Höyük",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Alaca Höyük",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Alaca Höyük.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -265,6 +321,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Koşay 1947",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -275,6 +332,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Alacahöyük",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -285,6 +343,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Koşay 1954",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -295,6 +354,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/474008369",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Koşay and Akok 1973",
             "otherIdentifier": " ",
             "shortTitle": "",

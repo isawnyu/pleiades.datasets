@@ -3,13 +3,103 @@
     "bbox": [
         -0.538459,
         53.234785,
-        -0.5381837,
-        53.2371855
+        -0.538425,
+        53.234856
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/83055",
+            "contributors": [],
+            "created": "2016-07-13T13:48:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "83055",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Untitled",
+            "uri": "https://pleiades.stoa.org/places/79395/83055"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/203193875",
+            "contributors": [],
+            "created": "2016-07-13T13:48:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "203193875",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Ermine Street",
+            "uri": "https://pleiades.stoa.org/places/79395/203193875"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/656280677",
+            "contributors": [],
+            "created": "2016-07-13T13:48:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "656280677",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Fosse Way",
+            "uri": "https://pleiades.stoa.org/places/79395/656280677"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/83055",
         "https://pleiades.stoa.org/places/203193875",
-        "https://pleiades.stoa.org/places/656280677"
+        "https://pleiades.stoa.org/places/656280677",
+        "https://pleiades.stoa.org/places/670424965"
     ],
     "contributors": [
         {
@@ -88,24 +178,6 @@
                 "title": "DARMC location 20182"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.5381837,
-                    53.2371855
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-newport-arch-city-gate",
-            "properties": {
-                "description": "Representative location of the remains of a third century A.D. city gate based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/79395/location-of-newport-arch-city-gate",
-                "location_precision": "precise",
-                "snippet": "City-gate; 30 BC - AD 640",
-                "title": "OSM location of Newport Arch city gate"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -182,14 +254,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -210,6 +287,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -234,17 +314,21 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 20177",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick (ed.), Digital Atlas of Roman and Medieval Civilizations",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "20177",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20177.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -257,14 +341,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -285,6 +374,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -309,124 +401,46 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 20182",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick (ed.), Digital Atlas of Roman and Medieval Civilizations",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "20182",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20182.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
             "title": "DARMC location 20182",
             "uri": "https://pleiades.stoa.org/places/79395/darmc-location-20182"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-09-08T03:35:34Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Representative location of the remains of a third century A.D. city gate based on OpenStreetMap.",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "city-gate"
-            ],
-            "geometry": {
-                "coordinates": [
-                    -0.5381837,
-                    53.2371855
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2017-04-06T12:06:38Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-09-08T03:36:38Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-09-08T03:35:36Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-newport-arch-city-gate",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Node 1309604085, version 2, osm:changeset=9762735, 2011-11-07T08:52:46Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/1309604085",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 1309604085",
-                    "formattedCitation": "osm:node=1309604085",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Newport_Arch",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Newport Arch",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Newport Arch city gate",
-            "uri": "https://pleiades.stoa.org/places/79395/location-of-newport-arch-city-gate"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -480,8 +494,10 @@
             "uri": "https://pleiades.stoa.org/places/79395/col-lindum"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "city-gate",
         "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 8 G1 Col. Lindum",
@@ -491,6 +507,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 8 G1 Col. Lindum",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -501,29 +518,32 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T2WDCC2T",
             "citationDetail": "132-50",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Wacher, J. S. <i>The Towns of Roman Britain</i>. 2 , fully rev. London: Batsford, 1995.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wacher 1995",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Lincoln,_Lincolnshire",
+            "accessURI": "https://en.wikipedia.org/wiki/Lincoln,_Lincolnshire",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Lincoln, Lincolnshire",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Lincoln, Lincolnshire",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Lincoln, Lincolnshire.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
             "accessURI": "https://en.wikipedia.org/wiki/Lindum_Colonia",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Lindum Colonia",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Lindum Colonia",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Lindum Colonia.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -531,6 +551,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), LINDUM COLONIA (Lincoln) Lincolnshire, England",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -541,6 +562,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "roman-britain.co.uk: Colonia Domitiana Lindensivmlindvm Roman Colony & Legionary Fortress Lincoln, Lincolnshire",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -551,6 +573,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Pastscape Monument no. 326486",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -561,6 +584,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Lindum",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -571,6 +595,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 13683",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -581,6 +606,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), LINDUM",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -588,8 +614,8 @@
         }
     ],
     "reprPoint": [
-        -0.5383559000000001,
-        53.23560883333334
+        -0.5384420000000001,
+        53.2348205
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

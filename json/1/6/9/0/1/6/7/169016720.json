@@ -6,6 +6,37 @@
         35.4480261,
         30.3239181
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/697725",
+            "contributors": [],
+            "created": "2016-07-13T13:37:42Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "697725",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Petra",
+            "uri": "https://pleiades.stoa.org/places/169016720/697725"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/697725"
     ],
@@ -66,10 +97,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-middle-east"
                 }
             ],
             "contributors": [],
@@ -87,6 +121,9 @@
             "end": 640,
             "featureType": [
                 "cemetery"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "geometry": {
                 "coordinates": [
@@ -131,6 +168,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+            ],
             "provenance": "OpenStreetMap (Way 115515973, version 2, osm:changeset=8295343, 2011-05-30T19:37:15Z)",
             "references": [
                 {
@@ -138,6 +178,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 115515973",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=115515973",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -151,6 +192,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
     "placeTypes": [
         "cemetery"
     ],
@@ -161,6 +205,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Petra",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Petra.",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",

@@ -6,8 +6,40 @@
         -5.9627667,
         38.9671713
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/255976",
+            "contributors": [],
+            "created": "2016-07-13T13:51:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "255976",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Anas (river)",
+            "uri": "https://pleiades.stoa.org/places/257480/255976"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/255976"
+        "https://pleiades.stoa.org/places/255976",
+        "https://pleiades.stoa.org/places/256298"
     ],
     "contributors": [
         {
@@ -64,44 +96,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -6.0,
-                            38.0
-                        ],
-                        [
-                            -6.0,
-                            39.0
-                        ],
-                        [
-                            -5.0,
-                            39.0
-                        ],
-                        [
-                            -5.0,
-                            38.0
-                        ],
-                        [
-                            -6.0,
-                            38.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/257480/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -5.9627667,
                     38.9671713
                 ],
@@ -144,110 +138,16 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "less-confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-09T19:26:45Z",
-            "creators": [
-                {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -6.0,
-                            38.0
-                        ],
-                        [
-                            -6.0,
-                            39.0
-                        ],
-                        [
-                            -5.0,
-                            39.0
-                        ],
-                        [
-                            -5.0,
-                            38.0
-                        ],
-                        [
-                            -6.0,
-                            38.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:47:34Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 26 E3",
-            "references": [],
-            "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/257480/batlas-location"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-empire-late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [
@@ -273,6 +173,10 @@
             "featureType": [
                 "bridge",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -302,6 +206,10 @@
             "locationType": [
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 80878703, version 2, osm:changeset=13846803, 2012-11-12T13:36:27Z)",
             "references": [
                 {
@@ -309,6 +217,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 80878703",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=80878703",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -322,6 +231,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+    ],
     "placeTypes": [
         "bridge"
     ],
@@ -332,6 +244,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 26 E3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -342,6 +255,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/g.html#Gazzola-1968",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Gazzola 1968, 182-83",
             "otherIdentifier": "",
             "shortTitle": "",

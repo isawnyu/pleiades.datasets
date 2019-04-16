@@ -6,6 +6,37 @@
         -5.7759514,
         36.0909571
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/256005",
+            "contributors": [],
+            "created": "2016-07-13T13:44:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "256005",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "B(a)elo",
+            "uri": "https://pleiades.stoa.org/places/713816455/256005"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/256005"
     ],
@@ -88,10 +119,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -110,6 +144,10 @@
             "featureType": [
                 "theatre",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -139,6 +177,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 31978824, version 2, osm:changeset=12144503, 2012-07-07T21:43:31Z)",
             "references": [
                 {
@@ -146,6 +188,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 31978824",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=31978824",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -159,6 +202,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/theatre"
+    ],
     "placeTypes": [
         "theatre"
     ],
@@ -169,6 +215,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perses), BAELO (Bolonia) Cáidiz, Spain",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -177,11 +224,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Baelo_Claudia",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Baelo Claudia",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Baelo Claudia",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Baelo Claudia.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -189,6 +237,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/708334264",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Sillières, Pierre. 1995. Baelo Claudia, une cité romaine de Bétique. Madrid: Casa de Velázquez; Paris: Diff. de Boccard,",
             "otherIdentifier": " ",
             "shortTitle": "",

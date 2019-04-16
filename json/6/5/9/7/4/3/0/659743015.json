@@ -6,6 +6,37 @@
         10.3316466,
         42.8011446
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/403180",
+            "contributors": [],
+            "created": "2016-07-13T13:59:46Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "403180",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "‘Argoos Limen’",
+            "uri": "https://pleiades.stoa.org/places/659743015/403180"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/403180"
     ],
@@ -103,10 +134,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -124,6 +158,9 @@
             "end": 300,
             "featureType": [
                 "villa"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
@@ -196,6 +233,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
+            ],
             "provenance": "OpenStreetMap (Way 119894152, version 5, osm:changeset=51064393, 2017-08-12T17:59:35Z)",
             "references": [
                 {
@@ -203,6 +243,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 119894152",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=119894152",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -219,10 +260,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -256,6 +300,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
                     "citationDetail": "Q16621638",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Wikidata",
@@ -270,6 +315,9 @@
             "uri": "https://pleiades.stoa.org/places/659743015/name.2018-03-18.9039758300"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+    ],
     "placeTypes": [
         "villa"
     ],
@@ -280,6 +328,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Villa romana delle Grotte",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Villa romana delle Grotte.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",

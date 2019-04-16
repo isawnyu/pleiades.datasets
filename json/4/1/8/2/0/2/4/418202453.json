@@ -6,6 +6,87 @@
         12.5727027,
         43.3516213
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": [
+                "at"
+            ],
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectsTo": "https://pleiades.stoa.org/places/413174",
+            "contributors": [],
+            "created": "2018-06-07T13:57:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "8647502411",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Iguvium",
+            "uri": "https://pleiades.stoa.org/places/418202453/8647502411"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/881000319",
+            "contributors": [],
+            "created": "2018-06-07T14:00:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2018-06-07T14:00:03Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "area-della-guastuglia",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -330,
+            "title": "Area della Guastuglia",
+            "uri": "https://pleiades.stoa.org/places/418202453/area-della-guastuglia"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/413174",
         "https://pleiades.stoa.org/places/881000319"
@@ -68,10 +149,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -90,6 +174,10 @@
             "featureType": [
                 "theatre",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -119,6 +207,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 176589635, version 3, osm:changeset=19849365, 2014-01-06T18:38:15Z)",
             "references": [
                 {
@@ -126,6 +218,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 176589635",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=176589635",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -142,10 +235,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Teatro romano Gubbio",
@@ -191,6 +287,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "GeoNames 10376460",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -205,6 +302,9 @@
             "uri": "https://pleiades.stoa.org/places/418202453/name.2018-06-07.7299441370"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/theatre"
+    ],
     "placeTypes": [
         "theatre"
     ],
@@ -215,6 +315,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "Teatro romano e Antiquarium di Gubbio",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "",
             "otherIdentifier": "",
             "shortTitle": "",

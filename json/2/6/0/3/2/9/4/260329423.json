@@ -6,6 +6,37 @@
         14.4897455,
         40.7486364
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/433032",
+            "contributors": [],
+            "created": "2016-07-13T13:57:38Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "433032",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Pompeii",
+            "uri": "https://pleiades.stoa.org/places/260329423/433032"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/433032"
     ],
@@ -72,10 +103,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -100,6 +134,9 @@
             "end": 300,
             "featureType": [
                 "architecturalcomplex"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
             ],
             "geometry": {
                 "coordinates": [
@@ -139,6 +176,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
+            ],
             "provenance": "OpenStreetMap (Node 3566016238, version 1, osm:changeset=31661907, 2015-06-02T12:08:56Z)",
             "references": [
                 {
@@ -146,6 +186,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 3566016238",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=3566016238",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -159,6 +200,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
+    ],
     "placeTypes": [
         "architecturalcomplex"
     ],
@@ -169,6 +213,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "pompeiiinpictures.com: I.1.8 Pompeii. Hospitium of Hermes.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -177,11 +222,12 @@
         {
             "accessURI": "https://it.wikipedia.org/wiki/Regio_I_degli_scavi_archeologici_di_Pompei",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Regio I degli scavi archeologici di Pompei",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Regio I degli scavi archeologici di Pompei",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Regio I degli scavi archeologici di Pompei.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeAlso"
         }
     ],

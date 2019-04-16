@@ -6,6 +6,37 @@
         22.467781,
         37.020286
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/570074",
+            "contributors": [],
+            "created": "2016-07-13T13:44:05Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "570074",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Amyklai",
+            "uri": "https://pleiades.stoa.org/places/172198383/570074"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/570074"
     ],
@@ -149,10 +180,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2015",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-helladic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-helladic"
                 }
             ],
             "contributors": [
@@ -200,6 +234,10 @@
             "featureType": [
                 "tomb",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -255,6 +293,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -262,6 +304,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Marinatos, S. 1937. “Σιγύνη.” The Annual of the British School at Athens 37:187-91.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -278,10 +321,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Vapheio Tholos Tomb",
@@ -352,6 +398,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "J. Younger. 1978. “The Mycenae-Vapheio Lion Group.” American Journal of Archaeology 82: 286.",
                     "otherIdentifier": "http://www.jstor.org/stable/504459",
                     "shortTitle": "",
@@ -366,6 +413,10 @@
             "uri": "https://pleiades.stoa.org/places/172198383/name.2015-04-30.6987003870"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+        "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
+    ],
     "placeTypes": [
         "tomb",
         "tumulus"
@@ -377,6 +428,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Davis, E. 1974. “The Vapheio Cups: One Minoan and One Mycenean?” The Art Bulletin 56.4:472-87.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -387,6 +439,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Marinatos, S. 1937. “Σιγύνη.” The Annual of the British School at Athens 37: 187-191.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -397,19 +450,21 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Younger, J. 1978. “The Mycenae-Vapheio Lion Group.” American Journal of Archaeology 82.3:285-99.",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeAlso"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Vaphio",
+            "accessURI": "https://en.wikipedia.org/wiki/Vaphio",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Vaphio",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Vaphio",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Vaphio.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         },
         {
@@ -417,6 +472,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "odysseus.culture.gr: Vapheio cups",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -427,6 +483,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "namuseum.gr: 1758 The Vapheio cups. Vapheio, Laconia, 1st half of 15th cent. BC",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -437,6 +494,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Chapin, A. et al. 2014. \"The Vapheio Tholos Tomb and the Construction of a Sacred Landscape in Laconia, Greece.\" Aegaeum 37",
             "otherIdentifier": " ",
             "shortTitle": "",

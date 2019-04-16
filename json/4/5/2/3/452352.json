@@ -1,28 +1,30 @@
 {
     "@type": "Place",
     "bbox": [
-        16.5784254,
+        16.578485,
         38.445426,
         16.5798068,
         38.4498918
     ],
-    "connectsWith": [],
+    "connections": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/66028350",
+        "https://pleiades.stoa.org/places/405207827"
+    ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
         {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -32,13 +34,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-08T10:47:55Z",
@@ -88,42 +92,6 @@
                 "location_precision": "precise",
                 "snippet": "Settlement, ; 750 BC - AD 300",
                 "title": "location of archaeological area of Kaulonia"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    16.5784254,
-                    38.4455162
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-doric-temple",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/452352/location-of-doric-temple",
-                "location_precision": "precise",
-                "snippet": "Temple-2, ; 550 BC - 30 BC",
-                "title": "OSM location of Doric temple"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    16.5790531,
-                    38.4467136
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-domus",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/452352/location-of-domus",
-                "location_precision": "precise",
-                "snippet": "Townhouse, ; 330 BC - AD 300",
-                "title": "location of domus"
             },
             "type": "Feature"
         }
@@ -182,18 +150,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "contributors": [
@@ -219,6 +194,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     16.578485,
@@ -242,6 +220,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 18497",
             "references": [
                 {
@@ -249,6 +230,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "18497",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18497.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -265,22 +247,31 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -299,6 +290,10 @@
             "featureType": [
                 "settlement",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -323,6 +318,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 224546120, version 2, osm:changeset=16943175, 2013-07-13T23:38:11Z)",
             "references": [
                 {
@@ -330,6 +329,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 224546120",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=224546120",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -340,176 +340,31 @@
             "start": -750,
             "title": "location of archaeological area of Kaulonia",
             "uri": "https://pleiades.stoa.org/places/452352/location-of-archaeological-area-of-kaulonia"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "classical"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-10-09T01:23:20Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": -30,
-            "featureType": [
-                "temple-2",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    16.5784254,
-                    38.4455162
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-08-04T03:11:37Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-10-09T01:24:07Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-10-09T01:23:25Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-doric-temple",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 154078440, version 3, osm:changeset=10915599, 2012-03-09T02:16:29Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/154078440",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 154078440",
-                    "formattedCitation": "osm:way=154078440",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -550,
-            "title": "OSM location of Doric temple",
-            "uri": "https://pleiades.stoa.org/places/452352/location-of-doric-temple"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-10-09T01:25:11Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "townhouse",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    16.5790531,
-                    38.4467136
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2013-10-09T01:26:03Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-10-09T01:25:14Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-domus",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 154078533, version 2, osm:changeset=10915599, 2012-03-09T02:16:30Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/154078533",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 154078533",
-                    "formattedCitation": "osm:way=154078533",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "location of domus",
-            "uri": "https://pleiades.stoa.org/places/452352/location-of-domus"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "attested": "",
@@ -565,10 +420,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "Καυλωνία",
@@ -602,6 +460,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Str. 6.1.10",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -616,10 +475,11 @@
             "uri": "https://pleiades.stoa.org/places/452352/name.2013-10-08.6890477197"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "settlement",
-        "temple-2",
-        "townhouse"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 46 E5 Kaulonia",
     "references": [
@@ -628,6 +488,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 46 E5 Kaulonia",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -638,6 +499,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Kaulonia-1",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Kaulonia 1",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -648,6 +510,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-X",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BTCGI X, 190-217",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -658,6 +521,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Caulonia",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Caulonia.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -668,6 +532,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Kaulon",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Kaulon.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
@@ -678,6 +543,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Strab. (Meineke: Perseus) 6.1.10",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -688,6 +554,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Paus. 6.3.12",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -698,6 +565,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), CAULONIA",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -708,6 +576,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Thuc. 7.25",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -718,6 +587,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Diod. 14.103-105",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -728,6 +598,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Plut. Dio 26",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -738,6 +609,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Liv. 27.12",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -748,6 +620,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 38435",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -758,6 +631,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 8378682",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -768,6 +642,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "SEG 51-1407",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -778,6 +653,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Caulonia",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -788,6 +664,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EMWZE2WB",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Tréziny, Henri. <i>Kaulonia / 1. Sondages Sur La Fortification Nord</i>. Cahiers Du Centre Jean Bérard 13. Naples, 1989. http://www.worldcat.org/oclc/612125118.</div>",
             "otherIdentifier": "",
             "shortTitle": "Tréziny 1989",
@@ -798,6 +675,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FCE8T5PA",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Giaccone, Nicola. <i>Architectural Terracottas at the Sanctuary of Punta Stilo at Kaulonia: Genesis, Problems, Developments</i>. BAR International Series 2777. Oxford: British Archaeological Reports Ltd, 2015. http://www.worldcat.org/oclc/944388709.</div>",
             "otherIdentifier": "",
             "shortTitle": "Giaccone 2015",
@@ -808,6 +686,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
             "citationDetail": "Kaulonia (Magna Graecia)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "http://atlantides.org/bibliography/",
             "shortTitle": "ToposText",
@@ -815,8 +694,8 @@
         }
     ],
     "reprPoint": [
-        16.578942575,
-        38.4468869
+        16.5791459,
+        38.4476589
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

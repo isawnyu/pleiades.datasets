@@ -6,6 +6,50 @@
         43.3353794,
         38.5037865
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "urartian-eastern-anatolia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/urartian-eastern-anatolia"
+                }
+            ],
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
+            "connectsTo": "https://pleiades.stoa.org/places/214160492",
+            "contributors": [],
+            "created": "2017-08-01T15:49:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -600,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2017-08-01T15:49:22Z",
+                    "modifiedBy": "gmckee"
+                }
+            ],
+            "id": "urartu",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -900,
+            "title": "Urartu",
+            "uri": "https://pleiades.stoa.org/places/964673805/urartu"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/214160492"
     ],
@@ -55,10 +99,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "urartian-eastern-anatolia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "urartian-eastern-anatolia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/urartian-eastern-anatolia"
                 }
             ],
             "contributors": [],
@@ -77,6 +124,10 @@
             "featureType": [
                 "fort",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -112,6 +163,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 135564251, version 2, osm:changeset=9714417, 2011-11-01T17:11:03Z)",
             "references": [
                 {
@@ -119,6 +174,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 135564251",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=135564251",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -132,19 +188,23 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+    ],
     "placeTypes": [
         "fort"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Van_Fortress",
+            "accessURI": "https://en.wikipedia.org/wiki/Van_Fortress",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Van Fortress",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Van Fortress",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Van Fortress.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],

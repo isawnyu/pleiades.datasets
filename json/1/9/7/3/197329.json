@@ -6,6 +6,37 @@
         16.2581582,
         43.0816728
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/1004",
+            "contributors": [],
+            "created": "2016-07-13T13:55:58Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "1004",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "(H)Adriaticum/Superum Mare",
+            "uri": "https://pleiades.stoa.org/places/197329/1004"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/1004"
     ],
@@ -188,6 +219,11 @@
     ],
     "history": [
         {
+            "comment": "theatrum.de: 1158",
+            "modified": "2019-04-13T15:26:25Z",
+            "modifiedBy": "jbecker"
+        },
+        {
             "comment": "add Italian to description for disambiguation.",
             "modified": "2017-02-21T18:43:48Z",
             "modifiedBy": "thomase"
@@ -250,10 +286,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -271,6 +310,9 @@
             "end": 2100,
             "featureType": [
                 "island"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
             "geometry": {
                 "coordinates": [
@@ -415,6 +457,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
+            ],
             "provenance": "OpenStreetMap (Relation 2853086, version 7, osm:changeset=44114522, 2016-12-02T13:42:21Z)",
             "references": [
                 {
@@ -422,6 +467,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Relation 2853086",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:relation=2853086",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -438,22 +484,31 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -514,10 +569,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Vis",
@@ -549,9 +607,10 @@
                 {
                     "accessURI": "https://hr.wikipedia.org/wiki/Vis",
                     "alternateURI": "",
-                    "bibliographicURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/5B9AS3BN",
                     "citationDetail": "Vis",
-                    "formattedCitation": "Wikipedija - suradnici, 'Vis', Wikipedija, Slobodna enciklopedija, 12 veljače 2017, 09:52 UTC, <//hr.wikipedia.org/w/index.php?title=Vis&oldid=4851447> [pristupljeno 21 veljače 2017]",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "Wikipedija: Slobodna enciklopedija (2001-), Vis.",
                     "otherIdentifier": "",
                     "shortTitle": "Wikipedia (Croatian)",
                     "type": "citesAsEvidence"
@@ -567,10 +626,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Lissa",
@@ -602,9 +664,10 @@
                 {
                     "accessURI": "https://it.wikipedia.org/wiki/Lissa_(isola)",
                     "alternateURI": "",
-                    "bibliographicURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
                     "citationDetail": "Lissa (isola)",
-                    "formattedCitation": "Contributori di Wikipedia, 'Lissa (isola)', Wikipedia, L'enciclopedia libera, 16 febbraio 2017, 12:01 UTC, <//it.wikipedia.org/w/index.php?title=Lissa_(isola)&oldid=85967544> [in data 21 febbraio 2017]",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Lissa (isola).",
                     "otherIdentifier": "",
                     "shortTitle": "Wikipedia (Italian)",
                     "type": "citesAsEvidence"
@@ -618,6 +681,9 @@
             "uri": "https://pleiades.stoa.org/places/197329/lissa"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
+    ],
     "placeTypes": [
         "island"
     ],
@@ -628,6 +694,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 20 D6 Issa Ins.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -638,6 +705,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z5C5IFJT",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Kirigin, Branko. <i>Issa, Grcki Grad Na Jadranu</i>. Mala Knjiznica Matice Hrvatske, novi niz, knj. 21. Zagreb: Matica hrvatska, 1996.</div>",
             "otherIdentifier": "",
             "shortTitle": "Kirigin 1996",
@@ -646,12 +714,24 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Vis_(island)",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Vis (island)",
-            "formattedCitation": "Wikipedia contributors, 'Vis (island)', Wikipedia, The Free Encyclopedia, 11 November 2016, 22:48 UTC, <https://en.wikipedia.org/w/index.php?title=Vis_(island)&oldid=749030842> [accessed 21 February 2017]",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Vis (island).",
             "otherIdentifier": " ",
-            "shortTitle": "Wikipedia",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
+        },
+        {
+            "accessURI": "http://theatrum.de/1158.html",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "theatrum.de: 1158",
+            "otherIdentifier": "",
+            "shortTitle": "",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [

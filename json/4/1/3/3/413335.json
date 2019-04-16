@@ -6,6 +6,7 @@
         13.5631362,
         42.9550121
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -94,10 +95,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -116,6 +120,10 @@
             "featureType": [
                 "river",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -140,6 +148,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 67412809, version 5, osm:changeset=15923111, 2013-04-30T16:38:10Z)",
             "references": [
                 {
@@ -147,19 +159,21 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 67412809",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=67412809",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 },
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Tesino",
+                    "accessURI": "https://en.wikipedia.org/wiki/Tesino",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Tesino",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Tesino",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Tesino.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeFurther"
                 }
             ],
@@ -173,6 +187,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -221,6 +236,9 @@
             "uri": "https://pleiades.stoa.org/places/413335/tessuinus"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/river"
+    ],
     "placeTypes": [
         "river"
     ],
@@ -231,6 +249,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 42 F3 Tessuinus fl.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -241,6 +260,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Tessuinum",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Tessuinum",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -251,6 +271,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Plin. HN 3.18",
             "otherIdentifier": " ",
             "shortTitle": "",

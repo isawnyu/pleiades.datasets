@@ -1,11 +1,12 @@
 {
     "@type": "Place",
     "bbox": [
-        -5.010418,
-        37.147602,
-        -5.010418,
-        37.147602
+        -5.02982,
+        37.129603,
+        -5.02982,
+        37.129603
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -15,6 +16,12 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Scott Vanderbilt",
+            "uri": "https://pleiades.stoa.org/author/sarcanon",
+            "username": "sarcanon"
         },
         {
             "name": "R. Warner",
@@ -60,23 +67,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    -5.010418,
-                    37.147602
+                    -5.02982,
+                    37.129603
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20325",
+            "id": "imagery-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/256224/darmc-location-20325",
+                "description": "Coordinates following vici.org, verified in Google Earth.",
+                "link": "https://pleiades.stoa.org/places/256224/imagery-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 20325"
+                "snippet": "Settlement; 330 BC - AD 300",
+                "title": "Imagery Location of centerpoint of remains"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 20325",
+            "modified": "2018-11-10T02:08:35Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2018-10-05T02:06:28Z",
@@ -112,96 +124,124 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:09:40Z",
-            "creators": [
-                {
-                    "name": "R.C. Knapp",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 },
                 {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 20325",
+            "created": "2018-09-30T19:14:18Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Scott Vanderbilt",
+                    "uri": "https://pleiades.stoa.org/author/sarcanon",
+                    "username": "sarcanon"
+                }
+            ],
+            "description": "Coordinates following vici.org, verified in Google Earth.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    -5.010418,
-                    37.147602
+                    -5.02982,
+                    37.129603
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:44:23Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2018-10-05T10:46:20Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:09:41Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2018-10-05T02:07:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2018-09-30T19:14:23Z",
+                    "modifiedBy": "sarcanon"
                 }
             ],
-            "id": "darmc-location-20325",
+            "id": "imagery-location",
             "locationType": [
                 "representative"
             ],
-            "provenance": "DARMC OBJECTID: 20325",
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://vici.org/",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20325",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20325.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+                    "citationDetail": "3686",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "vici.org",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 20325",
-            "uri": "https://pleiades.stoa.org/places/256224/darmc-location-20325"
+            "title": "Imagery Location of centerpoint of remains",
+            "uri": "https://pleiades.stoa.org/places/256224/imagery-location"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "Ilipula Minor",
@@ -273,6 +313,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Plin. HN (Mayhoff: PHI) 3.12.8",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -289,14 +330,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -359,6 +405,9 @@
             "uri": "https://pleiades.stoa.org/places/256224/ilipa"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -369,6 +418,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
             "citationDetail": "26 E4 Ilipula Minor",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://openlibrary.org/works/OL8327792W.</div>",
             "otherIdentifier": " ",
             "shortTitle": "BAtlas",
@@ -379,6 +429,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FVQVP6HW",
             "citationDetail": "66",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Galsterer, Hartmut. <i>Untersuchungen Zum Römischen Städtewesen Auf Der Iberischen Halbinsel</i>. Madrider Forschungen 8. Berlin: De Gruyter, 1971.</div>",
             "otherIdentifier": "",
             "shortTitle": "Galsterer 1971",
@@ -389,6 +440,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K9DTWREG",
             "citationDetail": "129",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Tovar, Antonio. <i>Die Völker und die Städte des antiken Hispanien</i>. 1st ed. 3 vols. Iberische Landeskunde 2. Baden-Baden: V. Koerner, 1974.</div>",
             "otherIdentifier": "",
             "shortTitle": "Tovar 1974-",
@@ -399,6 +451,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 26216",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -409,6 +462,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Ilipula [2] I. Minor",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -419,6 +473,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/c.html#CIL-II-1469f",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CIL II 1469f",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -429,15 +484,27 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
             "citationDetail": "3.12.8",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": "",
             "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20325",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -5.010418,
-        37.147602
+        -5.02982,
+        37.129603
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

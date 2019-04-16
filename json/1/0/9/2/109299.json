@@ -6,6 +6,7 @@
         4.1161292,
         50.3035216
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -40,55 +41,17 @@
     "created": "2017-10-27T20:11:24Z",
     "creators": [
         {
-            "name": "J. Kunow",
+            "name": "C. Haselgrove",
             "username": null
         },
         {
-            "name": "C. Haselgrove",
+            "name": "J. Kunow",
             "username": null
         }
     ],
     "description": "An ancient place, cited: BAtlas 11 E2 Sabis? fl.",
     "details": "The Barrington Atlas Directory notes: Sambre",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            4.0,
-                            50.0
-                        ],
-                        [
-                            4.0,
-                            51.0
-                        ],
-                        [
-                            5.0,
-                            51.0
-                        ],
-                        [
-                            5.0,
-                            50.0
-                        ],
-                        [
-                            4.0,
-                            50.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "undetermined",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/109299/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "Undetermined location"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -139,107 +102,16 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-11-02T15:56:13Z",
-            "creators": [
-                {
-                    "name": "C. Haselgrove",
-                    "username": null
-                },
-                {
-                    "name": "J. Kunow",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": -30,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            4.0,
-                            50.0
-                        ],
-                        [
-                            4.0,
-                            51.0
-                        ],
-                        [
-                            5.0,
-                            51.0
-                        ],
-                        [
-                            5.0,
-                            50.0
-                        ],
-                        [
-                            4.0,
-                            50.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:12:48Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:45:59Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 11 E2 Sabis? fl.",
-            "references": [],
-            "review_state": "published",
-            "start": -330,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/109299/undetermined"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -265,6 +137,10 @@
             "featureType": [
                 "river",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -294,6 +170,10 @@
             "locationType": [
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 314028545, version 2, osm:changeset=27390174, 2014-12-11T03:11:50Z)",
             "references": [
                 {
@@ -301,6 +181,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 314028545",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=314028545",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -317,10 +198,13 @@
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "attested": "",
@@ -379,6 +263,9 @@
             "uri": "https://pleiades.stoa.org/places/109299/sabis"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/river"
+    ],
     "placeTypes": [
         "river"
     ],
@@ -389,6 +276,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 11 E2 Sabis? fl.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -399,6 +287,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/c.html#Caes.",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Caes., BG 2.16",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -409,6 +298,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Lutetia-157",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "TIR Lutetia 157",
             "otherIdentifier": "",
             "shortTitle": "",

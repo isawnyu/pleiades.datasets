@@ -6,8 +6,40 @@
         13.5885018,
         37.2966668
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/462086",
+            "contributors": [],
+            "created": "2016-07-13T13:32:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "462086",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Akragas/Agrigentum",
+            "uri": "https://pleiades.stoa.org/places/946753455/462086"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/462086"
+        "https://pleiades.stoa.org/places/462086",
+        "https://pleiades.stoa.org/places/63728843"
     ],
     "contributors": [
         {
@@ -103,10 +135,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -138,6 +173,10 @@
             "featureType": [
                 "temple-2",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -173,6 +212,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 400268764, version 4, osm:changeset=37467369, 2016-02-26T18:16:03Z)",
             "references": [
                 {
@@ -180,6 +223,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 400268764",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=400268764",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -196,10 +240,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Oratory of Phalaris",
@@ -250,6 +297,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Google Sites, Ekklesiasterion and Oratory of Phalaris",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -258,11 +306,12 @@
                 {
                     "accessURI": "https://en.wikipedia.org/wiki/Valle_dei_Templi",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Valle dei Templi",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Valle dei Templi",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Valle dei Templi.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeFurther"
                 },
                 {
@@ -270,6 +319,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Smith 1854 (Perseus), AGRIGENTUM",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -286,10 +336,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Oratorio di Falaride",
@@ -333,11 +386,12 @@
                 {
                     "accessURI": "https://it.wikipedia.org/wiki/Valle_dei_Templi",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (Italian), Valle dei Templi",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Valle dei Templi",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Valle dei Templi.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (Italian)",
                     "type": "seeFurther"
                 },
                 {
@@ -345,6 +399,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/239703973",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Schörner, H., 2007. Sepulturae graecae intra urbem. Möhnesee: Bibliopolis.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -355,6 +410,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Baedeker, K. 1875. Baedeker's Southern Italy.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -365,6 +421,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Bertolami, D. 2014. La valle dei templi di Agrigento.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -379,6 +436,9 @@
             "uri": "https://pleiades.stoa.org/places/946753455/name.2016-02-26.7900585581"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+    ],
     "placeTypes": [
         "temple-2"
     ],
@@ -389,6 +449,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Bertolami, D. 2014. La valle dei templi di Agrigento. ",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -399,6 +460,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Vivio, B. A. 2010. Franco Minissi: Musei e Restauri. Gangemi Editore.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -409,6 +471,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Baedeker, K. 1875. Baedeker's Southern Italy.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -419,6 +482,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/239703973",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Schörner, H., 2007. Sepulturae graecae intra urbem. Möhnesee: Bibliopolis.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -429,6 +493,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Oratorio di Falaride Valle dei Templi - Agorà superiore",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -437,11 +502,12 @@
         {
             "accessURI": "https://it.wikipedia.org/wiki/Valle_dei_Templi",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Valle dei Templi",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Valle dei Templi",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Valle dei Templi.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         }
     ],

@@ -6,6 +6,39 @@
         9.9058653,
         36.3985209
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": [
+                "at"
+            ],
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectsTo": "https://pleiades.stoa.org/places/315220",
+            "contributors": [],
+            "created": "2018-05-30T20:23:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "8302140303",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Thuburbo Maius",
+            "uri": "https://pleiades.stoa.org/places/883384682/8302140303"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/315220"
     ],
@@ -60,10 +93,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -82,6 +118,10 @@
             "featureType": [
                 "amphitheatre",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -111,6 +151,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 283985519, version 1, osm:changeset=22523212, 2014-05-24T12:31:41Z)",
             "references": [
                 {
@@ -118,6 +162,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 283985519",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=283985519",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -131,6 +176,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
+    ],
     "placeTypes": [
         "amphitheatre"
     ],
@@ -141,6 +189,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), THUBURBO MAIUS (Henchir Kasbat) Tunisia",
             "otherIdentifier": "",
             "shortTitle": "",

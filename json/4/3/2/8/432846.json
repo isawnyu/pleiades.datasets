@@ -6,26 +6,97 @@
         13.538889,
         41.536667
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/432901",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:42:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-04-15T19:01:10Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "432901",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Latium Adiectum",
+            "uri": "https://pleiades.stoa.org/places/432846/432901"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/93042695",
+            "contributors": [],
+            "created": "2016-07-13T13:42:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "93042695",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Latina",
+            "uri": "https://pleiades.stoa.org/places/432846/93042695"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/432901",
         "https://pleiades.stoa.org/places/93042695"
     ],
     "contributors": [
         {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -35,13 +106,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-07T23:57:07Z",
@@ -74,6 +147,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2019-04-15T19:00:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T23:57:11Z",
@@ -222,10 +300,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "contributors": [],
@@ -244,6 +325,10 @@
             "featureType": [
                 "settlement",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -274,6 +359,10 @@
                 "central_point",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -281,6 +370,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://atlantides.org/bibliography/c.html#Coarelli",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Coarelli, F. and Monti P.G. 1998. \"Fregellae. 1. La storia, la città, il territorio\"",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -291,6 +381,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "GeoHack - Fregellae",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -307,10 +398,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "attested": "Fregellae",
@@ -370,6 +464,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Liv. Per. 8.15",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -386,10 +481,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "Φρεγέλλαι",
@@ -423,6 +521,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Strabo 5.3.10",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -437,19 +536,23 @@
             "uri": "https://pleiades.stoa.org/places/432846/fregellai"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 44 E2 Fregellae",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
-            "formattedCitation": "BAtlas 44 E2 Fregellae",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "44 E2 Fregellae",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -457,6 +560,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/77IID7PB",
             "citationDetail": "205-207",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Coarelli, Filippo. <i>Guide archeologiche Laterza: Lazio</i>. Bari, Rome: Laterza, 1982. http://www.worldcat.org/oclc/10100066.</div>",
             "otherIdentifier": "",
             "shortTitle": "GAL Lazio",
@@ -467,6 +571,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9XXF5TPD",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Coarelli, Filippo. <i>Fregellae</i>. Roma: Quasar, 1981.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Coarelli 1981-",
@@ -477,6 +582,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Fregellae",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Fregellae.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -487,6 +593,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Fregellae",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -497,6 +604,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. 8.22.2",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -507,6 +615,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. 9.28.3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -517,6 +626,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Diod. Sic. 19.101.3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -525,11 +635,12 @@
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:5.3",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Strab. (Meineke: Perseus) 5.3",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "citationDetail": "5.3",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Str. (Meineke: Perseus)",
             "type": "citesAsEvidence"
         },
         {
@@ -537,6 +648,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. 9.12.5-8",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -547,6 +659,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9JSBEGIG",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "<div class=\"csl-entry\">Broadhead, Will. “Colonization, Land Distribution, and Veteran Settlement,” 2007, 148–63.</div>",
             "otherIdentifier": " ",
             "shortTitle": "EAH Colonization, Land Distribution, and Veteran Settlement",
@@ -557,6 +670,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Plin. HN (Mayhoff: PHI) 3.64.4",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -567,6 +681,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), FREGELLAE",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -577,6 +692,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T7IE3YG7",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Crawford, M. H., and Lawrence Keppie. “Excavations at Fregellae, 1978-1984: An Interim Report on the Work of the British Team.” <i>Papers of the British School at Rome</i> 52 (1984): 21–35. http://www.jstor.org/stable/40310803.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Crawford and Keppie 1984",
@@ -587,6 +703,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DMM3P9RN",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Crawford, Michael H., Lawrence Keppie, John Patterson, and Michael L. Vercnocke. “Excavations at Fregellae, 1978-1984.” <i>Papers of the British School at Rome</i> 54 (1986): 40–68. http://www.jstor.org/stable/40310828.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Crawford et al. 1986",
@@ -597,6 +714,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/YFQUAZMH",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Crawford, M. H. “Excavations at Fregellae, 1978-1985: An Interim Report on the Work of the British Team.” <i>Papers of the British School at Rome</i> 55 (1987): 75–82. http://www.jstor.org/stable/40310838.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Crawford 1987",
@@ -607,6 +725,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Fasti Online: Fregellae",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -617,6 +736,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AGNIYCJB",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Tsiolis, Vasilis. “The Baths at Fregellae and the Transition from Balaneion to Balneum.” In <i>Greek Baths and Bathing Culture</i>, 89–113. Leuven: Peeters, 2013.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Tsiolis 2013",
@@ -627,6 +747,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 32469",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -637,6 +758,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 3182921",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -647,6 +769,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6B5GWZTX",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Torelli, Mario. <i>Fregellae, la colonizzazione latina e i santuari del Lazio meridionale</i>. Roma: Consiglio Nazionale delle Ricerche, 1979. http://www.worldcat.org/oclc/911977666.</div>",
             "otherIdentifier": "",
             "shortTitle": "Torelli 1979",
@@ -657,6 +780,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/28JH3A9G",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Guidobaldi, Maria Paola. “Le anfore della colonia latina di Fregellae.” <i>Publications de l’École française de Rome</i> 114, no. 1 (1989): 600–601. http://www.persee.fr/doc/efr_0000-0000_1989_act_114_1_4057.</div>",
             "otherIdentifier": "",
             "shortTitle": "Guidobaldi 1989",
@@ -667,6 +791,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
             "citationDetail": "Q1453755",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
@@ -677,6 +802,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FG54V3UQ",
             "citationDetail": "18461",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick. “The Digital Atlas of Roman and Medieval Civilizations,” 2007. http://darmc.harvard.edu/home.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
@@ -687,6 +813,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/F3SUYWFI",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pagliardi, N. “Fregellae.” In <i>Archeologia laziale, 4. Quarto incontro di studio del Comitato per l’archeologia laziale</i>, 95–100, Taf, 1981.</div>",
             "otherIdentifier": "",
             "shortTitle": "Pagliardi 1981",
@@ -697,6 +824,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EI6BBQUD",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Coarelli, Filippo. <i>Fregellae: i romani nella valle del Liri</i>. Pontecorvo: Associazione Archeologica di Pontecorvo, 1979.</div>",
             "otherIdentifier": "",
             "shortTitle": "Coarelli 1979",
@@ -707,6 +835,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q9ICYXFX",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Crawford, M. H. “Prospezioni a Fregellae.” In <i>Archeologia Laziale, 8. Ottavo Incontro Di Studio Del Comitato per l’archeologia Laziale, Roma Dal 12 Al 14 Maggio 1986</i>, 299–301, Abb, 1987.</div>",
             "otherIdentifier": "",
             "shortTitle": "Crawford 1987b",
@@ -717,6 +846,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QWCDXCUS",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Crawford, M. H. “Excavations at Fregellae 1981.” In <i>Archeologia Laziale, 5. Quinto Incontro Di Studio Del Comitato per l’archeologia Laziale</i>, 84–87, Abb, n.d.</div>",
             "otherIdentifier": "",
             "shortTitle": "Crawford 1983",
@@ -727,6 +857,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TCEMWFW5",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Crawford, M. “Archaeology and History at Fregellae.” In <i>Archaeology and Italian Society. Prehistoric, Roman and Medieval Studies</i>, 197–201. Oxford: BAR, 1981.</div>",
             "otherIdentifier": "",
             "shortTitle": "Crawford 1981b",
@@ -737,6 +868,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QCVDSPV9",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Coarelli, F. “Le terme di Fregellae.” In <i>Lazio e Sabina, 2. Secondo incontro di studi sul Lazio e la Sabina. Atti del convegno, Roma 7-8 maggio 2003</i>, 73–76. Rome: De Luca Editore, 2004.</div>",
             "otherIdentifier": "",
             "shortTitle": "Coarelli 2004",
@@ -747,6 +879,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2YCN3ALR",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Battaglini, Giovanna, and Francesca Diosono. “Le domus di Fregellae: case aristocratiche di ambito coloniale.” In <i>Etruskisch-italische und römisch-republikanische Häuser</i>, 217–31. Studien zur antiken Stadt 9. Wiesbaden: Reichert, 2010.</div>",
             "otherIdentifier": "",
             "shortTitle": "Battaglini and Diosono 2010",
@@ -757,6 +890,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9X42GL4G",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Rous, Benjamin D. “Forms of Cult? Temples with Transverse Cellae in Republican and Early Imperial Italy.” <i>Bulletin Antieke Beschaving</i> 82, no. 2 (2007): 333–46.</div>",
             "otherIdentifier": "",
             "shortTitle": "Rous 2007",
@@ -767,6 +901,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
             "citationDetail": "Fregellae (Latium)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "http://atlantides.org/bibliography/",
             "shortTitle": "ToposText",

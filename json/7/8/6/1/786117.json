@@ -6,6 +6,7 @@
         35.4093882,
         23.9316057
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -56,18 +57,6 @@
     "details": "The Barrington Atlas Directory notes: Siket",
     "features": [
         {
-            "geometry": null,
-            "id": "undetermined",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/786117/undetermined",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Undetermined location"
-            },
-            "type": "Feature"
-        },
-        {
             "geometry": {
                 "coordinates": [
                     35.4093882,
@@ -102,80 +91,16 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-12T10:34:29Z",
-            "creators": [
-                {
-                    "name": "J. Keenan",
-                    "username": null
-                },
-                {
-                    "name": "S.E. Sidebotham",
-                    "username": null
-                },
-                {
-                    "name": "T. Wilfong",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:26:28Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 80 inset Siket",
-            "references": [],
-            "review_state": "published",
-            "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/786117/undetermined"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -201,6 +126,10 @@
             "featureType": [
                 "fort",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -235,6 +164,10 @@
             "locationType": [
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 264986606, version 1, osm:changeset=20980838, 2014-03-08T01:58:01Z)",
             "references": [
                 {
@@ -242,6 +175,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 264986606",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=264986606",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -252,6 +186,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "vici.org, 10066",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -265,6 +200,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/labeled feature",
+        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+    ],
     "placeTypes": [
         "labeled feature",
         "fort"
@@ -276,6 +215,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 80 inset Siket",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -286,6 +226,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/s.html#S.E.-Sidebotham",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "S.E. Sidebotham",
             "otherIdentifier": "",
             "shortTitle": "",

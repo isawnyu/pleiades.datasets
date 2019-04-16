@@ -1,25 +1,57 @@
 {
     "@type": "Place",
     "bbox": [
-        12.594868,
+        12.596872,
         42.129717,
         12.596872,
-        42.129831
+        42.129717
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/759079303",
+            "contributors": [],
+            "created": "2016-07-13T14:00:40Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "759079303",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Tiberina",
+            "uri": "https://pleiades.stoa.org/places/413184/759079303"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/759079303",
+        "https://pleiades.stoa.org/places/184194966",
         "https://pleiades.stoa.org/places/413391"
     ],
     "contributors": [
+        {
+            "name": "DARMC",
+            "username": null
+        },
         {
             "homepage": null,
             "name": "Jonathan Weiland",
             "uri": "https://pleiades.stoa.org/author/Jweiland",
             "username": "Jweiland"
-        },
-        {
-            "name": "DARMC",
-            "username": null
         },
         {
             "name": "R. Talbert",
@@ -69,24 +101,6 @@
                 "location_precision": "precise",
                 "snippet": "Settlement, ; 550 BC - AD 640",
                 "title": "DARMC location 7061"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    12.594868,
-                    42.129831
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-lucus-feroniae-amphitheater",
-            "properties": {
-                "description": "Verified in Google Earth 2013.",
-                "link": "https://pleiades.stoa.org/places/413184/location-of-lucus-feroniae-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre; 30 BC - AD 300",
-                "title": "Imagery location of Lucus Feroniae amphitheater"
             },
             "type": "Feature"
         }
@@ -155,22 +169,31 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -209,6 +232,10 @@
                 "settlement",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     12.596872,
@@ -237,6 +264,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "DARMC OBJECTID: 7061",
             "references": [
                 {
@@ -244,6 +275,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "7061",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7061.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -254,116 +286,37 @@
             "start": -550,
             "title": "DARMC location 7061",
             "uri": "https://pleiades.stoa.org/places/413184/darmc-location-7061"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
-            "archaeologicalRemains": "traces",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-02-02T05:23:58Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Verified in Google Earth 2013.",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre"
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.594868,
-                    42.129831
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Wikidata Q28978011",
-                    "modified": "2017-11-06T13:51:57Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-26T16:48:23Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-08-09T15:24:49Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-02-02T05:24:02Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-lucus-feroniae-amphitheater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/51607422",
-                    "citationDetail": "",
-                    "formattedCitation": "Welch, K. E. 2007. The Roman Amphitheatre: From its Origins to the Colosseum. Cambridge University Press.pp. 98-9.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "https://www.wikidata.org/wiki/Q28978011",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikidata Q28978011",
-                    "otherIdentifier": "",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "Imagery location of Lucus Feroniae amphitheater",
-            "uri": "https://pleiades.stoa.org/places/413184/location-of-lucus-feroniae-amphitheater"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -434,6 +387,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Liv. 26.11.8.2",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -448,9 +402,12 @@
             "uri": "https://pleiades.stoa.org/places/413184/lucus-feroniae"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+    ],
     "placeTypes": [
         "settlement",
-        "amphitheatre",
         "villa"
     ],
     "provenance": "Barrington Atlas: BAtlas 42 D4 Lucus Feroniae",
@@ -460,6 +417,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 42 D4 Lucus Feroniae",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -470,19 +428,21 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5WIEHURR",
             "citationDetail": "191-97",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Jones, G.D.B. “Capena and the Ager Capenas.” <i>Papers of the British School at Rome</i> 30 (1962): 116–207. https://doi.org/https://doi.org/10.1017/S0068246200001628.</div>",
             "otherIdentifier": "",
             "shortTitle": "Jones 1962",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Lucus_Feroniae",
+            "accessURI": "https://en.wikipedia.org/wiki/Lucus_Feroniae",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Lucus Feroniae",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Lucus Feroniae",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Lucus Feroniae.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -490,6 +450,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Lucus Feroniae [1]",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -500,6 +461,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Soprintendenza Beni Archeologici Etruria Meridionale Sito Istituzionale > AREE ARCHEOLOGICHE > LUCUS FERONIAE  Area archeologica di Lucus Feroniae (Capena - RM)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -510,6 +472,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Taylor, L. R. 1920. \"The Site of Lucus Feroniae.\" JRS 10:29-36.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -520,6 +483,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Enciclopedia dell' Arte Antica (1995), LUCUS FERONIAE",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -530,6 +494,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. 7.4.14.2, 27.4.15.3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -540,6 +505,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 32097",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -550,6 +516,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), FERONIA [1]",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -560,6 +527,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Strabo (Meineke: Perseus) 5.2.9",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -570,6 +538,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 10376763",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -580,6 +549,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikidata Q3265994",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -587,8 +557,8 @@
         }
     ],
     "reprPoint": [
-        12.59587,
-        42.129774
+        12.596872,
+        42.129717
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

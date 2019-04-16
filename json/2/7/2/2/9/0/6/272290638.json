@@ -6,6 +6,39 @@
         -0.3875331,
         54.2895333
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": [
+                "at"
+            ],
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectsTo": "https://pleiades.stoa.org/places/89285",
+            "contributors": [],
+            "created": "2017-04-13T20:50:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "6303116721",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Scarborough",
+            "uri": "https://pleiades.stoa.org/places/272290638/6303116721"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/89285"
     ],
@@ -75,21 +108,26 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
-            "created": "2014-03-31T13:05:02Z",
+            "created": "2018-05-05T19:12:57Z",
             "creators": [
                 {
                     "homepage": null,
@@ -105,6 +143,10 @@
                 "fort",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     -0.3875331,
@@ -112,21 +154,14 @@
                 ],
                 "type": "Point"
             },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2014-03-31T13:07:26Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-03-31T13:05:09Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
+            "history": [],
             "id": "osm-location-of-scarborough-castle",
             "locationType": [
                 "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "provenance": "OpenStreetMap (Way 148829580, version 4, osm:changeset=12774485, 2012-08-18T16:02:11Z)",
             "references": [
@@ -135,6 +170,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 148829580",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=148829580",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -145,19 +181,21 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "English Heritage, Scarborough Castle",
                     "otherIdentifier": " ",
                     "shortTitle": "",
                     "type": "seeFurther"
                 },
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Scarborough_Castle",
+                    "accessURI": "https://en.wikipedia.org/wiki/Scarborough_Castle",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Scarborough Castle",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Scarborough Castle",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Scarborough Castle.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeFurther"
                 }
             ],
@@ -171,10 +209,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Scarborough Castle",
@@ -208,6 +249,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "GeoNames 6287348",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -222,6 +264,9 @@
             "uri": "https://pleiades.stoa.org/places/272290638/scarborough-castle"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+    ],
     "placeTypes": [
         "fort"
     ],
@@ -232,6 +277,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Pastscape Monument no. 79973",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -242,6 +288,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "English Heritage: SCARBOROUGH CASTLE",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -250,11 +297,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Scarborough_Castle",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Scarborough Castle",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Scarborough Castle",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Scarborough Castle.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -262,6 +310,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 6287348",
             "otherIdentifier": "",
             "shortTitle": "",

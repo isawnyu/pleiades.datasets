@@ -6,6 +6,37 @@
         -2.1457353,
         48.4720398
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/69507",
+            "contributors": [],
+            "created": "2016-07-13T13:53:04Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "69507",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Fanum Martis/Civitas Coriosolitum",
+            "uri": "https://pleiades.stoa.org/places/636775194/69507"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/69507"
     ],
@@ -70,10 +101,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -92,6 +126,10 @@
             "featureType": [
                 "sanctuary",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -122,6 +160,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 121710471, version 3, osm:changeset=14997348, 2013-02-11T18:16:30Z)",
             "references": [
                 {
@@ -129,6 +171,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 121710471",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=121710471",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -142,6 +185,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+    ],
     "placeTypes": [
         "sanctuary"
     ],
@@ -152,6 +198,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Le Temple de Mars  ou Sanctuaire du Haut-Bécherel",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -162,6 +209,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/690688116",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Provost, A. et al. 2010. Corseul, le monument romain du Haut-Bécherel  Sanctuaire public des Coriosolites. Rennes : Presses universitaires de Rennes.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -170,11 +218,12 @@
         {
             "accessURI": "https://fr.wikipedia.org/wiki/Temple_de_Mars_de_Corseul",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Temple de Mars de Corseul",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
+            "citationDetail": "Temple de Mars de Corseul",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), Temple de Mars de Corseul.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (French)",
             "type": "seeFurther"
         },
         {
@@ -182,6 +231,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Monuments Historiques, Site gallo-romain du Haut-Bécherel - Temple de Mars",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -192,6 +242,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "PECS (Perseus), FANUM MARTIS (Corseul) Côtes du Nord, France",
             "otherIdentifier": " ",
             "shortTitle": "",

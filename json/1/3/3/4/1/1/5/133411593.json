@@ -6,6 +6,37 @@
         35.7633615,
         40.1484629
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/837",
+            "contributors": [],
+            "created": "2016-07-13T13:49:42Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "837",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Asia Minor",
+            "uri": "https://pleiades.stoa.org/places/133411593/837"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/837"
     ],
@@ -65,10 +96,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
             "contributors": [],
@@ -87,6 +121,10 @@
             "featureType": [
                 "settlement",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -111,6 +149,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 169479727, version 4, osm:changeset=16982414, 2013-07-17T05:04:01Z)",
             "references": [
                 {
@@ -118,6 +160,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 169479727",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=169479727",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -131,6 +174,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -141,19 +187,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/716247024",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Alp, Sedat, 1991. Maşat Höyük'te Bulunan Çivi Yazılı Hitit Tabletleri, Hethitische Keilschrifttafeln aus Maşat-Höyük (Cuneiform Tablets Found in Maşat-Höyük, (series Türk Tarih Kurumu Yayinlari, VI. vol. 34)",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "citesAsEvidence"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Ma%C5%9Fat_H%C3%B6y%C3%BCk",
+            "accessURI": "https://en.wikipedia.org/wiki/Ma%C5%9Fat_H%C3%B6y%C3%BCk",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Maşat Höyük",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Maşat Höyük",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Maşat Höyük.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],

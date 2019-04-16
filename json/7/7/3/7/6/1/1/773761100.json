@@ -6,6 +6,37 @@
         23.7261021,
         37.974038
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/579885",
+            "contributors": [],
+            "created": "2016-07-13T13:53:05Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "579885",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Athenae",
+            "uri": "https://pleiades.stoa.org/places/773761100/579885"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/579885",
         "https://pleiades.stoa.org/places/961380942"
@@ -108,10 +139,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -138,6 +172,11 @@
                 "plaza",
                 "architecturalcomplex",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -167,6 +206,11 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 208068286, version 2, osm:changeset=20197947, 2014-01-25T19:16:01Z)",
             "references": [
                 {
@@ -174,6 +218,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 208068286",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=208068286",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -190,10 +235,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Roman Agora",
@@ -227,6 +275,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "GeoNames 7910523",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -241,6 +290,10 @@
             "uri": "https://pleiades.stoa.org/places/773761100/roman-agora"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
+    ],
     "placeTypes": [
         "plaza",
         "architecturalcomplex"
@@ -252,6 +305,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Roman Agora",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Roman Agora.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -262,6 +316,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z53ZGZC2",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Camp, John McK. <i>The Archaeology of Athens</i>. New Haven: Yale University Press, 2001.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Camp 2001",
@@ -272,6 +327,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Stoa.org: The Roman Agora & the Tower of the Winds",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -282,6 +338,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "The Roman Agora: the first commercial centre of Athens",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -292,6 +349,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AA8BJ85M",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Hoff, Michael C. “The Roman Agora at Athens.” Ph. D. Diss, Boston University, 1988.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Hoff 1988",
@@ -302,6 +360,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Schmalz, Geoffrey C. R. 2009. Augustan and Julio-Claudian Athens : a new epigraphy and prosopography. Leiden: E. J. Brill.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -312,6 +371,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Macready, Sarah and F. H. Thompson. 1987. Roman architecture in the Greek world. London: Thames & Hudson.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -322,6 +382,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 7910523",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -332,6 +393,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "IG II² 3175",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -342,6 +404,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Hoff 1989, 1-8",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -352,6 +415,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5SIEYL4R",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Hoff, M. C. “The So-Called Agoranomion and the Imperial Cult in Julio-Claudian Athens.” <i>Archäologischer Anzeiger, 1994.1994</i>, 1994, 93–117, Abb.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Hoff 1994",
@@ -362,6 +426,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Hoff, Michael C. and Susan I. Rotroff. eds. 1997.The Romanization of Athens : proceedings of an international conference held at Lincoln, Nebraska (April 1996)  Oxford, England: Oxbow Books.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -372,6 +437,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
             "citationDetail": "Römische Agora",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (German)",

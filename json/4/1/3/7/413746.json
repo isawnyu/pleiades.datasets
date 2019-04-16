@@ -1,19 +1,54 @@
 {
     "@type": "Place",
     "bbox": [
-        13.0,
-        42.0,
-        13.5,
-        42.5
+        13.305485,
+        42.3990182,
+        13.3076558,
+        42.4016973
     ],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/413013",
+            "contributors": [],
+            "created": "2019-01-17T15:26:59Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-01-17T15:27:02Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "amiternum",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Amiternum",
+            "uri": "https://pleiades.stoa.org/places/413746/amiternum"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/413013"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -21,6 +56,12 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-11-12T15:32:59Z",
@@ -32,46 +73,7 @@
     ],
     "description": "An ancient place, cited: BAtlas 42 E4 unnamed aqueduct (near Amiternum)",
     "details": "The Barrington Atlas Directory notes: near Amiternum",
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            13.0,
-                            42.0
-                        ],
-                        [
-                            13.0,
-                            42.5
-                        ],
-                        [
-                            13.5,
-                            42.5
-                        ],
-                        [
-                            13.5,
-                            42.0
-                        ],
-                        [
-                            13.0,
-                            42.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/413746/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "features": [],
     "history": [
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
@@ -85,98 +87,11 @@
         }
     ],
     "id": "413746",
-    "locations": [
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "less-confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-12T15:32:59Z",
-            "creators": [
-                {
-                    "name": "W.V. Harris",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            13.0,
-                            42.0
-                        ],
-                        [
-                            13.0,
-                            42.5
-                        ],
-                        [
-                            13.5,
-                            42.5
-                        ],
-                        [
-                            13.5,
-                            42.0
-                        ],
-                        [
-                            13.0,
-                            42.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:52:53Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 42 E4",
-            "references": [],
-            "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/413746/batlas-location"
-        }
-    ],
+    "locations": [],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
+    ],
     "placeTypes": [
         "aqueduct"
     ],
@@ -187,6 +102,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 42 E4",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -197,6 +113,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/b.html#Buonocore-1994",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Buonocore 1994, 191",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -204,13 +121,13 @@
         }
     ],
     "reprPoint": [
-        13.25,
-        42.25
+        13.30645446002444,
+        42.40038611335344
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Unnamed aqueduct near Amiternum",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/413746"
 }

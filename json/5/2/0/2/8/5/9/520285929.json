@@ -6,6 +6,7 @@
         31.0742458,
         30.0327194
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [],
     "created": "2013-02-21T20:36:42Z",
@@ -73,10 +74,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "old-kingdom-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "old-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-kingdom-egypt"
                 }
             ],
             "contributors": [],
@@ -95,6 +99,10 @@
             "featureType": [
                 "tomb",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -125,6 +133,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 1751093916, version 1, osm:changeset=11586530, 2012-05-13T14:40:09Z)",
             "references": [
                 {
@@ -132,19 +144,21 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 1751093916",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=1751093916",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 },
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Pyramid_of_Djedefre",
+                    "accessURI": "https://en.wikipedia.org/wiki/Pyramid_of_Djedefre",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Pyramid of Djedefre",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Pyramid of Djedefre",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pyramid of Djedefre.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeFurther"
                 }
             ],
@@ -155,29 +169,34 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+    ],
     "placeTypes": [
         "tomb"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Abu_Rawash",
+            "accessURI": "https://en.wikipedia.org/wiki/Abu_Rawash",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Abu Rawash",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Abu Rawash",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Abu Rawash.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Djedefre",
+            "accessURI": "https://en.wikipedia.org/wiki/Djedefre",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Djedefre",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Djedefre",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Djedefre.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -185,6 +204,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8ZHM5QA4",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Valloggia, Michel. <i>Abou Rawash. I, Le complexe funéraire royal de Rêdjedef: étude historique et architecturale</i>. 2 vols. Fouilles de l’Institut français d'archéologie orientale du Caire 63. Cairo: Institut français d’archéologie orientale, 2011. http://www.worldcat.org/oclc/731043888.</div>",
             "otherIdentifier": "",
             "shortTitle": "Valloggia 2011",
@@ -193,11 +213,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Pyramid_of_Djedefre",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Pyramid of Djedefre",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Pyramid of Djedefre",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pyramid of Djedefre.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -205,6 +226,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IQT59T4B",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Krauss, Rolf. “Chronologie und Pyramidenbau in der 4. Dynastie.” <i>Orientalia</i> 66, no. 1 (1997): 1–14. http://www.jstor.org/stable/43076306.</div>",
             "otherIdentifier": "",
             "shortTitle": "Krauss 1997, 1-14",

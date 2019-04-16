@@ -1,10 +1,41 @@
 {
     "@type": "Place",
     "bbox": [
-        22.0,
-        37.5,
-        22.5,
-        38.0
+        22.207,
+        37.974,
+        22.207,
+        37.974
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/570102",
+            "contributors": [],
+            "created": "2016-07-13T13:34:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "570102",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Arcadia",
+            "uri": "https://pleiades.stoa.org/places/570112/570102"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/570102"
@@ -50,38 +81,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.0,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.5
-                        ]
-                    ]
+                    22.207,
+                    37.974
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-aroania-m",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570112/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "coordinates after GeoHack, verified in Google Earth.",
+                "link": "https://pleiades.stoa.org/places/570112/location-of-aroania-m",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "Imagery location of Aroania (mountain)"
             },
             "type": "Feature"
         }
@@ -117,93 +128,88 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-09-20T20:43:49Z",
+            "contributors": [],
+            "created": "2013-05-15T02:56:48Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "coordinates after GeoHack, verified in Google Earth.",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.0,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.5
-                        ]
-                    ]
+                    22.207,
+                    37.974
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:25:35Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2018-09-14T01:51:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-05-15T02:57:06Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-aroania-m",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 C2 Aroania M.",
-            "references": [],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://toolserver.org/~geohack/geohack.php?pagename=Aroania_%28mountain%29&params=37.974_N_22.207_E_type:mountain_",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "GeoHack - Aroania (mountain)",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570112/batlas-location"
+            "start": 1700,
+            "title": "Imagery location of Aroania (mountain)",
+            "uri": "https://pleiades.stoa.org/places/570112/location-of-aroania-m"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -254,7 +260,67 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/570112/Aroania-M"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Ἀροάνια",
+            "contributors": [],
+            "created": "2018-09-14T01:50:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "name",
+                    "modified": "2018-09-14T01:50:43Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "aroania",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.18.7",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+                    "citationDetail": "8.18.7",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Paus. (Spiro: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Aroania",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/570112/aroania"
         }
+    ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/mountain"
     ],
     "placeTypes": [
         "mountain"
@@ -266,6 +332,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 58 C2 Aroania M.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -276,6 +343,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
             "citationDetail": "8.18.7",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Paus. (Spiro: Perseus)",
@@ -286,6 +354,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Aroania (mountain)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Aroania (mountain).",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -293,13 +362,13 @@
         }
     ],
     "reprPoint": [
-        22.25,
-        37.75
+        22.207,
+        37.974
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Aroania M.",
+    "title": "Aroania (mountain)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/570112"
 }

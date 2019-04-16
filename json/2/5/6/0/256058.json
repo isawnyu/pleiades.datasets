@@ -1,14 +1,77 @@
 {
     "@type": "Place",
     "bbox": [
-        -5.6536897,
-        37.4656921,
-        -5.633932,
-        37.4736496
+        -5.65068,
+        37.469608,
+        -5.642257,
+        37.471001
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/803793619",
+            "contributors": [],
+            "created": "2016-07-13T13:51:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "803793619",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Augusta",
+            "uri": "https://pleiades.stoa.org/places/256058/803793619"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/266075",
+            "contributors": [],
+            "created": "2016-07-13T13:51:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "266075",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Turdetania",
+            "uri": "https://pleiades.stoa.org/places/256058/266075"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/803793619",
-        "https://pleiades.stoa.org/places/266075"
+        "https://pleiades.stoa.org/places/266075",
+        "https://pleiades.stoa.org/places/577458079",
+        "https://pleiades.stoa.org/places/347507191",
+        "https://pleiades.stoa.org/places/577458078"
     ],
     "contributors": [
         {
@@ -107,60 +170,6 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -5.6536897,
-                    37.4656921
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-necropolis",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/256058/location-of-roman-necropolis",
-                "location_precision": "precise",
-                "snippet": "Cemetery, ; 30 BC - AD 300",
-                "title": "OSM location of Roman necropolis"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -5.633932,
-                    37.4736496
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-alcazar-del-rey-don-pedro",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/256058/location-of-alcazar-del-rey-don-pedro",
-                "location_precision": "precise",
-                "snippet": "Fort, ; AD 640 - AD 1453",
-                "title": "OSM location of Alcázar del rey Don Pedro"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -5.6495318,
-                    37.4690557
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-amphitheater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/256058/location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "OSM location of Roman amphitheater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -227,26 +236,37 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -293,6 +313,10 @@
                 "settlement",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     -5.642257,
@@ -321,6 +345,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "DARMC OBJECTID: 19757",
             "references": [
                 {
@@ -328,6 +356,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "19757",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19757.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -344,26 +373,37 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -381,6 +421,9 @@
             "end": 640,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -400,6 +443,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -407,6 +453,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -417,276 +464,43 @@
             "start": -750,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/256058/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-12-11T19:35:41Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "cemetery",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    -5.6536897,
-                    37.4656921
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-10-25T11:11:10Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-12-11T19:36:18Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-12-11T19:35:45Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-necropolis",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 61303246, version 2, osm:changeset=16696716, 2013-06-25T09:56:16Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/61303246",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 61303246",
-                    "formattedCitation": "osm:way=61303246",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman necropolis",
-            "uri": "https://pleiades.stoa.org/places/256058/location-of-roman-necropolis"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-12-11T19:38:04Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "<p>A castle dating to the thirteenth century AD.</p>",
-            "end": 1453,
-            "featureType": [
-                "fort",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    -5.633932,
-                    37.4736496
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-10-25T11:12:28Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-12-11T19:39:12Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-12-11T19:38:06Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-alcazar-del-rey-don-pedro",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 110592179, version 2, osm:changeset=17164277, 2013-07-31T10:51:48Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/110592179",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 110592179",
-                    "formattedCitation": "osm:way=110592179",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://es.wikipedia.org/wiki/Alc%C3%A1zar_del_rey_Don_Pedro",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/LPYQ8SZL",
-                    "citationDetail": "Alcázar del rey Don Pedro",
-                    "formattedCitation": "Wikipedia: la enciclopedia de contenido libre (2001-), Alcázar del rey Don Pedro.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (Spanish)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": 640,
-            "title": "OSM location of Alcázar del rey Don Pedro",
-            "uri": "https://pleiades.stoa.org/places/256058/location-of-alcazar-del-rey-don-pedro"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2014-01-11T18:47:22Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    -5.6495318,
-                    37.4690557
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added reference",
-                    "modified": "2016-07-01T18:33:07Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2014-01-11T18:48:11Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-01-11T18:47:27Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-amphitheater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 61303192, version 3, osm:changeset=16696716, 2013-06-25T09:56:09Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/61303192",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 61303192",
-                    "formattedCitation": "osm:way=61303192",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://es.wikipedia.org/wiki/Anfiteatro_romano_de_Carmona",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/LPYQ8SZL",
-                    "citationDetail": "Anfiteatro romano de Carmona",
-                    "formattedCitation": "Wikipedia: la enciclopedia de contenido libre (2001-), Anfiteatro romano de Carmona.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (Spanish)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/256058/location-of-roman-amphitheater"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -746,14 +560,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Carmona",
@@ -819,6 +638,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6PJGZ3HT",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "",
                     "otherIdentifier": "",
                     "shortTitle": "Herrera, M.ª Teresa, M.ª Nieves Sánchez, M.ª Estela González de Fauve y M.ª Purificación Zabía. Textos y Concordancias Electrónicos de Documentos Castellanos de Alfonso X. Madison: Hispanic Seminary of Medieval Studies, 1999, CD-ROM.",
@@ -829,6 +649,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "GeoNames 6360979 Carmona",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -843,11 +664,11 @@
             "uri": "https://pleiades.stoa.org/places/256058/name.2016-10-24.6173538033"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "settlement",
-        "cemetery",
-        "amphitheatre",
-        "fort"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 26 E4 Carmo",
     "references": [
@@ -856,6 +677,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 26 E4 Carmo",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -866,6 +688,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/e.html#Escacena-Carrasco-1985",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Escacena Carrasco 1985, 283, 285",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -876,6 +699,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Carmo",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -884,8 +708,9 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Carmona,_Spain",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Carmona, Spain",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Carmona, Spain.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -896,6 +721,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Encyclopaedia of Islam, First Edition (1913-1936), Carmona",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -904,8 +730,9 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/History_of_Carmona,_Spain",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "History of Carmona, Spain",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), History of Carmona, Spain.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -916,6 +743,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Livius.org, Carmo (Carmona)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -926,6 +754,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CIL II 1378ff.; 5120",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -936,6 +765,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. 33.21.8.2",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -946,6 +776,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Caes. Bell. Civ. 2.19.4",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -956,6 +787,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), CARMO (Carmona) Sevilla, Spain",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -966,6 +798,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 26206",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -973,8 +806,8 @@
         }
     ],
     "reprPoint": [
-        -5.646018099999999,
-        37.46980128
+        -5.6464685,
+        37.4703045
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

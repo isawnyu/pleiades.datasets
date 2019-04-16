@@ -6,6 +6,81 @@
         12.2916045,
         41.7561561
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": [
+                "at"
+            ],
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectsTo": "https://pleiades.stoa.org/places/422995",
+            "contributors": [],
+            "created": "2018-06-07T13:15:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "3209598234",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Ostia",
+            "uri": "https://pleiades.stoa.org/places/489630692/3209598234"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "bounds",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/bounds",
+            "connectsTo": "https://pleiades.stoa.org/places/443253553",
+            "contributors": [],
+            "created": "2018-06-07T13:24:54Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2018-06-07T13:24:59Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "roman-theater",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -30,
+            "title": "Roman theater at Ostia",
+            "uri": "https://pleiades.stoa.org/places/489630692/roman-theater"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/422995",
         "https://pleiades.stoa.org/places/443253553"
@@ -61,10 +136,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -83,6 +161,10 @@
             "featureType": [
                 "plaza",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -107,6 +189,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 663491073, version 2, osm:changeset=10269892, 2012-01-02T12:00:03Z)",
             "references": [
                 {
@@ -114,6 +200,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 663491073",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=663491073",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -124,6 +211,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
                     "citationDetail": "Piazzale delle Corporazioni",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Piazzale delle Corporazioni.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
@@ -137,6 +225,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/plaza"
+    ],
     "placeTypes": [
         "plaza"
     ],
@@ -147,6 +238,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Piazzale delle Corporazioni",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Piazzale delle Corporazioni.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -157,6 +249,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GKUE3KUG",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Rohde, Dorothea. “Der Piazzale delle Corporazioni in Ostia: wirtschaftliche Funktion und soziale Bedeutung.” In <i>Marburger Beiträge zur Antiken Handels-, Wirtschafts- und Sozialgeschichte, 27 (2009)</i>, 31–62. Rahden/Westf: Leidorf, 2010.</div>",
             "otherIdentifier": "",
             "shortTitle": "Rohde 2010",
@@ -167,6 +260,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WYA4W9NB",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Terpstra, Taco T. “The « Piazzale Delle Corporazioni » Reconsidered. The Architectural Context of Its Change in Use.” <i>Mélanges de l’École Française de Rome - Antiquité</i>, no. 126–1 (June 17, 2014). https://doi.org/10.4000/mefra.2042.</div>",
             "otherIdentifier": "",
             "shortTitle": "Terpstra 2014",
@@ -177,6 +271,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DZV6SZKS",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Meer, L. Bouke van der. “The Temple on the Piazzale Delle Corporazioni in Ostia Antica.” <i>Bulletin Antieke Beschaving, 84.2009</i>, 2009, 163–70.</div>",
             "otherIdentifier": "",
             "shortTitle": "van der Meer 2009",

@@ -6,6 +6,37 @@
         11.9017218,
         42.0395539
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/174900201",
+            "contributors": [],
+            "created": "2016-07-13T13:42:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "174900201",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Aurelia",
+            "uri": "https://pleiades.stoa.org/places/432867/174900201"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/174900201"
     ],
@@ -116,10 +147,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -145,6 +179,10 @@
             "featureType": [
                 "villa",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -174,6 +212,10 @@
             "locationType": [
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 249316509, version 2, osm:changeset=19204457, 2013-12-01T04:13:21Z)",
             "references": [
                 {
@@ -181,6 +223,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 249316509",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=249316509",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -191,6 +234,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Villa Romana delle \"Grottacce\"",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -204,6 +248,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+    ],
     "placeTypes": [
         "villa"
     ],
@@ -214,6 +261,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 44 A1 Grottacce",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -224,27 +272,30 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ERBP65DU",
             "citationDetail": "57-64",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>La Via Aurelia da Roma a Forum Aureli</i>. Quaderni dell’Istituto di topografia antica della Università di Roma 4. Roma: De Luca, 1968. http://www.worldcat.org/oclc/3026976.</div>",
             "otherIdentifier": "",
             "shortTitle": "Via Aurelia",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://darmc.harvard.edu/home",
+            "accessURI": "https://darmc.harvard.edu/",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FG54V3UQ",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
             "citationDetail": "7738",
-            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick. “The Digital Atlas of Roman and Medieval Civilizations,” 2007. http://darmc.harvard.edu/home.</div>",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7738.",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
         },
         {
-            "accessURI": "http://darmc.harvard.edu/home",
+            "accessURI": "https://darmc.harvard.edu/",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FG54V3UQ",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
             "citationDetail": "7737",
-            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick. “The Digital Atlas of Roman and Medieval Civilizations,” 2007. http://darmc.harvard.edu/home.</div>",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7737.",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
@@ -254,6 +305,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Villa grottacce",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -264,6 +316,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Villa Romana delle Grottacce a Santa Marinella   Monumenti ed edifici storici a Santa Marinella - Villa Romana delle Grottacce",
             "otherIdentifier": "",
             "shortTitle": "",

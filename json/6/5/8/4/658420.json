@@ -6,14 +6,53 @@
         37.193425,
         36.217791
     ],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/658409",
+            "contributors": [],
+            "created": "2018-08-11T21:56:17Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2018-08-11T21:56:18Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "beroia",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Beroia",
+            "uri": "https://pleiades.stoa.org/places/658420/beroia"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/658409"
+    ],
     "contributors": [
         {
-            "name": "M. Ballance",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "R. Warner",
+            "name": "M. Ballance",
             "username": null
         },
         {
@@ -21,7 +60,7 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Warner",
             "username": null
         },
         {
@@ -29,16 +68,22 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2009-10-19T11:48:08Z",
     "creators": [
         {
-            "name": "P.-L. Gatier",
+            "name": "T. Sinclair",
             "username": null
         },
         {
-            "name": "T. Sinclair",
+            "name": "P.-L. Gatier",
             "username": null
         }
     ],
@@ -93,10 +138,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -122,6 +170,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     37.193425,
@@ -145,17 +196,21 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 9646",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "9646",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 9646.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -168,10 +223,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -233,6 +291,9 @@
             "uri": "https://pleiades.stoa.org/places/658420/callicome"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/station"
+    ],
     "placeTypes": [
         "station"
     ],
@@ -243,6 +304,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 67 E4 Callicome",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -253,6 +315,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/i.html#ItAnt-195.4",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "ItAnt 195.4",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -263,6 +326,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/d.html#Dussaud-1927-450",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Dussaud 1927 450",
             "otherIdentifier": "",
             "shortTitle": "",

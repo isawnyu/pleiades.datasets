@@ -6,6 +6,7 @@
         26.7760241,
         38.3630938
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -84,14 +85,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "3rd-millennium-bc"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
             "contributors": [
@@ -116,6 +122,9 @@
             "end": -1000,
             "featureType": [
                 "port"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/port"
             ],
             "geometry": {
                 "coordinates": [
@@ -164,6 +173,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/port"
+            ],
             "provenance": "OpenStreetMap (Way 475338933, version 1, osm:changeset=46172140, 2017-02-17T18:07:07Z)",
             "references": [
                 {
@@ -171,6 +183,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 475338933",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=475338933",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -184,6 +197,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/port"
+    ],
     "placeTypes": [
         "settlement",
         "port"
@@ -193,11 +210,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Limantepe",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Limantepe",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Limantepe",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Limantepe.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],

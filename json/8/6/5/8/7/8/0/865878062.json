@@ -6,6 +6,37 @@
         -9.7829917,
         31.4986568
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/845",
+            "contributors": [],
+            "created": "2016-07-13T13:51:59Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "845",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Atlanticus Oceanus",
+            "uri": "https://pleiades.stoa.org/places/865878062/845"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/845"
     ],
@@ -105,10 +136,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -127,6 +161,10 @@
             "featureType": [
                 "island",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -156,6 +194,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 8692749, version 7, osm:changeset=35576411, 2015-11-25T17:43:42Z)",
             "references": [
                 {
@@ -163,6 +205,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 8692749",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=8692749",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -176,6 +219,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/archipelago",
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
+    ],
     "placeTypes": [
         "archipelago",
         "island"
@@ -187,6 +234,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Mogador",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -197,6 +245,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Plin. HN (Mayhoff: PHI) 6.203.3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -205,11 +254,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Mogador_island",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Mogador island",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Mogador island",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Mogador island.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -217,6 +267,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Smith 1854 (Perseus), FORTUNÁTAE INSÚLAE",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -225,11 +276,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Iles_Purpuraires",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Iles Purpuraires",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Iles Purpuraires",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Iles Purpuraires.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -237,6 +289,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/51216547",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Roller, D. W. 2003. The world of Juba II and Kleopatra Selene : royal scholarship on Rome's African frontier. New York: Routledge.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -247,6 +300,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Desjacques, J. and P. Koeberlé. 1955. \"Mogador et les iles purpuraires.\" Hespéris 42:193-202.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -255,11 +309,12 @@
         {
             "accessURI": "https://fr.wikipedia.org/wiki/%C3%8Eles_Purpuraires",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (French), Îles Purpuraires",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
+            "citationDetail": "Îles Purpuraires",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), Îles Purpuraires.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (French)",
             "type": "seeFurther"
         },
         {
@@ -267,6 +322,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W/Barrington_Atlas_of_the_Greek_and_Roman_World_(with_Map-by-Map_Directory_on_CD-ROM)",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Barrington Atlas: BAtlas 1a C2 Purpurariae Inss.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -277,6 +333,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), PURPURÁRIAE INS",
             "otherIdentifier": "",
             "shortTitle": "",

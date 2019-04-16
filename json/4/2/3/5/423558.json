@@ -6,6 +6,50 @@
         12.486137,
         41.891775
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/423025",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2016-07-13T13:41:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "flows into",
+                    "modified": "2018-01-30T14:48:05Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "423025",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Roma",
+            "uri": "https://pleiades.stoa.org/places/423558/423025"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423025"
     ],
@@ -110,10 +154,13 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -148,6 +195,9 @@
             "end": 300,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -187,6 +237,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "Barrington Atlas: BAtlas 43 B2 Aqua Alsietina",
             "references": [],
             "review_state": "published",
@@ -199,10 +252,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "Aqua Alsietina",
@@ -276,6 +332,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Frontin. Aq. 4.3.3, 11.1.2, 18.8.2, 22.1.2, 22.4.1",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -290,6 +347,9 @@
             "uri": "https://pleiades.stoa.org/places/423558/aqua-alsietina"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
+    ],
     "placeTypes": [
         "aqueduct"
     ],
@@ -300,6 +360,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 43 B2 Aqua Alsietina",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -310,6 +371,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#Trionfo-dell’acqua-72-79",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Trionfo dell’acqua 72-79",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -320,6 +382,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/h.html#Hodges-1995",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Hodges 1995",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -328,8 +391,9 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Aqua_Alsietina",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Aqua Alsietina",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Aqua Alsietina.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -340,6 +404,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Smith 1854 (Perseus), ALSIETÍNUS LACUS",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -350,6 +415,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Peck 1898 (Perseus), Aquae Ductus",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -360,6 +426,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), ROMA Italy",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -370,6 +437,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Platner and Ashby 1929 (Perseus), AQUA ALSIETINA",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -380,6 +448,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Taylor, R. 1997. \"Torrent or Trickle? The Aqua Alsietina, the Naumachia Augusti, and the Transtiberim.\" AJA 101.3:465–92.",
             "otherIdentifier": " ",
             "shortTitle": "",

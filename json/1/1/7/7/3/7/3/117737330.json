@@ -6,6 +6,37 @@
         14.4928425,
         40.7501995
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/433032",
+            "contributors": [],
+            "created": "2016-07-13T13:52:05Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "433032",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Pompeii",
+            "uri": "https://pleiades.stoa.org/places/117737330/433032"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/433032"
     ],
@@ -67,10 +98,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -95,6 +129,9 @@
             "end": 300,
             "featureType": [
                 "taberna-shop"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/taberna-shop"
             ],
             "geometry": {
                 "coordinates": [
@@ -129,6 +166,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/taberna-shop"
+            ],
             "provenance": "OpenStreetMap (Way 350584536, version 2, osm:changeset=31631435, 2015-06-01T11:41:06Z)",
             "references": [
                 {
@@ -136,6 +176,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 350584536",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=350584536",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -149,6 +190,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/taberna-shop"
+    ],
     "placeTypes": [
         "taberna-shop"
     ],
@@ -157,11 +201,12 @@
         {
             "accessURI": "https://it.wikipedia.org/wiki/Scavi_archeologici_di_Pompei",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Scavi archeologici di Pompei",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Scavi archeologici di Pompei",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Scavi archeologici di Pompei.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeAlso"
         }
     ],

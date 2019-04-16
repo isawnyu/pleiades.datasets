@@ -6,6 +6,50 @@
         13.1025,
         41.38556
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/356966898",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:41:54Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "change cnxn type",
+                    "modified": "2018-08-18T19:49:27Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "356966898",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Appia",
+            "uri": "https://pleiades.stoa.org/places/432629/356966898"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/356966898",
         "https://pleiades.stoa.org/places/636076369"
@@ -128,14 +172,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -153,6 +202,9 @@
             "end": 640,
             "featureType": [
                 "station"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
             "geometry": {
                 "coordinates": [
@@ -172,6 +224,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -179,6 +234,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -195,14 +251,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -252,6 +313,10 @@
             "uri": "https://pleiades.stoa.org/places/432629/ad-medias"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+    ],
     "placeTypes": [
         "station",
         "settlement-modern"
@@ -263,6 +328,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 44 D3 Ad Medias",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -273,6 +339,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/77IID7PB",
             "citationDetail": "281-82",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Coarelli, Filippo. <i>Guide archeologiche Laterza: Lazio</i>. Bari, Rome: Laterza, 1982. http://www.worldcat.org/oclc/10100066.</div>",
             "otherIdentifier": "",
             "shortTitle": "GAL Lazio",
@@ -283,6 +350,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Pontinia",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Pontinia.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
@@ -293,6 +361,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikidata Q128130",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -303,6 +372,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 32361",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -313,6 +383,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AE2IZC6K",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Tol, Gijs, Tymon de Haas, Kayt Armstrong, and Peter Attema. “MINOR CENTRES IN THE PONTINE PLAIN: THE CASES OF ‘FORUM APPII’ AND ‘AD MEDIAS.’” <i>Papers of the British School at Rome</i> 82 (2014): 109–34. http://www.jstor.org/stable/24780079.</div>",
             "otherIdentifier": "",
             "shortTitle": "Tol et al. 2014",
@@ -323,6 +394,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AJLUM8AZ",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Coarelli, F. “Il sepolcro di Posta di Mesa.” In <i>Terra dei Volsci. Annali del Museo archeologico di Frosinone, 1.1998</i>, 87–92, 1998.</div>",
             "otherIdentifier": "",
             "shortTitle": "Coarelli 1998",
@@ -333,6 +405,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CARTPJUX",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Harris, William V., and Elio Lo Cascio, eds. <i>Noctes Campanae: studi di storia antica ed archeologia dell’Italia preromana e romana in memoria di Martin W. Frederiksen</i>. Itala tellus 1. Napoli: Luciano, 2005.</div>",
             "otherIdentifier": "",
             "shortTitle": "Noctes Campanae 2005",
@@ -343,6 +416,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IP6MY3CL",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Cancellieri, M. “Un sepolcro romano a Mesa.” In <i>Bollettino dell’Istituto di storia e di arte del Lazio meridionale, 8.1975</i>, 5–20, Abb, 1975.</div>",
             "otherIdentifier": "",
             "shortTitle": "Cancellieri 1975",
@@ -353,6 +427,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "New Pauly, Decennovium",
             "otherIdentifier": "",
             "shortTitle": "",

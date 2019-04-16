@@ -6,6 +6,50 @@
         1.3229454,
         51.1284088
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/79646",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:48:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2018-09-28T03:05:34Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "79646",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Portus Dubris",
+            "uri": "https://pleiades.stoa.org/places/81542/79646"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/79646"
     ],
@@ -101,10 +145,13 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -129,6 +176,9 @@
             "end": 300,
             "featureType": [
                 "lighthouse"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
             ],
             "geometry": {
                 "coordinates": [
@@ -158,6 +208,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
+            ],
             "provenance": "OpenStreetMap (Way 114943047, version 1, osm:changeset=8253367, 2011-05-26T13:06:17Z)",
             "references": [
                 {
@@ -165,6 +218,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 114943047",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=114943047",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -175,6 +229,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
                     "citationDetail": "St Mary in Castro, Dover",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), St Mary in Castro, Dover.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
@@ -188,6 +243,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
+    ],
     "placeTypes": [
         "lighthouse"
     ],
@@ -198,6 +256,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 8 I3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -208,6 +267,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/m.html#Maxfield-1989",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Maxfield 1989, 150-52",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -218,6 +278,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Dubris",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Dubris.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",

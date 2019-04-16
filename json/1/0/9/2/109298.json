@@ -2,11 +2,14 @@
     "@type": "Place",
     "bbox": [
         7.024184,
-        49.2224901,
-        7.0278695,
+        49.22383,
+        7.024184,
         49.22383
     ],
-    "connectsWith": [],
+    "connections": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/23518943"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -18,15 +21,15 @@
         },
         {
             "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
         },
         {
             "homepage": null,
@@ -38,11 +41,11 @@
     "created": "2009-11-02T15:56:12Z",
     "creators": [
         {
-            "name": "C. Haselgrove",
+            "name": "J. Kunow",
             "username": null
         },
         {
-            "name": "J. Kunow",
+            "name": "C. Haselgrove",
             "username": null
         }
     ],
@@ -64,24 +67,6 @@
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
                 "title": "Location of the Roman settlement and fort"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    7.0278695,
-                    49.2224901
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-the-mithras-shrine-at-halberg",
-            "properties": {
-                "description": "Natural cave in the side of the Halberg hill enlarged for the Mithras cult",
-                "link": "https://pleiades.stoa.org/places/109298/location-of-the-mithras-shrine-at-halberg",
-                "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Location of the Mithras shrine at Halberg"
             },
             "type": "Feature"
         }
@@ -125,14 +110,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-digitalglobe-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -150,6 +140,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -169,6 +162,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -176,19 +172,21 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "PECS: Saravus",
                     "otherIdentifier": " ",
                     "shortTitle": "",
                     "type": "seeFurther"
                 },
                 {
-                    "accessURI": "http://de.wikipedia.org/wiki/Sankt_Arnual",
+                    "accessURI": "https://de.wikipedia.org/wiki/Sankt_Arnual",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (German): Sankt Arnual",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
+                    "citationDetail": "Sankt Arnual",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Sankt Arnual.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (German)",
                     "type": "seeFurther"
                 }
             ],
@@ -196,89 +194,19 @@
             "start": -30,
             "title": "Location of the Roman settlement and fort",
             "uri": "https://pleiades.stoa.org/places/109298/location-of-the-roman-settlement-and-fort"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-digitalglobe-imagery-2012",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [],
-            "created": "2012-03-21T12:09:40Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "Natural cave in the side of the Halberg hill enlarged for the Mithras cult",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    7.0278695,
-                    49.2224901
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Initial revision",
-                    "modified": "2012-03-21T12:09:43Z",
-                    "modifiedBy": "jahlfeldt"
-                }
-            ],
-            "id": "location-of-the-mithras-shrine-at-halberg",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=saravus",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "PECS: Saravus",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "http://de.wikipedia.org/wiki/Halberg_%28Saarland%29",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (German): Halberg (Saarland)",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": 300,
-            "title": "Location of the Mithras shrine at Halberg",
-            "uri": "https://pleiades.stoa.org/places/109298/location-of-the-mithras-shrine-at-halberg"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -315,6 +243,9 @@
             "uri": "https://pleiades.stoa.org/places/109298/saarbrucken"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -325,6 +256,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 11 H3 Saarbrücken",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -335,6 +267,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/p.html#Petit-1994",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Petit 1994, 279 (no. 380)",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -345,6 +278,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "RFO 1980",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -355,6 +289,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS saravus\r\n",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -362,8 +297,8 @@
         }
     ],
     "reprPoint": [
-        7.02602675,
-        49.223160050000004
+        7.024184,
+        49.22383
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

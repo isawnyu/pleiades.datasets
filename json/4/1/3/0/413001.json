@@ -6,6 +6,7 @@
         13.1816409,
         42.2088946
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -119,10 +120,13 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -149,6 +153,10 @@
                 "settlement-modern",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     13.1816409,
@@ -172,6 +180,10 @@
             "locationType": [
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 2685216708, version 1, osm:changeset=20716469, 2014-02-22T16:11:50Z)",
             "references": [
                 {
@@ -179,6 +191,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 2685216708",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=2685216708",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -189,6 +202,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "NERSAE, CITTA' DEGLI EQUI",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -199,6 +213,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/779207733",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Conway, R. S. 1897. The Italic Dialects. Edited with a grammar and glossary by R.S. Conway. Cambridge: Cambridge University Press.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -215,14 +230,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -272,6 +292,10 @@
             "uri": "https://pleiades.stoa.org/places/413001/aequiculi"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+    ],
     "placeTypes": [
         "settlement",
         "settlement-modern"
@@ -283,6 +307,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 42 E4 Aequiculi",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -293,6 +318,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/c.html#CIL-9",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CIL 9, pp. 388, 683",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -303,6 +329,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), AEQUI",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -313,6 +340,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CIL 9.4122 = ILS 2644",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -323,6 +351,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CIL 9.4130",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -333,17 +362,19 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 42733",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "citesAsRelated"
         },
         {
-            "accessURI": "http://darmc.harvard.edu/home",
+            "accessURI": "https://darmc.harvard.edu/",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FG54V3UQ",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
             "citationDetail": "18104",
-            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick. “The Digital Atlas of Roman and Medieval Civilizations,” 2007. http://darmc.harvard.edu/home.</div>",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18104.",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"

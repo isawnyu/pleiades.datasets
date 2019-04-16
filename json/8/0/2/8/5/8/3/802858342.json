@@ -6,6 +6,7 @@
         27.4731598,
         43.1287817
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -128,10 +129,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "neolithic-eastern-med"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neolithic-eastern-med",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-eastern-med"
                 }
             ],
             "contributors": [],
@@ -149,6 +153,9 @@
             "end": -3300,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -225,6 +232,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "OpenStreetMap (Way 460635249, version 1, osm:changeset=44528452, 2016-12-19T23:22:51Z)",
             "references": [
                 {
@@ -232,6 +242,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 460635249",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=460635249",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -248,10 +259,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Солницата",
@@ -300,11 +314,12 @@
                 {
                     "accessURI": "https://en.wikipedia.org/wiki/Solnitsata",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Solnitsata",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Solnitsata",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Solnitsata.",
                     "otherIdentifier": "",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeFurther"
                 }
             ],
@@ -314,7 +329,72 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/802858342/solnitsata"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Провадия-Солницата",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-12-13T17:39:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2016-12-19T23:24:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-12-13T17:40:06Z",
+                    "modifiedBy": "gmckee"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2016-12-13T17:39:52Z",
+                    "modifiedBy": "gmckee"
+                }
+            ],
+            "id": "povradia-solnitsata",
+            "language": "bg",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "romanized": "Povradia-Solnitsata",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/802858342/povradia-solnitsata"
         }
+    ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
         "settlement"
@@ -326,6 +406,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/846556623",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Nikolov, Vassil and Krum Bŭchvarov, eds. 2012. Salt and gold: the role of salt in prehistoric Europe : proceedings of the international symposium (Humboldt-Kolleg) in Provadia, Bulgaria, 30 September - 4 October 2010. Veliko Tarnovo: Verlag Faber.",
             "otherIdentifier": "",
             "shortTitle": "Nikolov and Bacvarov 2012",
@@ -334,11 +415,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Solnitsata",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Solnitsata",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Solnitsata",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Solnitsata.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -346,6 +428,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 727921",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -356,6 +439,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/711124537",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Nikolov, V. 2010. \"Salt and gold: Provadia-Solnitsata and the Varna Chalcolithic cemetery.\" Archaologisches Korrespondenzblatt 40.4:487-501.",
             "otherIdentifier": "",
             "shortTitle": "",

@@ -6,10 +6,47 @@
         -2.313046,
         55.02488
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/91358",
+            "contributors": [],
+            "created": "2016-07-13T13:44:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "91358",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Hadrian's Wall",
+            "uri": "https://pleiades.stoa.org/places/967060230/91358"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/91358"
     ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
         {
             "homepage": null,
             "name": "Sean Gillies",
@@ -81,6 +118,11 @@
     ],
     "history": [
         {
+            "comment": "Edited",
+            "modified": "2018-11-03T22:27:07Z",
+            "modifiedBy": "jbecker"
+        },
+        {
             "comment": "DARE feature tag fix.",
             "modified": "2012-10-23T19:36:00Z",
             "modifiedBy": "sgillies"
@@ -108,14 +150,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/hadrians-wall-milecastles-and-turrets-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -146,6 +193,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -195,6 +245,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -202,6 +255,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "English Heritage Monument Number 16832",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -215,49 +269,56 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+    ],
     "placeTypes": [
         "fort"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://wikipedia.org/wiki/Hadrian%27s_Wall",
+            "accessURI": "https://en.wikipedia.org/wiki/Hadrian%27s_Wall",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Hadrian's Wall",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Hadrian's Wall",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Hadrian's Wall.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         },
         {
-            "accessURI": "http://wikipedia.org/wiki/Milecastle",
+            "accessURI": "https://en.wikipedia.org/wiki/Milecastle",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Milecastle",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Milecastle",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Milecastle.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         },
         {
-            "accessURI": "http://wikipedia.org/wiki/Milecastle_35",
+            "accessURI": "https://en.wikipedia.org/wiki/Milecastle_35",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Milecastle 35",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Milecastle 35",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Milecastle 35.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.zotero.org/groups/pleiades/items/itemKey/VF8CRNVF/",
-            "citationDetail": "",
-            "formattedCitation": "Breeze 2006 230-231",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VF8CRNVF",
+            "citationDetail": "230-231",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Breeze, David J. <i>Handbook to the Roman Wall</i>. 14th ed. 1 vols. Newcastle upon Tyne: Society of Antiquaries of Newcastle upon Tyne, 2006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Breeze 2006",
             "type": "seeFurther"
         }
     ],

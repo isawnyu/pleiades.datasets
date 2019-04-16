@@ -1,11 +1,12 @@
 {
     "@type": "Place",
     "bbox": [
-        16.0,
-        37.5,
-        16.5,
-        38.0
+        16.0574681,
+        37.9256087,
+        16.0574681,
+        37.9256087
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -48,38 +49,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            16.0,
-                            37.5
-                        ],
-                        [
-                            16.0,
-                            38.0
-                        ],
-                        [
-                            16.5,
-                            38.0
-                        ],
-                        [
-                            16.5,
-                            37.5
-                        ],
-                        [
-                            16.0,
-                            37.5
-                        ]
-                    ]
+                    16.0574681,
+                    37.9256087
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-capo-spartivento",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/452334/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Representative location of the current promontory based on a node derived from OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/452334/osm-location-of-capo-spartivento",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 1700 - AD 2100",
+                "title": "OSM location of Capo Spartivento"
             },
             "type": "Feature"
         }
@@ -110,93 +91,88 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-10-04T18:04:17Z",
+            "contributors": [],
+            "created": "2018-12-17T14:40:36Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location of the current promontory based on a node derived from OpenStreetMap.",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cape"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            16.0,
-                            37.5
-                        ],
-                        [
-                            16.0,
-                            38.0
-                        ],
-                        [
-                            16.5,
-                            38.0
-                        ],
-                        [
-                            16.5,
-                            37.5
-                        ],
-                        [
-                            16.0,
-                            37.5
-                        ]
-                    ]
+                    16.0574681,
+                    37.9256087
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:14:09Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2018-12-17T14:41:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-12-17T14:40:36Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-capo-spartivento",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 46 D6 Heracleum Pr.",
-            "references": [],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
+            ],
+            "provenance": "OpenStreetMap (Node 4342791148, version 4, osm:changeset=48418054, 2017-05-05T08:21:44Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/4342791148",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4342791148",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=4342791148",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/452334/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Capo Spartivento",
+            "uri": "https://pleiades.stoa.org/places/452334/osm-location-of-capo-spartivento"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -249,6 +225,9 @@
             "uri": "https://pleiades.stoa.org/places/452334/Heracleum-Pr"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cape"
+    ],
     "placeTypes": [
         "cape"
     ],
@@ -259,6 +238,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 46 D6 Heracleum Pr.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -269,6 +249,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNVN3E2D",
             "citationDetail": "955",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Nissen, Heinrich. <i>Italische Landeskunde. 2 : Die Staedte</i>. Amsterdam: Hakkert, 1967. http://www.worldcat.org/oclc/929265929.</div>",
             "otherIdentifier": "",
             "shortTitle": "Nissen II",
@@ -279,6 +260,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-IV",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BTCGI IV, 441",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -289,6 +271,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#Turano-1975",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Turano 1975, 64",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -296,8 +279,8 @@
         }
     ],
     "reprPoint": [
-        16.25,
-        37.75
+        16.0574681,
+        37.9256087
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,6 +1,7 @@
 {
     "@type": "Place",
     "bbox": null,
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -8,14 +9,22 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-09-24T16:36:26Z",
@@ -43,6 +52,11 @@
     ],
     "history": [
         {
+            "comment": "Initial revision",
+            "modified": "2019-04-14T00:26:22Z",
+            "modifiedBy": "jbecker"
+        },
+        {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T20:24:07Z",
             "modifiedBy": "sgillies"
@@ -60,14 +74,19 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -99,6 +118,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": null,
             "history": [
                 {
@@ -110,6 +132,9 @@
             "id": "batlas-location",
             "locationType": [
                 "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "provenance": "Barrington Atlas: BAtlas 24 Cougion",
             "references": [],
@@ -123,14 +148,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -180,6 +210,9 @@
             "uri": "https://pleiades.stoa.org/places/240913/cougion"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+    ],
     "placeTypes": [
         "unlocated"
     ],
@@ -190,19 +223,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 24 Cougion",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/31397775",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Caesaraugusta-107",
-            "citationDetail": "",
-            "formattedCitation": "TIR Caesaraugusta 107",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/H6EE4IV4",
+            "citationDetail": "107",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Fatás Cabeza, Guillermo, Adela Cepas, José Ignacio Reguera Cardiel, and José Manuel Abascal Palazón. <i>Tabula Imperii Romani : K30 Madrid : Caesaraugusta - Clunia : escala 1:1.000.000 : base geográfica, Instituto Geográfico Nacional</i>. Tabula Imperii Romani, K30. Madrid. Madrid: Ministerio de Cultura; Union académique internationale; Instituto Geográfico Nacional (Spain), 1993. http://www.worldcat.org/oclc/31397775.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Caesaraugusta",
             "type": "seeFurther"
         }
     ],

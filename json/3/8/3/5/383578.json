@@ -3,12 +3,73 @@
     "bbox": [
         7.829491,
         44.544223,
-        7.854549,
-        44.559379
+        7.829491,
+        44.544223
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/383698",
+            "contributors": [],
+            "created": "2016-07-13T13:33:22Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "383698",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Liguria",
+            "uri": "https://pleiades.stoa.org/places/383578/383698"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/383790",
+            "contributors": [],
+            "created": "2016-07-13T13:33:22Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "383790",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Tanarus fl.",
+            "uri": "https://pleiades.stoa.org/places/383578/383790"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/383698",
-        "https://pleiades.stoa.org/places/383790"
+        "https://pleiades.stoa.org/places/383790",
+        "https://pleiades.stoa.org/places/742863315"
     ],
     "contributors": [
         {
@@ -69,24 +130,6 @@
                 "title": "DARMC location 6300"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    7.854549,
-                    44.559379
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-roman-theater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/383578/location-of-roman-theater",
-                "location_precision": "precise",
-                "snippet": "Theatre; 30 BC - AD 300",
-                "title": "OSM location of Roman theater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -138,18 +181,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -175,6 +225,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     7.829491,
@@ -198,110 +251,46 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 6300",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "6300",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6300.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
             "title": "DARMC location 6300",
             "uri": "https://pleiades.stoa.org/places/383578/darmc-location-6300"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-07-23T22:13:46Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "theatre"
-            ],
-            "geometry": {
-                "coordinates": [
-                    7.854549,
-                    44.559379
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-12-19T14:07:25Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-07-23T22:14:17Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-23T22:13:48Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-roman-theater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 231034661, version 1, osm:changeset=17068583, 2013-07-23T22:12:32Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/231034661",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 231034661",
-                    "formattedCitation": "osm:way=231034661",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman theater",
-            "uri": "https://pleiades.stoa.org/places/383578/location-of-roman-theater"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "Augusta Bagiennorum",
@@ -365,6 +354,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/B4GCPA32",
                     "citationDetail": "31-34",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "<div class=\"csl-entry\">Manasse, Giuliana Cavalieri, Graziella Massari, and Maria Pia Rossignani, eds. <i>Piemonte, Valle d’Aosta, Liguria, Lombardia</i>. 1 vols. Guide archeologiche Laterza 1. Bari, Rome: Laterza, 1982. http://www.worldcat.org/oclc/10235441.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "GAL Piemonte",
@@ -375,6 +365,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Plin. HN (Mayhoff: PHI) 3.49.5",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -391,14 +382,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -462,6 +458,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Bagienni",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "RE Bagienni",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -472,6 +469,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Plin. HN 3.47.7",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -486,9 +484,11 @@
             "uri": "https://pleiades.stoa.org/places/383578/bagienni"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "settlement",
-        "theatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 39 B4 Augusta Bagiennorum",
     "references": [
@@ -497,6 +497,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 39 B4 Augusta Bagiennorum",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -507,6 +508,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/B4GCPA32",
             "citationDetail": "31-34",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Manasse, Giuliana Cavalieri, Graziella Massari, and Maria Pia Rossignani, eds. <i>Piemonte, Valle d’Aosta, Liguria, Lombardia</i>. 1 vols. Guide archeologiche Laterza 1. Bari, Rome: Laterza, 1982. http://www.worldcat.org/oclc/10235441.</div>",
             "otherIdentifier": "",
             "shortTitle": "GAL Piemonte",
@@ -517,19 +519,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Bagienni",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Bagienni",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Augusta_Bagiennorum",
+            "accessURI": "https://en.wikipedia.org/wiki/Augusta_Bagiennorum",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Augusta Bagiennorum",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Augusta Bagiennorum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Augusta Bagiennorum.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -537,6 +541,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), AUGUSTA BAGIENNORUM Liguria, Italy",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -547,6 +552,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 31715",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -557,6 +563,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/16284153",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Ferrua, A. 1948. Augusta Bagiennorum et Pollentia. Rome: Libreria dello Stato.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -567,6 +574,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), AUGUSTA VAGIENNORUM",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -577,6 +585,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Plin. HN (Mayhoff: PHI) 3.49.5",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -587,6 +596,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Augusta [1] Bagiennorum",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -594,8 +604,8 @@
         }
     ],
     "reprPoint": [
-        7.84202,
-        44.551801
+        7.829491,
+        44.544223
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

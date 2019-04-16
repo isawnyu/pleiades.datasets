@@ -6,6 +6,37 @@
         14.4899262,
         40.7483501
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/433032",
+            "contributors": [],
+            "created": "2016-07-13T13:57:39Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "433032",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Pompeii",
+            "uri": "https://pleiades.stoa.org/places/260329425/433032"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/433032"
     ],
@@ -77,10 +108,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -106,6 +140,10 @@
             "featureType": [
                 "city-gate",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -145,6 +183,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 3566062058, version 2, osm:changeset=31662794, 2015-06-02T12:41:35Z)",
             "references": [
                 {
@@ -152,6 +194,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=/3566062058",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -165,6 +208,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
+    ],
     "placeTypes": [
         "city-gate"
     ],
@@ -175,6 +221,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Pompeii Archaeological Research Project: Porta Stabia (PARP:PS)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -185,6 +232,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Fasti Online: Regio VIII.7.1-15",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -195,6 +243,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/733222938",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Ellis, S.J.R. ed. 2011. The Making of Pompeii: Studies in the history and urban development of an ancient town (JRA Supp. Series 85). Portsmouth, R.I.: Journal of Roman Archaeology.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -205,6 +254,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "pompeiiinpictures.com: Pompeii. Porta di Stabia or Stabian Gate",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -215,6 +265,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "AD 79: Stabia Gate",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -223,11 +274,12 @@
         {
             "accessURI": "https://it.wikipedia.org/wiki/Regio_VIII_degli_scavi_archeologici_di_Pompei",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Regio VIII degli scavi archeologici di Pompei",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Regio VIII degli scavi archeologici di Pompei",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Regio VIII degli scavi archeologici di Pompei.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeAlso"
         },
         {
@@ -235,6 +287,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Ellis et al. 2015",
             "otherIdentifier": "",
             "shortTitle": "",

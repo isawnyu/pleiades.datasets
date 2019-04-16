@@ -6,6 +6,37 @@
         12.472699,
         41.80281
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/988280578",
+            "contributors": [],
+            "created": "2016-07-13T13:41:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "988280578",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Laurentina",
+            "uri": "https://pleiades.stoa.org/places/201409250/988280578"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/988280578"
     ],
@@ -82,14 +113,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2015",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -109,6 +145,11 @@
                 "cemetery",
                 "villa",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -143,6 +184,11 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -150,6 +196,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Killgrove, K. 2010. \"Migration and mobility in Imperial Rome.\" PhD diss., University of North Carolina at Chapel Hill.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -163,6 +210,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+    ],
     "placeTypes": [
         "cemetery",
         "villa"
@@ -174,6 +225,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/849905048",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kristina, K. and R. H. Tykot. 2013. \"Food for Rome: a stable isotope investigation of diet in the Imperial period (1st–3rd centuries AD).\" Journal of Anthropological Archaeology 32.1:28-38.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -184,6 +236,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Killgrove, K. 2010. \"Migration and mobility in Imperial Rome.\" Ph.D. diss., University of North Carolina at Chapel Hill.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -194,6 +247,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Fasti Online: Castellaccio Europarco",
             "otherIdentifier": " ",
             "shortTitle": "",

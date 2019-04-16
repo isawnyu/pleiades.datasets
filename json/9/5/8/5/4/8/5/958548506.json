@@ -6,6 +6,121 @@
         12.5086818,
         41.8856879
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/423025",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:47:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2018-03-03T20:56:58Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "423025",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -30,
+            "title": "Roma",
+            "uri": "https://pleiades.stoa.org/places/958548506/423025"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/695491849",
+            "contributors": [],
+            "created": "2016-07-13T13:47:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "695491849",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Caelius Mons",
+            "uri": "https://pleiades.stoa.org/places/958548506/695491849"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/529700371",
+            "contributors": [],
+            "created": "2018-07-02T10:09:42Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2018-07-02T10:10:04Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "aurelian-walls",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Aurelian Walls",
+            "uri": "https://pleiades.stoa.org/places/958548506/aurelian-walls"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423025",
         "https://pleiades.stoa.org/places/695491849",
@@ -87,14 +202,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-empire-late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 }
             ],
             "contributors": [],
@@ -112,6 +232,9 @@
             "end": 1453,
             "featureType": [
                 "city-gate"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
             ],
             "geometry": {
                 "coordinates": [
@@ -141,6 +264,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
+            ],
             "provenance": "OpenStreetMap (Node 2018208566, version 2, osm:changeset=31623618, 2015-06-01T02:44:34Z)",
             "references": [
                 {
@@ -148,6 +274,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 2018208566",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=2018208566",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -161,6 +288,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
+    ],
     "placeTypes": [
         "city-gate"
     ],
@@ -171,6 +301,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Platner and Ashby 1929 (Perseus), PORTA ASINARIA",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -181,6 +312,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Porta Asinaria; P. Aurelia; P. Caelemontana; P. Capena; P. Carmentalis; P. Collina; P. Esquilina; P. Sanqualis; P. Trigemina (Gates of Rome)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -191,6 +323,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Porta Asinaria",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Porta Asinaria.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -201,6 +334,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RN49VPD4",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Cozza, Lucos. “La porta Asinaria in un disegno del XVI secolo.” In <i>Atti della Pontificia Accademia Romana di Archeologia, 81.2008-2009</i>, 607–10. Roma: Tipografia vaticana, 2009.</div>",
             "otherIdentifier": "",
             "shortTitle": "Cozza 2009",
@@ -211,6 +345,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SCISHZRH",
             "citationDetail": "300",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Richardson, Lawrence. <i>A New Topographical Dictionary of Ancient Rome</i>. Baltimore: John Hopkins University Press, 1992.</div>",
             "otherIdentifier": "",
             "shortTitle": "Richardson 1992",
@@ -221,6 +356,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EVZDQ3F5",
             "citationDetail": "144-159",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Richmond, I. A. <i>The City Wall of Imperial Rome: An Account of Its Architectural Development from Aurelian to Narses</i>. Oxford University Press, 2013.</div>",
             "otherIdentifier": "",
             "shortTitle": "Richmond 1930",
@@ -231,6 +367,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE:Asinaria porta",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -241,6 +378,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
             "citationDetail": "Q2104854",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",

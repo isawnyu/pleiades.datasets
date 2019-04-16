@@ -6,6 +6,37 @@
         14.7676229,
         41.1325965
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/432721",
+            "contributors": [],
+            "created": "2016-07-13T13:58:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "432721",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Beneventum/Maleventum",
+            "uri": "https://pleiades.stoa.org/places/585690563/432721"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/432721"
     ],
@@ -99,10 +130,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -121,6 +155,10 @@
             "featureType": [
                 "amphitheatre",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -173,6 +211,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 373759270, version 2, osm:changeset=40522338, 2016-07-06T14:22:20Z)",
             "references": [
                 {
@@ -180,6 +222,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 373759270",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=373759270",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -193,6 +236,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
+    ],
     "placeTypes": [
         "amphitheatre"
     ],
@@ -201,11 +247,12 @@
         {
             "accessURI": "https://it.wikipedia.org/wiki/Anfiteatro_romano_di_Benevento",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Anfiteatro romano di Benevento",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Anfiteatro romano di Benevento",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Anfiteatro romano di Benevento.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         },
         {
@@ -213,6 +260,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/30662494",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Rotili, Marcello. 1986. Benevento romana e longobarda : l'immagine urbana.\t[Benevento?] : Banca sannitica.",
             "otherIdentifier": " ",
             "shortTitle": "",

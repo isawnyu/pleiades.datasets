@@ -1,36 +1,50 @@
 {
     "@type": "Place",
     "bbox": [
-        6.1692243,
-        49.1152035,
+        6.172677,
+        49.11605,
         6.175634,
         49.120221
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/109154",
+            "contributors": [],
+            "created": "2016-07-13T14:03:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "109154",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Mediomatrici",
+            "uri": "https://pleiades.stoa.org/places/108927/109154"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/109154"
+        "https://pleiades.stoa.org/places/109154",
+        "https://pleiades.stoa.org/places/154458074"
     ],
     "contributors": [
         {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
             "name": "DARMC",
             "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -47,16 +61,34 @@
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-07T23:56:17Z",
     "creators": [
         {
-            "name": "J. Kunow",
+            "name": "C. Haselgrove",
             "username": null
         },
         {
-            "name": "C. Haselgrove",
+            "name": "J. Kunow",
             "username": null
         }
     ],
@@ -96,24 +128,6 @@
                 "location_precision": "precise",
                 "snippet": "Settlement; 30 BC - AD 640",
                 "title": "DARE Location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    6.1692243,
-                    49.1152035
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-basilica-of-saint-pierre-aux-nonnains",
-            "properties": {
-                "description": "A Christian basilica that incorporates the remains of a fourth century AD Roman gymnasium. Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/108927/location-of-basilica-of-saint-pierre-aux-nonnains",
-                "location_precision": "precise",
-                "snippet": "Church, ; AD 300 - AD 1453",
-                "title": "location of  Basilica of Saint-Pierre-aux-Nonnains"
             },
             "type": "Feature"
         }
@@ -197,14 +211,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -229,6 +248,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -258,6 +280,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 842",
             "references": [
                 {
@@ -265,6 +290,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "842",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 842.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -281,14 +307,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -306,6 +337,9 @@
             "end": 640,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -325,6 +359,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -332,6 +369,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -342,103 +380,25 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/108927/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-06-19T22:57:09Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "A Christian basilica that incorporates the remains of a fourth century AD Roman gymnasium. Location based on OpenStreetMap",
-            "details": "",
-            "end": 1453,
-            "featureType": [
-                "church",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    6.1692243,
-                    49.1152035
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2013-06-19T22:59:57Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-06-19T22:57:14Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-basilica-of-saint-pierre-aux-nonnains",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 34112636, version 8, osm:changeset=15961580, 2013-05-03T15:07:51Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/34112636",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 34112636",
-                    "formattedCitation": "osm:way=34112636",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Pierre-aux-Nonnains",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Basilica of Saint-Pierre-aux-Nonnains",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Basilica of Saint-Pierre-aux-Nonnains.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": 300,
-            "title": "location of  Basilica of Saint-Pierre-aux-Nonnains",
-            "uri": "https://pleiades.stoa.org/places/108927/location-of-basilica-of-saint-pierre-aux-nonnains"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -499,10 +459,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -563,10 +526,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -603,10 +569,13 @@
             "uri": "https://pleiades.stoa.org/places/108927/metz"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
+    ],
     "placeTypes": [
         "settlement",
-        "amphitheatre",
-        "church"
+        "amphitheatre"
     ],
     "provenance": "Barrington Atlas: BAtlas 11 G3 Divodurum/Mettis",
     "references": [
@@ -615,6 +584,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 11 G3 Divodurum/Mettis",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -625,6 +595,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FZKRIM4B",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Toussaint, Maurice. <i>Metz à L’époque Gallo-Romaine</i>. Metz: Impr. P. Even, 1948.</div>",
             "otherIdentifier": "",
             "shortTitle": "Toussaint 1948",
@@ -635,6 +606,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/k.html#KlPauly-Divodurum",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "KlPauly Divodurum",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -645,6 +617,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "RFO 33",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -655,6 +628,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus),  DIVODURUM MEDIOMATRICORUM later METTIS (Metz) Moselle, France",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -665,6 +639,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "TP 2A1 (Talbert 912)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -675,6 +650,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Metz",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Metz.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -685,6 +661,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
             "citationDetail": "Amphithéâtre de Metz",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), Amphithéâtre de Metz.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (French)",
@@ -695,6 +672,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Divodurum",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -705,6 +683,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Ptol. 2.9.7",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -715,6 +694,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikidata Q22690",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -725,6 +705,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 3273",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -735,6 +716,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 2994160",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -745,6 +727,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
             "citationDetail": "Divodurum/Mettis (Gallia)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "http://atlantides.org/bibliography/",
             "shortTitle": "ToposText",
@@ -752,8 +735,8 @@
         }
     ],
     "reprPoint": [
-        6.172511766666666,
-        49.11715816666666
+        6.1741554999999995,
+        49.1181355
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

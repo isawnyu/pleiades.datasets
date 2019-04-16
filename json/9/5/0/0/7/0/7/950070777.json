@@ -6,6 +6,37 @@
         8.7603749,
         40.7781256
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/472014",
+            "contributors": [],
+            "created": "2016-07-13T13:51:19Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "472014",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sardinia (island)",
+            "uri": "https://pleiades.stoa.org/places/950070777/472014"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/472014"
     ],
@@ -65,14 +96,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 }
             ],
             "contributors": [],
@@ -91,6 +127,10 @@
             "featureType": [
                 "shrine",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/shrine",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -121,6 +161,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/shrine",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 304097973, version 2, osm:changeset=34347705, 2015-09-30T13:51:31Z)",
             "references": [
                 {
@@ -128,6 +172,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 304097973",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=304097973",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -141,6 +186,11 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/well",
+        "https://pleiades.stoa.org/vocabularies/place-types/shrine"
+    ],
     "placeTypes": [
         "sanctuary",
         "well",
@@ -153,6 +203,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "TEMPIO A POZZO NURAGICO  \"NURAGHE IRRU\"  (X-VII SEC. A.C.)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -163,6 +214,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Pozzo sacro nuragico",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Pozzo sacro nuragico.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
@@ -173,6 +225,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Cannella and Rassu 2015",
             "otherIdentifier": " ",
             "shortTitle": "",

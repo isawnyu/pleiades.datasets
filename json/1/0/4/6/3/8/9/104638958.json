@@ -6,6 +6,43 @@
         12.6288151,
         43.4743093
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "intersects",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/intersects",
+            "connectsTo": "https://pleiades.stoa.org/places/856514595",
+            "contributors": [],
+            "created": "2017-03-10T16:27:29Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "added cnxn",
+                    "modified": "2017-03-10T16:27:30Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "via-flaminia",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Flaminia",
+            "uri": "https://pleiades.stoa.org/places/104638958/via-flaminia"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/856514595"
     ],
@@ -60,10 +97,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -81,6 +121,9 @@
             "end": 2100,
             "featureType": [
                 "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -106,6 +149,9 @@
                 "representative",
                 "associated_modern"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
             "provenance": "OpenStreetMap (Node 70981928, version 4, osm:changeset=42039680, 2016-09-09T17:36:31Z)",
             "references": [
                 {
@@ -113,6 +159,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 70981928",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=70981928",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -126,6 +173,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+    ],
     "placeTypes": [
         "settlement",
         "settlement-modern"
@@ -137,6 +188,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Cantiano",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Cantiano.",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (Italian)",
@@ -147,6 +199,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2H2M25FG",
             "citationDetail": "184-185",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Ashby, Thomas, and R.A.L. Fell. “The Via Flaminia.” <i>Journal of Roman Studies</i> 11 (1921): 125–90. https://doi.org/10.2307/295901.</div>",
             "otherIdentifier": "",
             "shortTitle": "Ashby and Fell 1921",
@@ -157,6 +210,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/c.html#CIL-6629",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CIL 6629",
             "otherIdentifier": "",
             "shortTitle": "",

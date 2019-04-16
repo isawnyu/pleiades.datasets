@@ -6,6 +6,101 @@
         12.7047066,
         42.5536692
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/358077243",
+            "contributors": [],
+            "created": "2016-07-13T14:01:04Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "358077243",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "*Via Curia",
+            "uri": "https://pleiades.stoa.org/places/414507/358077243"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/413220",
+            "contributors": [],
+            "created": "2016-07-13T14:01:05Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "413220",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Nar fl.",
+            "uri": "https://pleiades.stoa.org/places/414507/413220"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/413178",
+            "contributors": [],
+            "created": "2018-06-20T14:39:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2018-06-20T14:39:31Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "interamna-nahars",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Interamna Nahars",
+            "uri": "https://pleiades.stoa.org/places/414507/interamna-nahars"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/358077243",
         "https://pleiades.stoa.org/places/413220",
@@ -98,10 +193,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-empire-late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [],
@@ -120,6 +218,10 @@
             "featureType": [
                 "bridge",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -144,6 +246,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 78189322, version 4, osm:changeset=27095238, 2014-11-28T17:40:33Z)",
             "references": [
                 {
@@ -151,6 +257,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 78189322",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=78189322",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -164,6 +271,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+    ],
     "placeTypes": [
         "bridge"
     ],
@@ -174,6 +284,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 42 D3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -184,6 +295,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DYQM8NN5",
             "citationDetail": "66-68",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Lanzi, L. “Scoperte di antichità presso la Cascata delle Marmore.” <i>Notizie degli Scavi di Antichità</i>, 1914, 62–68.</div>",
             "otherIdentifier": "",
             "shortTitle": "Lanzi 1914",
@@ -194,6 +306,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XTAX8P5G",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Farfaneti, Barbara. “Ponte Toro sulla Via Flaminia nella Valle del Nera.” In <i>Strade romane: ponti e viadotti</i>, 139–42. Atlante tematico di topografia antica 5. Rome: “L’Erma” di Bretschneider, 1996. http://www.worldcat.org/oclc/797472274.</div>",
             "otherIdentifier": "",
             "shortTitle": "Farfaneti 1996",

@@ -6,6 +6,43 @@
         0.9314015,
         51.7911217
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/490598212",
+            "contributors": [],
+            "created": "2019-02-23T21:03:56Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-02-23T21:03:57Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "mersea-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Mersea Island",
+            "uri": "https://pleiades.stoa.org/places/79599/mersea-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/490598212"
     ],
@@ -104,10 +141,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-britain"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 }
             ],
             "contributors": [],
@@ -125,6 +165,9 @@
             "end": 410,
             "featureType": [
                 "tumulus"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
             ],
             "geometry": {
                 "coordinates": [
@@ -149,6 +192,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
+            ],
             "provenance": "OpenStreetMap (Node 5763409651, version 1, osm:changeset=60756371, 2018-07-16T09:42:55Z)",
             "references": [
                 {
@@ -156,6 +202,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 5763409651",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=5763409651",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -169,6 +216,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
+    ],
     "placeTypes": [
         "tumulus"
     ],
@@ -179,6 +229,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 8 I3 Mersea",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -189,6 +240,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/s.html#Scott-1993",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Scott 1993, 66",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -199,6 +251,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GLEU38X",
             "citationDetail": "monument no. 386082",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>PastScape: Information on England’s Archaeology and Architecture</i>, 2015. https://www.pastscape.org.uk/.</div>",
             "otherIdentifier": "",
             "shortTitle": "PastScape",

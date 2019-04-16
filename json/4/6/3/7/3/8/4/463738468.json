@@ -6,6 +6,37 @@
         13.5896872,
         37.2901605
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/462086",
+            "contributors": [],
+            "created": "2016-07-13T13:33:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "462086",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Akragas/Agrigentum",
+            "uri": "https://pleiades.stoa.org/places/463738468/462086"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/462086"
     ],
@@ -73,10 +104,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -95,6 +129,10 @@
             "featureType": [
                 "cemetery",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -124,6 +162,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 4065506182, version 2, osm:changeset=37923388, 2016-03-18T16:39:09Z)",
             "references": [
                 {
@@ -131,6 +173,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 4065506182",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=4065506182",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -147,10 +190,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Grotta Fragapane",
@@ -196,10 +242,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Grotta Frangipane",
@@ -248,6 +297,9 @@
             "uri": "https://pleiades.stoa.org/places/463738468/grotta-frangipane"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
     "placeTypes": [
         "cemetery"
     ],
@@ -258,6 +310,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.worldcat.org/title/agrigento-paleocristiana-e-bizantina/oclc/886835016&referer=brief_results",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "De Miro, 1980. Agrigento paleocristiana e bizantina. In Felix Ravenna vol. 119/120 p. 131-171",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -268,6 +321,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.worldcat.org/title/agrigento-la-necropoli-paleocristiana-sub-divo/oclc/35554428&referer=brief_results",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Bonacasa Carra and Ardizzone, 1995. Agrigento: la necropoli paleocristiana sub divo",
             "otherIdentifier": " ",
             "shortTitle": "",

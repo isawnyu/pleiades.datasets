@@ -6,6 +6,79 @@
         14.2627243,
         37.9978345
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/462225",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:49:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "change type",
+                    "modified": "2018-07-12T12:57:52Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "462225",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Halaesa",
+            "uri": "https://pleiades.stoa.org/places/157243532/462225"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/462492",
+            "contributors": [],
+            "created": "2016-07-13T13:49:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "462492",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sicilia (island)",
+            "uri": "https://pleiades.stoa.org/places/157243532/462492"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/462225",
         "https://pleiades.stoa.org/places/462492"
@@ -94,10 +167,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "contributors": [
@@ -125,6 +201,12 @@
                 "cemetery",
                 "temple-2",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -160,6 +242,12 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 3736136118, version 2, osm:changeset=33911016, 2015-09-09T14:34:23Z)",
             "references": [
                 {
@@ -167,6 +255,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 3736136118",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=3736136118",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -183,10 +272,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Agorà di Alesa",
@@ -225,6 +317,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-XXI",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "BTCGI XXI, 251-311",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -235,6 +328,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
                     "citationDetail": "Alesa Arconidea",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Alesa Arconidea.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (Italian)",
@@ -249,6 +343,11 @@
             "uri": "https://pleiades.stoa.org/places/157243532/agora-di-alesa"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+    ],
     "placeTypes": [
         "plaza",
         "cemetery",
@@ -261,6 +360,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
             "citationDetail": "XXI, 251-311",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977.</div>",
             "otherIdentifier": " ",
             "shortTitle": "BTCGI",
@@ -271,6 +371,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Alesa Arconidea",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Alesa Arconidea.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
@@ -281,6 +382,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z58MD7SG",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Burgio, Rocco. “Appendice. Monumenti Minori Dell’agora Di Alesa: Le Esedre Curve. Analisi e Ricostruzione.” In <i>Agora Greca e Agorai Di Sicilia</i>, 155–69. Pisa: Edizioni della Normale, 2012.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Burgio 2012",
@@ -291,6 +393,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WFWG6MND",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Prestianni Giallombardo, Anna Maria. “L’acqua come elemento fondamentale nell’organizzazione del territorio e dello spazio urbano. Il caso di Alesa.” In <i>Cultura e religione delle acque</i>, 375–98. Roma: G. Bretschneider, 2012.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Prestianni Giallombardo 2012",

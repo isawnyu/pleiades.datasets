@@ -6,6 +6,43 @@
         31.2186043,
         29.8547523
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/796289136",
+            "contributors": [],
+            "created": "2016-08-24T12:37:45Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2016-08-24T12:37:45Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "saqqarah",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Saqqarah",
+            "uri": "https://pleiades.stoa.org/places/800113525/saqqarah"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/796289136"
     ],
@@ -76,10 +113,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "old-kingdom-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "old-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-kingdom-egypt"
                 }
             ],
             "contributors": [],
@@ -97,6 +137,9 @@
             "end": -2168,
             "featureType": [
                 "pyramid"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pyramid"
             ],
             "geometry": {
                 "coordinates": [
@@ -131,6 +174,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pyramid"
+            ],
             "provenance": "OpenStreetMap (Node 1184374627, version 1, osm:changeset=7445981, 2011-03-03T14:11:57Z)",
             "references": [
                 {
@@ -138,19 +184,21 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 1184374627",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=1184374627",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 },
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Pyramid_of_Pepi_I",
+                    "accessURI": "https://en.wikipedia.org/wiki/Pyramid_of_Pepi_I",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Pyramid of Pepi I",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Pyramid of Pepi I",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pyramid of Pepi I.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeFurther"
                 }
             ],
@@ -161,6 +209,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+        "https://pleiades.stoa.org/vocabularies/place-types/pyramid"
+    ],
     "placeTypes": [
         "tomb",
         "pyramid"
@@ -170,11 +222,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Mortuary_complex_of_Pepi_I",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Mortuary complex of Pepi I",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Mortuary complex of Pepi I",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Mortuary complex of Pepi I.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -182,6 +235,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "saqqara.nl: Pyramid of Pepi I",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -192,6 +246,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikidata Q1536118",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -202,6 +257,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 350866",
             "otherIdentifier": "",
             "shortTitle": "",

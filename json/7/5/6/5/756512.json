@@ -1,32 +1,26 @@
 {
     "@type": "Place",
     "bbox": [
-        31.9084936,
-        26.1840536,
-        31.9183799,
-        26.1888854
+        31.917622,
+        26.185099,
+        31.918201,
+        26.186542
     ],
-    "connectsWith": [],
+    "connections": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/819299274",
+        "https://pleiades.stoa.org/places/602634774",
+        "https://pleiades.stoa.org/places/431665559",
+        "https://pleiades.stoa.org/places/184145664",
+        "https://pleiades.stoa.org/places/367582654",
+        "https://pleiades.stoa.org/places/609762511"
+    ],
     "contributors": [
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "name": "Mark Depauw",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -36,9 +30,9 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
         },
         {
             "homepage": null,
@@ -47,11 +41,23 @@
             "username": "adamp"
         },
         {
-            "name": "R. Talbert",
+            "name": "Jen Thum",
             "username": null
         },
         {
-            "name": "Jen Thum",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "DARMC",
             "username": null
         },
         {
@@ -59,10 +65,12 @@
             "username": null
         },
         {
-            "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "name": "Mark Depauw",
+            "username": null
         }
     ],
     "created": "2018-06-07T23:20:26Z",
@@ -108,78 +116,6 @@
                 "location_precision": "precise",
                 "snippet": "Settlement; 330 BC - AD 640",
                 "title": "DARE Location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    31.9181675,
-                    26.1840536
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-osireion",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/756512/location-of-osireion",
-                "location_precision": "precise",
-                "snippet": "Temple-2, ; 1548 BC - 1086 BC",
-                "title": "OSM location of Osireion"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    31.9183799,
-                    26.1845358
-                ],
-                "type": "Point"
-            },
-            "id": "temple-of-seti-i",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/756512/temple-of-seti-i",
-                "location_precision": "precise",
-                "snippet": "Temple-2, ; 1548 BC - 1086 BC",
-                "title": "OSM location of Temple of Seti I"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    31.9167647,
-                    26.1868288
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-temple-of-ramesses-ii",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/756512/location-of-temple-of-ramesses-ii",
-                "location_precision": "precise",
-                "snippet": "Temple-2, ; 1548 BC - 1086 BC",
-                "title": "OSM location of Temple of Ramesses II"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    31.9084936,
-                    26.1888854
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-shunet-ez-zebib",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/756512/location-of-shunet-ez-zebib",
-                "location_precision": "precise",
-                "snippet": "Sanctuary, ; 2950 BC - 2670 BC",
-                "title": "OSM location of Shunet ez Zebib"
             },
             "type": "Feature"
         }
@@ -258,54 +194,79 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "predynastic-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "predynastic-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/predynastic-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "early-dynastic-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-dynastic-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-dynastic-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "old-kingdom-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "old-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-kingdom-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "second-intermediate-period-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "second-intermediate-period-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/second-intermediate-period-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "new-kingdom-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "new-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/new-kingdom-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "third-intermediate-period-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "third-intermediate-period-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/third-intermediate-period-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-period-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-period-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-period-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "ptolemaic-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "ptolemaic-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ptolemaic-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "macedonian-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "macedonian-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/macedonian-egypt"
                 }
             ],
             "contributors": [
@@ -327,6 +288,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     31.918201,
@@ -345,6 +309,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 2745",
             "references": [
                 {
@@ -352,6 +319,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "2745",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 2745.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -368,18 +336,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -397,6 +372,9 @@
             "end": 640,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -416,6 +394,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -423,6 +404,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -433,354 +415,31 @@
             "start": -330,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/756512/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "new-kingdom-egypt"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-02-20T21:03:42Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": -1086,
-            "featureType": [
-                "temple-2",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    31.9181675,
-                    26.1840536
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-26T01:08:22Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-02-20T21:04:32Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-02-20T21:03:45Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-osireion",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Node 1049555210, version 2, osm:changeset=13328711, 2012-10-01T22:29:02Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/1049555210",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 1049555210",
-                    "formattedCitation": "osm:node=1049555210",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Osireion",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Osireion",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Osireion.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -1548,
-            "title": "OSM location of Osireion",
-            "uri": "https://pleiades.stoa.org/places/756512/location-of-osireion"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "new-kingdom-egypt"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-02-20T21:05:09Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": -1086,
-            "featureType": [
-                "temple-2",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    31.9183799,
-                    26.1845358
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-31T14:46:39Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-02-20T21:05:45Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-02-20T21:05:11Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "temple-of-seti-i",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Node 1049555353, version 2, osm:changeset=13328711, 2012-10-01T22:29:02Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/1049555353",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 1049555353",
-                    "formattedCitation": "osm:node=1049555353",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Seti_I",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Seti I",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Seti I.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -1548,
-            "title": "OSM location of Temple of Seti I",
-            "uri": "https://pleiades.stoa.org/places/756512/temple-of-seti-i"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "new-kingdom-egypt"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-02-20T21:07:20Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": -1086,
-            "featureType": [
-                "temple-2",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    31.9167647,
-                    26.1868288
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-26T01:07:19Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-02-20T21:07:40Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-02-20T21:07:23Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-temple-of-ramesses-ii",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Node 1049555451, version 1, osm:changeset=6708495, 2010-12-19T17:41:44Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/1049555451",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 1049555451",
-                    "formattedCitation": "osm:node=1049555451",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -1548,
-            "title": "OSM location of Temple of Ramesses II",
-            "uri": "https://pleiades.stoa.org/places/756512/location-of-temple-of-ramesses-ii"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "early-dynastic-egypt"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-02-20T21:09:12Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "<p class=\" \"><span>A large </span><a href=\"https://en.wikipedia.org/wiki/Mudbrick\" title=\"Mudbrick\">mudbrick</a><span> structure built </span><span>ca. 2700 BC under pharaoh </span><a href=\"https://en.wikipedia.org/wiki/Khasekhemwy\" title=\"Khasekhemwy\">Khasekhemwy</a><span>.</span></p>",
-            "end": -2670,
-            "featureType": [
-                "sanctuary",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    31.9084936,
-                    26.1888854
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-31T14:48:26Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-02-20T21:09:55Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-02-20T21:09:14Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-shunet-ez-zebib",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Node 1049555685, version 1, osm:changeset=6708495, 2010-12-19T17:41:49Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/1049555685",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 1049555685",
-                    "formattedCitation": "osm:node=1049555685",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Shunet_ez_Zebib",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Shunet ez Zebib",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Shunet ez Zebib.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -2950,
-            "title": "OSM location of Shunet ez Zebib",
-            "uri": "https://pleiades.stoa.org/places/756512/location-of-shunet-ez-zebib"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -832,10 +491,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -885,11 +547,15 @@
             "uri": "https://pleiades.stoa.org/places/756512/ebot"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
     "placeTypes": [
         "sanctuary",
         "settlement",
-        "cemetery",
-        "temple-2"
+        "cemetery"
     ],
     "provenance": "Barrington Atlas: BAtlas 77 F4 Abydos/Ebot",
     "references": [
@@ -898,6 +564,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 77 F4 Abydos/Ebot",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -908,6 +575,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM, GEO ID 34",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -918,6 +586,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Abydos, Egypt",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Abydos, Egypt.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -928,6 +597,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
             "citationDetail": "Abydos (Egypt)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
@@ -935,8 +605,8 @@
         }
     ],
     "reprPoint": [
-        31.91627145,
-        26.185990766666666
+        31.917911500000002,
+        26.1858205
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

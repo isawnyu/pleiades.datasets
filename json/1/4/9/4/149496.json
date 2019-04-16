@@ -6,8 +6,94 @@
         4.5365412,
         43.9480456
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/253855601",
+            "contributors": [],
+            "created": "2016-07-13T13:32:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "253855601",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Gard (river)",
+            "uri": "https://pleiades.stoa.org/places/149496/253855601"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "material_source",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/material_source",
+            "connectsTo": "https://pleiades.stoa.org/places/148076",
+            "contributors": [],
+            "created": "2019-02-27T20:57:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-02-27T20:57:14Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "estel",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.persee.fr/doc/galia_0016-4119_2002_num_59_1_3093",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BPBBMT9D",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Bessac, Jean-Claude, and Mireille Vacca-Goutoulli. “La carrière romaine de L’Estel près du Pont du Gard.” <i>Gallia</i> 59, no. 1 (2002): 11–28. https://doi.org/10.3406/galia.2002.3093.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Bessac 2002a",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Estel Roman Quarry",
+            "uri": "https://pleiades.stoa.org/places/149496/estel"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/253855601",
+        "https://pleiades.stoa.org/places/148076",
         "https://pleiades.stoa.org/places/148738"
     ],
     "contributors": [
@@ -215,14 +301,19 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -242,6 +333,11 @@
                 "aqueduct",
                 "bridge",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -277,6 +373,11 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap Way: Pont du Gard (143771287) (version 2, changeset 13126682, Sun, 16 Sep 2012 07:20:47 +0000)",
             "references": [
                 {
@@ -284,6 +385,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 143771287",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "osm:way=143771287",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -300,14 +402,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -325,6 +432,9 @@
             "end": 640,
             "featureType": [
                 "aqueduct"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
             ],
             "geometry": {
                 "coordinates": [
@@ -369,6 +479,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
+            ],
             "provenance": "OpenStreetMap (Way 143771287, version 8, osm:changeset=56031343, 2018-02-03T15:03:03Z)",
             "references": [
                 {
@@ -376,6 +489,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 143771287",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=143771287",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -392,10 +506,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Pont du Gard",
@@ -441,6 +558,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
                     "citationDetail": "Q189764",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Wikidata",
@@ -455,6 +573,10 @@
             "uri": "https://pleiades.stoa.org/places/149496/name.2018-07-16.0089817012"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+        "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+    ],
     "placeTypes": [
         "aqueduct",
         "bridge"
@@ -466,6 +588,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
             "citationDetail": "15 D2",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://openlibrary.org/works/OL8327792W.</div>",
             "otherIdentifier": " ",
             "shortTitle": "BAtlas",
@@ -476,6 +599,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/F3UCXHZ5",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Fiches, Jean-Luc, Guilhem Fabre, and Jean Louis Paillet. <i>L’Aqueduc de Nîmes et Le Pont Du Gard: Archéologie, Géosystème, Histoire</i>. Nîmes: Conseil général du Gard, 1991.</div>",
             "otherIdentifier": "",
             "shortTitle": "Fabre 1991",
@@ -486,6 +610,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Pont du Gard",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pont du Gard.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -496,6 +621,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
             "citationDetail": "Pont du Gard (Roman Aqueduct)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
             "otherIdentifier": " ",
             "shortTitle": "WHL",
@@ -506,6 +632,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 7287904",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -516,6 +643,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
             "citationDetail": "14373",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
@@ -526,6 +654,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
             "citationDetail": "Q189764",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",

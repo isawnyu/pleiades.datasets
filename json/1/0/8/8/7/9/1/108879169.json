@@ -6,6 +6,37 @@
         34.4620736,
         31.5037938
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/687902",
+            "contributors": [],
+            "created": "2016-07-13T13:37:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "687902",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Gaza",
+            "uri": "https://pleiades.stoa.org/places/108879169/687902"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/687902"
     ],
@@ -99,10 +130,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -127,6 +161,9 @@
             "end": 2100,
             "featureType": [
                 "church-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -188,6 +225,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
+            ],
             "provenance": "OpenStreetMap (Way 297862470, version 3, osm:changeset=41038670, 2016-07-26T15:35:20Z)",
             "references": [
                 {
@@ -195,6 +235,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 297862470",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=297862470",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -208,6 +249,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/church"
+    ],
     "placeTypes": [
         "church-2",
         "church"
@@ -219,6 +264,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Church of Saint Porphyrius",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Church of Saint Porphyrius.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",

@@ -1,14 +1,47 @@
 {
     "@type": "Place",
     "bbox": [
-        28.21066,
-        36.438944,
+        28.227611,
+        36.443113,
         28.227611,
         36.443113
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/590031",
+            "contributors": [],
+            "created": "2016-07-13T13:40:24Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "590031",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Rhodos (island)",
+            "uri": "https://pleiades.stoa.org/places/590030/590031"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/590031",
-        "https://pleiades.stoa.org/places/631385926"
+        "https://pleiades.stoa.org/places/309948895",
+        "https://pleiades.stoa.org/places/631385926",
+        "https://pleiades.stoa.org/places/103328498"
     ],
     "contributors": [
         {
@@ -119,42 +152,6 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    28.21066,
-                    36.439992
-                ],
-                "type": "Point"
-            },
-            "id": "temple-of-apollo-pythios",
-            "properties": {
-                "description": "The Hellenistic Temple of Apollo Pythios on the Acropolis of the city of Rhodes.",
-                "link": "https://pleiades.stoa.org/places/590030/temple-of-apollo-pythios",
-                "location_precision": "precise",
-                "snippet": "Temple-2, ; 330 BC - 30 BC",
-                "title": "Temple of Apollo Pythios"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    28.211897,
-                    36.438944
-                ],
-                "type": "Point"
-            },
-            "id": "ancient-stadium",
-            "properties": {
-                "description": "The Hellenistic Stadium on the Acropolis of Rhodes ",
-                "link": "https://pleiades.stoa.org/places/590030/ancient-stadium",
-                "location_precision": "precise",
-                "snippet": "Stadion, ; 330 BC - 30 BC",
-                "title": "Ancient Stadium "
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -196,22 +193,31 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -229,6 +235,9 @@
             "end": 640,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -248,6 +257,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -255,6 +267,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -265,348 +278,37 @@
             "start": -550,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/590030/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2013",
-            "archaeologicalRemains": "traces",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "Rajas Pradhan",
-                    "username": null
-                },
-                {
-                    "name": "Faith Lubeck",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Adam Rabinowitz",
-                    "uri": "https://pleiades.stoa.org/author/arabinowitz",
-                    "username": "arabinowitz"
-                },
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                },
-                {
-                    "name": "Jeff Mayfield",
-                    "username": null
-                }
-            ],
-            "created": "2013-04-26T17:48:17Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Kali Kocian",
-                    "uri": "https://pleiades.stoa.org/author/kkocian",
-                    "username": "kkocian"
-                }
-            ],
-            "description": "The Hellenistic Temple of Apollo Pythios on the Acropolis of the city of Rhodes.",
-            "details": "<p>The temple of Apollo Pythios was constructed in the second century BC. It stands on the southern part of the Agios Stephanos hill. This Doric-order temple is rather small compared to other Doric temples. Its peripteros consists of 6 Doric columns across the front and fewer than 12 along the sides. It was made of local limestone. After subsequent earthquakes and damage from bombing during WWII, only four columns remain. An Italian crew started excavating the temple in 1914. After the excavation, the Italian excavators re-erected the remaining columns of the East facade. Minimal archaeological work has been done since the initial excavation.</p>",
-            "end": -30,
-            "featureType": [
-                "temple-2",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    28.21066,
-                    36.439992
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-23T03:39:22Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2015-07-12T16:41:06Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-06-15T20:20:42Z",
-                    "modifiedBy": "arabinowitz"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-05-11T11:25:41Z",
-                    "modifiedBy": "arabinowitz"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-05-11T11:24:20Z",
-                    "modifiedBy": "arabinowitz"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-05-01T21:37:57Z",
-                    "modifiedBy": "kkocian"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-05-01T17:58:18Z",
-                    "modifiedBy": "kkocian"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-30T19:12:10Z",
-                    "modifiedBy": "kkocian"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-30T18:14:14Z",
-                    "modifiedBy": "kkocian"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-26T17:59:25Z",
-                    "modifiedBy": "kkocian"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2013-04-26T17:48:24Z",
-                    "modifiedBy": "kkocian"
-                }
-            ],
-            "id": "temple-of-apollo-pythios",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/title/rhodes-in-the-hellenistic-age/oclc/10099304",
-                    "citationDetail": "",
-                    "formattedCitation": "Berthold, R.M. 1984. Rhodes in the Hellenistic Age. United Kingdom : Cornell University Press, 1984.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                },
-                {
-                    "accessURI": "http://www.jstor.org/stable/30104532",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Rice, E. E. 1995. \"Grottoes on the Acropolis of Hellenistic Rhodes.\" The Annual of the British School at Athens 90:383-404.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                },
-                {
-                    "accessURI": "http://www.jstor.org/stable/3288093",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Chase, G. H. 1916. “Archaeology in 1914.” The Classical Journal 11:196-207.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                },
-                {
-                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DR%3Aentry+group%3D2%3Aentry%3Drhodes",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "PECS (Perseus), RHODES (including Ialysos, Kameiros, Lindos, Vroulia, the city of Rhodes, Mt. Atabyrion) Dodecanese, Greece",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "Temple of Apollo Pythios",
-            "uri": "https://pleiades.stoa.org/places/590030/temple-of-apollo-pythios"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2013",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "Rajas Pradhan",
-                    "username": null
-                },
-                {
-                    "name": "Jeff Mayfield",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Adam Rabinowitz",
-                    "uri": "https://pleiades.stoa.org/author/arabinowitz",
-                    "username": "arabinowitz"
-                },
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                },
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "created": "2013-04-26T18:10:02Z",
-            "creators": [
-                {
-                    "name": "Faith Lubeck",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Kali Kocian",
-                    "uri": "https://pleiades.stoa.org/author/kkocian",
-                    "username": "kkocian"
-                }
-            ],
-            "description": "The Hellenistic Stadium on the Acropolis of Rhodes ",
-            "details": "<p>The ancient stadium of the city of Rhodes was constructed during the 2nd century BC. It is located on the acropolis adjacent to an odeon and near a gymnasium, a theater, and the sanctuary of Apollo Pythios. The stadium, which is one stadion (600ft or 200m) long, was used for sporting events like the footrace, and probably for other entertainments as well. The stadium was excavated and restored by an Italian team during the early 20th century, but very little archaeological work has been done on this site since then. Currently, the only original parts of the stadium which are preserved are the sphendone (rounded end with turning post), the proedries (seats of honor), and a few rows of seats in the auditorium.</p>",
-            "end": -30,
-            "featureType": [
-                "stadion",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    28.211897,
-                    36.438944
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "fixed feature type",
-                    "modified": "2016-05-27T14:22:43Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2015-07-12T17:14:42Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-06-15T20:58:46Z",
-                    "modifiedBy": "arabinowitz"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-05-11T12:26:33Z",
-                    "modifiedBy": "arabinowitz"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-30T18:21:04Z",
-                    "modifiedBy": "kkocian"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-30T18:19:22Z",
-                    "modifiedBy": "kkocian"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-29T17:22:03Z",
-                    "modifiedBy": "kkocian"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2013-04-26T18:10:11Z",
-                    "modifiedBy": "kkocian"
-                }
-            ],
-            "id": "ancient-stadium",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "http://www.panoramicearth.com/3781/Rhodes/Ancient_Stadium",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "2013. “Ancient Stadium.” Panoramic Earth. ",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeAlso"
-                },
-                {
-                    "accessURI": "http://www.jstor.org/stable/30104532",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Rice, E. E. 1995. \"Grottoes on the Acropolis of Hellenistic Rhodes.\" The Annual of the British School at Athens 90:383-404.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                },
-                {
-                    "accessURI": "http://www.jstor.org/stable/3288093",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Chase, G. H. 1916. “Archaeology in 1914.” The Classical Journal 11:196-207.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "Ancient Stadium ",
-            "uri": "https://pleiades.stoa.org/places/590030/ancient-stadium"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -662,10 +364,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "early-ottoman-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-ottoman-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-ottoman-empire"
                 }
             ],
             "attested": null,
@@ -718,6 +423,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 1, p. 483)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -734,14 +440,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "early-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-byzantine"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "abassid-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "abassid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/abassid-middle-east"
                 }
             ],
             "attested": null,
@@ -794,6 +505,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1369)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -810,10 +522,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "abassid-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "abassid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/abassid-middle-east"
                 }
             ],
             "attested": null,
@@ -866,6 +581,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1370)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -882,74 +598,109 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-empire-parthian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-parthian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-parthian-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "transition-roman-early-empire-late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "transition-roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/transition-roman-early-empire-late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique-sasanian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique-sasanian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique-sasanian-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique-late-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique-late-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique-late-byzantine"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "proto-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "proto-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/proto-byzantine"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "early-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-byzantine"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "abassid-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "abassid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/abassid-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "rum-crusader-anatolia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "rum-crusader-anatolia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/rum-crusader-anatolia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "crusader-byzantine-seljuq-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "crusader-byzantine-seljuq-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/crusader-byzantine-seljuq-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "1200-bc-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "1200-bc-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/1200-bc-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "ottoman-rise"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "ottoman-rise",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ottoman-rise"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "1500-ad-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "1500-ad-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/1500-ad-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-ottoman-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-ottoman-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-ottoman-empire"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern-middle-east"
                 }
             ],
             "attested": null,
@@ -1002,6 +753,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1352)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -1018,10 +770,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern-middle-east"
                 }
             ],
             "attested": null,
@@ -1074,6 +829,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1357)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -1088,10 +844,11 @@
             "uri": "https://pleiades.stoa.org/places/590030/rodos"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "settlement",
-        "stadion",
-        "temple-2"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 G3 Rhodos",
     "references": [
@@ -1100,19 +857,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/h.html#Hoepfner-1988",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Hoepfner 1988",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Rhodes_(city)",
+            "accessURI": "https://en.wikipedia.org/wiki/Rhodes_(city)",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Rhodes (city)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Rhodes (city)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Rhodes (city).",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -1120,6 +879,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 60 G3 Rhodos",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1130,6 +890,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "UNESCO World Heritage List, Medieval City of Rhodes",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1137,8 +898,8 @@
         }
     ],
     "reprPoint": [
-        28.21672266666667,
-        36.440683
+        28.227611,
+        36.443113
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -2,12 +2,14 @@
     "@type": "Place",
     "bbox": [
         6.467809,
-        35.484237,
-        6.468666,
+        35.485165,
+        6.468636,
         35.485268
     ],
+    "connections": [],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/335227"
+        "https://pleiades.stoa.org/places/335227",
+        "https://pleiades.stoa.org/places/681394657"
     ],
     "contributors": [
         {
@@ -57,24 +59,6 @@
     "description": "A Roman colonial town founded in the Aurès Mountains of Algeria by the Emperor Trajan around AD 100. The city's full name was Colonia Marciana Ulpia Traiana Thamugadi.",
     "details": "<p>The Barrington Atlas Directory notes: Timgad</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    6.468666,
-                    35.484237
-                ],
-                "type": "Point"
-            },
-            "id": "byzantine-fortress",
-            "properties": {
-                "description": "A sixth century AD Byzantine fortress built at Timgad by the governor Solomon",
-                "link": "https://pleiades.stoa.org/places/334636/byzantine-fortress",
-                "location_precision": "precise",
-                "snippet": "Fort, ; AD 300 - AD 1453",
-                "title": "Byzantine fortress"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -168,95 +152,22 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
-                }
-            ],
-            "contributors": [],
-            "created": "2012-09-30T01:25:02Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "A sixth century AD Byzantine fortress built at Timgad by the governor Solomon",
-            "details": "",
-            "end": 1453,
-            "featureType": [
-                "fort",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    6.468666,
-                    35.484237
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2012-09-30T15:40:13Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2012-09-30T15:27:38Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2012-09-30T01:25:04Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "byzantine-fortress",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/185679249",
-                    "citationDetail": "",
-                    "formattedCitation": "Jean Lassus and Marcel Le Glay. 1981. La forteresse byzantine de Thamugadi : fouilles à Timgad 1938-1956. 1. Paris.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                }
-            ],
-            "review_state": "published",
-            "start": 300,
-            "title": "Byzantine fortress",
-            "uri": "https://pleiades.stoa.org/places/334636/byzantine-fortress"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -277,6 +188,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -301,17 +215,21 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 15111",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "15111",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15111.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -324,14 +242,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -349,6 +272,9 @@
             "end": 640,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -368,6 +294,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -375,6 +304,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -391,10 +321,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Timgad",
@@ -429,13 +362,14 @@
             "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "http://en.wikipedia.org/wiki/Timgad",
+                    "accessURI": "https://en.wikipedia.org/wiki/Timgad",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia, Timgad",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Timgad",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Timgad.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "citesAsEvidence"
                 }
             ],
@@ -449,14 +383,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -510,10 +449,13 @@
             "uri": "https://pleiades.stoa.org/places/334636/thamugadi"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/urban",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "urban",
-        "settlement",
-        "fort"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 34 E2 Thamugadi",
     "references": [
@@ -522,6 +464,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 34 E2 Thamugadi",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -532,6 +475,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-27.255",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "AAA 27.255",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -542,6 +486,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Lassus, J. 1981. La forteresse byzantine de Thamugadi. Fouilles à Timgad 1938-1956. CNRS",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -552,6 +497,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/6388944",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Lepelley 1981, 444-76",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -562,6 +508,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "UNESCO World Heritage List, Timgad",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -572,19 +519,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/1953808",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Lassus, J. 1966. \"Une opération immobilière à Timgad.\" In Mélanges d'archéologie et d'histoire offerts à André Piganiol, III, edited by R. Chevallier. Paris. pp. 1221-231",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://fr.wikipedia.org/wiki/Timgad",
+            "accessURI": "https://fr.wikipedia.org/wiki/Timgad",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (French), Timgad",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
+            "citationDetail": "Timgad",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), Timgad.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (French)",
             "type": "seeFurther"
         },
         {
@@ -592,6 +541,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), THAMUGADI (Timgad) Algeria",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -602,6 +552,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 18251",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -612,6 +563,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 9855409",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -622,6 +574,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Thamugadi",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -632,6 +585,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9IWGCNJC",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Watkins, Thomas H. “Colonia Marciana Traiana Thamugadi: Dynasticism in Numidia.” <i>Phoenix</i> 56, no. 1/2 (2002): 84–108. doi:10.2307/1192471.</div>",
             "otherIdentifier": "",
             "shortTitle": "Watkins 2002",
@@ -639,8 +593,8 @@
         }
     ],
     "reprPoint": [
-        6.468370333333333,
-        35.48489
+        6.4682224999999995,
+        35.4852165
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

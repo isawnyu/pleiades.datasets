@@ -6,19 +6,21 @@
         9.6478918,
         53.6755254
     ],
+    "connections": [],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/754542191",
         "https://pleiades.stoa.org/places/377547412"
     ],
     "contributors": [
         {
-            "homepage": null,
-            "name": "Gabriel Moss",
-            "uri": "https://pleiades.stoa.org/author/gmoss",
-            "username": "gmoss"
-        },
-        {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -34,9 +36,9 @@
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Gabriel Moss",
+            "uri": "https://pleiades.stoa.org/author/gmoss",
+            "username": "gmoss"
         }
     ],
     "created": "2009-11-02T14:33:02Z",
@@ -184,10 +186,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -206,6 +211,10 @@
             "featureType": [
                 "river",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -323,6 +332,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Relation 123751, version 46, osm:changeset=35571073, 2015-11-25T13:28:23Z)",
             "references": [
                 {
@@ -330,6 +343,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Relation 123751",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:relation=123751",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -346,6 +360,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -394,6 +409,9 @@
             "uri": "https://pleiades.stoa.org/places/99060/visurgis"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/river"
+    ],
     "placeTypes": [
         "river"
     ],
@@ -404,6 +422,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 10 E3 Visurgis fl.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -414,6 +433,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#Reinecke-1925",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Reinecke 1925, 38",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -424,6 +444,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Visurgis",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Visurgis",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -432,11 +453,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Weser",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Weser",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Weser",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Weser.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],

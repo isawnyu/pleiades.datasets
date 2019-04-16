@@ -3,9 +3,10 @@
     "bbox": [
         35.974082,
         33.898064,
-        35.974082,
-        33.898064
+        35.9902779,
+        33.9134371
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -66,6 +67,24 @@
                 "title": "DARMC location 16159"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.9902779,
+                    33.9134371
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/678348/osm-location",
+                "location_precision": "precise",
+                "snippet": "Temple-2; 30 BC - AD 640",
+                "title": "OSM location of Qasr Neba"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
@@ -107,10 +126,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -136,6 +158,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     35.974082,
@@ -159,6 +184,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 16159",
             "references": [
                 {
@@ -166,6 +194,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "16159",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 16159.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -176,9 +205,95 @@
             "start": -30,
             "title": "DARMC location 16159",
             "uri": "https://pleiades.stoa.org/places/678348/darmc-location-16159"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2014-11-21T15:28:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "<p>The ruins of a Roman temple are located at the site.</p>",
+            "end": 640,
+            "featureType": [
+                "temple-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    35.9902779,
+                    33.9134371
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2017-12-10T02:55:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-11-21T15:30:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-11-21T15:28:20Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+            ],
+            "provenance": "OpenStreetMap (Way 313836823, version 2, osm:changeset=26931007, 2014-11-21T15:27:20Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/313836823",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 313836823",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=313836823",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Qasr Neba",
+            "uri": "https://pleiades.stoa.org/places/678348/osm-location"
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+    ],
     "placeTypes": [
         "temple-2"
     ],
@@ -189,6 +304,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 69 C2 Qasr Neba",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -199,6 +315,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HPGZNWMX",
             "citationDetail": "148",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Krencker, Daniel, and Willy Zschietzschmann. <i>Römische Tempel in Syrien</i>. 2 vols. Denkmäler Antiker Architektur 5. Berlin: W. de Gruyter, 1978.</div>",
             "otherIdentifier": "",
             "shortTitle": "Krencker 1938",
@@ -207,8 +324,9 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Tell_Qasr_Labwe",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Tell Qasr Labwe",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Tell Qasr Labwe.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -219,6 +337,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Livius.org: Qsarnaba",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -226,8 +345,8 @@
         }
     ],
     "reprPoint": [
-        35.974082,
-        33.898064
+        35.98217995,
+        33.90575055
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

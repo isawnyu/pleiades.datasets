@@ -1,12 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        1.229625,
-        49.001017,
+        1.240058,
+        49.004544,
         1.240058,
         49.004544
     ],
-    "connectsWith": [],
+    "connections": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/168208662"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -44,11 +47,11 @@
     "created": "2009-11-02T15:51:22Z",
     "creators": [
         {
-            "name": "J. Kunow",
+            "name": "C. Haselgrove",
             "username": null
         },
         {
-            "name": "C. Haselgrove",
+            "name": "J. Kunow",
             "username": null
         }
     ],
@@ -70,24 +73,6 @@
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
                 "title": "DARMC location 15976"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    1.229625,
-                    49.001017
-                ],
-                "type": "Point"
-            },
-            "id": "roman-bath",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/109007/roman-bath",
-                "location_precision": "precise",
-                "snippet": "Bath, ; 30 BC - AD 300",
-                "title": "Roman Bath"
             },
             "type": "Feature"
         }
@@ -156,10 +141,13 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -185,6 +173,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     1.240058,
@@ -197,115 +188,40 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 15976",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "15976",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15976.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
             "title": "DARMC location 15976",
             "uri": "https://pleiades.stoa.org/places/109007/darmc-location-15976"
-        },
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "created": "2012-03-19T13:36:12Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "bath",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    1.229625,
-                    49.001017
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-28T22:59:53Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "roman-bath",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "http://fr.wikipedia.org/wiki/Gisacum",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipédia: Gisacum",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "http://www.adlfi.fr/SiteAdfi/document?base=base_notices&id=N2004-NH-0075",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "AdlFI: Vieil-Évreux (Le)",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "Roman Bath",
-            "uri": "https://pleiades.stoa.org/places/109007/roman-bath"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "Gesacum",
@@ -358,6 +274,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://atlantides.org/bibliography/b.html#BAtlas-11-C2-Gesacum?",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "BAtlas 11 C2 Gesacum?, T.",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -374,10 +291,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Gisacum",
@@ -407,13 +327,14 @@
             "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "http://fr.wikipedia.org/wiki/Gisacum",
+                    "accessURI": "https://fr.wikipedia.org/wiki/Gisacum",
                     "alternateURI": "",
-                    "bibliographicURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
                     "citationDetail": "",
-                    "formattedCitation": "Wikipédia (French): Gisacum",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), .",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (French)",
                     "type": "citesAsEvidence"
                 }
             ],
@@ -427,10 +348,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -467,6 +391,10 @@
             "uri": "https://pleiades.stoa.org/places/109007/gisacum-le-vieil-evreux"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/bath"
+    ],
     "placeTypes": [
         "sanctuary",
         "bath"
@@ -478,6 +406,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 11 B3 Gesacum?, T.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -488,6 +417,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Lutetia-187",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "TIR Lutetia 187",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -498,6 +428,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/h.html#Horne-1980",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Horne 1980, 488-89",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -508,19 +439,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/c.html#CAG-27.329",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CAG 27.329",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://fr.wikipedia.org/wiki/Gisacum",
+            "accessURI": "https://fr.wikipedia.org/wiki/Gisacum",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
             "citationDetail": "",
-            "formattedCitation": "Wikipédia (French), Gisacum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), .",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (French)",
             "type": "seeFurther"
         },
         {
@@ -528,6 +461,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "AdlFI: N2004-NH-0075 (Vieil-Évreux (Le): Les Terres noires)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -538,6 +472,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "RFO 18144",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -548,25 +483,27 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), GISACUM (Le Vieil-Evreux) Eure, France",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Gisacum",
+            "accessURI": "https://en.wikipedia.org/wiki/Gisacum",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Gisacum",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Gisacum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Gisacum.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        1.2348415,
-        49.0027805
+        1.240058,
+        49.004544
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

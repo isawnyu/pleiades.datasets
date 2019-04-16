@@ -6,6 +6,37 @@
         14.2494471,
         41.0866016
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/432754",
+            "contributors": [],
+            "created": "2016-07-13T13:56:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "432754",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Capua",
+            "uri": "https://pleiades.stoa.org/places/93820013/432754"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/432754"
     ],
@@ -77,10 +108,13 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -100,6 +134,10 @@
                 "amphitheatre",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     14.2494471,
@@ -118,6 +156,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 28875476, version 4, osm:changeset=17189919, 2013-08-02T09:59:27Z)",
             "references": [
                 {
@@ -125,6 +167,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 28875476",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=28875476",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -141,10 +184,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Anfiteatro Campano",
@@ -178,6 +224,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "GeoNames 10346153",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -192,6 +239,9 @@
             "uri": "https://pleiades.stoa.org/places/93820013/anfiteatro-campano"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
+    ],
     "placeTypes": [
         "amphitheatre"
     ],
@@ -200,11 +250,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Santa_Maria_Capua_Vetere",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Santa Maria Capua Vetere",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Santa Maria Capua Vetere",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Santa Maria Capua Vetere.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         },
         {
@@ -212,6 +263,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 3167561",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -222,6 +274,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 10346153",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -230,21 +283,23 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Capua",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Capua",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Capua",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Capua.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         },
         {
             "accessURI": "https://it.wikipedia.org/wiki/Anfiteatro_campano",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Anfiteatro campano",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Anfiteatro campano",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Anfiteatro campano.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         },
         {
@@ -252,6 +307,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Tuck, S. L. 2007.  “Spectacle and Ideology in the Relief Decorations of the Anfiteatro Campano.” Journal of Roman Archaeology 20:255-72.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -262,6 +318,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/54957240",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Tosi, G. and Lucia Baccelle. 2003. Gli edifici per spettacoli nell'Italia romana. 2 v. Rome: Quasar.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -272,6 +329,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/23503160",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Alvino, F. 1842. Anfiteatro Campano, illustrato e restaurato. Naples.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -282,6 +340,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/37935975",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Spina, L., Gianfranco Arciero, and Valeria Sampaolo. 1997. L'anfiteatro campano di Capua. Naples: Electa Napoli.",
             "otherIdentifier": " ",
             "shortTitle": "",

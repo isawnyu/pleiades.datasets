@@ -6,6 +6,37 @@
         21.915296,
         37.002225
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/423679103",
+            "contributors": [],
+            "created": "2016-07-13T13:56:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "423679103",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Nichoria",
+            "uri": "https://pleiades.stoa.org/places/384326689/423679103"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423679103"
     ],
@@ -127,10 +158,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2013",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
             "contributors": [
@@ -171,6 +205,10 @@
                 "settlement",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     21.915296,
@@ -209,6 +247,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -216,6 +258,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/85089940",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "McDonald, W., W. Coulson, and J. Rosser. 1983. Excavations at Nichoria in Southwest Greece. Volume III: Dark Age and Byzantine Occupation. Minneapolis: University of Minnesota Press.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -232,10 +275,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -310,6 +356,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/85089940",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "McDonald, W., W. Coulson, and J. Rosser. 1983. Excavations at Nichoria in Southwest Greece. Volume III: Dark Age and Byzantine Occupation. Minneapolis: University of Minnesota Press.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -324,6 +371,10 @@
             "uri": "https://pleiades.stoa.org/places/384326689/name.2015-04-28.4711741016"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
+    ],
     "placeTypes": [
         "settlement",
         "architecturalcomplex"
@@ -331,13 +382,14 @@
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Nichoria",
+            "accessURI": "https://en.wikipedia.org/wiki/Nichoria",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Nichoria",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Nichoria",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Nichoria.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
         },
         {
@@ -345,6 +397,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/85089940",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "McDonald, W., W. Coulson, and J. Rosser. 1983. Excavations at Nichoria in Southwest Greece. Volume III: Dark Age and Byzantine Occupation. Minneapolis: University of Minnesota Press.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -355,6 +408,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Mazarakis Ainian, A. 1992. \"Nichoria in the Southwest Peloponnese. Units IV-1 and IV-5 Reconsidered.\" Opuscula Atheniensia 19:75-84.",
             "otherIdentifier": " ",
             "shortTitle": "",

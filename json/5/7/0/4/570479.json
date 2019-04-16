@@ -2,14 +2,75 @@
     "@type": "Place",
     "bbox": [
         21.920439,
-        37.051474,
-        22.008168,
+        37.175491,
+        21.922941,
         37.183107
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/570480",
+            "contributors": [],
+            "created": "2016-07-13T13:50:09Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "570480",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Messenia",
+            "uri": "https://pleiades.stoa.org/places/570479/570480"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/570318",
+            "contributors": [],
+            "created": "2016-07-13T13:50:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "570318",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Ithome M.",
+            "uri": "https://pleiades.stoa.org/places/570479/570318"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/570480",
         "https://pleiades.stoa.org/places/570318",
-        "https://pleiades.stoa.org/places/435916987"
+        "https://pleiades.stoa.org/places/435916987",
+        "https://pleiades.stoa.org/places/52154983"
     ],
     "contributors": [
         {
@@ -104,24 +165,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    22.008168,
-                    37.051474
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-24083",
-            "properties": {
-                "description": "5M scale point location",
-                "link": "https://pleiades.stoa.org/places/570479/darmc-location-24083",
-                "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "DARMC location 24083"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     21.920439,
                     37.175491
                 ],
@@ -134,24 +177,6 @@
                 "location_precision": "precise",
                 "snippet": "Settlement; 550 BC - AD 300",
                 "title": "DARE Location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    21.920524,
-                    37.175372
-                ],
-                "type": "Point"
-            },
-            "id": "the-asklepieion",
-            "properties": {
-                "description": "The Asklepieion in Ancient Messene is a sanctuary of Asklepios, Greek god of healing, constructed in 214 BC; the complex includes civic as well as religious buildings",
-                "link": "https://pleiades.stoa.org/places/570479/the-asklepieion",
-                "location_precision": "precise",
-                "snippet": "Sanctuary, ; 330 BC - AD 300",
-                "title": "Asklepieion of Messene"
             },
             "type": "Feature"
         }
@@ -210,18 +235,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -247,6 +279,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     21.922941,
@@ -270,17 +305,21 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 4806",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "4806",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 4806.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -290,104 +329,28 @@
         },
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "classical"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-25T18:30:43Z",
-            "creators": [
-                {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "5M scale point location",
-            "details": "DARMC OBJECTID: 24083",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    22.008168,
-                    37.051474
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:31:30Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-25T18:30:44Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-24083",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "DARMC OBJECTID: 24083",
-            "references": [
-                {
-                    "accessURI": "http://darmc.harvard.edu",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                }
-            ],
-            "review_state": "published",
-            "start": -550,
-            "title": "DARMC location 24083",
-            "uri": "https://pleiades.stoa.org/places/570479/darmc-location-24083"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -405,6 +368,9 @@
             "end": 300,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -424,6 +390,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -431,6 +400,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -441,174 +411,31 @@
             "start": -550,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/570479/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-digitalglobe-imagery-2012",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-roman-early-empire"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                },
-                {
-                    "homepage": null,
-                    "name": "Adam Rabinowitz",
-                    "uri": "https://pleiades.stoa.org/author/arabinowitz",
-                    "username": "arabinowitz"
-                }
-            ],
-            "created": "2013-04-24T23:19:21Z",
-            "creators": [
-                {
-                    "name": "April Kissinger",
-                    "username": null
-                },
-                {
-                    "name": "Eric Shea",
-                    "username": null
-                },
-                {
-                    "name": "Chelsea Lee",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sterling Wright",
-                    "uri": "https://pleiades.stoa.org/author/swright",
-                    "username": "swright"
-                }
-            ],
-            "description": "The Asklepieion in Ancient Messene is a sanctuary of Asklepios, Greek god of healing, constructed in 214 BC; the complex includes civic as well as religious buildings",
-            "details": "<p>The Asklepieion of Messene was a sanctuary of the Greek god of healing, Asklepios, and a pilgrimage site for those seeking to be healed. The Asklepieion is comprised of a square area of 71.91 by 66.67 meters in the center of the city, next to the agora. A Doric temple was built in this precinct in 214 BC. The stoas on the north and south ends of the enclosure have façades with Corinthian columns supporting an Ionic architrave and a frieze decorated with bulls’ heads alternating with floral scrolls and bowls. The complex is closely connected with civic buildings, including the city's bouleuterion, and it has been suggested that the sanctuary housed both civic and religious activities.</p>\r\n<p>The complex continued to be restored and renovated during the Roman period through the 3rd c. AD, but by the second half of the 4th c. AD it had fallen out of use. It is mentioned by Pausanias, who states that it housed famous statues, including some of the god Asklepios himself. Anastasios Orlandos initiated the excavations of this complex during the 1960s. </p>",
-            "end": 300,
-            "featureType": [
-                "sanctuary",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    21.920524,
-                    37.175372
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-09-10T02:30:20Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-06-15T21:48:40Z",
-                    "modifiedBy": "arabinowitz"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-05-12T05:55:48Z",
-                    "modifiedBy": "arabinowitz"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-05-12T05:33:22Z",
-                    "modifiedBy": "arabinowitz"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-27T02:38:31Z",
-                    "modifiedBy": "swright"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-25T19:10:38Z",
-                    "modifiedBy": "swright"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-25T19:04:26Z",
-                    "modifiedBy": "swright"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-24T23:24:20Z",
-                    "modifiedBy": "swright"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2013-04-24T23:19:27Z",
-                    "modifiedBy": "swright"
-                }
-            ],
-            "id": "the-asklepieion",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "http://www.jstor.org/stable/1354012",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Themelis, P. 1991. \"Hellenistic Architectural Terracottas from Messene.\" Hesperia 27: 141-398.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                },
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/51134681",
-                    "citationDetail": "",
-                    "formattedCitation": "Themelis, Petros. 2001. \"Roman Messene. The gymnasium\".In Salomies, ed., \"The Greek East in the Roman context : proceedings of a colloquium organised by The Finnish Institute at Athens ; May 21 and 22, 1999\" (Helsinki) 119-120. ",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                },
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/202383741",
-                    "citationDetail": "",
-                    "formattedCitation": "Ryuichi, Yoshitake. \"A STUDY OF THE STOAS OF THE ASKLEPIEION IN ANCIENT MESSENE: Reconstruction of the order and roof structure.\" Journal of architecture, planning and environmental engineering 585 (2004): 207-212. Print. ",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "Asklepieion of Messene",
-            "uri": "https://pleiades.stoa.org/places/570479/the-asklepieion"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -664,18 +491,25 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -734,8 +568,11 @@
             "uri": "https://pleiades.stoa.org/places/570479/ithome"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+    ],
     "placeTypes": [
-        "sanctuary",
         "settlement",
         "fort"
     ],
@@ -746,6 +583,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 58 B3 Messene",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -756,6 +594,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/m.html#McDonald-1972",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "McDonald 1972, 314 (n. 529)",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -766,6 +605,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/l.html#Lauffer-1989",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Lauffer 1989, 424-25",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -776,19 +616,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/s.html#Shipley-1997",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Shipley 1997, 231-32",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Messene",
+            "accessURI": "https://en.wikipedia.org/wiki/Messene",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Messene",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Messene",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Messene.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -796,6 +638,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "TP 6C5 (Talbert 1919)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -806,6 +649,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), MESSENE or Ithome (Mavromati) Messenia, Greece",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -816,6 +660,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Paus. 4.27.9",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -826,6 +671,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Xen. Hell. 7.5.5",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -836,6 +682,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Strabo 8.4.6",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -846,6 +693,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Hom. Od. 21.15",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -856,6 +704,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Paus. 4.31.5",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -863,8 +712,8 @@
         }
     ],
     "reprPoint": [
-        21.943018000000002,
-        37.146361
+        21.921689999999998,
+        37.179299
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

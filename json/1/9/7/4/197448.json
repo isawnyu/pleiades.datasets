@@ -2,30 +2,92 @@
     "@type": "Place",
     "bbox": [
         13.841124,
-        44.868333,
-        13.8498543,
-        44.8737007
+        44.869567,
+        13.841124,
+        44.869567
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/1004",
+            "contributors": [],
+            "created": "2016-07-13T13:56:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "1004",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "(H)Adriaticum/Superum Mare",
+            "uri": "https://pleiades.stoa.org/places/197448/1004"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/855236251",
+            "contributors": [],
+            "created": "2016-07-13T13:56:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "855236251",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Flavia",
+            "uri": "https://pleiades.stoa.org/places/197448/855236251"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/1004",
-        "https://pleiades.stoa.org/places/855236251"
+        "https://pleiades.stoa.org/places/855236251",
+        "https://pleiades.stoa.org/places/391553443",
+        "https://pleiades.stoa.org/places/391553444",
+        "https://pleiades.stoa.org/places/471437511",
+        "https://pleiades.stoa.org/places/837713186"
     ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
         {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -35,13 +97,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-08T11:51:29Z",
@@ -73,42 +137,6 @@
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
                 "title": "DARMC location 14351"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    13.8498543,
-                    44.8737007
-                ],
-                "type": "Point"
-            },
-            "id": "roman-amphitheater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/197448/roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "OSM location of Arena Pula (Roman amphitheater)"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    13.847222,
-                    44.868333
-                ],
-                "type": "Point"
-            },
-            "id": "arch-of-the-sergii",
-            "properties": {
-                "description": "A Roman triumphal arch at Pula commemorating Lucius Sergius Lepidus and the family of the Sergii for service at the Battle of Actium in 31 BC.",
-                "link": "https://pleiades.stoa.org/places/197448/arch-of-the-sergii",
-                "location_precision": "precise",
-                "snippet": "Arch, ; 30 BC - AD 300",
-                "title": "OSM location of Arch of the Sergii"
             },
             "type": "Feature"
         }
@@ -192,18 +220,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -228,6 +263,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -257,6 +295,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 14351",
             "references": [
                 {
@@ -264,6 +305,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "14351",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 14351.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -274,201 +316,31 @@
             "start": -330,
             "title": "DARMC location 14351",
             "uri": "https://pleiades.stoa.org/places/197448/darmc-location-14351"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "restored",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2014-01-28T18:26:07Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "<p>Built by between the Augustan period and the reign of Nero, the Pula amphitheater is one of the largest of the Roman world.</p>",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    13.8498543,
-                    44.8737007
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-08-03T02:13:55Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2014-01-28T18:27:39Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-01-28T18:26:12Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "roman-amphitheater",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 76174055, version 7, osm:changeset=14894217, 2013-02-03T11:02:26Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/76174055",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 76174055",
-                    "formattedCitation": "osm:way=76174055",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Pula_Arena",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Pula Arena",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pula Arena.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Arena Pula (Roman amphitheater)",
-            "uri": "https://pleiades.stoa.org/places/197448/roman-amphitheater"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                }
-            ],
-            "created": "2013-01-25T18:11:26Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "A Roman triumphal arch at Pula commemorating Lucius Sergius Lepidus and the family of the Sergii for service at the Battle of Actium in 31 BC.",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "arch",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    13.847222,
-                    44.868333
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-08-03T02:15:34Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-01-25T21:34:43Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-01-25T21:29:23Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-01-25T21:28:38Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-01-25T18:11:29Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "arch-of-the-sergii",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Arch_of_the_Sergii",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Arch of the Sergii",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Arch of the Sergii.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Arch of the Sergii",
-            "uri": "https://pleiades.stoa.org/places/197448/arch-of-the-sergii"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -529,10 +401,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "Πόλα",
@@ -576,6 +451,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Str. 1.2.39",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -592,10 +468,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "Colonia Iulia Pola Pollentia Herculanea",
@@ -629,6 +508,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "CIL 5, 8139 (via Arachne)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -645,10 +525,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Pula",
@@ -682,6 +565,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Geonames:3192224",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -696,12 +580,12 @@
             "uri": "https://pleiades.stoa.org/places/197448/pula"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/port"
+    ],
     "placeTypes": [
-        "theatre",
-        "temple-2",
-        "arch",
         "settlement",
-        "amphitheatre",
         "port"
     ],
     "provenance": "Barrington Atlas: BAtlas 20 A5 Pola",
@@ -711,6 +595,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 20 A5 Pola",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -721,6 +606,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#Tamaro-1971",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Tamaro 1971",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -731,6 +617,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/v.html#Vedaldi-Iasbez-1994-378-90",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Vedaldi Iasbez 1994 378-90",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -741,6 +628,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Pula",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Pula.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -751,6 +639,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), POLA (Pula) Croatia, Yugoslavia",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -761,6 +650,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Strab. (Meineke: Perseus) 1.2.39",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -771,6 +661,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Strab. 5.1.9",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -781,6 +672,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Plin. HN 3.129",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -791,6 +683,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "CIL V, 8139 = II 10.1.85",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -801,6 +694,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 3192224",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -811,6 +705,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
             "citationDetail": "Pola (Adriatic)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
@@ -818,8 +713,8 @@
         }
     ],
     "reprPoint": [
-        13.846066766666667,
-        44.870533566666666
+        13.841124,
+        44.869567
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

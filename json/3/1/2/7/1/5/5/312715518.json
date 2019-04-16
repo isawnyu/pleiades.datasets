@@ -6,10 +6,47 @@
         21.8571001,
         32.8181345
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/373778",
+            "contributors": [],
+            "created": "2016-07-13T13:53:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "373778",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Cyrene",
+            "uri": "https://pleiades.stoa.org/places/312715518/373778"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/373778"
     ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
         {
             "homepage": null,
             "name": "Tom Elliott",
@@ -26,7 +63,7 @@
             "username": "vvitale"
         }
     ],
-    "description": "Very large Roman house in the acropolis ridge of Cyrene.",
+    "description": "A very large Roman house on the acropolis ridge of Cyrene.",
     "details": "<p>The complex is likely to have ingested a number of pre-existing buildings, and it is, for this reason, sometimes considered an insula more than a single unit. Some of the remarkable mosaics decorating the floors are still in place, other have been lifted and are now on display in museums. It also appears to be linked to the adjacent Temple of Hermes, Hall of the Orthostats and the Twin Temples (sometimes considered part of the House itself). Evidence suggests that it was already destroyed around the IV century AD.</p>",
     "features": [
         {
@@ -49,6 +86,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2018-11-03T01:20:19Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "moved extended description to details field",
             "modified": "2016-06-15T19:05:00Z",
@@ -87,10 +129,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-empire-late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [],
@@ -109,6 +154,10 @@
             "featureType": [
                 "townhouse",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/townhouse",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -133,6 +182,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/townhouse",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 423668584, version 1, osm:changeset=39889271, 2016-06-08T17:06:16Z)",
             "references": [
                 {
@@ -140,6 +193,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 423668584",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=423668584",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -156,10 +210,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "House of Jason Magnus",
@@ -198,6 +255,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.worldcat.org/title/cyrenaica/oclc/863572165",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Kenrick 2013, 163-7",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -208,6 +266,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Lonelyplanet.com, House of Jason Magnus",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -218,6 +277,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "vici.org: Cyrene, House of Jason Magnus",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -228,6 +288,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Livius.org: Cyrene, House of Jason Magnus",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -244,10 +305,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Casa di Giasone Magno",
@@ -286,6 +350,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.worldcat.org/title/architettura-cirenaica/oclc/2099264",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Stucchi 1975, 144, 147, 297-8, 309-11, 319, 322-5",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -296,6 +361,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Enciclopedia Treccani dell'arte antica, CIRENE",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -306,6 +372,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Luni 2006 (GoogleBooks), 50-1",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -316,6 +383,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Bacchielli & Stucchi 1983 (GoogleBooks), 89",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -326,6 +394,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Munzi 2004 (GoogleBooks), 21",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -336,6 +405,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Lonely Planet 2007 (GoogleBooks), LIBYA",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -352,14 +422,24 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Insula di Giasone Magno",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-06-13T16:50:19Z",
             "creators": [
                 {
@@ -373,6 +453,11 @@
             "details": "",
             "end": 2100,
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2018-11-03T01:20:55Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-06-15T12:39:26Z",
@@ -397,11 +482,12 @@
                 {
                     "accessURI": "",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.worldcat.org/title/paolino-mingazzini-linsula-di-giasone-magno-a-cirene-contributi-dellarchitetto-enrica-fiandra/oclc/460469993",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9IRRZSLR",
                     "citationDetail": "",
-                    "formattedCitation": "Mingazzini 1966, L'insula di Giasone Magno a Cirene",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Mingazzini, Paolino. <i>Paolino Mingazzini. L’Insula di Giasone Magno a Cirene ...: Contributi dell’architetto Enrica Fiandra.</i> Roma: L’Erma di Bretschneider, 1966.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Mingazzini 1966",
                     "type": "seeFurther"
                 },
                 {
@@ -409,6 +495,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Luni 2006 (GoogleBooks), 50",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -417,11 +504,12 @@
                 {
                     "accessURI": "https://it.wikipedia.org/wiki/Marmi_colorati_antichi",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (Italian), Marmi colorati antichi",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Marmi colorati antichi",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Marmi colorati antichi.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (Italian)",
                     "type": "seeFurther"
                 }
             ],
@@ -435,10 +523,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Casa dell'Ippocampo",
@@ -492,6 +583,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Touring Club Italiano: Libia  (GoogleBooks) 2006,  162",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -502,6 +594,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Luni 2006 (GoogleBooks), 51",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -512,6 +605,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Pensabene and Gasparini (Acedemia.edu)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -528,10 +622,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Casa del Mosaico Stellare",
@@ -595,6 +692,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Luni 2006 (GoogleBooks), 51",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -605,6 +703,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Pensabene and Gasparini (Acedemia.edu)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -615,6 +714,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Touring Club Italiano: Libia  (GoogleBooks) 2006,  162",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -629,6 +729,9 @@
             "uri": "https://pleiades.stoa.org/places/312715518/casa-del-mosaico-stellare"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/townhouse"
+    ],
     "placeTypes": [
         "townhouse"
     ],
@@ -637,21 +740,23 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "https://www.worldcat.org/title/architettura-cirenaica/oclc/2099264",
-            "citationDetail": "",
-            "formattedCitation": "Stucchi 1975, 144, 147, 297-8, 309-11, 319, 322-5",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MK6NMMWU",
+            "citationDetail": "144, 147, 297-8, 309-11, 319, 322-5",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Stucchi, Sandro. <i>Architettura Cirenaica</i>. Monografie Di Archeologia Libica 9. Roma: L’Erma di Bretschneider, 1975.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Stucchi 1975",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "https://www.worldcat.org/title/cyrenaica/oclc/863572165",
-            "citationDetail": "",
-            "formattedCitation": "Kenrick 2013, 163-7",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/F7T27BND",
+            "citationDetail": "163-7",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kenrick, Philip M, and Ahmed Buzaian. <i>Cyrenaica</i>. London, 2013.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Kenrick and Buzaian 2013",
             "type": "seeFurther"
         },
         {
@@ -659,6 +764,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.worldcat.org/title/cyrene-and-ancient-cyrenaica-a-guide-book/oclc/2684183",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Hyslop 1945, 35-7",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -667,11 +773,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "https://www.worldcat.org/title/paolino-mingazzini-linsula-di-giasone-magno-a-cirene-contributi-dellarchitetto-enrica-fiandra/oclc/460469993",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9IRRZSLR",
             "citationDetail": "",
-            "formattedCitation": "Mingazzini 1966, L'insula di Giasone Magno a Cirene",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Mingazzini, Paolino. <i>Paolino Mingazzini. L’Insula di Giasone Magno a Cirene ...: Contributi dell’architetto Enrica Fiandra.</i> Roma: L’Erma di Bretschneider, 1966.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Mingazzini 1966",
             "type": "seeFurther"
         },
         {
@@ -679,6 +786,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Luni 2006 (GoogleBooks), 50-1",
             "otherIdentifier": " ",
             "shortTitle": "",

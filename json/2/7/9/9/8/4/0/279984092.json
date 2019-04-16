@@ -6,6 +6,43 @@
         38.1137987,
         35.9884763
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "succeeds",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/succeeds",
+            "connectsTo": "https://pleiades.stoa.org/places/668208",
+            "contributors": [],
+            "created": "2016-12-19T21:08:52Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Müge Durusu",
+                    "uri": "https://pleiades.stoa.org/author/mdurusu",
+                    "username": "mdurusu"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2016-12-19T21:08:53Z",
+                    "modifiedBy": "mdurusu"
+                }
+            ],
+            "id": "barbalissus",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Barbalissus",
+            "uri": "https://pleiades.stoa.org/places/279984092/barbalissus"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/668208"
     ],
@@ -142,22 +179,31 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "akkadian-ur-iii-mesopotamia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "akkadian-ur-iii-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/akkadian-ur-iii-mesopotamia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "old-babylonian-assyrian-mesopotamia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "old-babylonian-assyrian-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-babylonian-assyrian-mesopotamia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "old-hittite-anatolia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "old-hittite-anatolia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-hittite-anatolia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "egyptian-hittite-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "egyptian-hittite-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/egyptian-hittite-levant"
                 }
             ],
             "contributors": [
@@ -194,6 +240,9 @@
             "end": -1212,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -286,6 +335,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "OpenStreetMap (Way 226877980, version 4, osm:changeset=44521496, 2016-12-19T17:51:37Z)",
             "references": [
                 {
@@ -293,6 +345,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 226877980",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=226877980",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -303,6 +356,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/34244364",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Chavalas, Mark. 1996. Emar: the history, religion, and culture of a Syrian town in the late Bronze Age. Bethesda: CDL Press.",
                     "otherIdentifier": "",
                     "shortTitle": "Chavals 1996",
@@ -319,10 +373,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "تل مسكنة‎‎",
@@ -352,13 +409,14 @@
             "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://en.wikipedia.org/w/index.php?title=Emar&oldid=754003118",
+                    "accessURI": "https://en.wikipedia.org/wiki/Emar",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "‘Emar’, Wikipedia, 2016 <https://en.wikipedia.org/w/index.php?title=Emar&oldid=754003118> [accessed 19 December 2016]",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Emar",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Emar.",
                     "otherIdentifier": "",
-                    "shortTitle": "Wikipedia, Emar",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "seeFurther"
                 }
             ],
@@ -372,18 +430,25 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "akkadian-ur-iii-mesopotamia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "akkadian-ur-iii-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/akkadian-ur-iii-mesopotamia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "old-babylonian-assyrian-mesopotamia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "old-babylonian-assyrian-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-babylonian-assyrian-mesopotamia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-bronze-age-anatolia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-bronze-age-anatolia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-bronze-age-anatolia"
                 }
             ],
             "attested": "",
@@ -435,6 +500,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/611927883",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Mark Chavalas, Emar: the history, religion, and culture of a Syrian town in the late Bronze Age (Bethesda: CDL Press, 1996)",
                     "otherIdentifier": "",
                     "shortTitle": "Chavalas 1996",
@@ -451,18 +517,25 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "akkadian-ur-iii-mesopotamia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "akkadian-ur-iii-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/akkadian-ur-iii-mesopotamia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "old-babylonian-assyrian-mesopotamia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "old-babylonian-assyrian-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/old-babylonian-assyrian-mesopotamia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-bronze-age-anatolia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-bronze-age-anatolia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-bronze-age-anatolia"
                 }
             ],
             "attested": "",
@@ -506,6 +579,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/title/bodies-of-knowledge-in-ancient-mesopotamia-the-diviners-of-late-bronze-age-emar-and-their-table-collection/oclc/842965826",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Rutz, Matthew. 2013. Bodies of Knowledge: The Diviners of Late Bronze Age Emar and Their Tablet Collection. Boston: Brill, pp. 45-48 ",
                     "otherIdentifier": "",
                     "shortTitle": "Rutz 2013",
@@ -520,6 +594,9 @@
             "uri": "https://pleiades.stoa.org/places/279984092/imar"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -530,6 +607,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/34244364",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Chavalas, Mark. 1996. Emar: the history, religion, and culture of a Syrian town in the late Bronze Age. Bethesda: CDL Press.",
             "otherIdentifier": "",
             "shortTitle": "Chavalas 1996",
@@ -538,11 +616,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Emar",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Emar",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Emar",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Emar.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -550,6 +629,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/title/reallexikon-der-assyriologie-8-bd-meek-mythologie/oclc/769816140&referer=brief_results",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Margueron, Jean-Claude. 1993. \"Meskene (Imar/Emar).\" Reallexicon der Assyriologie 8 (1/2): 84-93.",
             "otherIdentifier": "",
             "shortTitle": "Margueron 1993-1995",
@@ -560,6 +640,7 @@
             "alternateURI": "http://ddc.aub.edu.lb/projects/archaeology/berytus44/emar/index2.html",
             "bibliographicURI": "https://dialnet.unirioja.es/servlet/articulo?codigo=2613063",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Leisten, Thomas and Uwe Finkbeiner. 1999-2000. \"Emar & Balis 1996-1998. Preliminary Report of the Joint Syrian-German Excavations with the Collaboration of Princeton University.I. Emar 1996 and 1998.\" Berytus 44 (1999-2000): 5-34.",
             "otherIdentifier": "",
             "shortTitle": "Leisten and Finkbeiner 1999-2000",

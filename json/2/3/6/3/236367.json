@@ -1,11 +1,12 @@
 {
     "@type": "Place",
     "bbox": [
-        -10.0,
-        42.0,
-        -9.0,
-        43.0
+        -9.0318471,
+        42.6946001,
+        -9.0318471,
+        42.6946001
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -44,38 +45,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -10.0,
-                            42.0
-                        ],
-                        [
-                            -10.0,
-                            43.0
-                        ],
-                        [
-                            -9.0,
-                            43.0
-                        ],
-                        [
-                            -9.0,
-                            42.0
-                        ],
-                        [
-                            -10.0,
-                            42.0
-                        ]
-                    ]
+                    -9.0318471,
+                    42.6946001
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-castro-de-barona",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/236367/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/236367/location-of-castro-de-barona",
+                "location_precision": "precise",
+                "snippet": "Settlement; 30 BC - AD 300",
+                "title": "OSM location of Castro de Baroña"
             },
             "type": "Feature"
         }
@@ -111,95 +92,92 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T16:41:02Z",
+            "contributors": [],
+            "created": "2014-01-12T04:27:15Z",
             "creators": [
                 {
-                    "name": "E.W. Haley",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -10.0,
-                            42.0
-                        ],
-                        [
-                            -10.0,
-                            43.0
-                        ],
-                        [
-                            -9.0,
-                            43.0
-                        ],
-                        [
-                            -9.0,
-                            42.0
-                        ],
-                        [
-                            -10.0,
-                            42.0
-                        ]
-                    ]
+                    -9.0318471,
+                    42.6946001
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:21:28Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2016-12-11T19:00:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-01-12T04:27:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-01-12T04:27:17Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-castro-de-barona",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 24 B2 Baroña (Castro de)",
-            "references": [],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Node 444451262, version 4, osm:changeset=14548604, 2013-01-06T13:02:47Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/444451262",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 444451262",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=444451262",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/236367/batlas-location"
+            "start": -30,
+            "title": "OSM location of Castro de Baroña",
+            "uri": "https://pleiades.stoa.org/places/236367/location-of-castro-de-barona"
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -210,6 +188,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 24 B2 Baroña (Castro de)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -220,19 +199,21 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MUWQD6UC",
             "citationDetail": "31",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Porto: Conimbriga - Bracara - Lucus - Asturica</i>. Tabula Imperii Romani K29. Madrid: Ministerio de Cultura; Consejo Superior de Investigaciones Científicas (Spain); Comité Español de la Tabula Imperii Romani, 1993. http://www.worldcat.org/oclc/29332628.</div>",
             "otherIdentifier": "",
             "shortTitle": "TIR Conimbriga",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://es.wikipedia.org/wiki/Castro_de_Baro%C3%B1a",
+            "accessURI": "https://es.wikipedia.org/wiki/Castro_de_Baro%C3%B1a",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Spanish), Castro de Baroña",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/LPYQ8SZL",
+            "citationDetail": "Castro de Baroña",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: la enciclopedia de contenido libre (2001-), Castro de Baroña.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Spanish)",
             "type": "seeFurther"
         },
         {
@@ -240,6 +221,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 6354878",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -247,8 +229,8 @@
         }
     ],
     "reprPoint": [
-        -9.5,
-        42.5
+        -9.0318471,
+        42.6946001
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

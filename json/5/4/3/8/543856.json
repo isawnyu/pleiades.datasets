@@ -1,18 +1,53 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connectsWith": [],
-    "contributors": [
+    "connections": [
         {
-            "name": "G. Reger",
-            "username": null
-        },
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/540775",
+            "contributors": [],
+            "created": "2018-07-25T14:40:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2018-07-25T14:40:29Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "euboea-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Euboea (island)",
+            "uri": "https://pleiades.stoa.org/places/543856/euboea-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/540775"
+    ],
+    "contributors": [
         {
             "name": "R. Talbert",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "G. Reger",
             "username": null
         },
         {
@@ -20,6 +55,12 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-11-23T00:32:58Z",
@@ -78,10 +119,13 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -121,6 +165,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": null,
             "history": [
                 {
@@ -132,6 +179,9 @@
             "id": "batlas-location",
             "locationType": [
                 "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "provenance": "Barrington Atlas: BAtlas 55 Pyrrha",
             "references": [],
@@ -145,10 +195,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -206,6 +259,9 @@
             "uri": "https://pleiades.stoa.org/places/543856/pyrrha"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -216,6 +272,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 55 Pyrrha",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -226,6 +283,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Pyrrha-14",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Pyrrha 14",
             "otherIdentifier": "",
             "shortTitle": "",

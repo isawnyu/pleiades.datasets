@@ -6,6 +6,96 @@
         13.546243,
         37.479469
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/462492",
+            "contributors": [],
+            "created": "2016-07-13T13:45:38Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "462492",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sicilia (island)",
+            "uri": "https://pleiades.stoa.org/places/462337/462492"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/462229",
+            "contributors": [],
+            "created": "2016-12-30T15:09:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2017-08-01T14:00:29Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added cnxn",
+                    "modified": "2016-12-30T15:09:45Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "halykos-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=santangelo-muxaro",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "PECS (Perseus), SANT'ANGELO MUXARO (“Kamikos”) Sicily",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "Halykos (river)",
+            "uri": "https://pleiades.stoa.org/places/462337/halykos-river"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/462492",
         "https://pleiades.stoa.org/places/462229"
@@ -111,10 +201,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 }
             ],
             "contributors": [
@@ -135,6 +228,9 @@
             "end": -550,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -159,17 +255,21 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 28537",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "28537",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 28537.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -179,6 +279,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -189,6 +292,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 47 D4 Monte Castello di S. Angelo Muxaro",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -199,6 +303,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QQ284BBJ",
             "citationDetail": "313-14",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe. <i>Bibliografia topografica della colonizzazione Greca in Italia e nelle isole Tirreniche / 10 Siti : Messina - Monte Sannace</i>. Pisa: Scuola Normale Superiore, 1992. http://www.worldcat.org/oclc/165392582.</div>",
             "otherIdentifier": "",
             "shortTitle": "BTCGI X",
@@ -209,6 +314,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), SANT'ANGELO MUXARO (“Kamikos”) Sicily",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -219,6 +325,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Bresciani, E. 1997. \"SANT'ANGELO MUXARO.\" In Enciclopedia dell' Arte Antica",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -229,6 +336,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/255162991",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Palermo, D. and G. Rizza. 2004. La necropoli di Sant'Angelo Muxaro: scavi Orsi - Zanotti Bianco 1931 - 1932. Catania: Consiglio Nazionale delle Ricerche.",
             "otherIdentifier": " ",
             "shortTitle": "",

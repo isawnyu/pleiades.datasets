@@ -1,13 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        6.2559389,
-        49.5382311,
+        6.257967,
+        49.541499,
         6.257967,
         49.541499
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/109390",
+            "contributors": [],
+            "created": "2016-07-13T14:04:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "109390",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Treveri",
+            "uri": "https://pleiades.stoa.org/places/109279/109390"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/109390"
+        "https://pleiades.stoa.org/places/109390",
+        "https://pleiades.stoa.org/places/150310592",
+        "https://pleiades.stoa.org/places/710959513"
     ],
     "contributors": [
         {
@@ -74,42 +107,6 @@
                 "title": "DARMC location 14507"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    6.2559389,
-                    49.5382311
-                ],
-                "type": "Point"
-            },
-            "id": "vicus",
-            "properties": {
-                "description": "Remains of the Roman-era settlement at Dalheim.",
-                "link": "https://pleiades.stoa.org/places/109279/vicus",
-                "location_precision": "precise",
-                "snippet": "Settlement, ; 30 BC - AD 640",
-                "title": "Vicus"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    6.257026,
-                    49.5405672
-                ],
-                "type": "Point"
-            },
-            "id": "teater",
-            "properties": {
-                "description": "Location of the Gallo-Roman theater at Dalheim.",
-                "link": "https://pleiades.stoa.org/places/109279/teater",
-                "location_precision": "precise",
-                "snippet": "Theatre, ; 30 BC - AD 640",
-                "title": "location of theater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -171,14 +168,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -203,6 +205,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -232,220 +237,46 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 14507",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "14507",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 14507.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
             "title": "DARMC location 14507",
             "uri": "https://pleiades.stoa.org/places/109279/darmc-location-14507"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [],
-            "created": "2012-01-10T14:28:10Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "Remains of the Roman-era settlement at Dalheim.",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "settlement",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    6.2559389,
-                    49.5382311
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "description, type",
-                    "modified": "2012-11-14T18:40:28Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Baseline created",
-                    "modified": "2012-11-14T18:39:09Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:12:39Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:45:47Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Coordinates from OSM",
-                    "modified": "2012-01-10T14:29:52Z",
-                    "modifiedBy": "jahlfeldt"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2012-01-10T14:28:16Z",
-                    "modifiedBy": "jahlfeldt"
-                }
-            ],
-            "id": "vicus",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Pleiades",
-            "references": [],
-            "review_state": "published",
-            "start": -30,
-            "title": "Vicus",
-            "uri": "https://pleiades.stoa.org/places/109279/vicus"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                },
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                }
-            ],
-            "created": "2012-01-10T14:31:43Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "Location of the Gallo-Roman theater at Dalheim.",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "theatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    6.257026,
-                    49.5405672
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "corrected spelling of title",
-                    "modified": "2014-01-16T13:19:54Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "description, type",
-                    "modified": "2012-11-14T18:41:39Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Baseline created",
-                    "modified": "2012-11-14T18:40:43Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:12:39Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:45:47Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Coordinates from OSM",
-                    "modified": "2012-01-10T14:31:45Z",
-                    "modifiedBy": "jahlfeldt"
-                }
-            ],
-            "id": "teater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Pleiades",
-            "references": [],
-            "review_state": "published",
-            "start": -30,
-            "title": "location of theater",
-            "uri": "https://pleiades.stoa.org/places/109279/teater"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -506,10 +337,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -546,9 +380,11 @@
             "uri": "https://pleiades.stoa.org/places/109279/dalheim"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "settlement",
-        "theatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 11 G3 Ricciacum",
     "references": [
@@ -557,6 +393,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 11 G3 Ricciacum",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -567,6 +404,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/p.html#Petit-1994",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Petit 1994, 266-67 (no. 349)",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -577,6 +415,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "RFO 2011",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -587,6 +426,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), DALHEIM Luxembourg",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -597,25 +437,27 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Dalheim",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Dalheim_Ricciacum",
+            "accessURI": "https://en.wikipedia.org/wiki/Dalheim_Ricciacum",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Dalheim Ricciacum",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Dalheim Ricciacum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Dalheim Ricciacum.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        6.2569773,
-        49.5400991
+        6.257967,
+        49.541499
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,11 +1,12 @@
 {
     "@type": "Place",
     "bbox": [
-        8.0,
-        45.5,
-        8.5,
-        46.0
+        8.3999098,
+        45.7963526,
+        8.3999098,
+        45.7963526
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -48,38 +49,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            8.0,
-                            45.5
-                        ],
-                        [
-                            8.0,
-                            46.0
-                        ],
-                        [
-                            8.5,
-                            46.0
-                        ],
-                        [
-                            8.5,
-                            45.5
-                        ],
-                        [
-                            8.0,
-                            45.5
-                        ]
-                    ]
+                    8.3999098,
+                    45.7963526
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/383767/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/383767/osm-location",
+                "location_precision": "precise",
+                "snippet": "Island, ; AD 1700 - AD 2100",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
@@ -105,102 +86,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-15T17:58:44Z",
+            "contributors": [],
+            "created": "2014-11-18T05:01:45Z",
             "creators": [
                 {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "island",
+                ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            8.0,
-                            45.5
-                        ],
-                        [
-                            8.0,
-                            46.0
-                        ],
-                        [
-                            8.5,
-                            46.0
-                        ],
-                        [
-                            8.5,
-                            45.5
-                        ],
-                        [
-                            8.0,
-                            45.5
-                        ]
-                    ]
+                    8.3999098,
+                    45.7963526
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:36:27Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-11-18T05:02:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-11-18T05:01:51Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 39 C2 [S. Iulianus] Ins.",
-            "references": [],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "provenance": "OpenStreetMap (Node 964680850, version 3, osm:changeset=15203505, 2013-02-28T23:21:24Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/964680850",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 964680850",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=964680850",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": 300,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/383767/batlas-location"
+            "start": 1700,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/383767/osm-location"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -254,6 +230,9 @@
             "uri": "https://pleiades.stoa.org/places/383767/s-iulianus"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
+    ],
     "placeTypes": [
         "island"
     ],
@@ -264,6 +243,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 39 C2 [S. Iulianus] Ins.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -274,6 +254,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/p.html#Paul-Diac.",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Paul Diac., HL 4.3",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -282,17 +263,18 @@
         {
             "accessURI": "https://it.wikipedia.org/wiki/Isola_di_San_Giulio",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Isola di San Giulio",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Isola di San Giulio",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Isola di San Giulio.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        8.25,
-        45.75
+        8.3999098,
+        45.7963526
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

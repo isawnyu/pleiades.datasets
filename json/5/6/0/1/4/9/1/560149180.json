@@ -6,6 +6,37 @@
         15.2848558,
         37.0767995
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/462503",
+            "contributors": [],
+            "created": "2016-07-13T13:49:01Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "462503",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Syracusae/Syrakousai",
+            "uri": "https://pleiades.stoa.org/places/560149180/462503"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/462503"
     ],
@@ -73,10 +104,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-empire-late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [
@@ -102,6 +136,10 @@
             "featureType": [
                 "cemetery",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -131,6 +169,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 290930171, version 6, osm:changeset=28559469, 2015-02-02T01:33:44Z)",
             "references": [
                 {
@@ -138,6 +180,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 290930171",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=290930171",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -154,10 +197,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Catacomba di San Giovanni",
@@ -196,11 +242,12 @@
                 {
                     "accessURI": "https://it.wikipedia.org/wiki/Catacombe_di_Siracusa",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (Italian), Catacombe di Siracusa",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Catacombe di Siracusa",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Catacombe di Siracusa.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Wikipedia (Italian)",
                     "type": "seeFurther"
                 },
                 {
@@ -208,6 +255,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Museionline, Catacombe di San Giovanni e Cripta S. Marciano",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -218,6 +266,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Enciclopedia Treccani, Siracusa",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -232,6 +281,10 @@
             "uri": "https://pleiades.stoa.org/places/560149180/catacomba-di-san-giovanni"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
     "placeTypes": [
         "aqueduct",
         "cemetery"
@@ -241,11 +294,12 @@
         {
             "accessURI": "https://it.wikipedia.org/wiki/Catacombe_di_Siracusa",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Catacombe di Siracusa",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Catacombe di Siracusa",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Catacombe di Siracusa.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
         },
         {
@@ -253,6 +307,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/56932585",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Sgarlata, M. 2003. S. Giovanni a Siracusa. (\tCatacombe di Roma e d'Italia; 8). Vatican City: Pontificia commissione di archeologia sacra.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -263,6 +318,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/title/esplorazioni-nelle-catacombe-di-s-giovanni-ed-in-quelle-della-vigna-cassia-presso-siracusa/oclc/80398517",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Orsi, P. 1893. Esplorazioni nelle catacombe di S. Giovanni e in quelle di Vigna Cassia. Rome: R. Accad. dei Lincei.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -273,6 +329,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/title/catacombe-di-s-giovanni-in-siracusa-e-le-memorie-del-papa-eusebio/oclc/81606890",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Carini, I. 1890. Le catacombe di S. Giovanni in Siracusa e le memorie del Papa Eusebio. Rome: F. Cuggiani.",
             "otherIdentifier": " ",
             "shortTitle": "",

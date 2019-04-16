@@ -1,10 +1,41 @@
 {
     "@type": "Place",
     "bbox": [
-        12.435237,
-        41.899417,
+        12.4324,
+        41.89258,
         12.435237,
         41.899417
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/423025",
+            "contributors": [],
+            "created": "2016-07-13T14:01:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "423025",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Roma",
+            "uri": "https://pleiades.stoa.org/places/422860/423025"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423025"
@@ -68,6 +99,24 @@
                 "title": "DARMC location 23146"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4324,
+                    41.89258
+                ],
+                "type": "Point"
+            },
+            "id": "geohack-location-of-catacomba-di-calepodio",
+            "properties": {
+                "description": "Coordinates following GeoHack",
+                "link": "https://pleiades.stoa.org/places/422860/geohack-location-of-catacomba-di-calepodio",
+                "location_precision": "precise",
+                "snippet": "Cemetery; AD 300 - AD 640",
+                "title": "GeoHack location of Catacomba di Calepodio"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
@@ -119,14 +168,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -152,6 +206,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     12.435237,
@@ -170,6 +227,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 23146",
             "references": [
                 {
@@ -177,6 +237,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "23146",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 23146.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -187,20 +248,98 @@
             "start": -30,
             "title": "DARMC location 23146",
             "uri": "https://pleiades.stoa.org/places/422860/darmc-location-23146"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2018-02-18T01:00:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Coordinates following GeoHack",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "cemetery"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+            ],
+            "geometry": {
+                "coordinates": [
+                    12.4324,
+                    41.89258
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added GeoHack location",
+                    "modified": "2018-02-18T01:00:12Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "geohack-location-of-catacomba-di-calepodio",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://tools.wmflabs.org/geohack/geohack.php?language=it&pagename=Catacomba_di_Calepodio&params=41.89258_N_12.4324_E_type:landmark",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "GeoHack - Catacomba di Calepodio",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 300,
+            "title": "GeoHack location of Catacomba di Calepodio",
+            "uri": "https://pleiades.stoa.org/places/422860/geohack-location-of-catacomba-di-calepodio"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -254,6 +393,9 @@
             "uri": "https://pleiades.stoa.org/places/422860/calepodius"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
     "placeTypes": [
         "cemetery"
     ],
@@ -264,6 +406,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 43 B2 Calepodius",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -274,6 +417,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JPUXRUFP",
             "citationDetail": "index Calepodio",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Testini, Pasquale. <i>Le Catacombe e Gli Antichi Cimiteri Cristiani in Roma</i>. Roma Cristiana 2. Bologna: Cappelli, 1966.</div>",
             "otherIdentifier": "",
             "shortTitle": "Testini 1966",
@@ -282,8 +426,9 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Catacomb_of_Calepodius",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Catacomb of Calepodius",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Catacomb of Calepodius.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -294,6 +439,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TEHWC86A",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Nestori, A. “La catacomba di Calepodio al III miglio dell’Aurelia vetus e i sepolcri dei papi Callisto I e Giulio I.” In <i>Rivista di archeologia cristiana, 48.1972</i>, 193–233, Abb, 1972.</div>",
             "otherIdentifier": "",
             "shortTitle": "Nestori 1972",
@@ -304,6 +450,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QRQ8WNID",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Giambattista di s. Giuseppe. <i>Il cemeterio di Calepodio, ovvero La chiesa di s. Pancrazio martire</i>. Perugia: F. Calvieri, 1816.</div>",
             "otherIdentifier": "",
             "shortTitle": "Giambattista di s. Giuseppe 1816",
@@ -314,6 +461,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UEKWS5M6",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Mazzoleni, Danilo, Anna Maria Nieddu, and Maria Busia. “Le iscrizioni della catacomba di Calepodio,” 1999, 597–694.</div>",
             "otherIdentifier": "",
             "shortTitle": "Mazzoleni 1999",
@@ -324,6 +472,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4YHYYUJP",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Minasi, Mara. <i>La tomba di Callisto: appunti sugli affreschi altomedievali della cripta del papa martire nella catacomba di Calepodio</i>. Scavi e restauri 6. Citta del Vaticano: Pontificia Commissione di Archeologia Sacra, 2009.</div>",
             "otherIdentifier": "",
             "shortTitle": "Minasi 2009",
@@ -331,8 +480,8 @@
         }
     ],
     "reprPoint": [
-        12.435237,
-        41.899417
+        12.433818500000001,
+        41.895998500000005
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

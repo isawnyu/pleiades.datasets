@@ -1,11 +1,12 @@
 {
     "@type": "Place",
     "bbox": [
-        26.0,
-        40.0,
-        26.5,
-        40.5
+        26.1989554,
+        40.0078372,
+        26.1989554,
+        40.0078372
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -52,38 +53,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            40.0
-                        ],
-                        [
-                            26.0,
-                            40.5
-                        ],
-                        [
-                            26.5,
-                            40.5
-                        ],
-                        [
-                            26.5,
-                            40.0
-                        ],
-                        [
-                            26.0,
-                            40.0
-                        ]
-                    ]
+                    26.1989554,
+                    40.0078372
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/550878/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Undetermined location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/550878/osm-location",
+                "location_precision": "precise",
+                "snippet": "Cape, ; AD 1700 - AD 2100",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
@@ -114,97 +95,91 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2009-10-15T08:35:59Z",
+            "contributors": [],
+            "created": "2015-01-11T00:09:40Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cape",
+                ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cape",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            40.0
-                        ],
-                        [
-                            26.0,
-                            40.5
-                        ],
-                        [
-                            26.5,
-                            40.5
-                        ],
-                        [
-                            26.5,
-                            40.0
-                        ],
-                        [
-                            26.0,
-                            40.0
-                        ]
-                    ]
+                    26.1989554,
+                    40.0078372
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:21:48Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2015-01-11T00:10:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-01-11T00:09:44Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 56 C1 Sigeion Pr.",
-            "references": [],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cape",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "provenance": "OpenStreetMap (Node 959687558, version 1, osm:changeset=6130869, 2010-10-21T19:41:44Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/959687558",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 959687558",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=959687558",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/550878/undetermined"
+            "start": 1700,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/550878/osm-location"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -261,6 +236,9 @@
             "uri": "https://pleiades.stoa.org/places/550878/Sigeion-Pr"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cape"
+    ],
     "placeTypes": [
         "cape"
     ],
@@ -271,6 +249,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 56 C1 Sigeion Pr.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -281,6 +260,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Sigeion-Pr.-1",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Sigeion Pr. 1",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -291,6 +271,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), SIGÉUM",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -298,13 +279,13 @@
         }
     ],
     "reprPoint": [
-        26.25,
-        40.25
+        26.1989554,
+        40.0078372
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Sigeion Pr.",
+    "title": "Sigeion (promontory)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/550878"
 }

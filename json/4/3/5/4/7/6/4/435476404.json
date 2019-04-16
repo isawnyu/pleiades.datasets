@@ -1,13 +1,47 @@
 {
     "@type": "Place",
     "bbox": [
-        10.8618828,
-        43.4064711,
+        10.859019,
+        43.401431,
         10.8618828,
         43.4064711
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": [
+                "at"
+            ],
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectsTo": "https://pleiades.stoa.org/places/403292",
+            "contributors": [],
+            "created": "2017-02-09T18:20:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "4106210748",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Velathri/Volaterrae",
+            "uri": "https://pleiades.stoa.org/places/435476404/4106210748"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/403292"
+        "https://pleiades.stoa.org/places/403292",
+        "https://pleiades.stoa.org/places/389174846"
     ],
     "contributors": [],
     "created": "2017-02-09T18:20:06Z",
@@ -27,26 +61,7 @@
     ],
     "description": "The archaeological remains of an amphitheater were discovered at Volterra in 2015. Preliminary work suggests that the structure measured ca. 70 x 90 meters and had three tiers of seats that could accommodate 8,000 to 10,000 spectators.",
     "details": "",
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    10.8618828,
-                    43.4064711
-                ],
-                "type": "Point"
-            },
-            "id": "osm-location-of-roman-amphitheater",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/435476404/osm-location-of-roman-amphitheater",
-                "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
-                "title": "OSM location of Roman amphitheater"
-            },
-            "type": "Feature"
-        }
-    ],
+    "features": [],
     "history": [
         {
             "comment": "added reference",
@@ -75,78 +90,11 @@
         }
     ],
     "id": "435476404",
-    "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2015-08-07T21:20:16Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "amphitheatre",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    10.8618828,
-                    43.4064711
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2015-08-07T21:23:50Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2015-08-07T21:20:19Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "osm-location-of-roman-amphitheater",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Node 3685449675, version 1, osm:changeset=33177383, 2015-08-07T11:27:49Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/3685449675",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 3685449675",
-                    "formattedCitation": "osm:node=3685449675",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Roman amphitheater",
-            "uri": "https://pleiades.stoa.org/places/435476404/osm-location-of-roman-amphitheater"
-        }
-    ],
+    "locations": [],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
+    ],
     "placeTypes": [
         "amphitheatre"
     ],
@@ -157,6 +105,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PC7JTEDI",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Gasperetti, Marco. “Volterra, scoperto un anfiteatro romano: «Evento straordinario».” <i>Corriere della Sera</i>, August 7, 2015. http://www.corriere.it/cronache/15_agosto_07/volterra-scoperto-anfiteatro-romano-evento-straordinario-89ef8e5a-3cc5-11e5-a4eb-434f037f8e1f.shtml.</div>",
             "otherIdentifier": "",
             "shortTitle": "Gasperetti 2015",
@@ -164,8 +113,8 @@
         }
     ],
     "reprPoint": [
-        10.8618828,
-        43.4064711
+        10.86097265,
+        43.40403755
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

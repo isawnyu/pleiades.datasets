@@ -6,6 +6,43 @@
         23.7392332,
         38.0591618
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/580034",
+            "contributors": [],
+            "created": "2019-02-26T22:09:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-02-26T22:09:08Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "nemesis",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Nemesis",
+            "uri": "https://pleiades.stoa.org/places/137893603/nemesis"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/580034"
     ],
@@ -101,10 +138,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
             "contributors": [],
@@ -122,6 +162,9 @@
             "end": -1000,
             "featureType": [
                 "tomb"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "geometry": {
                 "coordinates": [
@@ -170,6 +213,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+            ],
             "provenance": "OpenStreetMap (Way 188262191, version 2, osm:changeset=67598386, 2019-02-26T22:13:19Z)",
             "references": [
                 {
@@ -177,6 +223,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 188262191",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=188262191",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -193,10 +240,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Θολωτός τάφος στις Αχαρνές",
@@ -230,6 +280,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KADCFN2V",
                     "citationDetail": "Θολωτός τάφος στις Αχαρνές",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "<div class=\"csl-entry\">Υπουργείο Πολιτισμού και Αθλητισμού. “ΟΔΥΣΣΕΑΣ,” 2012. http://odysseus.culture.gr/.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Odysseus",
@@ -244,6 +295,9 @@
             "uri": "https://pleiades.stoa.org/places/137893603/tholotos-taphos-stis-acharnes"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+    ],
     "placeTypes": [
         "tomb"
     ],
@@ -254,6 +308,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BH284FC4",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Deutschen Archaeologischen Institute, ed. <i>Das Kuppelgrab Bei Menidi</i>. Athen: Wilberg, 1880.</div>",
             "otherIdentifier": "",
             "shortTitle": "Das Kuppelgrab bei Menidi",
@@ -264,6 +319,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/L8RBW985",
             "citationDetail": "Category:Tomb of Menidi",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">“Wikimedia Commons.” Media file repository. Wikimedia Commons, 2004. https://commons.wikimedia.org/wiki/Main_Page.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikimedia Commons",
@@ -274,6 +330,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z53ZGZC2",
             "citationDetail": "275",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Camp, John McK. <i>The Archaeology of Athens</i>. New Haven: Yale University Press, 2001.</div>",
             "otherIdentifier": "",
             "shortTitle": "Camp 2001",
@@ -284,6 +341,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KADCFN2V",
             "citationDetail": "Θολωτός τάφος στις Αχαρνές",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Υπουργείο Πολιτισμού και Αθλητισμού. “ΟΔΥΣΣΕΑΣ,” 2012. http://odysseus.culture.gr/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Odysseus",

@@ -3,26 +3,20 @@
     "bbox": [
         16.583036,
         47.684893,
-        16.656715,
-        47.741411
+        16.583036,
+        47.684893
     ],
-    "connectsWith": [],
+    "connections": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/538129499",
+        "https://pleiades.stoa.org/places/594242501"
+    ],
     "contributors": [
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -32,15 +26,25 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
         },
         {
             "homepage": null,
-            "name": "Perry Scalfano",
-            "uri": "https://pleiades.stoa.org/author/pscalfano",
-            "username": "pscalfano"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
         },
         {
             "name": "R. Talbert",
@@ -48,9 +52,9 @@
         },
         {
             "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
+            "name": "Perry Scalfano",
+            "uri": "https://pleiades.stoa.org/author/pscalfano",
+            "username": "pscalfano"
         }
     ],
     "created": "2018-06-07T22:57:27Z",
@@ -82,24 +86,6 @@
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
                 "title": "DARMC location 14630"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    16.656715,
-                    47.741411
-                ],
-                "type": "Point"
-            },
-            "id": "mithraeum-at-fertorakos-at-scarbantia",
-            "properties": {
-                "description": "Well preserved Mithraeum with modern stone vault above ground and site below in Fertőrákos, Hungary at the site of ancient Scarbantia",
-                "link": "https://pleiades.stoa.org/places/197501/mithraeum-at-fertorakos-at-scarbantia",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Mithraeum at Fertőrákos at Scarbantia"
             },
             "type": "Feature"
         }
@@ -163,14 +149,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -195,6 +186,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -224,6 +218,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 14630",
             "references": [
                 {
@@ -231,6 +228,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "14630",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 14630.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -241,83 +239,25 @@
             "start": -30,
             "title": "DARMC location 14630",
             "uri": "https://pleiades.stoa.org/places/197501/darmc-location-14630"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoimage-austria-imagery-2012",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2012-03-23T20:15:33Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Perry Scalfano",
-                    "uri": "https://pleiades.stoa.org/author/pscalfano",
-                    "username": "pscalfano"
-                }
-            ],
-            "description": "Well preserved Mithraeum with modern stone vault above ground and site below in Fertőrákos, Hungary at the site of ancient Scarbantia",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    16.656715,
-                    47.741411
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Initial revision",
-                    "modified": "2012-03-23T20:15:36Z",
-                    "modifiedBy": "pscalfano"
-                }
-            ],
-            "id": "mithraeum-at-fertorakos-at-scarbantia",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "http://www.mithras.hu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Mithras, Mithras sanctuary Fertőrákos, 2006",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "Mithraeum at Fertőrákos at Scarbantia",
-            "uri": "https://pleiades.stoa.org/places/197501/mithraeum-at-fertorakos-at-scarbantia"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -378,10 +318,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -418,9 +361,11 @@
             "uri": "https://pleiades.stoa.org/places/197501/sopron-scarbantia"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "settlement",
-        "amphitheatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 20 D2 Scarbantia",
     "references": [
@@ -429,6 +374,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 20 D2 Scarbantia",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -439,6 +385,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Scarbantia",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Scarbantia",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -449,6 +396,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/g.html#Gömöri-1995",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Gömöri 1995",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -459,6 +407,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "RFO 5554",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -469,6 +418,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), SCARBANTIA or Scarabantia (Sopron) Hungary",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -479,6 +429,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 28829",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -489,6 +440,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Sopron",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Sopron.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -499,6 +451,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Plin. HN (Mayhoff: PHI) 3.146.6",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -509,6 +462,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), SCARABÁNTIA",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -519,6 +473,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
             "citationDetail": "Scarbantia (Noricum)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
@@ -526,8 +481,8 @@
         }
     ],
     "reprPoint": [
-        16.6198755,
-        47.713152
+        16.583036,
+        47.684893
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

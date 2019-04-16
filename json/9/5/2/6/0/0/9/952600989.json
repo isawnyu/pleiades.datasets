@@ -6,6 +6,74 @@
         9.2078824,
         35.853336
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": [
+                "at"
+            ],
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectsTo": "https://pleiades.stoa.org/places/324774",
+            "contributors": [],
+            "created": "2018-05-07T01:10:56Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "4563117202",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Mactaris",
+            "uri": "https://pleiades.stoa.org/places/952600989/4563117202"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "bounds",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/bounds",
+            "connectsTo": "https://pleiades.stoa.org/places/329343086",
+            "contributors": [],
+            "created": "2018-05-07T15:02:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2018-05-07T15:03:05Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "forum-of-mactaris",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Forum of Mactaris",
+            "uri": "https://pleiades.stoa.org/places/952600989/forum-of-mactaris"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/324774",
         "https://pleiades.stoa.org/places/329343086"
@@ -66,10 +134,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -87,6 +158,9 @@
             "end": 300,
             "featureType": [
                 "arch"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
             "geometry": {
                 "coordinates": [
@@ -116,6 +190,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
+            ],
             "provenance": "OpenStreetMap (Node 2146717495, version 1, osm:changeset=14957838, 2013-02-08T16:34:57Z)",
             "references": [
                 {
@@ -123,6 +200,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 2146717495",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=2146717495",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -136,6 +214,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/arch"
+    ],
     "placeTypes": [
         "arch"
     ],
@@ -146,6 +227,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Maktar",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
@@ -156,6 +238,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), MACTARIS (Mactar) Tunisia",
             "otherIdentifier": "",
             "shortTitle": "",

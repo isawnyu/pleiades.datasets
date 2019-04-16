@@ -6,6 +6,7 @@
         3.9658718,
         43.6365403
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -80,10 +81,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -109,6 +113,10 @@
             "featureType": [
                 "monument",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -154,6 +162,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Node 2734357593, version 1, osm:changeset=21247981, 2014-03-22T17:07:55Z)",
             "references": [
                 {
@@ -161,6 +173,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 2734357593",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=2734357593",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -174,19 +187,23 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/monument"
+    ],
     "placeTypes": [
         "monument"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://fr.wikipedia.org/wiki/Borne_milliaire_de_Saint-Aun%C3%A8s",
+            "accessURI": "https://fr.wikipedia.org/wiki/Borne_milliaire_de_Saint-Aun%C3%A8s",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (French), Borne milliaire de Saint-Aunès",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
+            "citationDetail": "Borne milliaire de Saint-Aunès",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), Borne milliaire de Saint-Aunès.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (French)",
             "type": "seeFurther"
         },
         {
@@ -194,6 +211,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "CIL 17-02, 00277 = CIL 12, 05657",
             "otherIdentifier": " ",
             "shortTitle": "",

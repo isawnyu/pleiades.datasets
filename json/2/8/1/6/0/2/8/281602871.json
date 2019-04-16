@@ -6,6 +6,107 @@
         50.3708068,
         40.596683
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/863766",
+            "contributors": [],
+            "created": "2018-04-24T15:25:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2018-04-24T15:27:37Z",
+                    "modifiedBy": "gmckee"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2018-04-24T15:25:21Z",
+                    "modifiedBy": "gmckee"
+                }
+            ],
+            "id": "caucasus-mountain-range",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7WD8HVKA",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Äliyev, İdris, and Fikrät Abdullayev. <i>Namälum Abşeron = Unknown Absheron = Neizvestnyĭ Absheron</i>. Baku: Digital Age Production, 2011.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Äliyev and Abdullayev 2011",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Caucasus (mountain range)",
+            "uri": "https://pleiades.stoa.org/places/281602871/caucasus-mountain-range"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/884130",
+            "contributors": [],
+            "created": "2018-04-24T15:26:35Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2018-04-24T15:26:36Z",
+                    "modifiedBy": "gmckee"
+                }
+            ],
+            "id": "caspium-hyrcanium-mare",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7WD8HVKA",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Äliyev, İdris, and Fikrät Abdullayev. <i>Namälum Abşeron = Unknown Absheron = Neizvestnyĭ Absheron</i>. Baku: Digital Age Production, 2011.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Äliyev and Abdullayev 2011",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Caspium/Hyrcanium Mare",
+            "uri": "https://pleiades.stoa.org/places/281602871/caspium-hyrcanium-mare"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/863766",
         "https://pleiades.stoa.org/places/884130"
@@ -139,10 +240,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -167,6 +271,9 @@
             "end": 2100,
             "featureType": [
                 "peninsula"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/peninsula"
             ],
             "geometry": {
                 "coordinates": [
@@ -256,6 +363,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/peninsula"
+            ],
             "provenance": "OpenStreetMap (Way 190514668, version 33, osm:changeset=46837811, 2017-03-14T11:32:15Z)",
             "references": [
                 {
@@ -263,6 +373,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 190514668",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=190514668",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -276,6 +387,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/peninsula"
+    ],
     "placeTypes": [
         "peninsula"
     ],
@@ -286,6 +400,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7WD8HVKA",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Äliyev, İdris, and Fikrät Abdullayev. <i>Namälum Abşeron = Unknown Absheron = Neizvestnyĭ Absheron</i>. Baku: Digital Age Production, 2011.</div>",
             "otherIdentifier": "",
             "shortTitle": "Äliyev 2011",
@@ -296,6 +411,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Absheron Peninsula",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",

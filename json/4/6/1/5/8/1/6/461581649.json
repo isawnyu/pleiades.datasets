@@ -6,6 +6,81 @@
         12.5256048,
         41.855223
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": [
+                "at"
+            ],
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectsTo": "https://pleiades.stoa.org/places/423129",
+            "contributors": [],
+            "created": "2018-11-27T13:23:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "9906943874",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Villa Maxentii",
+            "uri": "https://pleiades.stoa.org/places/461581649/9906943874"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/356966898",
+            "contributors": [],
+            "created": "2018-11-29T23:39:35Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2018-11-29T23:39:36Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "via-appia",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": 300,
+            "title": "Via Appia",
+            "uri": "https://pleiades.stoa.org/places/461581649/via-appia"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423129",
         "https://pleiades.stoa.org/places/356966898"
@@ -180,10 +255,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [],
@@ -201,6 +279,9 @@
             "end": 640,
             "featureType": [
                 "circus"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/circus"
             ],
             "geometry": {
                 "coordinates": [
@@ -337,6 +418,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/circus"
+            ],
             "provenance": "OpenStreetMap (Relation 1650490, version 8, osm:changeset=56552958, 2018-02-21T15:25:59Z)",
             "references": [
                 {
@@ -344,6 +428,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Relation 1650490",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:relation=1650490",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -357,6 +442,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/circus"
+    ],
     "placeTypes": [
         "circus"
     ],
@@ -367,6 +455,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
             "citationDetail": "Q1457351",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
@@ -377,6 +466,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Circus of Maxentius",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
@@ -387,6 +477,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
             "citationDetail": "23841",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Lund, Sweden: Department of Archaeology and Ancient History, Lund University, Sweden, 2015. http://dare.ht.lu.se/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARE",

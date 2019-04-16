@@ -6,8 +6,13 @@
         26.8202731,
         37.2055975
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
         {
             "homepage": null,
             "name": "Sean Gillies",
@@ -19,10 +24,6 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
         },
         {
             "homepage": null,
@@ -57,44 +58,6 @@
     "description": "An ancient place, cited: BAtlas 61 D3 Argiai Inss.",
     "details": "The Barrington Atlas Directory notes: Strongili and Airilousa GRE",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            26.5,
-                            37.0
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            27.0,
-                            37.5
-                        ],
-                        [
-                            27.0,
-                            37.0
-                        ],
-                        [
-                            26.5,
-                            37.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "undetermined",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/599515/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Undetermined location"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -140,97 +103,16 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-15T09:03:41Z",
-            "creators": [
-                {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            26.5,
-                            37.0
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            27.0,
-                            37.5
-                        ],
-                        [
-                            27.0,
-                            37.0
-                        ],
-                        [
-                            26.5,
-                            37.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:56:34Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 61 D3 Argiai Inss.",
-            "references": [],
-            "review_state": "published",
-            "start": null,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599515/undetermined"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -256,6 +138,10 @@
             "featureType": [
                 "island",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -286,6 +172,10 @@
                 "associated_modern",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 4890961, version 1, osm:changeset=142262, 2007-07-12T19:35:56Z)",
             "references": [
                 {
@@ -293,6 +183,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 4890961",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=4890961",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -309,6 +200,7 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -361,6 +253,10 @@
             "uri": "https://pleiades.stoa.org/places/599515/argiai"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/archipelago",
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
+    ],
     "placeTypes": [
         "archipelago",
         "island"
@@ -372,6 +268,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 61 D3 Argiai Inss.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -382,6 +279,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Hyetussa",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Hyetussa",
             "otherIdentifier": "",
             "shortTitle": "",

@@ -1,11 +1,12 @@
 {
     "@type": "Place",
     "bbox": [
-        21.0,
-        38.0,
-        21.5,
-        38.5
+        21.4827733,
+        38.4577761,
+        21.4827733,
+        38.4577761
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -52,38 +53,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.0,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.5
-                        ],
-                        [
-                            21.5,
-                            38.5
-                        ],
-                        [
-                            21.5,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.0
-                        ]
-                    ]
+                    21.4827733,
+                    38.4577761
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-arakinthos-mountain",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/540656/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/540656/osm-location-of-arakinthos-mountain",
+                "location_precision": "precise",
+                "snippet": "Mountain, ; AD 1700 - AD 2100",
+                "title": "OSM location of Arakinthos (mountain)"
             },
             "type": "Feature"
         }
@@ -109,97 +90,91 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
                 {
-                    "name": "G. Reger",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-11-23T00:35:18Z",
+            "contributors": [],
+            "created": "2013-12-24T12:53:31Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain",
+                ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.0,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.5
-                        ],
-                        [
-                            21.5,
-                            38.5
-                        ],
-                        [
-                            21.5,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.0
-                        ]
-                    ]
+                    21.4827733,
+                    38.4577761
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:04:15Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2013-12-24T12:54:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-12-24T12:53:35Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-arakinthos-mountain",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 55 A4 Arakynthos M.",
-            "references": [],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "provenance": "OpenStreetMap (Node 26862498, version 4, osm:changeset=12857069, 2012-08-25T17:17:52Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/26862498",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26862498",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=26862498",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/540656/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Arakinthos (mountain)",
+            "uri": "https://pleiades.stoa.org/places/540656/osm-location-of-arakinthos-mountain"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -256,6 +231,9 @@
             "uri": "https://pleiades.stoa.org/places/540656/Arakynthos-M"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+    ],
     "placeTypes": [
         "mountain"
     ],
@@ -266,6 +244,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 55 A4 Arakynthos M.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -276,6 +255,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Arakynthos-M.-1",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Arakynthos M. 1",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -283,8 +263,8 @@
         }
     ],
     "reprPoint": [
-        21.25,
-        38.25
+        21.4827733,
+        38.4577761
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

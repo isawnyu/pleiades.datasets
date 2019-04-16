@@ -6,6 +6,37 @@
         23.1824707,
         38.4858534
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/540789",
+            "contributors": [],
+            "created": "2016-07-13T13:52:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "540789",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Gla",
+            "uri": "https://pleiades.stoa.org/places/464482221/540789"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/540789"
     ],
@@ -125,10 +156,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-helladic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-helladic"
                 }
             ],
             "contributors": [
@@ -153,6 +187,9 @@
             "end": -1200,
             "featureType": [
                 "architecturalcomplex"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
             ],
             "geometry": {
                 "coordinates": [
@@ -209,6 +246,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
+            ],
             "provenance": "OpenStreetMap (Way 546119741, version 2, osm:changeset=54541333, 2017-12-11T14:17:25Z)",
             "references": [
                 {
@@ -216,6 +256,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 546119741",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=546119741",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -232,10 +273,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -297,6 +341,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6MEP4TDN",
                     "citationDetail": "99",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "<div class=\"csl-entry\">Iakōvidēs, Spyros. <i>Late Helladic Citadels on Mainland Greece</i>. Leiden: E.J. Brill, 1983. http://www.worldcat.org/oclc/9563888.</div>",
                     "otherIdentifier": " ",
                     "shortTitle": "Iakōvidēs 1983",
@@ -311,6 +356,9 @@
             "uri": "https://pleiades.stoa.org/places/464482221/name.2015-05-03.5646786539"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
+    ],
     "placeTypes": [
         "architecturalcomplex"
     ],
@@ -321,6 +369,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/X5JTPU4A",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Jones, Glynis. “Charred Grain from Late Bronze Age Gla, Boiotia.” <i>The Annual of the British School at Athens</i> 90 (1995): 235–38. http://www.jstor.org/stable/30104523.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Jones 1995",
@@ -331,6 +380,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7E3CUKA6",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Field, Donald. “Review of Late Helladic Citadels on Mainland Greece.” <i>The Journal of Hellenic Studies</i> 104 (1984): 245–46. https://doi.org/10.2307/630371.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Review of Late Helladic Citadels on Mainland Greece",
@@ -339,8 +389,9 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Gla#Palace",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Gla",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Gla.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -351,6 +402,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NUMMIAK9",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "<div class=\"csl-entry\">Brysbaert, Ann. “Lapis Lazuli in an Enigmatic ‘Purple’ Pigment from a Thirteenth-Century BC Greek Wall Painting.” <i>Studies in Conservation</i> 51, no. 4 (2006): 252–66. http://www.jstor.org/stable/20619462.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Brysbaert 2006",
@@ -361,6 +413,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6MEP4TDN",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Iakōvidēs, Spyros. <i>Late Helladic Citadels on Mainland Greece</i>. Leiden: E.J. Brill, 1983. http://www.worldcat.org/oclc/9563888.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Iakōvidēs 1983",

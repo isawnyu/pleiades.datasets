@@ -1,13 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        12.126772,
-        44.188767,
+        12.1250151,
+        44.1877011,
         12.126772,
         44.188767
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/66908841",
+            "contributors": [],
+            "created": "2016-07-13T13:34:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "66908841",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Aemilia",
+            "uri": "https://pleiades.stoa.org/places/393427/66908841"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/66908841"
+        "https://pleiades.stoa.org/places/66908841",
+        "https://pleiades.stoa.org/places/436403",
+        "https://pleiades.stoa.org/places/396393"
     ],
     "contributors": [
         {
@@ -72,6 +105,24 @@
                 "title": "DARMC location 18454"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.1250151,
+                    44.1877011
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-modern-forlimpopoli",
+            "properties": {
+                "description": "Representative point of the modern administrative center based on a node derived from OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/393427/osm-location-of-modern-forlimpopoli",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of modern Forlimpopoli"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
@@ -123,14 +174,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -160,6 +216,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     12.126772,
@@ -183,37 +242,124 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 18454",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "18454",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18454.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
             "title": "DARMC location 18454",
             "uri": "https://pleiades.stoa.org/places/393427/darmc-location-18454"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [],
+            "created": "2018-04-06T04:40:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative point of the modern administrative center based on a node derived from OpenStreetMap.",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    12.1250151,
+                    44.1877011
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2018-04-06T04:41:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-04-06T04:40:26Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-modern-forlimpopoli",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 69300356, version 4, osm:changeset=47389387, 2017-04-02T18:19:37Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/69300356",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 69300356",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=69300356",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "OSM location of modern Forlimpopoli",
+            "uri": "https://pleiades.stoa.org/places/393427/osm-location-of-modern-forlimpopoli"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -281,6 +427,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Plin. HN 3.116.2",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -295,8 +442,13 @@
             "uri": "https://pleiades.stoa.org/places/393427/forum-popilii"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+    ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 40 C4 Forum Popilii",
     "references": [
@@ -305,6 +457,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 40 C4 Forum Popilii",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -315,6 +468,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/e.html#EA-Forlì-32-36",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "EA Forlì 32-36",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -323,11 +477,12 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Forum_Popilii",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Forum Popilii",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Forum Popilii",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Forum Popilii.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -335,6 +490,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), FORUM POPILII",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -345,6 +501,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "TP 4B1 (Talbert 1154)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -355,6 +512,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Plin. HN 3.116.2",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -365,6 +523,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), FORUM POPILI (Forlimpopoli) Emilia-Romagna, Italy",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -372,8 +531,8 @@
         }
     ],
     "reprPoint": [
-        12.126772,
-        44.188767
+        12.12589355,
+        44.18823405
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

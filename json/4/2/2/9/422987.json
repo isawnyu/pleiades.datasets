@@ -1,37 +1,57 @@
 {
     "@type": "Place",
     "bbox": [
-        12.9601743,
-        41.5898051,
-        12.9643921,
+        12.960278,
+        41.591667,
+        12.9643888,
         41.5928282
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/423067",
+            "contributors": [],
+            "created": "2016-07-13T14:01:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "423067",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Serrone di Bove",
+            "uri": "https://pleiades.stoa.org/places/422987/423067"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423067",
         "https://pleiades.stoa.org/places/432901",
         "https://pleiades.stoa.org/places/423114",
+        "https://pleiades.stoa.org/places/76301894",
+        "https://pleiades.stoa.org/places/674237647",
+        "https://pleiades.stoa.org/places/394511385",
+        "https://pleiades.stoa.org/places/24162247",
         "https://pleiades.stoa.org/places/432223403",
-        "https://pleiades.stoa.org/places/426633",
-        "https://pleiades.stoa.org/places/24162247"
+        "https://pleiades.stoa.org/places/426633"
     ],
     "contributors": [
         {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -41,13 +61,27 @@
         },
         {
             "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
             "name": "Adam Rabinowitz",
             "uri": "https://pleiades.stoa.org/author/arabinowitz",
             "username": "arabinowitz"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-08T10:11:40Z",
@@ -85,24 +119,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.9630436,
-                    41.5898051
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-minor-acropolis",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/422987/location-of-minor-acropolis",
-                "location_precision": "precise",
-                "snippet": "Temple-2, ; 750 BC - 30 BC",
-                "title": "OSM location of Minor Acropolis"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     12.9643888,
                     41.5928282
                 ],
@@ -115,42 +131,6 @@
                 "location_precision": "precise",
                 "snippet": "Fort, City-wall, ; 550 BC - 30 BC",
                 "title": "OSM location of square tower"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    12.9601743,
-                    41.5925854
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-forum-of-luna",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/422987/location-of-forum-of-luna",
-                "location_precision": "precise",
-                "snippet": "Plaza, ; 550 BC - 30 BC",
-                "title": "location of forum of Norba"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    12.9643921,
-                    41.5899781
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-porta-maggiore",
-            "properties": {
-                "description": "The main gate, defended by a bastion, of the Middle Republican fortifications of the city. ",
-                "link": "https://pleiades.stoa.org/places/422987/location-of-porta-maggiore",
-                "location_precision": "precise",
-                "snippet": "City-gate, ; 330 BC - 30 BC",
-                "title": "OSM location of Porta Maggiore"
             },
             "type": "Feature"
         }
@@ -349,18 +329,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2015",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "contributors": [
@@ -387,6 +374,11 @@
                 "urban",
                 "settlement",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/urban",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -431,6 +423,11 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/urban",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -438,6 +435,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "GeoHack - Norba",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -448,6 +446,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
                     "citationDetail": "Norba",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Norba.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
@@ -462,109 +461,21 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "classical"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-04-07T23:28:39Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": -30,
-            "featureType": [
-                "temple-2",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.9630436,
-                    41.5898051
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-29T13:40:15Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-04-07T23:30:45Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-04-07T23:28:43Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-minor-acropolis",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Way 211565588, version 1, osm:changeset=15461276, 2013-03-23T02:28:43Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/211565588",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 211565588",
-                    "formattedCitation": "osm:way=211565588",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://www.uniurb.it/giornalismo/finecorso_2008/cifra_roberta/sitocifra/apertura.htm",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Norba: La Città dimenticata",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -750,
-            "title": "OSM location of Minor Acropolis",
-            "uri": "https://pleiades.stoa.org/places/422987/location-of-minor-acropolis"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "contributors": [],
@@ -584,6 +495,11 @@
                 "fort",
                 "city-wall",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/city-wall",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -614,6 +530,11 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/city-wall",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 216271516, version 1, osm:changeset=15648430, 2013-04-07T23:32:04Z)",
             "references": [
                 {
@@ -621,6 +542,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 216271516",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=216271516",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -631,185 +553,25 @@
             "start": -550,
             "title": "OSM location of square tower",
             "uri": "https://pleiades.stoa.org/places/422987/location-of-square-tower"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "classical"
-                },
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-04-07T23:55:30Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": -30,
-            "featureType": [
-                "plaza",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.9601743,
-                    41.5925854
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2013-04-07T23:57:08Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-04-07T23:55:33Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-forum-of-luna",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 216271885, version 1, osm:changeset=15648490, 2013-04-07T23:45:15Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/216271885",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 216271885",
-                    "formattedCitation": "osm:way=216271885",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -550,
-            "title": "location of forum of Norba",
-            "uri": "https://pleiades.stoa.org/places/422987/location-of-forum-of-luna"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Adam Rabinowitz",
-                    "uri": "https://pleiades.stoa.org/author/arabinowitz",
-                    "username": "arabinowitz"
-                }
-            ],
-            "created": "2013-07-02T21:06:55Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "The main gate, defended by a bastion, of the Middle Republican fortifications of the city. ",
-            "details": "<p>Location based on OpenStreetMap.</p>\r\n<p> </p>\r\n<p>This gate, like the rest of the city-wall of Norba in this period, was constructed in irregular polygonal masonry using large blocks of stone.</p>",
-            "end": -30,
-            "featureType": [
-                "city-gate",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.9643921,
-                    41.5899781
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-08-21T03:12:45Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-07-08T16:19:41Z",
-                    "modifiedBy": "arabinowitz"
-                },
-                {
-                    "comment": "edited description",
-                    "modified": "2013-07-03T20:47:38Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-07-02T21:07:30Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-02T21:06:58Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-porta-maggiore",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "provenance": "OpenStreetMap (Node 2371195971, version 1, osm:changeset=16797183, 2013-07-02T20:15:10Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/2371195971",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 2371195971",
-                    "formattedCitation": "osm:node=2371195971",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "OSM location of Porta Maggiore",
-            "uri": "https://pleiades.stoa.org/places/422987/location-of-porta-maggiore"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "attested": "",
@@ -873,6 +635,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Liv. (Conway and Walters: PHI) 2.34.6.3",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -887,14 +650,17 @@
             "uri": "https://pleiades.stoa.org/places/422987/norba"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/urban",
+        "https://pleiades.stoa.org/vocabularies/place-types/fort",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/city-wall"
+    ],
     "placeTypes": [
         "urban",
-        "plaza",
-        "city-wall",
-        "temple-2",
-        "city-gate",
+        "fort",
         "settlement",
-        "fort"
+        "city-wall"
     ],
     "provenance": "Barrington Atlas: BAtlas 43 D3 Norba",
     "references": [
@@ -903,6 +669,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 43 D3 Norba",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -913,6 +680,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/20306367",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Quilici, L. & S. Quilici-Gigli. 1988. \"Ricerche su Norba.\" Archeologia Laziale 9:233-256.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -923,6 +691,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PZN3DTCX",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "<div class=\"csl-entry\">Quilici Gigli, S. “Forme di insediamento nel territorio pontino. Colle Gentile presso Norba.” In <i>Stips votiva. Papers presented to C.M. Stibbe</i>, 157–162, Abb, n.d.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Quilici Gigli 1991",
@@ -933,6 +702,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CIQGP7V3",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Schmiedt, Giulio, and Ferdinando Castagnoli. <i>L’antica città di Norba: documentazione aerofotogrammetrica</i>, 1957.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Schmiedt 1957",
@@ -943,6 +713,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. (Conway and Walters: PHI) 2.34.6.3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -953,6 +724,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Dion. Hal. Ant. Rom. 7.13.5",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -963,6 +735,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Norba",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Norba.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -973,6 +746,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BKW5DWET",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Haas, Tymon C. A. de. <i>Fields, Farms and Colonists: Intensive Field Survey and Early Roman Colonization in the Pontine Region, Central Italy</i>. 2 vols. Groningen Archaeological Studies 15. Eelde : Barkhuis ; Groningen: Groningen University Library, 2011. http://www.worldcat.org/oclc/773427938.</div>",
             "otherIdentifier": " ",
             "shortTitle": "de Haas 2011",
@@ -983,6 +757,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RUWGTI32",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Savignoni, L., and R. Mengarelli. “Norba - Relazione sopra gli scavi eseguiti nell’estate dell'anno 1901.” <i>Notizie degli Scavi</i>, 1901, 514–59.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Savignoni and Mengarelli 1901",
@@ -993,6 +768,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Enciclopedia Italiana (1934), NORMA",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1003,6 +779,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. (Conway and Walters: PHI) 2.34.6.3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1013,6 +790,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. (Walters and Conway: PHI) 7.42.8.4",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1023,6 +801,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Fasti Online: Norma",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1033,6 +812,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 32501",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1043,6 +823,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 6538696",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1053,6 +834,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 10300667",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1063,6 +845,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Norba",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1073,6 +856,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), NORBA (Norma) Italy",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1083,6 +867,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), NORBA",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1093,6 +878,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "App. B Civ. 1.10.94",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1103,6 +889,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikidata Q2026618",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1113,6 +900,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZK9T23QF",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Quilici Gigli, Stefania, and Stefania Ferrante. <i>Norba: strade e domus</i>. Atlante tematico di topografia antica supplemento 20. Roma: L’Erma di Bretschneider, 2015.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici Gigli 2015",
@@ -1123,6 +911,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QNDBZB2B",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Quilici, Lorenzo. <i>Norba: domus e materiali</i>. Atlante tematico di topografia antica, Supplemento 19. Roma: “L’Erma” di Bretschneider, 2014.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici 2014",
@@ -1133,6 +922,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/F4MUS67C",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Quilici, Lorenzo, and Stefania Quilici Gigli, eds. <i>Fortificazioni antiche in Italia: età repubblicana</i>. Atlante tematico di topografia antica 9. Roma: “L’Erma” di Bretschneider, 2001.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici 2001",
@@ -1143,6 +933,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZSXAEIRD",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Corbier, P. “Les causes de la colonisation romaine au IV e siècle selon Denys d’Halicarnasse: réalité ou anachronisme.” <i>Pallas</i> 53 (2000): 193–204. http://www.jstor.org/stable/43605886.</div>",
             "otherIdentifier": "",
             "shortTitle": "Corbier 2000, 193-204",
@@ -1153,6 +944,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UN3HJRUT",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Northwood, S. J. “Asconius’ Fifty-Three Roman Colonies: A Regal Solution.” <i>The Classical Quarterly</i> 58, no. 1 (2008): 353–56. http://www.jstor.org/stable/27564155.</div>",
             "otherIdentifier": "",
             "shortTitle": "Northwood 2008",
@@ -1163,6 +955,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLUYFXKE",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Quilici Gigli, Stefania, Stefania Ferrante, and Paola Carfora. <i>Norba: edilizia privata e viabilità</i>. Atlante tematico di topografia antica. Rome: “L’Erma” di Bretschneider, 2016.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici Gigli et al. 2016",
@@ -1173,6 +966,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AVIDIUG9",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "<div class=\"csl-entry\">Quilici, Lorenzo, and Stefania Quilici Gigli. “Tra Volsci e Romani per il controllo del territorio: Le Murella, presso Norba.” In <i>Atlante tematico di topografia antica, 27 (2017)</i>, 103–24. Roma: “L’Erma” di Bretschneider, 2017.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici and Quilici Gigli 2017",
@@ -1183,6 +977,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T39E62MS",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Quilici Gigli, Stefania. “Strade e marciapiedi, carri e pedoni a Norba.” In <i>Για το φίλο μας : scritti in ricordo di Gaetano Messineo</i>, 177–86. Monte Compatri (RM): Espera, 2016.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici Gigli 2016",
@@ -1193,6 +988,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/G5KA6VSJ",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Quilici, Lorenzo. <i>Un esempio di ingegneria stradale sulle montagne di Norba</i>. Amsterdam: publisher not identified, 1991.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici 1991c",
@@ -1203,6 +999,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3FEGUB3N",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "<div class=\"csl-entry\">Quilici Gigli, Stefania. “Insediamenti Nel Territorio Di Norba: Il Poggio Di Serrone Di Bove.” <i>QuadAEI</i> 16 (1988): 227–32.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici Gigli 1988",
@@ -1213,6 +1010,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6F3Y2T6G",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Quilici, Lorenzo, and Stefania Quilici Gigli. “Norba: la monumentalizzazione tardo repubblicana dell’acropoli maggiore.” In <i>Città e monumenti nell’Italia antica</i>, 237–66, 1999.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici and Quilici Gigli 1999",
@@ -1223,6 +1021,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LLL2QD3I",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Ferrante, Stefania. “Norba: La Domus X Nella Sequenza Stratigrafica e Nelle Sue Parti.” In <i>Norba : Strade e Domus</i>, 87–115. Roma: L’Erma di Bretschneider, 2015.</div>",
             "otherIdentifier": "",
             "shortTitle": "Ferrante 2015",
@@ -1233,6 +1032,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EMCYL34G",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Attema, P. A. J. “‘Quae Arx in Pomptino Esset’, the Emergence of the Fortified Settlement in the Pontine Lepine Landscape.” In <i>Papers of the 4th Conference of Italian Archaeology. 1. The Archaeology of Power. Part 1</i>, 83–92. London: Accordia Research Centre, University of London, 1991.</div>",
             "otherIdentifier": "",
             "shortTitle": "Attema 1991",
@@ -1243,6 +1043,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
             "citationDetail": "Norba (Italy)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "http://atlantides.org/bibliography/",
             "shortTitle": "ToposText",
@@ -1250,8 +1051,8 @@
         }
     ],
     "reprPoint": [
-        12.962455360000002,
-        41.59137276
+        12.9623334,
+        41.5922476
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

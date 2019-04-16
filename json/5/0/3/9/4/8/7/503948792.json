@@ -6,6 +6,7 @@
         -2.1348241,
         40.0681156
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -70,14 +71,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "restored",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
@@ -103,6 +109,10 @@
             "featureType": [
                 "settlement",
                 "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -138,6 +148,10 @@
                 "representative",
                 "associated_modern"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
             "provenance": "OpenStreetMap (Node 240422991, version 20, osm:changeset=41444436, 2016-08-14T11:04:05Z)",
             "references": [
                 {
@@ -145,6 +159,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 240422991",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=240422991",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -161,10 +176,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 }
             ],
             "attested": "Cuenca",
@@ -208,6 +226,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "",
                     "otherIdentifier": "",
                     "shortTitle": "Herrera, M.ª Teresa, M.ª Nieves Sánchez, M.ª Estela González de Fauve y M.ª Purificación Zabía. Textos y Concordancias Electrónicos de Documentos Castellanos de Alfonso X. Madison: Hispanic Seminary of Medieval Studies, 1999, CD-ROM.",
@@ -224,10 +243,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Cuenca",
@@ -273,6 +295,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "GeoNames 3124132",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -287,6 +310,10 @@
             "uri": "https://pleiades.stoa.org/places/503948792/name.2016-12-07.6050944107"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+    ],
     "placeTypes": [
         "settlement",
         "settlement-modern"
@@ -298,6 +325,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/LPYQ8SZL",
             "citationDetail": "Cuenca",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: la enciclopedia de contenido libre (2001-), Cuenca.",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (Spanish)",
@@ -308,6 +336,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Encyclopaedia of Islam, Second Edition: Ḳūnka",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -316,8 +345,9 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Cuenca,_Spain",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Cuenca, Spain",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Cuenca, Spain.",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
@@ -328,6 +358,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/20017149",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Reher 1990",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -338,6 +369,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/558080096",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Allen 1909",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -348,6 +380,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/959208065",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Clavería and Martínez 2016",
             "otherIdentifier": "",
             "shortTitle": "",

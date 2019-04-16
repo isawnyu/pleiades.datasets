@@ -1,10 +1,54 @@
 {
     "@type": "Place",
     "bbox": [
-        11.94627,
-        42.338965,
-        11.94627,
-        42.338965
+        11.9337459,
+        42.3199903,
+        11.9796887,
+        42.3482682
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/737328394",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T14:00:46Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "change cnxn type",
+                    "modified": "2018-03-10T03:02:18Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "737328394",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Clodia",
+            "uri": "https://pleiades.stoa.org/places/413233/737328394"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/737328394"
@@ -62,6 +106,100 @@
                 "location_precision": "precise",
                 "snippet": "Unknown; 750 BC - 30 BC",
                 "title": "DARMC location 18720"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.9590512,
+                            42.3199903
+                        ],
+                        [
+                            11.9538861,
+                            42.3211111
+                        ],
+                        [
+                            11.9536773,
+                            42.3211818
+                        ],
+                        [
+                            11.9406488,
+                            42.3274959
+                        ],
+                        [
+                            11.9395847,
+                            42.3290659
+                        ],
+                        [
+                            11.9392621,
+                            42.3297063
+                        ],
+                        [
+                            11.9338946,
+                            42.3428309
+                        ],
+                        [
+                            11.9337459,
+                            42.3432235
+                        ],
+                        [
+                            11.9400489,
+                            42.3465408
+                        ],
+                        [
+                            11.9411255,
+                            42.3467258
+                        ],
+                        [
+                            11.9438512,
+                            42.3469788
+                        ],
+                        [
+                            11.9631619,
+                            42.3482682
+                        ],
+                        [
+                            11.9641233,
+                            42.3482682
+                        ],
+                        [
+                            11.9668519,
+                            42.347933
+                        ],
+                        [
+                            11.9685836,
+                            42.3476222
+                        ],
+                        [
+                            11.9796492,
+                            42.3445525
+                        ],
+                        [
+                            11.9796887,
+                            42.3445311
+                        ],
+                        [
+                            11.9591529,
+                            42.3200121
+                        ],
+                        [
+                            11.9590512,
+                            42.3199903
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-norchia",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/413233/osm-location-of-norchia",
+                "location_precision": "precise",
+                "snippet": "Cemetery, Settlement; 750 BC - 30 BC",
+                "title": "OSM location of Norchia Archaeological Site"
             },
             "type": "Feature"
         }
@@ -145,18 +283,25 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "contributors": [
@@ -177,6 +322,9 @@
             "end": -30,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -201,6 +349,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 18720",
             "references": [
                 {
@@ -208,6 +359,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "18720",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18720.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -218,24 +370,200 @@
             "start": -750,
             "title": "DARMC location 18720",
             "uri": "https://pleiades.stoa.org/places/413233/darmc-location-18720"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                }
+            ],
+            "contributors": [],
+            "created": "2018-12-27T13:18:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": -30,
+            "featureType": [
+                "cemetery",
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            11.9590512,
+                            42.3199903
+                        ],
+                        [
+                            11.9538861,
+                            42.3211111
+                        ],
+                        [
+                            11.9536773,
+                            42.3211818
+                        ],
+                        [
+                            11.9406488,
+                            42.3274959
+                        ],
+                        [
+                            11.9395847,
+                            42.3290659
+                        ],
+                        [
+                            11.9392621,
+                            42.3297063
+                        ],
+                        [
+                            11.9338946,
+                            42.3428309
+                        ],
+                        [
+                            11.9337459,
+                            42.3432235
+                        ],
+                        [
+                            11.9400489,
+                            42.3465408
+                        ],
+                        [
+                            11.9411255,
+                            42.3467258
+                        ],
+                        [
+                            11.9438512,
+                            42.3469788
+                        ],
+                        [
+                            11.9631619,
+                            42.3482682
+                        ],
+                        [
+                            11.9641233,
+                            42.3482682
+                        ],
+                        [
+                            11.9668519,
+                            42.347933
+                        ],
+                        [
+                            11.9685836,
+                            42.3476222
+                        ],
+                        [
+                            11.9796492,
+                            42.3445525
+                        ],
+                        [
+                            11.9796887,
+                            42.3445311
+                        ],
+                        [
+                            11.9591529,
+                            42.3200121
+                        ],
+                        [
+                            11.9590512,
+                            42.3199903
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2018-12-27T13:18:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-12-27T13:18:03Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-norchia",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Way 481805518, version 1, osm:changeset=47041258, 2017-03-21T14:01:16Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/481805518",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 481805518",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=481805518",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -750,
+            "title": "OSM location of Norchia Archaeological Site",
+            "uri": "https://pleiades.stoa.org/places/413233/osm-location-of-norchia"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident-inferred",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident-inferred",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident-inferred",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "attested": "",
@@ -283,7 +611,73 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/413233/orcla"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2018-03-10T02:32:38Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "GeoNames 9204034",
+                    "modified": "2018-12-27T13:15:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "name",
+                    "modified": "2018-03-10T02:32:39Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "name.2018-03-09.1451958734",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/9204034/norchia.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "GeoNames 9204034",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Norchia",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/413233/name.2018-03-09.1451958734"
         }
+    ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
     ],
     "placeTypes": [
         "settlement",
@@ -296,6 +690,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 42 B4 [Orcla]",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -306,6 +701,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QFC5JT8Q",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Colonna, Giovanni, Elena Colonna Di Paolo, and Vincenzo Di Grazia. <i>Norchia</i>. Necropoli rupestri dell’Etruria meridionale 2. Firenze: Consiglio nazionale delle ricerche, 1978. http://www.worldcat.org/oclc/174344246.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Colonna di Paolo 1978",
@@ -316,6 +712,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Norchia",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Norchia.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -326,6 +723,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), NORCHIA Italy",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -336,6 +734,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 45400",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -346,6 +745,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Norchia",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -356,6 +756,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikidata Q1997405",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -366,6 +767,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2BNQ7RZI",
             "citationDetail": "13",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Colonna, Giovanni. “Città e territorio nell’Etruria meridionale.” <i>Publications de l’École Française de Rome</i> 137, no. 1 (1990): 7–21. http://www.persee.fr/doc/efr_0000-0000_1990_act_137_1_3896.</div>",
             "otherIdentifier": "",
             "shortTitle": "Colonna 1990",
@@ -376,6 +778,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GXAWUYWF",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Ambrosini, L., and Gabriella Barbieri. <i>Norchia. II: Le Necropoli Rupestri Dell’Etruria Meridionale 3</i>. 2 vols. Roma: CNR Edizioni, 2016.</div>",
             "otherIdentifier": "",
             "shortTitle": "Norchia. II",
@@ -386,6 +789,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S3RJATHM",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Barbieri, Gabriella, Maria Cristina Berardi, and Marshall Joseph Becker. “Viterbo. Località Norchia. Tombe doriche: campagne di scavo 1992-1993.” <i>Notizie degli Scavi di Antichità, Serie 9 7/8</i>, 1996, 331–63.</div>",
             "otherIdentifier": "",
             "shortTitle": "Barbieri 1996",
@@ -396,6 +800,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 9204034",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -406,6 +811,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 11952535",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -413,8 +819,8 @@
         }
     ],
     "reprPoint": [
-        11.94627,
-        42.338965
+        11.950982899181247,
+        42.33794863569622
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

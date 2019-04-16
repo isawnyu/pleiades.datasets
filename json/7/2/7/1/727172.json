@@ -6,8 +6,88 @@
         31.2705999,
         30.166667
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/1043",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2016-07-13T13:39:07Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "ctype: flows into",
+                    "modified": "2018-05-16T09:00:02Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "1043",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Internum Mare",
+            "uri": "https://pleiades.stoa.org/places/727172/1043"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/981503",
+            "contributors": [],
+            "created": "2018-01-29T23:10:36Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2018-01-29T23:10:37Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ancient-egypt-region",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Ancient Egypt (region)",
+            "uri": "https://pleiades.stoa.org/places/727172/ancient-egypt-region"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/1043",
+        "https://pleiades.stoa.org/places/981503",
         "https://pleiades.stoa.org/places/785957",
         "https://pleiades.stoa.org/places/785970",
         "https://pleiades.stoa.org/places/786004",
@@ -31,11 +111,11 @@
         "https://pleiades.stoa.org/places/727191",
         "https://pleiades.stoa.org/places/727198",
         "https://pleiades.stoa.org/places/727224",
+        "https://pleiades.stoa.org/places/699487909",
         "https://pleiades.stoa.org/places/805630",
         "https://pleiades.stoa.org/places/786066",
         "https://pleiades.stoa.org/places/39298",
         "https://pleiades.stoa.org/places/321318358",
-        "https://pleiades.stoa.org/places/copy_of_727097",
         "https://pleiades.stoa.org/places/727239",
         "https://pleiades.stoa.org/places/736884",
         "https://pleiades.stoa.org/places/737063",
@@ -50,6 +130,7 @@
         "https://pleiades.stoa.org/places/756613",
         "https://pleiades.stoa.org/places/756635",
         "https://pleiades.stoa.org/places/592169143",
+        "https://pleiades.stoa.org/places/805590",
         "https://pleiades.stoa.org/places/149576487",
         "https://pleiades.stoa.org/places/318069073",
         "https://pleiades.stoa.org/places/798037",
@@ -238,10 +319,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -260,6 +344,10 @@
             "featureType": [
                 "river",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -289,6 +377,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 78352977, version 5, osm:changeset=13213641, 2012-09-22T22:21:52Z)",
             "references": [
                 {
@@ -296,6 +388,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 78352977",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=78352977",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -312,10 +405,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2010",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -335,6 +431,10 @@
                 "river",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     29.331389,
@@ -353,6 +453,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -360,6 +464,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "GeoHack - Nile",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -376,10 +481,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -399,6 +507,10 @@
                 "river",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     31.1,
@@ -417,6 +529,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -424,6 +540,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "GeoHack - Nile",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -440,22 +557,31 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "Nilus",
@@ -515,6 +641,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Plin. HN (Mayhoff: PHI) 3.3.5",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -531,10 +658,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Nile river",
@@ -568,6 +698,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "GeoNames:351036",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -584,10 +715,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern-middle-east"
                 }
             ],
             "attested": null,
@@ -640,6 +774,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 2, p. 1179)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -656,46 +791,67 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "achaemenid-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "achaemenid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "achaemenid-roman-republic-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "achaemenid-roman-republic-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-roman-republic-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-empire-parthian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-parthian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-parthian-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "ptolemaic-roman-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "ptolemaic-roman-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ptolemaic-roman-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "transition-roman-early-empire-late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "transition-roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/transition-roman-early-empire-late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique-sasanian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique-sasanian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique-sasanian-middle-east"
                 }
             ],
             "attested": null,
@@ -748,6 +904,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 2, p. 1170)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -764,58 +921,85 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "pottery-neolithic-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "pottery-neolithic-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/pottery-neolithic-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "neolithic-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neolithic-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "new-kingdom-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "new-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/new-kingdom-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "ptolemaic-roman-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "ptolemaic-roman-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ptolemaic-roman-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "caliphate-umayyad-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "caliphate-umayyad-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/caliphate-umayyad-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "abassid-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "abassid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/abassid-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "samanid-ghaznavid-iran"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "samanid-ghaznavid-iran",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/samanid-ghaznavid-iran"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "1200-bc-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "1200-bc-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/1200-bc-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "1500-ad-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "1500-ad-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/1500-ad-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "ottoman-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "ottoman-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ottoman-empire"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-ottoman-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-ottoman-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-ottoman-empire"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "khedivate-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "khedivate-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/khedivate-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern-middle-east"
                 }
             ],
             "attested": null,
@@ -868,6 +1052,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 2, p. 1178)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -884,18 +1069,25 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millennium-bc-egypt"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millennium-bc-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millennium-bc-egypt"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "early-ottoman-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-ottoman-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-ottoman-empire"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern-middle-east"
                 }
             ],
             "attested": null,
@@ -948,6 +1140,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 2, p. 1178)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -964,10 +1157,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 }
             ],
             "attested": "Νεῖλος",
@@ -1006,6 +1202,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Hes. Th. 338",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -1020,19 +1217,23 @@
             "uri": "https://pleiades.stoa.org/places/727172/name.2013-11-05.9387874494"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/river"
+    ],
     "placeTypes": [
         "river"
     ],
     "provenance": "Barrington Atlas: BAtlas 74 E4 Nilus fl.",
     "references": [
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Nile",
+            "accessURI": "https://en.wikipedia.org/wiki/Nile",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Nile",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Nile",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Nile.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -1040,6 +1241,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 74 E4 Nilus fl.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1050,6 +1252,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/892507638",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "LexÄgypt 4 480-84",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1060,6 +1263,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/32468720",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Bernand 1994, 63-87",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1070,6 +1274,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Nile",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1080,6 +1285,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Hes. Theog. 338",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1090,6 +1296,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Hom. Od. 4.447",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1100,6 +1307,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "TP 8C1-8C4 (Talbert 3455)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1110,6 +1318,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Lucret. De Rerum Natura 6.712",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1120,6 +1329,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Virg. Aen. 9.31",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1130,6 +1340,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), NILUS",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1140,6 +1351,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "GeoNames 351036",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -1150,6 +1362,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 3943",
             "otherIdentifier": "",
             "shortTitle": "",

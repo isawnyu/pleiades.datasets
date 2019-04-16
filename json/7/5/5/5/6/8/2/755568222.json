@@ -3,8 +3,57 @@
     "bbox": [
         33.343543,
         34.796806,
-        33.343543,
-        34.796806
+        33.3449235,
+        34.7968951
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/707498",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2019-01-24T15:13:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2019-02-17T18:41:28Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-01-24T15:14:05Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "cyprus-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Cyprus (island)",
+            "uri": "https://pleiades.stoa.org/places/755568222/cyprus-island"
+        }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/707498"
@@ -38,18 +87,36 @@
         {
             "geometry": {
                 "coordinates": [
+                    33.3449235,
+                    34.7968951
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-choirokoitia-neolithic-settlement",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/755568222/osm-location-of-choirokoitia-neolithic-settlement",
+                "location_precision": "precise",
+                "snippet": "Settlement; 10000 BC - 3300 BC",
+                "title": "OSM location of Choirokoitia Neolithic Settlement"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     33.343543,
                     34.796806
                 ],
                 "type": "Point"
             },
-            "id": "centerpoint-of-choirokoitia",
+            "id": "imagery-location",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/755568222/centerpoint-of-choirokoitia",
+                "link": "https://pleiades.stoa.org/places/755568222/imagery-location",
                 "location_precision": "precise",
                 "snippet": "Settlement, ; 10000 BC - 3300 BC",
-                "title": "Centerpoint of Choirokoitia"
+                "title": "Imagery Location: Centerpoint of Choirokoitia"
             },
             "type": "Feature"
         }
@@ -90,16 +157,103 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2010",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "neolithic-eastern-med"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neolithic-eastern-med",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-eastern-med"
+                }
+            ],
+            "contributors": [],
+            "created": "2019-01-24T15:16:38Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": -3300,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    33.3449235,
+                    34.7968951
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2019-01-24T15:17:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-01-24T15:16:39Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-choirokoitia-neolithic-settlement",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Node 299518754, version 11, osm:changeset=51836044, 2017-09-08T08:32:20Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/299518754",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 299518754",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=299518754",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -10000,
+            "title": "OSM location of Choirokoitia Neolithic Settlement",
+            "uri": "https://pleiades.stoa.org/places/755568222/osm-location-of-choirokoitia-neolithic-settlement"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2010",
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neolithic-eastern-med",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neolithic-eastern-med"
                 }
             ],
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "homepage": null,
                     "name": "Sean Gillies",
@@ -122,6 +276,10 @@
             "featureType": [
                 "settlement",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -147,19 +305,26 @@
                     "modifiedBy": "nnagy"
                 }
             ],
-            "id": "centerpoint-of-choirokoitia",
+            "id": "imagery-location",
             "locationType": [
                 "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": -10000,
-            "title": "Centerpoint of Choirokoitia",
-            "uri": "https://pleiades.stoa.org/places/755568222/centerpoint-of-choirokoitia"
+            "title": "Imagery Location: Centerpoint of Choirokoitia",
+            "uri": "https://pleiades.stoa.org/places/755568222/imagery-location"
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -170,6 +335,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
             "citationDetail": "Choirokoitia",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
             "otherIdentifier": " ",
             "shortTitle": "WHL",
@@ -180,6 +346,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Khirokitia",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Khirokitia.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -187,8 +354,8 @@
         }
     ],
     "reprPoint": [
-        33.343543,
-        34.796806
+        33.34423325,
+        34.79685055
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

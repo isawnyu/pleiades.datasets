@@ -6,6 +6,7 @@
         32.578849,
         25.695202
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -41,13 +42,13 @@
                 ],
                 "type": "Point"
             },
-            "id": "temple",
+            "id": "gps-location-isis-temple",
             "properties": {
                 "description": "Coordinates determined using hand-held GPS unit.",
-                "link": "https://pleiades.stoa.org/places/477915982/temple",
+                "link": "https://pleiades.stoa.org/places/477915982/gps-location-isis-temple",
                 "location_precision": "precise",
                 "snippet": "Temple-2, ; 30 BC - AD 300",
-                "title": "Location of Isis Temple"
+                "title": "GPS Location of Isis Temple"
             },
             "type": "Feature"
         }
@@ -81,10 +82,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-handheld-gps",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -117,6 +121,10 @@
                 "temple-2",
                 ""
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "geometry": {
                 "coordinates": [
                     32.578849,
@@ -141,33 +149,41 @@
                     "modifiedBy": "bazzani"
                 }
             ],
-            "id": "temple",
+            "id": "gps-location-isis-temple",
             "locationType": [
                 "representative",
                 ""
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": -30,
-            "title": "Location of Isis Temple",
-            "uri": "https://pleiades.stoa.org/places/477915982/temple"
+            "title": "GPS Location of Isis Temple",
+            "uri": "https://pleiades.stoa.org/places/477915982/gps-location-isis-temple"
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+    ],
     "placeTypes": [
         "temple-2"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Deir_el-Shelwit",
+            "accessURI": "https://en.wikipedia.org/wiki/Deir_el-Shelwit",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Deir el-Shelwit",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Deir el-Shelwit",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Deir el-Shelwit.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -175,6 +191,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "ARCE conservation project",
             "otherIdentifier": " ",
             "shortTitle": "",

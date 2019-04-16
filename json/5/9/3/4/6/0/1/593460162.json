@@ -6,6 +6,50 @@
         22.754815,
         37.73076
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/570491",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2016-07-13T13:32:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "ctype -> at",
+                    "modified": "2018-05-05T11:41:05Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "570491",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Mycenae",
+            "uri": "https://pleiades.stoa.org/places/593460162/570491"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/570491"
     ],
@@ -95,14 +139,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2015",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "middle-helladic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "middle-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-helladic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-helladic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-helladic"
                 }
             ],
             "contributors": [
@@ -140,6 +189,10 @@
             "featureType": [
                 "unknown",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -219,6 +272,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -226,6 +283,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Graziadio, G. 1988.\"The Chronology of the Graves of Circle B at Mycenae: A New Hypothesis.\" American Journal of Archaeology 92:343-372.  ",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -236,6 +294,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/845852074",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": " Pedley, J. 2012. Greek Art and Archaeology. New York: Prentice Hall. p. 86.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -252,10 +311,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Grave Circle B",
@@ -323,6 +385,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Graziadio, G. 1988.\"The Chronology of the Graves of Circle B at Mycenae: A New Hypothesis.\" American Journal of Archaeology 92:343-372. ",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -337,6 +400,9 @@
             "uri": "https://pleiades.stoa.org/places/593460162/grave-circle-b"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+    ],
     "placeTypes": [
         "cemetery"
     ],
@@ -347,6 +413,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/326681108",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
             "formattedCitation": "Shelton, K. 2010.\"Mycenae.\" In The Oxford Encyclopedia of Ancient Greece and Rome, edited by Michael Gagarin and Elaine Fantham. Oxford: Oxford University Press.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -357,6 +424,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Musgrave, J., Neave, R., Prag, A., Musgrave and Danaé, A., Thimme, I. 1995. \"Seven Faces from Grave Circle B at Mycenae.\" The Annual of the British School of Athens 90:107-136.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -367,19 +435,21 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Panagiotopoulos, D. 2002. \"What the Graves in Circle B Reveal.\" Calliope 13:24.",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Grave_Circle_B,_Mycenae",
+            "accessURI": "https://en.wikipedia.org/wiki/Grave_Circle_B,_Mycenae",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Grave Circle B",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Grave Circle B",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Grave Circle B.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],

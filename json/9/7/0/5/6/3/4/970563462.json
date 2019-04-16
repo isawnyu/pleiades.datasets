@@ -6,6 +6,37 @@
         8.7979716,
         39.989764
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/471947",
+            "contributors": [],
+            "created": "2016-07-13T13:32:58Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "471947",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Hydata Hypsitana/Forum Traiani",
+            "uri": "https://pleiades.stoa.org/places/970563462/471947"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/471947"
     ],
@@ -82,10 +113,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 }
             ],
             "contributors": [
@@ -111,6 +145,10 @@
             "featureType": [
                 "church",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -150,6 +188,10 @@
             "locationType": [
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 249484355, version 1, osm:changeset=19225934, 2013-12-02T00:07:02Z)",
             "references": [
                 {
@@ -157,6 +199,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 249484355",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=249484355",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -173,10 +216,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -210,6 +256,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Sardegna Cultura, Fordongianus, Cripta e chiesa di San Lussorio",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -224,19 +271,23 @@
             "uri": "https://pleiades.stoa.org/places/970563462/name.2014-03-24.1887994148"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/church"
+    ],
     "placeTypes": [
         "church"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://it.wikipedia.org/wiki/Lussorio_martire",
+            "accessURI": "https://it.wikipedia.org/wiki/Lussorio_martire",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Italian), Lussorio martire",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+            "citationDetail": "Lussorio martire",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Lussorio martire.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Italian)",
             "type": "seeAlso"
         },
         {
@@ -244,6 +295,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Fordongianus, Cripta e chiesa di San Lussorio",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -254,6 +306,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/25342756",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Zucca, R. 1988. Le iscrizioni latine del martyrium di Luxurius (Forum Traiani, Sardinia). Oristano: Editrice S'Alvure.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -264,6 +317,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/51232934",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Oppo, C. 2002. \"Il santuario di San Lussorio a Forum Traiani. Alcune note sulla chiesa bizantina.\" In Città, territorio, produzione e commerci nella Sardegna medievale. Studi in onore di Letizia Pani Ermini. Cagliari.",
             "otherIdentifier": " ",
             "shortTitle": "",

@@ -1,11 +1,12 @@
 {
     "@type": "Place",
     "bbox": [
-        15.0,
-        50.0,
-        16.0,
-        51.0
+        15.7399397,
+        50.736224,
+        15.7399397,
+        50.736224
     ],
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -52,38 +53,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            50.0
-                        ],
-                        [
-                            15.0,
-                            51.0
-                        ],
-                        [
-                            16.0,
-                            51.0
-                        ],
-                        [
-                            16.0,
-                            50.0
-                        ],
-                        [
-                            15.0,
-                            50.0
-                        ]
-                    ]
+                    15.7399397,
+                    50.736224
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-sniezka-peak",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/118899/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/118899/osm-location-of-sniezka-peak",
+                "location_precision": "precise",
+                "snippet": "Mountain, ; AD 1700 - AD 2100",
+                "title": "OSM location of Śnieżka (peak)"
             },
             "type": "Feature"
         }
@@ -114,102 +95,102 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
-            "attestations": [],
-            "contributors": [
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
                 {
-                    "name": "G. Moosbauer",
-                    "username": null
-                },
-                {
-                    "name": "M. Puhane",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-06-11T21:08:51Z",
+            "contributors": [],
+            "created": "2013-12-22T13:00:13Z",
             "creators": [
                 {
-                    "name": "H. Bender",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain",
+                ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            50.0
-                        ],
-                        [
-                            15.0,
-                            51.0
-                        ],
-                        [
-                            16.0,
-                            51.0
-                        ],
-                        [
-                            16.0,
-                            50.0
-                        ],
-                        [
-                            15.0,
-                            50.0
-                        ]
-                    ]
+                    15.7399397,
+                    50.736224
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:18:34Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2013-12-22T13:01:12Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:53:32Z",
-                    "modifiedBy": "admin"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-12-22T13:00:20Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-sniezka-peak",
             "locationType": [
                 "representative"
             ],
-            "provenance": "Barrington Atlas: BAtlas 12 I2 Ouandalika Ore",
-            "references": [],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "provenance": "OpenStreetMap (Node 26864722, version 12, osm:changeset=17681792, 2013-09-05T06:06:00Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/26864722",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26864722",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=26864722",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Sn%C4%9B%C5%BEka",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Sněžka",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Sněžka.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/118899/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Śnieżka (peak)",
+            "uri": "https://pleiades.stoa.org/places/118899/osm-location-of-sniezka-peak"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
@@ -271,6 +252,9 @@
             "uri": "https://pleiades.stoa.org/places/118899/ouandalika-ore"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+    ],
     "placeTypes": [
         "mountain"
     ],
@@ -281,6 +265,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 12 I2 Ouandalika Ore",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -291,25 +276,27 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-CastReg-84-85",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "TIR CastReg 84-85",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Krkono%C5%A1e",
+            "accessURI": "https://en.wikipedia.org/wiki/Krkono%C5%A1e",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "WIkipedia, Krkonoše",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Krkonoše",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Krkonoše.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        15.5,
-        50.5
+        15.7399397,
+        50.736224
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

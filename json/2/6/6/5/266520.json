@@ -6,6 +6,43 @@
         -3.689824,
         36.762144
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/266038",
+            "contributors": [],
+            "created": "2018-06-05T21:56:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2018-06-05T21:56:25Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "sexi-saxetanum",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sexi/Saxetanum",
+            "uri": "https://pleiades.stoa.org/places/266520/sexi-saxetanum"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/266038"
     ],
@@ -95,10 +132,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -117,6 +157,10 @@
             "featureType": [
                 "aqueduct",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -141,6 +185,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 74876728, version 6, osm:changeset=11794581, 2012-06-04T09:23:21Z)",
             "references": [
                 {
@@ -148,6 +196,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 74876728",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=74876728",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -161,6 +210,9 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
+    ],
     "placeTypes": [
         "aqueduct"
     ],
@@ -171,6 +223,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 27 B5",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -181,6 +234,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/f.html#Fernández-Casado-1972",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Fernández Casado 1972",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -191,6 +245,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Almuñécar",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Almuñécar.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",

@@ -6,6 +6,50 @@
         35.6191595,
         33.1864496
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/697709",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:38:07Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn type",
+                    "modified": "2018-12-13T22:14:24Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "697709",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Mortuum Mare/Asphaltitis L.",
+            "uri": "https://pleiades.stoa.org/places/687932/697709"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/697709",
         "https://pleiades.stoa.org/places/644616861",
@@ -18,10 +62,8 @@
     ],
     "contributors": [
         {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -44,8 +86,10 @@
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         },
         {
             "name": "B. Siewert-Mayer",
@@ -132,10 +176,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
@@ -154,6 +201,10 @@
             "featureType": [
                 "river",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -178,6 +229,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 30094978, version 23, osm:changeset=10835348, 2012-03-01T08:43:36Z)",
             "references": [
                 {
@@ -185,6 +240,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 30094978",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=30094978",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -201,10 +257,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -264,6 +323,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "Plin. HN 5.71.1",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -280,38 +340,55 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "achaemenid-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "achaemenid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-roman-early-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-roman-early-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-roman-early-empire"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-empire-parthian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-parthian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-parthian-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "transition-roman-early-empire-late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "transition-roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/transition-roman-early-empire-late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": null,
@@ -364,6 +441,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 2, p. 804)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -380,26 +458,37 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millennium-bc-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millennium-bc-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millennium-bc-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "egyptian-hittite-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "egyptian-hittite-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/egyptian-hittite-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern-middle-east"
                 }
             ],
             "attested": null,
@@ -452,6 +541,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 2, p. 804)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -468,10 +558,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "crusader-seljuq-ayyubid-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "crusader-seljuq-ayyubid-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/crusader-seljuq-ayyubid-levant"
                 }
             ],
             "attested": null,
@@ -524,6 +617,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 1, p. 510)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -540,46 +634,67 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "early-bronze-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-bronze-age-southern-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "transition-early-middle-bronze-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "transition-early-middle-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/transition-early-middle-bronze-age-southern-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "middle-bronze-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "middle-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-bronze-age-southern-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-bronze-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-bronze-age-southern-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-roman-early-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-roman-early-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-roman-early-empire"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "iron-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "iron-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/iron-age-southern-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "crusader-seljuq-ayyubid-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "crusader-seljuq-ayyubid-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/crusader-seljuq-ayyubid-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-ottoman-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-ottoman-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-ottoman-empire"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern-middle-east"
                 }
             ],
             "attested": null,
@@ -632,6 +747,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 2, p. 1152)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -648,10 +764,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "achaemenid-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "achaemenid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-middle-east"
                 }
             ],
             "attested": null,
@@ -704,6 +823,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1832)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -720,58 +840,85 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "mesolithic-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mesolithic-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mesolithic-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "early-bronze-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-bronze-age-southern-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "transition-early-middle-bronze-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "transition-early-middle-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/transition-early-middle-bronze-age-southern-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "middle-bronze-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "middle-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-bronze-age-southern-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-bronze-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-bronze-age-southern-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "egyptian-hittite-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "egyptian-hittite-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/egyptian-hittite-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "crusader-seljuq-ayyubid-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "crusader-seljuq-ayyubid-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/crusader-seljuq-ayyubid-levant"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "ilkhanate-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "ilkhanate-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ilkhanate-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "mongol-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mongol-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mongol-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "timurid-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "timurid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/timurid-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-ottoman-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-ottoman-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-ottoman-empire"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern-middle-east"
                 }
             ],
             "attested": null,
@@ -824,6 +971,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1742)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -840,10 +988,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 }
             ],
             "attested": null,
@@ -896,6 +1047,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. False)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -912,10 +1064,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 }
             ],
             "attested": null,
@@ -968,6 +1123,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1819)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -984,10 +1140,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 }
             ],
             "attested": null,
@@ -1040,6 +1199,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1819)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -1056,10 +1216,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 }
             ],
             "attested": null,
@@ -1112,6 +1275,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1819)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -1128,22 +1292,31 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-roman-early-empire"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-roman-early-empire",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-roman-early-empire"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-byzantine-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-byzantine-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-byzantine-middle-east"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman-early-empire-late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "iron-age-southern-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "iron-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/iron-age-southern-levant"
                 }
             ],
             "attested": null,
@@ -1196,6 +1369,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1819)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -1212,10 +1386,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "egyptian-hittite-levant"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "egyptian-hittite-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/egyptian-hittite-levant"
                 }
             ],
             "attested": null,
@@ -1268,6 +1445,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "TAVO Index (Vol. 3, p. 1832)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -1282,6 +1460,9 @@
             "uri": "https://pleiades.stoa.org/places/687932/y-r-d-n"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/river"
+    ],
     "placeTypes": [
         "river"
     ],
@@ -1292,6 +1473,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
             "citationDetail": "5.71.1",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Plin., NH (Mayhoff: PHI)",
@@ -1302,6 +1484,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Jordan River",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Jordan River.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -1312,6 +1495,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 70 H2 Iordanes fl.",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1322,6 +1506,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/31257887",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Tsafrir, Y. et al. 1994. Tabula Imperii Romani : Iudaea - Palaestina : Eretz Israel in the Hellenistic, Roman and Byzantine periods : maps and gazetteer.  \tJerusalem : Israel Academy of Sciences and Humanities. pp. 153-54",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1332,6 +1517,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Iordanes-1",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Iordanes 1",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -1342,6 +1528,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Iordanes [2] The river Jordan",
             "otherIdentifier": "",
             "shortTitle": "",

@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        23.1550283,
-        47.1775014,
-        23.1593679,
-        47.1807664
+        23.156733,
+        47.179329,
+        23.156733,
+        47.179329
     ],
+    "connections": [],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/920050645"
+        "https://pleiades.stoa.org/places/920050645",
+        "https://pleiades.stoa.org/places/885808303"
     ],
     "contributors": [
         {
@@ -70,156 +72,6 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            23.1576489,
-                            47.1775014
-                        ],
-                        [
-                            23.1563221,
-                            47.1779865
-                        ],
-                        [
-                            23.1551146,
-                            47.1784767
-                        ],
-                        [
-                            23.1550827,
-                            47.1784932
-                        ],
-                        [
-                            23.1550626,
-                            47.1785069
-                        ],
-                        [
-                            23.1550484,
-                            47.1785194
-                        ],
-                        [
-                            23.1550375,
-                            47.1785359
-                        ],
-                        [
-                            23.1550283,
-                            47.1785575
-                        ],
-                        [
-                            23.1550291,
-                            47.1785797
-                        ],
-                        [
-                            23.1550375,
-                            47.1786008
-                        ],
-                        [
-                            23.1550476,
-                            47.1786139
-                        ],
-                        [
-                            23.1560965,
-                            47.1798859
-                        ],
-                        [
-                            23.1567892,
-                            47.180665
-                        ],
-                        [
-                            23.1568416,
-                            47.180709
-                        ],
-                        [
-                            23.1568679,
-                            47.1807258
-                        ],
-                        [
-                            23.1568908,
-                            47.1807391
-                        ],
-                        [
-                            23.156908,
-                            47.1807458
-                        ],
-                        [
-                            23.1569367,
-                            47.1807558
-                        ],
-                        [
-                            23.1569621,
-                            47.180762
-                        ],
-                        [
-                            23.1569867,
-                            47.1807653
-                        ],
-                        [
-                            23.1570105,
-                            47.1807664
-                        ],
-                        [
-                            23.1570851,
-                            47.1807575
-                        ],
-                        [
-                            23.1571187,
-                            47.1807497
-                        ],
-                        [
-                            23.1571548,
-                            47.1807397
-                        ],
-                        [
-                            23.1581773,
-                            47.1803298
-                        ],
-                        [
-                            23.1583133,
-                            47.1802737
-                        ],
-                        [
-                            23.159176,
-                            47.1798897
-                        ],
-                        [
-                            23.159311,
-                            47.1798076
-                        ],
-                        [
-                            23.1593679,
-                            47.1797415
-                        ],
-                        [
-                            23.1593655,
-                            47.1796723
-                        ],
-                        [
-                            23.1588624,
-                            47.1789304
-                        ],
-                        [
-                            23.1588568,
-                            47.1789227
-                        ],
-                        [
-                            23.1576489,
-                            47.1775014
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "osm-location-of-castrum-porolissum",
-            "properties": {
-                "description": "Representative location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/207361/osm-location-of-castrum-porolissum",
-                "location_precision": "precise",
-                "snippet": "Settlement; 30 BC - AD 300",
-                "title": "OSM location of Castrum Porolissum"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -276,10 +128,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
@@ -297,6 +152,9 @@
             "end": 300,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -316,6 +174,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -323,6 +184,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -333,216 +195,19 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/207361/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2017-04-16T17:41:58Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Representative location based on OpenStreetMap.",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "settlement"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            23.1576489,
-                            47.1775014
-                        ],
-                        [
-                            23.1563221,
-                            47.1779865
-                        ],
-                        [
-                            23.1551146,
-                            47.1784767
-                        ],
-                        [
-                            23.1550827,
-                            47.1784932
-                        ],
-                        [
-                            23.1550626,
-                            47.1785069
-                        ],
-                        [
-                            23.1550484,
-                            47.1785194
-                        ],
-                        [
-                            23.1550375,
-                            47.1785359
-                        ],
-                        [
-                            23.1550283,
-                            47.1785575
-                        ],
-                        [
-                            23.1550291,
-                            47.1785797
-                        ],
-                        [
-                            23.1550375,
-                            47.1786008
-                        ],
-                        [
-                            23.1550476,
-                            47.1786139
-                        ],
-                        [
-                            23.1560965,
-                            47.1798859
-                        ],
-                        [
-                            23.1567892,
-                            47.180665
-                        ],
-                        [
-                            23.1568416,
-                            47.180709
-                        ],
-                        [
-                            23.1568679,
-                            47.1807258
-                        ],
-                        [
-                            23.1568908,
-                            47.1807391
-                        ],
-                        [
-                            23.156908,
-                            47.1807458
-                        ],
-                        [
-                            23.1569367,
-                            47.1807558
-                        ],
-                        [
-                            23.1569621,
-                            47.180762
-                        ],
-                        [
-                            23.1569867,
-                            47.1807653
-                        ],
-                        [
-                            23.1570105,
-                            47.1807664
-                        ],
-                        [
-                            23.1570851,
-                            47.1807575
-                        ],
-                        [
-                            23.1571187,
-                            47.1807497
-                        ],
-                        [
-                            23.1571548,
-                            47.1807397
-                        ],
-                        [
-                            23.1581773,
-                            47.1803298
-                        ],
-                        [
-                            23.1583133,
-                            47.1802737
-                        ],
-                        [
-                            23.159176,
-                            47.1798897
-                        ],
-                        [
-                            23.159311,
-                            47.1798076
-                        ],
-                        [
-                            23.1593679,
-                            47.1797415
-                        ],
-                        [
-                            23.1593655,
-                            47.1796723
-                        ],
-                        [
-                            23.1588624,
-                            47.1789304
-                        ],
-                        [
-                            23.1588568,
-                            47.1789227
-                        ],
-                        [
-                            23.1576489,
-                            47.1775014
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "added OSM location",
-                    "modified": "2017-04-16T17:42:26Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2017-04-16T17:41:59Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "osm-location-of-castrum-porolissum",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Way 206305822, version 11, osm:changeset=36975771, 2016-02-03T12:08:31Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/206305822",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 206305822",
-                    "formattedCitation": "osm:way=206305822",
-                    "otherIdentifier": "",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Castrum Porolissum",
-            "uri": "https://pleiades.stoa.org/places/207361/osm-location-of-castrum-porolissum"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -597,6 +262,9 @@
             "uri": "https://pleiades.stoa.org/places/207361/porolissum"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -607,6 +275,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 21 F2 Porolissum",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -617,6 +286,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Porolissum",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "RE Porolissum",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -627,6 +297,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Aquincum-92-93",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "TIR Aquincum 92-93",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -637,19 +308,21 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "TP 7A3 (Talbert 1930)",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "citesAsEvidence"
         },
         {
-            "accessURI": "http://en.wikipedia.org/wiki/Porolissum",
+            "accessURI": "https://en.wikipedia.org/wiki/Porolissum",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, Porolissum",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "Porolissum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Porolissum.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -657,6 +330,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 30156",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -667,25 +341,27 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), POROLISSUM (Moigrad) Sălaj, Romania",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://darmc.harvard.edu/home",
+            "accessURI": "https://darmc.harvard.edu/",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FG54V3UQ",
-            "citationDetail": "24726 ",
-            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick. “The Digital Atlas of Roman and Medieval Civilizations,” 2007. http://darmc.harvard.edu/home.</div>",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "citationDetail": "24726",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24726.",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.156979754749138,
-        47.179235620228425
+        23.156733,
+        47.179329
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

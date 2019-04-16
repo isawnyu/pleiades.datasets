@@ -6,8 +6,83 @@
         -0.090588,
         51.5127292
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/79574",
+            "contributors": [],
+            "created": "2016-07-13T13:47:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "79574",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Londinium/Augusta",
+            "uri": "https://pleiades.stoa.org/places/17649950/79574"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/964504689",
+            "contributors": [],
+            "created": "2019-02-07T10:19:04Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 410,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-02-07T10:19:05Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "walbrook-stream",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": 43,
+            "title": "Walbrook (stream)",
+            "uri": "https://pleiades.stoa.org/places/17649950/walbrook-stream"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/79574"
+        "https://pleiades.stoa.org/places/79574",
+        "https://pleiades.stoa.org/places/964504689",
+        "https://pleiades.stoa.org/places/964504689"
     ],
     "contributors": [
         {
@@ -141,10 +216,13 @@
             "accuracy": null,
             "archaeologicalRemains": "restored",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -176,6 +254,10 @@
             "featureType": [
                 "temple-2",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -225,6 +307,10 @@
                 "relocated_modern",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 126470937, version 2, osm:changeset=25785445, 2014-10-01T09:11:05Z)",
             "references": [
                 {
@@ -232,6 +318,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 126470937",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=126470937",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -248,10 +335,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -283,6 +373,10 @@
             "featureType": [
                 "findspot",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/findspot",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -318,6 +412,10 @@
                 "representative",
                 ""
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/findspot",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
@@ -327,6 +425,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/findspot",
+        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+    ],
     "placeTypes": [
         "findspot",
         "temple-2"
@@ -334,13 +436,14 @@
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://wikipedia.org/wiki/London_Mithraeum",
+            "accessURI": "https://en.wikipedia.org/wiki/London_Mithraeum",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia, London Mithraeum",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "citationDetail": "London Mithraeum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), London Mithraeum.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -348,6 +451,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "English Heritage monument number 404539",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -358,6 +462,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/39483596",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Shepherd, J. D. 1998. The Temple of Mithras, London : excavations by W.F. Grimes and A. Williams at the Walbrook. London: English Heritage.",
             "otherIdentifier": " ",
             "shortTitle": "",

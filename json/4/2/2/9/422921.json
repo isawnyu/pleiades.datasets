@@ -6,6 +6,37 @@
         12.352762,
         41.782352
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/390205932",
+            "contributors": [],
+            "created": "2016-07-13T14:01:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "390205932",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Ostiensis",
+            "uri": "https://pleiades.stoa.org/places/422921/390205932"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/390205932"
     ],
@@ -119,14 +150,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
             "contributors": [
@@ -152,6 +188,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": {
                 "coordinates": [
                     12.352762,
@@ -170,6 +209,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 7042",
             "references": [
                 {
@@ -177,6 +219,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "7042",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7042.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
@@ -193,24 +236,25 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "attested": "",
+            "attested": "Ficana",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -218,6 +262,18 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2010-11-10T22:31:59Z",
@@ -236,16 +292,33 @@
             "end": -330,
             "history": [
                 {
+                    "comment": "reference",
+                    "modified": "2019-04-14T14:06:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:55:35Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "ficana",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 43 B2 Ficana",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/240/171-177",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.68.3",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Ficana",
             "start": -750,
@@ -253,6 +326,9 @@
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/422921/ficana"
         }
+    ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
         "settlement"
@@ -264,6 +340,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
             "citationDetail": "43 B2 Ficana",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://openlibrary.org/works/OL8327792W.</div>",
             "otherIdentifier": " ",
             "shortTitle": "BAtlas",
@@ -274,6 +351,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KJ255F6Z",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Fischer-Hansen, Tobias, ed. <i>Scavi di Ficana</i>. 2 vols. Roma: Istituto poligrafico e zecca dello stato, Libreria dello stato; Soprintendenza archeologica di Ostia, 1990. http://www.worldcat.org/oclc/977099392.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Fischer-Hansen 1990",
@@ -284,6 +362,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Ficana",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Ficana.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -294,6 +373,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Enciclopedia dell' Arte Antica II Supplemento (1994), FICANA",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -304,6 +384,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
             "citationDetail": "3.68.3",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Plin., NH (Mayhoff: PHI)",
@@ -314,6 +395,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 32277",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -324,6 +406,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Liv. (Conway and Walter: PHI) 1.33.3.1",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -334,6 +417,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Fest. 250.67",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -344,6 +428,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Ficana",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Ficana.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
@@ -354,6 +439,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), FICANA",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -364,6 +450,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LE5PEXMM",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Fischer-Hansen, T., C. Pavolini, and G. Bartoloni. “Ficana.” In <i>Archeologia Laziale, [1]. Incontro Di Studio Del Comitato per l’archeologia Laziale</i>, 35–41, Abb. Taf, n.d.</div>",
             "otherIdentifier": "",
             "shortTitle": "Fischer-Hansen 1978",
@@ -374,6 +461,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4P53M24N",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Brandt, J. R., C. Pavolini, and M. Cataldi Dini. “Ficana.” In <i>Archeologia Laziale, 2. Secondo Incontro Di Studio Del Comitato per l’archeologia Laziale</i>, 29–36, Abb. Taf, n.d.</div>",
             "otherIdentifier": "",
             "shortTitle": "Brandt 1979",
@@ -384,6 +472,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8TL7NBN9",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Fischer-Hansen, Tobias, and Gregers Algreen-Ussing. <i>Excavations at Ficana. III: The Iron Age Fortifications</i>. Occasional Papers of the Nordic Institutes in Rome 7. Rome: Edizioni Quasar, 2013.</div>",
             "otherIdentifier": "",
             "shortTitle": "Fischer-Hansen 2013",
@@ -394,6 +483,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z6KNYL6Z",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pietilä-Castrén, Leena. <i>Excavations at Ficana. IV: The Republican and Imperial Periods: The Excavations of Zona 6B</i>. Occasional Papers of the Nordic Institutes in Rome 8. Helsinki: Institutum Romanum Finlandiae, 2012.</div>",
             "otherIdentifier": "",
             "shortTitle": "Pietilä-Castrén 2012",
@@ -404,6 +494,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HFDHILSL",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Fischer-Hansen, Tobias. “Ficana (Monte Cugno): The Situation in the Territory of Ostia.” In <i>Ostraka, Rivista Di Antichità, Vol.Spec.2012</i>, 527–36. Napoli: Loffredo editore, 2012.</div>",
             "otherIdentifier": "",
             "shortTitle": "Fischer-Hansen 2012",
@@ -414,6 +505,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6EKEJQ9T",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Quilici Gigli, S. “Nota Topografica Su Ficana.” In <i>Archeologia Classica, 23.1971</i>, 26–36, Abb. Taf, 1971.</div>",
             "otherIdentifier": "",
             "shortTitle": "Quilici Gigli 1971",
@@ -424,6 +516,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
             "citationDetail": "Q3744504",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",

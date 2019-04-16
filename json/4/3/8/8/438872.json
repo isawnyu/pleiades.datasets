@@ -6,6 +6,37 @@
         13.5,
         41.5
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/433208",
+            "contributors": [],
+            "created": "2016-07-13T13:42:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "433208",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Volsci",
+            "uri": "https://pleiades.stoa.org/places/438872/433208"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/433208"
     ],
@@ -41,7 +72,7 @@
         }
     ],
     "description": "Verrugo was a Volscian settlement at the borders of Latium. Its location is now uncertain.",
-    "details": "None",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": null,
@@ -57,6 +88,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2019-04-15T12:55:13Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added references",
             "modified": "2015-09-21T20:55:49Z",
@@ -80,14 +116,19 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
             "contributors": [
@@ -119,6 +160,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": null,
             "history": [
                 {
@@ -130,6 +174,9 @@
             "id": "batlas-location",
             "locationType": [
                 "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "provenance": "Barrington Atlas: BAtlas 44 Verrugo",
             "references": [],
@@ -143,14 +190,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
             "attested": "",
@@ -200,39 +252,47 @@
             "uri": "https://pleiades.stoa.org/places/438872/verrugo"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 44 Verrugo",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
-            "formattedCitation": "BAtlas 44 Verrugo",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "44 Verrugo",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/929265929",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/n.html#Nissen-II",
-            "citationDetail": "",
-            "formattedCitation": "Nissen II, 649",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNVN3E2D",
+            "citationDetail": "649",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Nissen, Heinrich. <i>Italische Landeskunde. 2 : Die Staedte</i>. Amsterdam: Hakkert, 1967. http://www.worldcat.org/oclc/929265929.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Nissen II",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/verrugo-e12201710",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "New Pauly, Verrugo",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Verrugo",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
         },
         {
@@ -240,6 +300,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Smith 1854 (Perseus), VERRUGO",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -250,6 +311,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. (Conway and Walters: PHI) 4.1.4.4",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -260,6 +322,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. (Conway and Walters: PHI) 4.55.8.6",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -270,6 +333,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. (Conway and Walters: PHI) 4.56.4.3, 4.56.5.4",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -280,6 +344,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. (Conway and Walters: PHI) 4.58.3.2",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -290,6 +355,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Liv. (Conway and Walters: PHI) 5.28.6.3, 5.28.7.4, 5.28.10.4, 5.28.11.1",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -300,6 +366,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Val. Max. 3.2.8.3",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -310,6 +377,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Val. Max. 6.5.2.3",
             "otherIdentifier": " ",
             "shortTitle": "",

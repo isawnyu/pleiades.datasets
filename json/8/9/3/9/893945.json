@@ -6,8 +6,103 @@
         43.2669455,
         35.4588423
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/912964",
+            "contributors": [],
+            "created": "2016-10-28T16:14:45Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2018-01-11T20:54:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added cnxn",
+                    "modified": "2016-10-28T16:14:46Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "tigris-diglitus-river",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Tigris/Diglitus (river)",
+            "uri": "https://pleiades.stoa.org/places/893945/tigris-diglitus-river"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "akkadian-ur-iii-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/akkadian-ur-iii-mesopotamia"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-1st-millennium-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-1st-millennium-mesopotamia"
+                }
+            ],
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
+            "connectsTo": "https://pleiades.stoa.org/places/29492",
+            "contributors": [],
+            "created": "2018-02-03T05:35:12Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -720,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2018-02-03T05:35:13Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "as-syria",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -2335,
+            "title": "(As)Syria",
+            "uri": "https://pleiades.stoa.org/places/893945/as-syria"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/844869",
         "https://pleiades.stoa.org/places/912964",
         "https://pleiades.stoa.org/places/29492"
     ],
@@ -180,14 +275,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 }
             ],
             "contributors": [
@@ -212,6 +312,9 @@
             "end": -540,
             "featureType": [
                 "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -273,6 +376,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "provenance": "OpenStreetMap (Way 144223654, version 2, osm:changeset=43249422, 2016-10-28T16:12:08Z)",
             "references": [
                 {
@@ -280,6 +386,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 144223654",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=144223654",
                     "otherIdentifier": "http://www.openstreetmap.org/browse/way/144223654",
                     "shortTitle": "OSM",
@@ -296,10 +403,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "",
@@ -333,6 +443,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
                     "citationDetail": "Aššur (Stadt)",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Wikipedia (German)",
@@ -349,14 +460,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "early-1st-millennium-mesopotamia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-1st-millennium-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-1st-millennium-mesopotamia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 }
             ],
             "attested": "",
@@ -390,6 +506,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z3RA87EP",
                     "citationDetail": "367-370",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, and Sonderforschungsbereich Tübinger Atlas des Vorderen Orients. <i>Répertoire géographique des textes cunéiformes 7 2,1 7 2,1</i>. Wiesbaden: Ludwig Reichert Verlag, 2017. http://www.worldcat.org/oclc/1006831066.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Bagg, RGTC 7/2-1",
@@ -406,14 +523,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "archaic"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "classical"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
             "attested": "",
@@ -469,6 +591,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://atlantides.org/bibliography/d.html#Dillemann-1962",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
                     "formattedCitation": "Dillemann 1962, 87, 181, 273, 284, 285",
                     "otherIdentifier": "",
                     "shortTitle": "",
@@ -485,18 +608,25 @@
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -552,14 +682,19 @@
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -615,14 +750,19 @@
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "hellenistic-republican"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -678,18 +818,25 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "akkadian-ur-iii-mesopotamia"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "akkadian-ur-iii-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/akkadian-ur-iii-mesopotamia"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 }
             ],
             "attested": "",
@@ -723,6 +870,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z3RA87EP",
                     "citationDetail": "77-80",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, and Sonderforschungsbereich Tübinger Atlas des Vorderen Orients. <i>Répertoire géographique des textes cunéiformes 7 2,1 7 2,1</i>. Wiesbaden: Ludwig Reichert Verlag, 2017. http://www.worldcat.org/oclc/1006831066.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Bagg, RGTC 7/2-1",
@@ -739,14 +887,19 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 }
             ],
             "attested": "",
@@ -780,6 +933,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z3RA87EP",
                     "citationDetail": "77-80",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
                     "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, and Sonderforschungsbereich Tübinger Atlas des Vorderen Orients. <i>Répertoire géographique des textes cunéiformes 7 2,1 7 2,1</i>. Wiesbaden: Ludwig Reichert Verlag, 2017. http://www.worldcat.org/oclc/1006831066.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Bagg, RGTC 7/2-1",
@@ -794,6 +948,9 @@
             "uri": "https://pleiades.stoa.org/places/893945/name.2018-01-11.9929253843"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
         "settlement"
     ],
@@ -804,6 +961,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 91 E2 Ashur/‘Lamban’?/‘Liba(nai)’?",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -814,6 +972,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9ZK7WNAA",
             "citationDetail": "87, 181, 273, 284, 285",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Dillemann, Louis. <i>Haute Mésopotamie Orientale et Pays Adjacents: Contribution a La Géographie Historique de La Région, Du Ve s. Avant l’ére Chrétienneau VIe s. de Cette Ére</i>. Bibliothèque Archéologique et Historique, t. 72. Paris: P. Geuthner; Institut français d’archéologie de Beyrouth, 1962.</div>",
             "otherIdentifier": "",
             "shortTitle": "Dillemann 1962",
@@ -824,6 +983,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "UNESCO World Heritage List, Ashur (Qal'at Sherqat)",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -832,8 +992,9 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Ashur_(Qal%27at_Sherqat)",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Assur",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Assur.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
@@ -844,6 +1005,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "New Pauly, Assur [1] City on the Tigris",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -854,6 +1016,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
             "citationDetail": "22406",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
@@ -864,6 +1027,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM GEO ID 50663",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -874,6 +1038,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "14-20",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "",
             "otherIdentifier": "",
             "shortTitle": "Nashef 1991",
@@ -884,6 +1049,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UW6RS2SM",
             "citationDetail": "41-43",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Nashef, Khaled, J.R Kupper, and Wolfgang Röllig. <i>Répertoire géographique des textes cunéiformes V, V,</i>. Vol. 5. Beihefte zum Tübinger Atlas des Vorderen Orients. Reihe B, Geisteswissenschaften 7. Wiesbaden: Reichert, 1982. http://www.worldcat.org/oclc/768927829.</div>",
             "otherIdentifier": "",
             "shortTitle": "Nashef 1982",
@@ -894,6 +1060,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z3RA87EP",
             "citationDetail": "77-80, 367-370",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, and Sonderforschungsbereich Tübinger Atlas des Vorderen Orients. <i>Répertoire géographique des textes cunéiformes 7 2,1 7 2,1</i>. Wiesbaden: Ludwig Reichert Verlag, 2017. http://www.worldcat.org/oclc/1006831066.</div>",
             "otherIdentifier": "",
             "shortTitle": "Bagg, RGTC 7/2-1",
@@ -904,6 +1071,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LCUKSJKD",
             "citationDetail": "170-195",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Ebeling, Erich. <i>Reallexikon Der Assyriologie Und Vorderasiatischen Archäologie</i>. Berlin und Leipzig: W. de Gruyter &amp; Co., 1932.</div>",
             "otherIdentifier": "",
             "shortTitle": "RLAss 1",
@@ -914,6 +1082,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "",
             "otherIdentifier": "",
             "shortTitle": "Andrae 77",
@@ -924,6 +1093,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "276",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "",
             "otherIdentifier": "",
             "shortTitle": "Frahm 1997",
@@ -934,6 +1104,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "18-24",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "",
             "otherIdentifier": "",
             "shortTitle": "RINAP 3/2",
@@ -944,6 +1115,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
             "citationDetail": "Q200200",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
@@ -954,6 +1126,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
             "citationDetail": "Aššur (Stadt)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (German)",
@@ -964,6 +1137,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GUZL9E89",
             "citationDetail": "455-470",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">George, A. R, Katholieke Universiteit te Leuven (1970-), and Departement Oriëntalistiek. <i>Babylonian topographical texts</i>. Orientalia Lovaniensia analecta 40. Leuven: Departement Oriëntalistiek : Peeters, 1992. http://www.worldcat.org/oclc/803804468.</div>",
             "otherIdentifier": "",
             "shortTitle": "George 1992",
@@ -974,6 +1148,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "049 (P285518)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "",
             "otherIdentifier": "",
             "shortTitle": "SAA 20",

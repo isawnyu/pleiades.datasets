@@ -6,6 +6,37 @@
         1.2572228,
         41.1161446
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/246349",
+            "contributors": [],
+            "created": "2016-07-13T13:36:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "246349",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Col. Tarraco",
+            "uri": "https://pleiades.stoa.org/places/468980180/246349"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/246349"
     ],
@@ -93,10 +124,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -122,6 +156,10 @@
             "featureType": [
                 "circus",
                 ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/circus",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
@@ -156,6 +194,10 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/circus",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
             "provenance": "OpenStreetMap (Way 106474110, version 4, osm:changeset=19214519, 2013-12-01T16:41:16Z)",
             "references": [
                 {
@@ -163,6 +205,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 106474110",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=106474110",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
@@ -179,10 +222,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "modern"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "attested": "Circo romano de Tarraco",
@@ -216,6 +262,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
                     "formattedCitation": "GeoNames 7870534",
                     "otherIdentifier": " ",
                     "shortTitle": "",
@@ -230,6 +277,9 @@
             "uri": "https://pleiades.stoa.org/places/468980180/circo-romano-de-tarraco"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/circus"
+    ],
     "placeTypes": [
         "circus"
     ],
@@ -240,6 +290,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), TARRACO or Kallipolis, Cissa, or Cissis (Tarragona) Spain",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -250,6 +301,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "UNESCO World Heritage List, Archaeological Ensemble of Tárraco",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -260,6 +312,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "tarragona.cat: ROMAN CIRCUS",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -270,6 +323,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Humphrey 1986, 667",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -280,6 +334,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Keay 1988, 128",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -290,19 +345,21 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "GeoNames 7870534",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "https://ca.wikipedia.org/w/index.php?title=Circ_rom%C3%A0_de_Tarragona&uselang=en-US",
+            "accessURI": "https://ca.wikipedia.org/wiki/Circ_rom%C3%A0_de_Tarragona",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Catalan), Circ romà de Tarragona",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/NKNPYEAZ",
+            "citationDetail": "Circ romà de Tarragona",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Circ romà de Tarragona.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Catalan)",
             "type": "seeFurther"
         }
     ],

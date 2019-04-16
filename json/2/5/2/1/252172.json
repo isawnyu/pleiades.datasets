@@ -1,6 +1,7 @@
 {
     "@type": "Place",
     "bbox": null,
+    "connections": [],
     "connectsWith": [],
     "contributors": [
         {
@@ -8,28 +9,36 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-11-09T18:48:40Z",
     "creators": [
+        {
+            "name": "H.S. Sivan",
+            "username": null
+        },
         {
             "name": "S.J. Keay",
             "username": null
         },
         {
             "name": "R.W. Mathisen",
-            "username": null
-        },
-        {
-            "name": "H.S. Sivan",
             "username": null
         }
     ],
@@ -51,6 +60,11 @@
     ],
     "history": [
         {
+            "comment": "Initial revision",
+            "modified": "2019-04-14T00:33:00Z",
+            "modifiedBy": "jbecker"
+        },
+        {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T20:08:04Z",
             "modifiedBy": "sgillies"
@@ -68,10 +82,13 @@
             "accuracy": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
@@ -111,6 +128,9 @@
             "featureType": [
                 "unknown"
             ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "geometry": null,
             "history": [
                 {
@@ -122,6 +142,9 @@
             "id": "batlas-location",
             "locationType": [
                 "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "provenance": "Barrington Atlas: BAtlas 25 Abuca/Thabuca",
             "references": [],
@@ -135,10 +158,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -198,10 +224,13 @@
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "attested": "",
@@ -264,6 +293,9 @@
             "uri": "https://pleiades.stoa.org/places/252172/thabuca"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+    ],
     "placeTypes": [
         "unlocated"
     ],
@@ -274,6 +306,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 25 Abuca/Thabuca",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -284,19 +317,21 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#Tovar-1989",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Tovar 1989, 414",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/31397775",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Caesaraugusta-221",
-            "citationDetail": "",
-            "formattedCitation": "TIR Caesaraugusta 221",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/H6EE4IV4",
+            "citationDetail": "221",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Fatás Cabeza, Guillermo, Adela Cepas, José Ignacio Reguera Cardiel, and José Manuel Abascal Palazón. <i>Tabula Imperii Romani : K30 Madrid : Caesaraugusta - Clunia : escala 1:1.000.000 : base geográfica, Instituto Geográfico Nacional</i>. Tabula Imperii Romani, K30. Madrid. Madrid: Ministerio de Cultura; Union académique internationale; Instituto Geográfico Nacional (Spain), 1993. http://www.worldcat.org/oclc/31397775.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Caesaraugusta",
             "type": "seeFurther"
         }
     ],

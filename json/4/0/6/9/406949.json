@@ -6,6 +6,37 @@
         10.3019945,
         42.3376802
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/403247",
+            "contributors": [],
+            "created": "2016-07-13T14:00:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "403247",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Oglasa (island)",
+            "uri": "https://pleiades.stoa.org/places/406949/403247"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/403247"
     ],
@@ -96,10 +127,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "mediaeval-byzantine"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 }
             ],
             "contributors": [],
@@ -117,6 +151,9 @@
             "end": 1453,
             "featureType": [
                 "abbey"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/abbey"
             ],
             "geometry": {
                 "coordinates": [
@@ -141,6 +178,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/abbey"
+            ],
             "provenance": "OpenStreetMap (Node 1532763481, version 4, osm:changeset=46595620, 2017-03-05T13:09:38Z)",
             "references": [
                 {
@@ -148,6 +188,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 1532763481",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:node=1532763481",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -161,6 +202,10 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/abbey",
+        "https://pleiades.stoa.org/vocabularies/place-types/church"
+    ],
     "placeTypes": [
         "abbey",
         "church"
@@ -172,6 +217,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 41 C5",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -182,6 +228,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/i.html#ItalPontif-III",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "ItalPontif III, 276",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -192,6 +239,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
             "citationDetail": "Monastero di San Mamiliano",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (Italian)",
@@ -202,6 +250,7 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/L8RBW985",
             "citationDetail": "Category:Monastero di San Mamiliano",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">“Wikimedia Commons.” Media file repository. Wikimedia Commons, 2004. https://commons.wikimedia.org/wiki/Main_Page.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikimedia Commons",

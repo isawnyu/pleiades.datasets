@@ -2,11 +2,14 @@
     "@type": "Place",
     "bbox": [
         -4.562887,
-        37.0149137,
-        -4.555913,
+        37.019374,
+        -4.562887,
         37.019374
     ],
-    "connectsWith": [],
+    "connections": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/168208658"
+    ],
     "contributors": [
         {
             "name": "R. Warner",
@@ -60,24 +63,6 @@
                 "title": "DARMC location 19969"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -4.555913,
-                    37.0149137
-                ],
-                "type": "Point"
-            },
-            "id": "termas-romanas-de-santa-maria",
-            "properties": {
-                "description": "Remains of Roman baths at Antequera in Spain. Location via  OpenStreetMap, based on geotagged photos in Flickr and Panoramio. Dates after BAtlas.",
-                "link": "https://pleiades.stoa.org/places/265799/termas-romanas-de-santa-maria",
-                "location_precision": "precise",
-                "snippet": "Bath, ; 30 BC - AD 300",
-                "title": "Termas romanas de Santa María"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
@@ -124,14 +109,19 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
@@ -152,6 +142,9 @@
             "end": 640,
             "featureType": [
                 "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
@@ -176,146 +169,46 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
             "provenance": "DARMC OBJECTID: 19969",
             "references": [
                 {
-                    "accessURI": "http://darmc.harvard.edu",
+                    "accessURI": "https://darmc.harvard.edu/",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "19969",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19969.",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
             "title": "DARMC location 19969",
             "uri": "https://pleiades.stoa.org/places/265799/darmc-location-19969"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "timePeriod": "roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-04-09T22:17:37Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                }
-            ],
-            "description": "Remains of Roman baths at Antequera in Spain. Location via  OpenStreetMap, based on geotagged photos in Flickr and Panoramio. Dates after BAtlas.",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "bath",
-                ""
-            ],
-            "geometry": {
-                "coordinates": [
-                    -4.555913,
-                    37.0149137
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-09T22:29:08Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-09T22:26:04Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2013-04-09T22:20:36Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-04-09T22:17:41Z",
-                    "modifiedBy": "thomase"
-                }
-            ],
-            "id": "termas-romanas-de-santa-maria",
-            "locationType": [
-                "representative"
-            ],
-            "provenance": "OpenStreetMap (Node 2260804247, version 1, osm:changeset=15671908, 2013-04-09T22:15:38Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/2260804247",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 2260804247",
-                    "formattedCitation": "osm:node=2260804247",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://es.wikipedia.org/wiki/Antequera",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Wikipedia (Spanish), Antequera",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeAlso"
-                },
-                {
-                    "accessURI": "http://www.flickr.com/photos/ovando/sets/72157633193283809/",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Ovando, A. 2013. \"Termas romanas de Antequera.\" Flickr.com.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                },
-                {
-                    "accessURI": "http://www.panoramio.com/photo/82665800",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "formattedCitation": "Ángel Mato, M. n.d. \"Termas Romanas.\" Panoramio.com.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "Termas romanas de Santa María",
-            "uri": "https://pleiades.stoa.org/places/265799/termas-romanas-de-santa-maria"
         }
     ],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "roman"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
-                    "timePeriod": "late-antique"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "attested": "",
@@ -369,9 +262,11 @@
             "uri": "https://pleiades.stoa.org/places/265799/anticaria"
         }
     ],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
     "placeTypes": [
-        "settlement",
-        "bath"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 27 A4 Anticaria",
     "references": [
@@ -380,6 +275,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "BAtlas 27 A4 Anticaria",
             "otherIdentifier": " ",
             "shortTitle": "",
@@ -390,6 +286,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#Tovar-1974",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Tovar 1974, 134-35",
             "otherIdentifier": "",
             "shortTitle": "",
@@ -400,25 +297,27 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "PECS (Perseus), ANTICARIA (Antequera) Málaga, Spain",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://es.wikipedia.org/wiki/Antequera",
+            "accessURI": "https://es.wikipedia.org/wiki/Antequera",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "formattedCitation": "Wikipedia (Spanish), Antequera",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/LPYQ8SZL",
+            "citationDetail": "Antequera",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Wikipedia: la enciclopedia de contenido libre (2001-), Antequera.",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Spanish)",
             "type": "seeAlso"
         }
     ],
     "reprPoint": [
-        -4.5594,
-        37.01714385
+        -4.562887,
+        37.019374
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -6,6 +6,37 @@
         8.4537578,
         39.9638207
     ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/472014",
+            "contributors": [],
+            "created": "2016-07-13T13:32:04Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "472014",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sardinia (island)",
+            "uri": "https://pleiades.stoa.org/places/149683041/472014"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/472014"
     ],
@@ -136,10 +167,13 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
-                    "timePeriod": "2nd-millenium-bce"
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
             "contributors": [
@@ -164,6 +198,9 @@
             "end": -1000,
             "featureType": [
                 "monument"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument"
             ],
             "geometry": {
                 "coordinates": [
@@ -231,6 +268,9 @@
             "locationType": [
                 "representative"
             ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/monument"
+            ],
             "provenance": "OpenStreetMap (Way 305288998, version 2, osm:changeset=44214791, 2016-12-06T17:14:09Z)",
             "references": [
                 {
@@ -238,6 +278,7 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 305288998",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
                     "formattedCitation": "osm:way=305288998",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
@@ -251,21 +292,27 @@
         }
     ],
     "names": [],
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/findspot",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+        "https://pleiades.stoa.org/vocabularies/place-types/monument"
+    ],
     "placeTypes": [
         "findspot",
-        "monument",
-        "settlement-modern"
+        "settlement-modern",
+        "monument"
     ],
     "provenance": "Pleiades",
     "references": [
         {
             "accessURI": "https://en.wikipedia.org/wiki/Giants_of_Monte_Prama",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Giants of Mont'e Prama",
-            "formattedCitation": "Wikipedia, Giants of Mont'e Prama",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Giants of Mont'e Prama.",
             "otherIdentifier": " ",
-            "shortTitle": "Wikipedia",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
@@ -273,6 +320,7 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "Giganti di Mont’e Prama",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "",
             "otherIdentifier": " ",
             "shortTitle": "ArkeoSardinia",
@@ -283,6 +331,7 @@
             "alternateURI": "",
             "bibliographicURI": "http://www.worldcat.org/oclc/907638763",
             "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "Boninu et al. 2014",
             "otherIdentifier": "",
             "shortTitle": "Boninu et al. 2014",
