@@ -1,44 +1,58 @@
 {
     "@type": "Place",
     "bbox": [
-        40.730117,
-        34.74722,
-        40.730117,
-        34.74722
+        40.7250559,
+        34.7433989,
+        40.7350123,
+        34.7523766
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/912849",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T14:03:14Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype: on",
+                    "modified": "2019-04-18T11:12:55Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "912849",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Euphrates",
+            "title": "Euphrates (river)",
             "uri": "https://pleiades.stoa.org/places/893990/912849"
         }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/912849",
+        "https://pleiades.stoa.org/places/335307374",
         "https://pleiades.stoa.org/places/462038222"
     ],
     "contributors": [
@@ -109,7 +123,7 @@
         }
     ],
     "description": "An ancient settlement on the Euphrates river in modern Syria.",
-    "details": "\r\n<div><span class=\"Apple-style-span\">The&nbsp;<a class=\"external-link\" href=\"http://www.nyu.edu/isaw/awib.htm\"><em>Ancient World Image Bank</em></a>&nbsp;(a publication of NYU's&nbsp;<a class=\"external-link\" href=\"http://www.nyu.edu/isaw/\">Institute for the Study of the Ancient World</a>, whose director runs the Amheida excavations) provides <a class=\"external-link\" href=\"http://www.flickr.com/photos/isawnyu/sets/72157626281349412/\">an open-access collection of images from Doura</a>.</span></div>\r\n<div><span class=\"Apple-style-span\"><br /></span></div>\r\nThe Barrington Atlas Directory notes: near Salihiya SYR",
+    "details": "<div><span class=\"Apple-style-span\">The <a class=\"external-link\" href=\"http://www.nyu.edu/isaw/awib.htm\"><em>Ancient World Image Bank</em></a> (a publication of NYU's <a class=\"external-link\" href=\"http://www.nyu.edu/isaw/\">Institute for the Study of the Ancient World</a>) provides <a class=\"external-link\" href=\"http://www.flickr.com/photos/isawnyu/sets/72157626281349412/\">an open-access collection of images from Doura</a>.</span></div>\r\n<div><span class=\"Apple-style-span\"> </span></div>\r\n<p>The Barrington Atlas Directory notes: near Salihiya SYR</p>",
     "features": [
         {
             "geometry": {
@@ -128,9 +142,128 @@
                 "title": "DARMC location 22390"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.7309782,
+                            34.7433989
+                        ],
+                        [
+                            40.7283175,
+                            34.7434694
+                        ],
+                        [
+                            40.7250559,
+                            34.7505219
+                        ],
+                        [
+                            40.7253992,
+                            34.7514387
+                        ],
+                        [
+                            40.7282547,
+                            34.7523766
+                        ],
+                        [
+                            40.7296544,
+                            34.7518459
+                        ],
+                        [
+                            40.7327807,
+                            34.7504514
+                        ],
+                        [
+                            40.733639,
+                            34.7496756
+                        ],
+                        [
+                            40.7344973,
+                            34.7484062
+                        ],
+                        [
+                            40.7350123,
+                            34.7469958
+                        ],
+                        [
+                            40.7349264,
+                            34.74622
+                        ],
+                        [
+                            40.7330382,
+                            34.7444568
+                        ],
+                        [
+                            40.7320082,
+                            34.743681
+                        ],
+                        [
+                            40.7309782,
+                            34.7433989
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-dura-europos",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/893990/osm-location-of-dura-europos",
+                "location_precision": "precise",
+                "snippet": "Settlement; 330 BC - AD 300",
+                "title": "OSM location of Dura-Europos"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "fixed baird url",
+            "modified": "2019-04-18T16:10:52Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "fixed idai url",
+            "modified": "2019-04-18T16:09:17Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added reference to Baird 2018",
+            "modified": "2019-04-18T12:09:09Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added related reference: Syriac Gazetteer",
+            "modified": "2019-04-18T11:37:24Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added related references: idai gazetteer and geonames",
+            "modified": "2019-04-18T11:30:21Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added related references: wikidata and tm geo",
+            "modified": "2019-04-18T11:20:42Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added EncIran reference",
+            "modified": "2019-04-18T11:16:53Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up references by re-fetching from Zotero after making capitalization changes there",
+            "modified": "2019-04-18T11:12:19Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "details cleanup",
+            "modified": "2019-04-18T10:38:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added references",
             "modified": "2015-07-04T19:53:28Z",
@@ -308,6 +441,146 @@
             "start": -330,
             "title": "DARMC location 22390",
             "uri": "https://pleiades.stoa.org/places/893990/darmc-location-22390"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2019-04-17T18:20:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            40.7309782,
+                            34.7433989
+                        ],
+                        [
+                            40.7283175,
+                            34.7434694
+                        ],
+                        [
+                            40.7250559,
+                            34.7505219
+                        ],
+                        [
+                            40.7253992,
+                            34.7514387
+                        ],
+                        [
+                            40.7282547,
+                            34.7523766
+                        ],
+                        [
+                            40.7296544,
+                            34.7518459
+                        ],
+                        [
+                            40.7327807,
+                            34.7504514
+                        ],
+                        [
+                            40.733639,
+                            34.7496756
+                        ],
+                        [
+                            40.7344973,
+                            34.7484062
+                        ],
+                        [
+                            40.7350123,
+                            34.7469958
+                        ],
+                        [
+                            40.7349264,
+                            34.74622
+                        ],
+                        [
+                            40.7330382,
+                            34.7444568
+                        ],
+                        [
+                            40.7320082,
+                            34.743681
+                        ],
+                        [
+                            40.7309782,
+                            34.7433989
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2019-04-17T18:20:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-04-17T18:20:02Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-dura-europos",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Way 23197438, version 6, osm:changeset=56753601, 2018-02-28T11:46:04Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/23197438",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 23197438",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=23197438",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -330,
+            "title": "OSM location of Dura-Europos",
+            "uri": "https://pleiades.stoa.org/places/893990/osm-location-of-dura-europos"
         }
     ],
     "names": [
@@ -600,47 +873,47 @@
     "provenance": "Barrington Atlas: BAtlas 91 B3 Dura/Europus",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "91 B3 Dura/Europus",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 91 B3 Dura/Europus",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/28327358",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5KIFTPDG",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Rostovtzeff 1943",
+            "formattedCitation": "<div class=\"csl-entry\">Rostovtzeff, Michael Ivanovitch. <i>The Excavations at Dura-Europos</i>. Monumenta Archaeologica (University of California, Los Angeles. Institute of Archaeology) 5. New Haven: Yale University Press, 1943.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Rostovtzeff 1943",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/34583983",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XGVW46WI",
+            "citationDetail": "Dura-Europos",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "OEANE Dura-Europos",
+            "formattedCitation": "<div class=\"csl-entry\">Meyers, Eric M, and American Schools of Oriental Research. <i>The Oxford Encyclopedia of Archaeology in the Near East</i>. New York: Oxford University Press, 1997.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "OEANE",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.archaeology.org/online/features/dura_europos/",
+            "accessURI": "https://archive.archaeology.org/online/features/dura_europos/",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FZ83WBP4",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Carly Silver, \"Dura-Europos: Crossroad of Cultures,\" Archaeology: Online Features, August 11, 2010",
+            "formattedCitation": "<div class=\"csl-entry\">Silver, Carly. “Dura-Europos: Crossroad of Cultures.” Archaeology Magazine, August 11, 2010. https://archive.archaeology.org/online/features/dura_europos/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Silver 2010",
             "type": "seeFurther"
         },
         {
@@ -657,40 +930,117 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DD%3Aentry+group%3D3%3Aentry%3Ddura-europos",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "DURA EUROPOS Syria",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "PECS (Perseus), DURA EUROPOS Syria",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://artgallery.yale.edu/duraeuropos/",
+            "accessURI": "http://media.artgallery.yale.edu/duraeuropos/",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EJ6KIDZK",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Dura-Europos: Excavating Antiquity (Yale University Art Gallery)",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Dura-Europos: Excavating Antiquity</i>. New Haven: Yale University Art Gallery, 2012. http://media.artgallery.yale.edu/duraeuropos/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Brody [2012]",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://referenceworks.brillonline.com/entries/brill-s-new-pauly/dura-europus-e325130",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Dura-Europus",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": " ",
+            "shortTitle": "New Pauly",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.iranicaonline.org/articles/dura-europos",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MGQ4IGT7",
+            "citationDetail": "DURA EUROPOS",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Yar-Shater, Ehsan. <i>Encyclopædia Iranica (Online)</i>. New York: Columbia University, 2010. http://www.iranicaonline.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "EncIran (online)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q464266",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": " Dura-Europos (Q464266) ",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/604",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 604: Doura (Dura-Europos)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Mark Depauw, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2296401",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2296401: Dura Europos",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.geonames.org/172481/qal-at-as-salihiyah.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "172481: Qal‘at aş Şāliḩīyah",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "GeoNames",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://syriaca.org/place/77",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LJYTZ7FD",
+            "citationDetail": "77: Dura-Europos",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Carlson, Thomas A., and David A. Michelson. <i>The Syriac Gazetteer</i>. Syriaca.org: The Syriac Reference Portal, 2014. http://syriaca.org/geo/index.html.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "SyrGaz",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/1034731631",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QL32DCUE",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "New Pauly, Dura-Europus",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "formattedCitation": "<div class=\"csl-entry\">Baird, Jennifer A. <i>Dura-Europos</i>. London: Bloomsbury, 2018. http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=1804252.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Baird 2018",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        40.730117,
-        34.74722
+        40.73002886045224,
+        34.747546619020966
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
