@@ -10,35 +10,56 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "succeeds",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/succeeds",
             "connectsTo": "https://pleiades.stoa.org/places/432764",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:42:28Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 640,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-05-05T17:56:11Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "432764",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": 300,
             "title": "Casinum",
             "uri": "https://pleiades.stoa.org/places/433082/432764"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/432764"
+        "https://pleiades.stoa.org/places/432764",
+        "https://pleiades.stoa.org/places/212743417"
     ],
     "contributors": [
         {
@@ -81,8 +102,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 44 E3 S. Benedictus",
-    "details": "<p>The monastery originally established by St. Benedict of Nursia.</p>",
+    "description": "A monastery originally established by St. Benedict of Nursia in A.D. 529/530.",
+    "details": "",
     "features": [
         {
             "geometry": {
@@ -122,6 +143,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2019-05-05T17:55:52Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary, reference",
+            "modified": "2019-05-05T15:01:08Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2017-05-31T02:52:39Z",
@@ -388,6 +419,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Pantoni, Angelo. <i>L’acropoli di Montecassino e il primitivo monastero di San Benedetto</i>. Miscellanea cassinese 43. Montecassino, 1980. http://www.worldcat.org/oclc/962525130.</div>",
             "otherIdentifier": "",
             "shortTitle": "Pantoni 1980",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Monte_Cassino",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Monte Cassino",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],
