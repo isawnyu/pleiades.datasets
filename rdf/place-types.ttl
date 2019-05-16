@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2019/04/14 06:47:46.847364 GMT-4
+# Date: 2019/05/12 06:47:47.082629 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 556
+# Triple count: 562
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -540,6 +540,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "stoa"@en;
     skos:scopeNote "A rectangular building with an open colonnade along one long side."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/synagogue> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/synagogue>,
+        <http://vocab.getty.edu/aat/300007590>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "synagogue"@en;
+    skos:scopeNote "A synagogue as defined by the Getty Art and Architecture Thesaurus: Community places for the regular assembly or congregation of Jews for liturgical services, assembly, and study apart from the service of the temple; since the destruction of the temple in Jerusalem, worship at the synagogue is the sole place of public worship."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/taberna-shop> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/taberna-shop>;
