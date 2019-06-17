@@ -1,19 +1,72 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
-    "contributors": [
+    "connections": [
         {
-            "name": "Diane Braund",
-            "username": null
-        },
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                }
+            ],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/857287",
+            "contributors": [],
+            "created": "2019-06-14T17:59:15Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -330,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-06-14T17:59:18Z",
+                    "modifiedBy": "rmhorne"
+                }
+            ],
+            "id": "pontus",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://nomisma.org/id/chabacta",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+                    "formattedCitation": "Nomisma: Chabacta",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "seeAlso"
+                }
+            ],
+            "review_state": "published",
+            "start": -550,
+            "title": "Pontus",
+            "uri": "https://pleiades.stoa.org/places/860795/pontus"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/857287"
+    ],
+    "contributors": [
         {
             "name": "R. Talbert",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "Diane Braund",
             "username": null
         },
         {
@@ -21,20 +74,32 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2011-05-13T21:34:05Z",
+    "created": "2019-06-14T17:54:49Z",
     "creators": [
-        {
-            "name": "David Braund",
-            "username": null
-        },
         {
             "name": "T. Sinclair",
             "username": null
+        },
+        {
+            "name": "David Braund",
+            "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 87 unlocated Chabak(t)a",
+    "description": "An unlocated place in Pontus that was the site of a mint.",
     "details": "The Barrington Atlas Directory notes: Sidene",
     "features": [
         {
@@ -51,6 +116,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "check in of working copy",
+            "modified": "2019-06-14T18:27:17Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2019-06-14T17:54:48Z",
+            "modifiedBy": "rmhorne"
+        },
         {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T19:32:22Z",
@@ -276,10 +351,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 87  Chabak(t)a",
     "references": [
@@ -315,13 +392,24 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://nomisma.org/id/chabacta",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "formattedCitation": "Nomisma: Chabacta",
+            "otherIdentifier": "",
+            "shortTitle": "",
+            "type": "seeAlso"
         }
     ],
     "reprPoint": null,
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Chabak(t)a",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/860795"
 }

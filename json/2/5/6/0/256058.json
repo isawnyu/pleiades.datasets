@@ -39,29 +39,49 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
             "connectsTo": "https://pleiades.stoa.org/places/266075",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:51:32Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "change cnxn type",
+                    "modified": "2019-06-13T18:28:20Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "266075",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Turdetania",
             "uri": "https://pleiades.stoa.org/places/256058/266075"
         }
@@ -69,8 +89,8 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/803793619",
         "https://pleiades.stoa.org/places/266075",
-        "https://pleiades.stoa.org/places/577458079",
         "https://pleiades.stoa.org/places/347507191",
+        "https://pleiades.stoa.org/places/580732678",
         "https://pleiades.stoa.org/places/577458078"
     ],
     "contributors": [
@@ -173,6 +193,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "reference",
+            "modified": "2019-06-13T18:26:50Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added TM GEO ID reference",
             "modified": "2016-10-25T10:29:32Z",
@@ -803,6 +828,17 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:3.2.2",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "citationDetail": "3.2.2",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Str. (Meineke: Perseus)",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [

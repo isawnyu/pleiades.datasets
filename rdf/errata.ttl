@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2019/06/09 06:48:24.477014 GMT-4
+# Date: 2019/06/16 06:48:26.832482 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4339
+# Triple count: 4350
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -45,6 +45,7 @@
 
 <https://pleiades.stoa.org/errata/1001917#this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Bithynia";
+    spatial:C <https://pleiades.stoa.org/places/1001135#this>;
     rdfs:comment "An ancient place, cited: BAtlas 102 E3 no. 31 (Bithynia)";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/1001917> .
 
@@ -291,6 +292,7 @@
 
 <https://pleiades.stoa.org/errata/991391#this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Paphlagonia";
+    spatial:C <https://pleiades.stoa.org/places/1001135#this>;
     rdfs:comment "The Late Roman province as defined in the Barrington Atlas (BAtlas 101 N3 Paphlagonia)";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/991391> .
 
@@ -801,6 +803,7 @@
     dcterms:modified "2012-07-20T13:30:28-04:00";
     dcterms:title "Bithynia";
     cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/1001135>;
     owl:sameAs <http://pleiades.stoa.org/errata/1001917>;
     skos:altLabel "Bithynia";
     skos:inScheme <https://pleiades.stoa.org/places>;
@@ -1943,11 +1946,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87#A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -1966,11 +1969,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87#A4>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1984,11 +1987,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -3398,7 +3401,7 @@
     spatial:C <https://pleiades.stoa.org/errata/991384#this>,
         <https://pleiades.stoa.org/places/1001914#this>,
         <https://pleiades.stoa.org/places/981530#this>;
-    rdfs:comment "The roman province of Lycia and Pamphylia after the Verona List (303-324 AD) (BAtlas 101 M4 Lycia et Pamphylia)";
+    rdfs:comment "The Roman province of Lycia and Pamphylia after the Verona List (303-324 AD) (BAtlas 101 M4 Lycia et Pamphylia).";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/991384> .
 
 <https://pleiades.stoa.org/errata/991384/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
@@ -3450,10 +3453,12 @@
 <https://pleiades.stoa.org/errata/991391> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/101#N3>;
-    dcterms:bibliographicCitation "";
+    dcterms:bibliographicCitation "",
+        "Wikipedia (English) Paphlagonia";
     dcterms:contributor <http://viaf.org/viaf/51858528>,
         <http://viaf.org/viaf/59162760>,
         <http://viaf.org/viaf/65713033>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/lund-brian-z>,
         <https://pleiades.stoa.org/author/sebs>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -3469,9 +3474,11 @@
         <http://viaf.org/viaf/92609475>,
         <http://viaf.org/viaf/94888878>;
     dcterms:description "The Late Roman province as defined in the Barrington Atlas (BAtlas 101 N3 Paphlagonia)";
-    dcterms:modified "2012-07-20T13:30:33-04:00";
+    dcterms:modified "2019-06-10T09:29:22-04:00";
     dcterms:title "Paphlagonia";
-    cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
+    cito:citesForInformation <http://openlibrary.org/works/OL8327792W>,
+        <https://en.wikipedia.org/wiki/Paphlagonia>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/1001135>;
     owl:sameAs <http://pleiades.stoa.org/errata/991391>;
     skos:altLabel "Paphlagonia";
     skos:inScheme <https://pleiades.stoa.org/places>;
@@ -3920,10 +3927,12 @@
 <https://pleiades.stoa.org/errata/991404> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/101#P4>;
-    dcterms:bibliographicCitation "";
+    dcterms:bibliographicCitation "",
+        "Wikipedia (English) Isauria";
     dcterms:contributor <http://viaf.org/viaf/51858528>,
         <http://viaf.org/viaf/59162760>,
         <http://viaf.org/viaf/65713033>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/lund-brian-z>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
@@ -3938,9 +3947,10 @@
         <http://viaf.org/viaf/92609475>,
         <http://viaf.org/viaf/94888878>;
     dcterms:description "An ancient place, cited: BAtlas 101 P4 Isauria";
-    dcterms:modified "2012-07-20T13:30:33-04:00";
+    dcterms:modified "2019-06-14T09:46:12-04:00";
     dcterms:title "Isauria";
-    cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
+    cito:citesForInformation <http://openlibrary.org/works/OL8327792W>,
+        <https://en.wikipedia.org/wiki/Isauria>;
     owl:sameAs <http://pleiades.stoa.org/errata/991404>;
     skos:altLabel "Isauria";
     skos:inScheme <https://pleiades.stoa.org/places>;
@@ -4430,6 +4440,7 @@
         <http://viaf.org/viaf/59162760>,
         <http://viaf.org/viaf/65713033>,
         <https://pleiades.stoa.org/author/isoto>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/lund-brian-z>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
@@ -4443,8 +4454,8 @@
         <http://viaf.org/viaf/91669326>,
         <http://viaf.org/viaf/92609475>,
         <http://viaf.org/viaf/94888878>;
-    dcterms:description "The roman province of Lycia and Pamphylia after the Verona List (303-324 AD) (BAtlas 101 M4 Lycia et Pamphylia)";
-    dcterms:modified "2012-07-20T13:30:36-04:00";
+    dcterms:description "The Roman province of Lycia and Pamphylia after the Verona List (303-324 AD) (BAtlas 101 M4 Lycia et Pamphylia).";
+    dcterms:modified "2019-06-15T21:41:51-04:00";
     dcterms:title "Lycia et Pamphylia";
     cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
     rdfs:seeAlso <https://pleiades.stoa.org/errata/991384>,

@@ -6,8 +6,52 @@
         14.429722,
         46.724722
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
+            "connectsTo": "https://pleiades.stoa.org/places/187490",
+            "contributors": [],
+            "created": "2017-11-29T16:14:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Anne User",
+                    "uri": "https://pleiades.stoa.org/author/auser",
+                    "username": "auser"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2017-11-29T16:14:05Z",
+                    "modifiedBy": "auser"
+                }
+            ],
+            "id": "noricum",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -30,
+            "title": "Noricum (region)",
+            "uri": "https://pleiades.stoa.org/places/197365/noricum"
+        }
+    ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/187490",
         "https://pleiades.stoa.org/places/197583"
     ],
     "contributors": [
@@ -18,6 +62,12 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -33,18 +83,18 @@
         },
         {
             "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
-        },
-        {
-            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Anne User",
+            "uri": "https://pleiades.stoa.org/author/auser",
+            "username": "auser"
         }
     ],
-    "created": "2009-10-20T13:33:28Z",
+    "created": "2017-11-29T16:10:17Z",
     "creators": [
         {
             "name": "M. Šašel Kos",
@@ -55,8 +105,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 20 B3 Magdalensberg",
-    "details": "The Barrington Atlas Directory notes: Magdalensberg, AUS",
+    "description": "An ancient settlement and emporium of the Celtic Kingdom of Noricum, cited: BAtlas 20 B3 Magdalensberg",
+    "details": "<p>The Barrington Atlas Directory notes: Magdalensberg, AUS</p>",
     "features": [
         {
             "geometry": {
@@ -68,7 +118,7 @@
             },
             "id": "darmc-location-13583",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/197365/darmc-location-13583",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 300",
@@ -96,6 +146,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "check in of working copy",
+            "modified": "2019-06-15T02:20:29Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "TM GEO ID 28526",
             "modified": "2017-10-08T14:43:24Z",
@@ -171,7 +226,7 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 13583",
             "end": 300,
             "featureType": [
@@ -366,14 +421,14 @@
     "provenance": "Barrington Atlas: BAtlas 20 B3 Magdalensberg",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Magdalensberg",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
+            "bibliographicURI": "",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 20 B3 Magdalensberg",
+            "formattedCitation": "",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (English) Magdalensberg",
             "type": "seeFurther"
         },
         {

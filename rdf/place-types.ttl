@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2019/06/09 06:47:45.617682 GMT-4
+# Date: 2019/06/16 06:47:46.429507 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 562
+# Triple count: 568
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -306,6 +306,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "lake"@en;
     skos:scopeNote "Lake or Lacus (Latin), abbreviated: L."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/league> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/league>,
+        <http://vocab.getty.edu/aat/300387505>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "league, organization, association"@en;
+    skos:scopeNote "A league/organization/association as defined by the Getty Art and Architecture Thesaurus: Collections of people, groups, or nations that join for mutual protection or cooperation, or for another purpose."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/lighthouse> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/lighthouse>;
