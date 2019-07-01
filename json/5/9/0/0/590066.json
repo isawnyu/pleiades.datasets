@@ -1,15 +1,54 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        24.9423162,
+        37.444567,
+        24.9423162,
+        37.444567
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/590067",
+            "contributors": [],
+            "created": "2019-06-29T13:35:42Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-06-29T13:35:46Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "syros-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Syros (island)",
+            "uri": "https://pleiades.stoa.org/places/590066/syros-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/590067"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -17,6 +56,24 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-09-22T19:26:12Z",
@@ -42,6 +99,24 @@
                 "location_precision": "unlocated",
                 "snippet": "Unknown; 750 BC - AD 640",
                 "title": "Barrington Atlas location"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.9423162,
+                    37.444567
+                ],
+                "type": "Point"
+            },
+            "id": "ermoupole",
+            "properties": {
+                "description": "Location of the modern associated location based on a node derived from OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/590066/ermoupole",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of modern Ermoupoli (Ερμούπολη)"
             },
             "type": "Feature"
         }
@@ -155,6 +230,97 @@
             "start": -750,
             "title": "Barrington Atlas location",
             "uri": "https://pleiades.stoa.org/places/590066/batlas-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2019-06-29T02:41:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
+                }
+            ],
+            "description": "Location of the modern associated location based on a node derived from OpenStreetMap.",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    24.9423162,
+                    37.444567
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "title, summary",
+                    "modified": "2019-06-29T13:36:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-06-29T02:43:17Z",
+                    "modifiedBy": "rmhorne"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-06-29T02:41:45Z",
+                    "modifiedBy": "rmhorne"
+                }
+            ],
+            "id": "ermoupole",
+            "locationType": [
+                "representative",
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 416862341, version 17, osm:changeset=53785191, 2017-11-14T22:34:27Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/416862341",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 416862341",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=416862341",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "OSM location of modern Ermoupoli (Ερμούπολη)",
+            "uri": "https://pleiades.stoa.org/places/590066/ermoupole"
         }
     ],
     "names": [
@@ -246,10 +412,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 A5 Syros",
     "references": [
@@ -276,7 +442,10 @@
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        24.9423162,
+        37.444567
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],

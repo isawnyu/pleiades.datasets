@@ -10,29 +10,49 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
             "connectsTo": "https://pleiades.stoa.org/places/11924822",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:00:21Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "changed cnxn type",
+                    "modified": "2019-06-18T14:21:11Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "11924822",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "tribus Arnensis",
             "uri": "https://pleiades.stoa.org/places/413054/11924822"
         },
@@ -128,6 +148,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2019-06-18T14:25:07Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "references",
+            "modified": "2019-06-18T14:20:15Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference",
             "modified": "2017-03-18T18:42:12Z",
@@ -380,36 +410,36 @@
     "provenance": "Barrington Atlas: BAtlas 42 C4 Blera",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "42 C4 Blera",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 42 C4 Blera",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/4189169",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/X4DR5WAX",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Quilici Gigli, S. 1976. Blera: topografia antica della città e del territorio. Mainz: von Zabern.",
+            "formattedCitation": "<div class=\"csl-entry\">Quilici Gigli, Stefania. <i>Blera: Topografia Antica Della Città e Del Territorio</i>. Sonderschriften (Deutsches Archäologisches Institut. Römische Abteilung) 3. Mainz am Rhein: von Zabern, 1976.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Quilici Gigli 1976",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1235.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "4B1 (Talbert 1235)",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
-            "formattedCitation": "TP 4B1 (Talbert 1235)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "citesAsEvidence"
         },
         {
@@ -437,23 +467,23 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/67609844",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DEFSHFH2",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Ceci, F. and Schiappelli. 2005. Blera e le sue necropoli. Rome: stituto poligrafico e Zecca dello Stato, Libreria dello Stato.",
+            "formattedCitation": "<div class=\"csl-entry\">Ceci, Francesca, and Andrea Schiappelli. <i>Blera e le sue necropoli</i>. Roma: Istituto poligrafico e Zecca dello Stato, Libreria dello Stato, 2005.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Ceci and Schiappelli 2005",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118557129.ch20",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/5163825777",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XYQX9HWB",
+            "citationDetail": "309-22",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Becker, J. A. 2013. \"Villas and Agriculture in Republican Italy.\" In A Companion to the Archaeology of the Roman Republic, edited by J. D. Evans, 309-22. Blackwell.",
+            "formattedCitation": "<div class=\"csl-entry\">Becker, Jeffrey A. “Villas and Agriculture in Republican Italy.” In <i>A Companion to the Archaeology of the Roman Republic</i>, 309–22. John Wiley &amp; Sons, Ltd, 2013. https://doi.org/10.1002/9781118557129.ch20.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Becker 2013",
             "type": "seeFurther"
         },
         {
@@ -481,12 +511,12 @@
         {
             "accessURI": "http://referenceworks.brillonline.com/entries/brill-s-new-pauly/blera-bieda-e218230",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Blera, Bieda",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "New Pauly, Blera, Bieda",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
         },
         {
@@ -503,12 +533,12 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DB%3Aentry+group%3D4%3Aentry%3Dblera",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "BLERA Italy",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "PECS (Perseus), BLERA Italy",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
         }
     ],
