@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.815163,
+        -0.80982,
         50.836805,
         -0.80982,
-        50.836819
+        50.836805
     ],
     "connections": [],
     "connectsWith": [],
@@ -59,24 +59,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.815163,
-                    50.836819
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-20867",
-            "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/79466/darmc-location-20867",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 20867"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -0.80982,
                     50.836805
                 ],
@@ -94,6 +76,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 20867",
+            "modified": "2019-07-08T23:28:01Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "references",
+            "modified": "2019-07-08T23:25:44Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2016-07-15T11:42:47Z",
@@ -142,87 +134,6 @@
     ],
     "id": "79466",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:48:47Z",
-            "creators": [
-                {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
-                }
-            ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 20867",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    -0.815163,
-                    50.836819
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:31:04Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:48:48Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-20867",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 20867",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20867",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20867.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 20867",
-            "uri": "https://pleiades.stoa.org/places/79466/darmc-location-20867"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
@@ -299,10 +210,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+        "https://pleiades.stoa.org/vocabularies/place-types/villa",
+        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
     ],
     "placeTypes": [
-        "villa"
+        "villa",
+        "architecturalcomplex"
     ],
     "provenance": "Barrington Atlas: BAtlas 8 G4 Fishbourne",
     "references": [
@@ -318,25 +231,25 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/624430910",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Scott-1993",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EGWGRRDJ",
+            "citationDetail": "184",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Scott 1993, 184",
+            "formattedCitation": "<div class=\"csl-entry\">Scott, Eleanor. <i>A Gazetteer of Roman Villas in Britain</i>. Leicester: Leicester University Archaeological Research Centre, 1993. http://www.worldcat.org/oclc/624430910.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Scott 1993",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.pastscape.org.uk/hob.aspx?hob_id=245943",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GLEU38X",
+            "citationDetail": "monument no. 245943",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "English Heritage, FISHBOURNE ROMAN PALACE",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>PastScape: Information on England’s Archaeology and Architecture</i>, 2015. https://www.pastscape.org.uk/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PastScape",
             "type": "seeFurther"
         },
         {
@@ -386,12 +299,12 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DF%3Aentry+group%3D1%3Aentry%3Dfishbourne",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "FISHBOURNE Sussex, England",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "PECS (Perseus), FISHBOURNE Sussex, England",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
         },
         {
@@ -410,16 +323,27 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "Wikidata Q1247128",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20867",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -0.8124914999999999,
-        50.836811999999995
+        -0.80982,
+        50.836805
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
