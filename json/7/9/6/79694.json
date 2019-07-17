@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.773833,
-        52.06027,
-        -0.773833,
-        52.06027
+        -0.7678672,
+        52.0638179,
+        -0.7678672,
+        52.0638179
     ],
     "connections": [],
     "connectsWith": [],
@@ -40,36 +40,46 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-10-30T22:40:31Z",
+    "created": "2019-06-17T15:10:14Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 8 G2 Stantonbury",
-    "details": "The Barrington Atlas Directory notes: Stantonbury",
+    "description": "A group of four Roman buildings that includes a bathhouse with a hypocaust was discovered in 1957 and 1958. These remains indicated the presence of a Roman-style villa. The remains date from the second to fourth centuries A.D.",
+    "details": "<p>The Barrington Atlas Directory notes: Stantonbury</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    -0.773833,
-                    52.06027
+                    -0.7678672,
+                    52.0638179
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21106",
+            "id": "osm-location-of-modern-stantonbury",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/79694/darmc-location-21106",
+                "description": "Location of the modern associated administrative center based on a node derived from OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/79694/osm-location-of-modern-stantonbury",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 21106"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of modern Stantonbury"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC reference to maintain linkage after retracting associated location",
+            "modified": "2019-07-16T22:53:17Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary, references",
+            "modified": "2019-07-16T22:50:48Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2019-06-17T15:10:13Z",
@@ -105,7 +115,7 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -113,82 +123,73 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:50:41Z",
+            "contributors": [],
+            "created": "2019-06-17T15:09:05Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 21106",
-            "end": 640,
+            "description": "Location of the modern associated administrative center based on a node derived from OpenStreetMap.",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    -0.773833,
-                    52.06027
+                    -0.7678672,
+                    52.0638179
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:34:01Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2019-06-17T15:10:00Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:50:42Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-06-17T15:09:05Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21106",
+            "id": "osm-location-of-modern-stantonbury",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 21106",
+            "provenance": "OpenStreetMap (Node 518691312, version 2, osm:changeset=4027931, 2010-03-03T19:56:33Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/518691312",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21106",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 518691312",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21106.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=518691312",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 21106",
-            "uri": "https://pleiades.stoa.org/places/79694/darmc-location-21106"
+            "start": 1700,
+            "title": "OSM location of modern Stantonbury",
+            "uri": "https://pleiades.stoa.org/places/79694/osm-location-of-modern-stantonbury"
         }
     ],
     "names": [],
@@ -245,11 +246,22 @@
             "otherIdentifier": "",
             "shortTitle": "PastScape",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21106",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -0.773833,
-        52.06027
+        -0.7678672,
+        52.0638179
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
