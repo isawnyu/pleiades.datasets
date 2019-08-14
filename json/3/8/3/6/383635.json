@@ -1,33 +1,51 @@
 {
     "@type": "Place",
     "bbox": [
-        7.0,
-        45.5,
-        7.5,
-        46.0
+        6.9613807,
+        45.178908,
+        8.0507804,
+        45.8087225
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/393469",
-            "contributors": [],
-            "created": "2016-07-13T13:33:27Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2019-08-02T20:51:08Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "check in of working copy",
+                    "modified": "2019-08-02T21:07:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2019-08-02T20:51:07Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "393469",
             "provenance": "Pleiades",
             "references": [],
@@ -38,7 +56,11 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/393469"
+        "https://pleiades.stoa.org/places/393469",
+        "https://pleiades.stoa.org/places/393469",
+        "https://pleiades.stoa.org/places/385053",
+        "https://pleiades.stoa.org/places/385057",
+        "https://pleiades.stoa.org/places/383590"
     ],
     "contributors": [
         {
@@ -83,36 +105,120 @@
                 "coordinates": [
                     [
                         [
-                            7.0,
-                            45.5
+                            8.0457131,
+                            45.178908
                         ],
                         [
-                            7.0,
-                            46.0
+                            6.9854582,
+                            45.7652238
                         ],
                         [
-                            7.5,
-                            46.0
+                            6.9760656,
+                            45.7721572
                         ],
                         [
-                            7.5,
-                            45.5
+                            6.9757249,
+                            45.7724088
                         ],
                         [
-                            7.0,
-                            45.5
+                            6.9684804,
+                            45.7792006
+                        ],
+                        [
+                            6.9676412,
+                            45.7800059
+                        ],
+                        [
+                            6.9675477,
+                            45.7802121
+                        ],
+                        [
+                            6.9613897,
+                            45.8086069
+                        ],
+                        [
+                            6.9613807,
+                            45.8087225
+                        ],
+                        [
+                            7.6309004,
+                            45.745664
+                        ],
+                        [
+                            7.6404399,
+                            45.7431003
+                        ],
+                        [
+                            7.6426583,
+                            45.7424689
+                        ],
+                        [
+                            7.6430357,
+                            45.7423605
+                        ],
+                        [
+                            7.6467558,
+                            45.7408309
+                        ],
+                        [
+                            7.659148,
+                            45.7356165
+                        ],
+                        [
+                            7.660392,
+                            45.7348954
+                        ],
+                        [
+                            7.6611931,
+                            45.7341432
+                        ],
+                        [
+                            7.6612775,
+                            45.7340639
+                        ],
+                        [
+                            7.7901474,
+                            45.5899912
+                        ],
+                        [
+                            7.902037,
+                            45.4517242
+                        ],
+                        [
+                            7.9118735,
+                            45.4376655
+                        ],
+                        [
+                            7.957277,
+                            45.3687594
+                        ],
+                        [
+                            8.0504649,
+                            45.1852571
+                        ],
+                        [
+                            8.0507804,
+                            45.1840367
+                        ],
+                        [
+                            8.0479309,
+                            45.1802532
+                        ],
+                        [
+                            8.0457131,
+                            45.178908
                         ]
                     ]
                 ],
                 "type": "Polygon"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-dora-baltea",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/383635/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/383635/osm-location-of-dora-baltea",
+                "location_precision": "precise",
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM location of Dora Baltea"
             },
             "type": "Feature"
         }
@@ -153,82 +259,143 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-15T17:56:13Z",
+            "contributors": [],
+            "created": "2019-07-17T01:21:13Z",
             "creators": [
                 {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap.",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            7.0,
-                            45.5
+                            8.0457131,
+                            45.178908
                         ],
                         [
-                            7.0,
-                            46.0
+                            6.9854582,
+                            45.7652238
                         ],
                         [
-                            7.5,
-                            46.0
+                            6.9760656,
+                            45.7721572
                         ],
                         [
-                            7.5,
-                            45.5
+                            6.9757249,
+                            45.7724088
                         ],
                         [
-                            7.0,
-                            45.5
+                            6.9684804,
+                            45.7792006
+                        ],
+                        [
+                            6.9676412,
+                            45.7800059
+                        ],
+                        [
+                            6.9675477,
+                            45.7802121
+                        ],
+                        [
+                            6.9613897,
+                            45.8086069
+                        ],
+                        [
+                            6.9613807,
+                            45.8087225
+                        ],
+                        [
+                            7.6309004,
+                            45.745664
+                        ],
+                        [
+                            7.6404399,
+                            45.7431003
+                        ],
+                        [
+                            7.6426583,
+                            45.7424689
+                        ],
+                        [
+                            7.6430357,
+                            45.7423605
+                        ],
+                        [
+                            7.6467558,
+                            45.7408309
+                        ],
+                        [
+                            7.659148,
+                            45.7356165
+                        ],
+                        [
+                            7.660392,
+                            45.7348954
+                        ],
+                        [
+                            7.6611931,
+                            45.7341432
+                        ],
+                        [
+                            7.6612775,
+                            45.7340639
+                        ],
+                        [
+                            7.7901474,
+                            45.5899912
+                        ],
+                        [
+                            7.902037,
+                            45.4517242
+                        ],
+                        [
+                            7.9118735,
+                            45.4376655
+                        ],
+                        [
+                            7.957277,
+                            45.3687594
+                        ],
+                        [
+                            8.0504649,
+                            45.1852571
+                        ],
+                        [
+                            8.0507804,
+                            45.1840367
+                        ],
+                        [
+                            8.0479309,
+                            45.1802532
+                        ],
+                        [
+                            8.0457131,
+                            45.178908
                         ]
                     ]
                 ],
@@ -236,24 +403,41 @@
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:33:18Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2019-07-17T01:21:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-07-17T01:21:13Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-dora-baltea",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "provenance": "Barrington Atlas: BAtlas 39 A2 Duria (Bautica) fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Relation 2146996, version 9, osm:changeset=51058960, 2017-08-12T13:54:04Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/2146996",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Relation 2146996",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:relation=2146996",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/383635/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Dora Baltea",
+            "uri": "https://pleiades.stoa.org/places/383635/osm-location-of-dora-baltea"
         }
     ],
     "names": [
@@ -417,6 +601,75 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/383635/duria"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Δουρίας ποταμός",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2019-07-17T01:30:01Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2019-08-02T20:50:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "name",
+                    "modified": "2019-07-17T01:30:01Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "dourias-potamos",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:4.6.7",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "4.6.7",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Dourias potamos",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/383635/dourias-potamos"
         }
     ],
     "placeTypeURIs": [
@@ -495,8 +748,8 @@
         }
     ],
     "reprPoint": [
-        7.25,
-        45.75
+        7.663618882796611,
+        45.56286563671593
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

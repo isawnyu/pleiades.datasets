@@ -6,15 +6,72 @@
         27.280325,
         40.914314
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
+            "connectsTo": "https://pleiades.stoa.org/places/1001887",
+            "contributors": [],
+            "created": "2019-08-13T20:30:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-08-13T20:30:42Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "europe",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://babel.hathitrust.org/cgi/pt?id=uc1.b4636497&view=1up&seq=55",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TLDJB2AJ",
+                    "citationDetail": "632.6",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Hierocles. <i>Hieroclis Synecdemvs; Accedvnt Fragmenta Apvd Constantinvm Porphyrogennetvm Servata et Nomina Vrbivm Mvtata; Recensvit Avgvstvs Bvrckhardt.</i> Edited by August Burckhardt. Lipsiae: in aedibvs B. G. Tevbneri, 1893. https://catalog.hathitrust.org/Record/011157792.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "HierSyn (Burckhardt; HaithiTrust)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": 300,
+            "title": "Europe",
+            "uri": "https://pleiades.stoa.org/places/511347/europe"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/1001887"
+    ],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,17 +79,23 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2009-10-15T08:16:08Z",
+    "created": "2019-08-13T20:32:35Z",
     "creators": [
         {
             "name": "C. Foss",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 52 A3 Ornoi?",
-    "details": "The Barrington Atlas Directory notes: S İnecik",
+    "description": "An ancient settlement, attested in written sources. Placed by C. Foss (Barrington Atlas) to the south of modern İnecik, Turkey. According to Hierokles, Ornoi was administratively located in the late province of Europe.",
+    "details": "<p>The Barrington Atlas Directory notes: S İnecik</p>",
     "features": [
         {
             "geometry": {
@@ -44,7 +107,7 @@
             },
             "id": "darmc-location-24263",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/511347/darmc-location-24263",
                 "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 640",
@@ -54,6 +117,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "check-in of working copy",
+            "modified": "2019-08-14T04:33:04Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2019-08-13T20:32:34Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T22:06:32Z",
@@ -81,8 +154,8 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "less-confident",
@@ -99,18 +172,34 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
+                    "name": "DARMC",
                     "username": null
+                },
+                {
+                    "name": "R. Talbert",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-10T02:02:30Z",
+            "created": "2019-08-13T20:51:23Z",
             "creators": [
                 {
                     "name": "C. Foss",
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 24263",
             "end": 640,
             "featureType": [
@@ -127,6 +216,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "check-in of working copy indicating a lesser degree of certainty.",
+                    "modified": "2019-08-14T04:32:39Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:52:10Z",
@@ -168,15 +262,9 @@
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -184,14 +272,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Ὄρνοι",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -199,9 +283,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2009-10-15T08:16:08Z",
+            "created": "2019-08-13T20:27:53Z",
             "creators": [
                 {
                     "name": "C. Foss",
@@ -213,31 +303,36 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "check-in of working copy",
+                    "modified": "2019-08-14T04:32:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:52:10Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "ornoi",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 52 A3 Ornoi?",
             "references": [
                 {
-                    "accessURI": "",
+                    "accessURI": "https://babel.hathitrust.org/cgi/pt?id=uc1.b4636497&view=1up&seq=55",
                     "alternateURI": "",
-                    "bibliographicURI": "http://atlantides.org/bibliography/h.html#HierSyn-632.6",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
-                    "formattedCitation": "HierSyn 632.6",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TLDJB2AJ",
+                    "citationDetail": "632.6",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Hierocles. <i>Hieroclis Synecdemvs; Accedvnt Fragmenta Apvd Constantinvm Porphyrogennetvm Servata et Nomina Vrbivm Mvtata; Recensvit Avgvstvs Bvrckhardt.</i> Edited by August Burckhardt. Lipsiae: in aedibvs B. G. Tevbneri, 1893. https://catalog.hathitrust.org/Record/011157792.</div>",
                     "otherIdentifier": "",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "HierSyn (Burckhardt; HaithiTrust)",
+                    "type": "citesAsEvidence"
                 }
             ],
             "review_state": "published",
             "romanized": "Ornoi",
-            "start": -550,
+            "start": 300,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/511347/ornoi"
@@ -325,8 +420,8 @@
         },
         {
             "@type": "Name",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "less-confident",
@@ -341,14 +436,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Ornos",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -356,9 +447,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2009-10-15T08:16:09Z",
+            "created": "2019-08-13T20:48:53Z",
             "creators": [
                 {
                     "name": "C. Foss",
@@ -369,6 +466,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "check-in of working copy",
+                    "modified": "2019-08-14T04:33:28Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:52:10Z",
@@ -381,24 +483,24 @@
                 }
             ],
             "id": "ornos",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 52 A3 Ornoi?",
             "references": [
                 {
-                    "accessURI": "",
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:latinLit:phi0588.abo007.perseus-lat1:7.4",
                     "alternateURI": "",
-                    "bibliographicURI": "http://atlantides.org/bibliography/n.html#Nepos",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
-                    "formattedCitation": "Nepos, Alcibiades 7.4",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AUFUTJX5",
+                    "citationDetail": "7.4",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Cornelius Nepos. <i>Alcibiades</i>. Edited by Karl Halm. Bibliotheca Teubneriana. Lipsiae: in aedibus B.G. Teubneri, 1886. http://data.perseus.org/texts/urn:cts:latinLit:phi0588.abo007.perseus-lat1.</div>",
                     "otherIdentifier": "",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "Nepos, Alcibiades (Halm: Perseus)",
+                    "type": "citesAsEvidence"
                 }
             ],
             "review_state": "published",
-            "romanized": " Ornos",
+            "romanized": "Ornos",
             "start": -550,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
@@ -425,26 +527,26 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://babel.hathitrust.org/cgi/pt?id=uc1.b4636497&view=1up&seq=55",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/h.html#HierSyn-632.6",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "HierSyn 632.6",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TLDJB2AJ",
+            "citationDetail": "632.6",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Hierocles. <i>Hieroclis Synecdemvs; Accedvnt Fragmenta Apvd Constantinvm Porphyrogennetvm Servata et Nomina Vrbivm Mvtata; Recensvit Avgvstvs Bvrckhardt.</i> Edited by August Burckhardt. Lipsiae: in aedibvs B. G. Tevbneri, 1893. https://catalog.hathitrust.org/Record/011157792.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "HierSyn (Burckhardt; HaithiTrust)",
+            "type": "citesAsEvidence"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:latinLit:phi0588.abo007.perseus-lat1:7.4",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/n.html#Nepos",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Nepos, Alcibiades 7.4",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AUFUTJX5",
+            "citationDetail": "7.4",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Cornelius Nepos. <i>Alcibiades</i>. Edited by Karl Halm. Bibliotheca Teubneriana. Lipsiae: in aedibus B.G. Teubneri, 1886. http://data.perseus.org/texts/urn:cts:latinLit:phi0588.abo007.perseus-lat1.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Nepos, Alcibiades (Halm: Perseus)",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
@@ -458,7 +560,7 @@
         "dare:feature=settlement",
         "dare:major=0"
     ],
-    "title": "Ornoi?",
+    "title": "Ornoi",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/511347"
 }
