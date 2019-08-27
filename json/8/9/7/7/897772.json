@@ -1,8 +1,70 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        44.5048156,
+        33.2198378,
+        46.3893824,
+        35.3213246
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                }
+            ],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/912964",
+            "contributors": [],
+            "created": "2019-08-21T19:40:19Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -330,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-08-21T19:40:20Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "tigris-diglitus-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.189",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXF7J4U2",
+                    "citationDetail": "1.189",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Herodotus. <i>Herodotus</i>. Edited by A. D Godley. 4 vols. Loeb Classical Library. London; New York: W. Heinemann; G.P. Putnam’s Sons, 1921. http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Hdt. (Godley: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": -550,
+            "title": "Tigris/Diglitus (river)",
+            "uri": "https://pleiades.stoa.org/places/897772/tigris-diglitus-river"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/912964"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -27,7 +89,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-10-05T20:30:46Z",
+    "created": "2019-08-21T19:43:00Z",
     "creators": [
         {
             "name": "M. Roaf",
@@ -38,23 +100,107 @@
             "username": null
         }
     ],
-    "description": "The Gyndes was a river of Assyria and Susiana that is discussed by Herodotus. Its precise location can no longer be determined.",
+    "description": "The Gyndes was a river of Assyria and Susiana that is discussed by Herodotus. Its precise location can not be determined with certainty, but some scholars have identified it with the modern Diyala river in Iraq.",
     "details": "<p>The Barrington Atlas Directory notes: Diyala?</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            44.5048156,
+                            33.2198378
+                        ],
+                        [
+                            44.6078183,
+                            33.7680452
+                        ],
+                        [
+                            44.6143419,
+                            33.8027588
+                        ],
+                        [
+                            44.6233902,
+                            33.836002
+                        ],
+                        [
+                            44.6296567,
+                            33.8527522
+                        ],
+                        [
+                            44.630321,
+                            33.8543698
+                        ],
+                        [
+                            44.6308628,
+                            33.8552214
+                        ],
+                        [
+                            45.6373116,
+                            35.0472709
+                        ],
+                        [
+                            45.7062016,
+                            35.1138634
+                        ],
+                        [
+                            45.7291332,
+                            35.1303037
+                        ],
+                        [
+                            45.7612339,
+                            35.1453243
+                        ],
+                        [
+                            46.2796908,
+                            35.3213246
+                        ],
+                        [
+                            46.3368154,
+                            35.3128485
+                        ],
+                        [
+                            46.3893824,
+                            35.1720908
+                        ],
+                        [
+                            44.5242233,
+                            33.2384297
+                        ],
+                        [
+                            44.5067139,
+                            33.2209834
+                        ],
+                        [
+                            44.5048156,
+                            33.2198378
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-the-modern-diyala-river",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/897772/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 550 BC - 330 BC",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/897772/osm-location-of-the-modern-diyala-river",
+                "location_precision": "precise",
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM Location of the modern Diyala River"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "check-in of working copy",
+            "modified": "2019-08-21T21:04:41Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2019-08-21T19:42:59Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2018-08-31T00:21:21Z",
@@ -85,75 +231,172 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-10-05T20:30:46Z",
+            "created": "2019-08-21T19:49:36Z",
             "creators": [
                 {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": -330,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            44.5048156,
+                            33.2198378
+                        ],
+                        [
+                            44.6078183,
+                            33.7680452
+                        ],
+                        [
+                            44.6143419,
+                            33.8027588
+                        ],
+                        [
+                            44.6233902,
+                            33.836002
+                        ],
+                        [
+                            44.6296567,
+                            33.8527522
+                        ],
+                        [
+                            44.630321,
+                            33.8543698
+                        ],
+                        [
+                            44.6308628,
+                            33.8552214
+                        ],
+                        [
+                            45.6373116,
+                            35.0472709
+                        ],
+                        [
+                            45.7062016,
+                            35.1138634
+                        ],
+                        [
+                            45.7291332,
+                            35.1303037
+                        ],
+                        [
+                            45.7612339,
+                            35.1453243
+                        ],
+                        [
+                            46.2796908,
+                            35.3213246
+                        ],
+                        [
+                            46.3368154,
+                            35.3128485
+                        ],
+                        [
+                            46.3893824,
+                            35.1720908
+                        ],
+                        [
+                            44.5242233,
+                            33.2384297
+                        ],
+                        [
+                            44.5067139,
+                            33.2209834
+                        ],
+                        [
+                            44.5048156,
+                            33.2198378
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:26:51Z",
-                    "modifiedBy": "admin"
+                    "comment": "added time period",
+                    "modified": "2019-08-21T21:05:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-08-21T19:50:23Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-08-21T19:49:37Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-the-modern-diyala-river",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "provenance": "Barrington Atlas: BAtlas 91 Gyndes fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Relation 368541, version 31, osm:changeset=68726417, 2019-03-31T14:43:12Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/368541",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Relation 368541",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:relation=368541",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e500870",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+                    "citationDetail": "Gyndes",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "New Pauly",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/897772/batlas-location"
+            "start": 1700,
+            "title": "OSM Location of the modern Diyala River",
+            "uri": "https://pleiades.stoa.org/places/897772/osm-location-of-the-modern-diyala-river"
         }
     ],
     "names": [
@@ -169,14 +412,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "attested": "",
+            "attested": "Γύνδης",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -184,9 +423,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-10-05T20:30:46Z",
+            "created": "2019-08-21T19:37:06Z",
             "creators": [
                 {
                     "name": "M. Roaf",
@@ -202,16 +453,33 @@
             "end": -330,
             "history": [
                 {
+                    "comment": "greek orthography, language code, Herodotus reference",
+                    "modified": "2019-08-21T19:39:03Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T09:26:51Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "gyndes",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 91 Gyndes fl.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.189",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXF7J4U2",
+                    "citationDetail": "1.189",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Herodotus. <i>Herodotus</i>. Edited by A. D Godley. 4 vols. Loeb Classical Library. London; New York: W. Heinemann; G.P. Putnam’s Sons, 1921. http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Hdt. (Godley: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Gyndes",
             "start": -550,
@@ -221,11 +489,9 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
         "https://pleiades.stoa.org/vocabularies/place-types/river"
     ],
     "placeTypes": [
-        "unlocated",
         "river"
     ],
     "provenance": "Barrington Atlas: BAtlas 91 Gyndes fl.",
@@ -255,12 +521,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Gyndes",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Gyndes",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "RE Gyndes",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
@@ -279,25 +545,28 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXF7J4U2",
             "citationDetail": "1.202",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Herodotus. <i>Herodotus</i>. Edited by A. D Godley. 4 vols. Loeb Classical Library. London; New York: W. Heinemann; G.P. Putnam’s Sons, 1921. http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Hdt. (Godley: Perseus)",
-            "type": "seeFurther"
+            "type": "citesAsEvidence"
         },
         {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DG%3Aentry+group%3D7%3Aentry%3Dgyndes-geo",
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e500870",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Gyndes",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), GYNDES",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        45.21801771103026,
+        34.337315520301416
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],

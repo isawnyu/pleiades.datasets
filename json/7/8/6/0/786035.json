@@ -10,11 +10,11 @@
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,12 +22,24 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2009-10-12T10:33:25Z",
     "creators": [
         {
-            "name": "J. Keenan",
+            "name": "T. Wilfong",
             "username": null
         },
         {
@@ -35,12 +47,12 @@
             "username": null
         },
         {
-            "name": "T. Wilfong",
+            "name": "J. Keenan",
             "username": null
         }
     ],
     "description": "An ancient place, cited: BAtlas 80 F4 Hangaliya",
-    "details": "The Barrington Atlas Directory notes: Hangaliya, settlement and mine",
+    "details": "<p>The Barrington Atlas Directory notes: Hangaliya, settlement and mine</p>",
     "features": [
         {
             "geometry": {
@@ -62,6 +74,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "added place type (mine), category (gold)",
+            "modified": "2019-08-24T16:23:09Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "reference fetch",
+            "modified": "2019-08-24T16:22:40Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:27:45Z",
@@ -177,10 +199,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/mine"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "mine"
     ],
     "provenance": "Barrington Atlas: BAtlas 80 F4 Hangaliya",
     "references": [
@@ -198,12 +222,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/k.html#Klemm-1994-221-(nos.-95-97)",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZVRCEK9P",
+            "citationDetail": "221 (nos. 95-97)",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Klemm 1994 221 (nos. 95-97)",
+            "formattedCitation": "<div class=\"csl-entry\">Klemm, Rosemarie, and Dietrich D Klemm. <i>Steine Und Steinbrüche Im Alten Ägypten</i>. New York: Springer-Verlag, 1993.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Klemm 1993",
             "type": "seeFurther"
         },
         {
@@ -226,8 +250,9 @@
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "gold",
+        "dare:feature=settlement"
     ],
     "title": "Hangaliya",
     "type": "FeatureCollection",
