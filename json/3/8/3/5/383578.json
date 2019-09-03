@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        7.829491,
-        44.544223,
-        7.829491,
-        44.544223
+        7.8496888,
+        44.5562867,
+        7.8510675,
+        44.5569671
     ],
     "connections": [
         {
@@ -40,36 +40,56 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
             "connectsTo": "https://pleiades.stoa.org/places/383790",
-            "contributors": [],
-            "created": "2016-07-13T13:33:22Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2019-08-30T23:28:00Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "check-in of working copy",
+                    "modified": "2019-08-31T01:27:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2019-08-30T23:28:00Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "383790",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Tanarus fl.",
+            "title": "Tanarus (river)",
             "uri": "https://pleiades.stoa.org/places/383578/383790"
         }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/383698",
         "https://pleiades.stoa.org/places/383790",
-        "https://pleiades.stoa.org/places/427981474"
+        "https://pleiades.stoa.org/places/383790",
+        "https://pleiades.stoa.org/places/427981474",
+        "https://pleiades.stoa.org/places/copy_of_384299"
     ],
     "contributors": [
         {
@@ -99,7 +119,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-15T17:55:07Z",
+    "created": "2019-08-30T21:23:59Z",
     "creators": [
         {
             "name": "M. Pearce",
@@ -110,29 +130,79 @@
             "username": null
         }
     ],
-    "description": "Augusta Bagiennorum was a chief settlement of the Bagienni, a Ligurian tribe. A Roman colony was established at the site in the time of Augustus.",
+    "description": "Augusta Bagiennorum was a chief settlement of the Bagienni, a Ligurian tribe. A Roman colony was established at the site in the time of Augustus. Remains of structures are found to the northeast of the modern town of Bene Vagienna, Italy.",
     "details": "<p>The Barrington Atlas Directory notes: near Roncaglia, Bene Vagienna</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    7.829491,
-                    44.544223
+                    [
+                        [
+                            7.8498605,
+                            44.5562867
+                        ],
+                        [
+                            7.8497022,
+                            44.5564377
+                        ],
+                        [
+                            7.8496888,
+                            44.5565122
+                        ],
+                        [
+                            7.8497961,
+                            44.5566173
+                        ],
+                        [
+                            7.8500241,
+                            44.5568314
+                        ],
+                        [
+                            7.8502601,
+                            44.5569193
+                        ],
+                        [
+                            7.8505337,
+                            44.5569671
+                        ],
+                        [
+                            7.8508234,
+                            44.5569384
+                        ],
+                        [
+                            7.8510675,
+                            44.5568008
+                        ],
+                        [
+                            7.8498605,
+                            44.5562867
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-6300",
+            "id": "osm-location-of-the-arcaeological-area",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/383578/darmc-location-6300",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas",
+                "link": "https://pleiades.stoa.org/places/383578/osm-location-of-the-arcaeological-area",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 6300"
+                "title": "OSM Location of the Arcaeological Area"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "check-in of working copy",
+            "modified": "2019-08-31T01:26:58Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
+            "modified": "2019-08-30T21:23:05Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2019-07-17T03:24:32Z",
@@ -183,17 +253,11 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -203,80 +267,118 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "late-antique",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:25:10Z",
+            "contributors": [],
+            "created": "2019-08-30T23:24:23Z",
             "creators": [
                 {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 6300",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas",
+            "details": "",
             "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
-                    7.829491,
-                    44.544223
+                    [
+                        [
+                            7.8498605,
+                            44.5562867
+                        ],
+                        [
+                            7.8497022,
+                            44.5564377
+                        ],
+                        [
+                            7.8496888,
+                            44.5565122
+                        ],
+                        [
+                            7.8497961,
+                            44.5566173
+                        ],
+                        [
+                            7.8500241,
+                            44.5568314
+                        ],
+                        [
+                            7.8502601,
+                            44.5569193
+                        ],
+                        [
+                            7.8505337,
+                            44.5569671
+                        ],
+                        [
+                            7.8508234,
+                            44.5569384
+                        ],
+                        [
+                            7.8510675,
+                            44.5568008
+                        ],
+                        [
+                            7.8498605,
+                            44.5562867
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:32:38Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2019-08-30T23:26:36Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:25:11Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2019-08-30T23:25:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-08-30T23:24:23Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-6300",
+            "id": "osm-location-of-the-arcaeological-area",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 6300",
+            "locationTypeURI": [],
+            "provenance": "OpenStreetMap (Way 231034664, version 3, osm:changeset=50467034, 2017-07-21T19:23:00Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/231034664",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "6300",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 231034664",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6300.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=231034664",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 6300",
-            "uri": "https://pleiades.stoa.org/places/383578/darmc-location-6300"
+            "title": "OSM Location of the Arcaeological Area",
+            "uri": "https://pleiades.stoa.org/places/383578/osm-location-of-the-arcaeological-area"
         }
     ],
     "names": [
@@ -498,14 +600,14 @@
     "provenance": "Barrington Atlas: BAtlas 39 B4 Augusta Bagiennorum",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "39 B4 Augusta Bagiennorum",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 39 B4 Augusta Bagiennorum",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -520,14 +622,14 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://de.wikisource.org/wiki/RE:Bagienni",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Bagienni",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Bagienni",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "RE Bagienni",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
@@ -544,73 +646,117 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DA%3Aentry+group%3D11%3Aentry%3Daugusta-bagiennorum",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "AUGUSTA BAGIENNORUM Liguria, Italy",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "PECS (Perseus), AUGUSTA BAGIENNORUM Liguria, Italy",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/31715",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 31715: Augusta Bagiennorum (Bene Vagienna)",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "TM GEO ID 31715",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "citesAsRelated"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/16284153",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WJMA94IR",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Ferrua, A. 1948. Augusta Bagiennorum et Pollentia. Rome: Libreria dello Stato.",
+            "formattedCitation": "<div class=\"csl-entry\">Ferrua, Antonio. <i>Augusta Bagiennorum et Pollentia</i>. Inscriptiones Italiae Academiae italicae consociatae ediderunt, 9.1. Roma: Libreria dello Stato, 1948.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Ferrua 1948",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DA%3Aentry+group%3D21%3Aentry%3Daugusta-vagiennorum-geo",
+            "accessURI": "https://latin.packhum.org/loc/978/1/234/1633-1644#234",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), AUGUSTA VAGIENNORUM",
-            "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "http://latin.packhum.org/loc/978/1/234/1633-1644",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "3.49.5",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
-            "formattedCitation": "Plin. HN (Mayhoff: PHI) 3.49.5",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "citesAsEvidence"
         },
         {
-            "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/augusta-e208550#e208560",
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e208550",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "New Pauly, Augusta [1] Bagiennorum",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "6300",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://dare.ht.lu.se/places/17204",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
+            "citationDetail": "17204: Augusta Bagiennorum, Roncaglia, Bene Vagienna",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Lund, Sweden: Department of Archaeology and Ancient History, Lund University, Sweden, 2015. http://dare.ht.lu.se/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARE",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3629554",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q3629554: Augusta Bagiennorum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RLK5KUJM",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Preacco, Maria Cristina, ed. <i>Augusta Bagiennorum: storia e archeologia di una città augustea</i>. Torino: Celid, 2014.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Preacco 2014",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://hal.archives-ouvertes.fr/hal-02113049",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XX3VN77I",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Sparavigna, Amelia Carolina. “Augusta Bagiennorum, La Sua Eventuale Orientazione Astronomica e l’anno Di Fondazione Sotto Augusto,” April 2019. https://doi.org/10.5281/zenodo.2652210.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Sparavigna 2019",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        7.829491,
-        44.544223
+        7.85034051917769,
+        44.55667608688104
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
