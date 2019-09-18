@@ -10,29 +10,49 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/109169",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:03:57Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "changed cnxn type",
+                    "modified": "2019-09-15T21:16:58Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "109169",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Mogontiacum",
             "uri": "https://pleiades.stoa.org/places/109133/109169"
         }
@@ -77,15 +97,15 @@
     "created": "2009-11-02T15:53:24Z",
     "creators": [
         {
-            "name": "C. Haselgrove",
+            "name": "J. Kunow",
             "username": null
         },
         {
-            "name": "J. Kunow",
+            "name": "C. Haselgrove",
             "username": null
         }
     ],
-    "description": "At Roman Mogontiacum (modern Mainz, Germany).",
+    "description": "The Sanctuary of Isis and Magna Mater at Roman Mogontiacum (modern Mainz, Germany) was active between the first century and the third century A.D.",
     "details": "",
     "features": [
         {
@@ -108,6 +128,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "DARMC ref.",
+            "modified": "2019-09-15T21:37:54Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary, references",
+            "modified": "2019-09-15T21:18:37Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2016-07-29T11:44:17Z",
@@ -261,25 +291,25 @@
     "provenance": "Barrington Atlas: BAtlas 11 I2 Magna Mater, T.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "11 I2 Magna Mater, T.",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 11 I2 Magna Mater, T.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Römer-Hessen-370",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K6EJU2MM",
+            "citationDetail": "370",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Römer Hessen 370",
+            "formattedCitation": "<div class=\"csl-entry\">D Baatz, and F-R Herrmann, eds. <i>Die Römer in Hessen</i>. 2 ed. Stuttgart, Aalen, 1989.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Römer Hessen",
             "type": "seeFurther"
         },
         {
@@ -303,6 +333,17 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (French)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15701",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
