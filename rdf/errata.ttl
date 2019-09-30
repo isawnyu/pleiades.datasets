@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2019/09/22 06:48:30.149393 GMT-4
+# Date: 2019/09/29 06:48:29.031494 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4350
+# Triple count: 4009
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -331,26 +331,6 @@
     rdfs:comment "An ancient place, cited: BAtlas 101 P4 Mesopotamia";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/991405> .
 
-<https://pleiades.stoa.org/errata/991408#this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Arabia";
-    rdfs:comment "An ancient place, cited: BAtlas 101 P5 Arabia";
-    foaf:primaryTopicOf <https://pleiades.stoa.org/errata/991408> .
-
-<https://pleiades.stoa.org/errata/992828#this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Alpes Graiae et Poeninae";
-    rdfs:comment "An ancient place, cited: BAtlas 101 H2 no. 2 (Alpes Graiae et Poeninae)";
-    foaf:primaryTopicOf <https://pleiades.stoa.org/errata/992828> .
-
-<https://pleiades.stoa.org/errata/992829#this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Alpes Maritimae";
-    rdfs:comment "The Late Roman province as defined in the Barrington Atlas (BAtlas 101 H3 no. 3 [Alpes Maritimae])";
-    foaf:primaryTopicOf <https://pleiades.stoa.org/errata/992829> .
-
-<https://pleiades.stoa.org/errata/992830#this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Alpes Cottiae";
-    rdfs:comment "An ancient place, cited: BAtlas 101 H3 no. 4 (Alpes Cottiae)";
-    foaf:primaryTopicOf <https://pleiades.stoa.org/errata/992830> .
-
 <http://atlantides.org/capgrids/100#L4-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[25.0, 35.0], [25.0, 40.0], [20.0, 40.0], [20.0, 35.0], [25.0, 35.0]]]}";
     osgeo:asWKT "POLYGON ((25.0000000000000000 35.0000000000000000, 25.0000000000000000 40.0000000000000000, 20.0000000000000000 40.0000000000000000, 20.0000000000000000 35.0000000000000000, 25.0000000000000000 35.0000000000000000))" .
@@ -362,14 +342,6 @@
 <http://atlantides.org/capgrids/101#F3-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[0.0, 40.0], [0.0, 45.0], [-5.0, 45.0], [-5.0, 40.0], [0.0, 40.0]]]}";
     osgeo:asWKT "POLYGON ((0.0000000000000000 40.0000000000000000, 0.0000000000000000 45.0000000000000000, -5.0000000000000000 45.0000000000000000, -5.0000000000000000 40.0000000000000000, 0.0000000000000000 40.0000000000000000))" .
-
-<http://atlantides.org/capgrids/101#H2-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
-    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[10.0, 45.0], [10.0, 50.0], [5.0, 50.0], [5.0, 45.0], [10.0, 45.0]]]}";
-    osgeo:asWKT "POLYGON ((10.0000000000000000 45.0000000000000000, 10.0000000000000000 50.0000000000000000, 5.0000000000000000 50.0000000000000000, 5.0000000000000000 45.0000000000000000, 10.0000000000000000 45.0000000000000000))" .
-
-<http://atlantides.org/capgrids/101#H3-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
-    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[10.0, 40.0], [10.0, 45.0], [5.0, 45.0], [5.0, 40.0], [10.0, 40.0]]]}";
-    osgeo:asWKT "POLYGON ((10.0000000000000000 40.0000000000000000, 10.0000000000000000 45.0000000000000000, 5.0000000000000000 45.0000000000000000, 5.0000000000000000 40.0000000000000000, 10.0000000000000000 40.0000000000000000))" .
 
 <http://atlantides.org/capgrids/101#J2-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[15.0, 45.0], [15.0, 50.0], [10.0, 50.0], [10.0, 45.0], [15.0, 45.0]]]}";
@@ -416,10 +388,6 @@
 <http://atlantides.org/capgrids/101#P4-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[40.0, 35.0], [40.0, 40.0], [35.0, 40.0], [35.0, 35.0], [40.0, 35.0]]]}";
     osgeo:asWKT "POLYGON ((40.0000000000000000 35.0000000000000000, 40.0000000000000000 40.0000000000000000, 35.0000000000000000 40.0000000000000000, 35.0000000000000000 35.0000000000000000, 40.0000000000000000 35.0000000000000000))" .
-
-<http://atlantides.org/capgrids/101#P5-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
-    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[40.0, 30.0], [40.0, 35.0], [35.0, 35.0], [35.0, 30.0], [40.0, 30.0]]]}";
-    osgeo:asWKT "POLYGON ((40.0000000000000000 30.0000000000000000, 40.0000000000000000 35.0000000000000000, 35.0000000000000000 35.0000000000000000, 35.0000000000000000 30.0000000000000000, 40.0000000000000000 30.0000000000000000))" .
 
 <http://atlantides.org/capgrids/102#D3-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[25.0, 40.0], [25.0, 45.0], [20.0, 45.0], [20.0, 40.0], [25.0, 40.0]]]}";
@@ -1946,11 +1914,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87#A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -1969,11 +1937,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87#A4>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1987,11 +1955,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -4083,324 +4051,9 @@
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ];
     pleiades:nameRomanized "Mesopotamia" .
 
-<https://pleiades.stoa.org/errata/991408> a <http://www.w3.org/2004/02/skos/core#Concept>,
-        <https://pleiades.stoa.org/places/vocab#Place>;
-    osspatial:within <http://atlantides.org/capgrids/101#P5>;
-    dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:coverage "Oriens";
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "An ancient place, cited: BAtlas 101 P5 Arabia";
-    dcterms:modified "2012-07-20T13:30:32-04:00";
-    dcterms:title "Arabia";
-    cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
-    owl:sameAs <http://pleiades.stoa.org/errata/991408>;
-    skos:altLabel "Arabia";
-    skos:inScheme <https://pleiades.stoa.org/places>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 P5 Arabia" ];
-    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/province>;
-    pleiades:hasLocation <https://pleiades.stoa.org/errata/991408/batlas-location>;
-    pleiades:hasName <https://pleiades.stoa.org/errata/991408/arabia> .
-
-<https://pleiades.stoa.org/errata/991408/arabia> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "";
-    dcterms:modified "2012-02-15T14:47:42-04:00";
-    dcterms:title "Arabia";
-    owl:sameAs <http://pleiades.stoa.org/errata/991408/arabia>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 P5 Arabia" ];
-    pleiades:nameRomanized "Arabia" .
-
-<https://pleiades.stoa.org/errata/991408/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
-    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/101#P5>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "";
-    dcterms:modified "2012-02-15T14:47:42-04:00";
-    dcterms:title "Barrington Atlas location";
-    owl:sameAs <http://pleiades.stoa.org/errata/991408/batlas-location>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 P5 Arabia" ] .
-
-<https://pleiades.stoa.org/errata/992828> a <http://www.w3.org/2004/02/skos/core#Concept>,
-        <https://pleiades.stoa.org/places/vocab#Place>;
-    osspatial:within <http://atlantides.org/capgrids/101#H2>;
-    dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:coverage "Galliae";
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "An ancient place, cited: BAtlas 101 H2 no. 2 (Alpes Graiae et Poeninae)";
-    dcterms:modified "2012-07-20T13:30:31-04:00";
-    dcterms:title "Alpes Graiae et Poeninae";
-    cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
-    owl:sameAs <http://pleiades.stoa.org/errata/992828>;
-    skos:altLabel "Alpes Graiae et Poeninae";
-    skos:inScheme <https://pleiades.stoa.org/places>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 H2 2" ];
-    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/province>;
-    pleiades:hasLocation <https://pleiades.stoa.org/errata/992828/batlas-location>;
-    pleiades:hasName <https://pleiades.stoa.org/errata/992828/alpes-graiae-et-poeninae> .
-
-<https://pleiades.stoa.org/errata/992828/alpes-graiae-et-poeninae> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "";
-    dcterms:modified "2012-02-15T14:47:53-04:00";
-    dcterms:title "Alpes Graiae et Poeninae";
-    owl:sameAs <http://pleiades.stoa.org/errata/992828/alpes-graiae-et-poeninae>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 H2 2" ];
-    pleiades:nameRomanized "Alpes Graiae et Poeninae" .
-
-<https://pleiades.stoa.org/errata/992828/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
-    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/101#H2>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "";
-    dcterms:modified "2012-02-15T14:47:53-04:00";
-    dcterms:title "Barrington Atlas location";
-    owl:sameAs <http://pleiades.stoa.org/errata/992828/batlas-location>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 H2 2" ] .
-
-<https://pleiades.stoa.org/errata/992829> a <http://www.w3.org/2004/02/skos/core#Concept>,
-        <https://pleiades.stoa.org/places/vocab#Place>;
-    osspatial:within <http://atlantides.org/capgrids/101#H3>;
-    dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sebs>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:coverage "Viennensis";
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "The Late Roman province as defined in the Barrington Atlas (BAtlas 101 H3 no. 3 [Alpes Maritimae])";
-    dcterms:modified "2012-07-20T13:30:31-04:00";
-    dcterms:title "Alpes Maritimae";
-    cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
-    owl:sameAs <http://pleiades.stoa.org/errata/992829>;
-    skos:altLabel "Alpes Maritimae";
-    skos:inScheme <https://pleiades.stoa.org/places>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 H3 3" ];
-    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/province>;
-    pleiades:hasLocation <https://pleiades.stoa.org/errata/992829/batlas-location>;
-    pleiades:hasName <https://pleiades.stoa.org/errata/992829/alpes-maritimae> .
-
-<https://pleiades.stoa.org/errata/992829/alpes-maritimae> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "";
-    dcterms:modified "2012-04-11T11:53:17-04:00";
-    dcterms:title "Alpes Maritimae";
-    owl:sameAs <http://pleiades.stoa.org/errata/992829/alpes-maritimae>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 H3 3" ];
-    pleiades:nameRomanized "Alpes Maritimae" .
-
-<https://pleiades.stoa.org/errata/992829/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
-    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/101#H3>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "";
-    dcterms:modified "2012-04-11T11:53:18-04:00";
-    dcterms:title "Barrington Atlas location";
-    owl:sameAs <http://pleiades.stoa.org/errata/992829/batlas-location>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 H3 3" ] .
-
-<https://pleiades.stoa.org/errata/992830> a <http://www.w3.org/2004/02/skos/core#Concept>,
-        <https://pleiades.stoa.org/places/vocab#Place>;
-    osspatial:within <http://atlantides.org/capgrids/101#H3>;
-    dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:coverage "Italia";
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "An ancient place, cited: BAtlas 101 H3 no. 4 (Alpes Cottiae)";
-    dcterms:modified "2012-07-20T13:30:34-04:00";
-    dcterms:title "Alpes Cottiae";
-    cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
-    owl:sameAs <http://pleiades.stoa.org/errata/992830>;
-    skos:altLabel "Alpes Cottiae";
-    skos:inScheme <https://pleiades.stoa.org/places>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 H3 4" ];
-    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/province>;
-    pleiades:hasLocation <https://pleiades.stoa.org/errata/992830/batlas-location>;
-    pleiades:hasName <https://pleiades.stoa.org/errata/992830/alpes-cottiae> .
-
-<https://pleiades.stoa.org/errata/992830/alpes-cottiae> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "";
-    dcterms:modified "2012-02-15T14:47:55-04:00";
-    dcterms:title "Alpes Cottiae";
-    owl:sameAs <http://pleiades.stoa.org/errata/992830/alpes-cottiae>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 H3 4" ];
-    pleiades:nameRomanized "Alpes Cottiae" .
-
-<https://pleiades.stoa.org/errata/992830/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
-    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/101#H3>;
-    dcterms:contributor <http://viaf.org/viaf/51858528>,
-        <http://viaf.org/viaf/59162760>,
-        <http://viaf.org/viaf/65713033>,
-        <https://pleiades.stoa.org/author/lund-brian-z>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/104306181>,
-        <http://viaf.org/viaf/17244949>,
-        <http://viaf.org/viaf/261890108>,
-        <http://viaf.org/viaf/56641184>,
-        <http://viaf.org/viaf/57623743>,
-        <http://viaf.org/viaf/84714015>,
-        <http://viaf.org/viaf/91669326>,
-        <http://viaf.org/viaf/92609475>,
-        <http://viaf.org/viaf/94888878>;
-    dcterms:description "";
-    dcterms:modified "2012-02-15T14:47:55-04:00";
-    dcterms:title "Barrington Atlas location";
-    owl:sameAs <http://pleiades.stoa.org/errata/992830/batlas-location>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 H3 4" ] .
-
 <http://atlantides.org/capgrids/100#L4> osgeo:extent <http://atlantides.org/capgrids/100#L4-extent> .
 
 <http://atlantides.org/capgrids/101#F3> osgeo:extent <http://atlantides.org/capgrids/101#F3-extent> .
-
-<http://atlantides.org/capgrids/101#H2> osgeo:extent <http://atlantides.org/capgrids/101#H2-extent> .
 
 <http://atlantides.org/capgrids/101#J2> osgeo:extent <http://atlantides.org/capgrids/101#J2-extent> .
 
@@ -4411,8 +4064,6 @@
 <http://atlantides.org/capgrids/101#N3> osgeo:extent <http://atlantides.org/capgrids/101#N3-extent> .
 
 <http://atlantides.org/capgrids/101#P3> osgeo:extent <http://atlantides.org/capgrids/101#P3-extent> .
-
-<http://atlantides.org/capgrids/101#P5> osgeo:extent <http://atlantides.org/capgrids/101#P5-extent> .
 
 <http://atlantides.org/capgrids/102#D4> osgeo:extent <http://atlantides.org/capgrids/102#D4-extent> .
 
@@ -4470,8 +4121,6 @@
     pleiades:hasName <https://pleiades.stoa.org/errata/991384/lycia-et-pamphylia> .
 
 <http://atlantides.org/capgrids/101#E4> osgeo:extent <http://atlantides.org/capgrids/101#E4-extent> .
-
-<http://atlantides.org/capgrids/101#H3> osgeo:extent <http://atlantides.org/capgrids/101#H3-extent> .
 
 <http://atlantides.org/capgrids/101#K2> osgeo:extent <http://atlantides.org/capgrids/101#K2-extent> .
 
