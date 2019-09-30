@@ -115,7 +115,7 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/452465/osm-location-of-pesipe-river",
                 "location_precision": "precise",
-                "snippet": "River",
+                "snippet": "River; AD 1700 - AD 2100",
                 "title": "OSM Location of Pesipe river"
             },
             "type": "Feature"
@@ -153,10 +153,17 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
             "contributors": [],
             "created": "2019-09-02T11:47:03Z",
             "creators": [
@@ -175,7 +182,7 @@
             ],
             "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
                 "river"
             ],
@@ -247,6 +254,11 @@
             },
             "history": [
                 {
+                    "comment": "time period",
+                    "modified": "2019-09-28T12:55:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Edited",
                     "modified": "2019-09-02T11:47:40Z",
                     "modifiedBy": "thomase"
@@ -284,7 +296,7 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
+            "start": 1700,
             "title": "OSM Location of Pesipe river",
             "uri": "https://pleiades.stoa.org/places/452465/osm-location-of-pesipe-river"
         }

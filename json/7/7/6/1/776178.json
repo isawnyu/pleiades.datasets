@@ -1,13 +1,63 @@
 {
     "@type": "Place",
     "bbox": [
-        30.594066,
-        25.828779,
-        30.594066,
-        25.828779
+        30.6156861,
+        25.8254918,
+        30.6156861,
+        25.8254918
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/776210",
+            "contributors": [],
+            "created": "2019-09-27T19:15:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-09-27T19:15:43Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "oasis-magna-thebaidos",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://dlib.nyu.edu/awdl/isaw/isaw-papers/16/#figure3",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVGE3E8H",
+                    "citationDetail": "figure 3 and paragraphs 16-19",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Rossi, Corinna. “Egyptian Cubits and Late Roman Architecture: The Design of the Forts of the Kharga Oasis (Egypt).” <i>ISAW Papers</i>, no. 16 (September 30, 2019). http://hdl.handle.net/2333.1/5tb2rmg1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Rossi 2019",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Oasis Magna/Thebaidos",
+            "uri": "https://pleiades.stoa.org/places/776178/oasis-magna-thebaidos"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/776210"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -36,36 +86,46 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-10-06T21:56:35Z",
+    "created": "2019-09-27T19:09:51Z",
     "creators": [
         {
             "name": "G. Wagner",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 79 D2 el-Gib",
-    "details": "The Barrington Atlas Directory notes: el-Gib",
+    "description": "A late Roman fort in Egypt's Kharga Oasis",
+    "details": "<p>The Barrington Atlas Directory notes: el-Gib</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    30.594066,
-                    25.828779
+                    30.6156861,
+                    25.8254918
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-18480",
+            "id": "location-of-qasr-el-gibb",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/776178/darmc-location-18480",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/776178/location-of-qasr-el-gibb",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 18480"
+                "snippet": "Fort; 30 BC - AD 640",
+                "title": "OSM location of Qaṣr el-Gibb"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; references; updated Connections, Names\r\nChecked-in working copy",
+            "modified": "2019-09-28T01:31:30Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
+            "modified": "2019-09-27T19:09:13Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:26:27Z",
@@ -91,93 +151,215 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:45:27Z",
+            "contributors": [],
+            "created": "2014-03-10T03:45:32Z",
             "creators": [
                 {
-                    "name": "G. Wagner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18480",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    30.594066,
-                    25.828779
+                    30.6156861,
+                    25.8254918
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:23:25Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2017-01-10T20:23:07Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:45:28Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-03-10T03:46:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-10T03:45:44Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18480",
+            "id": "location-of-qasr-el-gibb",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 18480",
+            "provenance": "OpenStreetMap (Way 265354506, version 1, osm:changeset=21018119, 2014-03-10T03:44:38Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/265354506",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18480",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 265354506",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18480.",
+                    "formattedCitation": "osm:way=265354506",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://de.wikivoyage.org/wiki/Qa%E1%B9%A3r_el-Gibb",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Qaṣr el-Gibb",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 18480",
-            "uri": "https://pleiades.stoa.org/places/776178/darmc-location-18480"
+            "title": "OSM location of Qaṣr el-Gibb",
+            "uri": "https://pleiades.stoa.org/places/776178/location-of-qasr-el-gibb"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "el-Gib",
+            "contributors": [],
+            "created": "2019-09-27T19:10:59Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Modern name as used by the Barrington Atlas after Wagner.",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-09-27T19:11:01Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "el-gib",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "79 D2 el-Gib",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "el-Gib",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/776178/el-gib"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Qasr al-Gib",
+            "contributors": [],
+            "created": "2019-09-27T19:14:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Modern name as used by Rossi.",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-09-27T19:14:31Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "qasr-al-gib",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://dlib.nyu.edu/awdl/isaw/isaw-papers/16/#p16",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVGE3E8H",
+                    "citationDetail": "paragraphs 16-19",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Rossi, Corinna. “Egyptian Cubits and Late Roman Architecture: The Design of the Forts of the Kharga Oasis (Egypt).” <i>ISAW Papers</i>, no. 16 (September 30, 2019). http://hdl.handle.net/2333.1/5tb2rmg1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Rossi 2019",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Qasr al-Gib",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/776178/qasr-al-gib"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
@@ -187,31 +369,53 @@
     "provenance": "Barrington Atlas: BAtlas 79 D2 el-Gib",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "79 D2 el-Gib",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 79 D2 el-Gib",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/w.html#Wagner-1987-168",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2NV4AV2U",
+            "citationDetail": "168",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Wagner 1987 168",
+            "formattedCitation": "<div class=\"csl-entry\">Wagner, Guy. <i>Les Oasis d’Egypte à l’époque Grecque, Romaine et Byzantine d’après Les Documents Grecs: Recherches de Papyrologie et d’épigraphie Grecques</i>. Bibliothèque d’étude, t. 1. Le Caire: Institut français d’archéologie orientale du Caire, 1987.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wagner 1987",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18480",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://dlib.nyu.edu/awdl/isaw/isaw-papers/16/#figure3",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVGE3E8H",
+            "citationDetail": "figure 3 and paragraphs 16-19",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Rossi, Corinna. “Egyptian Cubits and Late Roman Architecture: The Design of the Forts of the Kharga Oasis (Egypt).” <i>ISAW Papers</i>, no. 16 (September 30, 2019). http://hdl.handle.net/2333.1/5tb2rmg1.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Rossi 2019",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        30.594066,
-        25.828779
+        30.6156861,
+        25.8254918
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -220,7 +424,7 @@
         "dare:ancient=0",
         "dare:feature=fort"
     ],
-    "title": "el-Gib",
+    "title": "Qasr al-Gib",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/776178"
 }

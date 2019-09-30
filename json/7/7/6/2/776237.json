@@ -1,13 +1,63 @@
 {
     "@type": "Place",
     "bbox": [
-        30.426489,
-        25.731284,
-        30.426489,
-        25.731284
+        30.4217418,
+        25.7294504,
+        30.4226856,
+        25.7302423
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/776210",
+            "contributors": [],
+            "created": "2019-09-27T19:00:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-09-27T19:00:50Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "oasis-magna-thebaidos",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://hdl.handle.net/2333.1/5tb2rmg1",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVGE3E8H",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Rossi, Corinna. “Egyptian Cubits and Late Roman Architecture: The Design of the Forts of the Kharga Oasis (Egypt).” <i>ISAW Papers</i>, no. 16 (September 30, 2019). http://hdl.handle.net/2333.1/5tb2rmg1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Rossi 2019",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Oasis Magna/Thebaidos",
+            "uri": "https://pleiades.stoa.org/places/776237/oasis-magna-thebaidos"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/776210"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -36,36 +86,71 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-10-06T21:57:13Z",
+    "created": "2019-09-27T18:34:34Z",
     "creators": [
         {
             "name": "G. Wagner",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 79 C2 Um Dabadib",
-    "details": "The Barrington Atlas Directory notes: Um Dabadib",
+    "description": "A late-Roman fortified settlement in Egypt's Kharga Oasis.",
+    "details": "<p>The Barrington Atlas Directory notes: Um Dabadib</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    30.426489,
-                    25.731284
+                    [
+                        [
+                            30.4218124,
+                            25.7294504
+                        ],
+                        [
+                            30.4217418,
+                            25.7301731
+                        ],
+                        [
+                            30.422615,
+                            25.7302423
+                        ],
+                        [
+                            30.4226856,
+                            25.7295196
+                        ],
+                        [
+                            30.4218124,
+                            25.7294504
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-15312",
+            "id": "osm-location-of-um-dabadib",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/776237/darmc-location-15312",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/776237/osm-location-of-um-dabadib",
                 "location_precision": "precise",
                 "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 15312"
+                "title": "OSM Location of Um Dabadib"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC ref. added as related",
+            "modified": "2019-09-28T01:29:25Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "title, summary; cleaned up references and added Rossi 2019; updated Connections, Names, Locations. Once the OSM location is published, the DARMC location in the baseline copy should be retracted and a \"related\" reference for the DARMC ID added to the place.; added wikivoyage reference. Checked-in working copy.",
+            "modified": "2019-09-28T01:28:02Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2019-09-27T18:34:33Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:26:51Z",
@@ -91,8 +176,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -103,21 +188,24 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-31T19:57:21Z",
+            "contributors": [],
+            "created": "2019-09-27T18:53:50Z",
             "creators": [
                 {
-                    "name": "G. Wagner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 15312",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+            "details": "",
             "end": 640,
             "featureType": [
                 "unknown"
@@ -127,51 +215,186 @@
             ],
             "geometry": {
                 "coordinates": [
-                    30.426489,
-                    25.731284
+                    [
+                        [
+                            30.4218124,
+                            25.7294504
+                        ],
+                        [
+                            30.4217418,
+                            25.7301731
+                        ],
+                        [
+                            30.422615,
+                            25.7302423
+                        ],
+                        [
+                            30.4226856,
+                            25.7295196
+                        ],
+                        [
+                            30.4218124,
+                            25.7294504
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:23:58Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2019-09-27T18:54:49Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T19:57:23Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-09-27T18:53:50Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-15312",
+            "id": "osm-location-of-um-dabadib",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "provenance": "DARMC OBJECTID: 15312",
+            "provenance": "OpenStreetMap (Way 265355097, version 1, osm:changeset=21018170, 2014-03-10T03:51:49Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/265355097",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15312",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 265355097",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15312.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=265355097",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 15312",
-            "uri": "https://pleiades.stoa.org/places/776237/darmc-location-15312"
+            "title": "OSM Location of Um Dabadib",
+            "uri": "https://pleiades.stoa.org/places/776237/osm-location-of-um-dabadib"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Um Dabadib",
+            "contributors": [],
+            "created": "2019-09-27T18:37:22Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Name form used by the Barrington Atlas, after Wagner 1987.",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-09-27T18:37:25Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "um-dabadib",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "79 C2 Um Dabadib",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Um Dabadib",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/776237/um-dabadib"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Umm al-Dabadib",
+            "contributors": [],
+            "created": "2019-09-27T18:56:25Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Modern name as rendered in Rossi 2019.",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-09-27T18:56:25Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "umm-al-dabadib",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://hdl.handle.net/2333.1/5tb2rmg1",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVGE3E8H",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Rossi, Corinna. “Egyptian Cubits and Late Roman Architecture: The Design of the Forts of the Kharga Oasis (Egypt).” <i>ISAW Papers</i>, no. 16 (September 30, 2019). http://hdl.handle.net/2333.1/5tb2rmg1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Rossi 2019",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Umm al-Dabadib",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/776237/umm-al-dabadib"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
@@ -181,40 +404,73 @@
     "provenance": "Barrington Atlas: BAtlas 79 C2 Um Dabadib",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "79 C2 Um Dabadib",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 79 C2 Um Dabadib",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/w.html#Wagner-1987-169",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2NV4AV2U",
+            "citationDetail": "169",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Wagner, Guy. <i>Les Oasis d’Egypte à l’époque Grecque, Romaine et Byzantine d’après Les Documents Grecs: Recherches de Papyrologie et d’épigraphie Grecques</i>. Bibliothèque d’étude, t. 1. Le Caire: Institut français d’archéologie orientale du Caire, 1987.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wagner 1987",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://hdl.handle.net/2333.1/5tb2rmg1",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVGE3E8H",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Wagner 1987 169",
+            "formattedCitation": "<div class=\"csl-entry\">Rossi, Corinna. “Egyptian Cubits and Late Roman Architecture: The Design of the Forts of the Kharga Oasis (Egypt).” <i>ISAW Papers</i>, no. 16 (September 30, 2019). http://hdl.handle.net/2333.1/5tb2rmg1.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Rossi 2019",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://de.wikivoyage.org/wiki/%CA%BFAin_Umm_ed-Dab%C4%81d%C4%ABb",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5ANGXJIB",
+            "citationDetail": "ʿAin Umm ed-Dabādīb",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikivoyage – Freie Reiseinformationen rund um die Welt</i>. Accessed September 27, 2019. https://de.wikivoyage.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikivoyage (German)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15312",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        30.426489,
-        25.731284
+        30.422213700000004,
+        25.729846349999995
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
-    "title": "Um Dabadib",
+    "title": "Umm al-Dabadib",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/776237"
 }
