@@ -10,29 +10,61 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/540789",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:52:53Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": -1000,
+            "history": [
+                {
+                    "comment": "changed cnxn type, add time period, add reference",
+                    "modified": "2019-10-16T16:06:35Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "540789",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.jstor.org/stable/630371",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7E3CUKA6",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Field, Donald. “Review of Late Helladic Citadels on Mainland Greece.” <i>The Journal of Hellenic Studies</i> 104 (1984): 245–46. https://doi.org/10.2307/630371.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Field 1984",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -2000,
             "title": "Gla",
             "uri": "https://pleiades.stoa.org/places/464482221/540789"
         }
@@ -128,6 +160,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "reference cleanup",
+            "modified": "2019-10-16T16:05:59Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "references",
             "modified": "2017-12-11T14:14:54Z",
@@ -383,7 +420,7 @@
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Field, Donald. “Review of Late Helladic Citadels on Mainland Greece.” <i>The Journal of Hellenic Studies</i> 104 (1984): 245–46. https://doi.org/10.2307/630371.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "Review of Late Helladic Citadels on Mainland Greece",
+            "shortTitle": "Field 1984",
             "type": "seeFurther"
         },
         {
