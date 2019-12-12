@@ -6,15 +6,68 @@
         25.5,
         35.5
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/589918",
+            "contributors": [],
+            "created": "2019-12-11T23:19:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-12-11T23:19:51Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "lyktos",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/1026277143",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CALGNFII",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Kelly, Amanda. “A Roman Aqueduct through the Cretan Highlands - Securing the Water Supply for Elevated Lyttos.” In <i>Great Waterworks in Roman Greece Aqueducts and Monumental Fountain Structures: Function in Context</i>, by Geōrgia A Aristodēmu and Theodosios P Tassios, 147–69. Roman Archaeology 35. Oxford: Archaeopress, 2018. http://www.worldcat.org/oclc/1026277143.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Kelly 2018",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Lyktos",
+            "uri": "https://pleiades.stoa.org/places/590415/lyktos"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/589918"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -22,9 +75,15 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2010-09-22T19:27:17Z",
+    "created": "2019-12-11T23:14:12Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -35,8 +94,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 D2 unnamed aqueduct (Lyktos)",
-    "details": "The Barrington Atlas Directory notes: Lyktos",
+    "description": "A roman-era aqueduct supplying the Cretan city of Lyktos",
+    "details": "<p>The Barrington Atlas Directory notes: Lyktos</p>",
     "features": [
         {
             "geometry": {
@@ -78,6 +137,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; added Kelly 2018; cleaned up references\r\ncheck in",
+            "modified": "2019-12-12T03:12:11Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:51:43Z",
@@ -206,36 +270,47 @@
     "provenance": "Barrington Atlas: BAtlas 60 D2",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 D2",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 60 D2",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/464612236",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/56QGRP68",
+            "citationDetail": "6/25",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Sanders, I. F. <i>Roman Crete: An Archaeological Survey and Gazetteer of Late Hellenistic, Roman, and Early Byzantine Crete</i>. Warminster, Wilts, England: Aris and Phillips, 1982. http://www.worldcat.org/oclc/464612236.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Sanders 1982",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Sanders-1982",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/V7SE8BGE",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Sanders 1982, 6/25",
+            "formattedCitation": "<div class=\"csl-entry\">N.E. Oikonomakis. “Το Υδραγωγείο Της Λύκτου.” <i>Λύκτος. Περιοδική Επιστημονική Έκδοση Του Συλλόγου Πεδιαδίτων</i> 1 (1984): 66–99.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Oikonomakis 1984",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/1026277143",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/o.html#Oikonomakis-1984",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CALGNFII",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Oikonomakis 1984",
+            "formattedCitation": "<div class=\"csl-entry\">Kelly, Amanda. “A Roman Aqueduct through the Cretan Highlands - Securing the Water Supply for Elevated Lyttos.” In <i>Great Waterworks in Roman Greece Aqueducts and Monumental Fountain Structures: Function in Context</i>, by Geōrgia A Aristodēmu and Theodosios P Tassios, 147–69. Roman Archaeology 35. Oxford: Archaeopress, 2018. http://www.worldcat.org/oclc/1026277143.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Kelly 2018",
             "type": "seeFurther"
         }
     ],
@@ -246,7 +321,7 @@
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Unnamed aqueduct at Lyktos",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/590415"
 }

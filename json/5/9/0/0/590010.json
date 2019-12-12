@@ -1,15 +1,71 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        27.2127142,
+        35.5065848,
+        27.2127142,
+        35.5065848
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/589841",
+            "contributors": [],
+            "created": "2019-12-10T15:37:42Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2019-12-11T13:39:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-12-10T15:37:43Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "karpathos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "60 E4 Potidaion",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Karpathos (island)",
+            "uri": "https://pleiades.stoa.org/places/590010/karpathos-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/589841"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -17,6 +73,24 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-09-22T19:24:50Z",
@@ -34,19 +108,30 @@
     "details": "The Barrington Atlas Directory notes: Pegadi, on Karpathos",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    27.2127142,
+                    35.5065848
+                ],
+                "type": "Point"
+            },
+            "id": "karpathos",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/590010/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap. The official name of Pigadia is Karpathos.",
+                "link": "https://pleiades.stoa.org/places/590010/karpathos",
+                "location_precision": "precise",
+                "snippet": "Settlement; AD 1700 - AD 2100",
+                "title": "OSM location of Κάρπαθος"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2019-12-10T15:56:28Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:50:39Z",
@@ -62,7 +147,7 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -70,91 +155,101 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-09-22T19:24:50Z",
+            "created": "2019-12-10T07:47:25Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap. The official name of Pigadia is Karpathos.",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    27.2127142,
+                    35.5065848
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:50:39Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2019-12-10T15:38:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2019-12-10T07:49:25Z",
+                    "modifiedBy": "rmhorne"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-12-10T07:48:53Z",
+                    "modifiedBy": "rmhorne"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-12-10T07:47:26Z",
+                    "modifiedBy": "rmhorne"
                 }
             ],
-            "id": "batlas-location",
+            "id": "karpathos",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 E4 Potidaion",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1841457645, version 4, osm:changeset=59199853, 2018-05-23T06:28:40Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1841457645",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1841457645",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=1841457645",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Karpathos",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/590010/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Κάρπαθος",
+            "uri": "https://pleiades.stoa.org/places/590010/karpathos"
         }
     ],
     "names": [
@@ -337,37 +432,40 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 E4 Potidaion",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 E4 Potidaion",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 60 E4 Potidaion",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/h.html#Hope-Simpson-1962",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R5RQ7PUW",
+            "citationDetail": "159-61",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Hope Simpson 1962, 159-61",
+            "formattedCitation": "<div class=\"csl-entry\">R. Hope Simpson, and J.F. Lazenby. “Notes from the Dodecanese.” <i>The Annual of the British School at Athens</i> 57 (1962): 154–75.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Hope Simpson 1962",
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        27.2127142,
+        35.5065848
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
