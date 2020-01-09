@@ -1,13 +1,14 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        21.9755719,
+        39.3752478,
+        21.9755719,
+        39.3752478
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
-        {
-            "name": "G. Reger",
-            "username": null
-        },
         {
             "name": "R. Talbert",
             "username": null
@@ -20,15 +21,25 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "G. Reger",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-11-23T00:31:46Z",
@@ -42,23 +53,44 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 55 unlocated Methylion",
-    "details": "The Barrington Atlas Directory notes: near Prodromos Karditsas",
+    "description": "An ancient settlement of Thessaly whose precise location is not known. It was probably near modern Prodromos Karditsas in Greece.",
+    "details": "<p>The Barrington Atlas Directory notes: near Prodromos Karditsas</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    21.9755719,
+                    39.3752478
+                ],
+                "type": "Point"
+            },
+            "id": "prodromos",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/543789/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Associated modern Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/543789/prodromos",
+                "location_precision": "precise",
+                "snippet": "Settlement; AD 1700 - AD 2100",
+                "title": "OSM location of modern Πρόδρομος"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Wikipedia reference",
+            "modified": "2019-12-19T12:33:04Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary",
+            "modified": "2019-12-19T12:32:08Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary",
+            "modified": "2019-12-19T12:31:38Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2019-12-10T23:33:12Z",
@@ -84,72 +116,109 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "notvisible",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
             "contributors": [
                 {
-                    "name": "G. Reger",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-23T00:31:46Z",
+            "created": "2019-12-10T07:57:51Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 }
             ],
-            "description": "",
+            "description": "Associated modern Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    21.9755719,
+                    39.3752478
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:15:25Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2019-12-19T12:28:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2019-12-10T22:21:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2019-12-10T07:58:35Z",
+                    "modifiedBy": "rmhorne"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-12-10T07:58:13Z",
+                    "modifiedBy": "rmhorne"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-12-10T07:57:51Z",
+                    "modifiedBy": "rmhorne"
                 }
             ],
-            "id": "batlas-location",
+            "id": "prodromos",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "Barrington Atlas: BAtlas 55 Methylion",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 154098851, version 7, osm:changeset=11835970, 2012-06-08T14:56:07Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/154098851",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 154098851",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=154098851",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/543789/batlas-location"
+            "start": 1700,
+            "title": "OSM location of modern Πρόδρομος",
+            "uri": "https://pleiades.stoa.org/places/543789/prodromos"
         }
     ],
     "names": [
@@ -244,9 +313,23 @@
             "otherIdentifier": "",
             "shortTitle": "Helly 1992",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Methylion",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Methylion",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        21.9755719,
+        39.3752478
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],

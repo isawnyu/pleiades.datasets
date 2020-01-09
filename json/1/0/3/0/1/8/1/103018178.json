@@ -10,29 +10,67 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/413107",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:36:13Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "changed type, added reference",
+                    "modified": "2019-12-28T19:12:17Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "413107",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.jstor.org/stable/pdf/4238626.pdf",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/H7RT3DNZ",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Brown, Frank Edward. “Cosa I. History and Topography.” <i>Memoirs of the American Academy in Rome</i> 20 (1951): 1–113. https://www.jstor.org/stable/pdf/4238626.pdf.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Brown 1951",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -330,
             "title": "Cosa",
             "uri": "https://pleiades.stoa.org/places/103018178/413107"
         }
@@ -86,6 +124,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2019-12-28T19:14:16Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2016-07-25T21:48:38Z",
@@ -274,7 +317,7 @@
             "bibliographicURI": "",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Scott, R. 1969. \"The Arx of Cosa 1965-1968.\"",
+            "formattedCitation": "Scott, R. T. 1969. \"The Arx of Cosa 1965-1968.\"",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
@@ -282,23 +325,34 @@
         {
             "accessURI": "http://www.jstor.org/stable/4238649",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GGPQYEHR",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Brown, Frank Edward, Emeline Hill Richardson, and L Richardson1960. Cosa II: The temples of the Arx. Rome: American Academy in Rome.",
+            "formattedCitation": "<div class=\"csl-entry\">Brown, Frank Edward, Emeline Hill Richardson, and L. Richardson. “Cosa II the Temples of the Arx.” <i>Memoirs of the American Academy in Rome</i> 26 (1960): iii–380. https://doi.org/10.2307/4238649.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Cosa II the Temples of the Arx",
             "type": "seeFurther"
         },
         {
-            "accessURI": "https://www.jstor.org/stable/507189",
+            "accessURI": "http://www.jstor.org/stable/507189",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/C6LT5G64",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Taylor 2002",
+            "formattedCitation": "<div class=\"csl-entry\">Taylor, Rabun. “Temples and Terracottas at Cosa.” <i>American Journal of Archaeology</i> 106, no. 1 (2002): 59–83. https://doi.org/10.2307/507189.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Taylor 2002",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T2JFL6KV",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Stamper, John W. “The Capitoline Temples of Rome and Its Colonies: Cosa and Pompeii.” In <i>Cities and Gods</i>, 9–20. Leuven: Peeters, 2013.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Stamper 2013",
             "type": "seeFurther"
         }
     ],
