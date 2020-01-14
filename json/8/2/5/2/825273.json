@@ -11,23 +11,36 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/1224",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:48:55Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2020-01-13T14:37:43Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "1224",
             "provenance": "Pleiades",
             "references": [],
@@ -76,7 +89,7 @@
         }
     ],
     "description": "Hypanis fl. (modern Southern Bug River) flows into the Black Sea.",
-    "details": "The Barrington Atlas Directory notes: Kuban RUS",
+    "details": "<p>The Barrington Atlas Directory notes: Kuban RUS</p>",
     "features": [
         {
             "geometry": {
@@ -134,6 +147,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2020-01-13T14:38:37Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "replacing the abbreviation fl. with (river) to bring titles into conformance with Editorial Guidelines",
             "modified": "2017-10-27T21:19:26Z",
@@ -480,26 +498,26 @@
     "provenance": "Barrington Atlas: BAtlas 84 C3 Hypanis fl.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "84 C3 Hypanis fl.",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 84 C3 Hypanis fl.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:11.2.9",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Strabo-11.2.9",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Strabo 11.2.9",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "citationDetail": "11.2.9",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Str. (Meineke: Perseus)",
+            "type": "citesAsEvidence"
         },
         {
             "accessURI": "http://referenceworks.brillonline.com/entries/brill-s-new-pauly/hypanis-e519520",
