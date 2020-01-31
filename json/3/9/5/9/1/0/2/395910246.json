@@ -10,29 +10,49 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/432873",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:41:22Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2020-01-25T17:12:22Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "432873",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Herculaneum",
             "uri": "https://pleiades.stoa.org/places/395910246/432873"
         }
@@ -100,6 +120,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "wikidata ",
+            "modified": "2020-01-25T17:58:33Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2017-04-13T14:25:26Z",
@@ -364,6 +389,17 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q83636890",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q83636890",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [

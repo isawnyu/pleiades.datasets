@@ -10,29 +10,61 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/884130",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:02:51Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "added time period, reference, changed cnxn type",
+                    "modified": "2020-01-23T13:21:24Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "884130",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Chalus_River",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Chalus River",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": 2000,
             "title": "Caspium/Hyrcanium Mare",
             "uri": "https://pleiades.stoa.org/places/884216/884130"
         }
@@ -72,7 +104,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 90 G4 Straton fl.",
-    "details": "The Barrington Atlas Directory notes: Chalus",
+    "details": "<p>The Barrington Atlas Directory notes: Chalus</p>",
     "features": [
         {
             "geometry": {
@@ -114,6 +146,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2020-01-23T13:17:27Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "replacing the abbreviation fl. with (river) to bring titles into conformance with Editorial Guidelines",
             "modified": "2017-10-27T21:25:57Z",
@@ -326,12 +363,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Hyrkania",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Hyrkania, cols. 468",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "RE Hyrkania, cols. 468",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
