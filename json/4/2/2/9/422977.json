@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.052183,
-        42.023686,
-        12.052183,
-        42.023686
+        12.0597179,
+        42.0038165,
+        12.0597179,
+        42.0038165
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,23 +53,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.052183,
-                    42.023686
+                    12.0597179,
+                    42.0038165
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-23150",
+            "id": "osm-location-of-montetosto-tumulus",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/422977/darmc-location-23150",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/422977/osm-location-of-montetosto-tumulus",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "DARMC location 23150"
+                "snippet": "Tumulus; 750 BC - 330 BC",
+                "title": "OSM location of Montetosto tumulus"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
+            "modified": "2020-01-30T22:58:12Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add'l place type; references added",
             "modified": "2019-12-30T13:57:21Z",
@@ -110,76 +115,87 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:16:17Z",
-            "creators": [
-                {
-                    "name": "L. Quilici",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
                 {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 23150",
-            "end": null,
+            "contributors": [],
+            "created": "2019-12-30T13:53:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": -330,
             "featureType": [
-                "unknown"
+                "tumulus"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
             ],
             "geometry": {
                 "coordinates": [
-                    12.052183,
-                    42.023686
+                    12.0597179,
+                    42.0038165
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:56:14Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2019-12-30T13:54:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-12-30T13:53:51Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-23150",
+            "id": "osm-location-of-montetosto-tumulus",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
             ],
-            "provenance": "DARMC OBJECTID: 23150",
+            "provenance": "OpenStreetMap (Node 3214344413, version 2, osm:changeset=79016447, 2019-12-30T13:53:16Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/3214344413",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "23150",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 3214344413",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 23150.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=3214344413",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "DARMC location 23150",
-            "uri": "https://pleiades.stoa.org/places/422977/darmc-location-23150"
+            "start": -750,
+            "title": "OSM location of Montetosto tumulus",
+            "uri": "https://pleiades.stoa.org/places/422977/osm-location-of-montetosto-tumulus"
         }
     ],
     "names": [],
@@ -269,11 +285,22 @@
             "otherIdentifier": "",
             "shortTitle": "Michetti 2015",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "23150",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.052183,
-        42.023686
+        12.0597179,
+        42.0038165
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

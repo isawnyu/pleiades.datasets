@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.370137,
-        38.169873,
-        23.370137,
-        38.169873
+        23.4246767,
+        38.1635279,
+        23.4247715,
+        38.1636036
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,48 @@
         {
             "geometry": {
                 "coordinates": [
-                    23.370137,
-                    38.169873
+                    [
+                        [
+                            23.4246767,
+                            38.1635279
+                        ],
+                        [
+                            23.4247248,
+                            38.1636036
+                        ],
+                        [
+                            23.4247715,
+                            38.1635864
+                        ],
+                        [
+                            23.4247656,
+                            38.1635772
+                        ],
+                        [
+                            23.4246767,
+                            38.1635279
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-21303",
+            "id": "osm-location-of-mazi-tower",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/580023/darmc-location-21303",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/580023/osm-location-of-mazi-tower",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 330 BC",
-                "title": "DARMC location 21303"
+                "snippet": "Fort; 550 BC - 330 BC",
+                "title": "OSM location of Mazi Tower"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
+            "modified": "2020-01-31T11:24:31Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "reference",
             "modified": "2020-01-07T03:50:58Z",
@@ -101,84 +126,101 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "classical",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:32:04Z",
+            "contributors": [],
+            "created": "2020-01-07T03:48:42Z",
             "creators": [
                 {
-                    "name": "J.S. Traill",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21303",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": -330,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    23.370137,
-                    38.169873
+                    [
+                        [
+                            23.4246767,
+                            38.1635279
+                        ],
+                        [
+                            23.4247248,
+                            38.1636036
+                        ],
+                        [
+                            23.4247715,
+                            38.1635864
+                        ],
+                        [
+                            23.4247656,
+                            38.1635772
+                        ],
+                        [
+                            23.4246767,
+                            38.1635279
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:42:41Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2020-01-07T03:49:07Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:32:05Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-01-07T03:48:42Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21303",
+            "id": "osm-location-of-mazi-tower",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 21303",
+            "provenance": "OpenStreetMap (Way 446786516, version 1, osm:changeset=42770354, 2016-10-10T07:41:41Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/446786516",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21303",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 446786516",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21303.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=446786516",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 21303",
-            "uri": "https://pleiades.stoa.org/places/580023/darmc-location-21303"
+            "title": "OSM location of Mazi Tower",
+            "uri": "https://pleiades.stoa.org/places/580023/osm-location-of-mazi-tower"
         }
     ],
     "names": [],
@@ -222,11 +264,22 @@
             "otherIdentifier": "",
             "shortTitle": "Fachard 2015",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21303",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.370137,
-        38.169873
+        23.424719813389338,
+        38.16357137969489
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

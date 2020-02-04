@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        42.046205,
-        37.403205,
-        42.046205,
-        37.403205
+        42.0661099,
+        37.4023023,
+        42.0661099,
+        37.4023023
     ],
     "connections": [],
     "connectsWith": [
@@ -63,23 +63,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    42.046205,
-                    37.403205
+                    42.0661099,
+                    37.4023023
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-22554",
+            "id": "osm-location-of-bezabde",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/874402/darmc-location-22554",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/874402/osm-location-of-bezabde",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 22554"
+                "snippet": "Fort; AD 300 - AD 640",
+                "title": "OSM location of Bezabde"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
+            "modified": "2020-01-31T16:21:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "summary, references",
             "modified": "2019-12-23T19:24:29Z",
@@ -115,8 +120,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -127,84 +132,69 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:13:47Z",
+            "contributors": [],
+            "created": "2019-12-23T19:12:22Z",
             "creators": [
                 {
-                    "name": "S.E. Kroll",
-                    "username": null
-                },
-                {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
-                },
-                {
-                    "name": "T. Sinclair",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22554",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    42.046205,
-                    37.403205
+                    42.0661099,
+                    37.4023023
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:00:36Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM Location",
+                    "modified": "2019-12-23T19:12:51Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:13:49Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-12-23T19:12:23Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-22554",
+            "id": "osm-location-of-bezabde",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 22554",
+            "provenance": "OpenStreetMap (Node 7080463220, version 1, osm:changeset=78786948, 2019-12-23T19:11:55Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/7080463220",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22554",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 7080463220",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22554.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=7080463220",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 22554",
-            "uri": "https://pleiades.stoa.org/places/874402/darmc-location-22554"
+            "title": "OSM location of Bezabde",
+            "uri": "https://pleiades.stoa.org/places/874402/osm-location-of-bezabde"
         }
     ],
     "names": [
@@ -447,11 +437,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22554",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        42.046205,
-        37.403205
+        42.0661099,
+        37.4023023
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

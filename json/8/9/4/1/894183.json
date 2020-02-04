@@ -1,33 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        43.8178604,
-        36.4143994,
-        43.8178604,
-        36.4143994
+        43.3414882,
+        35.9897452,
+        44.3040203,
+        38.0000681
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/912964",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:03:20Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2019-12-23T03:02:31Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "912964",
             "provenance": "Pleiades",
             "references": [],
@@ -38,12 +51,15 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/912964"
+        "https://pleiades.stoa.org/places/912964",
+        "https://pleiades.stoa.org/places/894019"
     ],
     "contributors": [
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -66,10 +82,8 @@
             "username": null
         },
         {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "name": "B. Siewert-Mayer",
@@ -117,6 +131,112 @@
                 "location_precision": "precise",
                 "snippet": "River, ; AD 1700 - AD 2100",
                 "title": "location of Zabas Megas/Zapatas?/Lykos? fl."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            43.3415335,
+                            35.9897452
+                        ],
+                        [
+                            43.3414882,
+                            35.993026
+                        ],
+                        [
+                            43.4910736,
+                            37.4274984
+                        ],
+                        [
+                            43.4914151,
+                            37.4287123
+                        ],
+                        [
+                            43.5088378,
+                            37.4660073
+                        ],
+                        [
+                            43.5095464,
+                            37.4671224
+                        ],
+                        [
+                            43.5141307,
+                            37.4721977
+                        ],
+                        [
+                            44.1126252,
+                            37.9975272
+                        ],
+                        [
+                            44.1178455,
+                            37.9997727
+                        ],
+                        [
+                            44.1192973,
+                            38.0000681
+                        ],
+                        [
+                            44.3040203,
+                            36.7418031
+                        ],
+                        [
+                            44.3024971,
+                            36.728488
+                        ],
+                        [
+                            44.2594162,
+                            36.6800362
+                        ],
+                        [
+                            44.2586884,
+                            36.6792394
+                        ],
+                        [
+                            44.2556965,
+                            36.6760801
+                        ],
+                        [
+                            44.2533399,
+                            36.6736619
+                        ],
+                        [
+                            44.2527392,
+                            36.6731616
+                        ],
+                        [
+                            43.4868757,
+                            36.0410074
+                        ],
+                        [
+                            43.4450346,
+                            36.0178936
+                        ],
+                        [
+                            43.4419689,
+                            36.016615
+                        ],
+                        [
+                            43.4348793,
+                            36.0146389
+                        ],
+                        [
+                            43.3415335,
+                            35.9897452
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-great-zab-river",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/894183/osm-location-of-great-zab-river",
+                "location_precision": "precise",
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM location of Great Zab River"
             },
             "type": "Feature"
         }
@@ -245,6 +365,172 @@
             "start": 1700,
             "title": "location of Zabas Megas/Zapatas?/Lykos? fl.",
             "uri": "https://pleiades.stoa.org/places/894183/location-of-Zabas-Megas-Zapatas-Lykos-fl"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [],
+            "created": "2019-12-23T02:57:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "river"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            43.3415335,
+                            35.9897452
+                        ],
+                        [
+                            43.3414882,
+                            35.993026
+                        ],
+                        [
+                            43.4910736,
+                            37.4274984
+                        ],
+                        [
+                            43.4914151,
+                            37.4287123
+                        ],
+                        [
+                            43.5088378,
+                            37.4660073
+                        ],
+                        [
+                            43.5095464,
+                            37.4671224
+                        ],
+                        [
+                            43.5141307,
+                            37.4721977
+                        ],
+                        [
+                            44.1126252,
+                            37.9975272
+                        ],
+                        [
+                            44.1178455,
+                            37.9997727
+                        ],
+                        [
+                            44.1192973,
+                            38.0000681
+                        ],
+                        [
+                            44.3040203,
+                            36.7418031
+                        ],
+                        [
+                            44.3024971,
+                            36.728488
+                        ],
+                        [
+                            44.2594162,
+                            36.6800362
+                        ],
+                        [
+                            44.2586884,
+                            36.6792394
+                        ],
+                        [
+                            44.2556965,
+                            36.6760801
+                        ],
+                        [
+                            44.2533399,
+                            36.6736619
+                        ],
+                        [
+                            44.2527392,
+                            36.6731616
+                        ],
+                        [
+                            43.4868757,
+                            36.0410074
+                        ],
+                        [
+                            43.4450346,
+                            36.0178936
+                        ],
+                        [
+                            43.4419689,
+                            36.016615
+                        ],
+                        [
+                            43.4348793,
+                            36.0146389
+                        ],
+                        [
+                            43.3415335,
+                            35.9897452
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2019-12-23T02:58:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-12-23T02:57:42Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-great-zab-river",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "provenance": "OpenStreetMap (Relation 368962, version 50, osm:changeset=58005455, 2018-04-11T14:30:52Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/368962",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Relation 368962",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:relation=368962",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "OSM location of Great Zab River",
+            "uri": "https://pleiades.stoa.org/places/894183/osm-location-of-great-zab-river"
         }
     ],
     "names": [
@@ -2170,8 +2456,8 @@
         }
     ],
     "reprPoint": [
-        43.8178604,
-        36.4143994
+        43.83263750815391,
+        36.70367727841504
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
