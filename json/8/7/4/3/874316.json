@@ -13,6 +13,35 @@
             "attestations": [],
             "connectionType": "connection",
             "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/628924",
+            "contributors": [],
+            "created": "2016-07-13T13:56:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "628924",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Antitaurus Mons",
+            "uri": "https://pleiades.stoa.org/places/874316/628924"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
             "connectsTo": "https://pleiades.stoa.org/errata/874325",
             "contributors": [],
             "created": "2016-07-13T13:56:31Z",
@@ -38,6 +67,7 @@
         }
     ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/628924",
         "https://pleiades.stoa.org/places/874325"
     ],
     "contributors": [
@@ -51,15 +81,15 @@
         },
         {
             "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
-        },
-        {
-            "homepage": null,
             "name": "Francis Deblauwe",
             "uri": "https://pleiades.stoa.org/author/fdeblauwe",
             "username": "fdeblauwe"
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -106,7 +136,7 @@
             },
             "id": "darmc-location-21462",
             "properties": {
-                "description": "Point location",
+                "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/874316/darmc-location-21462",
                 "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 640",
@@ -124,16 +154,21 @@
             },
             "id": "location-of-alt131ntepe",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/874316/location-of-alt131ntepe",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 900 BC - 600 BC",
-                "title": "location of Altıntepe"
+                "snippet": "Settlement; 900 BC - 600 BC",
+                "title": "OSM location of Altıntepe Höyüğü"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "check in",
+            "modified": "2020-02-07T21:34:49Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2013-01-14T22:44:47Z",
@@ -217,7 +252,7 @@
                     "username": null
                 }
             ],
-            "description": "Point location",
+            "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 21462",
             "end": 640,
             "featureType": [
@@ -279,7 +314,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -300,16 +335,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap.",
             "details": "",
             "end": -600,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -319,6 +352,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "edited title",
+                    "modified": "2020-02-07T21:37:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "edited title, summary",
+                    "modified": "2020-02-07T21:35:58Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "added location",
                     "modified": "2013-08-04T02:27:59Z",
@@ -335,8 +378,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "OpenStreetMap (Way 130188095, version 3, osm:changeset=13297170, 2012-09-29T14:18:15Z)",
             "references": [
@@ -365,7 +407,7 @@
             ],
             "review_state": "published",
             "start": -900,
-            "title": "location of Altıntepe",
+            "title": "OSM location of Altıntepe Höyüğü",
             "uri": "https://pleiades.stoa.org/places/874316/location-of-alt131ntepe"
         }
     ],
@@ -420,8 +462,8 @@
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
     "title": "Altıntepe",
     "type": "FeatureCollection",
