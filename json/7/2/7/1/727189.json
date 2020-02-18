@@ -3,63 +3,64 @@
     "bbox": [
         29.331389,
         -2.282222,
-        31.2705999,
-        30.166667
+        32.5824,
+        31.062
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
-            "connectsTo": "https://pleiades.stoa.org/places/727172",
-            "contributors": [],
-            "created": "2016-07-13T13:39:07Z",
-            "creators": [
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/727191",
+            "contributors": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
-            "details": "",
-            "end": null,
-            "history": [],
-            "id": "727172",
-            "provenance": "Pleiades",
-            "references": [],
-            "review_state": "published",
-            "start": null,
-            "title": "Nilus (river)",
-            "uri": "https://pleiades.stoa.org/places/727189/727172"
-        },
-        {
-            "@type": "Connection",
-            "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
-            "connectsTo": "https://pleiades.stoa.org/places/727191",
-            "contributors": [],
             "created": "2016-07-13T13:39:08Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "batlas reference",
+                    "modified": "2020-02-14T15:47:53Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "ctype: flows into",
+                    "modified": "2020-02-14T15:01:23Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "727191",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "74",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Pelousiakon Stoma",
@@ -67,8 +68,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/727172",
-        "https://pleiades.stoa.org/places/727191"
+        "https://pleiades.stoa.org/places/727191",
+        "https://pleiades.stoa.org/places/727172"
     ],
     "contributors": [
         {
@@ -89,12 +90,18 @@
         },
         {
             "homepage": null,
+            "name": "Francis Deblauwe",
+            "uri": "https://pleiades.stoa.org/author/fdeblauwe",
+            "username": "fdeblauwe"
+        },
+        {
+            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
         }
     ],
-    "created": "2017-10-27T21:16:07Z",
+    "created": "2020-02-14T15:30:29Z",
     "creators": [
         {
             "name": "A. Bernand",
@@ -102,48 +109,24 @@
         }
     ],
     "description": "Pelousiakos fl. (the now-defunct Pelusiac branch of the Nile river).",
-    "details": "The Barrington Atlas Directory notes: river",
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            31.0,
-                            30.0
-                        ],
-                        [
-                            31.0,
-                            30.5
-                        ],
-                        [
-                            31.5,
-                            30.5
-                        ],
-                        [
-                            31.5,
-                            30.0
-                        ],
-                        [
-                            31.0,
-                            30.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "undetermined",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/727189/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Undetermined location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "details": "<p>The Barrington Atlas Directory notes: river</p>",
+    "features": [],
     "history": [
+        {
+            "comment": "thomase: Regularized and updated references using PleiadesRefFixerBot",
+            "modified": "2020-02-14T15:35:16Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up reference for Sneh 1973",
+            "modified": "2020-02-14T15:19:47Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added fdeblauwe as contributor",
+            "modified": "2020-02-14T14:59:47Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "replacing the abbreviation fl. with (river) to bring titles into conformance with Editorial Guidelines",
             "modified": "2017-10-27T21:16:09Z",
@@ -171,114 +154,7 @@
         }
     ],
     "id": "727189",
-    "locations": [
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-09-09T06:42:07Z",
-            "creators": [
-                {
-                    "name": "A. Bernand",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            31.0,
-                            30.0
-                        ],
-                        [
-                            31.0,
-                            30.5
-                        ],
-                        [
-                            31.5,
-                            30.5
-                        ],
-                        [
-                            31.5,
-                            30.0
-                        ],
-                        [
-                            31.0,
-                            30.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:08:13Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 74 E4 Pelousiakos fl.",
-            "references": [],
-            "review_state": "published",
-            "start": -550,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/727189/undetermined"
-        }
-    ],
+    "locations": [],
     "names": [
         {
             "@type": "Name",
@@ -360,42 +236,42 @@
     "provenance": "Barrington Atlas: BAtlas 74 E4 Pelousiakos fl.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "74 E4 Pelousiakos fl.",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 74 E4 Pelousiakos fl.",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "formattedCitation": "Talbert, Richard J. A., ed., <i>Barrington Atlas of the Greek and Roman World,</i> Princeton, N.J.: Princeton University Press, 2000.",
+            "otherIdentifier": "ISBN: 0-691-03169-X; OCLC: 43970336",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#Toussoun-1922-13-17",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PFXTNXSW",
+            "citationDetail": "13-17",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Toussoun 1922 13-17",
+            "formattedCitation": "Umar Tusun, <i>Mémoire sur les anciennes branches du Nil: époque ancienne</i>, Le Caire: Impr. de l'Institut français d'archéologie orientale, 1922.",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Toussoun 1922",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.ncbi.nlm.nih.gov/pubmed/17757973",
+            "accessURI": "https://science.sciencemag.org/content/180/4081/59",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N9LZGPW6",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Sneh, A. and T. Weissbrod.1973. \"Nile delta: the defunct Pelusiac branch identified.\" Science 180(4081):59-61.",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "formattedCitation": "A. Sneh and T. Weissbrod, \"Nile delta: the defunct pelusiac branch identified\", <i>Science</i>, 180.4081 (6 April 1973), 59-61.",
+            "otherIdentifier": "DOI: 10.1126/science.180.4081.59; ISSN: 0036-8075",
+            "shortTitle": "Sneh 1973",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        30.567329633333333,
-        19.211408766666665
+        31.57486481666667,
+        25.13670438333333
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
