@@ -19,7 +19,7 @@
 
 <head>
     <script type="text/javascript">//<!--
-window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);
+(window.NREUM||(NREUM={})).loader_config={licenseKey:"8413aea1c7",applicationID:"17811158"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);
 //--></script>
 
     
@@ -80,12 +80,10 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
 
   
   
-    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/resourceplone.app.jquery-cachekey-3a4a68973ed8b014d68d66a3e85245e6.js"></script>
-    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/referencebrowser-cachekey-3548322990a88c01274775ed3eef1415.js"></script>
-    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/ga_pleiades-cachekey-82697f8d6fa49fd8a5236273a055588d.js"></script>
-    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/kss-bbb-cachekey-1dfe226090883e8e7ac48cf86f7856c3.js"></script>
-    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/inline_validation-cachekey-a4796d308d03c3c58420af82b7c547c7.js"></script>
-    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/forms-cachekey-5c68da89c92d12a7c0a37fc9c0499e33.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/resourceplone.app.jquery-cachekey-dde010f45e692b4a412fabd00c92188b.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/referencebrowser-cachekey-1161a11d1784b783989d35955fd9493c.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/inline_validation-cachekey-42afd6fd397f90d412ee14370ad10ca0.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/forms-cachekey-3714c606e9c4ffe6b354053f4aeb6fee.js"></script>
 
 
 
@@ -224,55 +222,55 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
     
     <dd class="portletItem odd">
 
-        <a href="https://pleiades.stoa.org/news/blog/coverage-march-2019" class="tile" title="Pleiades documents 36,541 places as of this morning's JSON update.">
+        <a href="https://pleiades.stoa.org/news/blog/nightly-exports-fixed" class="tile" title="Incompleteness and validity problems with JSON, CSV, and KML exports are now resolved.">
             
-            Coverage (March 2019)
+            Nightly Exports Fixed
          </a>
-            <span class="portletItemDetails">Mar 11, 2019</span>
+            <span class="portletItemDetails">Dec 04, 2019</span>
 
     </dd>
     
     
     <dd class="portletItem even">
 
-        <a href="https://pleiades.stoa.org/news/blog/improving-reference-citations" class="tile" title="Pleiades cites a wide variety of resources, both online and in print. New documentation and tools are making existing references better and easing the process of creating new ones.">
+        <a href="https://pleiades.stoa.org/news/blog/maintenance-complete-10-april-2019" class="tile" title="All scheduled maintenance for 10 April 2019 is now complete.">
             
-            Improving Reference Citations
+            Maintenance Complete: 10 April 2019
          </a>
-            <span class="portletItemDetails">Dec 15, 2017</span>
+            <span class="portletItemDetails">Apr 10, 2019</span>
 
     </dd>
     
     
     <dd class="portletItem odd">
 
-        <a href="https://pleiades.stoa.org/news/blog/boston-2018" class="tile" title="A three-hour workshop on Pleiades and related tools and techniques will be held in Boston on Friday, January 5, 1:45 - 4:45 pm.">
+        <a href="https://pleiades.stoa.org/news/blog/maintenance-in-progress" class="tile" title="Pleiades web services are currently undergoing maintenance.">
             
-            Boston Workshop, January 2018
+            Maintenance in Progress
          </a>
-            <span class="portletItemDetails">Sep 29, 2017</span>
+            <span class="portletItemDetails">Apr 10, 2019</span>
 
     </dd>
     
     
     <dd class="portletItem even">
 
-        <a href="https://pleiades.stoa.org/news/blog/introducing-geocollider" class="tile" title="A new tool to help you match lists of placenames or geographic locations against the Pleiades gazetteer.">
+        <a href="https://pleiades.stoa.org/news/blog/maintenance-10-april-2019" class="tile" title="Pleiades web services will undergo maintenance on Wednesday, 10 April 2019, between 11 am and 5 pm US Eastern Daylight Time.">
             
-            Introducing Geocollider
+            Maintenance 10 April 2019
          </a>
-            <span class="portletItemDetails">Jun 08, 2017</span>
+            <span class="portletItemDetails">Apr 09, 2019</span>
 
     </dd>
     
     
     <dd class="portletItem odd">
 
-        <a href="https://pleiades.stoa.org/news/blog/new-help-topic-open-pleiades-csv-in-qgis" class="tile" title="Are you eager to use Pleiades data in a geographic information system? Here's a quick, introductory tutorial.">
+        <a href="https://pleiades.stoa.org/news/blog/pleiades-datasets-version-1.1" class="tile" title="Archival copies of our latest set of platform-independent download data files have been published.">
             
-            New help topic: Open Pleiades CSV in QGIS
+            Pleiades Datasets version 1.1
          </a>
-            <span class="portletItemDetails">Apr 20, 2017</span>
+            <span class="portletItemDetails">Apr 01, 2019</span>
 
     </dd>
     
@@ -377,6 +375,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
       <a href="/author/sdunn">Stuart Dunn</a>,
       <a href="/author/mdurusu">M&#252;ge Durusu</a>,
       <a href="/author/nkaye">Noah Kaye</a>,
+      <a href="/author/gmckee">Gabriel McKee</a>,
       <a href="/author/ctupman">Charlotte Tupman</a>,
       <a href="/author/sarcanon">Scott Vanderbilt</a>,
       <a href="/author/vvitale">Valeria Vitale</a>
@@ -405,6 +404,27 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
     <div id="credits-list">
       <div class="credit-record">
         <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/carlos.delaguardia">
+          <h4 class="credit-name"></h4>
+        </a>
+        <p>
+          <span class="credit-roles">Manager; Member</span>
+          since
+          <span>2 November 2016</span>.
+          <a rel="nofollow" href="/search?Creator=carlos.delaguardia">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=carlos.delaguardia">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2016-11-02T11:00:05-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
         <a rel="nofollow" href="/author/ahorsting">
           <h4 class="credit-name">A. Horsting</h4>
         </a>
@@ -420,7 +440,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">14</span>
-          <span class="credit-date" style="display:none;">2013-11-06T17:38:41-04:00</span>
+          <span class="credit-date" style="display:none;">2013-11-06T16:38:41-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -455,14 +475,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>11 January 2011</span>.
           <a rel="nofollow" href="/search?Creator=arabinowitz">
-            <span>20</span>
+            <span>23</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=arabinowitz">
-            <span>197</span>
+            <span>203</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">217</span>
-          <span class="credit-date" style="display:none;">2011-01-11T14:56:35-04:00</span>
+          <span class="credit-count" style="display:none;">226</span>
+          <span class="credit-date" style="display:none;">2011-01-11T13:56:35-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -483,7 +503,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">1</span>
-          <span class="credit-date" style="display:none;">2016-01-12T19:27:00-04:00</span>
+          <span class="credit-date" style="display:none;">2016-01-12T18:27:00-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -525,7 +545,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">9</span>
-          <span class="credit-date" style="display:none;">2016-03-05T18:06:42-04:00</span>
+          <span class="credit-date" style="display:none;">2016-03-05T17:06:42-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -775,7 +795,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">1</span>
-          <span class="credit-date" style="display:none;">2013-01-02T08:11:26-04:00</span>
+          <span class="credit-date" style="display:none;">2013-01-02T07:11:26-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -817,7 +837,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">6</span>
-          <span class="credit-date" style="display:none;">2011-12-02T04:04:38-04:00</span>
+          <span class="credit-date" style="display:none;">2011-12-02T03:04:38-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -831,14 +851,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>27 January 2014</span>.
           <a rel="nofollow" href="/search?Creator=bkiesling">
-            <span>5</span>
+            <span>7</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=bkiesling">
-            <span>2144</span>
+            <span>2145</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">2149</span>
-          <span class="credit-date" style="display:none;">2014-01-27T07:37:53-04:00</span>
+          <span class="credit-count" style="display:none;">2152</span>
+          <span class="credit-date" style="display:none;">2014-01-27T06:37:53-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -852,13 +872,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>9 July 2009</span>.
           <a rel="nofollow" href="/search?Creator=bdturner">
-            <span>9</span>
+            <span>10</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=bdturner">
-            <span>27</span>
+            <span>34</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">36</span>
+          <span class="credit-count" style="display:none;">44</span>
           <span class="credit-date" style="display:none;">2009-07-09T08:43:04-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -943,7 +963,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">16</span>
-          <span class="credit-date" style="display:none;">2017-02-11T08:36:34-04:00</span>
+          <span class="credit-date" style="display:none;">2017-02-11T07:36:34-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -964,7 +984,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2017-11-30T15:42:52-04:00</span>
+          <span class="credit-date" style="display:none;">2017-11-30T14:42:52-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1058,13 +1078,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>26 September 2016</span>.
           <a rel="nofollow" href="/search?Creator=ctiah">
-            <span>13</span>
+            <span>15</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=ctiah">
             <span>3</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">16</span>
+          <span class="credit-count" style="display:none;">18</span>
           <span class="credit-date" style="display:none;">2016-09-26T12:31:25-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -1086,7 +1106,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">17</span>
-          <span class="credit-date" style="display:none;">2014-11-18T09:47:39-04:00</span>
+          <span class="credit-date" style="display:none;">2014-11-18T08:47:39-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1100,13 +1120,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>24 September 2011</span>.
           <a rel="nofollow" href="/search?Creator=diffenda">
-            <span>36</span>
+            <span>38</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=diffenda">
             <span>19</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">55</span>
+          <span class="credit-count" style="display:none;">57</span>
           <span class="credit-date" style="display:none;">2011-09-24T17:49:32-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -1189,7 +1209,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">3</span>
-          <span class="credit-date" style="display:none;">2012-12-11T15:49:36-04:00</span>
+          <span class="credit-date" style="display:none;">2012-12-11T14:49:36-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1224,13 +1244,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>23 March 2016</span>.
           <a rel="nofollow" href="/search?Creator=ddzhigova">
-            <span>13</span>
+            <span>15</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=ddzhigova">
             <span>1</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">14</span>
+          <span class="credit-count" style="display:none;">16</span>
           <span class="credit-date" style="display:none;">2016-03-23T17:17:11-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -1266,14 +1286,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>9 February 2017</span>.
           <a rel="nofollow" href="/search?Creator=dhagmann">
-            <span>5</span>
+            <span>6</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=dhagmann">
             <span>0</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">5</span>
-          <span class="credit-date" style="display:none;">2017-02-09T05:28:05-04:00</span>
+          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-date" style="display:none;">2017-02-09T04:28:05-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1287,14 +1307,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>2 February 2018</span>.
           <a rel="nofollow" href="/search?Creator=ekeogh">
-            <span>4</span>
+            <span>9</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=ekeogh">
             <span>3</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">7</span>
-          <span class="credit-date" style="display:none;">2018-02-02T16:11:06-04:00</span>
+          <span class="credit-count" style="display:none;">12</span>
+          <span class="credit-date" style="display:none;">2018-02-02T15:11:06-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1315,7 +1335,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2016-02-22T15:25:17-04:00</span>
+          <span class="credit-date" style="display:none;">2016-02-22T14:25:17-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1357,7 +1377,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">4</span>
-          <span class="credit-date" style="display:none;">2013-12-19T14:48:16-04:00</span>
+          <span class="credit-date" style="display:none;">2013-12-19T13:48:16-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1374,10 +1394,10 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>0</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=erobinson">
-            <span>118</span>
+            <span>119</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">118</span>
+          <span class="credit-count" style="display:none;">119</span>
           <span class="credit-date" style="display:none;">2016-07-18T14:43:40-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -1395,11 +1415,11 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>1</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=ekansa">
-            <span>2989</span>
+            <span>2979</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">2990</span>
-          <span class="credit-date" style="display:none;">2011-03-07T17:12:35-04:00</span>
+          <span class="credit-count" style="display:none;">2980</span>
+          <span class="credit-date" style="display:none;">2011-03-07T16:12:35-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1416,11 +1436,32 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>47</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=fdeblauwe">
-            <span>3008</span>
+            <span>2999</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">3055</span>
+          <span class="credit-count" style="display:none;">3046</span>
           <span class="credit-date" style="display:none;">2011-10-19T13:50:43-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ftassaux">
+          <h4 class="credit-name">Francis Tassaux</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>24 July 2019</span>.
+          <a rel="nofollow" href="/search?Creator=ftassaux">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ftassaux">
+            <span>3</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2019-07-24T05:03:10-04:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1462,7 +1503,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">3</span>
-          <span class="credit-date" style="display:none;">2012-12-07T21:02:26-04:00</span>
+          <span class="credit-date" style="display:none;">2012-12-07T20:02:26-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1472,17 +1513,17 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           <h4 class="credit-name">Gabriel Bodard</h4>
         </a>
         <p>
-          <span class="credit-roles">Member</span>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
           since
           <span>23 April 2009</span>.
           <a rel="nofollow" href="/search?Creator=gbodard">
-            <span>3</span>
+            <span>4</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=gbodard">
-            <span>9</span>
+            <span>41</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">12</span>
+          <span class="credit-count" style="display:none;">45</span>
           <span class="credit-date" style="display:none;">2009-04-23T12:06:41-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -1493,17 +1534,17 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           <h4 class="credit-name">Gabriel Mckee</h4>
         </a>
         <p>
-          <span class="credit-roles">Member</span>
+          <span class="credit-roles">Reader, Reviewer; Member</span>
           since
           <span>21 September 2016</span>.
           <a rel="nofollow" href="/search?Creator=gmckee">
-            <span>673</span>
+            <span>973</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=gmckee">
-            <span>66</span>
+            <span>105</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">739</span>
+          <span class="credit-count" style="display:none;">1078</span>
           <span class="credit-date" style="display:none;">2016-09-21T16:55:00-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -1521,11 +1562,11 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>20</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=gmoss">
-            <span>82</span>
+            <span>86</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">102</span>
-          <span class="credit-date" style="display:none;">2016-02-09T18:58:27-04:00</span>
+          <span class="credit-count" style="display:none;">106</span>
+          <span class="credit-date" style="display:none;">2016-02-09T17:58:27-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1540,11 +1581,32 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>2</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=glembi">
-            <span>4</span>
+            <span>6</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-count" style="display:none;">8</span>
           <span class="credit-date" style="display:none;"></span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/gtsolakis">
+          <h4 class="credit-name">Georgios Tsolakis</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>5 September 2015</span>.
+          <a rel="nofollow" href="/search?Creator=gtsolakis">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=gtsolakis">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2015-09-05T11:35:44-04:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1565,7 +1627,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">12</span>
-          <span class="credit-date" style="display:none;">2011-12-12T11:17:28-04:00</span>
+          <span class="credit-date" style="display:none;">2011-12-12T10:17:28-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1621,14 +1683,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>29 November 2012</span>.
           <a rel="nofollow" href="/search?Creator=holgerj">
-            <span>8</span>
+            <span>10</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=holgerj">
             <span>8</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">16</span>
-          <span class="credit-date" style="display:none;">2012-11-29T16:34:19-04:00</span>
+          <span class="credit-count" style="display:none;">18</span>
+          <span class="credit-date" style="display:none;">2012-11-29T15:34:19-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1733,7 +1795,28 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">41</span>
-          <span class="credit-date" style="display:none;">2011-11-18T19:37:19-04:00</span>
+          <span class="credit-date" style="display:none;">2011-11-18T18:37:19-05:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/ibirzescu">
+          <h4 class="credit-name">Iulian B&#238;rzescu</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>21 July 2019</span>.
+          <a rel="nofollow" href="/search?Creator=ibirzescu">
+            <span>2</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=ibirzescu">
+            <span>2</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2019-07-21T14:31:07-04:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1838,7 +1921,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">5</span>
-          <span class="credit-date" style="display:none;">2012-01-25T12:58:59-04:00</span>
+          <span class="credit-date" style="display:none;">2012-01-25T11:58:59-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1859,7 +1942,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">4</span>
-          <span class="credit-date" style="display:none;">2011-12-13T10:29:21-04:00</span>
+          <span class="credit-date" style="display:none;">2011-12-13T09:29:21-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1915,14 +1998,35 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>18 December 2015</span>.
           <a rel="nofollow" href="/search?Creator=jnovotny">
-            <span>1050</span>
+            <span>1053</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=jnovotny">
-            <span>82</span>
+            <span>83</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">1132</span>
-          <span class="credit-date" style="display:none;">2015-12-18T09:33:41-04:00</span>
+          <span class="credit-count" style="display:none;">1136</span>
+          <span class="credit-date" style="display:none;">2015-12-18T08:33:41-05:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/jdivancic">
+          <h4 class="credit-name">Janja Dora Ivancic</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>5 November 2019</span>.
+          <a rel="nofollow" href="/search?Creator=jdivancic">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=jdivancic">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2019-11-05T01:54:13-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -1978,14 +2082,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>24 November 2009</span>.
           <a rel="nofollow" href="/search?Creator=jbecker">
-            <span>6749</span>
+            <span>7767</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=jbecker">
-            <span>16940</span>
+            <span>19031</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">23689</span>
-          <span class="credit-date" style="display:none;">2009-11-24T12:31:36-04:00</span>
+          <span class="credit-count" style="display:none;">26798</span>
+          <span class="credit-date" style="display:none;">2009-11-24T11:31:36-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2020,13 +2124,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>16 October 2011</span>.
           <a rel="nofollow" href="/search?Creator=jahlfeldt">
-            <span>2585</span>
+            <span>2582</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=jahlfeldt">
             <span>2725</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">5310</span>
+          <span class="credit-count" style="display:none;">5307</span>
           <span class="credit-date" style="display:none;">2011-10-16T17:01:27-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -2123,13 +2227,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>21 March 2013</span>.
           <a rel="nofollow" href="/search?Creator=Jweiland">
-            <span>11</span>
+            <span>12</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=Jweiland">
             <span>13</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">24</span>
+          <span class="credit-count" style="display:none;">25</span>
           <span class="credit-date" style="display:none;">2013-03-21T03:06:10-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -2186,13 +2290,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>14 August 2013</span>.
           <a rel="nofollow" href="/search?Creator=kcbruhn">
-            <span>0</span>
+            <span>2</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=kcbruhn">
-            <span>1</span>
+            <span>2</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-count" style="display:none;">4</span>
           <span class="credit-date" style="display:none;">2013-08-14T08:39:57-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -2235,7 +2339,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">12</span>
-          <span class="credit-date" style="display:none;">2018-02-13T16:48:51-04:00</span>
+          <span class="credit-date" style="display:none;">2018-02-13T15:48:51-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2361,7 +2465,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2017-11-30T14:50:36-04:00</span>
+          <span class="credit-date" style="display:none;">2017-11-30T13:50:36-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2382,7 +2486,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">1</span>
-          <span class="credit-date" style="display:none;">2014-01-26T13:31:24-04:00</span>
+          <span class="credit-date" style="display:none;">2014-01-26T12:31:24-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2403,7 +2507,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2012-12-20T13:44:23-04:00</span>
+          <span class="credit-date" style="display:none;">2012-12-20T12:44:23-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2417,14 +2521,35 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>24 August 2016</span>.
           <a rel="nofollow" href="/search?Creator=mjredondo">
-            <span>233</span>
+            <span>245</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=mjredondo">
             <span>37</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">270</span>
+          <span class="credit-count" style="display:none;">282</span>
           <span class="credit-date" style="display:none;">2016-08-24T17:55:42-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mdomenica">
+          <h4 class="credit-name">Matteo Di Domenica</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>30 April 2013</span>.
+          <a rel="nofollow" href="/search?Creator=mdomenica">
+            <span>0</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mdomenica">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2013-04-30T05:33:36-04:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2445,7 +2570,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">3</span>
-          <span class="credit-date" style="display:none;">2013-01-15T17:48:46-04:00</span>
+          <span class="credit-date" style="display:none;">2013-01-15T16:48:46-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2523,11 +2648,32 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>0</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=msatlow">
-            <span>6</span>
+            <span>8</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">6</span>
+          <span class="credit-count" style="display:none;">8</span>
           <span class="credit-date" style="display:none;"></span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/mipolczynski">
+          <h4 class="credit-name">Micha&#322; Po&#322;czy&#324;ski</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>3 May 2017</span>.
+          <a rel="nofollow" href="/search?Creator=mipolczynski">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=mipolczynski">
+            <span>1</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-date" style="display:none;">2017-05-03T11:12:08-04:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2541,13 +2687,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>28 April 2013</span>.
           <a rel="nofollow" href="/search?Creator=mwilloughby">
-            <span>6</span>
+            <span>8</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=mwilloughby">
             <span>3</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">9</span>
+          <span class="credit-count" style="display:none;">11</span>
           <span class="credit-date" style="display:none;">2013-04-28T00:27:24-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -2607,11 +2753,11 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>0</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=nprevot">
-            <span>2</span>
+            <span>3</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2018-01-19T09:51:31-04:00</span>
+          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-date" style="display:none;">2018-01-19T08:51:31-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2653,7 +2799,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">1</span>
-          <span class="credit-date" style="display:none;">2013-01-03T07:37:35-04:00</span>
+          <span class="credit-date" style="display:none;">2013-01-03T06:37:35-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2709,14 +2855,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>8 December 2012</span>.
           <a rel="nofollow" href="/search?Creator=nkaye">
-            <span>20</span>
+            <span>33</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=nkaye">
-            <span>49</span>
+            <span>52</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">69</span>
-          <span class="credit-date" style="display:none;">2012-12-08T09:47:02-04:00</span>
+          <span class="credit-count" style="display:none;">85</span>
+          <span class="credit-date" style="display:none;">2012-12-08T08:47:02-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2758,7 +2904,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2016-02-09T10:32:28-04:00</span>
+          <span class="credit-date" style="display:none;">2016-02-09T09:32:28-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2793,13 +2939,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>19 March 2012</span>.
           <a rel="nofollow" href="/search?Creator=pscalfano">
-            <span>14</span>
+            <span>15</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=pscalfano">
             <span>236</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">250</span>
+          <span class="credit-count" style="display:none;">251</span>
           <span class="credit-date" style="display:none;">2012-03-19T11:08:39-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -2821,7 +2967,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">23</span>
-          <span class="credit-date" style="display:none;">2014-02-05T10:44:10-04:00</span>
+          <span class="credit-date" style="display:none;">2014-02-05T09:44:10-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -2863,7 +3009,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">33</span>
-          <span class="credit-date" style="display:none;">2011-01-24T11:22:28-04:00</span>
+          <span class="credit-date" style="display:none;">2011-01-24T10:22:28-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3111,11 +3257,32 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>28</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=komponisto">
-            <span>15</span>
+            <span>16</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">43</span>
+          <span class="credit-count" style="display:none;">44</span>
           <span class="credit-date" style="display:none;">2011-09-07T10:00:48-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/rbagnall">
+          <h4 class="credit-name">Roger Bagnall</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>25 June 2009</span>.
+          <a rel="nofollow" href="/search?Creator=rbagnall">
+            <span>1</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=rbagnall">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-date" style="display:none;">2009-06-25T15:26:57-04:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3150,13 +3317,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>9 August 2018</span>.
           <a rel="nofollow" href="/search?Creator=rrattenborg">
-            <span>4</span>
+            <span>32</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=rrattenborg">
-            <span>0</span>
+            <span>1</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-count" style="display:none;">33</span>
           <span class="credit-date" style="display:none;">2018-08-09T04:56:59-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -3178,7 +3345,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">4</span>
-          <span class="credit-date" style="display:none;">2013-02-07T16:10:44-04:00</span>
+          <span class="credit-date" style="display:none;">2013-02-07T15:10:44-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3192,13 +3359,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>5 October 2012</span>.
           <a rel="nofollow" href="/search?Creator=rmhorne">
-            <span>393</span>
+            <span>428</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=rmhorne">
-            <span>1163</span>
+            <span>1208</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">1556</span>
+          <span class="credit-count" style="display:none;">1636</span>
           <span class="credit-date" style="display:none;">2012-10-05T12:16:24-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -3220,7 +3387,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2014-01-06T17:01:50-04:00</span>
+          <span class="credit-date" style="display:none;">2014-01-06T16:01:50-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3234,14 +3401,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>5 February 2018</span>.
           <a rel="nofollow" href="/search?Creator=shales">
-            <span>2</span>
+            <span>4</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=shales">
             <span>0</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2018-02-05T22:28:58-04:00</span>
+          <span class="credit-count" style="display:none;">4</span>
+          <span class="credit-date" style="display:none;">2018-02-05T21:28:58-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3258,10 +3425,10 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>3</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=sbond">
-            <span>25</span>
+            <span>26</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">28</span>
+          <span class="credit-count" style="display:none;">29</span>
           <span class="credit-date" style="display:none;">2013-09-18T19:02:47-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -3276,14 +3443,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>1 February 2011</span>.
           <a rel="nofollow" href="/search?Creator=sarcanon">
-            <span>763</span>
+            <span>855</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=sarcanon">
-            <span>132</span>
+            <span>154</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">895</span>
-          <span class="credit-date" style="display:none;">2011-02-01T17:48:18-04:00</span>
+          <span class="credit-count" style="display:none;">1009</span>
+          <span class="credit-date" style="display:none;">2011-02-01T16:48:18-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3346,12 +3513,12 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">1</span>
-          <span class="credit-date" style="display:none;">2016-01-13T14:13:10-04:00</span>
+          <span class="credit-date" style="display:none;">2016-01-13T13:13:10-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
       <div class="credit-record">
-        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/portal_memberdata/portraits/belizarius">
         <a rel="nofollow" href="/author/belizarius">
           <h4 class="credit-name">Stanis&#322;aw Ludwi&#324;ski</h4>
         </a>
@@ -3360,14 +3527,14 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>16 December 2016</span>.
           <a rel="nofollow" href="/search?Creator=belizarius">
-            <span>2</span>
+            <span>9</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=belizarius">
-            <span>0</span>
+            <span>1</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2016-12-16T16:10:21-04:00</span>
+          <span class="credit-count" style="display:none;">10</span>
+          <span class="credit-date" style="display:none;">2016-12-16T15:10:21-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3384,11 +3551,11 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>58</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=scosta">
-            <span>48</span>
+            <span>49</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">106</span>
-          <span class="credit-date" style="display:none;">2010-11-16T15:12:40-04:00</span>
+          <span class="credit-count" style="display:none;">107</span>
+          <span class="credit-date" style="display:none;">2010-11-16T14:12:40-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3409,7 +3576,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">2</span>
-          <span class="credit-date" style="display:none;">2019-01-17T04:16:51-04:00</span>
+          <span class="credit-date" style="display:none;">2019-01-17T03:16:51-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3430,7 +3597,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">17</span>
-          <span class="credit-date" style="display:none;">2017-12-15T14:37:34-04:00</span>
+          <span class="credit-date" style="display:none;">2017-12-15T13:37:34-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3486,13 +3653,13 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           since
           <span>13 June 2017</span>.
           <a rel="nofollow" href="/search?Creator=saloni">
-            <span>0</span>
+            <span>6</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=saloni">
             <span>1</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">1</span>
+          <span class="credit-count" style="display:none;">7</span>
           <span class="credit-date" style="display:none;">2017-06-13T06:14:39-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -3556,7 +3723,7 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             other contributions
           </a>
           <span class="credit-count" style="display:none;">51</span>
-          <span class="credit-date" style="display:none;">2017-01-19T17:08:43-04:00</span>
+          <span class="credit-date" style="display:none;">2017-01-19T16:08:43-05:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3573,10 +3740,10 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>1</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=telliott">
-            <span>1</span>
+            <span>2</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">2</span>
+          <span class="credit-count" style="display:none;">3</span>
           <span class="credit-date" style="display:none;">2018-05-15T12:39:32-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -3594,10 +3761,10 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>488</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=vvitale">
-            <span>110</span>
+            <span>142</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">598</span>
+          <span class="credit-count" style="display:none;">630</span>
           <span class="credit-date" style="display:none;">2015-05-20T09:40:20-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -3636,10 +3803,10 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
             <span>2</span>
             additions</a>,
           <a rel="nofollow" href="/search?Contributors=wtuttle">
-            <span>1</span>
+            <span>2</span>
             other contributions
           </a>
-          <span class="credit-count" style="display:none;">3</span>
+          <span class="credit-count" style="display:none;">4</span>
           <span class="credit-date" style="display:none;">2015-07-07T10:39:25-04:00</span>
         </p>
         <div class="visualClear"></div>
@@ -3662,6 +3829,27 @@ window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){va
           </a>
           <span class="credit-count" style="display:none;">1</span>
           <span class="credit-date" style="display:none;">2017-07-20T12:32:03-04:00</span>
+        </p>
+        <div class="visualClear"></div>
+      </div>
+      <div class="credit-record">
+        <img alt="" class="portraitPhoto" width="75" style="float: left; margin-right: 1em; margin-bottom: 1em; vertical-align: top;" src="https://pleiades.stoa.org/defaultUser.png">
+        <a rel="nofollow" href="/author/zbc">
+          <h4 class="credit-name">Zoe Blecher-Cohen</h4>
+        </a>
+        <p>
+          <span class="credit-roles">Member</span>
+          since
+          <span>5 September 2019</span>.
+          <a rel="nofollow" href="/search?Creator=zbc">
+            <span>5</span>
+            additions</a>,
+          <a rel="nofollow" href="/search?Contributors=zbc">
+            <span>0</span>
+            other contributions
+          </a>
+          <span class="credit-count" style="display:none;">5</span>
+          <span class="credit-date" style="display:none;">2019-09-05T15:47:40-04:00</span>
         </p>
         <div class="visualClear"></div>
       </div>
@@ -3862,6 +4050,6 @@ Please see our <a href="https://pleiades.stoa.org/credits">credits</a>.
   </div>
 </div>
 <script type="text/javascript">//<!--
-window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8413aea1c7","agent":"","transactionName":"ZARbMUpZWUECABANXF1OYwpIXQUdMxELAEZQFUpLaFlQVzcGCRRfUhVcFhZiWEIGMwUDVmcEVBVUWUNXTTkLFFZjAF4AbF1aQg8CEAE=","applicationID":"17811158","errorBeacon":"bam.nr-data.net","applicationTime":6955}
+window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8413aea1c7","agent":"","transactionName":"ZARbMUpZWUECABANXF1OYwpIXQUdMxELAEZQFUpLaFlQVzcGCRRfUhVcFhZiWEIGMwUDVmcEVBVUWUNXTTkLFFZjAF4AbF1aQg8CEAE=","applicationID":"17811158","errorBeacon":"bam.nr-data.net","applicationTime":7831}
 //--></script></body>
 </html>
