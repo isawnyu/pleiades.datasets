@@ -10,29 +10,49 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
             "connectsTo": "https://pleiades.stoa.org/places/413184",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:01:01Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "changed cnxn type",
+                    "modified": "2020-03-07T16:44:57Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "413184",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Lucus Feroniae",
             "uri": "https://pleiades.stoa.org/places/413391/413184"
         }
@@ -98,6 +118,31 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2020-03-07T16:59:25Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "wikipedia",
+            "modified": "2020-03-07T16:56:15Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "references",
+            "modified": "2020-03-07T16:55:14Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2020-03-07T16:52:05Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "wikidata, vici.org added",
+            "modified": "2020-03-07T16:49:42Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "darmc",
             "modified": "2017-11-06T13:45:33Z",
@@ -336,12 +381,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/13464557",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KVVU6IAZ",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Moretti 1977",
+            "formattedCitation": "<div class=\"csl-entry\">Sgubini Moretti, Anna Maria, Mario Moretti, and Ennio Santucci. <i>La Villa Dei Volusii a Lucus Feroniae</i>. Roma: Autostrade S.P.A, 1977.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Moretti 1977",
             "type": "seeFurther"
         },
         {
@@ -380,12 +425,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/10020078",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GEYZY4RB",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Boatwright 1982",
+            "formattedCitation": "<div class=\"csl-entry\">Boatwright, Mary Taliaferro. <i>I Volusii Saturnini: una famiglia romana della prima età imperiale</i>. Bari: De Donato, 1982.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Boatwright 1982",
             "type": "seeFurther"
         },
         {
@@ -409,6 +454,61 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q55685668",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q55685668",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://vici.org/vici/29970/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "29970",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K2LGR83Y",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Boatwright, Mary Taliaferro. “The Elogia of the Volusii Saturnini at Lucus Feroniae, and the Education of Their Domestic Service.” In <i>L’écriture Dans La Maison Romaine</i>, 99–111. Paris: De Boccard, 2012.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Boatwright 2012",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/C3IXD2PE",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Di Stefano Manzella, I. “I Volusii e il tempio del Divo Augusto a Lucus Feroniae.” In <i>I Volusii Saturnini. Una famiglia romana della prima età imperiale</i>, 45–53, Abb, n.d.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Di Stefano Manzella 1982",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://de.wikipedia.org/wiki/Villa_dei_Volusii",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
+            "citationDetail": "Villa dei Volusii",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (German)",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
@@ -418,9 +518,12 @@
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
-        "dare:ancient=1",
         "dare:major=0",
+        "villa",
         "dare:feature=villa",
+        "extant remains",
+        "dare:ancient=1",
+        "Mosaic",
         "opus incertum"
     ],
     "title": "Volusii",
