@@ -39,7 +39,8 @@
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/167636",
-        "https://pleiades.stoa.org/places/393469"
+        "https://pleiades.stoa.org/places/393469",
+        "https://pleiades.stoa.org/places/963101122"
     ],
     "contributors": [
         {
@@ -72,8 +73,8 @@
             "username": null
         }
     ],
-    "description": "Monte Viso  is the highest peak of the Cottian Alps and the source of the Po river.",
-    "details": "A 3842 meter summit in the Cottian Alps. See also: http://en.wikipedia.org/wiki/Monte_Viso.",
+    "description": "Monte Viso is the highest peak of the Cottian Alps and the source of the Po river.",
+    "details": "<p>A 3842 meter summit in the Cottian Alps. See also: http://en.wikipedia.org/wiki/Monte_Viso.</p>",
     "features": [
         {
             "geometry": {
@@ -85,16 +86,21 @@
             },
             "id": "summit",
             "properties": {
-                "description": "Coordinates of the summit",
+                "description": "Coordinates of the summit following GeoHack",
                 "link": "https://pleiades.stoa.org/places/167966/summit",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "Summit"
+                "snippet": "Mountain; AD 2000 - AD 2099",
+                "title": "Imagery location of Summit of Monte Viso"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2020-03-20T02:09:13Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "edited description; added references",
             "modified": "2013-07-17T01:20:11Z",
@@ -135,12 +141,26 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2011-09-08T20:31:57Z",
             "creators": [
                 {
@@ -150,14 +170,14 @@
                     "username": "sgillies"
                 }
             ],
-            "description": "Coordinates of the summit",
+            "description": "Coordinates of the summit following GeoHack",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
@@ -167,6 +187,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added reference as data source; added accuracy assessment",
+                    "modified": "2020-03-20T02:11:10Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T02:35:59Z",
@@ -188,7 +213,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -202,11 +227,22 @@
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
                     "type": "cites"
+                },
+                {
+                    "accessURI": "https://tools.wmflabs.org/geohack/geohack.php?pagename=Monte_Viso&params=44_40_03_N_07_05_30_E_type:mountain_scale:100000",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "GeoHack - Monte Viso",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "Summit",
+            "start": 2000,
+            "title": "Imagery location of Summit of Monte Viso",
             "uri": "https://pleiades.stoa.org/places/167966/summit"
         }
     ],
@@ -314,12 +350,12 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=vesulus-mons-geo",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "VESULUS MONS",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "vesulus-mons-geo",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "seeFurther"
         },
         {
@@ -334,36 +370,14 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=vesulus-mons-geo",
+            "accessURI": "http://latin.packhum.org/loc/978/1/0",
             "alternateURI": "",
             "bibliographicURI": "",
-            "citationDetail": "",
+            "citationDetail": "3.117.1",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), VESULUS MONS",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:3.20",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Plin. HN 3.20",
-            "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Verg.%20A.%2010.708&lang=original",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Verg. Aen. 10.708",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "seeFurther"
         }
     ],

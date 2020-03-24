@@ -102,9 +102,10 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/490307091",
         "https://pleiades.stoa.org/places/1356",
-        "https://pleiades.stoa.org/places/403243",
         "https://pleiades.stoa.org/places/403271",
+        "https://pleiades.stoa.org/places/403243",
         "https://pleiades.stoa.org/places/406192",
+        "https://pleiades.stoa.org/places/850888151",
         "https://pleiades.stoa.org/places/403239",
         "https://pleiades.stoa.org/places/403244",
         "https://pleiades.stoa.org/places/403180"
@@ -163,6 +164,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2020-03-20T18:56:56Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Wikidata Q45328",
             "modified": "2017-09-29T17:08:13Z",
@@ -366,15 +372,18 @@
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "attested": "",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Aethalia",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -382,6 +391,18 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2010-11-15T18:57:23Z",
@@ -393,8 +414,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "history": [
+                {
+                    "comment": "added reference; Edited",
+                    "modified": "2020-03-20T18:55:07Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:45:15Z",
@@ -402,13 +428,25 @@
                 }
             ],
             "id": "aethalia",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 41 C4 Ilva/Aethalia Ins.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://latin.packhum.org/loc/978/1/244/725-733",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.81.5",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Aethalia",
-            "start": null,
+            "start": -30,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/403222/aethalia"
@@ -536,12 +574,12 @@
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/244/657-661",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "3.81.4",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
-            "formattedCitation": "Plin. HN (Mayhoff: PHI) 3.81.4",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "citesAsEvidence"
         },
         {
@@ -580,24 +618,24 @@
         {
             "accessURI": "http://www.geonames.org/3177426/isola-d-elba.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "3177426: Isola d'Elba",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "GeoNames 3177426",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "GeoNames",
             "type": "citesAsRelated"
         },
         {
             "accessURI": "https://www.wikidata.org/wiki/Q45328",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Wikidata Q45328",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q45328",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         },
         {
             "accessURI": "http://www.jstor.org/stable/24667998",

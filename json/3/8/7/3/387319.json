@@ -1,22 +1,73 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        8.0,
+        44.5,
+        8.5,
+        45.0
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/383783",
+            "contributors": [],
+            "created": "2016-07-13T13:59:16Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [],
+            "id": "383783",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Statielli",
+            "uri": "https://pleiades.stoa.org/places/387319/383783"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/383783"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
+            "homepage": null,
+            "name": "Stefano Costa",
+            "uri": "https://pleiades.stoa.org/author/scosta",
+            "username": "scosta"
         },
         {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-11-15T17:53:14Z",
@@ -30,8 +81,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 39 unlocated Carystum",
-    "details": "The Barrington Atlas Directory notes: oppidum of Statiellae",
+    "description": "An oppidum of the Statielli/Statellati, where the Romans defeated Ligurian tribes in 173 BC.",
+    "details": "<p>The Barrington Atlas Directory notes: oppidum of Statiellae</p>",
     "features": [
         {
             "geometry": null,
@@ -47,6 +98,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2020-03-20T15:13:35Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "",
+            "modified": "2020-03-20T15:13:19Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2015-08-30T09:46:03Z",
@@ -208,10 +269,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 39 Carystum",
     "references": [
@@ -227,18 +288,21 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0140%3Abook%3D42%3Achapter%3D7%3Asection%3D3",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/l.html#Livy-42.7.3",
+            "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Livy 42.7.3",
-            "otherIdentifier": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "Liv. (Müller: Perseus) 42 7.3",
+            "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "citesAsEvidence"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        8.25,
+        44.75
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
