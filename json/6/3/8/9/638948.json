@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        29.8148058,
-        36.2458892,
+        29.815759,
+        36.246325,
         29.827981,
         36.247475
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/150531239"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -60,7 +62,7 @@
         }
     ],
     "description": "An ancient city of Lycia and the chief settlement in the region between Antiphellos and Myra.",
-    "details": "The Barrington Atlas Directory notes: Yavı",
+    "details": "<p>The Barrington Atlas Directory notes: Yavı</p>",
     "features": [
         {
             "geometry": {
@@ -115,27 +117,24 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    29.8148058,
-                    36.2458892
-                ],
-                "type": "Point"
-            },
-            "id": "osm-location-of-theater",
-            "properties": {
-                "description": "Location based on an OpenStreetMap way.",
-                "link": "https://pleiades.stoa.org/places/638948/osm-location-of-theater",
-                "location_precision": "precise",
-                "snippet": "Theatre, ; 30 BC - AD 300",
-                "title": "OSM location of theater"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Plin. HN",
+            "modified": "2020-03-25T18:51:33Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "nomisma.org: cyane",
+            "modified": "2020-03-25T18:14:41Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2020-03-25T18:05:35Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added references",
             "modified": "2015-03-03T18:50:06Z",
@@ -452,100 +451,6 @@
             "start": -330,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/638948/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Elizabeth Robinson",
-                    "uri": "https://pleiades.stoa.org/author/erobinson",
-                    "username": "erobinson"
-                }
-            ],
-            "created": "2014-06-01T23:03:18Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on an OpenStreetMap way.",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "theatre",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    29.8148058,
-                    36.2458892
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited summary to conform with editorial guidelies; added level of archaeological remains and location type.",
-                    "modified": "2016-08-26T14:26:27Z",
-                    "modifiedBy": "erobinson"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2014-06-01T23:03:49Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-06-01T23:03:21Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "osm-location-of-theater",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Way 182780761, version 2, osm:changeset=22683506, 2014-06-01T23:03:04Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/182780761",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 182780761",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "osm:way=182780761",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location of theater",
-            "uri": "https://pleiades.stoa.org/places/638948/osm-location-of-theater"
         }
     ],
     "names": [
@@ -625,12 +530,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/theatre"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "settlement",
-        "theatre"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 65 C5 Kyaneai",
     "references": [
@@ -661,11 +564,11 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
             "formattedCitation": "TM, GEO ID 16432",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "citesAsRelated"
         },
         {
             "accessURI": "https://en.wikipedia.org/wiki/Cyaneae",
@@ -688,11 +591,33 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://nomisma.org/id/cyane",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "nomisma.org: cyane",
+            "otherIdentifier": "",
+            "shortTitle": "",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://latin.packhum.org/loc/978/1/360/829-833",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "5.101.6",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
-        29.81919295,
-        36.2465703
+        29.820655333333335,
+        36.24679733333334
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
