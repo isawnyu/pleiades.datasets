@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        22.653777,
-        44.589615,
-        22.653777,
-        44.589615
+        22.6683949,
+        44.612494,
+        22.670074,
+        44.6136282
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/207629"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -49,23 +51,60 @@
         {
             "geometry": {
                 "coordinates": [
-                    22.653777,
-                    44.589615
+                    [
+                        [
+                            22.6697575,
+                            44.612494
+                        ],
+                        [
+                            22.6684432,
+                            44.6126659
+                        ],
+                        [
+                            22.6683949,
+                            44.612704
+                        ],
+                        [
+                            22.6686203,
+                            44.6136282
+                        ],
+                        [
+                            22.6700686,
+                            44.6134334
+                        ],
+                        [
+                            22.670074,
+                            44.6133723
+                        ],
+                        [
+                            22.6698487,
+                            44.6125207
+                        ],
+                        [
+                            22.6697575,
+                            44.612494
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-2566",
+            "id": "osm-location-of-kostol-pontes",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/207359/darmc-location-2566",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/207359/osm-location-of-kostol-pontes",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 2566"
+                "snippet": "Fort; 30 BC - AD 300",
+                "title": "OSM location of Kostol Pontes"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
+            "modified": "2020-04-10T15:57:44Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "reference, summary",
             "modified": "2018-05-23T18:29:06Z",
@@ -106,7 +145,7 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -116,85 +155,103 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:50:54Z",
+            "contributors": [],
+            "created": "2020-03-27T20:57:59Z",
             "creators": [
                 {
-                    "name": "J.J. Wilkes",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 2566",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 300,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    22.653777,
-                    44.589615
+                    [
+                        [
+                            22.6697575,
+                            44.612494
+                        ],
+                        [
+                            22.6684432,
+                            44.6126659
+                        ],
+                        [
+                            22.6683949,
+                            44.612704
+                        ],
+                        [
+                            22.6686203,
+                            44.6136282
+                        ],
+                        [
+                            22.6700686,
+                            44.6134334
+                        ],
+                        [
+                            22.670074,
+                            44.6133723
+                        ],
+                        [
+                            22.6698487,
+                            44.6125207
+                        ],
+                        [
+                            22.6697575,
+                            44.612494
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:55:03Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2020-03-27T20:58:24Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:36:34Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:50:55Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-03-27T20:57:59Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-2566",
+            "id": "osm-location-of-kostol-pontes",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 2566",
+            "provenance": "OpenStreetMap (Way 401656769, version 3, osm:changeset=53529282, 2017-11-05T14:09:54Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/401656769",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "2566",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 401656769",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 2566.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=401656769",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 2566",
-            "uri": "https://pleiades.stoa.org/places/207359/darmc-location-2566"
+            "title": "OSM location of Kostol Pontes",
+            "uri": "https://pleiades.stoa.org/places/207359/osm-location-of-kostol-pontes"
         }
     ],
     "names": [
@@ -330,11 +387,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "2566",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        22.653777,
-        44.589615
+        22.66923178017218,
+        44.613059604341835
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

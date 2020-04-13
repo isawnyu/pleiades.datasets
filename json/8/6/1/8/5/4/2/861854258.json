@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        29.04524722,
-        25.54008889,
-        29.04524722,
-        25.54008889
+        29.0446421,
+        25.538948,
+        29.0457686,
+        25.5408164
     ],
     "connections": [
         {
@@ -93,7 +93,77 @@
                 "link": "https://pleiades.stoa.org/places/861854258/position",
                 "location_precision": "precise",
                 "snippet": "Unknown",
-                "title": "Position"
+                "title": "GPS Position"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.045141,
+                            25.538948
+                        ],
+                        [
+                            29.0448567,
+                            25.5390013
+                        ],
+                        [
+                            29.0447118,
+                            25.5391174
+                        ],
+                        [
+                            29.0446421,
+                            25.5396983
+                        ],
+                        [
+                            29.0447226,
+                            25.5404001
+                        ],
+                        [
+                            29.0448513,
+                            25.5406034
+                        ],
+                        [
+                            29.0450069,
+                            25.5408164
+                        ],
+                        [
+                            29.0454897,
+                            25.5407002
+                        ],
+                        [
+                            29.0457203,
+                            25.5405937
+                        ],
+                        [
+                            29.0457686,
+                            25.5402646
+                        ],
+                        [
+                            29.0456882,
+                            25.5400274
+                        ],
+                        [
+                            29.0453341,
+                            25.5390013
+                        ],
+                        [
+                            29.045141,
+                            25.538948
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-ain-el-gedida",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/861854258/osm-location-of-ain-el-gedida",
+                "location_precision": "precise",
+                "snippet": "Settlement; AD 300 - AD 640",
+                "title": "OSM location of 'Ain el-Gedida"
             },
             "type": "Feature"
         }
@@ -279,12 +349,25 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-handheld-gps",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2010-04-20T18:11:55Z",
             "creators": [
                 {
@@ -297,12 +380,8 @@
             "description": "",
             "details": "",
             "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     29.04524722,
@@ -313,6 +392,11 @@
             },
             "history": [
                 {
+                    "comment": "positional accuracy, title",
+                    "modified": "2020-04-10T15:56:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T08:56:51Z",
                     "modifiedBy": "admin"
@@ -322,15 +406,143 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "locationTypeURI": [],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Position",
+            "title": "GPS Position",
             "uri": "https://pleiades.stoa.org/places/861854258/position"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2020-03-27T20:13:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            29.045141,
+                            25.538948
+                        ],
+                        [
+                            29.0448567,
+                            25.5390013
+                        ],
+                        [
+                            29.0447118,
+                            25.5391174
+                        ],
+                        [
+                            29.0446421,
+                            25.5396983
+                        ],
+                        [
+                            29.0447226,
+                            25.5404001
+                        ],
+                        [
+                            29.0448513,
+                            25.5406034
+                        ],
+                        [
+                            29.0450069,
+                            25.5408164
+                        ],
+                        [
+                            29.0454897,
+                            25.5407002
+                        ],
+                        [
+                            29.0457203,
+                            25.5405937
+                        ],
+                        [
+                            29.0457686,
+                            25.5402646
+                        ],
+                        [
+                            29.0456882,
+                            25.5400274
+                        ],
+                        [
+                            29.0453341,
+                            25.5390013
+                        ],
+                        [
+                            29.045141,
+                            25.538948
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-03-27T20:14:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-03-27T20:13:34Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-ain-el-gedida",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Way 785187117, version 1, osm:changeset=82731981, 2020-03-27T20:13:04Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/785187117",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 785187117",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=785187117",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 300,
+            "title": "OSM location of 'Ain el-Gedida",
+            "uri": "https://pleiades.stoa.org/places/861854258/osm-location-of-ain-el-gedida"
         }
     ],
     "names": [
@@ -482,8 +694,8 @@
         }
     ],
     "reprPoint": [
-        29.04524722,
-        25.54008889
+        29.045201858003516,
+        25.539992235222343
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

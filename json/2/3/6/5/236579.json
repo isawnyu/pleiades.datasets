@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -4.74592,
-        42.482256,
         -4.737338,
-        42.482491
+        42.4813395,
+        -4.7359189,
+        42.4823071
     ],
     "connections": [],
     "connectsWith": [],
@@ -55,24 +55,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -4.74592,
-                    42.482491
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-20946",
-            "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/236579/darmc-location-20946",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 20946"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -4.737338,
                     42.482256
                 ],
@@ -87,9 +69,64 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.7366228,
+                            42.4813395
+                        ],
+                        [
+                            -4.7367563,
+                            42.4813774
+                        ],
+                        [
+                            -4.7371677,
+                            42.4816214
+                        ],
+                        [
+                            -4.7373183,
+                            42.4818473
+                        ],
+                        [
+                            -4.7370892,
+                            42.4823071
+                        ],
+                        [
+                            -4.7359189,
+                            42.4820005
+                        ],
+                        [
+                            -4.7362107,
+                            42.4813791
+                        ],
+                        [
+                            -4.7366228,
+                            42.4813395
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-villa-romana-de-la-olmeda",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/236579/osm-location-of-villa-romana-de-la-olmeda",
+                "location_precision": "precise",
+                "snippet": "Villa; 30 BC - AD 640",
+                "title": "OSM location of Villa romana de La Olmeda"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
+            "modified": "2020-04-10T15:42:29Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2020-03-16T15:44:51Z",
@@ -123,93 +160,6 @@
     ],
     "id": "236579",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:22:07Z",
-            "creators": [
-                {
-                    "name": "E.W. Haley",
-                    "username": null
-                }
-            ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 20946",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    -4.74592,
-                    42.482491
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:23:49Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:22:08Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-20946",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 20946",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20946",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20946.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 20946",
-            "uri": "https://pleiades.stoa.org/places/236579/darmc-location-20946"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
@@ -288,6 +238,122 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/236579/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2020-03-16T15:34:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "villa"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -4.7366228,
+                            42.4813395
+                        ],
+                        [
+                            -4.7367563,
+                            42.4813774
+                        ],
+                        [
+                            -4.7371677,
+                            42.4816214
+                        ],
+                        [
+                            -4.7373183,
+                            42.4818473
+                        ],
+                        [
+                            -4.7370892,
+                            42.4823071
+                        ],
+                        [
+                            -4.7359189,
+                            42.4820005
+                        ],
+                        [
+                            -4.7362107,
+                            42.4813791
+                        ],
+                        [
+                            -4.7366228,
+                            42.4813395
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-03-16T15:35:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-03-16T15:34:43Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-villa-romana-de-la-olmeda",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
+            ],
+            "provenance": "OpenStreetMap (Way 58156555, version 8, osm:changeset=68291079, 2019-03-19T11:41:31Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/58156555",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 58156555",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=58156555",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Villa romana de La Olmeda",
+            "uri": "https://pleiades.stoa.org/places/236579/osm-location-of-villa-romana-de-la-olmeda"
         }
     ],
     "names": [],
@@ -331,11 +397,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Spanish)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20946",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -4.741629,
-        42.4823735
+        -4.736989800367011,
+        42.482035168022435
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

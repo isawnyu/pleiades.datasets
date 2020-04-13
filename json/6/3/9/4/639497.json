@@ -1,13 +1,51 @@
 {
     "@type": "Place",
     "bbox": [
-        31.0,
-        36.5,
-        31.5,
-        37.0
+        31.1675958,
+        36.9436105,
+        31.1689136,
+        36.9465683
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/638776",
+            "contributors": [],
+            "created": "2020-04-10T15:03:33Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-04-10T15:03:34Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "aspendos-primoupolis",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Aspendos/Primoupolis",
+            "uri": "https://pleiades.stoa.org/places/639497/aspendos-primoupolis"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/638776"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -32,7 +70,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2011-01-10T23:04:04Z",
+    "created": "2020-03-14T01:38:27Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -43,49 +81,96 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 65 F4 unnamed aqueduct (from NNW Aspendos)",
-    "details": "The Barrington Atlas Directory notes: from NNW Aspendos",
+    "description": "A Roman aqueduct with an inverted siphon. It carried water some 19 mm to Aspendos with sources at the Gökçepinar and the Pinarbas spring.",
+    "details": "<p>The Barrington Atlas Directory notes: from NNW Aspendos</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            31.0,
-                            36.5
+                            31.1688815,
+                            36.9436105
                         ],
                         [
-                            31.0,
-                            37.0
+                            31.1677228,
+                            36.9442321
                         ],
                         [
-                            31.5,
-                            37.0
+                            31.1677002,
+                            36.9446471
                         ],
                         [
-                            31.5,
-                            36.5
+                            31.1677578,
+                            36.9446491
                         ],
                         [
-                            31.0,
-                            36.5
+                            31.1689136,
+                            36.9436487
+                        ],
+                        [
+                            31.1688815,
+                            36.9436105
                         ]
                     ]
                 ],
                 "type": "Polygon"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-aqueduct",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/639497/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/639497/osm-location-of-aqueduct",
+                "location_precision": "precise",
+                "snippet": "Aqueduct; 30 BC - AD 300",
+                "title": "OSM location of Aqueduct"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.1676388,
+                            36.945775
+                        ],
+                        [
+                            31.1675958,
+                            36.9465663
+                        ],
+                        [
+                            31.1676533,
+                            36.9465683
+                        ],
+                        [
+                            31.1676964,
+                            36.945777
+                        ],
+                        [
+                            31.1676388,
+                            36.945775
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-second-aqueduct-segment",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/639497/osm-location-of-second-aqueduct-segment",
+                "location_precision": "precise",
+                "snippet": "Aqueduct; 30 BC - AD 300",
+                "title": "OSM location of second Aqueduct segment"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Initial revision; summary",
+            "modified": "2020-04-10T15:01:19Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2020-03-14T01:38:27Z",
@@ -106,8 +191,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -118,64 +203,51 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2011-01-10T23:04:05Z",
+            "contributors": [],
+            "created": "2020-03-14T01:36:10Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap.",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "aqueduct"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            31.0,
-                            36.5
+                            31.1688815,
+                            36.9436105
                         ],
                         [
-                            31.0,
-                            37.0
+                            31.1677228,
+                            36.9442321
                         ],
                         [
-                            31.5,
-                            37.0
+                            31.1677002,
+                            36.9446471
                         ],
                         [
-                            31.5,
-                            36.5
+                            31.1677578,
+                            36.9446491
                         ],
                         [
-                            31.0,
-                            36.5
+                            31.1689136,
+                            36.9436487
+                        ],
+                        [
+                            31.1688815,
+                            36.9436105
                         ]
                     ]
                 ],
@@ -183,24 +255,139 @@
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:32:22Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2020-03-14T01:36:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-03-14T01:36:11Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-aqueduct",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
             ],
-            "provenance": "Barrington Atlas: BAtlas 65 F4",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 434858086, version 2, osm:changeset=41132768, 2016-07-30T19:30:22Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/434858086",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 434858086",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=434858086",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/639497/batlas-location"
+            "title": "OSM location of Aqueduct",
+            "uri": "https://pleiades.stoa.org/places/639497/osm-location-of-aqueduct"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2020-03-14T01:37:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "aqueduct"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.1676388,
+                            36.945775
+                        ],
+                        [
+                            31.1675958,
+                            36.9465663
+                        ],
+                        [
+                            31.1676533,
+                            36.9465683
+                        ],
+                        [
+                            31.1676964,
+                            36.945777
+                        ],
+                        [
+                            31.1676388,
+                            36.945775
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-03-14T01:37:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-03-14T01:37:20Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-second-aqueduct-segment",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
+            ],
+            "provenance": "OpenStreetMap (Way 434858084, version 2, osm:changeset=41132768, 2016-07-30T19:30:22Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/434858084",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 434858084",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=434858084",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of second Aqueduct segment",
+            "uri": "https://pleiades.stoa.org/places/639497/osm-location-of-second-aqueduct-segment"
         }
     ],
     "names": [],
@@ -236,13 +423,13 @@
         }
     ],
     "reprPoint": [
-        31.25,
-        36.75
+        31.167917080452902,
+        36.945116435547284
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Aspendos aqueduct",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/639497"
 }
