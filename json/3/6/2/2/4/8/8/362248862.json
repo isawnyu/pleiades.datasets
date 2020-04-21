@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         11.6359812,
-        42.4147048,
-        11.6429007,
+        42.4187341,
+        11.6359812,
         42.4187341
     ],
     "connections": [
@@ -11,23 +11,36 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/413393",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:36:19Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2020-04-13T18:41:02Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "413393",
             "provenance": "Pleiades",
             "references": [],
@@ -38,7 +51,10 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/413393"
+        "https://pleiades.stoa.org/places/413393",
+        "https://pleiades.stoa.org/places/704548439",
+        "https://pleiades.stoa.org/places/942179195",
+        "https://pleiades.stoa.org/places/704548440"
     ],
     "contributors": [],
     "created": "2013-07-11T15:16:10Z",
@@ -70,63 +86,14 @@
                 "title": "OSM location of Ponte Rotto necropolis"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    11.6393258,
-                    42.4174591
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-francois-tomb",
-            "properties": {
-                "description": "An important painted Etruscan tomb dating to the final quarter of the fourth century BC. Location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/362248862/location-of-francois-tomb",
-                "location_precision": "precise",
-                "snippet": "Tomb, ; 330 BC - 30 BC",
-                "title": "OSM location of François Tomb"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    11.6429007,
-                    42.4147048
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-tomb-of-cuccumella",
-            "properties": {
-                "description": "An archaic tumulus-type tomb at Vulci. Location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/362248862/location-of-tomb-of-cuccumella",
-                "location_precision": "precise",
-                "snippet": "Tumulus, ; 750 BC - 550 BC",
-                "title": "OSM location of Tomb of Cuccumella"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    11.6390388,
-                    42.4159693
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-tomb-of-the-dolphin",
-            "properties": {
-                "description": "An early Hellenistic painted tomb at Vulci. Location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/362248862/location-of-tomb-of-the-dolphin",
-                "location_precision": "precise",
-                "snippet": "Tomb, ; 330 BC - 30 BC",
-                "title": "OSM location of Tomb of the Dolphin"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2020-04-13T18:40:09Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference",
             "modified": "2013-07-18T00:22:18Z",
@@ -228,351 +195,32 @@
             "start": -550,
             "title": "OSM location of Ponte Rotto necropolis",
             "uri": "https://pleiades.stoa.org/places/362248862/location-of-ponte-rotto-necropolis"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-07-11T15:20:34Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "An important painted Etruscan tomb dating to the final quarter of the fourth century BC. Location based on OpenStreetMap.",
-            "details": "<p>The François Tomb (also known as Tomba François) was discovered in 1857 in the Ponte Rotto necropolis at Vulci by Alessandro François and Adolphe Noël des Vergers. The tomb belonged to the Etruscan Saties family and its patron seems to be Vel Saties, who is depicted in the fresco cycle. The frescoes are important examples of Etruscan art in the Hellenistic period and a key piece of evidence for the study of Italic iconography, particularly with respect to mytho-historical narrative cycles.</p>",
-            "end": -30,
-            "featureType": [
-                "tomb",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    11.6393258,
-                    42.4174591
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-25T20:20:52Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-07-11T15:26:15Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-11T15:20:38Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-francois-tomb",
-            "locationType": [
-                ""
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Way 122413575, version 2, osm:changeset=16914643, 2013-07-11T15:19:12Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/122413575",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 122413575",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "osm:way=122413575",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Tomb",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "François Tomb",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), François Tomb.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://atlantides.org/bibliography/",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-                    "formattedCitation": "Bloom, Marcia G. 1974. The François tomb at Vulci, an etrusco-hellenistic monument. Thesis/dissertation, University of Pennsylvania.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/16897634",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-                    "formattedCitation": "Buranelli, F. 1987. La Tomba François di Vulci : mostra organizzata in occasione del centocinquantesimo anniversario della fondazione del Museo gregoriano etrusco (1837-1987). Rome: Quasar.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "OSM location of François Tomb",
-            "uri": "https://pleiades.stoa.org/places/362248862/location-of-francois-tomb"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-07-11T15:28:15Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "An archaic tumulus-type tomb at Vulci. Location based on OpenStreetMap.",
-            "details": "",
-            "end": -550,
-            "featureType": [
-                "tumulus",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tumulus",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    11.6429007,
-                    42.4147048
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-25T20:21:23Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-07-11T15:36:02Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-11T15:28:17Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-tomb-of-cuccumella",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tumulus",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Way 93119896, version 8, osm:changeset=8780389, 2011-07-20T16:47:57Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/93119896",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 93119896",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "osm:way=93119896",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://books.google.com/books?id=3tcTiTFYHHQC&lpg=PA65&dq=tomb%20of%20Cuccumella&pg=PA66#v=onepage&q=tomb%20of%20Cuccumella&f=false",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-                    "formattedCitation": "De Puma, R. D. 2012. Etruscan Art in the Metropolitan Museum of Art. New York. pp. 65-6.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -750,
-            "title": "OSM location of Tomb of Cuccumella",
-            "uri": "https://pleiades.stoa.org/places/362248862/location-of-tomb-of-cuccumella"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-07-11T15:38:46Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "An early Hellenistic painted tomb at Vulci. Location based on OpenStreetMap.",
-            "details": "",
-            "end": -30,
-            "featureType": [
-                "tomb",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    11.6390388,
-                    42.4159693
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-07-25T20:21:37Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-07-11T15:41:02Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-07-11T15:38:48Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-tomb-of-the-dolphin",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Way 122413580, version 1, osm:changeset=8780330, 2011-07-20T16:38:52Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/122413580",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 122413580",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "osm:way=122413580",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "http://books.google.com/books?id=K25ydBTGhbkC&lpg=PA277&ots=CykKEqykYr&dq=tomb%20of%20the%20dolphin%20vulci&pg=PA277#v=onepage&q=tomb%20of%20the%20dolphin%20vulci&f=false",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-                    "formattedCitation": "Steingräber, S. 2006. Abundance of Life: Etruscan Wall Painting. Los Angeles: Getty Publications. p. 277.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "OSM location of Tomb of the Dolphin",
-            "uri": "https://pleiades.stoa.org/places/362248862/location-of-tomb-of-the-dolphin"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-        "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
-        "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
     ],
     "placeTypes": [
-        "tomb",
-        "cemetery",
-        "tumulus"
+        "cemetery"
     ],
     "provenance": "Pleiades",
     "references": [
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/49031828",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N4CCWEGB",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Sgubini Moretti, A. M. 2001. Veio, Cerveteri, Vulci : città d'Etruria a confronto : Roma, Museo nazionale etrusco di Villa Giulia, Villa Poniatowski, 1 ottobre-30 dicembre 2001. Rome: \"L'Erma\" di Bretschneider.",
+            "formattedCitation": "<div class=\"csl-entry\">Sgubini Moretti, Anna Maria. <i>Veio, cerveteri, vulci: citta d’Etruria a confronto ; Roma, Museo Nazionale Etrusco di Villa Giulia Villa Poniatowski 1o ottobre- 30 dicembre 2001</i>. Roma: L’Erma di Bretschneider, 2001.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Sgubini Moretti 2001",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        11.639311625,
-        42.416716825
+        11.6359812,
+        42.4187341
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
