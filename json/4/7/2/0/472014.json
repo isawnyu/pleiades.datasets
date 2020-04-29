@@ -10,29 +10,49 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
             "connectsTo": "https://pleiades.stoa.org/places/981548",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:57:04Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2020-04-26T19:45:40Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "981548",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Sardinia et Corsica",
             "uri": "https://pleiades.stoa.org/places/472014/981548"
         },
@@ -396,6 +416,11 @@
     "details": "<p>The Barrington Atlas Directory notes: Sardinia</p>",
     "features": [],
     "history": [
+        {
+            "comment": "reference cleanup",
+            "modified": "2020-04-26T17:08:47Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "partial reference cleanup",
             "modified": "2020-02-16T14:27:17Z",
@@ -894,25 +919,25 @@
     "provenance": "Barrington Atlas: BAtlas 48 A2 Sardinia Ins.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "48 A2 Sardinia Ins.",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 48 A2 Sardinia Ins.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Sardinia",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Sardinia",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "RE Sardinia",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
@@ -951,23 +976,23 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=sardinia-geo",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "SARDINIA",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), SARDINIA",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/sardinia-e1101420",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Sardinia",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "New Pauly, Sardinia",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
         },
         {
@@ -975,43 +1000,43 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Tac. Ann. 14.62",
             "otherIdentifier": " ",
             "shortTitle": "",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/W3BW4GR3",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Dyson, Stephen L, and Robert J Rowland. <i>Archaeology and History in Sardinia from the Stone Age to the Middle Ages: Shepherds, Sailors, and Conquerors</i>. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology, 2007.</div>",
+            "otherIdentifier": " ",
+            "shortTitle": "Dyson and Rowland 2007",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/175286417",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JLZHQCLX",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Dyson, S. L. and R. J. Rowland. 2007. Archaeology and history in Sardinia from the Stone Age to the Middle Ages : shepherds, sailors, and conquerors. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology.",
+            "formattedCitation": "<div class=\"csl-entry\">Rowland, Robert J. <i>The Periphery in the Center: Sardinia in the Ancient and Medieval Worlds</i>. Oxford, England: Archeopress : Available from Hadrian Books, 2001.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Rowland 2001",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/49650010",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AEDTBEIE",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Rowland, R. J. 2001. The periphery in the center : Sardinia in the ancient and medieval worlds. Oxford: Archaeopress.",
+            "formattedCitation": "<div class=\"csl-entry\">Rowland, Robert J, Miriam Balmuth, and International Colloquium on Sardinian Archaeology, eds. <i>Studies in Sardinian Archaeology. 2 2</i>. Ann Arbor, Mich.: University of Michigan Press, 1984.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/874003427",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Rowland, R. J. and M. Balmuth. 1984-1986. Studies in Sardinian archaeology. 2. Ann Arbor: University of Michigan Press.",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Studies in Sardinian archaeology. 2 2",
             "type": "seeFurther"
         },
         {
@@ -1028,23 +1053,23 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/29796227",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CGPQGQ8F",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Balmuth, M., R. Tykot, and T. Andrews. 1992. Sardinia in the Mediterranean : a footprint in the sea : studies in Sardinian Archaelogy presented to Miriam S. Balmuth. Sheffield : Sheffield Academic Press.",
+            "formattedCitation": "<div class=\"csl-entry\">Balmuth, Miriam S, Robert H Tykot, and Tamsey K Andrews. <i>Sardinia in the Mediterranean: a footprint in the sea : studies in Sardinian Archaeology presented to Miriam S. Balmuth</i>. Sheffield: Sheffield Academic Press, 1992.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Balmuth 1992",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/74311987",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8L52CT",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Lilliu, G. 2006. Sardegna nuragica. Nuoro: Il maestrale.",
+            "formattedCitation": "<div class=\"csl-entry\">Lilliu, Giovanni. <i>Sardegna nuragica</i>. Nuoro: Il maestrale, 2006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Lilliu 2006",
             "type": "seeFurther"
         },
         {
@@ -1090,11 +1115,22 @@
             "otherIdentifier": "",
             "shortTitle": "Balmuth 1989",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.jstor.org/stable/j.ctt7zvxp2.12",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JA78DMCG",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">DYSON, STEPHEN L. “THE ROMAN FRONTIER IN SARDINIA AND CORSICA.” In <i>The Creation of the Roman Frontier</i>, 237–69. Princeton University Press, 1985. https://doi.org/10.2307/j.ctt7zvxp2.12.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Dyson 1985",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        8.922453024832791,
-        40.038678832306076
+        8.92246020771421,
+        40.03868355156469
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
