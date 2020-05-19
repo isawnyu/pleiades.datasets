@@ -3,27 +3,28 @@
     "bbox": [
         15.155092,
         40.160744,
-        15.158561,
-        40.162639
+        15.155092,
+        40.160744
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/442661",
+        "https://pleiades.stoa.org/places/271500627"
+    ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
         {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -33,13 +34,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-08T11:34:16Z",
@@ -73,27 +76,19 @@
                 "title": "DARMC location 18993"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    15.158561,
-                    40.162639
-                ],
-                "type": "Point"
-            },
-            "id": "porta-rosa",
-            "properties": {
-                "description": "Arched gateway in Lesbian polygonal masonry at Velia",
-                "link": "https://pleiades.stoa.org/places/452488/porta-rosa",
-                "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Porta Rosa"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added TGN reference",
+            "modified": "2020-05-17T18:52:57Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "partial reference cleanup",
+            "modified": "2020-05-17T16:09:52Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-08T11:34:21Z",
@@ -269,101 +264,6 @@
             "start": -750,
             "title": "DARMC location 18993",
             "uri": "https://pleiades.stoa.org/places/452488/darmc-location-18993"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2012-02-16T14:03:50Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Arched gateway in Lesbian polygonal masonry at Velia",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    15.158561,
-                    40.162639
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "updated reference",
-                    "modified": "2012-02-16T14:06:23Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "created location",
-                    "modified": "2012-02-16T14:03:58Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "porta-rosa",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "https://it.wikipedia.org/wiki/Porta_Rosa",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
-                    "citationDetail": "Porta Rosa",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Porta Rosa.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (Italian)",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/252073200",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-                    "formattedCitation": "Becker 2007, 42",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "Porta Rosa",
-            "uri": "https://pleiades.stoa.org/places/452488/porta-rosa"
         }
     ],
     "names": [
@@ -665,47 +565,47 @@
     "provenance": "Barrington Atlas: BAtlas 46 B1 Velia/Elea",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "46 B1 Velia/Elea",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 46 B1 Velia/Elea",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Velia/-Elea-§-Bellias-1",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Velia/ Elea § Bellias 1",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "RE Velia/ Elea § Bellias 1",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/45752111",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8DCWGF6V",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Greco, E. 1977. Paestum and Velia. Naples",
+            "formattedCitation": "<div class=\"csl-entry\">Greco, Emanuele. <i>Paestum and Velia</i>. Napoli: Edizioni Interdipress, 1977.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Greco 1977",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://whc.unesco.org/en/list/842",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "citationDetail": "Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "UNESCO World Heritage List, Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "WHL",
             "type": "seeFurther"
         },
         {
@@ -733,13 +633,13 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Hdt.%201.163&lang=original",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Hdt. 1.163-7",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXF7J4U2",
+            "citationDetail": "1.163-7",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Herodotus. <i>Herodotus</i>. Edited by A. D Godley. 4 vols. Loeb Classical Library. London; New York: W. Heinemann; G.P. Putnam’s Sons, 1921. http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Hdt. (Godley: Perseus)",
+            "type": "citesAsEvidence"
         },
         {
             "accessURI": "http://latin.packhum.org/loc/474/26/0#12",
@@ -766,23 +666,23 @@
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/0#241",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "3.71.6",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
-            "formattedCitation": "Plin. HN (Mayhoff: PHI) 3.71.6",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "citesAsEvidence"
         },
         {
             "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/velia-e1229300",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Velia [2]",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "New Pauly, Velia [2]",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
         },
         {
@@ -797,14 +697,14 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.jstor.org/stable/1354020",
+            "accessURI": "https://www.jstor.org/stable/1354020",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XLP3A2Y7",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Greco, G. and Maria José Strazzulla. 1994. \"Le terrecotte architettoniche di Elea-Velia dall'età arcaica all'età ellenistica.\" Hesperia Supplements 27:283-304.",
+            "formattedCitation": "<div class=\"csl-entry\">Greco, Giovanna, and Maria José Strazzulla. “Le Terrecotte Architettoniche Di Elea-Velia Dall’età Arcaica All’età Ellenistica.” <i>Hesperia Supplements</i> 27 (1994): 283–430. https://doi.org/10.2307/1354020.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Greco and Strazzulla 1994",
             "type": "seeFurther"
         },
         {
@@ -821,12 +721,12 @@
         {
             "accessURI": "http://www.geonames.org/3164641/velia.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "3164641: Velia",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "GeoNames 3164641",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "GeoNames",
             "type": "citesAsRelated"
         },
         {
@@ -839,11 +739,33 @@
             "otherIdentifier": "http://atlantides.org/bibliography/",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q272968",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q272968: Velia",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://vocab.getty.edu/page/tgn/7008314",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "citationDetail": "7008314",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TGN",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        15.156826500000001,
-        40.1616915
+        15.155092,
+        40.160744
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
