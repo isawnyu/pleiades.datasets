@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2020/05/10 06:47:47.889282 GMT-4
+# Date: 2020/05/17 06:47:47.697426 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 635
+# Triple count: 665
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -421,6 +421,20 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "oasis"@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/palace> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/palace>,
+        <http://vocab.getty.edu/aat/300005734>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "palace"@en;
+    skos:scopeNote "A palace as defined by the Getty Art and Architecture Thesaurus: Official residences, frequently large and impressively appointed, of sovereigns or other high dignitaries"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/palace-complex> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/palace-complex>,
+        <http://vocab.getty.edu/aat/300417317>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "palace complex"@en;
+    skos:scopeNote "A palace complex as defined by the Getty Art and Architecture Thesaurus: Complexes of built works surrounding the palace or palaces of a ruler"@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/palaistra> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/palaistra>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
@@ -581,6 +595,27 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "shrine"@en;
     skos:scopeNote "A shrine as defined by the Getty Art and Architecture Thesaurus term 300007558: \"Structures or large furnishings in which devotion is paid to a statue, picture, saint, deity or other holy objects.\" Semantic view: http://vocab.getty.edu/aat/300007558."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/space-exterior-covered> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/space-exterior-covered>,
+        <http://vocab.getty.edu/aat/300075459>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "space (exterior covered)"@en;
+    skos:scopeNote "An exterior, covered space as defined by the Getty Art and Architecture Thesaurus: Building spaces that are covered, and located on the exterior of the buildings"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/space-interior> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/space-interior>,
+        <http://vocab.getty.edu/aat/300078790>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "space (interior)"@en;
+    skos:scopeNote "An interior space as defined by the Getty Art and Architecture Thesaurus: Spaces located in the interior of structures"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/space-uncovered> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/space-uncovered>,
+        <http://vocab.getty.edu/aat/300075460>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "space (uncovered)"@en;
+    skos:scopeNote "An uncovered space as defined by the Getty Art and Architecture Thesaurus: Spaces attached to buildings that are uncovered."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/spring> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/spring>,
