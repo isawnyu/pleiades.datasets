@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         12.575936,
-        41.84405,
-        12.575936,
+        41.8440045,
+        12.5774331,
         41.84405
     ],
     "connections": [
@@ -35,10 +35,65 @@
             "start": null,
             "title": "Via Latina",
             "uri": "https://pleiades.stoa.org/places/423069/93042695"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/423025",
+            "contributors": [],
+            "created": "2020-05-24T23:50:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-05-24T23:50:55Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "roma",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q4012682",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q4012682",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Roma",
+            "uri": "https://pleiades.stoa.org/places/423069/roma"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/93042695"
+        "https://pleiades.stoa.org/places/93042695",
+        "https://pleiades.stoa.org/places/423025"
     ],
     "contributors": [
         {
@@ -99,9 +154,32 @@
                 "title": "DARMC location 21095"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.5774331,
+                    41.8440045
+                ],
+                "type": "Point"
+            },
+            "id": "location-of-roman-villa",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/423069/location-of-roman-villa",
+                "location_precision": "precise",
+                "snippet": "Villa, ; 30 BC - AD 640",
+                "title": "OSM location of Villa dei Sette Bassi"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2020-05-24T23:56:03Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "references",
             "modified": "2018-03-20T17:59:48Z",
@@ -256,9 +334,169 @@
             "start": -330,
             "title": "DARMC location 21095",
             "uri": "https://pleiades.stoa.org/places/423069/darmc-location-21095"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2014-02-14T19:01:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "villa",
+                ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "geometry": {
+                "coordinates": [
+                    12.5774331,
+                    41.8440045
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2015-09-28T16:35:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-02-14T19:02:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-02-14T19:01:54Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "location-of-roman-villa",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "provenance": "OpenStreetMap (Way 91462409, version 4, osm:changeset=20564495, 2014-02-14T19:01:33Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/91462409",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 91462409",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=91462409",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://it.wikipedia.org/wiki/Villa_dei_Sette_Bassi",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Villa dei Sette Bassi",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Villa dei Sette Bassi.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Villa dei Sette Bassi",
+            "uri": "https://pleiades.stoa.org/places/423069/location-of-roman-villa"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Villa dei Sette Bassi",
+            "contributors": [],
+            "created": "2015-09-28T16:23:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2020-05-24T23:39:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added name",
+                    "modified": "2015-09-28T16:23:58Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "name.2015-09-28.3565004624",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://it.wikipedia.org/wiki/Villa_dei_Sette_Bassi",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Villa dei Sette Bassi",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Villa dei Sette Bassi.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Villa dei Sette Bassi",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/423069/name.2015-09-28.3565004624"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/villa"
     ],
@@ -376,11 +614,44 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TNDHWZWT",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Seiler, Ina, and Ulrich Weferling. “Rom, Ialien: Die Villa von Sette Bassi. Die Arbeiten der Jahre 2017 und 2018.” In <i>e-Forschungsberichte des DAI, Fasc.2 (2018)</i>, Fasc.2, 86–92. Berlin, 2018.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Seiler 2018",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HHDP58GT",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lupu, N. <i>La villa di Sette Bassi sulla Via Latina</i>. Roma: Libreria di Scienze e Lettere, 1937.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Lupu 1937a",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MFYT9JVE",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Colini, A. M. “La villa di Sette Bassi.” In <i>Capitolium, 33.1958</i>, 14–17, Abb, 1958.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Colini 1958",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        12.575936,
-        41.84405
+        12.57668455,
+        41.844027249999996
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
