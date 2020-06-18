@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.449838,
-        41.250938,
-        13.449838,
-        41.250938
+        13.4480113,
+        41.2498562,
+        13.4505632,
+        41.2530442
     ],
     "connections": [],
     "connectsWith": [
@@ -51,23 +51,76 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.449838,
-                    41.250938
+                    [
+                        [
+                            13.4500669,
+                            41.2498562
+                        ],
+                        [
+                            13.449363,
+                            41.2502053
+                        ],
+                        [
+                            13.4483713,
+                            41.2511446
+                        ],
+                        [
+                            13.4480113,
+                            41.2522151
+                        ],
+                        [
+                            13.4481068,
+                            41.2523644
+                        ],
+                        [
+                            13.4485904,
+                            41.2528541
+                        ],
+                        [
+                            13.4487063,
+                            41.2529335
+                        ],
+                        [
+                            13.4489427,
+                            41.2530442
+                        ],
+                        [
+                            13.4503568,
+                            41.2518997
+                        ],
+                        [
+                            13.4505632,
+                            41.2516387
+                        ],
+                        [
+                            13.4505266,
+                            41.2514666
+                        ],
+                        [
+                            13.4500669,
+                            41.2498562
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-7991",
+            "id": "osm-location-of-villa-di-tiberio",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/433204/darmc-location-7991",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/433204/osm-location-of-villa-di-tiberio",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 7991"
+                "snippet": "Villa; 30 BC - AD 300",
+                "title": "OSM location of Villa di Tiberio"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
+            "modified": "2020-06-05T11:25:39Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2020-05-27T15:05:51Z",
@@ -118,8 +171,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -130,67 +183,117 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:08:16Z",
+            "contributors": [],
+            "created": "2020-05-27T15:11:25Z",
             "creators": [
                 {
-                    "name": "N. Purcell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 7991",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    13.449838,
-                    41.250938
+                    [
+                        [
+                            13.4500669,
+                            41.2498562
+                        ],
+                        [
+                            13.449363,
+                            41.2502053
+                        ],
+                        [
+                            13.4483713,
+                            41.2511446
+                        ],
+                        [
+                            13.4480113,
+                            41.2522151
+                        ],
+                        [
+                            13.4481068,
+                            41.2523644
+                        ],
+                        [
+                            13.4485904,
+                            41.2528541
+                        ],
+                        [
+                            13.4487063,
+                            41.2529335
+                        ],
+                        [
+                            13.4489427,
+                            41.2530442
+                        ],
+                        [
+                            13.4503568,
+                            41.2518997
+                        ],
+                        [
+                            13.4505632,
+                            41.2516387
+                        ],
+                        [
+                            13.4505266,
+                            41.2514666
+                        ],
+                        [
+                            13.4500669,
+                            41.2498562
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:04:50Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2020-05-27T15:11:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-05-27T15:11:25Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-7991",
+            "id": "osm-location-of-villa-di-tiberio",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "DARMC OBJECTID: 7991",
+            "provenance": "OpenStreetMap (Way 59296209, version 6, osm:changeset=40883697, 2016-07-19T22:29:33Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/59296209",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7991",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 59296209",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7991.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=59296209",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 7991",
-            "uri": "https://pleiades.stoa.org/places/433204/darmc-location-7991"
+            "title": "OSM location of Villa di Tiberio",
+            "uri": "https://pleiades.stoa.org/places/433204/osm-location-of-villa-di-tiberio"
         }
     ],
     "names": [
@@ -359,11 +462,22 @@
             "otherIdentifier": "",
             "shortTitle": "Arachne",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7991",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.449838,
-        41.250938
+        13.449332322577138,
+        41.25148093981764
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

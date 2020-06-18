@@ -1,45 +1,13 @@
 {
     "@type": "Place",
     "bbox": [
-        12.6964546,
-        41.7151885,
+        12.6760715,
+        41.7118127,
         12.6964546,
         41.7151885
     ],
-    "connections": [
-        {
-            "@type": "Connection",
-            "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
-            "connectsTo": "https://pleiades.stoa.org/places/422984",
-            "contributors": [],
-            "created": "2016-07-13T13:41:46Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": null,
-            "history": [],
-            "id": "422984",
-            "provenance": "Pleiades",
-            "references": [],
-            "review_state": "published",
-            "start": null,
-            "title": "Nemorensis L.",
-            "uri": "https://pleiades.stoa.org/places/425825/422984"
-        }
-    ],
-    "connectsWith": [
-        "https://pleiades.stoa.org/places/422984"
-    ],
+    "connections": [],
+    "connectsWith": [],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -64,7 +32,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-10T22:28:44Z",
+    "created": "2020-06-06T20:09:46Z",
     "creators": [
         {
             "name": "L. Quilici",
@@ -76,43 +44,59 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 43 C3 unnamed canal (from Nemorensis L.)",
-    "details": "The Barrington Atlas Directory notes: from Nemorensis L.",
+    "details": "<p>The Barrington Atlas Directory notes: from Nemorensis L.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            12.5,
-                            41.5
-                        ],
-                        [
-                            12.5,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            41.5
-                        ],
-                        [
-                            12.5,
-                            41.5
-                        ]
-                    ]
+                    12.6760715,
+                    41.7124129
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-emissario-del-lago-di-nemi-uscita",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/425825/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/425825/osm-location-of-emissario-del-lago-di-nemi-uscita",
+                "location_precision": "precise",
+                "snippet": "Canal; 30 BC - AD 300",
+                "title": "OSM location of Emissario del lago di Nemi (uscita)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.6941828,
+                    41.7118127
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-discenderia-emissario-del-lago-di",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/425825/osm-location-of-discenderia-emissario-del-lago-di",
+                "location_precision": "precise",
+                "snippet": "Canal; 30 BC - AD 300",
+                "title": "OSM location of Discenderia emissario del Lago di Nemi"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.6946918,
+                    41.7122917
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-emissario-del-lago-di-nemi",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/425825/osm-location-of-emissario-del-lago-di-nemi",
+                "location_precision": "precise",
+                "snippet": "Canal; 30 BC - AD 300",
+                "title": "OSM location of Emissario del Lago di Nemi (ingresso)"
             },
             "type": "Feature"
         },
@@ -124,18 +108,28 @@
                 ],
                 "type": "Point"
             },
-            "id": "location-of-emissarium",
+            "id": "osm-location-of-emissarium",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/425825/location-of-emissarium",
+                "link": "https://pleiades.stoa.org/places/425825/osm-location-of-emissarium",
                 "location_precision": "precise",
                 "snippet": "Canal, ; 30 BC - AD 300",
-                "title": "location of Emissarium"
+                "title": "OSM location of Emissarium"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title, reference",
+            "modified": "2020-06-07T08:17:01Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2020-06-06T20:09:45Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added connection",
             "modified": "2013-09-01T22:56:48Z",
@@ -156,113 +150,237 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2020-06-06T20:07:16Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "canal"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/canal"
+            ],
+            "geometry": {
+                "coordinates": [
+                    12.6760715,
+                    41.7124129
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-06-06T20:07:44Z",
+                    "modifiedBy": "jbecker"
                 },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-06-06T20:07:16Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-emissario-del-lago-di-nemi-uscita",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/canal"
+            ],
+            "provenance": "OpenStreetMap (Node 5555245049, version 3, osm:changeset=58580455, 2018-05-01T10:29:12Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/5555245049",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 5555245049",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=5555245049",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Emissario del lago di Nemi (uscita)",
+            "uri": "https://pleiades.stoa.org/places/425825/osm-location-of-emissario-del-lago-di-nemi-uscita"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-10T22:28:45Z",
+            "contributors": [],
+            "created": "2020-06-06T20:08:15Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "canal"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/canal"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            12.5,
-                            41.5
-                        ],
-                        [
-                            12.5,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            41.5
-                        ],
-                        [
-                            12.5,
-                            41.5
-                        ]
-                    ]
+                    12.6941828,
+                    41.7118127
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:58:12Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2020-06-06T20:08:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-06-06T20:08:15Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-discenderia-emissario-del-lago-di",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/canal"
             ],
-            "provenance": "Barrington Atlas: BAtlas 43 C3",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 5555255201, version 3, osm:changeset=58132282, 2018-04-16T09:49:09Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/5555255201",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 5555255201",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=5555255201",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/425825/batlas-location"
+            "start": -30,
+            "title": "OSM location of Discenderia emissario del Lago di Nemi",
+            "uri": "https://pleiades.stoa.org/places/425825/osm-location-of-discenderia-emissario-del-lago-di"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2020-06-06T20:09:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "canal"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/canal"
+            ],
+            "geometry": {
+                "coordinates": [
+                    12.6946918,
+                    41.7122917
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-06-06T20:09:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-06-06T20:09:01Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-emissario-del-lago-di-nemi",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/canal"
+            ],
+            "provenance": "OpenStreetMap (Node 2496143599, version 4, osm:changeset=58580455, 2018-05-01T10:29:12Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2496143599",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2496143599",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=2496143599",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Emissario del Lago di Nemi (ingresso)",
+            "uri": "https://pleiades.stoa.org/places/425825/osm-location-of-emissario-del-lago-di-nemi"
         },
         {
             "@type": "Location",
@@ -318,7 +436,7 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-emissarium",
+            "id": "osm-location-of-emissarium",
             "locationType": [
                 "representative"
             ],
@@ -342,8 +460,8 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "location of Emissarium",
-            "uri": "https://pleiades.stoa.org/places/425825/location-of-emissarium"
+            "title": "OSM location of Emissarium",
+            "uri": "https://pleiades.stoa.org/places/425825/osm-location-of-emissarium"
         }
     ],
     "names": [],
@@ -369,23 +487,23 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/c.html#Castellani-1991",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S99P28IK",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Castellani 1991",
+            "formattedCitation": "<div class=\"csl-entry\">Castellani, V., and W. Dragoni. “Opere arcaiche per il controllo del territorio. Gli emissari sotterranei artificiali dei laghi albani.” In <i>Gli Etruschi maestri di idraulica. [Convegno Perugia 23-24 febbraio 1991.]</i>, 43–60, Abb. Perugia: Electa, 1991.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Castellani 1991",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        12.6964546,
-        41.7151885
+        12.690350174999999,
+        41.71292645
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Emissarium of Lake Nemi",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/425825"
 }

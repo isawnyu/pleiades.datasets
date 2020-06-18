@@ -1,38 +1,58 @@
 {
     "@type": "Place",
     "bbox": [
-        14.4562456,
-        40.7561715,
-        14.4562456,
-        40.7561715
+        14.4562144,
+        40.755964,
+        14.456872,
+        40.756496
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/432992",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:33:03Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2020-06-05T01:35:11Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "432992",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Oplontis",
             "uri": "https://pleiades.stoa.org/places/612970100/432992"
         }
@@ -63,18 +83,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.4562456,
-                    40.7561715
+                    [
+                        [
+                            14.4565813,
+                            40.755964
+                        ],
+                        [
+                            14.4562888,
+                            40.7560124
+                        ],
+                        [
+                            14.4562144,
+                            40.7561259
+                        ],
+                        [
+                            14.4562272,
+                            40.7561701
+                        ],
+                        [
+                            14.4563076,
+                            40.7563616
+                        ],
+                        [
+                            14.4565388,
+                            40.756496
+                        ],
+                        [
+                            14.4567786,
+                            40.7564564
+                        ],
+                        [
+                            14.456872,
+                            40.7563441
+                        ],
+                        [
+                            14.4567967,
+                            40.7560829
+                        ],
+                        [
+                            14.4565813,
+                            40.755964
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "osm-location",
+            "id": "osm-location-of-villa-lucius-crassius-tertius",
             "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/612970100/osm-location",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/612970100/osm-location-of-villa-lucius-crassius-tertius",
                 "location_precision": "precise",
-                "snippet": "Villa, ; 330 BC - AD 300",
-                "title": "OSM location"
+                "snippet": "Villa; 30 BC - AD 300",
+                "title": "OSM location of Villa Lucius Crassius Tertius"
             },
             "type": "Feature"
         }
@@ -101,19 +161,19 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-roman-early-empire",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-roman-early-empire"
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
-            "created": "2015-06-24T23:58:37Z",
+            "created": "2020-06-05T01:29:30Z",
             "creators": [
                 {
                     "homepage": null,
@@ -122,62 +182,99 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "villa",
-                ""
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/villa",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    14.4562456,
-                    40.7561715
+                    [
+                        [
+                            14.4565813,
+                            40.755964
+                        ],
+                        [
+                            14.4562888,
+                            40.7560124
+                        ],
+                        [
+                            14.4562144,
+                            40.7561259
+                        ],
+                        [
+                            14.4562272,
+                            40.7561701
+                        ],
+                        [
+                            14.4563076,
+                            40.7563616
+                        ],
+                        [
+                            14.4565388,
+                            40.756496
+                        ],
+                        [
+                            14.4567786,
+                            40.7564564
+                        ],
+                        [
+                            14.456872,
+                            40.7563441
+                        ],
+                        [
+                            14.4567967,
+                            40.7560829
+                        ],
+                        [
+                            14.4565813,
+                            40.755964
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "added location",
-                    "modified": "2015-06-24T23:59:04Z",
+                    "comment": "added OSM location",
+                    "modified": "2020-06-05T01:29:51Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2015-06-24T23:58:39Z",
+                    "modified": "2020-06-05T01:29:31Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "osm-location",
+            "id": "osm-location-of-villa-lucius-crassius-tertius",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/villa",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "OpenStreetMap (Way 316096683, version 1, osm:changeset=27295919, 2014-12-06T18:16:36Z)",
+            "provenance": "OpenStreetMap (Relation 5959144, version 5, osm:changeset=85206120, 2020-05-14T14:03:28Z)",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/316096683",
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/5959144",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Way 316096683",
+                    "citationDetail": "Relation 5959144",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "osm:way=316096683",
-                    "otherIdentifier": " ",
+                    "formattedCitation": "osm:relation=5959144",
+                    "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "OSM location",
-            "uri": "https://pleiades.stoa.org/places/612970100/osm-location"
+            "start": -30,
+            "title": "OSM location of Villa Lucius Crassius Tertius",
+            "uri": "https://pleiades.stoa.org/places/612970100/osm-location-of-villa-lucius-crassius-tertius"
         }
     ],
     "names": [],
@@ -213,8 +310,8 @@
         }
     ],
     "reprPoint": [
-        14.4562456,
-        40.7561715
+        14.45651981947103,
+        40.75622781089893
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
