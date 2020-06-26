@@ -10,30 +10,50 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
             "connectsTo": "https://pleiades.stoa.org/places/275673",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:31:37Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2020-06-19T17:08:38Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "275673",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
-            "title": "Mauretania Tingitana",
+            "start": -30,
+            "title": "Mauretania Tingitana (region)",
             "uri": "https://pleiades.stoa.org/places/275740/275673"
         }
     ],
@@ -41,14 +61,6 @@
         "https://pleiades.stoa.org/places/275673"
     ],
     "contributors": [
-        {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
-        },
         {
             "homepage": null,
             "name": "Sean Gillies",
@@ -62,10 +74,6 @@
             "username": "jlpiroux"
         },
         {
-            "name": "R. Warner",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
@@ -76,9 +84,27 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Warner",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Jonathan Fu",
+            "uri": "https://pleiades.stoa.org/author/jfu",
+            "username": "jfu"
         }
     ],
-    "created": "2010-09-24T20:04:40Z",
+    "created": "2020-06-19T15:27:44Z",
     "creators": [
         {
             "name": "M. Euzennat",
@@ -108,6 +134,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited; references",
+            "modified": "2020-06-19T17:08:18Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "reference cleanup",
+            "modified": "2020-06-18T19:09:40Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "references",
             "modified": "2019-05-31T11:44:42Z",
@@ -577,14 +613,14 @@
     "provenance": "Barrington Atlas: BAtlas 28 C5 Volubilis",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "28 C5 Volubilis",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 28 C5 Volubilis",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -601,12 +637,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/e.html#Euzennat-1989",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SSPM4WHB",
+            "citationDetail": "201-39",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Euzennat 1989, 201-39",
+            "formattedCitation": "<div class=\"csl-entry\">Euzennat, Maurice. “Remarques Sur La Description de La Mauretanie Tingitane Dans Pline, H.N., V, 2-18.” <i>Antiquités Africaines</i> 25 (1989): 95–109.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Euzennat 1989",
             "type": "seeFurther"
         },
         {
@@ -614,11 +650,11 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-4.1.5",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Ptol. 4.1.5",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "citesAsEvidence"
         },
         {
             "accessURI": "https://en.wikipedia.org/wiki/Volubilis",
@@ -645,12 +681,12 @@
         {
             "accessURI": "http://whc.unesco.org/en/list/836",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "citationDetail": "836: Archaeological Site of Volubilis",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "UNESCO World Heritage List, Archaeological Site of Volubilis",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "WHL",
             "type": "seeFurther"
         },
         {
@@ -678,12 +714,12 @@
         {
             "accessURI": "http://www.geonames.org/2526544/oualili.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "2526544: Oualili",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "GeoNames 2526544",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "GeoNames",
             "type": "citesAsRelated"
         },
         {
@@ -718,6 +754,28 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BYJLE5QE",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Akerraz, Aomar. “Note sur l’enceinte tardive de Volubilis.” In <i>Bulletin archéologique du Comité des travaux historiques et scientifiques. Antiquités nationales [A]. Afrique du Nord [B], 19b.1983</i>, 429–36, Abb, 1983.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Akerraz 1983",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.mdpi.com/2076-0752/8/4/127",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/F9ASWZWD",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Andreeva, Sofia, Artem Fedorchuk, and Michael Nosonovsky. “Revisiting Epigraphic Evidence of the Oldest Synagogue in Morocco in Volubilis.” <i>Arts</i> 8, no. 4 (December 2019): 127. https://doi.org/10.3390/arts8040127.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Andreeva 2019",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [

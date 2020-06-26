@@ -1,20 +1,66 @@
 {
     "@type": "Place",
     "bbox": [
-        75.0,
-        5.0,
-        85.0,
-        15.0
+        79.833333,
+        9.05,
+        79.833333,
+        9.05
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/50298",
+            "contributors": [],
+            "created": "2020-06-20T00:03:58Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-06-20T00:04:00Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "taprobane-palaisimoundou-salike-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UM33XPEX",
+                    "citationDetail": "365 (map 13)",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Berthelot, André. <i>L’Asie Ancienne Centrale et Sud-Orientale d’après Ptolémée</i>. Paris: Payot, 1930.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Berthelot 1930",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Taprobane/Palaisimoundou/Salike (island)",
+            "uri": "https://pleiades.stoa.org/places/49860/taprobane-palaisimoundou-salike-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/50298"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -22,6 +68,18 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-09-23T00:54:10Z",
@@ -32,48 +90,38 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 5 inset Andrisimoundou (Akron)",
-    "details": "The Barrington Atlas Directory notes: Mannar Is./promontory SRI",
+    "details": "<p>The Barrington Atlas Directory notes: Mannar Is./promontory SRI</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            75.0,
-                            5.0
-                        ],
-                        [
-                            75.0,
-                            15.0
-                        ],
-                        [
-                            85.0,
-                            15.0
-                        ],
-                        [
-                            85.0,
-                            5.0
-                        ],
-                        [
-                            75.0,
-                            5.0
-                        ]
-                    ]
+                    79.833333,
+                    9.05
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "imagery-location-of-mannar-island",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/49860/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Coordinates following GeoHack.",
+                "link": "https://pleiades.stoa.org/places/49860/imagery-location-of-mannar-island",
+                "location_precision": "precise",
+                "snippet": "Island; AD 2000 - AD 2099",
+                "title": "Imagery location of Mannar Island"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2020-06-20T00:06:31Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "references",
+            "modified": "2020-06-20T00:03:31Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T05:38:02Z",
@@ -89,97 +137,76 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-23T00:54:11Z",
+            "contributors": [],
+            "created": "2020-06-20T00:08:00Z",
             "creators": [
                 {
-                    "name": "M.U. Erdosy",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Coordinates following GeoHack.",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "island"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            75.0,
-                            5.0
-                        ],
-                        [
-                            75.0,
-                            15.0
-                        ],
-                        [
-                            85.0,
-                            15.0
-                        ],
-                        [
-                            85.0,
-                            5.0
-                        ],
-                        [
-                            75.0,
-                            5.0
-                        ]
-                    ]
+                    79.833333,
+                    9.05
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:38:02Z",
-                    "modifiedBy": "admin"
+                    "comment": "added imagery location",
+                    "modified": "2020-06-20T00:08:01Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "imagery-location-of-mannar-island",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
-            "provenance": "Barrington Atlas: BAtlas 5 inset Andrisimoundou (Akron)",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://tools.wmflabs.org/geohack/geohack.php?pagename=Mannar_Island&params=9_03_N_79_50_E_region:LK_type:isle_source:GNS-enwiki",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "GeoHack - Mannar Island",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/49860/batlas-location"
+            "start": 2000,
+            "title": "Imagery location of Mannar Island",
+            "uri": "https://pleiades.stoa.org/places/49860/imagery-location-of-mannar-island"
         }
     ],
     "names": [
@@ -301,10 +328,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/cape",
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
     ],
     "placeTypes": [
-        "unknown"
+        "cape",
+        "island"
     ],
     "provenance": "Barrington Atlas: BAtlas 5 inset Andrisimoundou (Akron)",
     "references": [
@@ -324,27 +353,27 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-7.4.3",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
             "formattedCitation": "Ptol. 7.4.3",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "citesAsEvidence"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Berthelot-1930",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UM33XPEX",
+            "citationDetail": "365 (map 13)",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Berthelot 1930, 365 (map 13)",
+            "formattedCitation": "<div class=\"csl-entry\">Berthelot, André. <i>L’Asie Ancienne Centrale et Sud-Orientale d’après Ptolémée</i>. Paris: Payot, 1930.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Berthelot 1930",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        80.0,
-        10.0
+        79.833333,
+        9.05
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

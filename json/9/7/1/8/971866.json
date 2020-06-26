@@ -1,20 +1,20 @@
 {
     "@type": "Place",
     "bbox": [
-        67.843041,
-        38.553099,
-        68.312682,
-        39.089632
+        68.3361142,
+        38.5726257,
+        68.3361142,
+        38.5726257
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,6 +22,18 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-10-06T16:58:14Z",
@@ -41,36 +53,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    68.312682,
-                    38.553099
+                    68.3361142,
+                    38.5726257
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21673",
+            "id": "osm-location-of-modern-shahrinav",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/971866/darmc-location-21673",
+                "description": "Location of the modern associated settlement based on a node derived from OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/971866/osm-location-of-modern-shahrinav",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "DARMC location 21673"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    67.843041,
-                    39.089632
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-24705",
-            "properties": {
-                "description": "5M scale point location",
-                "link": "https://pleiades.stoa.org/places/971866/darmc-location-24705",
-                "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "DARMC location 24705"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of modern Shahrinav"
             },
             "type": "Feature"
         }
@@ -106,167 +100,91 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2011-03-10T00:45:02Z",
+            "contributors": [],
+            "created": "2019-05-14T13:11:45Z",
             "creators": [
                 {
-                    "name": "F.T. Hiebert",
-                    "username": null
-                },
-                {
-                    "name": "P.L. Kohl",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21673",
-            "end": null,
+            "description": "Location of the modern associated settlement based on a node derived from OpenStreetMap.",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    68.312682,
-                    38.553099
+                    68.3361142,
+                    38.5726257
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T23:43:18Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2019-05-14T13:12:28Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:45:03Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-05-14T13:11:45Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21673",
+            "id": "osm-location-of-modern-shahrinav",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 21673",
+            "provenance": "OpenStreetMap (Node 2503858410, version 3, osm:changeset=51957186, 2017-09-11T23:16:49Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2503858410",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21673",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2503858410",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21673.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=2503858410",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "DARMC location 21673",
-            "uri": "https://pleiades.stoa.org/places/971866/darmc-location-21673"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T21:14:18Z",
-            "creators": [
-                {
-                    "name": "F.T. Hiebert",
-                    "username": null
-                },
-                {
-                    "name": "P.L. Kohl",
-                    "username": null
-                }
-            ],
-            "description": "5M scale point location",
-            "details": "DARMC OBJECTID: 24705",
-            "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    67.843041,
-                    39.089632
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T23:43:18Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T21:14:19Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-24705",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 24705",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "24705",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24705.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": null,
-            "title": "DARMC location 24705",
-            "uri": "https://pleiades.stoa.org/places/971866/darmc-location-24705"
+            "start": 1700,
+            "title": "OSM location of modern Shahrinav",
+            "uri": "https://pleiades.stoa.org/places/971866/osm-location-of-modern-shahrinav"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 99 C1 Shakhrinau",
     "references": [
@@ -294,8 +212,8 @@
         }
     ],
     "reprPoint": [
-        68.0778615,
-        38.8213655
+        68.3361142,
+        38.5726257
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
