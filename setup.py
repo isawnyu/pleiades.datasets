@@ -12,12 +12,12 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://pleiades.stoa.org",
-    packages=setuptools.find_packages(),
+    packages=setuptools.find_namespace_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=['airtight'],
+    install_requires=['airtight', 'python-dateutil', 'requests'],
     python_requires='>=3.8.3'
 )
