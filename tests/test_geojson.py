@@ -8,6 +8,7 @@ from pathlib import Path
 from pleiades.datasets.geojson import Maker
 from unittest import TestCase
 
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 test_data_path = Path('tests/data')
 
@@ -32,6 +33,6 @@ class Test_GeoJSON(TestCase):
         """Change me"""
         pass
 
-    def test_a(self):
-        """Change me"""
-        pass
+    def test_maker_default_context(self):
+        m = Maker()
+
