@@ -2,10 +2,12 @@
 # -*- coding: utf-8 -*-
 """Test the pleiades.datasets geojson module"""
 
+import functools
 import logging
 from nose.tools import assert_equal, assert_false, assert_true, raises
 from pathlib import Path
 from pleiades.datasets.geojson import Maker
+import sys
 from unittest import TestCase
 
 logging.basicConfig(level=logging.DEBUG)
@@ -23,6 +25,15 @@ def teardown_module():
     pass
 
 
+def logme(f):
+    logger = logging.getLogger(sys._getframe().f_back.f_code.co_name)
+    @functools.wraps(f)
+    def wrapped(*args, **kwargs):
+        logger.debug(f.__name__)
+        return f(*args, **kwargs)
+    return wrapped
+
+
 class Test_GeoJSON(TestCase):
 
     def setUp(self):
@@ -36,16 +47,19 @@ class Test_GeoJSON(TestCase):
     def test_maker_default_context(self):
         Maker()
 
+    @logme
     @raises(NotImplementedError)
     def test_make_feature(self):
         m = Maker()
         m.make_feature()
 
+    @logme
     @raises(NotImplementedError)
     def test_make_feature_collection(self):
         m = Maker()
         m.make_feature_collection()
 
+    @logme
     @raises(NotImplementedError)
     def test_walk_feature_collection(self):
         m = Maker()
