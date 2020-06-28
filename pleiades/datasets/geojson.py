@@ -6,6 +6,7 @@ Python 3 script template (changeme)
 
 import logging
 from pathlib import Path
+import sys
 
 logger = logging.getLogger(__name__)
 
@@ -31,10 +32,13 @@ class Maker(object):
 
     def make_feature(self, PID=None):
         """Create a GeoJSON feature dictionary from Pleiades JSON for PID"""
-        pass
+        raise NotImplementedError(sys._getframe().f_code.co_name)
 
     def make_feature_collection(self, PIDS=[]):
         """Create a GeoJSON feature collection for each PID in PIDS"""
-        pass
+        raise NotImplementedError(sys._getframe().f_code.co_name)
+
+    def walk_feature_collection(self):
+        raise NotImplementedError(sys._getframe().f_code.co_name)
 
 

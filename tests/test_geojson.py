@@ -34,5 +34,22 @@ class Test_GeoJSON(TestCase):
         pass
 
     def test_maker_default_context(self):
+        Maker()
+
+    @raises(NotImplementedError)
+    def test_make_feature(self):
         m = Maker()
+        m.make_feature()
+
+    @raises(NotImplementedError)
+    def test_make_feature_collection(self):
+        m = Maker()
+        m.make_feature_collection()
+
+    @raises(NotImplementedError)
+    def test_walk_feature_collection(self):
+        m = Maker()
+        m.make_feature_collection()
+
+    
 
