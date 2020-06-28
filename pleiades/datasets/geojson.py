@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Python 3 script template (changeme)
+Create GeoJSON versions of Pleiades gazetteer data
 """
 
 import logging
@@ -29,6 +29,7 @@ class Maker(object):
 
     def __init__(self, context=DEFAULT_CONTEXT):
         logger.debug(context)
+        self.context = context
 
     def make_feature(self, PID=None):
         """Create a GeoJSON feature dictionary from Pleiades JSON for PID"""
