@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-RDFDIR="$SCRIPTDIR"/../rdf/
+RDFDIR="$SCRIPTDIR"/../data/rdf/
 
 cd "$RDFDIR"
 wget http://atlantides.org/downloads/pleiades/rdf/pleiades-latest.tar.gz
