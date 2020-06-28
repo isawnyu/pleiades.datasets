@@ -60,7 +60,7 @@ def main(**kwargs):
     url = ('http://atlantides.org/downloads/pleiades/json/'
            'pleiades-places-latest.json.gz')
     local_filename = url.split('/')[-1]
-    path = join('json', local_filename)
+    path = join('data', 'json', local_filename)
     try:
         modified = datetime.fromtimestamp(getmtime(path), timezone.utc)
     except FileNotFoundError:
@@ -87,6 +87,7 @@ def main(**kwargs):
         parts = list(pid)
         parts = parts[0:len(parts)-2]
         parts.insert(0, 'json')
+        parts.insert(0, 'data')
         parts.append(pid)
         path = '{}.json'.format(join(*parts))
         path = abspath(realpath(path))
