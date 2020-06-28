@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Python 3 script template (changeme)
+Download JSON from Pleiades website and break into individual files
 """
 
 from airtight.cli import configure_commandline
