@@ -30,7 +30,7 @@ class Maker(object):
         self.context = context
 
     def make_feature(self, PID=None):
-        """Create a GeoJSON feature dictionary from Pleiades JSON for PID"""
+        """Create a GeoJSON feature from Pleiades JSON for PID"""
         if PID is None:
             msg = 'Expected Pleiades ID for PID argument. Got None.'
             raise ValueError(msg)
@@ -56,12 +56,58 @@ class Maker(object):
         else:
             raise NotImplementedError(type(self.context))
 
-    def make_feature_collection(self, PIDS=[]):
-        """Create a GeoJSON feature collection for each PID in PIDS"""
-        raise NotImplementedError(sys._getframe().f_code.co_name)
+    def make_feature_collection(self, PID=None):
+        """Create a GeoJSON FeatureCollection from Pleiades JSON for PID"""
+        if PID is None:
+            msg = 'Expected Pleiades ID for PID argument. Got None.'
+            raise ValueError(msg)
+        if isinstance(self.context, Path):
+            with open(
+                self.context / '{}.json'.format(PID), encoding='utf-8'
+            ) as f:
+                pleiades_json = json.load(f)
+            del f
+            # title (foreign member)
+            # description (foreign member)
+            # bbox (optional geojson: must be calculated from locations)
+            # hull (foreign member)
+            # id (foreign member)
+            # features (array of feature objects)
+            locations = pleiades_json['locations']
+            features = self._make_features(locations)
+            fc = geojson.FeatureCollection(
+                features=features,
+                bbox=self._make_bbox(features),
+                centroid=self._make_centroid(features),
+                hull=self._make_hull(features),
+                id=pleiades_json['id'],
+                title=pleiades_json['title'],
+                description=pleiades_json['description'])
+            if not fc.is_valid:
+                msg = 'Invalid FeatureCollection'
+                raise RuntimeError(msg)
+            return geojson.dumps(
+                fc, indent=4, sort_keys=True, ensure_ascii=False)
+        else:
+            raise NotImplementedError(type(self.context))
 
     def walk_feature_collection(self):
         raise NotImplementedError(sys._getframe().f_code.co_name)
+
+    def _make_bbox(self, features):
+        return None
+
+    def _make_centroid(self, features):
+        return None
+
+    def _make_feature(self, location):
+        return None
+
+    def _make_features(self, locations):
+        return [self._make_feature(l) for l in locations]
+
+    def _make_hull(self, features):
+        return None
 
     def _make_geometries(self, j: dict):
         geo_collection = geojson.GeometryCollection(
