@@ -48,10 +48,10 @@ class Test_GeoJSON(TestCase):
         Maker()
 
     @logme
-    @raises(NotImplementedError)
     def test_make_feature(self):
-        m = Maker()
-        m.make_feature()
+        m = Maker(test_data_path)
+        s = m.make_feature('275740')
+        logger.debug(s)
 
     @logme
     @raises(NotImplementedError)
@@ -63,7 +63,7 @@ class Test_GeoJSON(TestCase):
     @raises(NotImplementedError)
     def test_walk_feature_collection(self):
         m = Maker()
-        m.make_feature_collection()
+        m.walk_feature_collection()
 
     
 
