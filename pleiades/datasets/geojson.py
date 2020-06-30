@@ -67,22 +67,24 @@ class Maker(object):
             ) as f:
                 pleiades_json = json.load(f)
             del f
-            # title (foreign member)
-            # description (foreign member)
-            # bbox (optional geojson: must be calculated from locations)
-            # hull (foreign member)
-            # id (foreign member)
-            # features (array of feature objects)
             locations = pleiades_json['locations']
-            features = self._make_features(locations)
+            features = self._make_features(locations, pleiades_json)
+            creator_names = [c['name'] for c in pleiades_json['creators']]
+            contributor_names = [
+                c['name'] for c in pleiades_json['contributors']
+                if c['name'] not in creator_names]
             fc = geojson.FeatureCollection(
-                features=features,
                 bbox=self._make_bbox(features),
                 centroid=self._make_centroid(features),
+                contributors=contributor_names,
+                creators=creator_names,
+                description=pleiades_json['description'],
+                features=features,
                 hull=self._make_hull(features),
                 id=pleiades_json['id'],
+                rights=pleiades_json['rights'],
                 title=pleiades_json['title'],
-                description=pleiades_json['description'])
+                uri=pleiades_json['uri'])
             if not fc.is_valid:
                 msg = 'Invalid FeatureCollection'
                 raise RuntimeError(msg)
@@ -100,11 +102,37 @@ class Maker(object):
     def _make_centroid(self, features):
         return None
 
-    def _make_feature(self, location):
-        return None
+    def _make_feature(self, location, place: dict):
+        creator_names = [c['name'] for c in location['creators']]
+        contributor_names = [
+            c['name'] for c in location['contributors']
+            if c['name'] not in creator_names]
+        feature = geojson.Feature(
+            geometry=self._make_geometry(location),
+            properties={
+                'archaeological_remains': location['archaeologicalRemains'],
+                'association_certainty': location['associationCertainty'],
+                'contributors': contributor_names,
+                'creators': creator_names,
+                'description': location['description'],
+                'end': location['end'],
+                'feature_type': [
+                    ft.strip() for ft in location['featureType'] if ft.strip()
+                    != ''],
+                'location_type': location['locationType'],
+                'rights': place['rights'],
+                'start': location['start'],
+                'title': location['title'],
+                'uri': location['uri']
+            }
+        )
+        if not feature.is_valid:
+            msg = 'Invalid Feature'
+            raise RuntimeError(msg)
+        return feature
 
-    def _make_features(self, locations):
-        return [self._make_feature(l) for l in locations]
+    def _make_features(self, locations: list, place: dict):
+        return [self._make_feature(l, place) for l in locations]
 
     def _make_hull(self, features):
         return None
@@ -117,8 +145,10 @@ class Maker(object):
             raise RuntimeError(msg)
         return geo_collection
 
-    def _make_geometry(self, jloc: dict):
+    def _make_geometry(self, location: dict):
         return getattr(
-            geojson, jloc['geometry']['type'])(jloc['geometry']['coordinates'])
+            geojson,
+            location['geometry']['type'])(
+                location['geometry']['coordinates'])
 
 
