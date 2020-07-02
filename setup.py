@@ -19,6 +19,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[
-        'airtight', 'geojson', 'python-dateutil', 'requests', 'shapely'],
+        'airtight', 'geojson', 'lxml', 'python-dateutil', 'requests',
+        'shapely'],
     python_requires='>=3.8.3'
 )
