@@ -27,6 +27,12 @@ class Maker(object):
 
     def __init__(self, context=DEFAULT_CONTEXT):
         logger.debug(context)
+        if not isinstance(context, Path):
+            msg = (
+                'Maker instantiated with a context of type {}. Only Path '
+                'is currently supported.'.format(
+                    type(context))
+            raise NotImplementedError(msg)
         self.context = context
 
     def make_feature(self, PID=None):
