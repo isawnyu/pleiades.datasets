@@ -4,14 +4,12 @@
 Create GeoJSON versions of Pleiades gazetteer data
 """
 
-from bs4 import BeautifulSoup
 from copy import deepcopy
 import geojson
 import json
 import logging
 from pathlib import Path
 from pprint import pformat
-import requests
 from shapely.geometry import box, MultiPolygon, Polygon, shape
 import sys
 
