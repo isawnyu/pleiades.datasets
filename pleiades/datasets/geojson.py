@@ -10,6 +10,7 @@ import json
 import logging
 from pathlib import Path
 from pprint import pformat
+from shapely.geometry import box, MultiPolygon, Polygon, shape
 import sys
 
 logger = logging.getLogger(__name__)
@@ -31,7 +32,7 @@ class Maker(object):
             msg = (
                 'Maker instantiated with a context of type {}. Only Path '
                 'is currently supported.'.format(
-                    type(context))
+                    type(context)))
             raise NotImplementedError(msg)
         self.context = context
 
@@ -81,12 +82,10 @@ class Maker(object):
                 if c['name'] not in creator_names]
             fc = geojson.FeatureCollection(
                 bbox=self._make_bbox(features),
-                centroid=self._make_centroid(features),
                 contributors=contributor_names,
                 creators=creator_names,
                 description=pleiades_json['description'],
                 features=features,
-                hull=self._make_hull(features),
                 id=pleiades_json['id'],
                 rights=pleiades_json['rights'],
                 title=pleiades_json['title'],
@@ -103,7 +102,11 @@ class Maker(object):
         raise NotImplementedError(sys._getframe().f_code.co_name)
 
     def _make_bbox(self, features):
-        return None
+        """Create a bounding box containing all features"""
+        shapes = [shape(f.geometry) for f in features]
+        bounds = [(s.bounds) for s in shapes]
+        boxes = [box(*b) for b in bounds]
+        return MultiPolygon(boxes).bounds
 
     def _make_centroid(self, features):
         return None
