@@ -4,12 +4,14 @@
 Create GeoJSON versions of Pleiades gazetteer data
 """
 
+from bs4 import BeautifulSoup
 from copy import deepcopy
 import geojson
 import json
 import logging
 from pathlib import Path
 from pprint import pformat
+import requests
 from shapely.geometry import box, MultiPolygon, Polygon, shape
 import sys
 
@@ -108,10 +110,15 @@ class Maker(object):
         boxes = [box(*b) for b in bounds]
         return MultiPolygon(boxes).bounds
 
+    def _make_buffer(self, feature):
+        """Create an accuracy buffer for a given feature"""
+        raise NotImplementedError('make buffer')
+
     def _make_centroid(self, features):
         return None
 
     def _make_feature(self, location, place: dict):
+        """Make geojson feature reflecting the precise location geometry"""
         creator_names = [c['name'] for c in location['creators']]
         contributor_names = [
             c['name'] for c in location['contributors']
@@ -119,6 +126,7 @@ class Maker(object):
         feature = geojson.Feature(
             geometry=self._make_geometry(location),
             properties={
+                'positional_accuracy': location['accuracy_value'],
                 'archaeological_remains': location['archaeologicalRemains'],
                 'association_certainty': location['associationCertainty'],
                 'contributors': contributor_names,
@@ -141,7 +149,11 @@ class Maker(object):
         return feature
 
     def _make_features(self, locations: list, place: dict):
-        return [self._make_feature(l, place) for l in locations]
+        """Make features and accuracy buffers for all locations"""
+        features = [self._make_feature(l, place) for l in locations]
+        buffers = [self._make_buffer(f) for f in features]
+        features = features.extend(buffers)
+        return features
 
     def _make_hull(self, features):
         return None
