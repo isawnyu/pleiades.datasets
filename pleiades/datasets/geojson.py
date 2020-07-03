@@ -10,7 +10,7 @@ import json
 import logging
 from pathlib import Path
 from pprint import pformat
-from shapely.geometry import box, MultiPolygon, Polygon, shape
+from shapely.geometry import box, MultiPolygon, Polygon, polygon, shape
 import sys
 
 logger = logging.getLogger(__name__)
@@ -110,7 +110,52 @@ class Maker(object):
 
     def _make_buffer(self, feature):
         """Create an accuracy buffer for a given feature"""
-        raise NotImplementedError('make buffer')
+        s = shape(feature.geometry)
+        b = s.buffer(feature.properties['positional_accuracy'])
+        h = b.convex_hull.simplify(0.2, preserve_topology=False)
+        if not h.exterior.is_ccw:
+            logger.debug('Correcting orientation')
+            h = polygon.orient(h)
+            if not h.exterior.is_ccw:
+                raise RuntimeError('Could not fix orientation of buffer hull')
+        if not h.exterior.is_valid:
+            raise RuntimeError('Invalid shapely buffer')
+        logger.debug(
+            'Valid hull: \n{}'.format(
+                pformat(list(h.exterior.coords), indent=4)))
+        clean_ring = [(float(c[0]), float(c[1])) for c in h.exterior.coords]
+        g = geojson.Polygon([clean_ring])
+        if not g.is_valid:
+            msg = (
+                'Invalid geojson Polygon while making buffer: {}\n{}'.format(
+                    g.errors(), pformat(g.coordinates, indent=4)))
+            raise RuntimeError(msg)
+        logger.debug('buffer polygon: {}'.format(pformat(g, indent=4)))
+        buffer = geojson.Feature(
+            geometry=g,
+            properties={
+                'title': 'Accuracy buffer for {}'.format(
+                    feature.properties['title']),
+                'description': (
+                    'Generated using the python Shapely package '
+                    '(https://github.com/Toblerity/Shapely), '
+                    'this convex hull delineates a region of space '
+                    'roughly corresponding to a {} meter buffer '
+                    'around the feature geometry; i.e., the '
+                    '"positional accuracy" recorded in the Pleiades '
+                    'gazetteer for this location.'.format(
+                        feature.properties['positional_accuracy']))
+            }
+        )
+        if not buffer.is_valid:
+            msg = 'Invalid Buffer: {}'.format(buffer.errors())
+            raise RuntimeError(msg)
+        logger.debug(
+            'Valid buffer: \n{}'.format(
+                pformat(buffer, indent=4)
+            )
+        )
+        return buffer
 
     def _make_centroid(self, features):
         return None
@@ -149,9 +194,12 @@ class Maker(object):
     def _make_features(self, locations: list, place: dict):
         """Make features and accuracy buffers for all locations"""
         features = [self._make_feature(l, place) for l in locations]
+        logger.debug('len features: {}'.format(len(features)))
         buffers = [self._make_buffer(f) for f in features]
-        features = features.extend(buffers)
-        return features
+        logger.debug('len buffers: {}'.format(len(buffers)))
+        all_features = features + buffers
+        logger.debug('features and buffers:\n{}'.format(pformat(all_features, indent=4)))
+        return all_features
 
     def _make_hull(self, features):
         return None
