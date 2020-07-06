@@ -6,7 +6,9 @@ import functools
 import logging
 from nose.tools import assert_equal, assert_false, assert_true, raises
 from pathlib import Path
-from pleiades.datasets.geojson import Maker
+from pleiades.datasets.geojson import Maker, buffer_shape
+from pprint import pprint
+from shapely.geometry import Point
 import sys
 from unittest import TestCase
 
@@ -66,4 +68,10 @@ class Test_GeoJSON(TestCase):
         m.walk_feature_collection()
 
     
+class Test_Buffer(TestCase):
 
+    @logme
+    def test_point_buffer(self):
+        s = Point(0.0, 0.0)
+        b = buffer_shape(s, 1000.0)
+        pprint(b, indent=4)

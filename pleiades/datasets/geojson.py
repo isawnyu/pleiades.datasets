@@ -10,7 +10,12 @@ import json
 import logging
 from pathlib import Path
 from pprint import pformat
+import pyproj
+from pyproj.crs import ProjectedCRS
+from pyproj.crs.coordinate_operation import AzumuthalEquidistantConversion
+from pyproj import Transformer
 from shapely.geometry import box, MultiPolygon, Polygon, polygon, shape
+from shapely.ops import transform
 import sys
 
 logger = logging.getLogger(__name__)
@@ -21,6 +26,64 @@ GEO_KEYS = {
     'geometry': '',
     'properties': ''
 }
+WGS84 = pyproj.CRS('EPSG:4326')
+
+
+def get_aeqd(x, y, datum='WGS84', units='m'):
+    aeqd = AzumuthalEquidistantConversion(x, y)
+    return aeqd
+
+
+def t_from_wgs84(projection):
+    return pyproj.Transformer.from_crs(
+        WGS84, projection, always_xy=True).transform
+
+
+def t_to_wgs84(projection):
+    return pyproj.Transformer.from_crs(
+        projection, WGS84, always_xy=True).transform
+
+
+def buffer_shape(s, distance):
+    """Buffer shape by distance in meters
+    Returns a geojson polygon geometry
+    """
+
+    # transform s to an azimuthal equidistant projection
+    # with origin at the centroid of the shape
+    c = s.centroid
+    aeqd = get_aeqd(c.x, c.y)
+    project = t_from_wgs84(aeqd)
+    s_aeqd = transform(project, s)
+
+    # calculate the buffer points and transform back to WGS84
+    b_aeqd = s_aeqd.buffer(distance)
+    project = t_to_wgs84(aeqd)
+    b = transform(project, b_aeqd)
+
+    # construct a simplified polygon based on a convex hull
+    # around the buffer points
+    h = b.convex_hull.simplify(0.2, preserve_topology=False)
+    if not h.exterior.is_ccw:
+        logger.debug('Correcting orientation')
+        h = polygon.orient(h)
+        if not h.exterior.is_ccw:
+            raise RuntimeError('Could not fix orientation of buffer hull')
+    if not h.exterior.is_valid:
+        raise RuntimeError('Invalid shapely buffer')
+    logger.debug(
+        'Valid hull: \n{}'.format(
+            pformat(list(h.exterior.coords), indent=4)))
+    clean_ring = [(float(c[0]), float(c[1])) for c in h.exterior.coords]
+
+    # return the polygon in geojson format
+    g = geojson.Polygon([clean_ring])
+    if not g.is_valid:
+        msg = (
+            'Invalid geojson Polygon while making buffer: {}\n{}'.format(
+                g.errors(), pformat(g.coordinates, indent=4)))
+        raise RuntimeError(msg)
+    return g
 
 
 class Maker(object):
