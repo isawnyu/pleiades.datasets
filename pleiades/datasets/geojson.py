@@ -29,8 +29,15 @@ GEO_KEYS = {
 WGS84 = pyproj.CRS('EPSG:4326')
 
 
-def get_aeqd(x, y, datum='WGS84', units='m'):
-    aeqd = AzumuthalEquidistantConversion(x, y)
+def get_aeqd(x, y):
+    proj_str = ' '.join(
+        [
+            '+proj=aeqd',
+            '+lat_0={}'.format(y),
+            '+lon_0={}'.format(x)
+        ]
+    )
+    aeqd = pyproj.CRS(proj_str)
     return aeqd
 
 
@@ -53,28 +60,25 @@ def buffer_shape(s, distance):
     # with origin at the centroid of the shape
     c = s.centroid
     aeqd = get_aeqd(c.x, c.y)
-    project = t_from_wgs84(aeqd)
-    s_aeqd = transform(project, s)
+    tformer = t_from_wgs84(aeqd)
+    s_aeqd = transform(tformer, s)
 
     # calculate the buffer points and transform back to WGS84
-    b_aeqd = s_aeqd.buffer(distance)
-    project = t_to_wgs84(aeqd)
-    b = transform(project, b_aeqd)
+    # tolerance is used in simplification below, but we calculate it here
+    # roughly based on an average number of meters/degree and scaled
+    # against the overall distance so that we can add it to the buffer
+    # so that when simplified the convex hull likely covers all possible
+    # area where the feature is to be found
+    tolerance = 1.0 / (98821.0 / round(distance/10, 1))
+    b_aeqd = s_aeqd.buffer(distance + tolerance)
+    tformer = t_to_wgs84(aeqd)
+    b = transform(tformer, b_aeqd)
 
     # construct a simplified polygon based on a convex hull
     # around the buffer points
-    h = b.convex_hull.simplify(0.2, preserve_topology=False)
-    if not h.exterior.is_ccw:
-        logger.debug('Correcting orientation')
-        h = polygon.orient(h)
-        if not h.exterior.is_ccw:
-            raise RuntimeError('Could not fix orientation of buffer hull')
-    if not h.exterior.is_valid:
-        raise RuntimeError('Invalid shapely buffer')
-    logger.debug(
-        'Valid hull: \n{}'.format(
-            pformat(list(h.exterior.coords), indent=4)))
-    clean_ring = [(float(c[0]), float(c[1])) for c in h.exterior.coords]
+    h = b.convex_hull
+    h_simple = h.simplify(tolerance, preserve_topology=True)
+    clean_ring = [(float(c[0]), float(c[1])) for c in h_simple.exterior.coords]
 
     # return the polygon in geojson format
     g = geojson.Polygon([clean_ring])
@@ -173,27 +177,9 @@ class Maker(object):
 
     def _make_buffer(self, feature):
         """Create an accuracy buffer for a given feature"""
+
         s = shape(feature.geometry)
-        b = s.buffer(feature.properties['positional_accuracy'])
-        h = b.convex_hull.simplify(0.2, preserve_topology=False)
-        if not h.exterior.is_ccw:
-            logger.debug('Correcting orientation')
-            h = polygon.orient(h)
-            if not h.exterior.is_ccw:
-                raise RuntimeError('Could not fix orientation of buffer hull')
-        if not h.exterior.is_valid:
-            raise RuntimeError('Invalid shapely buffer')
-        logger.debug(
-            'Valid hull: \n{}'.format(
-                pformat(list(h.exterior.coords), indent=4)))
-        clean_ring = [(float(c[0]), float(c[1])) for c in h.exterior.coords]
-        g = geojson.Polygon([clean_ring])
-        if not g.is_valid:
-            msg = (
-                'Invalid geojson Polygon while making buffer: {}\n{}'.format(
-                    g.errors(), pformat(g.coordinates, indent=4)))
-            raise RuntimeError(msg)
-        logger.debug('buffer polygon: {}'.format(pformat(g, indent=4)))
+        g = buffer_shape(s, feature.properties['positional_accuracy'])
         buffer = geojson.Feature(
             geometry=g,
             properties={
