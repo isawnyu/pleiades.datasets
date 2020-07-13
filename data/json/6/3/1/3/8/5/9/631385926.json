@@ -76,6 +76,12 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2015-12-22T19:24:08Z",
@@ -103,8 +109,8 @@
                 "description": "GeoNames location for Çamlıdere.",
                 "link": "https://pleiades.stoa.org/places/631385926/caml131dere",
                 "location_precision": "precise",
-                "snippet": "Settlement-modern, ; AD 1700 - AD 2100",
-                "title": "Çamlıdere"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "GeoNames Location of Çamlıdere"
             },
             "type": "Feature"
         }
@@ -130,7 +136,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/places/550883/geonames-location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -142,7 +149,20 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2015-12-22T19:38:40Z",
             "creators": [
                 {
@@ -156,12 +176,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "settlement-modern",
-                ""
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -171,6 +189,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "fixed accuracy assessment",
+                    "modified": "2020-07-10T22:24:53Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2015-12-30T02:58:13Z",
@@ -202,8 +225,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "provenance": "GeoNames: 319285",
             "references": [
@@ -232,7 +254,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Çamlıdere",
+            "title": "GeoNames Location of Çamlıdere",
             "uri": "https://pleiades.stoa.org/places/631385926/caml131dere"
         }
     ],

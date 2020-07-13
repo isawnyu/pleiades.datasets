@@ -85,8 +85,8 @@
                 "description": "Summit coordinates according to GeoHack.",
                 "link": "https://pleiades.stoa.org/places/865014139/summit-of-aventinus-mons",
                 "location_precision": "precise",
-                "snippet": "Hill, ; AD 1700 - AD 2100",
-                "title": "Summit of Aventinus mons"
+                "snippet": "Hill; AD 1700 - AD 2100",
+                "title": "GeoHack Location of Summit of Aventinus mons"
             },
             "type": "Feature"
         }
@@ -182,7 +182,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/places/450863545/geohack-location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -194,7 +195,20 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2015-07-31T19:56:24Z",
             "creators": [
                 {
@@ -208,12 +222,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "hill",
-                ""
+                "hill"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/hill",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
             ],
             "geometry": {
                 "coordinates": [
@@ -223,6 +235,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "fixed accuracy assessment",
+                    "modified": "2020-07-10T22:57:52Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "added reference",
                     "modified": "2015-07-31T21:15:36Z",
@@ -239,8 +256,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/hill",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -269,7 +285,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Summit of Aventinus mons",
+            "title": "GeoHack Location of Summit of Aventinus mons",
             "uri": "https://pleiades.stoa.org/places/865014139/summit-of-aventinus-mons"
         }
     ],

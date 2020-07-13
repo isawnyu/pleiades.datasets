@@ -42,6 +42,16 @@
     ],
     "contributors": [
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
@@ -49,19 +59,9 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
         },
         {
             "homepage": null,
@@ -71,9 +71,9 @@
         },
         {
             "homepage": null,
-            "name": "Ryan Horne",
-            "uri": "https://pleiades.stoa.org/author/rmhorne",
-            "username": "rmhorne"
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-22T19:17:24Z",
@@ -103,8 +103,8 @@
                 "description": "Location based on GeoNames",
                 "link": "https://pleiades.stoa.org/places/589688/ormos-almyrou",
                 "location_precision": "precise",
-                "snippet": "Water-open, ; AD 1700 - AD 2100",
-                "title": "Órmos Almyroú"
+                "snippet": "Water-open; AD 1700 - AD 2100",
+                "title": "GeoNames Location of Órmos Almyroú"
             },
             "type": "Feature"
         }
@@ -140,7 +140,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -152,7 +153,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-05-02T19:58:11Z",
             "creators": [
                 {
@@ -166,12 +174,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "water-open",
-                ""
+                "water-open"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/water-open",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
             ],
             "geometry": {
                 "coordinates": [
@@ -181,6 +187,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "fixed accuracy assessment",
+                    "modified": "2020-07-10T22:21:45Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2013-05-31T19:16:07Z",
@@ -197,8 +208,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/water-open",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
             ],
             "provenance": "geonames: 265289",
             "references": [
@@ -216,7 +226,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Órmos Almyroú",
+            "title": "GeoNames Location of Órmos Almyroú",
             "uri": "https://pleiades.stoa.org/places/589688/ormos-almyrou"
         }
     ],

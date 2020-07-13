@@ -14,6 +14,12 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2015-08-02T00:16:06Z",
@@ -41,8 +47,8 @@
                 "description": "Coordinates following GeoHack.",
                 "link": "https://pleiades.stoa.org/places/857932175/location-of-dothan",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; AD 1700 - AD 2100",
-                "title": "Location of Dothan"
+                "snippet": "Settlement; AD 1700 - AD 2100",
+                "title": "GeoHack Location of Dothan"
             },
             "type": "Feature"
         }
@@ -63,7 +69,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/places/450863545/geohack-location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -75,7 +82,20 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2015-08-02T00:17:37Z",
             "creators": [
                 {
@@ -89,12 +109,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -104,6 +122,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "fixed accuracy assessment",
+                    "modified": "2020-07-10T22:56:52Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "added reference",
                     "modified": "2015-08-13T00:17:59Z",
@@ -120,8 +143,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -150,7 +172,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Location of Dothan",
+            "title": "GeoHack Location of Dothan",
             "uri": "https://pleiades.stoa.org/places/857932175/location-of-dothan"
         }
     ],

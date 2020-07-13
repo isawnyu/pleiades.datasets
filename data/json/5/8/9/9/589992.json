@@ -43,21 +43,9 @@
     "contributors": [
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
-        },
-        {
-            "homepage": null,
-            "name": "Ryan Horne",
-            "uri": "https://pleiades.stoa.org/author/rmhorne",
-            "username": "rmhorne"
         },
         {
             "homepage": null,
@@ -68,6 +56,18 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         }
     ],
     "created": "2018-06-07T20:49:35Z",
@@ -97,8 +97,8 @@
                 "description": "Location based on GeoNames",
                 "link": "https://pleiades.stoa.org/places/589992/ormos-foinikia",
                 "location_precision": "precise",
-                "snippet": "Water-open, ; AD 1700 - AD 2100",
-                "title": "Órmos Foinikiá"
+                "snippet": "Water-open; AD 1700 - AD 2100",
+                "title": "GeoNames Location of Órmos Foinikiá"
             },
             "type": "Feature"
         }
@@ -139,7 +139,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -151,7 +152,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-05-03T13:25:09Z",
             "creators": [
                 {
@@ -165,12 +173,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "water-open",
-                ""
+                "water-open"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/water-open",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
             ],
             "geometry": {
                 "coordinates": [
@@ -180,6 +186,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "fixed accuracy assessment",
+                    "modified": "2020-07-10T22:23:39Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Initial revision",
                     "modified": "2013-05-03T13:25:44Z",
@@ -191,8 +202,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/water-open",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
             ],
             "provenance": "geonames: 262334",
             "references": [
@@ -210,7 +220,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Órmos Foinikiá",
+            "title": "GeoNames Location of Órmos Foinikiá",
             "uri": "https://pleiades.stoa.org/places/589992/ormos-foinikia"
         }
     ],

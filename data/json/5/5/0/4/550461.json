@@ -59,44 +59,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            27.0,
-                            38.5
-                        ],
-                        [
-                            27.0,
-                            39.0
-                        ],
-                        [
-                            27.5,
-                            39.0
-                        ],
-                        [
-                            27.5,
-                            38.5
-                        ],
-                        [
-                            27.0,
-                            38.5
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "undetermined",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/550461/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Undetermined location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     27.31667,
                     38.9
                 ],
@@ -107,8 +69,8 @@
                 "description": "Location of Yunt Dağı, coordinates based on GeoNames and verified in Google Earth.",
                 "link": "https://pleiades.stoa.org/places/550461/yunt-dag131",
                 "location_precision": "precise",
-                "snippet": "Mountain, ; AD 1700 - AD 2100",
-                "title": "location of Yunt Dağı"
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "GeoNames Location of Yunt Dağı"
             },
             "type": "Feature"
         }
@@ -134,115 +96,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-15T08:29:00Z",
-            "creators": [
-                {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            27.0,
-                            38.5
-                        ],
-                        [
-                            27.0,
-                            39.0
-                        ],
-                        [
-                            27.5,
-                            39.0
-                        ],
-                        [
-                            27.5,
-                            38.5
-                        ],
-                        [
-                            27.0,
-                            38.5
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:17:06Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 56 E4 Aspordenos M.",
-            "references": [],
-            "review_state": "published",
-            "start": -330,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/550461/undetermined"
-        },
-        {
-            "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -260,6 +115,12 @@
                     "name": "Jeffrey Becker",
                     "uri": "https://pleiades.stoa.org/author/jbecker",
                     "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2013-04-18T05:19:16Z",
@@ -275,12 +136,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "mountain",
-                ""
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
@@ -290,6 +149,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "fixed accuracy assessment",
+                    "modified": "2020-07-10T22:35:41Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "edited description",
                     "modified": "2013-08-01T16:40:58Z",
@@ -311,8 +175,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "provenance": "GeoNames.org 296125",
             "references": [
@@ -330,7 +193,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Yunt Dağı",
+            "title": "GeoNames Location of Yunt Dağı",
             "uri": "https://pleiades.stoa.org/places/550461/yunt-dag131"
         }
     ],

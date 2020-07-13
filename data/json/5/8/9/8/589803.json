@@ -97,8 +97,8 @@
                 "description": "Location based on GeoNames, verified in OSM.",
                 "link": "https://pleiades.stoa.org/places/589803/akra-plaka",
                 "location_precision": "precise",
-                "snippet": "Cape, ; AD 1700 - AD 2100",
-                "title": "location of Ákra Pláka"
+                "snippet": "Cape; AD 1700 - AD 2100",
+                "title": "GeoNames Location of Ákra Pláka"
             },
             "type": "Feature"
         }
@@ -134,7 +134,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -146,7 +147,20 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-05-03T12:40:28Z",
             "creators": [
                 {
@@ -160,12 +174,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "cape",
-                ""
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
@@ -175,6 +187,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "fixed accuracy assessment",
+                    "modified": "2020-07-10T22:27:02Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2013-08-01T19:01:21Z",
@@ -191,8 +208,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "provenance": "geonames: 255120",
             "references": [
@@ -210,7 +226,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Ákra Pláka",
+            "title": "GeoNames Location of Ákra Pláka",
             "uri": "https://pleiades.stoa.org/places/589803/akra-plaka"
         }
     ],

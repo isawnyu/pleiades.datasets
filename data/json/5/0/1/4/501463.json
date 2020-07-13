@@ -60,9 +60,15 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
@@ -71,20 +77,14 @@
             "username": "jbecker"
         },
         {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
-        },
-        {
             "name": "G. Reger",
             "username": null
         },
         {
             "homepage": null,
-            "name": "Ryan Horne",
-            "uri": "https://pleiades.stoa.org/author/rmhorne",
-            "username": "rmhorne"
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-06-24T10:41:57Z",
@@ -110,8 +110,8 @@
                 "description": "GeoNames location",
                 "link": "https://pleiades.stoa.org/places/501463/location-of-kefalo-burnu",
                 "location_precision": "precise",
-                "snippet": "Cape, ; AD 1700 - AD 2100",
-                "title": "Location of Kefalo Burnu"
+                "snippet": "Cape; AD 1700 - AD 2100",
+                "title": "GeoNames Location of Kefalo Burnu"
             },
             "type": "Feature"
         }
@@ -142,7 +142,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -154,7 +155,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-04-15T18:37:05Z",
             "creators": [
                 {
@@ -168,12 +176,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "cape",
-                ""
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
@@ -183,6 +189,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "fixed accuracy assessment",
+                    "modified": "2020-07-10T22:21:10Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2013-04-15T18:39:22Z",
@@ -199,8 +210,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "provenance": "GeoNames.org 743559",
             "references": [
@@ -218,7 +228,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Location of Kefalo Burnu",
+            "title": "GeoNames Location of Kefalo Burnu",
             "uri": "https://pleiades.stoa.org/places/501463/location-of-kefalo-burnu"
         }
     ],
