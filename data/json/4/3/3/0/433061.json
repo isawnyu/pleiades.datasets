@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        11.9565809,
+        11.962938,
         42.015321,
         11.963496,
-        42.0180059
+        42.01537
     ],
     "connections": [
         {
@@ -68,24 +68,17 @@
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/174900201",
-        "https://pleiades.stoa.org/places/1356"
+        "https://pleiades.stoa.org/places/1356",
+        "https://pleiades.stoa.org/places/413122",
+        "https://pleiades.stoa.org/places/936919090",
+        "https://pleiades.stoa.org/places/389050484"
     ],
     "contributors": [
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -95,15 +88,25 @@
         },
         {
             "homepage": null,
-            "name": "Ryan Horne",
-            "uri": "https://pleiades.stoa.org/author/rmhorne",
-            "username": "rmhorne"
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
         },
         {
             "name": "R. Talbert",
@@ -111,9 +114,9 @@
         },
         {
             "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         }
     ],
     "created": "2018-06-08T00:11:26Z",
@@ -161,71 +164,19 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            11.9583173,
-                            42.0154762
-                        ],
-                        [
-                            11.9575867,
-                            42.0154823
-                        ],
-                        [
-                            11.9572755,
-                            42.0155361
-                        ],
-                        [
-                            11.9565809,
-                            42.0159307
-                        ],
-                        [
-                            11.9585641,
-                            42.0180059
-                        ],
-                        [
-                            11.9586239,
-                            42.0179809
-                        ],
-                        [
-                            11.9608035,
-                            42.0169998
-                        ],
-                        [
-                            11.9601375,
-                            42.0161907
-                        ],
-                        [
-                            11.9598513,
-                            42.015845
-                        ],
-                        [
-                            11.9584281,
-                            42.0154993
-                        ],
-                        [
-                            11.9583173,
-                            42.0154762
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "osm-location-of-roman-castrum-at-pyrgi",
-            "properties": {
-                "description": "Representative location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/433061/osm-location-of-roman-castrum-at-pyrgi",
-                "location_precision": "precise",
-                "snippet": "Settlement; 330 BC - AD 300",
-                "title": "OSM location of Roman castrum at Pyrgi"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "reference cleanup",
+            "modified": "2020-07-15T04:02:09Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "ctype",
+            "modified": "2020-07-15T03:58:53Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-08T00:11:32Z",
@@ -327,6 +278,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
+            "accuracy_value": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -421,6 +373,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
+            "accuracy_value": 10.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -508,146 +461,6 @@
             "start": -750,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/433061/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "traces",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Ryan Horne",
-                    "uri": "https://pleiades.stoa.org/author/rmhorne",
-                    "username": "rmhorne"
-                }
-            ],
-            "created": "2016-11-20T14:56:51Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Representative location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "settlement"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            11.9583173,
-                            42.0154762
-                        ],
-                        [
-                            11.9575867,
-                            42.0154823
-                        ],
-                        [
-                            11.9572755,
-                            42.0155361
-                        ],
-                        [
-                            11.9565809,
-                            42.0159307
-                        ],
-                        [
-                            11.9585641,
-                            42.0180059
-                        ],
-                        [
-                            11.9586239,
-                            42.0179809
-                        ],
-                        [
-                            11.9608035,
-                            42.0169998
-                        ],
-                        [
-                            11.9601375,
-                            42.0161907
-                        ],
-                        [
-                            11.9598513,
-                            42.015845
-                        ],
-                        [
-                            11.9584281,
-                            42.0154993
-                        ],
-                        [
-                            11.9583173,
-                            42.0154762
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2017-03-09T19:37:46Z",
-                    "modifiedBy": "rmhorne"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2016-11-20T14:57:16Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2016-11-20T14:56:52Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "osm-location-of-roman-castrum-at-pyrgi",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "provenance": "OpenStreetMap (Way 105775764, version 6, osm:changeset=41986239, 2016-09-07T18:50:00Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/105775764",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 105775764",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "osm:way=105775764",
-                    "otherIdentifier": "",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "OSM location of Roman castrum at Pyrgi",
-            "uri": "https://pleiades.stoa.org/places/433061/osm-location-of-roman-castrum-at-pyrgi"
         }
     ],
     "names": [
@@ -805,14 +618,14 @@
     "provenance": "Barrington Atlas: BAtlas 44 A1 Pyrgi",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "44 A1 Pyrgi",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 44 A1 Pyrgi",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -840,45 +653,45 @@
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:5.2.8",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "citationDetail": "5.2.8",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
-            "formattedCitation": "Strab. (Meineke: Perseus) 5.2.8",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Str. (Meineke: Perseus)",
             "type": "citesAsEvidence"
         },
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1258.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "4B4 (Talbert 1258)",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
-            "formattedCitation": "TP 4B4 (Talbert 1258)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "citesAsEvidence"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/38449",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 38449: Pyrgi (Santa Severa)",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "TM GEO ID 38449",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "citesAsRelated"
         },
         {
             "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/pyrgi-e1015530",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Pyrgi [1]",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "New Pauly, Pyrgi [1]",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
         },
         {
@@ -900,7 +713,7 @@
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Schmitz, Philip C. “Schmitz, Philip C. 1995. ‘The Phoenician Text from the Etruscan Sanctuary at Pyrgi.’ Journal of the American Oriental Society 115.4:559-75.” <i>Journal of the American Oriental Society</i> 115, no. 4 (1995): 559–75. http://www.jstor.org/stable/604727.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "Schmitz, Philip C. 1995. \"The Phoenician Text from the Etruscan Sanctuary at Pyrgi.\" Journal of the American Oriental Society 115.4:559-75.",
+            "shortTitle": "Schmitz 1995",
             "type": "seeFurther"
         },
         {
@@ -917,12 +730,12 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=pyrgi-geo&highlight=santa%2Csevera",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "PYRGI",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), PYRGI",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "seeFurther"
         },
         {
@@ -931,32 +744,32 @@
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4E2BFAKF",
             "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\"><i>Le lamine di Pyrgi : tavola rotonda internazionale sulla interpretazione dei testi fenicio ed etrusco di contenuto analogo inscritti su due delle lamine d’oro scoperto nel santuario etrusco di Pyrgi : (Roma, 19 aprile 1968)</i>. Accademia Nazionale dei Lincei. Problemi attuali di scienza e di cultura. Quaderno 147. Rome: Accademia Nazionale dei Lincei, 1970. http://www.worldcat.org/oclc/883733664.</div>",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Le lamine di Pyrgi: tavola rotonda internazionale sulla interpretazione dei testi fenicio ed etrusco di contenuto analogo inscritti su due delle lamine d’oro scoperto nel santuario etrusco di Pyrgi: (Roma, 19 aprile 1968)</i>. Accademia Nazionale dei Lincei. Problemi attuali di scienza e di cultura. Quaderno 147. Rome: Accademia Nazionale dei Lincei, 1970. http://www.worldcat.org/oclc/883733664.</div>",
             "otherIdentifier": "",
-            "shortTitle": "Le lamine di Pyrgi : tavola rotonda internazionale sulla interpretazione dei testi fenicio ed etrusco di contenuto analogo inscritti su due delle lamine d'oro scoperto nel santuario etrusco di Pyrgi : (Roma, 19 aprile 1968)",
+            "shortTitle": "Le lamine di Pyrgi",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.geonames.org/3167364/santa-severa.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "3167364: Santa Severa",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "GeoNames 3167364",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "GeoNames",
             "type": "citesAsRelated"
         },
         {
             "accessURI": "https://www.wikidata.org/wiki/Q1724661",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Wikidata Q1724661",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q1724661",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         },
         {
             "accessURI": "https://topostext.org/place/410120UPyr",
@@ -971,8 +784,8 @@
         }
     ],
     "reprPoint": [
-        11.961707062152142,
-        42.015753054961884
+        11.963217,
+        42.015345499999995
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
