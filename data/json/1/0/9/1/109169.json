@@ -1,8 +1,8 @@
 {
     "@type": "Place",
     "bbox": [
-        8.263787,
-        49.996124,
+        8.273869,
+        49.998912,
         8.273869,
         49.998912
     ],
@@ -10,37 +10,59 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "capital",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/capital",
             "connectsTo": "https://pleiades.stoa.org/places/981525",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:03:58Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "changed reference type",
+                    "modified": "2019-09-15T21:15:59Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "981525",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Germania Superior",
             "uri": "https://pleiades.stoa.org/places/109169/981525"
         }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/981525",
+        "https://pleiades.stoa.org/places/981525",
         "https://pleiades.stoa.org/places/109133",
         "https://pleiades.stoa.org/places/110239",
+        "https://pleiades.stoa.org/places/433943630",
         "https://pleiades.stoa.org/places/365824232",
         "https://pleiades.stoa.org/places/109410",
         "https://pleiades.stoa.org/places/590493733",
@@ -52,26 +74,26 @@
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         },
         {
             "homepage": null,
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -100,24 +122,6 @@
     "description": "The original Roman settlement at Mogontiacum (modern Mainz) was established by Drusus ca. 13/12 BC. The settlement became an important military center throughout Roman times and was the base of operations for numerous Roman legions.",
     "details": "<p>The Barrington Atlas Directory notes: Mainz GER</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    8.263787,
-                    49.996124
-                ],
-                "type": "Point"
-            },
-            "id": "site-of-the-legionary-camp",
-            "properties": {
-                "description": "Point location refers to a preserved gate of the city wall in the district Mainz-Kästrich.",
-                "link": "https://pleiades.stoa.org/places/109169/site-of-the-legionary-camp",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Site of the legionary fortress"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -214,95 +218,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-digitalglobe-imagery-2012",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [],
-            "created": "2012-03-21T15:23:54Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "Point location refers to a preserved gate of the city wall in the district Mainz-Kästrich.",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    8.263787,
-                    49.996124
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2012-03-21T22:14:31Z",
-                    "modifiedBy": "jahlfeldt"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2012-03-21T15:43:04Z",
-                    "modifiedBy": "jahlfeldt"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2012-03-21T15:23:58Z",
-                    "modifiedBy": "jahlfeldt"
-                }
-            ],
-            "id": "site-of-the-legionary-camp",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "https://de.wikipedia.org/wiki/R%C3%B6misches_Stadttor_Mainz",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
-                    "citationDetail": "Römisches_Stadttor_Mainz",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-                    "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Römisches_Stadttor_Mainz.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (German)",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "Site of the legionary fortress",
-            "uri": "https://pleiades.stoa.org/places/109169/site-of-the-legionary-camp"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-digitalglobe-imagery-2012",
+            "accuracy_value": 4.2,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -658,8 +574,8 @@
         }
     ],
     "reprPoint": [
-        8.268828,
-        49.997518
+        8.273869,
+        49.998912
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

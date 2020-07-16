@@ -10,35 +10,56 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                }
+            ],
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
             "connectsTo": "https://pleiades.stoa.org/places/433017",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:42:42Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": -30,
+            "history": [
+                {
+                    "comment": "changed cnxn type",
+                    "modified": "2019-06-25T20:59:55Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "433017",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -330,
             "title": "Pentri",
             "uri": "https://pleiades.stoa.org/places/438720/433017"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/433017"
+        "https://pleiades.stoa.org/places/433017",
+        "https://pleiades.stoa.org/places/706151554"
     ],
     "contributors": [
         {
@@ -129,6 +150,7 @@
         {
             "@type": "Location",
             "accuracy": null,
+            "accuracy_value": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",

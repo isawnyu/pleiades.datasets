@@ -2,31 +2,13 @@
     "@type": "Place",
     "bbox": [
         -8.683817,
-        38.0007379,
-        -8.6836507,
+        38.009689,
+        -8.683817,
         38.009689
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
-        },
         {
             "homepage": null,
             "name": "Brady Kiesling",
@@ -38,14 +20,32 @@
             "username": null
         },
         {
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
+        },
+        {
             "name": "R. Warner",
             "username": null
         },
         {
             "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-07T20:48:25Z",
@@ -81,24 +81,6 @@
                 "location_precision": "precise",
                 "snippet": "Settlement; 750 BC - AD 640",
                 "title": "DARE Location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -8.6836507,
-                    38.0007379
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-circus",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/256303/location-of-circus",
-                "location_precision": "precise",
-                "snippet": "Circus, ; 30 BC - AD 300",
-                "title": "location of circus"
             },
             "type": "Feature"
         }
@@ -160,6 +142,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
+            "accuracy_value": 10.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -253,87 +236,6 @@
             "start": -750,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/256303/dare-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2014-03-04T01:41:16Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "circus",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/circus",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    -8.6836507,
-                    38.0007379
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2014-03-04T01:42:13Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-03-04T01:41:20Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-circus",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/circus",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Way 236796741, version 1, osm:changeset=17696098, 2013-09-05T23:47:12Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/236796741",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 236796741",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "osm:way=236796741",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "location of circus",
-            "uri": "https://pleiades.stoa.org/places/256303/location-of-circus"
         }
     ],
     "names": [
@@ -718,8 +620,8 @@
         }
     ],
     "reprPoint": [
-        -8.68373385,
-        38.00521345
+        -8.683817,
+        38.009689
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

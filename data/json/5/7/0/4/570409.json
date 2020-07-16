@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        21.5,
-        37.5,
-        22.0,
-        38.0
+        21.8194612,
+        37.5925617,
+        21.8244232,
+        37.6198609
     ],
     "connections": [],
     "connectsWith": [
@@ -53,36 +53,60 @@
                 "coordinates": [
                     [
                         [
-                            21.5,
-                            37.5
+                            21.8204579,
+                            37.5925617
                         ],
                         [
-                            21.5,
-                            38.0
+                            21.8201541,
+                            37.5935743
                         ],
                         [
-                            22.0,
-                            38.0
+                            21.8194612,
+                            37.6124082
                         ],
                         [
-                            22.0,
-                            37.5
+                            21.8196004,
+                            37.6198609
                         ],
                         [
-                            21.5,
-                            37.5
+                            21.8199593,
+                            37.6194489
+                        ],
+                        [
+                            21.8222855,
+                            37.6161155
+                        ],
+                        [
+                            21.8223595,
+                            37.6158503
+                        ],
+                        [
+                            21.8243285,
+                            37.6068427
+                        ],
+                        [
+                            21.8244232,
+                            37.6028741
+                        ],
+                        [
+                            21.8243434,
+                            37.6024081
+                        ],
+                        [
+                            21.8204579,
+                            37.5925617
                         ]
                     ]
                 ],
                 "type": "Polygon"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-ladonas",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570409/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/570409/osm-location-of-ladonas",
+                "location_precision": "precise",
+                "snippet": "River; AD 2000 - AD 2099",
+                "title": "OSM location of Ladonas"
             },
             "type": "Feature"
         }
@@ -118,69 +142,84 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-20T20:49:41Z",
+            "contributors": [],
+            "created": "2020-01-12T19:31:38Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap.",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            21.5,
-                            37.5
+                            21.8204579,
+                            37.5925617
                         ],
                         [
-                            21.5,
-                            38.0
+                            21.8201541,
+                            37.5935743
                         ],
                         [
-                            22.0,
-                            38.0
+                            21.8194612,
+                            37.6124082
                         ],
                         [
-                            22.0,
-                            37.5
+                            21.8196004,
+                            37.6198609
                         ],
                         [
-                            21.5,
-                            37.5
+                            21.8199593,
+                            37.6194489
+                        ],
+                        [
+                            21.8222855,
+                            37.6161155
+                        ],
+                        [
+                            21.8223595,
+                            37.6158503
+                        ],
+                        [
+                            21.8243285,
+                            37.6068427
+                        ],
+                        [
+                            21.8244232,
+                            37.6028741
+                        ],
+                        [
+                            21.8243434,
+                            37.6024081
+                        ],
+                        [
+                            21.8204579,
+                            37.5925617
                         ]
                     ]
                 ],
@@ -188,24 +227,41 @@
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:30:46Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2020-01-12T19:32:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-01-12T19:31:38Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-ladonas",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 B2 Ladon/Selleis fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 151254829, version 2, osm:changeset=70576787, 2019-05-24T08:04:06Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/151254829",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 151254829",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=151254829",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570409/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Ladonas",
+            "uri": "https://pleiades.stoa.org/places/570409/osm-location-of-ladonas"
         }
     ],
     "names": [
@@ -385,8 +441,8 @@
         }
     ],
     "reprPoint": [
-        21.75,
-        37.75
+        21.821843915270417,
+        37.606674757095966
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

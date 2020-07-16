@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        15.0,
-        40.0,
-        15.5,
-        40.5
+        15.2684341,
+        40.0314331,
+        15.2684341,
+        40.0314331
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,38 +49,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            40.0
-                        ],
-                        [
-                            15.0,
-                            40.5
-                        ],
-                        [
-                            15.5,
-                            40.5
-                        ],
-                        [
-                            15.5,
-                            40.0
-                        ],
-                        [
-                            15.0,
-                            40.0
-                        ]
-                    ]
+                    15.2684341,
+                    40.0314331
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/452399/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/452399/osm-location",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 1700 - AD 2100",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
@@ -116,94 +96,87 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-10-04T18:05:41Z",
+            "contributors": [],
+            "created": "2014-12-22T16:17:10Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            40.0
-                        ],
-                        [
-                            15.0,
-                            40.5
-                        ],
-                        [
-                            15.5,
-                            40.5
-                        ],
-                        [
-                            15.5,
-                            40.0
-                        ],
-                        [
-                            15.0,
-                            40.0
-                        ]
-                    ]
+                    15.2684341,
+                    40.0314331
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:14:58Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2019-03-24T01:22:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-12-22T16:17:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-12-22T16:17:17Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 46 B1 Palinurus Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1747505341, version 1, osm:changeset=11558113, 2012-05-10T12:07:35Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1747505341",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1747505341",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=1747505341",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/452399/batlas-location"
+            "start": 1700,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/452399/osm-location"
         }
     ],
     "names": [
@@ -338,13 +311,13 @@
         }
     ],
     "reprPoint": [
-        15.25,
-        40.25
+        15.2684341,
+        40.0314331
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Palinurus Pr.",
+    "title": "Palinurus (promontory)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/452399"
 }

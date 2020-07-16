@@ -1,61 +1,75 @@
 {
     "@type": "Place",
     "bbox": [
-        25.3107991,
+        25.362928,
         42.612271,
         25.362928,
-        42.6272729
+        42.612271
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "capital",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/capital",
             "connectsTo": "https://pleiades.stoa.org/places/216906",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:36:30Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "changed cnxn type",
+                    "modified": "2019-08-24T23:08:39Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "216906",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Odrysae",
+            "title": "Odrysae (region)",
             "uri": "https://pleiades.stoa.org/places/216981/216906"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/216906"
+        "https://pleiades.stoa.org/places/216906",
+        "https://pleiades.stoa.org/places/585148249",
+        "https://pleiades.stoa.org/places/405244946",
+        "https://pleiades.stoa.org/places/954272213"
     ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
         {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -65,13 +79,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-08T00:02:33Z",
@@ -81,7 +97,7 @@
             "username": null
         }
     ],
-    "description": "Seuthopolis was an ancient Thracian city that followed Hellenistic paradigms in terms of city planning. The city was founded by the Thracian king Seuthes III in the late fourth century BC and served as the capital of the Odrysian kingdom. Located near the modern city of  Казанлъ̀к (Kazanlak) in Bulgaria, the site was excavated in the 1940s and subsequently submerged by the filling of the Koprinka reservoir.",
+    "description": "Seuthopolis was an ancient Thracian city that followed Hellenistic paradigms in terms of city planning. The city was founded by the Thracian king Seuthes III in the late fourth century BC and served as the capital of the Odrysian kingdom. Located near the modern city of Казанлъ̀к (Kazanlak) in Bulgaria, the site was excavated in the 1940s and subsequently submerged by the filling of the Koprinka reservoir.",
     "details": "The Barrington Atlas Directory notes: BUL",
     "features": [
         {
@@ -99,24 +115,6 @@
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - 30 BC",
                 "title": "DARMC location 14697"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    25.3107991,
-                    42.6272729
-                ],
-                "type": "Point"
-            },
-            "id": "location-of-41a438448430442430-tumulus",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/216981/location-of-41a438448430442430-tumulus",
-                "location_precision": "precise",
-                "snippet": "Tumulus, ; 330 BC - 30 BC",
-                "title": "location of Кишата tumulus"
             },
             "type": "Feature"
         }
@@ -183,6 +181,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
+            "accuracy_value": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -260,87 +259,6 @@
             "start": -330,
             "title": "DARMC location 14697",
             "uri": "https://pleiades.stoa.org/places/216981/darmc-location-14697"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-06-09T17:45:44Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": -30,
-            "featureType": [
-                "tumulus",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tumulus",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    25.3107991,
-                    42.6272729
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "added location",
-                    "modified": "2013-06-09T17:46:34Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-06-09T17:45:48Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "location-of-41a438448430442430-tumulus",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tumulus",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Way 203393598, version 2, osm:changeset=14840327, 2013-01-29T21:18:02Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/203393598",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 203393598",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "osm:way=203393598",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "location of Кишата tumulus",
-            "uri": "https://pleiades.stoa.org/places/216981/location-of-41a438448430442430-tumulus"
         }
     ],
     "names": [
@@ -404,12 +322,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "settlement",
-        "tumulus"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 22 C6 Seuthopolis",
     "references": [
@@ -459,8 +375,8 @@
         }
     ],
     "reprPoint": [
-        25.33686355,
-        42.61977195
+        25.362928,
+        42.612271
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

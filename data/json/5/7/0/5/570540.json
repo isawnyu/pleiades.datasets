@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.0,
-        37.5,
-        22.5,
-        38.0
+        22.2522179,
+        37.839724,
+        22.2522179,
+        37.839724
     ],
     "connections": [
         {
@@ -81,38 +81,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.0,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.5
-                        ]
-                    ]
+                    22.2522179,
+                    37.839724
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-saitas",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570540/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/570540/osm-location-of-saitas",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "OSM location of Saitas"
             },
             "type": "Feature"
         }
@@ -148,94 +128,82 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-09-20T20:52:21Z",
+            "contributors": [],
+            "created": "2018-09-14T02:20:05Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.0,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.5
-                        ]
-                    ]
+                    22.2522179,
+                    37.839724
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:32:05Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2018-09-14T02:20:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-09-14T02:20:06Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-saitas",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 C2 Oryx(is) M.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 26864514, version 2, osm:changeset=155339, 2008-08-09T18:40:00Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/26864514",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26864514",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:node=26864514",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570540/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Saitas",
+            "uri": "https://pleiades.stoa.org/places/570540/osm-location-of-saitas"
         }
     ],
     "names": [
@@ -382,13 +350,13 @@
         }
     ],
     "reprPoint": [
-        22.25,
-        37.75
+        22.2522179,
+        37.839724
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Oryx(is) M.",
+    "title": "Oryx(is) (mountain)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/570540"
 }

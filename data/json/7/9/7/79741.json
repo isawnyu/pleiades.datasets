@@ -160,6 +160,44 @@
                 "coordinates": [
                     [
                         [
+                            -2.6436444,
+                            52.6736249
+                        ],
+                        [
+                            -2.6450177,
+                            52.6738786
+                        ],
+                        [
+                            -2.6445757,
+                            52.674641
+                        ],
+                        [
+                            -2.6432453,
+                            52.6743873
+                        ],
+                        [
+                            -2.6436444,
+                            52.6736249
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-wroxeter-roman-city",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/79741/osm-location-of-wroxeter-roman-city",
+                "location_precision": "precise",
+                "snippet": "Settlement; AD 43 - AD 410",
+                "title": "OSM location of Wroxeter Roman City"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
                             -2.648714,
                             52.668877,
                             0.0
@@ -228,13 +266,13 @@
                 ],
                 "type": "Polygon"
             },
-            "id": "boundary-of-city-walls-approx",
+            "id": "imagery-boundary-of-city-walls-approx",
             "properties": {
                 "description": "From mid-first century to fifth century",
-                "link": "https://pleiades.stoa.org/places/79741/boundary-of-city-walls-approx",
+                "link": "https://pleiades.stoa.org/places/79741/imagery-boundary-of-city-walls-approx",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Boundary of city walls (approx.)"
+                "title": "Imagery Location: Boundary of city walls (approx.)"
             },
             "type": "Feature"
         }
@@ -330,7 +368,107 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "contributors": [],
+            "created": "2020-04-03T14:51:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.6436444,
+                            52.6736249
+                        ],
+                        [
+                            -2.6450177,
+                            52.6738786
+                        ],
+                        [
+                            -2.6445757,
+                            52.674641
+                        ],
+                        [
+                            -2.6432453,
+                            52.6743873
+                        ],
+                        [
+                            -2.6436444,
+                            52.6736249
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-04-03T14:51:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-04-03T14:51:25Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-wroxeter-roman-city",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Way 127046140, version 6, osm:changeset=67862039, 2019-03-06T22:51:30Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/127046140",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 127046140",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=127046140",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 43,
+            "title": "OSM location of Wroxeter Roman City",
+            "uri": "https://pleiades.stoa.org/places/79741/osm-location-of-wroxeter-roman-city"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -451,7 +589,7 @@
                     "modifiedBy": "sarcanon"
                 }
             ],
-            "id": "boundary-of-city-walls-approx",
+            "id": "imagery-boundary-of-city-walls-approx",
             "locationType": [
                 "representative"
             ],
@@ -474,8 +612,8 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Boundary of city walls (approx.)",
-            "uri": "https://pleiades.stoa.org/places/79741/boundary-of-city-walls-approx"
+            "title": "Imagery Location: Boundary of city walls (approx.)",
+            "uri": "https://pleiades.stoa.org/places/79741/imagery-boundary-of-city-walls-approx"
         }
     ],
     "names": [
@@ -756,8 +894,8 @@
         }
     ],
     "reprPoint": [
-        -2.643496346956299,
-        52.67484522581304
+        -2.643811106038169,
+        52.674487591595025
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

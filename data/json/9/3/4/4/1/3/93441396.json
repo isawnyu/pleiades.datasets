@@ -30,10 +30,17 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 }
             ],
-            "connectionType": "bounds",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/bounds",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/59838",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2017-11-21T18:52:05Z",
             "creators": [
                 {
@@ -47,6 +54,11 @@
             "details": "",
             "end": -1000,
             "history": [
+                {
+                    "comment": "ctype: on",
+                    "modified": "2019-08-29T16:07:02Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2017-11-21T18:52:35Z",
@@ -216,6 +228,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",

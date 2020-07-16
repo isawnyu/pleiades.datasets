@@ -11,23 +11,36 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/550871",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:34:32Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "changed cnxn type",
+                    "modified": "2020-02-07T03:20:54Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "550871",
             "provenance": "Pleiades",
             "references": [],
@@ -38,7 +51,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/550871"
+        "https://pleiades.stoa.org/places/550871",
+        "https://pleiades.stoa.org/places/550929"
     ],
     "contributors": [
         {
@@ -158,6 +172,7 @@
         {
             "@type": "Location",
             "accuracy": null,
+            "accuracy_value": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",

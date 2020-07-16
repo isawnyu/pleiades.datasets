@@ -1,12 +1,60 @@
 {
     "@type": "Place",
     "bbox": [
-        15.268779,
-        40.246422,
-        15.268779,
-        40.246422
+        15.2742599,
+        40.2561911,
+        15.2774844,
+        40.2595116
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
+            "connectsTo": "https://pleiades.stoa.org/places/452488",
+            "contributors": [],
+            "created": "2020-05-17T16:04:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-05-17T16:04:51Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "velia-elea",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.persee.fr/doc/mefr_0223-5102_1983_num_95_1_1368",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T6IRM678",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Greco, E., and A. Schnapp. “Moio della Civitella et le territoire de Velia. Les forteresses et l’histoire de la Lucanie.” In <i>Mélanges de l’Ecole française de Rome. Antiquité, 95.1983</i>, 381–415, Abb, 1983. https://www.persee.fr/doc/mefr_0223-5102_1983_num_95_1_1368.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Greco 1983",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Velia/Elea",
+            "uri": "https://pleiades.stoa.org/places/442661/velia-elea"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/452488"
     ],
@@ -55,23 +103,88 @@
         {
             "geometry": {
                 "coordinates": [
-                    15.268779,
-                    40.246422
+                    [
+                        [
+                            15.2759915,
+                            40.2561911
+                        ],
+                        [
+                            15.2755715,
+                            40.2563909
+                        ],
+                        [
+                            15.275224,
+                            40.2566841
+                        ],
+                        [
+                            15.2746481,
+                            40.2573554
+                        ],
+                        [
+                            15.2744659,
+                            40.2575781
+                        ],
+                        [
+                            15.2743672,
+                            40.257778
+                        ],
+                        [
+                            15.2742599,
+                            40.2581283
+                        ],
+                        [
+                            15.2749181,
+                            40.2590404
+                        ],
+                        [
+                            15.2757936,
+                            40.2595116
+                        ],
+                        [
+                            15.2763086,
+                            40.2593024
+                        ],
+                        [
+                            15.2774844,
+                            40.2571208
+                        ],
+                        [
+                            15.2773847,
+                            40.25693
+                        ],
+                        [
+                            15.2770328,
+                            40.2565763
+                        ],
+                        [
+                            15.2766428,
+                            40.2563225
+                        ],
+                        [
+                            15.2759915,
+                            40.2561911
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-18626",
+            "id": "osm-location-of-parco-archeologico-della-civitella",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/442661/darmc-location-18626",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/442661/osm-location-of-parco-archeologico-della-civitella",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "DARMC location 18626"
+                "snippet": "Settlement; 750 BC - AD 300",
+                "title": "OSM location of Parco archeologico della Civitella"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
+            "modified": "2020-05-19T07:59:41Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2020-05-17T16:02:40Z",
@@ -122,8 +235,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -152,76 +266,129 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-31T20:57:47Z",
+            "contributors": [],
+            "created": "2020-05-17T15:57:57Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18626",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    15.268779,
-                    40.246422
+                    [
+                        [
+                            15.2759915,
+                            40.2561911
+                        ],
+                        [
+                            15.2755715,
+                            40.2563909
+                        ],
+                        [
+                            15.275224,
+                            40.2566841
+                        ],
+                        [
+                            15.2746481,
+                            40.2573554
+                        ],
+                        [
+                            15.2744659,
+                            40.2575781
+                        ],
+                        [
+                            15.2743672,
+                            40.257778
+                        ],
+                        [
+                            15.2742599,
+                            40.2581283
+                        ],
+                        [
+                            15.2749181,
+                            40.2590404
+                        ],
+                        [
+                            15.2757936,
+                            40.2595116
+                        ],
+                        [
+                            15.2763086,
+                            40.2593024
+                        ],
+                        [
+                            15.2774844,
+                            40.2571208
+                        ],
+                        [
+                            15.2773847,
+                            40.25693
+                        ],
+                        [
+                            15.2770328,
+                            40.2565763
+                        ],
+                        [
+                            15.2766428,
+                            40.2563225
+                        ],
+                        [
+                            15.2759915,
+                            40.2561911
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:09:49Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2020-05-17T15:58:31Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T20:57:48Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-05-17T15:57:58Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18626",
+            "id": "osm-location-of-parco-archeologico-della-civitella",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 18626",
+            "provenance": "OpenStreetMap (Way 504637243, version 1, osm:changeset=49996151, 2017-07-03T00:01:03Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/504637243",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18626",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 504637243",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18626.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=504637243",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 18626",
-            "uri": "https://pleiades.stoa.org/places/442661/darmc-location-18626"
+            "title": "OSM location of Parco archeologico della Civitella",
+            "uri": "https://pleiades.stoa.org/places/442661/osm-location-of-parco-archeologico-della-civitella"
         }
     ],
     "names": [],
@@ -298,11 +465,22 @@
             "otherIdentifier": "",
             "shortTitle": "Greco 1983",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18626",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        15.268779,
-        40.246422
+        15.275865385206718,
+        40.25777855358594
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

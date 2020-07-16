@@ -11,10 +11,17 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
             "connectsTo": "https://pleiades.stoa.org/places/942998",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-12-24T18:16:32Z",
             "creators": [
                 {
@@ -29,6 +36,16 @@
             "end": null,
             "history": [
                 {
+                    "comment": "BAtlas reference",
+                    "modified": "2019-07-21T20:12:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "ctype: part of (topographic)",
+                    "modified": "2019-07-21T19:21:58Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Added Connection to main place",
                     "modified": "2016-12-24T18:16:33Z",
                     "modifiedBy": "rmhorne"
@@ -36,7 +53,19 @@
             ],
             "id": "sadd-i-eskandar-sadd-i-anushirvan-qizil-alan",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "96 C2 Sadd-i Eskandar/Sadd-i Anushirvan/Qizil Alan",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Sadd-i Eskandar/Sadd-i Anushirvan/Qizil Alan",
@@ -57,21 +86,27 @@
         },
         {
             "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2016-12-24T18:16:01Z",
@@ -98,7 +133,7 @@
             },
             "id": "darmc-location-32245",
             "properties": {
-                "description": "  scale point location",
+                "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/963101059/darmc-location-32245",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
@@ -139,6 +174,7 @@
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
+            "accuracy_value": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -193,7 +229,7 @@
                     "username": null
                 }
             ],
-            "description": "  scale point location",
+            "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 32245",
             "end": 640,
             "featureType": [
