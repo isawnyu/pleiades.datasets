@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        34.853754,
-        31.585075,
-        34.853754,
-        31.585075
+        34.8491898,
+        31.5655212,
+        34.8491898,
+        31.5655212
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/687934"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -25,15 +27,21 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Jamie Novotny",
+            "uri": "https://pleiades.stoa.org/author/jnovotny",
+            "username": "jnovotny"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2009-09-17T12:33:18Z",
@@ -44,28 +52,38 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 70 F2 Lachish",
-    "details": "The Barrington Atlas Directory notes: el Qubeibe",
+    "details": "<p>The Barrington Atlas Directory notes: el Qubeibe</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    34.853754,
-                    31.585075
+                    34.8491898,
+                    31.5655212
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-6421",
+            "id": "osm-location-of-tel-lakhish",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/687951/darmc-location-6421",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/687951/osm-location-of-tel-lakhish",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 6421"
+                "snippet": "Settlement; 330 BC - AD 640",
+                "title": "OSM location of Tel Lakhish"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2020-07-30T20:58:05Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "references",
+            "modified": "2020-07-30T16:48:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2019-01-30T17:54:11Z",
@@ -96,9 +114,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -121,72 +139,69 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:27:19Z",
+            "contributors": [],
+            "created": "2020-07-30T16:50:47Z",
             "creators": [
                 {
-                    "name": "B. Isaac",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 6421",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    34.853754,
-                    31.585075
+                    34.8491898,
+                    31.5655212
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:55:17Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2020-07-30T16:51:23Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:27:20Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-07-30T16:50:47Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-6421",
+            "id": "osm-location-of-tel-lakhish",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 6421",
+            "provenance": "OpenStreetMap (Node 278477408, version 7, osm:changeset=88744434, 2020-07-30T16:50:05Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/278477408",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "6421",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 278477408",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6421.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=278477408",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 6421",
-            "uri": "https://pleiades.stoa.org/places/687951/darmc-location-6421"
+            "title": "OSM location of Tel Lakhish",
+            "uri": "https://pleiades.stoa.org/places/687951/osm-location-of-tel-lakhish"
         }
     ],
     "names": [
@@ -259,6 +274,63 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/687951/lachish"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2020-07-30T13:32:12Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "Name of the city Lachish in an inscription of the seventh-century-BC Assyrian king Sennacherib; the name appears in a short epigraph lining the wall of a room in the Southwest Palace at Nineveh.",
+            "details": "",
+            "end": -540,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-07-30T13:32:12Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "lakisu",
+            "language": "akk",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/230137758",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZZYLSAR5",
+                    "citationDetail": "153",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, Dietz Otto Edzard, Brigitte Groneberg, Ḫālid Nāšif, Giuseppe F Del Monte, Ran Zadok, et al. <i>Répertoire géographique des textes cunéiformes 7,1 7,1</i>. Tübinger Atlas des Vorderen Orients / Beihefte / B, 7,7,1. Wiesbaden: Reichert, 2007. http://www.worldcat.org/oclc/230137758.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Bagg, RGTC 7/1",
+                    "type": "cites"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Lakisu",
+            "start": -720,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/687951/lakisu"
         }
     ],
     "placeTypeURIs": [
@@ -270,14 +342,14 @@
     "provenance": "Barrington Atlas: BAtlas 70 F2 Lachish",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "70 F2 Lachish",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 70 F2 Lachish",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -294,18 +366,40 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Iudaea-169",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8GF4B886",
+            "citationDetail": "169",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "TIR Iudaea 169",
+            "formattedCitation": "<div class=\"csl-entry\">Tsafrir, Yoram, L Di Segni, and Judith Green. <i>Tabula Imperii Romani: Iudaea - Palaestina</i>. Jerusalem: Israel Academy of Sciences and Humanities; Akademyah ha-le’umit ha-Yišre’elit le-mada‘im; Agudah le-seker arkhe’ologi shel Yišra’el; Israel: Agaf ha-medidot, 1994.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Iudaea",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Tel_Lachish",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Tel Lachish",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "6421",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        34.853754,
-        31.585075
+        34.8491898,
+        31.5655212
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
