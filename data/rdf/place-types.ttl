@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2020/07/26 06:47:49.068170 GMT-4
+# Date: 2020/08/02 06:47:49.340389 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 665
+# Triple count: 671
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -660,6 +660,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "taberna, shop"@en;
     skos:scopeNote "A taberna is a Roman single room shop most often covered by a barrel vault, as described in http://en.wikipedia.org/wiki/Taberna."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/tell> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tell>,
+        <http://vocab.getty.edu/aat/300008545>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "tell"@en;
+    skos:scopeNote "A tell as defined by the Getty Art and Architecture Thesaurus: Artificial mounds consisting of the accumulation of debris from successive settlement levels; common in regions where mud brick is used."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/temple> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/temple>;
