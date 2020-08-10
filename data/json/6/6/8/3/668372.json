@@ -3,28 +3,77 @@
     "bbox": [
         35.9846043,
         34.7068846,
-        36.007811,
-        34.726216
+        35.9878486,
+        34.7097612
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-1st-millennium-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-1st-millennium-mesopotamia"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                }
+            ],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/660988416",
+            "contributors": [],
+            "created": "2020-08-06T08:19:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "Ṣimirra is a city in Philistia.",
+            "details": "",
+            "end": -540,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-08-06T08:19:01Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "philistia-region",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/230137758",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZZYLSAR5",
+                    "citationDetail": "231-232",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, Dietz Otto Edzard, Brigitte Groneberg, Ḫālid Nāšif, Giuseppe F Del Monte, Ran Zadok, et al. <i>Répertoire géographique des textes cunéiformes 7,1 7,1</i>. Tübinger Atlas des Vorderen Orients / Beihefte / B, 7,7,1. Wiesbaden: Reichert, 2007. http://www.worldcat.org/oclc/230137758.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Bagg, RGTC 7/1",
+                    "type": "cites"
+                }
+            ],
+            "review_state": "published",
+            "start": -1000,
+            "title": "Philistia (region)",
+            "uri": "https://pleiades.stoa.org/places/668372/philistia-region"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/660988416"
+    ],
     "contributors": [
         {
-            "name": "DARMC",
-            "username": null
-        },
-        {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Ryan Horne",
-            "uri": "https://pleiades.stoa.org/author/rmhorne",
-            "username": "rmhorne"
-        },
-        {
-            "name": "R. Warner",
             "username": null
         },
         {
@@ -35,15 +84,35 @@
         },
         {
             "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "Jamie Novotny",
+            "uri": "https://pleiades.stoa.org/author/jnovotny",
+            "username": "jnovotny"
         },
         {
             "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Warner",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         }
     ],
     "created": "2009-10-19T12:24:18Z",
@@ -58,26 +127,8 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 68 B4 Simyra?",
-    "details": "The Barrington Atlas Directory notes: Tell Kazel",
+    "details": "<p>The Barrington Atlas Directory notes: Tell Kazel</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    36.007811,
-                    34.726216
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-14753",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/668372/darmc-location-14753",
-                "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 14753"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -163,6 +214,21 @@
     ],
     "history": [
         {
+            "comment": "DARMC 14753",
+            "modified": "2020-08-06T14:59:02Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added TM GEO ID 37581: Simyra (Tell Kazel) + GeoNames",
+            "modified": "2020-08-06T14:56:48Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2020-08-06T14:55:06Z",
+            "modifiedBy": "jbecker"
+        },
+        {
             "comment": "references",
             "modified": "2017-05-31T13:25:24Z",
             "modifiedBy": "jbecker"
@@ -190,104 +256,6 @@
     ],
     "id": "668372",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T22:18:12Z",
-            "creators": [
-                {
-                    "name": "J.P. Brown",
-                    "username": null
-                },
-                {
-                    "name": "P.-L. Gatier",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 14753",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    36.007811,
-                    34.726216
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:46:32Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T22:18:13Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-14753",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 14753",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "14753",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 14753.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 14753",
-            "uri": "https://pleiades.stoa.org/places/668372/darmc-location-14753"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
@@ -534,6 +502,246 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/668372/simyra"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-1st-millennium-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-1st-millennium-mesopotamia"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2020-08-06T07:59:27Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "Name of Simyra in eighth- and seventh-century-BC Assyrian sources, including royal inscriptions of the kings Tiglath-pileser III (r. 745-727 BC) and Sargon II (r. 721-705 BC).",
+            "details": "",
+            "end": -540,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-08-06T07:59:28Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "simirra",
+            "language": "akk",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/230137758",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZZYLSAR5",
+                    "citationDetail": "231-232",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, Dietz Otto Edzard, Brigitte Groneberg, Ḫālid Nāšif, Giuseppe F Del Monte, Ran Zadok, et al. <i>Répertoire géographique des textes cunéiformes 7,1 7,1</i>. Tübinger Atlas des Vorderen Orients / Beihefte / B, 7,7,1. Wiesbaden: Reichert, 2007. http://www.worldcat.org/oclc/230137758.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Bagg, RGTC 7/1",
+                    "type": "cites"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ṣimirra",
+            "start": -1000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/668372/simirra"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2020-08-06T08:02:12Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "Ethnic name used to designate a person from Simyra in Neo-Assyrian administrative texts and letters.",
+            "details": "",
+            "end": -540,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-08-06T08:02:13Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "simi-r-raja",
+            "language": "akk",
+            "nameType": "ethnic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/230137758",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZZYLSAR5",
+                    "citationDetail": "231-232",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, Dietz Otto Edzard, Brigitte Groneberg, Ḫālid Nāšif, Giuseppe F Del Monte, Ran Zadok, et al. <i>Répertoire géographique des textes cunéiformes 7,1 7,1</i>. Tübinger Atlas des Vorderen Orients / Beihefte / B, 7,7,1. Wiesbaden: Reichert, 2007. http://www.worldcat.org/oclc/230137758.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Bagg, RGTC 7/1",
+                    "type": "cites"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ṣimi(r)rāja, Ṣimi(r)rāya",
+            "start": -720,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/668372/simi-r-raja"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-1st-millennium-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-1st-millennium-mesopotamia"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2020-08-06T08:11:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "Name of Simyra in eighth- and seventh-century-BC Assyrian sources, including royal inscriptions of Tiglath-pileser III (r. 745-727 BC).",
+            "details": "",
+            "end": -540,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-08-06T08:11:47Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "simira",
+            "language": "akk",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/230137758",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZZYLSAR5",
+                    "citationDetail": "231-232",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, Dietz Otto Edzard, Brigitte Groneberg, Ḫālid Nāšif, Giuseppe F Del Monte, Ran Zadok, et al. <i>Répertoire géographique des textes cunéiformes 7,1 7,1</i>. Tübinger Atlas des Vorderen Orients / Beihefte / B, 7,7,1. Wiesbaden: Reichert, 2007. http://www.worldcat.org/oclc/230137758.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Bagg, RGTC 7/1",
+                    "type": "cites"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ṣimira, Ṣimera",
+            "start": -1000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/668372/simira"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2020-08-06T08:15:55Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "Name of Simyra in seventh-century-BC Assyrian sources.",
+            "details": "",
+            "end": -540,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-08-06T08:15:56Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "simir",
+            "language": "akk",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/230137758",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZZYLSAR5",
+                    "citationDetail": "231-232",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "formattedCitation": "<div class=\"csl-entry\">Bagg, Ariel M, Wolfgang Röllig, Dietz Otto Edzard, Brigitte Groneberg, Ḫālid Nāšif, Giuseppe F Del Monte, Ran Zadok, et al. <i>Répertoire géographique des textes cunéiformes 7,1 7,1</i>. Tübinger Atlas des Vorderen Orients / Beihefte / B, 7,7,1. Wiesbaden: Reichert, 2007. http://www.worldcat.org/oclc/230137758.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Bagg, RGTC 7/1",
+                    "type": "cites"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ṣimir, Ṣimer",
+            "start": -720,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/668372/simir"
         }
     ],
     "placeTypeURIs": [
@@ -545,14 +753,14 @@
     "provenance": "Barrington Atlas: BAtlas 68 B4 Simyra?",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "68 B4 Simyra?",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 68 B4 Simyra?",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -578,14 +786,14 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/411193953",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/d.html#DCPP-Kazel",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WGBB9UCJ",
+            "citationDetail": "Kazel, Tell",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "DCPP Kazel, Tell",
+            "formattedCitation": "<div class=\"csl-entry\">Lipiński, Edward, ed. <i>Dictionnaire de la civilization phénicienne et punique</i>. Turnhout: Brepols, 1992. http://www.worldcat.org/oclc/411193953.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "DCPP",
             "type": "seeFurther"
         },
         {
@@ -620,11 +828,44 @@
             "otherIdentifier": "",
             "shortTitle": "Tell Kazel-Simyra",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/37581",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 37581: Simyra (Tell Kazel)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.geonames.org/163525/tall-kazal.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "163525: Tall Kazal",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "GeoNames",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "14753",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.99702603236059,
-        34.71734110426824
+        35.98624106472118,
+        34.70846620853648
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

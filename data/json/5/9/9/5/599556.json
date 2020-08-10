@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        27.454423,
-        38.005618,
-        27.454423,
-        38.005618
+        27.4719282,
+        38.0144966,
+        27.4723843,
+        38.0148792
     ],
     "connections": [],
     "connectsWith": [],
@@ -36,7 +36,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T09:04:22Z",
+    "created": "2020-07-23T17:28:24Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -47,29 +47,69 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 61 E1 Belevi (1)",
-    "details": "<p>The Barrington Atlas Directory notes: Belevi, quarries</p>",
+    "description": "A monumental Hellenistic tomb located at the modern Turkish village of Belevi (11km northeast of ancient Ephesus). The tomb may have been prepared for either Antigonus Monophthalmus or Lysimachus. The Seleucid king Antiochus II Theos may have been buried there subsequently.",
+    "details": "<p>The <em>Barrington Atlas</em> (Map 61 E1) treated both the mausoleum and the nearby tumulus with a single entry. This <em>Pleiades</em> resource corresponds specifically to the mausoleum. A separate place resource has been created for the <a class=\"external-link\" href=\"../957064614\" target=\"_self\" title=\"\">Belevi Tumulus</a>. Note also the <a class=\"external-link\" href=\"../599555\" target=\"_self\" title=\"\">Belevi Quarry</a>.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    27.454423,
-                    38.005618
+                    [
+                        [
+                            27.4720536,
+                            38.0144966
+                        ],
+                        [
+                            27.4719282,
+                            38.014792
+                        ],
+                        [
+                            27.4722589,
+                            38.0148792
+                        ],
+                        [
+                            27.4723843,
+                            38.0145838
+                        ],
+                        [
+                            27.4720536,
+                            38.0144966
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-25905",
+            "id": "osm-location-of-belevi-mausoleum",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/599556/darmc-location-25905",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/599556/osm-location-of-belevi-mausoleum",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 550 BC",
-                "title": "DARMC location 25905"
+                "snippet": "Tomb; 330 BC - 30 BC",
+                "title": "OSM location of Belevi Mausoleum"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2020-07-24T22:26:55Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added summary; edited title; added details, with links to other components; fixed Praschniker reference page numbers; added Livius article reference; cleaned up PECS reference",
+            "modified": "2020-07-24T22:08:50Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2020-07-23T17:28:23Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "references",
+            "modified": "2020-07-23T15:03:52Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2016-08-01T00:30:37Z",
@@ -110,89 +150,145 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-08-17T22:17:08Z",
+            "created": "2015-04-05T16:36:19Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 25905",
-            "end": -550,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": -30,
             "featureType": [
-                "unknown"
+                "tomb"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "geometry": {
                 "coordinates": [
-                    27.454423,
-                    38.005618
+                    [
+                        [
+                            27.4720536,
+                            38.0144966
+                        ],
+                        [
+                            27.4719282,
+                            38.014792
+                        ],
+                        [
+                            27.4722589,
+                            38.0148792
+                        ],
+                        [
+                            27.4723843,
+                            38.0145838
+                        ],
+                        [
+                            27.4720536,
+                            38.0144966
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:57:07Z",
-                    "modifiedBy": "admin"
+                    "comment": "updated provenance to reflect new import of geometry",
+                    "modified": "2020-07-24T22:11:38Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-17T22:17:09Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "re-imported polygon geometry",
+                    "modified": "2020-07-24T22:10:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2020-07-23T15:01:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-08-01T00:31:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added reference",
+                    "modified": "2015-04-05T16:39:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2015-04-05T16:36:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-04-05T16:36:22Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-25905",
+            "id": "osm-location-of-belevi-mausoleum",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
-            "provenance": "DARMC OBJECTID: 25905",
+            "provenance": "OpenStreetMap (Way 336864753, version 2, osm:changeset=63641611, 2018-10-18T11:45:32Z) ",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/336864753",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "25905",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 336864753",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 25905.",
+                    "formattedCitation": "osm:way=336864753",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.livius.org/be-bm/belevi/belevi.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "Livius.org: The Belevi Mausoleum",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 25905",
-            "uri": "https://pleiades.stoa.org/places/599556/darmc-location-25905"
+            "start": -330,
+            "title": "OSM location of Belevi Mausoleum",
+            "uri": "https://pleiades.stoa.org/places/599556/osm-location-of-belevi-mausoleum"
         }
     ],
     "names": [],
@@ -205,25 +301,25 @@
     "provenance": "Barrington Atlas: BAtlas 61 E1 Belevi",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "61 E1 Belevi",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 61 E1 Belevi",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Praschniker-1979-169",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8GC8TA4F",
+            "citationDetail": "170-71",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Praschniker 1979 169",
+            "formattedCitation": "<div class=\"csl-entry\">Praschniker, C. <i>Das Mausoleum von Belevi</i>. Forschungen in Ephesos 6. Wien: Im Selbstverlag des Österreichischen Archäologischen Institutes, 1979.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Praschniker 1979",
             "type": "seeFurther"
         },
         {
@@ -240,18 +336,51 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=belevi&highlight=belevi",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "BELEVI Ionia, Turkey",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "PECS (Perseus), BELEVI Ionia, Turkey",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1911796",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q1911796: Belevi Mausoleum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.livius.org/articles/place/belevi-mausoleum/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/726HWVKS",
+            "citationDetail": "Belevi Mausoleum",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lendering, Jona. <i>Livius - Articles on Ancient History</i>, 1995. http://www.livius.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Livius.org",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "25905",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        27.454423,
-        38.005618
+        27.472156250000005,
+        38.0146879
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -260,7 +389,7 @@
         "dare:ancient=0",
         "dare:feature=temple"
     ],
-    "title": "Belevi",
+    "title": "Belevi Mausoleum",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/599556"
 }
