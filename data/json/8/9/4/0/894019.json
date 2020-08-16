@@ -1,20 +1,27 @@
 {
     "@type": "Place",
     "bbox": [
-        43.3275,
-        36.094884,
-        43.3317193,
-        36.099167
+        43.3261798,
+        36.0950341,
+        43.3317726,
+        36.1022885
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
             "connectsTo": "https://pleiades.stoa.org/places/912964",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-10-28T13:49:26Z",
             "creators": [
                 {
@@ -28,6 +35,11 @@
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype -> near",
+                    "modified": "2020-08-15T11:12:25Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "added cnxn",
                     "modified": "2016-10-28T13:49:27Z",
@@ -137,6 +149,7 @@
         "https://pleiades.stoa.org/places/912964",
         "https://pleiades.stoa.org/places/894183",
         "https://pleiades.stoa.org/places/29492",
+        "https://pleiades.stoa.org/places/586635000",
         "https://pleiades.stoa.org/places/439136375",
         "https://pleiades.stoa.org/places/413309737"
     ],
@@ -154,6 +167,12 @@
         {
             "name": "W. Röllig",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Jamie Novotny",
+            "uri": "https://pleiades.stoa.org/author/jnovotny",
+            "username": "jnovotny"
         },
         {
             "homepage": null,
@@ -203,7 +222,7 @@
             "username": null
         }
     ],
-    "description": "An ancient Assyrian city located 20 miles south of the city of Mosul, Iraq, and now known as Nimrud. The city occupies a strategic position six miles north of the point where the Tigris river meets its tributary the Great Zab.",
+    "description": "An ancient Assyrian city located 20 miles south of the modern city of Mosul, Iraq. Known today as Nimrud, the city was called Kalhu or Calah (and possibly Larisa) in ancient sources. The city occupies a strategic position six miles north of the point where the Tigris river meets its tributary the Great Zab.",
     "details": "<p>The Barrington Atlas Directory notes: Nimrud. The name Nimrud is believed to be derived from an association with the Biblical figure \"Nimrod\" (Genesis 10:11-10:12, Micah 5:5, Chronicles 1:10). In 1850 Henry Rawlinson identified the city as the Biblical city of Calah (Kalhu, Kalakh; in Hebrew כלח and in Greek χαλαχ). The site covered an area of 360 hectares.</p>\r\n<p>The site is first mentioned under Salmanassar I (1263-1234 BC) and Aššurnaṣirpal II (883-858) would make it the capital of the Neo-Assyrian Empire following Assur.</p>",
     "features": [
         {
@@ -227,23 +246,82 @@
         {
             "geometry": {
                 "coordinates": [
-                    43.3317193,
-                    36.094884
+                    [
+                        [
+                            43.3312978,
+                            36.0950341
+                        ],
+                        [
+                            43.3300222,
+                            36.0951561
+                        ],
+                        [
+                            43.3266223,
+                            36.0962382
+                        ],
+                        [
+                            43.3261798,
+                            36.1022885
+                        ],
+                        [
+                            43.3267736,
+                            36.1022634
+                        ],
+                        [
+                            43.327538,
+                            36.1021306
+                        ],
+                        [
+                            43.3294099,
+                            36.1013975
+                        ],
+                        [
+                            43.3297408,
+                            36.1011645
+                        ],
+                        [
+                            43.33111,
+                            36.0988384
+                        ],
+                        [
+                            43.3317726,
+                            36.0969947
+                        ],
+                        [
+                            43.3312978,
+                            36.0950341
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "id": "osm-location",
             "properties": {
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/894019/osm-location",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 720 BC - 30 BC",
+                "snippet": "Settlement; 720 BC - 30 BC",
                 "title": "OSM location of Nimrud"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "reference update",
+            "modified": "2020-08-16T00:39:49Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "reference cleanup",
+            "modified": "2020-08-15T20:15:46Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "title, summary",
+            "modified": "2020-08-15T11:11:34Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2018-10-09T15:10:04Z",
@@ -427,7 +505,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2015-03-08T16:03:49Z",
             "creators": [
                 {
@@ -441,21 +526,68 @@
             "details": "",
             "end": -30,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    43.3317193,
-                    36.094884
+                    [
+                        [
+                            43.3312978,
+                            36.0950341
+                        ],
+                        [
+                            43.3300222,
+                            36.0951561
+                        ],
+                        [
+                            43.3266223,
+                            36.0962382
+                        ],
+                        [
+                            43.3261798,
+                            36.1022885
+                        ],
+                        [
+                            43.3267736,
+                            36.1022634
+                        ],
+                        [
+                            43.327538,
+                            36.1021306
+                        ],
+                        [
+                            43.3294099,
+                            36.1013975
+                        ],
+                        [
+                            43.3297408,
+                            36.1011645
+                        ],
+                        [
+                            43.33111,
+                            36.0988384
+                        ],
+                        [
+                            43.3317726,
+                            36.0969947
+                        ],
+                        [
+                            43.3312978,
+                            36.0950341
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
+                {
+                    "comment": "re-imported polygon geometry",
+                    "modified": "2020-08-15T11:07:13Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-10-28T13:47:48Z",
@@ -479,14 +611,12 @@
             ],
             "id": "osm-location",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "OpenStreetMap (Way 295528281, version 3, osm:changeset=26822206, 2014-11-16T13:54:32Z)",
+            "provenance": "OpenStreetMap (Way 295528281, version 4, osm:changeset=31016572, 2015-05-11T19:35:55Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/295528281",
@@ -982,12 +1112,24 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "middle-bronze-early-iron-age-iran",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-bronze-early-iron-age-iran"
+                    "timePeriod": "early-1st-millennium-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-1st-millennium-mesopotamia"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 }
             ],
-            "attested": null,
+            "attested": "",
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                },
                 {
                     "homepage": null,
                     "name": "Francis Deblauwe",
@@ -1001,7 +1143,7 @@
                     "username": "ekansa"
                 }
             ],
-            "created": "2013-08-22T13:10:23Z",
+            "created": "2020-08-14T12:04:44Z",
             "creators": [
                 {
                     "name": "B. Siewert-Mayer",
@@ -1016,10 +1158,20 @@
                     "username": null
                 }
             ],
-            "description": "A place name from the TAVO Index (Vol. 2, p. 843)",
+            "description": "Name of Calah (modern Nimrud) in first-millennium-BC Akkadian sources. A place name from the TAVO Index (Vol. 2, p. 843).",
             "details": "GANE OBJECT 30940",
-            "end": -650,
+            "end": -540,
             "history": [
+                {
+                    "comment": "Initial revision. Added names to title, added language, and changed dates.",
+                    "modified": "2020-08-15T11:01:04Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2020-08-14T12:04:44Z",
+                    "modifiedBy": "jnovotny"
+                },
                 {
                     "comment": "New locations, names, and places for the Ancient Near East from the Alexandria Archive Institute's GANE project: http://alexandriaarchive.org/projects/gane/.",
                     "modified": "2013-08-22T13:10:31Z",
@@ -1027,7 +1179,7 @@
                 }
             ],
             "id": "kalah",
-            "language": null,
+            "language": "akk",
             "nameType": "geographic",
             "provenance": "TAVO Index",
             "references": [
@@ -1044,8 +1196,8 @@
                 }
             ],
             "review_state": "published",
-            "romanized": "Kalaḫ",
-            "start": -2000,
+            "romanized": "Kalah, Kalaḫ, Kalakh, Kalach, Calah",
+            "start": -1000,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/894019/kalah"
@@ -1058,30 +1210,24 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "ubaid-early-dynastic-ii-mesopotamia",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ubaid-early-dynastic-ii-mesopotamia"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "later-2nd-millennium-bc-mesopotamia",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/later-2nd-millennium-bc-mesopotamia"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "neo-assyrian-babylonian-middle-east",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "middle-bronze-early-iron-age-iran",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-bronze-early-iron-age-iran"
+                    "timePeriod": "early-1st-millennium-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-1st-millennium-mesopotamia"
                 }
             ],
-            "attested": null,
+            "attested": "",
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                },
                 {
                     "homepage": null,
                     "name": "Francis Deblauwe",
@@ -1095,7 +1241,7 @@
                     "username": "ekansa"
                 }
             ],
-            "created": "2013-09-09T22:12:58Z",
+            "created": "2020-08-14T11:48:39Z",
             "creators": [
                 {
                     "name": "B. Siewert-Mayer",
@@ -1110,10 +1256,20 @@
                     "username": null
                 }
             ],
-            "description": "A place name from the TAVO Index (Vol. 2, p. 846)",
-            "details": "GANE OBJECT 31077",
+            "description": "Name of Calah (modern Nimrud) in first-millennium-BC Akkadian sources. A place name from the TAVO Index (Vol. 2, p. 846).",
+            "details": "<p>GANE OBJECT 31077</p>",
             "end": -540,
             "history": [
+                {
+                    "comment": "Initial revision; Edited. Kalakh, Kalah, Calah, Kalach removed from title as these are in other name resources. Dates changed as these do not reflect the period of the name in Akkadian sources. Duplicate https://pleiades.stoa.org/places/894019/kalhu-asyr should be retracted. https://pleiades.stoa.org/places/894019/kalhu appears to be a duplicate and it should be retracted; the dates associations with the name in that resource could also be added to this resource, however, I am unable to personally confirm that (Akkadian) Kalhu appears in cuneiform sources after 539 BC so I have not added them.",
+                    "modified": "2020-08-15T11:02:58Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2020-08-14T11:48:38Z",
+                    "modifiedBy": "jnovotny"
+                },
                 {
                     "comment": "New locations, names, and places for the Ancient Near East from the Alexandria Archive Institute's GANE project: http://alexandriaarchive.org/projects/gane/.",
                     "modified": "2013-09-09T22:13:02Z",
@@ -1160,160 +1316,11 @@
                 }
             ],
             "review_state": "published",
-            "romanized": "Kalḫu, Kalkhu, Kalakh, Kalah, Calah, Kalach",
-            "start": -5500,
+            "romanized": "Kalhu, Kalḫu, Kalkhu",
+            "start": -1000,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/894019/kalhu-akk"
-        },
-        {
-            "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "ubaid-early-dynastic-ii-mesopotamia",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ubaid-early-dynastic-ii-mesopotamia"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "later-2nd-millennium-bc-mesopotamia",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/later-2nd-millennium-bc-mesopotamia"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "neo-assyrian-babylonian-middle-east",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "middle-bronze-early-iron-age-iran",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-bronze-early-iron-age-iran"
-                }
-            ],
-            "attested": null,
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Francis Deblauwe",
-                    "uri": "https://pleiades.stoa.org/author/fdeblauwe",
-                    "username": "fdeblauwe"
-                },
-                {
-                    "homepage": null,
-                    "name": "Eric Kansa",
-                    "uri": "https://pleiades.stoa.org/author/ekansa",
-                    "username": "ekansa"
-                }
-            ],
-            "created": "2013-09-09T22:13:14Z",
-            "creators": [
-                {
-                    "name": "B. Siewert-Mayer",
-                    "username": null
-                },
-                {
-                    "name": "W. Röllig",
-                    "username": null
-                },
-                {
-                    "name": "H. Kopp",
-                    "username": null
-                }
-            ],
-            "description": "A place name from the TAVO Index (Vol. 2, p. 846)",
-            "details": "GANE OBJECT 31077",
-            "end": -540,
-            "history": [
-                {
-                    "comment": "New locations, names, and places for the Ancient Near East from the Alexandria Archive Institute's GANE project: http://alexandriaarchive.org/projects/gane/.",
-                    "modified": "2013-09-09T22:13:17Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "kalhu-asyr",
-            "language": "asyr",
-            "nameType": "geographic",
-            "provenance": "TAVO Index",
-            "references": [
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/32624915",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
-                    "formattedCitation": "TAVO Index (Vol. 2, p. 846)",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Nimrud",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Nimrud",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Nimrud.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeAlso"
-                },
-                {
-                    "accessURI": "http://www.centroscavitorino.it/en/progetti/iraq/nimrud.html",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
-                    "formattedCitation": "Centro Ricerche Archeologiche e Scavi di Torino. Nimrud (website)",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeAlso"
-                },
-                {
-                    "accessURI": "http://www.learningsites.com/NWPalace/NWPalhome.html",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
-                    "formattedCitation": "Learning Sites. The Northwest Palace of Ashur-nasir-pal II at Nimrud - An Interactive Publication - Prototype (website)",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeAlso"
-                },
-                {
-                    "accessURI": "https://fr.wikipedia.org/wiki/Kalkhu",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
-                    "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
-                    "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), .",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (French)",
-                    "type": "seeAlso"
-                },
-                {
-                    "accessURI": "https://de.wikipedia.org/wiki/Nimrud",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
-                    "citationDetail": "Nimrud",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
-                    "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Nimrud.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (German)",
-                    "type": "seeAlso"
-                }
-            ],
-            "review_state": "published",
-            "romanized": "Kalḫu, Kalkhu, Kalakh, Kalah, Calah, Kalach",
-            "start": -5500,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/894019/kalhu-asyr"
         }
     ],
     "placeTypeURIs": [
@@ -1360,12 +1367,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RLAss-Kalhu",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LCUKSJKD",
+            "citationDetail": "Kalhu",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "RLAss Kalhu",
+            "formattedCitation": "<div class=\"csl-entry\">Ebeling, Erich. <i>Reallexikon Der Assyriologie Und Vorderasiatischen Archäologie</i>. Berlin und Leipzig: W. de Gruyter &amp; Co., 1932.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "RLAss",
             "type": "seeFurther"
         },
         {
@@ -1393,12 +1400,12 @@
         {
             "accessURI": "http://www.trismegistos.org/place/37189",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 37189: Nimrud",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "TM GEO ID 37189",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "citesAsRelated"
         },
         {
@@ -1415,12 +1422,12 @@
         {
             "accessURI": "http://www.geonames.org/93006/athar-nimrud.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "93006: Āthār Nimrūd",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "GeoNames 93006",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "GeoNames",
             "type": "citesAsRelated"
         },
         {
@@ -1447,8 +1454,8 @@
         }
     ],
     "reprPoint": [
-        43.32960965,
-        36.0970255
+        43.32810289866523,
+        36.098862756344275
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -1457,7 +1464,7 @@
         "dare:major=1",
         "dare:feature=major settlement"
     ],
-    "title": "Kalhu/Calah/‘Larisa’?",
+    "title": "Nimrud",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/894019"
 }
