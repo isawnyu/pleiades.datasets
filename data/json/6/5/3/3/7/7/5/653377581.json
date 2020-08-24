@@ -1,10 +1,92 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
-    "contributors": [],
-    "created": "2018-01-13T11:33:58Z",
+    "bbox": [
+        35.4111353467,
+        36.9303120368,
+        35.4111353467,
+        36.9303120368
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                }
+            ],
+            "connectionType": "same_as",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/same_as",
+            "connectsTo": "https://pleiades.stoa.org/places/648600",
+            "contributors": [],
+            "created": "2020-08-22T14:11:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "Humē is the name used for the region of Cilicia Pedias in Neo-Babylonian sources.",
+            "details": "",
+            "end": -540,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-08-22T14:11:26Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "cilicia-pedias",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LCUKSJKD",
+                    "citationDetail": "11, 194",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Ebeling, Erich. <i>Reallexikon Der Assyriologie Und Vorderasiatischen Archäologie</i>. Berlin und Leipzig: W. de Gruyter &amp; Co., 1932.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "RLAss",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Quwê",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Quwê",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeAlso"
+                }
+            ],
+            "review_state": "published",
+            "start": -720,
+            "title": "Cilicia Pedias",
+            "uri": "https://pleiades.stoa.org/places/653377581/cilicia-pedias"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/944349915",
+        "https://pleiades.stoa.org/places/648600",
+        "https://pleiades.stoa.org/places/648548"
+    ],
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        }
+    ],
+    "created": "2020-08-22T14:12:40Z",
     "creators": [
         {
             "homepage": null,
@@ -13,10 +95,39 @@
             "username": "jnovotny"
         }
     ],
-    "description": "A region mentioned in Neo- and Late-Babylonian texts that roughly corresponds to Que in Neo-Assyrian texts; that latter place is generally identified as being in Cilicia.",
+    "description": "A country mentioned in Neo- and Late-Babylonian texts that roughly corresponds to Que (kingdom and province) and Cilicia Pedias (\"Flat Cilicia\").",
     "details": "<p>The Neo-Babylonia king Nabonidus states that 2,850 men from the land Humē were taken back to Babylon, where they performed corvée by carrying bricks.</p>",
-    "features": [],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    35.4111353467,
+                    36.9303120368
+                ],
+                "type": "Point"
+            },
+            "id": "representative-location-of-hume-cilicia-pedias",
+            "properties": {
+                "description": "Representative point for Cilicia Pedias based on the Helsinki Atlas.",
+                "link": "https://pleiades.stoa.org/places/653377581/representative-location-of-hume-cilicia-pedias",
+                "location_precision": "precise",
+                "snippet": "Region; 720 BC - 540 BC",
+                "title": "Representative location of Humē (Cilicia Pedias)"
+            },
+            "type": "Feature"
+        }
+    ],
     "history": [
+        {
+            "comment": "Adjusted summary, as well as added two references and one tag. jbecker: checked-in working copy",
+            "modified": "2020-08-22T15:01:38Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2020-08-22T14:12:40Z",
+            "modifiedBy": "jnovotny"
+        },
         {
             "comment": "Initial revision",
             "modified": "2018-01-13T11:34:11Z",
@@ -24,7 +135,99 @@
         }
     ],
     "id": "653377581",
-    "locations": [],
+    "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/helsinki-atlas",
+            "accuracy_value": 4270.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2020-08-22T13:58:28Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "Representative point for Cilicia Pedias based on the Helsinki Atlas.",
+            "details": "",
+            "end": -540,
+            "featureType": [
+                "region"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/region"
+            ],
+            "geometry": {
+                "coordinates": [
+                    35.4111353467,
+                    36.9303120368
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "adjusted reference type , edited summary",
+                    "modified": "2020-08-22T15:02:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2020-08-22T14:22:24Z",
+                    "modifiedBy": "jnovotny"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-08-22T13:58:31Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "representative-location-of-hume-cilicia-pedias",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/region"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/884661172",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DD739AA9",
+                    "citationDetail": "Map 2",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Parpola, Simo. <i>The Helsinki Atlas of the Near East in the Neo-Assyrian Period</i>. Casco Bay Assyriological Institute, 2001. http://www.worldcat.org/oclc/884661172.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Helsinki Atlas 2001",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -720,
+            "title": "Representative location of Humē (Cilicia Pedias)",
+            "uri": "https://pleiades.stoa.org/places/653377581/representative-location-of-hume-cilicia-pedias"
+        }
+    ],
     "names": [
         {
             "@type": "Name",
@@ -90,11 +293,9 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
         "https://pleiades.stoa.org/vocabularies/place-types/region"
     ],
     "placeTypes": [
-        "unlocated",
         "region"
     ],
     "provenance": "Pleiades",
@@ -109,13 +310,40 @@
             "otherIdentifier": "",
             "shortTitle": "Zadok 1985",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Quwê",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Quwê",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LCUKSJKD",
+            "citationDetail": "11, 194",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Ebeling, Erich. <i>Reallexikon Der Assyriologie Und Vorderasiatischen Archäologie</i>. Berlin und Leipzig: W. de Gruyter &amp; Co., 1932.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RLAss",
+            "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        35.4111353467,
+        36.9303120368
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
-        "ANE"
+        "ANE",
+        "Assyrian",
+        "Babylonian"
     ],
     "title": "Humē",
     "type": "FeatureCollection",
