@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        35.732805,
-        32.683121,
-        35.869215,
-        32.962668
+        35.8658039,
+        32.6795021,
+        35.8710127,
+        32.6845275
     ],
     "connections": [
         {
@@ -60,10 +60,65 @@
             "start": -330,
             "title": "Seleucid Empire",
             "uri": "https://pleiades.stoa.org/places/677992/seleucid-empire"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                }
+            ],
+            "connectionType": "capital",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/capital",
+            "connectsTo": "https://pleiades.stoa.org/places/677994",
+            "contributors": [],
+            "created": "2020-08-23T14:25:12Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -30,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-08-23T14:25:12Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "abilene",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DA%3Aentry+group%3D1%3Aentry%3Dabilene-geo",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+                    "citationDetail": "ABILÉNE",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Smith 1854 (Perseus)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -330,
+            "title": "Abilene",
+            "uri": "https://pleiades.stoa.org/places/677992/abilene"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/45635759"
+        "https://pleiades.stoa.org/places/45635759",
+        "https://pleiades.stoa.org/places/677994"
     ],
     "contributors": [
         {
@@ -110,27 +165,9 @@
             "username": null
         }
     ],
-    "description": "Abila was a Ptolemaic town located in northern Palestine. Antiochus III conquered it and Pompeius Magnus later free it in 64 B.C. Becoming autonomous thereafter, Abila became part of the Decapolis.",
+    "description": "Abila was a Ptolemaic town located in northern Palestine. Antiochus III conquered it and Pompeius Magnus later freed it in 64 B.C. Becoming autonomous thereafter, Abila became part of the Decapolis.",
     "details": "<p>The Barrington Atlas Directory notes: Tell Abil JOR</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    35.732805,
-                    32.962668
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-4879",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/677992/darmc-location-4879",
-                "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 4879"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -148,9 +185,89 @@
                 "title": "DARMC location 19921"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            35.867086,
+                            32.6795021
+                        ],
+                        [
+                            35.8660507,
+                            32.6815249
+                        ],
+                        [
+                            35.8658039,
+                            32.682297
+                        ],
+                        [
+                            35.8671665,
+                            32.6832678
+                        ],
+                        [
+                            35.8684056,
+                            32.6840308
+                        ],
+                        [
+                            35.8691459,
+                            32.6843694
+                        ],
+                        [
+                            35.869897,
+                            32.6845275
+                        ],
+                        [
+                            35.8701652,
+                            32.6844507
+                        ],
+                        [
+                            35.8704709,
+                            32.6841888
+                        ],
+                        [
+                            35.8707123,
+                            32.6838367
+                        ],
+                        [
+                            35.8708196,
+                            32.6833671
+                        ],
+                        [
+                            35.8710127,
+                            32.6799356
+                        ],
+                        [
+                            35.867086,
+                            32.6795021
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-abila-quwayliba",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/677992/osm-location-of-abila-quwayliba",
+                "location_precision": "precise",
+                "snippet": "Settlement; 330 BC - AD 640",
+                "title": "OSM location of Abila Quwayliba"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "fixed typo in summary",
+            "modified": "2020-08-24T13:30:59Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2020-08-23T10:33:38Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "wikidata",
             "modified": "2020-08-22T15:27:20Z",
@@ -209,104 +326,6 @@
     ],
     "id": "677992",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:09:33Z",
-            "creators": [
-                {
-                    "name": "J.P. Brown",
-                    "username": null
-                },
-                {
-                    "name": "E.M. Meyers",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 4879",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    35.732805,
-                    32.962668
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:47:21Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:09:34Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-4879",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 4879",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "4879",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 4879.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 4879",
-            "uri": "https://pleiades.stoa.org/places/677992/darmc-location-4879"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
@@ -404,6 +423,149 @@
             "start": -330,
             "title": "DARMC location 19921",
             "uri": "https://pleiades.stoa.org/places/677992/darmc-location-19921"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2020-08-22T15:28:52Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            35.867086,
+                            32.6795021
+                        ],
+                        [
+                            35.8660507,
+                            32.6815249
+                        ],
+                        [
+                            35.8658039,
+                            32.682297
+                        ],
+                        [
+                            35.8671665,
+                            32.6832678
+                        ],
+                        [
+                            35.8684056,
+                            32.6840308
+                        ],
+                        [
+                            35.8691459,
+                            32.6843694
+                        ],
+                        [
+                            35.869897,
+                            32.6845275
+                        ],
+                        [
+                            35.8701652,
+                            32.6844507
+                        ],
+                        [
+                            35.8704709,
+                            32.6841888
+                        ],
+                        [
+                            35.8707123,
+                            32.6838367
+                        ],
+                        [
+                            35.8708196,
+                            32.6833671
+                        ],
+                        [
+                            35.8710127,
+                            32.6799356
+                        ],
+                        [
+                            35.867086,
+                            32.6795021
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-08-22T15:29:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-08-22T15:28:52Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-abila-quwayliba",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Way 696147542, version 2, osm:changeset=89784589, 2020-08-22T15:28:23Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/696147542",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 696147542",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=696147542",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -330,
+            "title": "OSM location of Abila Quwayliba",
+            "uri": "https://pleiades.stoa.org/places/677992/osm-location-of-abila-quwayliba"
         }
     ],
     "names": [
@@ -645,11 +807,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "4879",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.80101,
-        32.822894500000004
+        35.868898652635835,
+        32.68241182288091
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
