@@ -10,29 +10,61 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "crosses",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/crosses",
             "connectsTo": "https://pleiades.stoa.org/places/383681",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:33:44Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "added ref., changed type to crosses",
+                    "modified": "2020-09-30T16:46:55Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "383681",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/YN7NPFII",
+                    "citationDetail": "",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Tozzi, P. “L’area fra Libarna e Dertona.” In <i>Libarna,</i> edited by S. Finocchi, 51–58. Castelnuovo Scrivia, 1995.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Tozzi 1995",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Ir(i)a (river)",
             "uri": "https://pleiades.stoa.org/places/385058/383681"
         }
@@ -80,7 +112,7 @@
         }
     ],
     "description": "An unnamed bridge over the Ir(i)a fl., north of Libarna.",
-    "details": "The Barrington Atlas Directory notes: over Ir(i)a fl., N Libarna",
+    "details": "<p>The Barrington Atlas Directory notes: over Ir(i)a fl., N Libarna</p>",
     "features": [
         {
             "geometry": {
@@ -102,6 +134,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2020-09-30T16:46:22Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added cnxn",
             "modified": "2015-05-18T02:13:46Z",
@@ -233,25 +270,25 @@
     "provenance": "Barrington Atlas: BAtlas 39 D4",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "39 D4",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 39 D4",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#Tozzi-1995",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/YN7NPFII",
+            "citationDetail": "56-57",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Tozzi 1995, 56-57",
+            "formattedCitation": "<div class=\"csl-entry\">Tozzi, P. “L’area fra Libarna e Dertona.” In <i>Libarna,</i> edited by S. Finocchi, 51–58. Castelnuovo Scrivia, 1995.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Tozzi 1995",
             "type": "seeFurther"
         }
     ],
