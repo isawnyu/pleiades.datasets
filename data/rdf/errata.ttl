@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2020/09/27 06:48:33.691732 GMT-4
+# Date: 2020/10/04 06:48:38.041539 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4010
+# Triple count: 4012
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -145,6 +145,7 @@
 
 <https://pleiades.stoa.org/errata/6521693551211800#this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Unnamed Place";
+    spatial:C <https://pleiades.stoa.org/places/638776#this>;
     rdfs:comment "An unnamed ancient place";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/6521693551211800> .
 
@@ -1603,6 +1604,7 @@
     dcterms:description "An unnamed ancient place";
     dcterms:modified "2012-02-14T22:36:31-04:00";
     dcterms:title "Unnamed Place";
+    rdfs:seeAlso <https://pleiades.stoa.org/places/638776>;
     owl:sameAs <http://pleiades.stoa.org/errata/6521693551211800>;
     geo:lat 36.9355;
     geo:long 31.18;
