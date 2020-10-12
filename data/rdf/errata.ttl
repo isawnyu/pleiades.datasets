@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2020/10/04 06:48:38.041539 GMT-4
+# Date: 2020/10/11 06:48:38.144784 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4012
+# Triple count: 4013
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -222,6 +222,7 @@
 
 <https://pleiades.stoa.org/errata/991318#this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Baetica";
+    spatial:C <https://pleiades.stoa.org/places/540456066#this>;
     rdfs:comment "An ancient place, cited: BAtlas 101 E4 Baetica";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/991318> .
 
@@ -1916,11 +1917,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87#A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -1939,11 +1940,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87#A4>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1957,11 +1958,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -2273,7 +2274,6 @@
 
 <https://pleiades.stoa.org/errata/991318> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    osspatial:within <http://atlantides.org/capgrids/101#E4>;
     dcterms:bibliographicCitation "";
     dcterms:contributor <http://viaf.org/viaf/51858528>,
         <http://viaf.org/viaf/59162760>,
@@ -2295,6 +2295,7 @@
     dcterms:modified "2012-07-20T13:30:33-04:00";
     dcterms:title "Baetica";
     cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/540456066>;
     owl:sameAs <http://pleiades.stoa.org/errata/991318>;
     skos:altLabel "Baetica";
     skos:inScheme <https://pleiades.stoa.org/places>;
