@@ -1,12 +1,72 @@
 {
     "@type": "Place",
     "bbox": [
-        -4.075496,
-        38.05509,
-        -4.075496,
-        38.05509
+        -4.0614776,
+        38.0330123,
+        -4.0614776,
+        38.0330123
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "crosses",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/crosses",
+            "connectsTo": "https://pleiades.stoa.org/places/256010",
+            "contributors": [],
+            "created": "2020-09-30T13:24:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2020-09-30T13:28:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-09-30T13:24:04Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "baetis-certis-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://es.wikipedia.org/wiki/Puente_de_And%C3%BAjar",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LPYQ8SZL",
+                    "citationDetail": "Puente de Andújar",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: la enciclopedia de contenido libre</i>. Wikimedia Foundation, 2001. https://es.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Spanish)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Baetis/Certis (river)",
+            "uri": "https://pleiades.stoa.org/places/267272/baetis-certis-river"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/256010"
     ],
@@ -49,29 +109,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 27 A3 unnamed bridge (Isturgi on R. Guadalquivir)",
-    "details": "The Barrington Atlas Directory notes: Isturgi on R. Guadalquivir",
+    "description": "Its ancient name is unknown.",
+    "details": "<p>The Barrington Atlas Directory notes: Isturgi on R. Guadalquivir</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    -4.075496,
-                    38.05509
+                    -4.0614776,
+                    38.0330123
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-27899",
+            "id": "osm-location-of-puente-romano-de-andaojar",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/267272/darmc-location-27899",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/267272/osm-location-of-puente-romano-de-andaojar",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 27899"
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Puente romano de Andújar"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2020-10-14T19:48:39Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "title, summary",
+            "modified": "2020-10-14T19:45:23Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2020-09-30T13:27:29Z",
@@ -102,8 +172,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -115,75 +185,130 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-11T21:36:34Z",
+            "contributors": [],
+            "created": "2017-07-23T12:36:01Z",
             "creators": [
                 {
-                    "name": "P.O. Spann",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 27899",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    -4.075496,
-                    38.05509
+                    -4.0614776,
+                    38.0330123
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:53:33Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2017-07-23T12:36:28Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-11T21:36:41Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-07-23T12:36:02Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-27899",
+            "id": "osm-location-of-puente-romano-de-andaojar",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "DARMC OBJECTID: 27899",
+            "provenance": "OpenStreetMap (Node 4040026315, version 2, osm:changeset=50500744, 2017-07-23T12:35:19Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/4040026315",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "27899",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4040026315",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 27899.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=4040026315",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 27899",
-            "uri": "https://pleiades.stoa.org/places/267272/darmc-location-27899"
+            "title": "OSM location of Puente romano de Andújar",
+            "uri": "https://pleiades.stoa.org/places/267272/osm-location-of-puente-romano-de-andaojar"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Puente romano de Andújar",
+            "contributors": [],
+            "created": "2020-10-14T19:47:18Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-10-14T19:47:18Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "puente-romano-de-andujar",
+            "language": "es",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/node/4040026315",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "4040026315: Puente Romano de Andújar",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Puente romano de Andújar",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/267272/puente-romano-de-andujar"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/bridge"
     ],
@@ -235,11 +360,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (Spanish)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "27899",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -4.075496,
-        38.05509
+        -4.0614776,
+        38.0330123
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -248,7 +384,7 @@
         "dare:ancient=2",
         "dare:feature=bridge"
     ],
-    "title": "Untitled",
+    "title": "Unnamed bridge at Isturgi on the Guadalquivir river",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/267272"
 }

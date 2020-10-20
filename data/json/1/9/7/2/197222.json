@@ -1,13 +1,70 @@
 {
     "@type": "Place",
     "bbox": [
-        18.769044,
-        46.081374,
-        18.781661,
-        46.087606
+        18.7684582,
+        46.0864313,
+        18.7697349,
+        46.0877165
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/197360",
+            "contributors": [],
+            "created": "2020-10-14T14:22:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-10-14T14:22:51Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "lugio-florentia",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://de.wikipedia.org/wiki/Kastell_Dunaszekcs%C5%91",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
+                    "citationDetail": "Kastell Dunaszekcső",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (German)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": 300,
+            "title": "Lugio/Florentia",
+            "uri": "https://pleiades.stoa.org/places/197222/lugio-florentia"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/197360"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -53,27 +110,9 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 20 F3 Contra Florentiam",
-    "details": "The Barrington Atlas Directory notes: Dunafalva HUN",
+    "description": "Contra Florentiam was a late Roman fort located on the Danube frontier.",
+    "details": "<p>The Barrington Atlas Directory notes: Dunafalva HUN</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    18.781661,
-                    46.081374
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-7598",
-            "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/197222/darmc-location-7598",
-                "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 7598"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -91,9 +130,67 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.7695428,
+                            46.0864313
+                        ],
+                        [
+                            18.7684582,
+                            46.0865146
+                        ],
+                        [
+                            18.7686503,
+                            46.0877165
+                        ],
+                        [
+                            18.7697349,
+                            46.0876332
+                        ],
+                        [
+                            18.7695428,
+                            46.0864313
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-contra-florentiam",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/197222/osm-location-of-contra-florentiam",
+                "location_precision": "precise",
+                "snippet": "Fort; AD 300 - AD 640",
+                "title": "OSM location of Contra Florentiam"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2020-10-14T19:18:53Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added wikidata",
+            "modified": "2020-10-14T14:30:56Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary",
+            "modified": "2020-10-14T14:20:01Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "references",
+            "modified": "2020-10-14T14:11:22Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference",
             "modified": "2015-07-04T19:49:37Z",
@@ -127,97 +224,6 @@
     ],
     "id": "197222",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:50:11Z",
-            "creators": [
-                {
-                    "name": "P. Kos",
-                    "username": null
-                },
-                {
-                    "name": "M. Šašel Kos",
-                    "username": null
-                }
-            ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 7598",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    18.781661,
-                    46.081374
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:45:02Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:25:16Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:50:12Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-7598",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 7598",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7598",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7598.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 7598",
-            "uri": "https://pleiades.stoa.org/places/197222/darmc-location-7598"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
@@ -291,6 +297,105 @@
             "start": 300,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/197222/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2020-10-14T14:18:54Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "fort"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            18.7695428,
+                            46.0864313
+                        ],
+                        [
+                            18.7684582,
+                            46.0865146
+                        ],
+                        [
+                            18.7686503,
+                            46.0877165
+                        ],
+                        [
+                            18.7697349,
+                            46.0876332
+                        ],
+                        [
+                            18.7695428,
+                            46.0864313
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-10-14T14:19:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-10-14T14:18:57Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-contra-florentiam",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+            ],
+            "provenance": "OpenStreetMap (Way 558317207, version 2, osm:changeset=92478469, 2020-10-14T14:18:18Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/558317207",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 558317207",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "osm:way=558317207",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 300,
+            "title": "OSM location of Contra Florentiam",
+            "uri": "https://pleiades.stoa.org/places/197222/osm-location-of-contra-florentiam"
         }
     ],
     "names": [
@@ -371,14 +476,14 @@
     "provenance": "Barrington Atlas: BAtlas 20 F3 Contra Florentiam",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "20 F3 Contra Florentiam",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 20 F3 Contra Florentiam",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -395,34 +500,34 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Aquincum-49",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U8NJVRER",
+            "citationDetail": "49",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "TIR Aquincum 49",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Aquincum - Sarmizegetusa - Sirmium</i>. Tabula Imperii Romani L34. Budapest, Hungary: Cartographia Budapest; Magyar Tudományos Akadémia: Archaeologiai Bizottság, 1968.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Aquincum",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Soproni-1985-79",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IEEQBKJN",
+            "citationDetail": "79",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Soproni 1985 79",
+            "formattedCitation": "<div class=\"csl-entry\">Soproni, Sándor. <i>Die Letzten Jahrzehnte Des Pannonischen Limes</i>. Münchner Beiträge Zur Vor- Und Frühgeschichte 38. München: Beck, 1985.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Soproni 1985",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/v.html#Visy-1988-123-24",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GM8XZ4T8",
+            "citationDetail": "123-24",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Visy 1988 123-24",
+            "formattedCitation": "<div class=\"csl-entry\">Visy, Zsolt. <i>Der Pannonische Limes in Ungarn</i>. Stuttgart: K. Theiss, 1988.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Visy 1988",
             "type": "seeFurther"
         },
         {
@@ -439,18 +544,40 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DD%3Aentry+group%3D3%3Aentry%3Ddunafoldvar",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "DUNAFÖLDVÁR County of Tolna, Hungary",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "PECS (Perseus), DUNAFÖLDVÁR County of Tolna, Hungary",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q868928",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q868928: Burgus Contra Florentiam",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7598",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        18.7753525,
-        46.08449
+        18.769070275,
+        46.08733995
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
