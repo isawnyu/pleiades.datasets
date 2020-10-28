@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.834379,
-        37.798572,
-        22.834379,
-        37.798572
+        22.8111864,
+        37.7650677,
+        22.909991,
+        37.8453143
     ],
     "connections": [
         {
@@ -38,7 +38,9 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/570180"
+        "https://pleiades.stoa.org/places/570180",
+        "https://pleiades.stoa.org/places/755162814",
+        "https://pleiades.stoa.org/places/755162815"
     ],
     "contributors": [
         {
@@ -51,24 +53,30 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2010-09-20T20:55:41Z",
+    "created": "2020-10-27T16:11:09Z",
     "creators": [
         {
             "name": "G. Reger",
@@ -79,29 +87,125 @@
             "username": null
         }
     ],
-    "description": "Tenea is an ancient city of the Corinthia famous for its sanctuary of Apollo.",
+    "description": "Tenea was an ancient city of the Corinthia famous for its sanctuary of Apollo. Scholars have long believed it is to be located in the area of modern Chiliomodi in Greece. Recent scientific excavations have identified the general extent of a large, multi-period cemetery zone to the east and south of the modern town, as well as an extensive bath complex of Roman date.",
     "details": "<p>The Barrington Atlas Directory notes: S Chiliomodi</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    22.834379,
-                    37.798572
+                    [
+                        [
+                            22.9083431,
+                            37.7650677
+                        ],
+                        [
+                            22.9079448,
+                            37.7650842
+                        ],
+                        [
+                            22.9072826,
+                            37.7651186
+                        ],
+                        [
+                            22.9066624,
+                            37.7651737
+                        ],
+                        [
+                            22.9042684,
+                            37.7655278
+                        ],
+                        [
+                            22.9022495,
+                            37.7661106
+                        ],
+                        [
+                            22.8148843,
+                            37.8085681
+                        ],
+                        [
+                            22.8111864,
+                            37.823555
+                        ],
+                        [
+                            22.8116542,
+                            37.8237242
+                        ],
+                        [
+                            22.8823447,
+                            37.8453143
+                        ],
+                        [
+                            22.8861788,
+                            37.8428586
+                        ],
+                        [
+                            22.887695,
+                            37.841841
+                        ],
+                        [
+                            22.8887658,
+                            37.8410332
+                        ],
+                        [
+                            22.889227,
+                            37.8405216
+                        ],
+                        [
+                            22.8908477,
+                            37.8382612
+                        ],
+                        [
+                            22.8912795,
+                            37.8374767
+                        ],
+                        [
+                            22.909991,
+                            37.7846024
+                        ],
+                        [
+                            22.9089086,
+                            37.7652148
+                        ],
+                        [
+                            22.9083431,
+                            37.7650677
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-24217",
+            "id": "osm-location-of-modern-chiliomodi",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/570711/darmc-location-24217",
+                "description": "Location based on OpenStreetMap relation defining the official boundaries of the modern village.",
+                "link": "https://pleiades.stoa.org/places/570711/osm-location-of-modern-chiliomodi",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "DARMC location 24217"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM Location of Modern Chiliomodi"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "reference cleanup, added topostext, wikidata; added bkiesling as contributor",
+            "modified": "2020-10-28T02:20:36Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added ArchGrOn reference",
+            "modified": "2020-10-27T17:00:02Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "updated references; removed smith reference; summary",
+            "modified": "2020-10-27T16:51:34Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2020-10-27T16:11:07Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2020-02-01T01:14:56Z",
@@ -157,107 +261,159 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-25T18:31:08Z",
+            "contributors": [],
+            "created": "2020-10-27T16:02:26Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 24217",
-            "end": 300,
+            "description": "Location based on OpenStreetMap relation defining the official boundaries of the modern village.",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    22.834379,
-                    37.798572
+                    [
+                        [
+                            22.9083431,
+                            37.7650677
+                        ],
+                        [
+                            22.9079448,
+                            37.7650842
+                        ],
+                        [
+                            22.9072826,
+                            37.7651186
+                        ],
+                        [
+                            22.9066624,
+                            37.7651737
+                        ],
+                        [
+                            22.9042684,
+                            37.7655278
+                        ],
+                        [
+                            22.9022495,
+                            37.7661106
+                        ],
+                        [
+                            22.8148843,
+                            37.8085681
+                        ],
+                        [
+                            22.8111864,
+                            37.823555
+                        ],
+                        [
+                            22.8116542,
+                            37.8237242
+                        ],
+                        [
+                            22.8823447,
+                            37.8453143
+                        ],
+                        [
+                            22.8861788,
+                            37.8428586
+                        ],
+                        [
+                            22.887695,
+                            37.841841
+                        ],
+                        [
+                            22.8887658,
+                            37.8410332
+                        ],
+                        [
+                            22.889227,
+                            37.8405216
+                        ],
+                        [
+                            22.8908477,
+                            37.8382612
+                        ],
+                        [
+                            22.8912795,
+                            37.8374767
+                        ],
+                        [
+                            22.909991,
+                            37.7846024
+                        ],
+                        [
+                            22.9089086,
+                            37.7652148
+                        ],
+                        [
+                            22.9083431,
+                            37.7650677
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:33:43Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2020-10-27T16:03:19Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-25T18:31:08Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-10-27T16:02:26Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-24217",
+            "id": "osm-location-of-modern-chiliomodi",
             "locationType": [
-                "representative"
+                "representative",
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 24217",
+            "provenance": "OpenStreetMap (Relation 2199505, version 3, osm:changeset=92841280, 2020-10-21T15:08:45Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/2199505",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "24217",
+                    "bibliographicURI": "",
+                    "citationDetail": "Relation 2199505",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24217.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:relation=2199505",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 24217",
-            "uri": "https://pleiades.stoa.org/places/570711/darmc-location-24217"
+            "start": 1700,
+            "title": "OSM Location of Modern Chiliomodi",
+            "uri": "https://pleiades.stoa.org/places/570711/osm-location-of-modern-chiliomodi"
         }
     ],
     "names": [
@@ -370,6 +526,63 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/570711/tenea"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Χιλιομόδι",
+            "contributors": [],
+            "created": "2020-10-27T16:08:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-10-27T16:08:13Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "chiliomodi",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://el.wikipedia.org/wiki/%CE%A7%CE%B9%CE%BB%CE%B9%CE%BF%CE%BC%CF%8C%CE%B4%CE%B9_%CE%9A%CE%BF%CF%81%CE%B9%CE%BD%CE%B8%CE%AF%CE%B1%CF%82",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BUR4V79V",
+                    "citationDetail": "Χιλιομόδι Κορινθίας",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Βικιπαίδεια: την ελεύθερη εγκυκλοπαίδεια που γράφουμε συμμετοχικά</i>. Wikimedia Foundation, 2001. https://el.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Greek)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Chiliomodi",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/570711/chiliomodi"
         }
     ],
     "placeTypeURIs": [
@@ -383,36 +596,36 @@
     "provenance": "Barrington Atlas: BAtlas 58 D2 Tenea",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "58 D2 Tenea",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 58 D2 Tenea",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/903649668",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/w.html#Wiseman-1978",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXHUNVPF",
+            "citationDetail": "92-93",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Wiseman 1978, 92-93",
+            "formattedCitation": "<div class=\"csl-entry\">Wiseman, James. <i>The Land of the Ancient Corinthians</i>. Studies in Mediterranean Archaeology 50. Göteborg: P. Åströms Forlag, 1978. http://www.worldcat.org/oclc/903649668.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wiseman 1978",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DT%3Aentry+group%3D2%3Aentry%3Dtenea",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "TENEA Corinthia, Greece",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "PECS (Perseus), TENEA Corinthia, Greece",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
         },
         {
@@ -442,82 +655,104 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Xen. Hell. 4.4.19",
-            "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Cic. Att. 6.2.3",
-            "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "http://www.trismegistos.org/place/37843",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "TM GEO ID 37843",
-            "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "citesAsRelated"
-        },
-        {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DT%3Aentry+group%3D5%3Aentry%3Dtenea-geo",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), TÉNEA",
-            "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Paus.%202.5.4&lang=original",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
-            "formattedCitation": "Paus. 2.5.4",
+            "formattedCitation": "Xen. Hell. 4.4.19",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "citesAsEvidence"
         },
         {
-            "accessURI": "http://www.jstor.org/stable/497537",
+            "accessURI": "https://latin.packhum.org/loc/474/57/115/2203-2208",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Caskey 1924, 358-67",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "Cic. Att. 6.2.3.13",
             "otherIdentifier": " ",
             "shortTitle": "",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/37843",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 37843: Tenea",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": " ",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Paus.%202.5.4&lang=original",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+            "citationDetail": "2.5.4",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
+            "otherIdentifier": " ",
+            "shortTitle": "Paus. (Spiro: Perseus)",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.jstor.org/stable/497537",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/A48N522P",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Caskey, L. D. “The Proportions of the Apollo of Tenea.” <i>American Journal of Archaeology</i> 28, no. 4 (1924): 358–67. https://doi.org/10.2307/497537.</div>",
+            "otherIdentifier": " ",
+            "shortTitle": "Caskey 1924",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/tenea-e1203720",
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e1203720",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Tenea",
             "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "New Pauly, Tenea",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=20222",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QR57TWP2",
+            "citationDetail": "Toponym 20222: Chiliomodion",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, and Kostis Christakis, eds. <i>Archaeology in Greece Online</i>. Athens, Greece: École française d’Athènes; British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ArchGrOnline",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/378228UTen",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Tenea (Korinthia)",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q25535198",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q25535198: Ancient Tenea",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        22.834379,
-        37.798572
+        22.86788796476016,
+        37.807938582817044
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
