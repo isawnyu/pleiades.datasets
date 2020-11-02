@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2020/10/25 06:47:49.577858 GMT-4
+# Date: 2020/11/01 06:47:50.117036 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 671
+# Triple count: 683
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -460,6 +460,13 @@
     skos:prefLabel "people, tribe"@en;
     skos:scopeNote "Equivalent to Getty AAT term \"historical cultural groups\":300387177."@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/piscina-roman> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/piscina-roman>,
+        <http://vocab.getty.edu/aat/300375619>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "piscina (pool, Roman)"@en;
+    skos:scopeNote "A Roman piscina as defined by the Getty Art and Architecture Thesaurus: \"A reservoir of water used as a swimming pool or fish pond inside a Roman home or public bath.\""@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/plain> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/plain>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
@@ -781,6 +788,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "wall"@en;
     skos:scopeNote "A wall as defined by the Getty Art and Architecture Thesaurus, term 300002469: Vertical architectural members used to define and divide spaces."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/water-feature> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/water-feature>,
+        <http://vocab.getty.edu/aat/300180674>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "water feature (landscaping)"@en;
+    skos:scopeNote "A landscaped water feature as defined by the Getty Art and Architecture Thesaurus: \"passive reflective or dynamic elements in the cultural landscape that incorporate water as the primary design feature\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/water-inland> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/water-inland>;
