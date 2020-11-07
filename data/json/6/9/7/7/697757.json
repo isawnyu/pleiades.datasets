@@ -1,17 +1,25 @@
 {
     "@type": "Place",
     "bbox": [
-        35.75154,
-        31.907678,
-        35.75154,
-        31.907678
+        35.7538951,
+        31.9150722,
+        35.7538951,
+        31.9150722
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/947227732"
+    ],
     "contributors": [
         {
             "name": "DARMC",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Gabriel Mckee",
+            "uri": "https://pleiades.stoa.org/author/gmckee",
+            "username": "gmckee"
         },
         {
             "name": "R. Talbert",
@@ -25,15 +33,15 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2009-09-17T13:20:20Z",
@@ -43,29 +51,49 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 71 B2 Tyrus",
-    "details": "The Barrington Atlas Directory notes: 'Iraq el-Emir",
+    "description": "Hellenistic and Roman settlement in the Jordan Valley. The site contains a large palace, the Qasr al-Abd, dated to the second century CE.",
+    "details": "<p>The Barrington Atlas Directory notes: 'Iraq el-Emir</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    35.75154,
-                    31.907678
+                    35.7538951,
+                    31.9150722
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-6401",
+            "id": "639631627642-62764464564a631",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/697757/darmc-location-6401",
+                "description": "Point representing the approximate centerpoint of the modern town of 'Iraq al-Amir, derived from an OpenStreetMap node.",
+                "link": "https://pleiades.stoa.org/places/697757/639631627642-62764464564a631",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 6401"
+                "snippet": "Settlement-modern; 330 BC - AD 2100",
+                "title": "OSM location of عراق الأمير"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 6401",
+            "modified": "2020-11-03T15:17:16Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2020-11-02T18:48:16Z",
+            "modifiedBy": "gmckee"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2020-11-02T18:48:01Z",
+            "modifiedBy": "gmckee"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2020-11-02T18:45:25Z",
+            "modifiedBy": "gmckee"
+        },
         {
             "comment": "Initial revision",
             "modified": "2019-01-30T17:51:33Z",
@@ -96,12 +124,18 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -113,80 +147,73 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:27:05Z",
+            "contributors": [],
+            "created": "2020-11-02T18:36:11Z",
             "creators": [
                 {
-                    "name": "S.T. Parker",
-                    "username": null
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 6401",
-            "end": 640,
+            "description": "Point representing the approximate centerpoint of the modern town of 'Iraq al-Amir, derived from an OpenStreetMap node.",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    35.75154,
-                    31.907678
+                    35.7538951,
+                    31.9150722
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:01:09Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2020-11-02T18:37:56Z",
+                    "modifiedBy": "gmckee"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:27:06Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-11-02T18:36:14Z",
+                    "modifiedBy": "gmckee"
                 }
             ],
-            "id": "darmc-location-6401",
+            "id": "639631627642-62764464564a631",
             "locationType": [
-                "representative"
+                "representative",
+                "associated_modern",
+                "central_point"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 6401",
+            "provenance": "OpenStreetMap (Node 3678868875, version 3, osm:changeset=46245409, 2017-02-20T14:22:17Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/3678868875",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "6401",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 3678868875",
                     "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6401.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=3678868875",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 6401",
-            "uri": "https://pleiades.stoa.org/places/697757/darmc-location-6401"
+            "title": "OSM location of عراق الأمير",
+            "uri": "https://pleiades.stoa.org/places/697757/639631627642-62764464564a631"
         }
     ],
     "names": [
@@ -259,13 +286,72 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/697757/tyrus"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "عراق الأمير",
+            "contributors": [],
+            "created": "2020-11-02T18:41:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
+                }
+            ],
+            "description": "Modern Arabic name of the village and associated caves and ruins.",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-11-02T18:41:55Z",
+                    "modifiedBy": "gmckee"
+                }
+            ],
+            "id": "iraq-al-amir",
+            "language": "arb",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q2916039",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "`Iraq al Amir",
+                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "ʻIrāq al-Amīr, ʻArak el-Emir, ʻArâḳ il-Emîr, Arrag el-Emir, Aâraq el-Emyr, ʻArâq el-Emir",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/697757/iraq-al-amir"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 71 B2 Tyrus",
     "references": [
@@ -290,11 +376,44 @@
             "otherIdentifier": "",
             "shortTitle": "NEAEHL",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Iraq_al-Amir",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Iraq al-Amir",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/9762274",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QIPFZWDZ",
+            "citationDetail": "",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lapp, Nancy L, and Robin Brown. <i>The Excavations at Araq El-Emir</i>. Annual of the American Schools of Oriental Research 47–48, 74. [Ann Arbor, Mich.]; Boston: American Schools of Oriental Research, 1983. http://www.worldcat.org/oclc/9762274.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Lapp 1983",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "6401",
+            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.75154,
-        31.907678
+        35.7538951,
+        31.9150722
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
