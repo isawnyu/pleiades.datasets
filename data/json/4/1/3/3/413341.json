@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         13.794334,
-        42.7752864,
-        15.885196,
+        43.183742,
+        13.794334,
         43.183742
     ],
     "connections": [
@@ -11,23 +11,36 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/1004",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:00:57Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2020-12-06T05:29:57Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "1004",
             "provenance": "Pleiades",
             "references": [],
@@ -73,9 +86,14 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 42 F2 Tinna fl.",
-    "details": "The Barrington Atlas Directory notes: Tenna",
+    "details": "<p>The Barrington Atlas Directory notes: Tenna</p>",
     "features": [],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2020-12-06T05:33:15Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference",
             "modified": "2014-06-17T18:25:52Z",
@@ -161,42 +179,64 @@
     "provenance": "Barrington Atlas: BAtlas 42 F2 Tinna fl.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 42 F2 Tinna fl.",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "42 F2 Tinna fl.",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Tinna",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "RE Tinna",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Tinna",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "RE",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://it.wikipedia.org/wiki/Tenna_(fiume)",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Tenna (fiume)",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Tenna (fiume).",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/42466",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 42466: Tinna (Tenna)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3372.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "4B4 (Talbert 3372)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TP (Talbert: CUP)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
     "reprPoint": [
-        14.839765,
-        42.9795142
+        13.794334,
+        43.183742
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
