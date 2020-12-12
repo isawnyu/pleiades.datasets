@@ -11,10 +11,8 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": [
-                "at"
-            ],
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/433032",
             "contributors": [],
             "created": "2018-01-30T20:22:33Z",
@@ -37,10 +35,94 @@
             "start": null,
             "title": "Pompeii",
             "uri": "https://pleiades.stoa.org/places/379375824/7536514620"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_analytical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_analytical",
+            "connectsTo": "https://pleiades.stoa.org/places/456321707",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2020-12-11T16:23:46Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "add'l reference",
+                    "modified": "2020-12-11T16:46:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-12-11T16:23:46Z",
+                    "modifiedBy": "gmckee"
+                }
+            ],
+            "id": "pompeii-regio-ii",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://pompeiisites.org/regio/regio-ii/",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RQWYV366",
+                    "citationDetail": "Regio II",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Osanna, Massimo, ed. <i>Pompeii Sites: Portale Ufficiale Parco Archeologico di Pompei</i>. Accessed January 10, 2020. http://pompeiisites.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Pompeii Sites",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://it.wikipedia.org/wiki/Anfiteatro_romano_di_Pompei",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
+                    "citationDetail": "Anfiteatro romano di Pompei",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -330,
+            "title": "Regio II, Pompeii",
+            "uri": "https://pleiades.stoa.org/places/379375824/pompeii-regio-ii"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/433032"
+        "https://pleiades.stoa.org/places/433032",
+        "https://pleiades.stoa.org/places/456321707"
     ],
     "contributors": [],
     "created": "2018-01-30T20:22:32Z",
@@ -81,6 +163,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "updates",
+            "modified": "2020-12-11T14:33:07Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "reference",
             "modified": "2019-09-10T23:37:49Z",
@@ -202,33 +289,33 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 305071020",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "osm:node=305071020",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 },
                 {
                     "accessURI": "https://en.wikipedia.org/wiki/Amphitheatre_of_Pompeii",
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
                     "citationDetail": "Amphitheatre of Pompeii",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Amphitheatre of Pompeii.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 },
                 {
                     "accessURI": "http://www.geonames.org/10300429/amphitheatre-of-pompeii.html",
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "GeoNames 10300429",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -286,11 +373,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
                     "citationDetail": "Q2015116",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Wikidata",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -348,11 +435,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
                     "citationDetail": "Q2015116",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Wikidata",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -417,11 +504,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WQBMM724",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "<div class=\"csl-entry\">VanderPoel, Halsted B. <i>Corpus Topographicum Pompeianum</i>. 5 vols. Rome: The University of Texas at Austin, 1977. http://www.worldcat.org/oclc/8667821.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "VanderPoel et al. 1977-1986",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -445,77 +532,77 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Amphitheatre of Pompeii",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Amphitheatre of Pompeii.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JFWPXTQL",
             "citationDetail": "74",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Welch, Katherine E. <i>The Roman Amphitheatre: From Its Origins to the Colosseum</i>. Cambridge [u.a.: Cambridge Univ. Press, 2009.</div>",
             "otherIdentifier": "",
             "shortTitle": "Welch 2009",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U9W69TJ7",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Welch, Katherine Elizabeth, and R. R. R Smith. “Amphitheatres in the Roman Republic: An Archaeology of the Roman Spectacle.” Ph. D. Diss, New York University, 1994.</div>",
             "otherIdentifier": "",
             "shortTitle": "Welch 1994",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://www.wikidata.org/wiki/Q2015116",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
-            "citationDetail": "Q2015116",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "citationDetail": "Q2015116: Amphitheatre of Pompeii",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
-            "type": "citesAsRelated"
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/5163825787",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BP7GNCK6",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Zarmakoupi, Mantha. “Public Entertainment Structures.” In <i>A Companion to the Archaeology of the Roman Republic</i>, 33–49. Blackwell, 2013. http://www.worldcat.org/oclc/5163825787.</div>",
             "otherIdentifier": "",
             "shortTitle": "Zarmakoupi 2013",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RZ3ST8TV",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Tosi, Giovanna. <i>Gli edifici per spettacoli nell’Italia romana</i>. 2 vols. Roma: Quasar, 2003.</div>",
             "otherIdentifier": "",
             "shortTitle": "Tosi et al. 2003",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XW3K6Z49",
             "citationDetail": "95",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Welch, Katherine E. <i>The Roman Amphitheatre: From Its Origins to the Colosseum</i>. Cambridge [etc.: University of Cambridge, 2007.</div>",
             "otherIdentifier": "",
             "shortTitle": "Welch 2007",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [

@@ -10,29 +10,61 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/433032",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:04:28Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "reference, ctype",
+                    "modified": "2020-12-11T16:23:10Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "433032",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q27687329",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q27687329: Granary market",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Pompeii",
             "uri": "https://pleiades.stoa.org/places/458593871/433032"
         }
@@ -46,6 +78,18 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         },
         {
             "homepage": null,
@@ -63,7 +107,7 @@
             "username": "avarveri"
         }
     ],
-    "description": "Roman granaries of the forum in Pompeii. (VII,7,29)",
+    "description": "Roman granaries of the forum in Pompeii. (VII,7,29).",
     "details": "",
     "features": [
         {
@@ -86,6 +130,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "added wikidata Q27687329: Granary market",
+            "modified": "2020-12-11T16:21:30Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Cleaned up extraneous whitespace in description. See https://github.com/isawnyu/pleiades-gazetteer/issues/140.",
             "modified": "2017-10-27T18:54:13Z",
@@ -201,22 +250,22 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "pompeiisites.org: Forum granary (VII,7,29)",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 },
                 {
                     "accessURI": "http://www.openstreetmap.org/way/240573973",
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 240573973",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "osm:way=240715550",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -297,11 +346,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -377,11 +426,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -457,11 +506,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -532,11 +581,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -612,11 +661,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -692,11 +741,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -787,11 +836,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -867,11 +916,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -947,11 +996,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -1027,11 +1076,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -1102,11 +1151,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "http://www.worldcat.org/oclc/8667821",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Van der Poel, H. B. 1983. Corpus Topographicum Pompeianum. Pars II Toponymy. Rome: The University of Texas at Austin. p. 284.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -1132,11 +1181,33 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "pompeiisites.org: Forum granary (VII,7,29)",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://commons.wikimedia.org/wiki/Category:Granary_market_(Pompeii)",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/L8RBW985",
+            "citationDetail": "Category:Granary market (Pompeii)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Wikimedia Commons. “Wikimedia Commons.” Media file repository, 2004. https://commons.wikimedia.org/wiki/Main_Page.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikimedia Commons",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q27687329",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q27687329: Granary market",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
