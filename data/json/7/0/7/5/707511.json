@@ -1,8 +1,8 @@
 {
     "@type": "Place",
     "bbox": [
-        32.311513,
-        34.899649,
+        32.3114548,
+        34.8993897,
         32.311513,
         34.899649
     ],
@@ -11,23 +11,36 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
             "connectsTo": "https://pleiades.stoa.org/places/707498",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:38:37Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-12-13T12:50:32Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "707498",
             "provenance": "Pleiades",
             "references": [],
@@ -48,6 +61,12 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -81,8 +100,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 72 A3 Geronisos",
-    "details": "The Barrington Atlas Directory notes: Geronisos",
+    "description": "A small island lying off the west coast of Cyprus where a sanctuary has been identified.",
+    "details": "<p>The Barrington Atlas Directory notes: Geronisos</p>",
     "features": [
         {
             "geometry": {
@@ -101,9 +120,37 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.3114548,
+                    34.8993897
+                ],
+                "type": "Point"
+            },
+            "id": "location-of-yeronisos",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/707511/location-of-yeronisos",
+                "location_precision": "precise",
+                "snippet": "Island, ; AD 1700 - AD 2100",
+                "title": "OSM location of Yeronisos (island)"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added topostext",
+            "modified": "2020-12-13T13:16:20Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "updates",
+            "modified": "2020-12-13T13:14:37Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added connection",
             "modified": "2014-02-25T19:10:31Z",
@@ -205,73 +252,341 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "cites"
+                    "type": "http://purl.org/spar/cito/cites"
                 }
             ],
             "review_state": "published",
             "start": -330,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/707511/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": null,
+            "accuracy_value": null,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [],
+            "created": "2014-02-01T05:39:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "island",
+                ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "geometry": {
+                "coordinates": [
+                    32.3114548,
+                    34.8993897
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2016-08-18T18:21:17Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "location-of-yeronisos",
+            "locationType": [
+                "representative",
+                ""
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "provenance": "OpenStreetMap (Node 246515447, version 4, osm:changeset=20311736, 2014-02-01T05:38:30Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/246515447",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 246515447",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=246515447",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "OSM location of Yeronisos (island)",
+            "uri": "https://pleiades.stoa.org/places/707511/location-of-yeronisos"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Γερόνησος",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2014-02-01T14:32:01Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2020-12-13T12:49:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added name",
+                    "modified": "2014-02-01T14:32:10Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "name.2014-02-01.0734320852",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/145960/yeronisos.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "GeoNames 145960",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "accessURI": "https://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%81%CF%8C%CE%BD%CE%B7%CF%83%CE%BF%CF%82",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BUR4V79V",
+                    "citationDetail": "Γερόνησος",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Βικιπαίδεια: την ελεύθερη εγκυκλοπαίδεια που γράφουμε συμμετοχικά</i>. Wikimedia Foundation, 2001. https://el.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Greek)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Yeronisos",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/707511/name.2014-02-01.0734320852"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Νησί Γερόνησσος",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2014-02-01T14:33:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2020-12-13T12:49:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2018-08-31T01:30:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added name",
+                    "modified": "2014-02-01T14:33:11Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "nisis-geronissos",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/145960/yeronisos.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "GeoNames 145960",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Nisís Gerónissos",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/707511/nisis-geronissos"
+        }
+    ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
         "https://pleiades.stoa.org/vocabularies/place-types/temple",
         "https://pleiades.stoa.org/vocabularies/place-types/island"
     ],
     "placeTypes": [
+        "sanctuary",
         "temple",
         "island"
     ],
     "provenance": "Barrington Atlas: BAtlas 72 A3 Geronisos",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 72 A3 Geronisos",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "72 A3 Geronisos",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Papageorghiou-1991-832-33",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Papageorghiou 1991 832-33",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PGEZD8S8",
+            "citationDetail": "832-33",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">A. Papageorghiou. “Chronique Des Fouilles et Découvertes Archéologiques à Chypre En 1990.” <i>Bulletin de Correspondance Hellénique</i> 115 (1991): 789–833.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Papageorghiou 1991",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/c.html#Christou-1994-688-89",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Christou 1994 688-89",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/V77NZWHZ",
+            "citationDetail": "688-89",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">D. Christou. “Chronique Des Fouilles et Découvertes Archéologiques à Chypre En 1993.” <i>Bulletin de Correspondance Hellénique</i> 118 (1994): 647–93.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Christou 1994",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.yeronisos.org/Yeronisos_Field_Expedition/Yeronisos_Island_Excavations_and_Field_School,_Cyprus.html",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "Yeronisos Island Expedition",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q9146697",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q9146697: Yeronisos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Yeronisos",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Yeronisos",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/349323SGer",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Geronisos sanct. exc. (Cyprus) 3 Geronisos Ag. Giorgios Pegeias - Ιερά νήσος",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
