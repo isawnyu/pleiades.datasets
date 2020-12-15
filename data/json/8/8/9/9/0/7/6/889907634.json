@@ -11,10 +11,8 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": [
-                "at"
-            ],
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/413320",
             "contributors": [],
             "created": "2018-05-09T23:48:30Z",
@@ -131,6 +129,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "added wikidata Q2176743: Roman Theatre of Spoleto",
+            "modified": "2020-12-14T14:29:52Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "reference",
             "modified": "2019-06-24T14:12:53Z",
@@ -282,11 +285,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 431847387",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "osm:way=431847387",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -295,7 +298,65 @@
             "uri": "https://pleiades.stoa.org/places/889907634/osm-location-of-teatro-romano"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2019-06-24T13:26:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "name",
+                    "modified": "2019-06-24T13:26:01Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "teatro-romano-di-spoleto",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/10288493/teatro-romano-di-spoleto.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "10288493",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Teatro Romano di Spoleto",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/889907634/teatro-romano-di-spoleto"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/theatre"
     ],
@@ -309,44 +370,55 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
             "citationDetail": "Teatro romano di Spoleto",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (Italian)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K4UWPDZM",
             "citationDetail": "60, 95",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pietrangeli, Carlo. <i>Spoletium (Spoleto): Regio VI, Umbria</i>. Italia Romana, Municipi e Colonie, ser. 1, v. 1. Roma: Istituto di studi romani, 1939.</div>",
             "otherIdentifier": "",
             "shortTitle": "Pietrangeli 1939",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://theatrum.de/438.html",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "theatrum.de: 438",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD004924",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "CIL 11, 07872",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q2176743",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q2176743: Roman Theatre of Spoleto",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
