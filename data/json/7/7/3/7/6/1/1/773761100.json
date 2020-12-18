@@ -10,29 +10,61 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/579885",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:53:05Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "added reference, changed type, added time period",
+                    "modified": "2020-07-16T14:23:08Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "579885",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://topostext.org/place/380237XRAg",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Roman Agora (Athens)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Athenae",
             "uri": "https://pleiades.stoa.org/places/773761100/579885"
         }
@@ -47,6 +79,12 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         }
     ],
     "created": "2016-03-24T10:49:19Z",
@@ -81,6 +119,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "added Arachne 2100114: Tor der Athena Archegetis Athen",
+            "modified": "2020-12-17T14:55:43Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "reference cleanup, added topostext",
+            "modified": "2020-07-16T14:22:15Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "references",
             "modified": "2020-03-22T13:10:26Z",
@@ -224,11 +272,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 208068286",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "osm:way=208068286",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -281,11 +329,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
                     "formattedCitation": "GeoNames 7910523",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "citesAsEvidence"
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
                 }
             ],
             "review_state": "published",
@@ -311,143 +359,176 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Roman Agora",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Roman Agora.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z53ZGZC2",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Camp, John McK. <i>The Archaeology of Athens</i>. New Haven: Yale University Press, 2001.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Camp 2001",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.stoa.org/athens/sites/romagora.html",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "Stoa.org: The Roman Agora & the Tower of the Winds",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.eie.gr/archaeologia/En/chapter_more_5.aspx",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "The Roman Agora: the first commercial centre of Athens",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/20711325",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AA8BJ85M",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Hoff, Michael C. “The Roman Agora at Athens.” Ph. D. Diss, Boston University, 1988.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Hoff 1988",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://doi.org/10.1163/ej.9789004170094.i-376",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/P89FITEP",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
             "formattedCitation": "<div class=\"csl-entry\">Schmalz, Geoffrey C. R. <i>Augustan and Julio-Claudian Athens: A New Epigraphy and Prosopography</i>. Mnemosyne, Bibliotheca Classica Batava., Supplementum 302. Leiden ; :  Boston: Brill, 2009. https://doi.org/10.1163/ej.9789004170094.i-376.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Schmalz 2009",
-            "type": "seeAlso"
+            "type": "http://purl.org/spar/cito/seeAlso"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/18416289",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeAlso",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
             "formattedCitation": "Macready, Sarah and F. H. Thompson. 1987. Roman architecture in the Greek world. London: Thames & Hudson.",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeAlso"
+            "type": "http://purl.org/spar/cito/seeAlso"
         },
         {
             "accessURI": "http://www.geonames.org/7910523/roman-agora.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
-            "formattedCitation": "GeoNames 7910523",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "7910523: Roman Agora",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "citesAsRelated"
+            "shortTitle": "GeoNames",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
             "accessURI": "http://epigraphy.packhum.org/text/5440?bookid=5&location=7",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "IG II² 3175",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "citesAsEvidence"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/22247520",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7CSNIM8S",
             "citationDetail": ", s.v. Hoff 1989, 1-8",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">British Museum Classical Colloquium, Susan Walker, Averil Cameron, University of London, and Institute of Classical Studies, eds. <i>The Greek renaissance in the Roman Empire: papers from the Tenth British Museum Classical Colloquium</i>. London: University of London, Institute of Classical Studies, 1989.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Walker 1989",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5SIEYL4R",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Hoff, M. C. “The So-Called Agoranomion and the Imperial Cult in Julio-Claudian Athens.” <i>Archäologischer Anzeiger, 1994.1994</i>, 1994, 93–117, Abb.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Hoff 1994",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/38584218",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MZ4VRZED",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Hoff, Michael C, and Susan I Rotroff, eds. <i>The Romanization of Athens: Proceedings of an International Conference Held at Lincoln, Nebraska (April 1996)</i>. Oxford, England: Oxbow Books, 1997.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Hoff 1997",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://de.wikipedia.org/wiki/R%C3%B6mische_Agora",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
             "citationDetail": "Römische Agora",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (German)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/380237XRAg",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Roman Agora (Athens)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1435551",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q1435551: Roman Agora",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "http://arachne.uni-koeln.de/item/bauwerk/2100114",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "citationDetail": "2100114: Tor der Athena Archegetis Athen",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arachne",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
