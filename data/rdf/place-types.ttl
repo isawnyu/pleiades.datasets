@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2020/12/13 06:47:22.986615 US/Eastern
+# Date: 2020/12/20 06:47:22.837932 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 688
+# Triple count: 703
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -24,10 +24,11 @@
     skos:scopeNote "An abbey church as defined by the Getty Art and Architecture Thesaurus: Churches that form the center of an abbey."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/acropolis> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/acropolis>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/acropolis>,
+        <http://vocab.getty.edu/aat/300000700>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "acropolis"@en;
-    skos:scopeNote "An acropolis as defined by the Getty Art and Architecture Thesaurus term 300000700: \"The higher and usually fortified sections of ancient Greek cities, typically containing temples and some public buildings and used as places of refuge.\" Semantic view: http://vocab.getty.edu/aat/300000700."@en .
+    skos:scopeNote "An acropolis as defined by the Getty Art and Architecture Thesaurus term 300000700: \"The higher and usually fortified sections of ancient Greek cities, typically containing temples and some public buildings and used as places of refuge.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/amphitheatre> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/amphitheatre>;
@@ -84,7 +85,7 @@
         <http://vocab.getty.edu/aat/300006960>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "cairn"@en;
-    skos:scopeNote "A tomb as defined by the Getty Art and Architecture Thesaurus term 300006960: \"Ancient landmarks, monuments, memorials, or burial places covered with stones or a large mound of earth, specific to Scotland, Ireland, and Wales\"."@en .
+    skos:scopeNote "A cairn as defined by the Getty Art and Architecture Thesaurus term 300006960: \"Ancient landmarks, monuments, memorials, or burial places covered with stones or a large mound of earth, specific to Scotland, Ireland, and Wales\"."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/canal> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/canal>;
@@ -132,13 +133,15 @@
 <https://pleiades.stoa.org/vocabularies/place-types/church> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/church>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "church, monastery"@en .
+    skos:prefLabel "church, monastery"@en;
+    skos:scopeNote "Deprecated term employed by Barrington Atlas. See now separate \"church-2\" and \"abbey\" terms."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/church-2> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/church-2>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/church-2>,
+        <http://vocab.getty.edu/aat/300007466>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "church"@en;
-    skos:scopeNote "A church building as defined by the Getty Art and Architecture Thesaurus term 300007466: \"Buildings for public Christian worship that are distinguished historically from chapels and oratories, which are buildings that are in some respect private, or not public in the widest sense. Church architecture generally somewhat follows standard models, which vary depending upon the date, location, and characteristics of the congregation.\" Semantic view: http://vocab.getty.edu/aat/300007466."@en .
+    skos:scopeNote "A church building as defined by the Getty Art and Architecture Thesaurus term 300007466: \"Buildings for public Christian worship that are distinguished historically from chapels and oratories, which are buildings that are in some respect private, or not public in the widest sense. Church architecture generally somewhat follows standard models, which vary depending upon the date, location, and characteristics of the congregation.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/circus> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/circus>;
@@ -146,10 +149,11 @@
     skos:prefLabel "circus"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/cistern> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/cistern>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/cistern>,
+        <http://vocab.getty.edu/aat/300052558>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "cistern"@en;
-    skos:scopeNote "A waterproof receptacle for retaining liquids, as described at http://en.wikipedia.org/wiki/Cistern. Equivalent to aat:300052558 (http://vocab.getty.edu/aat/300052558)."@en .
+    skos:scopeNote "A waterproof receptacle for retaining liquids, as described at http://en.wikipedia.org/wiki/Cistern. Equivalent to aat:300052558."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/city-gate> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/city-gate>;
@@ -164,9 +168,11 @@
     skos:scopeNote "A wall as defined by the Getty Art and Architecture Thesaurus, term 300005072: Fortification walls of cities."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/coast> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/coast>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/coast>,
+        <https://www.geonames.org/ontology#L.CST>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "shoreline"@en .
+    skos:prefLabel "coast, shore"@en;
+    skos:scopeNote "A coast as defined by the GeoNames Ontology: \"a zone of variable width straddling the shoreline\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/coastal-change> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/coastal-change>;
@@ -376,10 +382,11 @@
     skos:prefLabel "mine, quarry"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/monument> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/monument>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/monument>,
+        <http://vocab.getty.edu/aat/300006958>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "monument"@en;
-    skos:scopeNote "A monument as defined by the Getty Art and Architecture Thesaurus term 300006958: \"Structures or edifices of importance or historical interest, typically erected in memory of the dead or of an important event.\" Semantic view: http://vocab.getty.edu/aat/300006958."@en .
+    skos:scopeNote "A monument as defined by the Getty Art and Architecture Thesaurus term 300006958: \"Structures or edifices of importance or historical interest, typically erected in memory of the dead or of an important event.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/mosque> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/mosque>;
@@ -411,10 +418,11 @@
     skos:scopeNote "Administrative regions of ancient Egypt as employed during the periods of Ptolemaic and Roman rule."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/nuraghe> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/nuraghe>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/nuraghe>,
+        <http://vocab.getty.edu/aat/300005727>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "nuraghe"@en;
-    skos:scopeNote "A nuraghe as defined by the Getty Art and Architecture Thesaurus term 300004838: \"Ancient Sardinian towerlike structures, dating from the Bronze and Iron Ages; generally associated with villages, built on hilltops, and having tapering sides and corbel-vaulted interior spaces. Many are large, but others are small. The purpose and function of the structures are not entirely understood; among the possible uses are location markers, religious temples, rulers' residences, military strongholds, or meeting halls.\" Semantic view: http://vocab.getty.edu/aat/300005727."@en .
+    skos:scopeNote "A nuraghe as defined by the Getty Art and Architecture Thesaurus term 300004838: \"Ancient Sardinian towerlike structures, dating from the Bronze and Iron Ages; generally associated with villages, built on hilltops, and having tapering sides and corbel-vaulted interior spaces. Many are large, but others are small. The purpose and function of the structures are not entirely understood; among the possible uses are location markers, religious temples, rulers' residences, military strongholds, or meeting halls.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/oasis> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/oasis>;
@@ -528,10 +536,11 @@
     skos:scopeNote "A province as defined by the Getty Art and Architecture Thesaurus: The constituent political and administrative divisions within various sovereign states, including historic ones such as the Roman Empire and modern nations under a federal system such as Canada and Spain."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/pyramid> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/pyramid>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/pyramid>,
+        <http://vocab.getty.edu/aat/300004838>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "pyramid"@en;
-    skos:scopeNote "A pyramid as defined by the Getty Art and Architecture Thesaurus term 300004838: \"Monumental structures with a square or triangular base and inclined triangular sides, usually meeting at a point. The most famous pyramids are those used as mausolea in ancient Egypt; they were focal points of much larger funerary complexes. However, pyramids, usually with flat tops, are also found in Central America, where they were used as platforms for altars or temples, occasionally also covering the burial chamber of a ruler.\" Semantic view: http://vocab.getty.edu/aat/300004838."@en .
+    skos:scopeNote "A pyramid as defined by the Getty Art and Architecture Thesaurus term 300004838: \"Monumental structures with a square or triangular base and inclined triangular sides, usually meeting at a point. The most famous pyramids are those used as mausolea in ancient Egypt; they were focal points of much larger funerary complexes. However, pyramids, usually with flat tops, are also found in Central America, where they were used as platforms for altars or temples, occasionally also covering the burial chamber of a ruler.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/rapid> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/rapid>;
@@ -581,10 +590,11 @@
     skos:scopeNote "Salt evaporation ponds, also called salterns or salt pans, are shallow artificial ponds designed to extract salts from sea water or other brines, as described at http://en.wikipedia.org/wiki/Salt_evaporation_pond"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/sanctuary> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/sanctuary>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/sanctuary>,
+        <http://vocab.getty.edu/aat/300391482>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "sanctuary (religious center)"@en;
-    skos:scopeNote "A sanctuary as defined by the Getty Art and Architecture Thesaurus term 300391482: \"Centers or sites having religious sanctuaries as a primary focus.\" Semantic view: http://vocab.getty.edu/aat/300391482."@en .
+    skos:scopeNote "A sanctuary as defined by the Getty Art and Architecture Thesaurus term 300391482: \"Centers or sites having religious sanctuaries as a primary focus.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/satrapy> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/satrapy>,
@@ -604,10 +614,11 @@
     skos:prefLabel "settlement-modern"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/shrine> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/shrine>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/shrine>,
+        <http://vocab.getty.edu/aat/300007558>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "shrine"@en;
-    skos:scopeNote "A shrine as defined by the Getty Art and Architecture Thesaurus term 300007558: \"Structures or large furnishings in which devotion is paid to a statue, picture, saint, deity or other holy objects.\" Semantic view: http://vocab.getty.edu/aat/300007558."@en .
+    skos:scopeNote "A shrine as defined by the Getty Art and Architecture Thesaurus term 300007558: \"Structures or large furnishings in which devotion is paid to a statue, picture, saint, deity or other holy objects.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/space-exterior-covered> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/space-exterior-covered>,
@@ -688,10 +699,11 @@
     skos:scopeNote "A conglomerate category inherited from the Barrington Atlas map symbology. Though widespread at present in Pleiades, this term is now deprecated in favor of individual terms for each type of site or structure (q.v.)."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/temple-2> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/temple-2>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/temple-2>,
+        <http://vocab.getty.edu/aat/300007595>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "temple"@en;
-    skos:scopeNote "A temple as defined by the Getty Art and Architecture Thesaurus term 300007595: \"Buildings housing places devoted to the worship of a deity or deities. In the strictest sense, it refers to the dwelling place of a deity, and thus often houses a cult image. In modern usage a temple is generally a structure, but it was originally derived from the Latin \"templum\" and historically has referred to an uncovered place affording a view of the surrounding region. For Christian or Islamic religious buildings the terms \"churches\" or \"mosques\" are generally used, but an exception is that \"temples\" is used for Protestant, as opposed to Roman Catholic, places of worship in France and some French-speaking regions.\" Semantic view: http://vocab.getty.edu/aat/300007595."@en .
+    skos:scopeNote "A temple as defined by the Getty Art and Architecture Thesaurus term 300007595: \"Buildings housing places devoted to the worship of a deity or deities. In the strictest sense, it refers to the dwelling place of a deity, and thus often houses a cult image. In modern usage a temple is generally a structure, but it was originally derived from the Latin \"templum\" and historically has referred to an uncovered place affording a view of the surrounding region. For Christian or Islamic religious buildings the terms \"churches\" or \"mosques\" are generally used, but an exception is that \"temples\" is used for Protestant, as opposed to Roman Catholic, places of worship in France and some French-speaking regions."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/theatre> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/theatre>;
@@ -699,10 +711,11 @@
     skos:prefLabel "theatre, theater"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/tomb> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tomb>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tomb>,
+        <http://vocab.getty.edu/aat/300005926>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "tomb"@en;
-    skos:scopeNote "A tomb as defined by the Getty Art and Architecture Thesaurus term 300005926: \"Elaborations constructed over or around burial sites.\" Semantic view: http://vocab.getty.edu/aat/300005926."@en .
+    skos:scopeNote "A tomb as defined by the Getty Art and Architecture Thesaurus term 300005926: \"Elaborations constructed over or around burial sites.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/townhouse> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/townhouse>;
@@ -711,10 +724,11 @@
     skos:scopeNote "Designation for a private residence or individual mixed-use residential and commercial complex within a planned urban environment. A townhouse abuts neighboring residences, either directly through party-walls or indirectly through lot-edges or shared alleys."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/treasury> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/treasury>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/treasury>,
+        <http://vocab.getty.edu/aat/300006050>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "treasury"@en;
-    skos:scopeNote "(i.e., ancient Greek Θησαυρός) Equivalent to AAT:treasuries (http://vocab.getty.edu/aat/300006050)"@en .
+    skos:scopeNote "(i.e., ancient Greek Θησαυρός) Equivalent to AAT:treasurie."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/tribus> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tribus>;
@@ -737,10 +751,11 @@
     skos:prefLabel "undefined"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/underground-structures> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/underground-structures>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/underground-structures>,
+        <http://vocab.getty.edu/aat/300008047>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "underground structures"@en;
-    skos:scopeNote "Equivalent to Getty AAT category \"underground structures\" aat: 300008047 (http://vocab.getty.edu/aat/300008047)."@en .
+    skos:scopeNote "Equivalent to Getty AAT category \"underground structures\" aat: 300008047."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/unknown> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/unknown>;
