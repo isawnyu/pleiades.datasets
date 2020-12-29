@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.4866934,
-        40.7515258,
-        14.4866934,
-        40.7515258
+        14.4862434,
+        40.7511976,
+        14.4873109,
+        40.7519029
     ],
     "connections": [
         {
@@ -35,6 +35,48 @@
             "start": null,
             "title": "Pompeii",
             "uri": "https://pleiades.stoa.org/places/335494560/433032"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "connectionType": "part_of_analytical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_analytical",
+            "connectsTo": "https://pleiades.stoa.org/places/680072866",
+            "contributors": [],
+            "created": "2020-12-26T20:13:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-12-26T20:13:48Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "regio-ix-pompeii",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": 1700,
+            "title": "Regio IX, Pompeii",
+            "uri": "https://pleiades.stoa.org/places/335494560/regio-ix-pompeii"
         }
     ],
     "connectsWith": [
@@ -82,6 +124,52 @@
                 "location_precision": "precise",
                 "snippet": "Bath, ; 30 BC - AD 300",
                 "title": "OSM location of so-called \"Terme Centrali\""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.4866708,
+                            40.7511976
+                        ],
+                        [
+                            14.4864547,
+                            40.7513883
+                        ],
+                        [
+                            14.4862434,
+                            40.7516001
+                        ],
+                        [
+                            14.4868925,
+                            40.7519029
+                        ],
+                        [
+                            14.4873109,
+                            40.7515168
+                        ],
+                        [
+                            14.4869411,
+                            40.7513321
+                        ],
+                        [
+                            14.4866708,
+                            40.7511976
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-terme-centrali",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/335494560/osm-location-of-terme-centrali",
+                "location_precision": "precise",
+                "snippet": "Bath; 30 BC - AD 300",
+                "title": "OSM location of Terme centrali"
             },
             "type": "Feature"
         }
@@ -228,6 +316,113 @@
             "start": -30,
             "title": "OSM location of so-called \"Terme Centrali\"",
             "uri": "https://pleiades.stoa.org/places/335494560/terme-centrali"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2020-12-28T00:51:36Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "bath"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            14.4866708,
+                            40.7511976
+                        ],
+                        [
+                            14.4864547,
+                            40.7513883
+                        ],
+                        [
+                            14.4862434,
+                            40.7516001
+                        ],
+                        [
+                            14.4868925,
+                            40.7519029
+                        ],
+                        [
+                            14.4873109,
+                            40.7515168
+                        ],
+                        [
+                            14.4869411,
+                            40.7513321
+                        ],
+                        [
+                            14.4866708,
+                            40.7511976
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "improved OSM location (underlying data for previously published location now deprecated)",
+                    "modified": "2020-12-28T00:52:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-12-28T00:51:36Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-terme-centrali",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
+            ],
+            "provenance": "OpenStreetMap (Way 356867685, version 6, osm:changeset=96502842, 2020-12-28T00:51:05Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/356867685",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 356867685",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=356867685",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Terme centrali",
+            "uri": "https://pleiades.stoa.org/places/335494560/osm-location-of-terme-centrali"
         }
     ],
     "names": [

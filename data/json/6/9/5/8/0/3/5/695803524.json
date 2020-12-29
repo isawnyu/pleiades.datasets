@@ -2,19 +2,17 @@
     "@type": "Place",
     "bbox": [
         30.5181893,
-        37.6768393,
-        30.5181893,
-        37.6768393
+        37.6766037,
+        30.5187177,
+        37.6769476
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": [
-                "at"
-            ],
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/639087",
             "contributors": [],
             "created": "2018-08-07T14:09:58Z",
@@ -65,18 +63,38 @@
         {
             "geometry": {
                 "coordinates": [
-                    30.5181893,
-                    37.6768393
+                    [
+                        [
+                            30.518302,
+                            37.6766037
+                        ],
+                        [
+                            30.5181893,
+                            37.6768393
+                        ],
+                        [
+                            30.5186131,
+                            37.6769476
+                        ],
+                        [
+                            30.5187177,
+                            37.6767289
+                        ],
+                        [
+                            30.518302,
+                            37.6766037
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "location-of-macellum",
+            "id": "osm-location-of-macellum",
             "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/695803524/location-of-macellum",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/695803524/osm-location-of-macellum",
                 "location_precision": "precise",
-                "snippet": "Architecturalcomplex, ; 30 BC - AD 300",
-                "title": "location of Macellum"
+                "snippet": "Architecturalcomplex; 30 BC - AD 300",
+                "title": "OSM location of Macellum"
             },
             "type": "Feature"
         }
@@ -114,7 +132,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -126,7 +144,7 @@
                 }
             ],
             "contributors": [],
-            "created": "2013-03-22T18:14:48Z",
+            "created": "2020-12-27T20:58:25Z",
             "creators": [
                 {
                     "homepage": null,
@@ -135,67 +153,79 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "architecturalcomplex",
-                ""
+                "architecturalcomplex"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
             ],
             "geometry": {
                 "coordinates": [
-                    30.5181893,
-                    37.6768393
+                    [
+                        [
+                            30.518302,
+                            37.6766037
+                        ],
+                        [
+                            30.5181893,
+                            37.6768393
+                        ],
+                        [
+                            30.5186131,
+                            37.6769476
+                        ],
+                        [
+                            30.5187177,
+                            37.6767289
+                        ],
+                        [
+                            30.518302,
+                            37.6766037
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Edited",
-                    "modified": "2013-07-31T16:27:25Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-03-22T18:15:29Z",
+                    "comment": "added better OSM location",
+                    "modified": "2020-12-27T20:58:49Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-03-22T18:14:53Z",
+                    "modified": "2020-12-27T20:58:25Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-macellum",
+            "id": "osm-location-of-macellum",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
             ],
-            "provenance": "OpenStreetMap (Node 2214941593, version 1, osm:changeset=15457234, 2013-03-22T18:12:05Z)",
+            "provenance": "OpenStreetMap (Way 211483633, version 2, osm:changeset=61594394, 2018-08-12T17:00:34Z)",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/2214941593",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/211483633",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Node 2214941593",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "osm:node=2214941593",
-                    "otherIdentifier": " ",
+                    "citationDetail": "Way 211483633",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=211483633",
+                    "otherIdentifier": "",
                     "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "location of Macellum",
-            "uri": "https://pleiades.stoa.org/places/695803524/location-of-macellum"
+            "title": "OSM location of Macellum",
+            "uri": "https://pleiades.stoa.org/places/695803524/osm-location-of-macellum"
         }
     ],
     "names": [],
@@ -212,49 +242,49 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Sagalassos",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://interactive.archaeology.org/sagalassos/field06/macellum4.html",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4G7MLVWM",
             "citationDetail": "Macellum: July 30-August 3, 2006",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">“Archaeological Institute of America and Archaeology Magazine’s Interactive Digs.” Accessed March 27, 2019. https://www.interactivedigs.com/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Interactive Digs",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVTI4SIB",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Richard, Julian, and Marc Waelkens. “Le Macellum de Sagalassos: Un Marché ‘Romain’ Dans Les Montagnes Du Taurus ? Compte-Rendu Préliminaire Des Fouilles Archéologiques Menées Depuis 2005.” In <i>Tout Vendre, Tout Acheter</i>. Bordeaux ; :  Athènes: Ausonius,  École Française d’Athènes, 2012.</div>",
             "otherIdentifier": "",
             "shortTitle": "Richard and Waelkens 2012",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/macellum-roman-food-markets-in-asia-minor-and-the-levant/940BD98C4C0284A5BE9A4A31DBD6ADA6",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PSAMTM8F",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Richard, Julian. “Macellum / Μάκελλον: ‘Roman’ Food Markets in Asia Minor and the Levant.” <i>Journal of Roman Archaeology</i> 27 (ed 2014): 255–74. https://doi.org/10.1017/S1047759414001238.</div>",
             "otherIdentifier": "",
             "shortTitle": "Richard 2014",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        30.5181893,
-        37.6768393
+        30.518452535441472,
+        37.67677934988678
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
