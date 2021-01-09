@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        6.0,
-        35.0,
-        7.0,
-        36.0
+        6.5492272,
+        35.7229208,
+        6.5492272,
+        35.7229208
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,43 +49,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            6.0,
-                            35.0
-                        ],
-                        [
-                            6.0,
-                            36.0
-                        ],
-                        [
-                            7.0,
-                            36.0
-                        ],
-                        [
-                            7.0,
-                            35.0
-                        ],
-                        [
-                            6.0,
-                            35.0
-                        ]
-                    ]
+                    6.5492272,
+                    35.7229208
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "sebkhet-djendeli",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/334612/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on a node derived from OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/334612/sebkhet-djendeli",
+                "location_precision": "precise",
+                "snippet": "Lake, Salt-pan-salina; AD 1700 - AD 2100",
+                "title": "OSM location of Sebkhet Djendeli"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title",
+            "modified": "2021-01-08T12:15:24Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T04:19:48Z",
@@ -106,108 +91,90 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-29T01:39:42Z",
+            "contributors": [],
+            "created": "2014-01-03T20:24:27Z",
             "creators": [
                 {
-                    "name": "E.W.B. Fentress",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
-            "details": "",
-            "end": 640,
+            "description": "Representative location based on a node derived from OpenStreetMap.",
+            "details": "<p>Intermittent lake / salt flat.</p>",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "lake",
+                "salt-pan-salina"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/lake",
+                "https://pleiades.stoa.org/vocabularies/place-types/salt-pan-salina"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            6.0,
-                            35.0
-                        ],
-                        [
-                            6.0,
-                            36.0
-                        ],
-                        [
-                            7.0,
-                            36.0
-                        ],
-                        [
-                            7.0,
-                            35.0
-                        ],
-                        [
-                            6.0,
-                            35.0
-                        ]
-                    ]
+                    6.5492272,
+                    35.7229208
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:19:48Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2019-01-05T00:28:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-01-03T20:25:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-01-03T20:24:30Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "sebkhet-djendeli",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/lake",
+                "https://pleiades.stoa.org/vocabularies/place-types/salt-pan-salina"
             ],
-            "provenance": "Barrington Atlas: BAtlas 34 E2 Regius L.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 2608475764, version 1, osm:changeset=19794493, 2014-01-03T20:24:00Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2608475764",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2608475764",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2608475764",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/334612/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Sebkhet Djendeli",
+            "uri": "https://pleiades.stoa.org/places/334612/sebkhet-djendeli"
         }
     ],
     "names": [
@@ -295,43 +262,43 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "BAtlas 34 E2 Regius L.",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/i.html#ItAnt-41.1",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "ItAnt 41.1",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-27.159",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "AAA 27.159",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        6.5,
-        35.5
+        6.5492272,
+        35.7229208
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Regius L.",
+    "title": "Regius (lake)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/334612"
 }

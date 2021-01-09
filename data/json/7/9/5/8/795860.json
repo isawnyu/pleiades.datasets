@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         35.383333,
-        23.712985,
-        35.410793,
+        23.733333,
+        35.383333,
         23.733333
     ],
     "connections": [],
@@ -48,7 +48,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 81 F2 Shenshef",
-    "details": "The Barrington Atlas Directory notes: Shenshef",
+    "details": "<p>The Barrington Atlas Directory notes: Shenshef</p>",
     "features": [
         {
             "geometry": {
@@ -71,23 +71,43 @@
         {
             "geometry": {
                 "coordinates": [
-                    35.410793,
-                    23.712985
+                    35.383333,
+                    23.733333
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-22030",
+            "id": "osm-location",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/795860/darmc-location-22030",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/795860/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 22030"
+                "snippet": "Fort, ; AD 300 - AD 640",
+                "title": "OSM Location of Shenshef (spring)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2021-01-08T16:25:39Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2021-01-08T16:25:09Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "reference cleanup",
+            "modified": "2021-01-08T16:24:45Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-01-08T12:18:33Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2014-03-08T03:39:26Z",
@@ -191,11 +211,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "21363",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21363.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -205,8 +225,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -218,72 +238,72 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:56:38Z",
+            "contributors": [],
+            "created": "2014-03-08T03:39:52Z",
             "creators": [
                 {
-                    "name": "S.M. Burstein",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22030",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    35.410793,
-                    23.712985
+                    35.383333,
+                    23.733333
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:32:50Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-03-08T03:40:24Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:56:39Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-08T03:39:56Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-22030",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 22030",
+            "provenance": "OpenStreetMap (Node 767977677, version 1, osm:changeset=4946332, 2010-06-09T15:51:46Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/767977677",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22030",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22030.",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 767977677",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=767977677",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 22030",
-            "uri": "https://pleiades.stoa.org/places/795860/darmc-location-22030"
+            "title": "OSM Location of Shenshef (spring)",
+            "uri": "https://pleiades.stoa.org/places/795860/osm-location"
         }
     ],
     "names": [],
@@ -296,75 +316,86 @@
     "provenance": "Barrington Atlas: BAtlas 81 F2 Shenshef",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 81 F2 Shenshef",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "81 F2 Shenshef",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Murray-1926",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9TUQQ9PT",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Murray 1926",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">G.W. Murray. “Note on the Ruins of Hitân Shenshef, near Berenice.” <i>The Journal of Egyptian Archaeology</i> 12 (1926): 166–67.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Murray 1926",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Sidebotham-1995-93-96",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Sidebotham 1995 93-96",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AE6M579A",
+            "citationDetail": "93-96",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Sidebotham, Steven E., and Willemina Wendrich, eds. <i>Berenike 1994: Preliminary Report of the 1994 Excavations at Berenike (Egyptian Red Sea Coast) and the Survey of the Eastern Desert</i>. CNWS Publications, Special Series 1. Leiden: Research School, CNWS, 1995.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Sidebotham 1995; Sidebotham 1995a",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://books.google.com/books?id=_VJyAAAAMAAJ",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/1.html#1998",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "1998, 411-40",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CRUXV2TT",
+            "citationDetail": "411-40",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Sidebotham, Steven E., and Fred Aldsworth. <i>Berenike 1996: Report of the 1996 Excavations at Berenike (Egyptian Red Sea Coast) and the Survey of the Eastern Desert</i>. Vol. Berenike. 3 vols. Research School, CNWS, 1998. http://books.google.com/books?id=_VJyAAAAMAAJ.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Sidebotham 1998",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://books.google.com/books?id=_3aAQgAACAAJ",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/1.html#1999",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "1999, 307-24, 371-83, 419-26",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z9VDSJR4",
+            "citationDetail": "307-24, 371-83, 419-26",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Sidebotham, Steven E., and Fred Aldsworth. <i>Berenike 1997: Report of the 1997 Excavations at Berenike and the Survey of the Egyptian Eastern Desert, Including Excavations at Shenshef</i>. Research School of Asian, African, and Amerindian Studies (CNWS), Universiteit Leiden, The Netherlands, 1999. http://books.google.com/books?id=_3aAQgAACAAJ.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Sidebotham 1999",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://vici.org/vici/7793",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "vici.org, 7793",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "7793: Shenshef",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "vici.org",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22030",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.397063,
-        23.723159
+        35.383333,
+        23.733333
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
