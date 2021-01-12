@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -6.584662,
-        38.875678,
-        -6.584662,
-        38.875678
+        -6.6041402,
+        38.8674553,
+        -6.6008589,
+        38.8692661
     ],
     "connections": [],
     "connectsWith": [],
@@ -61,23 +61,56 @@
         {
             "geometry": {
                 "coordinates": [
-                    -6.584662,
-                    38.875678
+                    [
+                        [
+                            -6.6035756,
+                            38.8674553
+                        ],
+                        [
+                            -6.6041402,
+                            38.8678581
+                        ],
+                        [
+                            -6.6013643,
+                            38.8692661
+                        ],
+                        [
+                            -6.6008589,
+                            38.8685652
+                        ],
+                        [
+                            -6.603082,
+                            38.8676306
+                        ],
+                        [
+                            -6.6033702,
+                            38.8675138
+                        ],
+                        [
+                            -6.6035756,
+                            38.8674553
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-21124",
+            "id": "osm-location-of-villa-romana-de-torre-aguila",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/256474/darmc-location-21124",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/256474/osm-location-of-villa-romana-de-torre-aguila",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 21124"
+                "snippet": "Villa; 30 BC - AD 640",
+                "title": "OSM location of Villa romana de Torre Águila"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-01-11T19:33:41Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "summary",
             "modified": "2020-03-16T15:27:43Z",
@@ -113,9 +146,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -132,76 +165,97 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:25:58Z",
+            "contributors": [],
+            "created": "2020-03-16T15:25:30Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 21124",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    -6.584662,
-                    38.875678
+                    [
+                        [
+                            -6.6035756,
+                            38.8674553
+                        ],
+                        [
+                            -6.6041402,
+                            38.8678581
+                        ],
+                        [
+                            -6.6013643,
+                            38.8692661
+                        ],
+                        [
+                            -6.6008589,
+                            38.8685652
+                        ],
+                        [
+                            -6.603082,
+                            38.8676306
+                        ],
+                        [
+                            -6.6033702,
+                            38.8675138
+                        ],
+                        [
+                            -6.6035756,
+                            38.8674553
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:46:52Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2020-03-16T15:25:58Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:25:59Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-03-16T15:25:30Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21124",
+            "id": "osm-location-of-villa-romana-de-torre-aguila",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "DARMC OBJECTID: 21124",
+            "provenance": "OpenStreetMap (Way 89832057, version 2, osm:changeset=82263993, 2020-03-16T15:25:03Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/89832057",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21124",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21124.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 89832057",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=89832057",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 21124",
-            "uri": "https://pleiades.stoa.org/places/256474/darmc-location-21124"
+            "title": "OSM location of Villa romana de Torre Águila",
+            "uri": "https://pleiades.stoa.org/places/256474/osm-location-of-villa-romana-de-torre-aguila"
         }
     ],
     "names": [],
@@ -218,38 +272,49 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "BAtlas 26 D3 Torre Aguila",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Emerita-154",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "TIR Emerita 154",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://es.wikipedia.org/wiki/Villa_romana_de_Torre%C3%A1guila",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/LPYQ8SZL",
             "citationDetail": "Villa romana de Torreáguila",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "Wikipedia: la enciclopedia de contenido libre (2001-), Villa romana de Torreáguila.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Spanish)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21124",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        -6.584662,
-        38.875678
+        -6.602458419282263,
+        38.8683018110173
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

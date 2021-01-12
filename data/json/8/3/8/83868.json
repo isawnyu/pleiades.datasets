@@ -44,7 +44,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-10-30T22:33:21Z",
+    "created": "2019-06-19T23:21:18Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
@@ -74,6 +74,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2021-01-12T10:50:54Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2019-06-19T23:21:17Z",
@@ -180,11 +185,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
                     "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
                     "otherIdentifier": " ",
                     "shortTitle": "",
-                    "type": "cites"
+                    "type": "http://purl.org/spar/cito/cites"
                 }
             ],
             "review_state": "published",
@@ -265,11 +270,13 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
         "unlocated",
-        "settlement"
+        "settlement",
+        "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 8 Moridunum",
     "references": [
@@ -278,33 +285,66 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
             "citationDetail": "8 Moridunum",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
             "shortTitle": "BAtlas",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/256915514",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9M2QMHXI",
             "citationDetail": "421-22",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Rivet, A. L. F., and Colin Smith. <i>The Place-Names of Roman Britain</i>. London: B. T. Batsford, 1979. http://www.worldcat.org/oclc/256915514.</div>",
             "otherIdentifier": "",
             "shortTitle": "Rivet 1979",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace550.html",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
             "citationDetail": "1A1 (Talbert 550)",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsEvidence",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
             "shortTitle": "TP (Talbert: CUP)",
-            "type": "citesAsEvidence"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Moridunum_(Axminster)",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Moridunum (Axminster)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://historicengland.org.uk/listing/the-list/list-entry/1011921",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "Roman fort and later Romano-British settlement at Woodbury Farm",
+            "otherIdentifier": "",
+            "shortTitle": "",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.pastscape.org.uk/hob.aspx?hob_id=650063",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GLEU38X",
+            "citationDetail": "650063",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>PastScape: Information on England’s Archaeology and Architecture</i>, 2015. https://www.pastscape.org.uk/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "PastScape",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
