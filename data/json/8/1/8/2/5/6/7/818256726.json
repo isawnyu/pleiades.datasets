@@ -11,10 +11,8 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": [
-                "at"
-            ],
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/599612",
             "contributors": [],
             "created": "2018-08-01T20:20:09Z",
@@ -331,6 +329,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "added wikidata",
+            "modified": "2021-01-13T17:21:17Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added Arachne ref.",
+            "modified": "2021-01-13T17:19:50Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2018-08-01T20:23:56Z",
@@ -678,11 +686,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Way 506466133",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "osm:way=506466133",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -705,11 +713,33 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Ephesus",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://arachne.uni-koeln.de/item/bauwerk/2104431",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "citationDetail": "2104431: Theater von Ephesos Ἔφεσος / Ephesus, İzmir (Provinz)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arachne",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q15723477",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q15723477: Theater (Ephesus)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
@@ -718,7 +748,10 @@
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
-    "subject": [],
+    "subject": [
+        "Theater",
+        "extant remains"
+    ],
     "title": "Theater of Ephesus",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/818256726"
