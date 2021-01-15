@@ -1,8 +1,70 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        22.5,
+        39.5,
+        23.0,
+        40.0
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/540923",
+            "contributors": [],
+            "created": "2021-01-14T15:19:39Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Time periods based on Polybius and Livy.",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-01-14T15:19:40Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "magnesia",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://de.wikisource.org/wiki/RE:Tisaion",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+                    "citationDetail": "Tisaion",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "RE",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Magnesia",
+            "uri": "https://pleiades.stoa.org/places/543891/magnesia"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/540923"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -48,23 +110,20 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 55 unlocated Tisaion M.",
+    "description": "An unlocated mountain or promontory mentioned in ancient sources, situated somewhere in the southern part of the peninsula of Magnesia.",
     "details": "<p>The Barrington Atlas Directory notes: S Magnesian Pr.</p>",
-    "features": [
-        {
-            "geometry": null,
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/543891/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "features": [],
     "history": [
+        {
+            "comment": "cleaned up RE reference",
+            "modified": "2021-01-14T15:21:12Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "title, summary",
+            "modified": "2021-01-14T15:17:40Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added GeoNames",
             "modified": "2021-01-13T20:57:07Z",
@@ -92,91 +151,7 @@
         }
     ],
     "id": "543891",
-    "locations": [
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "G. Reger",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-23T00:33:36Z",
-            "creators": [
-                {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:16:19Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 55 Tisaion M.",
-            "references": [],
-            "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/543891/batlas-location"
-        }
-    ],
+    "locations": [],
     "names": [
         {
             "@type": "Name",
@@ -196,18 +171,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Τίσαιον ὄρος",
             "contributors": [
-                {
-                    "name": "G. Reger",
-                    "username": null
-                },
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
@@ -215,9 +186,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-23T00:33:36Z",
+            "created": "2021-01-14T15:21:26Z",
             "creators": [
                 {
                     "name": "J. Fossey",
@@ -233,18 +210,35 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "greek, language, reference",
+                    "modified": "2021-01-14T17:12:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:16:20Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "Tisaion-M",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 55 Tisaion M.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Plb.+10.42.7&fromdoc=Perseus%3Atext%3A1999.01.0233",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QPGBM7G4",
+                    "citationDetail": "10.42.7",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Polybius. <i>Polybiou Historiai = Polybii Historiae</i>. Edited by Theodor Büttner-Wobst and Ludwig August Dindorf. 4 vols. Lipsiae: B.G. Teubneri, 1882. http://data.perseus.org/texts/urn:cts:greekLit:tlg0543.tlg001.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Polyb. (Büttner-Wobst: Perseus)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
-            "romanized": "Tisaion M.",
+            "romanized": "Tisaion oros",
             "start": -330,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
@@ -273,10 +267,10 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://de.wikisource.org/wiki/RE:Tisaion",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-            "citationDetail": "Tisaion M.",
+            "citationDetail": "Tisaion",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
@@ -317,11 +311,14 @@
             "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        22.75,
+        39.75
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Tisaion M.",
+    "title": "Tisaion (mountain)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/543891"
 }

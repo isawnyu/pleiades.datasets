@@ -1,13 +1,34 @@
 {
     "@type": "Place",
     "bbox": [
-        22.5,
-        39.5,
-        23.0,
-        40.0
+        21.5624096,
+        37.848006,
+        27.533091,
+        39.9353319
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/540993",
+        "https://pleiades.stoa.org/places/540784",
+        "https://pleiades.stoa.org/places/543784",
+        "https://pleiades.stoa.org/places/540856",
+        "https://pleiades.stoa.org/places/541110",
+        "https://pleiades.stoa.org/places/599778",
+        "https://pleiades.stoa.org/places/541022",
+        "https://pleiades.stoa.org/places/541085",
+        "https://pleiades.stoa.org/places/540881",
+        "https://pleiades.stoa.org/places/543819",
+        "https://pleiades.stoa.org/places/540730",
+        "https://pleiades.stoa.org/places/540819",
+        "https://pleiades.stoa.org/places/540997",
+        "https://pleiades.stoa.org/places/541021",
+        "https://pleiades.stoa.org/places/540901",
+        "https://pleiades.stoa.org/places/540837",
+        "https://pleiades.stoa.org/places/540946",
+        "https://pleiades.stoa.org/places/543891",
+        "https://pleiades.stoa.org/places/543654",
+        "https://pleiades.stoa.org/places/540979"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -36,7 +57,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-23T00:40:00Z",
+    "created": "2021-01-14T17:49:09Z",
     "creators": [
         {
             "name": "J. Fossey",
@@ -47,8 +68,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 55 D1 Magnesia",
-    "details": "None",
+    "description": "A coastal region of Thessaly, including the long, narrow peninsula stretching into the Aegean on the southeast. Magnesia gives its name to the modern Greek regional unit.",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": {
@@ -90,6 +111,21 @@
         }
     ],
     "history": [
+        {
+            "comment": "added two Wace refs.",
+            "modified": "2021-01-15T04:15:05Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2021-01-14T21:51:19Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "title, summary, place type; added npauly reference",
+            "modified": "2021-01-14T21:50:08Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "updates",
             "modified": "2021-01-13T20:51:21Z",
@@ -205,19 +241,28 @@
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "attested": "",
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "G. Reger",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                }
+            ],
+            "attested": "Μαγνησία",
+            "contributors": [
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
@@ -225,9 +270,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-23T00:40:00Z",
+            "created": "2021-01-14T18:01:54Z",
             "creators": [
                 {
                     "name": "J. Fossey",
@@ -240,8 +291,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": -30,
             "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-01-14T21:49:41Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:07:41Z",
@@ -249,23 +305,98 @@
                 }
             ],
             "id": "magnesia",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 55 D1 Magnesia",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e717540",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+                    "citationDetail": "Magnesia [1] Thessalian coastal region",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "New Pauly",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "romanized": "Magnesia",
-            "start": null,
+            "romanized": "Magnesia, Magnēsía",
+            "start": -550,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/540923/magnesia"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                }
+            ],
+            "attested": "Μάγνης",
+            "contributors": [],
+            "created": "2021-01-14T18:06:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -30,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-01-14T18:06:51Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "magnes",
+            "language": "grc",
+            "nameType": "ethnic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e717540",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+                    "citationDetail": "Magnesia [1] Thessalian coastal region",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "New Pauly",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Magnes, Mágnes",
+            "start": -550,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/540923/magnes"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/region"
     ],
     "placeTypes": [
-        "unknown"
+        "region"
     ],
     "provenance": "Barrington Atlas: BAtlas 55 D1 Magnesia",
     "references": [
@@ -290,16 +421,49 @@
             "otherIdentifier": "",
             "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e717540",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Magnesia [1] Thessalian coastal region",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "New Pauly",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/topography-of-pelion-and-magnesia/4BEF931734E2F93E54E849FE0C742D90",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QHVU37KZ",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Wace, Alan J. B. “The Topography of Pelion and Magnesia.” <i>The Journal of Hellenic Studies</i> 26 (November 1906): 143–68. https://doi.org/10.2307/624345.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wace 1906",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/the-topography-of-pelion-and-magnesia-addenda/C5B08FA16C9BD72D5E656BD64C204B63",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GSBI6LLU",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Wace 1908, Alan J. B. “The Topography of Pelion and Magnesia: Addenda.” <i>The Journal of Hellenic Studies</i> 28, no. 2 (November 1908): 337–337. https://doi.org/10.2307/624616.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wace 1908",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        22.75,
-        39.75
+        22.919146483333332,
+        39.52405713333333
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Magnesia",
+    "title": "Magnesia (region)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/540923"
 }

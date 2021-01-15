@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.14764,
-        41.917643,
-        12.14764,
-        41.917643
+        12.1463455,
+        41.9151971,
+        12.1464926,
+        41.9153074
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,23 +53,48 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.14764,
-                    41.917643
+                    [
+                        [
+                            12.1464439,
+                            41.9151971
+                        ],
+                        [
+                            12.1463455,
+                            41.9152325
+                        ],
+                        [
+                            12.1463942,
+                            41.9153074
+                        ],
+                        [
+                            12.1464926,
+                            41.9152719
+                        ],
+                        [
+                            12.1464439,
+                            41.9151971
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-21131",
+            "id": "osm-location-of-torre-di-palidoro",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/423098/darmc-location-21131",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/423098/osm-location-of-torre-di-palidoro",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 21131"
+                "snippet": "Fort; AD 640 - AD 1453",
+                "title": "OSM location of Torre di Palidoro"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location\\",
+            "modified": "2021-01-14T15:09:48Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "summary",
             "modified": "2021-01-13T21:54:43Z",
@@ -115,90 +140,102 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:15:48Z",
+            "contributors": [],
+            "created": "2021-01-13T21:46:56Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 21131",
-            "end": 300,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "<p>A square defensive tower that stands about 20 meters high that dates to the period of the Saracen invasions of Italy and is built atop the remains of a Roman villa. The tower was one of a group of defensive coastal towers built in the eighth and ninth centuries. It was restored in 1562.</p>",
+            "end": 1453,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    12.14764,
-                    41.917643
+                    [
+                        [
+                            12.1464439,
+                            41.9151971
+                        ],
+                        [
+                            12.1463455,
+                            41.9152325
+                        ],
+                        [
+                            12.1463942,
+                            41.9153074
+                        ],
+                        [
+                            12.1464926,
+                            41.9152719
+                        ],
+                        [
+                            12.1464439,
+                            41.9151971
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:57:32Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-01-13T21:49:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-01-13T21:46:56Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21131",
+            "id": "osm-location-of-torre-di-palidoro",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 21131",
+            "provenance": "OpenStreetMap (Way 453253346, version 2, osm:changeset=51779801, 2017-09-06T12:16:11Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/453253346",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21131",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 453253346",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21131.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=453253346",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 21131",
-            "uri": "https://pleiades.stoa.org/places/423098/darmc-location-21131"
+            "start": 640,
+            "title": "OSM location of Torre di Palidoro",
+            "uri": "https://pleiades.stoa.org/places/423098/osm-location-of-torre-di-palidoro"
         }
     ],
     "names": [],
@@ -266,11 +303,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (Italian)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21131",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.14764,
-        41.917643
+        12.146419041493528,
+        41.91525223210248
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
