@@ -11,10 +11,8 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": [
-                "at"
-            ],
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/580119",
             "contributors": [],
             "created": "2019-01-09T14:22:17Z",
@@ -59,7 +57,7 @@
         }
     ],
     "description": "A silver mine at Thorikos. A schematic map of the mine is carved into the rocks at the site.",
-    "details": "\r\n<p>Coordinates taken on 13 June 2013 with a Sony DSC-HX200V GPS camera</p>\r\n",
+    "details": "<p>Coordinates taken on 13 June 2013 with a Sony DSC-HX200V GPS camera</p>",
     "features": [
         {
             "geometry": {
@@ -74,13 +72,18 @@
                 "description": "A silver mine at Thorikos. A schematic map of the mine is carved into the rocks at the site.",
                 "link": "https://pleiades.stoa.org/places/503211161/silver-mine-at-thorikos",
                 "location_precision": "precise",
-                "snippet": "Mine, ; 550 BC - 330 BC",
+                "snippet": "Mine-2; 550 BC - 330 BC",
                 "title": "Silver Mine at Thorikos"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "changed type to mine",
+            "modified": "2021-01-15T18:55:33Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Migrated from location",
             "modified": "2019-01-09T14:22:19Z",
@@ -104,7 +107,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2013-06-14T03:57:34Z",
             "creators": [
                 {
@@ -115,15 +125,13 @@
                 }
             ],
             "description": "A silver mine at Thorikos. A schematic map of the mine is carved into the rocks at the site.",
-            "details": "\r\n<p>Coordinates taken on 13 June 2013 with a Sony DSC-HX200V GPS camera</p>\r\n",
+            "details": "<p>Coordinates taken on 13 June 2013 with a Sony DSC-HX200V GPS camera</p>",
             "end": -330,
             "featureType": [
-                "mine",
-                ""
+                "mine-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mine",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mine-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -133,6 +141,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "changed type to mine",
+                    "modified": "2021-01-15T18:55:56Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2013-08-14T20:54:55Z",
@@ -149,8 +162,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mine",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mine-2"
             ],
             "provenance": "GPS in the field",
             "references": [
@@ -159,11 +171,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
                     "citationDetail": "Thoricus",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Thoricus.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -174,10 +186,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/mine"
+        "https://pleiades.stoa.org/vocabularies/place-types/mine-2"
     ],
     "placeTypes": [
-        "mine"
+        "mine-2"
     ],
     "provenance": "Pleiades",
     "references": [],
