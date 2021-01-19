@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2021/01/10 06:47:23.136909 US/Eastern
+# Date: 2021/01/17 06:47:22.625307 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 703
+# Triple count: 818
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -56,7 +56,7 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "architectural complex"@en;
-    skos:scopeNote "A group of rooms, spaces, built features or structures that makes up an individual architectural unit within a larger building or group of buildings."@en .
+    skos:scopeNote "A group of rooms, spaces, built features or structures that make up an individual architectural unit within a larger building or group of buildings."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/basilica> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/basilica>;
@@ -66,7 +66,8 @@
 <https://pleiades.stoa.org/vocabularies/place-types/bath> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/bath>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "bath, spa"@en .
+    skos:prefLabel "bath, spa"@en;
+    skos:scopeNote "Bath complexes as commonly found in Greek and Roman cities."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/bay> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/bay>;
@@ -78,7 +79,7 @@
         <http://vocab.getty.edu/aat/300007836>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "bridge"@en;
-    skos:scopeNote "Equivalent to Getty Art and Architecture Thesaurus term \"bridges\": 300007836."@en .
+    skos:scopeNote "A bridge as defined by the Getty Art and Architecture Thesaurus: Structures spanning and providing passage over waterways, topographic depressions, transportation routes, or similar circulation barriers."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/cairn> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/cairn>,
@@ -88,9 +89,11 @@
     skos:scopeNote "A cairn as defined by the Getty Art and Architecture Thesaurus term 300006960: \"Ancient landmarks, monuments, memorials, or burial places covered with stones or a large mound of earth, specific to Scotland, Ireland, and Wales\"."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/canal> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/canal>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/canal>,
+        <http://vocab.getty.edu/aat/300006075>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "canal"@en .
+    skos:prefLabel "canal"@en;
+    skos:scopeNote "A canal as defined by the Getty Art and Architecture Thesaurus: Artificial navigable waterways."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/cape> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/cape>;
@@ -103,6 +106,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "cascade"@en;
     skos:scopeNote "A cascade as defined by the Getty Art and Architecture Thesaurus: Man-made stepped waterfalls, whether naturalistic or architectural in form."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/castellum> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/castellum>,
+        <http://vocab.getty.edu/aat/300008450>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "castellum"@en;
+    skos:scopeNote "A castellum as defined by the Getty Art and Architecture Thesaurus: Small, ancient Roman fortified towns or outposts."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/causeway> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/causeway>;
@@ -134,7 +144,7 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/church>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "church, monastery"@en;
-    skos:scopeNote "Deprecated term employed by Barrington Atlas. See now separate \"church-2\" and \"abbey\" terms."@en .
+    skos:scopeNote "Deprecated type derived from a Barrington Atlas symbol."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/church-2> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/church-2>,
@@ -154,6 +164,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "cistern"@en;
     skos:scopeNote "A waterproof receptacle for retaining liquids, as described at http://en.wikipedia.org/wiki/Cistern. Equivalent to aat:300052558."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/city-block> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/city-block>,
+        <http://vocab.getty.edu/aat/300008077>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "city block"@en;
+    skos:scopeNote "A city block as defined by the Getty Art and Architecture Thesaurus: Pieces of land within urban areas usually bounded on all sides by streets or other transportation routes, natural physical barriers, or public open space and not traversed by through streets."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/city-gate> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/city-gate>;
@@ -246,7 +263,7 @@
         <http://vocab.getty.edu/aat/300266571>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "estuary"@en;
-    skos:scopeNote "Equivalent to Getty Art and Architecture Thesaurus term \"estuaries\": 300266571."@en .
+    skos:scopeNote "An estuary as defined by the Getty Art and Architecture Thesaurus: Category of marine body of water comprising areas where freshwater streams or rivers merge with the ocean."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/false> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/false>;
@@ -275,10 +292,38 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "fort, tower"@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/fort-2> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fort-2>,
+        <http://vocab.getty.edu/aat/300006909>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "fort"@en;
+    skos:scopeNote "A fort  as defined by the Getty Art and Architecture Thesaurus:  Permanent fortifications for troops, often surrounded by such elements as ditches, parapets, and ramparts and often used as advance posts in or near hostile territory."@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/fort-group> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fort-group>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "fort group"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/fortified-church> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fortified-church>,
+        <http://vocab.getty.edu/aat/300263447>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "church (fortified)"@en;
+    skos:scopeNote "A fortified church  as defined by the Getty Art and Architecture Thesaurus:  Churches fortified with strong walls, towers, and bridges."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/fortified-settlement> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fortified-settlement>,
+        <http://vocab.getty.edu/aat/300387238>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "settlement (fortified)"@en;
+    skos:scopeNote "A fortified settlement  as defined by the Getty Art and Architecture Thesaurus:  Settlements of any kind with defensive structures such as moats, enclosures, or ramparts."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/fortlet> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fortlet>,
+        <http://vocab.getty.edu/aat/300006910>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "fortlet"@en;
+    skos:scopeNote "A fortlet as defined by the Getty Art and Architecture Thesaurus:  Small or rudimentary forts, especially in the Roman period."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/fountain> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fountain>;
@@ -315,6 +360,13 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/hill>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "hill"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/hillfort> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/hillfort>,
+        <http://vocab.getty.edu/aat/300006911>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "hillfort"@en;
+    skos:scopeNote "A hillfort  as defined by the Getty Art and Architecture Thesaurus:  Defensive enclosures comprised of ramparts and ditches encircling a fortified structure on a central prominence; common in Bronze Age and Iron Age Europe."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/hunting-base> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/hunting-base>,
@@ -354,9 +406,11 @@
     skos:scopeNote "A league/organization/association as defined by the Getty Art and Architecture Thesaurus: Collections of people, groups, or nations that join for mutual protection or cooperation, or for another purpose."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/lighthouse> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/lighthouse>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/lighthouse>,
+        <http://vocab.getty.edu/aat/300007741>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "lighthouse"@en .
+    skos:prefLabel "lighthouse"@en;
+    skos:scopeNote "A lighthouse as defined by the Getty Art and Architecture Thesaurus: Towers or other structures equipped with a powerful light or lights (originally a signal fire) at the top, erected at important or dangerous points on or near the coast for the guidance of mariners."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/marsh-wetland> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/marsh-wetland>;
@@ -379,7 +433,15 @@
 <https://pleiades.stoa.org/vocabularies/place-types/mine> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/mine>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "mine, quarry"@en .
+    skos:prefLabel "mine, quarry (deprecated)"@en;
+    skos:scopeNote "Deprecated type derived from a Barrington Atlas symbol."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/mine-2> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/mine-2>,
+        <http://vocab.getty.edu/aat/300000390>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "mine"@en;
+    skos:scopeNote "A mine as defined by the Getty Art and Architecture Thesaurus: Excavation or systems of excavations, including pits or tunnels, made underground for the extraction of metals, metallic ores, coal, salt, precious stones, building stone, clay, or another substance, or an open-air excavation for the extraction of such substances."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/monument> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/monument>,
@@ -394,9 +456,11 @@
     skos:prefLabel "mosque"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/mountain> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/mountain>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/mountain>,
+        <http://vocab.getty.edu/aat/300008795>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "mountain"@en .
+    skos:prefLabel "mountain"@en;
+    skos:scopeNote "A mountain as defined by the Getty Art and Architecture Thesaurus: Prominent landforms rising considerably above the surrounding area, typically having steep slopes, a sharp summit area, and large mass. Mountains rarely occur individually, and in most cases, are found in ranges, chains, or systems."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/mouth> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/mouth>,
@@ -453,8 +517,8 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/pass>,
         <http://vocab.getty.edu/aat/300259572>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "pass, \"gates\""@en;
-    skos:scopeNote "Equivalent to Getty AAT term 300259572 \"passes (landforms)\". \"Refers to narrow routes through or gaps in mountain ranges allowing passage across.\""@en .
+    skos:prefLabel "pass, \"gates\" (landform)"@en;
+    skos:scopeNote "A pass as defined by the Getty Art and Architecture Thesaurus: Refers to narrow routes through or gaps in mountain ranges allowing passage across."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/peninsula> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/peninsula>;
@@ -465,14 +529,8 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/people>,
         <http://vocab.getty.edu/aat/300387177>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "people, tribe"@en;
-    skos:scopeNote "Equivalent to Getty AAT term \"historical cultural groups\":300387177."@en .
-
-<https://pleiades.stoa.org/vocabularies/place-types/pig-pen> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/pig-pen>;
-    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "pig pen"@en;
-    skos:scopeNote "test value"@en .
+    skos:prefLabel "people, tribe (historial cultural group)"@en;
+    skos:scopeNote "A historical cultural group as defined by the Getty Art and Architecture Thesaurus: Societies or groups of people who once existed and were characterized by common ideas, customs, or social behavior within a particular nation or people and period."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/piscina-roman> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/piscina-roman>,
@@ -542,6 +600,13 @@
     skos:prefLabel "pyramid"@en;
     skos:scopeNote "A pyramid as defined by the Getty Art and Architecture Thesaurus term 300004838: \"Monumental structures with a square or triangular base and inclined triangular sides, usually meeting at a point. The most famous pyramids are those used as mausolea in ancient Egypt; they were focal points of much larger funerary complexes. However, pyramids, usually with flat tops, are also found in Central America, where they were used as platforms for altars or temples, occasionally also covering the burial chamber of a ruler.\""@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/quarry> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/quarry>,
+        <http://vocab.getty.edu/aat/300000402>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "quarry"@en;
+    skos:scopeNote "A quarry as defined by the Getty Art and Architecture Thesaurus: Open-air excavations from which stone for building or other purposes is or has been obtained by cutting or blasting."@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/rapid> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/rapid>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
@@ -564,9 +629,11 @@
     skos:prefLabel "reservoir, hafir"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/ridge> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/ridge>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/ridge>,
+        <http://vocab.getty.edu/aat/300266640>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "ridge"@en .
+    skos:prefLabel "ridge"@en;
+    skos:scopeNote "A ridge as defined by the Getty Art and Architecture Thesaurus: Ridges are elongated strips of elevated ground that may be either on dry land or underwater."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/river> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/river>;
@@ -604,9 +671,11 @@
     skos:scopeNote "A satrapy as defined by the Getty Art and Architecture Thesaurus: An administrative division of the Persian empire under the Achaemenid and later administrations."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/settlement> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/settlement>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/settlement>,
+        <http://vocab.getty.edu/aat/300008347>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "settlement"@en .
+    skos:prefLabel "settlement"@en;
+    skos:scopeNote "Equivalent to \"inhabited place\" as defined by the Getty Art and Architecture Thesaurus: General term for places or areas occupied, modified, or planned to be inhabited by communities of human populations and that contain enough societal functions to be relatively self-sufficient. They are characterized by inhabitants living in neighboring sets of living quarters and by the place having a proper name or a locally recognized status."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/settlement-modern> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/settlement-modern>;
@@ -646,7 +715,7 @@
         <http://vocab.getty.edu/aat/300008697>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "spring"@en;
-    skos:scopeNote "Equivalent to Getty AAT term \"springs (bodies of water)\": 300008697. \"Water issuing naturally from the rock or soil upon the land or into a body of surface water.\""@en .
+    skos:scopeNote "A spring as defined by the Getty Art and Architecture Thesaurus: Water issuing naturally from the rock or soil upon the land or into a body of surface water."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/stadion> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/stadion>;
@@ -716,6 +785,62 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "tomb"@en;
     skos:scopeNote "A tomb as defined by the Getty Art and Architecture Thesaurus term 300005926: \"Elaborations constructed over or around burial sites.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/tower-church> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tower-church>,
+        <http://vocab.getty.edu/aat/300003625>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "tower (church)"@en;
+    skos:scopeNote "A church tower as defined by the Getty Art and Architecture Thesaurus: Towers attached to churches."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/tower-defensive> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tower-defensive>,
+        <http://vocab.getty.edu/aat/300004862>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "tower (defensive)"@en;
+    skos:scopeNote "A defensive tower as as defined by the Getty Art and Architecture Thesaurus: Towers used specifically for defense purposes."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/tower-division> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tower-division>,
+        <http://vocab.getty.edu/aat/300003615>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "tower (building division)"@en;
+    skos:scopeNote "A tower that is part of a larger structure as defined by the Getty Art and Architecture Thesaurus: Parts of buildings with walls rising considerably above the rest, usually with vertical proportions, and to some extent architecturally distinct."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/tower-gate> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tower-gate>,
+        <http://vocab.getty.edu/aat/300003627>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "tower (gate)"@en;
+    skos:scopeNote "A gate tower as defined by the Getty Art and Architecture Thesaurus: Towers containing and protecting gates, as to fortresses or walled cities."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/tower-mill> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tower-mill>,
+        <http://vocab.getty.edu/aat/300411567>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "tower mill"@en;
+    skos:scopeNote "A tower mill as defined by the Getty Art and Architecture Thesaurus: Windmills having the form of a masonry tower, atop which are positioned a rotating cap and the sails."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/tower-single> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tower-single>,
+        <http://vocab.getty.edu/aat/300004847>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "tower (single)"@en;
+    skos:scopeNote "A single tower as defined by the Getty Art and Architecture Thesaurus: Detached or isolated buildings or other structures high in proportion to their lateral dimensions."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/tower-tomb> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tower-tomb>,
+        <http://vocab.getty.edu/aat/300120649>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "tower tomb"@en;
+    skos:scopeNote "A tower-tomb as defined by the Getty Art and Architecture Thesaurus: Used to designate ancient Roman funerary structures of several stories usually rising from a stepped square or rectangular base and topped by a pyramidal, domical, or flat roof."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/tower-wall> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/tower-wall>,
+        <http://vocab.getty.edu/aat/300003639>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "tower (wall)"@en;
+    skos:scopeNote "A wall tower as defined by the Getty Art and Architecture Thesaurus: Towers incorporated into a protective wall, such as the wall around a city or castle."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/townhouse> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/townhouse>;
@@ -788,7 +913,7 @@
         <http://vocab.getty.edu/aat/300005517>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "villa"@en;
-    skos:scopeNote "Equivalent to Getty Art and Architecture Thesaurus term \"villas\": 300005517."@en .
+    skos:scopeNote "A villa as defined by the Getty Art and Architecture Thesaurus: Used since the Roman period to designate country houses, generally of some pretension, and often including their outbuildings and gardens."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/volcano> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/volcano>,
@@ -801,7 +926,7 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/wall>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "wall, earthwork (deprecated)"@en;
-    skos:scopeNote "Deprecated term employed by Barrington Atlas. See now separate \"wall\" and \"earthwork\" categories."@en .
+    skos:scopeNote "Deprecated type derived from a Barrington Atlas symbol."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/wall-2> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/wall-2>,
@@ -848,6 +973,13 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/whirlpool>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "whirlpool"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/ziggurat> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/ziggurat>,
+        <http://vocab.getty.edu/aat/300007626>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "ziggurat"@en;
+    skos:scopeNote "A ziggurat as defined by the Getty Art and Architecture Thesaurus: Ancient Mesopotamian temple towers in the form of stepped pyramids."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
     dcterms:description "Named time periods for the site.";
