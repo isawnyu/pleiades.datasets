@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        36.245418,
-        34.929802,
-        36.256892,
-        34.931081
+        36.2445843,
+        34.9297592,
+        36.2458798,
+        34.9311801
     ],
     "connections": [],
     "connectsWith": [],
@@ -63,24 +63,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    36.256892,
-                    34.929802
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-15904",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/668205/darmc-location-15904",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 15904"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     36.245418,
                     34.931081
                 ],
@@ -95,9 +77,65 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            36.2455238,
+                            34.9297592
+                        ],
+                        [
+                            36.2445843,
+                            34.9299792
+                        ],
+                        [
+                            36.2450336,
+                            34.931137
+                        ],
+                        [
+                            36.2452846,
+                            34.9311801
+                        ],
+                        [
+                            36.2455997,
+                            34.9311083
+                        ],
+                        [
+                            36.2458798,
+                            34.9309504
+                        ],
+                        [
+                            36.2455238,
+                            34.9297592
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-baitokaike",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/668205/osm-location-of-baitokaike",
+                "location_precision": "precise",
+                "snippet": "Sanctuary; 30 BC - AD 300",
+                "title": "OSM location of Baitokaike"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up Batlas references",
+            "modified": "2021-02-01T22:51:55Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-02-01T22:49:58Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "RE Baitokaike",
             "modified": "2021-01-31T16:07:53Z",
@@ -131,92 +169,6 @@
     ],
     "id": "668205",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T22:46:23Z",
-            "creators": [
-                {
-                    "name": "J.P. Brown",
-                    "username": null
-                },
-                {
-                    "name": "P.-L. Gatier",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 15904",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    36.256892,
-                    34.929802
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:44:55Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T22:46:25Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-15904",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 15904",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15904",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15904.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 15904",
-            "uri": "https://pleiades.stoa.org/places/668205/darmc-location-15904"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
@@ -308,6 +260,113 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/668205/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-01-31T16:05:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "sanctuary"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            36.2455238,
+                            34.9297592
+                        ],
+                        [
+                            36.2445843,
+                            34.9299792
+                        ],
+                        [
+                            36.2450336,
+                            34.931137
+                        ],
+                        [
+                            36.2452846,
+                            34.9311801
+                        ],
+                        [
+                            36.2455997,
+                            34.9311083
+                        ],
+                        [
+                            36.2458798,
+                            34.9309504
+                        ],
+                        [
+                            36.2455238,
+                            34.9297592
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2021-01-31T16:05:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-01-31T16:05:26Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-baitokaike",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+            ],
+            "provenance": "OpenStreetMap (Way 207400665, version 2, osm:changeset=98455240, 2021-01-31T16:04:58Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/207400665",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 207400665",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=207400665",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Baitokaike",
+            "uri": "https://pleiades.stoa.org/places/668205/osm-location-of-baitokaike"
         }
     ],
     "names": [
@@ -387,14 +446,14 @@
     "provenance": "Barrington Atlas: BAtlas 68 B4 Baitokaike",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "68 B4 Baitokaike",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 68 B4 Baitokaike",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -402,11 +461,11 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/c.html#CIG-3.4474",
             "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "CIG 3.4474",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "https://www.google.com/books/edition/Arados_et_sa_p%C3%A9r%C3%A9e_aux_%C3%A9poques_grecqu/xLZcngEACAAJ?hl=en",
@@ -451,6 +510,17 @@
             "otherIdentifier": "",
             "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15904",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
