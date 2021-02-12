@@ -10,11 +10,11 @@
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,6 +22,18 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2009-09-17T13:19:51Z",
@@ -54,6 +66,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "updates",
+            "modified": "2021-02-10T15:47:31Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "DARE feature tag fix.",
             "modified": "2012-10-23T19:33:33Z",
@@ -173,11 +190,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "19415",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19415.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -254,11 +271,11 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/mine"
+        "https://pleiades.stoa.org/vocabularies/place-types/mine-2"
     ],
     "placeTypes": [
         "settlement",
-        "mine"
+        "mine-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 71 A4 Phaino",
     "references": [
@@ -267,33 +284,33 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "BAtlas 71 A4 Phaino",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/h.html#Hauptmann-1992",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3TFMQ2V9",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Hauptmann 1992",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hauptmann, A., and G. Weisgerber. “Periods of Ore Exploitation and Metal Production in the Area of Feinan, Wadi ’Araba, Jordan.” In <i>Studies in the History and Archaeology of Jordan 4</i>, 61–66. Amman, 1992.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Hauptmann 1992",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.tandfonline.com/doi/abs/10.1179/lev.1999.31.1.255",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Barker-1999",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BDUIUJZK",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Barker 1999",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Barker, G.W., R. Adams, O.H. Creighton, D. Crook, D.D. Gilbertson, and J.P. Grattan. “Environment and Land Use in the Wadi Faynan, Southern Jordan: The Third Season of Geoarchaeology and Landscape Archaeology (1998).” <i>Levant</i> 31 (1999): 255–92. https://doi.org/https://doi.org/10.1179/lev.1999.31.1.255.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Barker 1999",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
@@ -305,8 +322,8 @@
     "subject": [
         "dare:ancient=1",
         "copper",
-        "dare:major=1",
-        "dare:feature=major settlement"
+        "dare:feature=major settlement",
+        "dare:major=1"
     ],
     "title": "Phaino",
     "type": "FeatureCollection",
