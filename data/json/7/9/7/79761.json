@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        1.0,
-        52.0,
-        2.0,
-        53.0
+        1.1376194,
+        52.0779758,
+        1.1376194,
+        52.0779758
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,38 +49,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            1.0,
-                            52.0
-                        ],
-                        [
-                            1.0,
-                            53.0
-                        ],
-                        [
-                            2.0,
-                            53.0
-                        ],
-                        [
-                            2.0,
-                            52.0
-                        ],
-                        [
-                            1.0,
-                            52.0
-                        ]
-                    ]
+                    1.1376194,
+                    52.0779758
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "osm-location-of-castle-hill",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/79761/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Undetermined location"
+                "description": "Location of the modern associated settlement based on a node derived from OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/79761/osm-location-of-castle-hill",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of Castle Hill"
             },
             "type": "Feature"
         }
@@ -111,8 +91,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -120,99 +100,73 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-30T22:41:40Z",
+            "contributors": [],
+            "created": "2019-06-17T15:59:26Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location of the modern associated settlement based on a node derived from OpenStreetMap.",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            1.0,
-                            52.0
-                        ],
-                        [
-                            1.0,
-                            53.0
-                        ],
-                        [
-                            2.0,
-                            53.0
-                        ],
-                        [
-                            2.0,
-                            52.0
-                        ],
-                        [
-                            1.0,
-                            52.0
-                        ]
-                    ]
+                    1.1376194,
+                    52.0779758
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:34:44Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2019-06-17T16:00:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-06-17T15:59:26Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location-of-castle-hill",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 8 I2 Whitton",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 146552250, version 6, osm:changeset=51775189, 2017-09-06T09:35:59Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/146552250",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 146552250",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=146552250",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/79761/undetermined"
+            "start": 1700,
+            "title": "OSM location of Castle Hill",
+            "uri": "https://pleiades.stoa.org/places/79761/osm-location-of-castle-hill"
         }
     ],
     "names": [],
@@ -231,49 +185,49 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "BAtlas 8 I2 Whitton",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/624430910",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EGWGRRDJ",
             "citationDetail": "174",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Scott, Eleanor. <i>A Gazetteer of Roman Villas in Britain</i>. Leicester: Leicester University Archaeological Research Centre, 1993. http://www.worldcat.org/oclc/624430910.</div>",
             "otherIdentifier": "",
             "shortTitle": "Scott 1993",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.pastscape.org.uk/hob.aspx?hob_id=388170",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GLEU38X",
             "citationDetail": "388170",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>PastScape: Information on England’s Archaeology and Architecture</i>, 2015. https://www.pastscape.org.uk/.</div>",
             "otherIdentifier": "",
             "shortTitle": "PastScape",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://en.wikipedia.org/wiki/Castle_Hill,_Suffolk",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Castle Hill, Suffolk",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        1.5,
-        52.5
+        1.1376194,
+        52.0779758
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

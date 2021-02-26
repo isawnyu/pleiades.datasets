@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        16.0,
-        48.0,
-        17.0,
-        49.0
+        16.2334951,
+        48.0085749,
+        16.2334951,
+        48.0085749
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,38 +49,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            16.0,
-                            48.0
-                        ],
-                        [
-                            16.0,
-                            49.0
-                        ],
-                        [
-                            17.0,
-                            49.0
-                        ],
-                        [
-                            17.0,
-                            48.0
-                        ],
-                        [
-                            16.0,
-                            48.0
-                        ]
-                    ]
+                    16.2334951,
+                    48.0085749
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "osm-location-of-modern-baden",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/197125/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Undetermined location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/197125/osm-location-of-modern-baden",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of modern Baden"
             },
             "type": "Feature"
         }
@@ -111,8 +91,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -120,104 +100,73 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-20T13:29:50Z",
+            "contributors": [],
+            "created": "2019-05-25T15:17:34Z",
             "creators": [
                 {
-                    "name": "P. Kos",
-                    "username": null
-                },
-                {
-                    "name": "M. Šašel Kos",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            16.0,
-                            48.0
-                        ],
-                        [
-                            16.0,
-                            49.0
-                        ],
-                        [
-                            17.0,
-                            49.0
-                        ],
-                        [
-                            17.0,
-                            48.0
-                        ],
-                        [
-                            16.0,
-                            48.0
-                        ]
-                    ]
+                    16.2334951,
+                    48.0085749
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:44:07Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2019-05-25T15:18:03Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:24:14Z",
-                    "modifiedBy": "admin"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-05-25T15:17:34Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location-of-modern-baden",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 20 D1 Aquae",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 34103911, version 20, osm:changeset=59899765, 2018-06-16T18:23:43Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/34103911",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 34103911",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=34103911",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/197125/undetermined"
+            "start": 1700,
+            "title": "OSM location of modern Baden",
+            "uri": "https://pleiades.stoa.org/places/197125/osm-location-of-modern-baden"
         }
     ],
     "names": [
@@ -310,38 +259,38 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "BAtlas 20 D1 Aquae",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/311333372",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ETQQUU4G",
             "citationDetail": "21",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Castra Regina - Vindobona - Carnuntum</i>. Tabula Imperii Romani M33. Prague, Czechoslovakia: Geodeticky a kartograficky podnik v Praze; Ceskoslovenská akademie ved: Kabinet pro studia recká, rimská a latinská, 1984. http://www.worldcat.org/oclc/311333372.</div>",
             "otherIdentifier": "",
             "shortTitle": "TIR CastReg",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://en.wikipedia.org/wiki/Baden_bei_Wien",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Baden bei Wien",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        16.5,
-        48.5
+        16.2334951,
+        48.0085749
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

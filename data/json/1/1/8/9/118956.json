@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         8.493333,
-        48.273889,
-        8.493333,
+        48.273137,
+        8.4933629,
         48.273889
     ],
     "connections": [],
@@ -14,15 +14,7 @@
             "username": null
         },
         {
-            "name": "M. Puhane",
-            "username": null
-        },
-        {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -36,18 +28,52 @@
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "M. Puhane",
+            "username": null
         }
     ],
-    "created": "2010-06-11T21:09:34Z",
+    "created": "2021-02-22T11:39:31Z",
     "creators": [
         {
             "name": "H. Bender",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 12 B4 Schramberg",
-    "details": "The Barrington Atlas Directory notes: Schramberg, Waldmössingen",
+    "description": "A Roman border fort and associated vicus located near the modern German town of Schramberg.",
+    "details": "<p>The Barrington Atlas Directory notes: Schramberg, Waldmössingen</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.4933629,
+                    48.273137
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-rapmerkastell-waldmapssingen",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/118956/osm-location-of-rapmerkastell-waldmapssingen",
+                "location_precision": "precise",
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM location of Römerkastell Waldmössingen"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -56,18 +82,33 @@
                 ],
                 "type": "Point"
             },
-            "id": "center-point-of-archaeological-site-waldmoessingen",
+            "id": "imagery-location-center-point",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/118956/center-point-of-archaeological-site-waldmoessingen",
+                "link": "https://pleiades.stoa.org/places/118956/imagery-location-center-point",
                 "location_precision": "precise",
                 "snippet": "Unknown",
-                "title": "Center point of archaeological site Waldmössingen"
+                "title": "Imagery Location: Center point of archaeological site Waldmössingen"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "changed title, added summary; cleaned up Batlas reference; added other references; added names",
+            "modified": "2021-02-22T15:01:34Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2021-02-22T11:39:30Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update",
+            "modified": "2021-02-21T19:05:56Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T23:14:00Z",
@@ -103,13 +144,99 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-02-21T19:06:42Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "fort-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    8.4933629,
+                    48.273137
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2021-02-21T19:06:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-02-21T19:06:42Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-rapmerkastell-waldmapssingen",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "provenance": "OpenStreetMap (Node 375976927, version 4, osm:changeset=16426077, 2013-06-04T23:21:51Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/375976927",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 375976927",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=375976927",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Römerkastell Waldmössingen",
+            "uri": "https://pleiades.stoa.org/places/118956/osm-location-of-rapmerkastell-waldmapssingen"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
             "created": "2011-11-16T12:10:20Z",
             "creators": [
                 {
@@ -157,7 +284,7 @@
                     "modifiedBy": "jahlfeldt"
                 }
             ],
-            "id": "center-point-of-archaeological-site-waldmoessingen",
+            "id": "imagery-location-center-point",
             "locationType": [
                 "representative"
             ],
@@ -171,54 +298,265 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
                     "citationDetail": "Kastell Waldmössingen",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/cites",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
                     "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Kastell Waldmössingen.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (German)",
-                    "type": "cites"
+                    "type": "http://purl.org/spar/cito/cites"
                 }
             ],
             "review_state": "published",
             "start": null,
-            "title": "Center point of archaeological site Waldmössingen",
-            "uri": "https://pleiades.stoa.org/places/118956/center-point-of-archaeological-site-waldmoessingen"
+            "title": "Imagery Location: Center point of archaeological site Waldmössingen",
+            "uri": "https://pleiades.stoa.org/places/118956/imagery-location-center-point"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Schramberg",
+            "contributors": [],
+            "created": "2021-02-22T11:43:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Barrington Atlas label",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "comment": "batlas reference",
+                    "modified": "2021-02-22T11:43:50Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "schramberg",
+            "language": "de",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "12 B4 Schramberg",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Schramberg",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/118956/schramberg"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Kastell Waldmössingen",
+            "contributors": [],
+            "created": "2021-02-22T11:45:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-02-22T11:53:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2021-02-22T11:45:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-02-22T11:45:11Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "kastell-waldmossingen",
+            "language": "de",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://de.wikipedia.org/wiki/Kastell_Waldm%C3%B6ssingen",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
+                    "citationDetail": "Kastell Waldmössingen",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (German)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Kastell Waldmössingen, Waldmössingen (Kastell)",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/118956/kastell-waldmossingen"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Römerkastell in Waldmössingen",
+            "contributors": [],
+            "created": "2021-02-22T11:51:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-02-22T11:53:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-02-22T11:51:38Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "romerkastell-in-waldmossingen",
+            "language": "de",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.schramberg.de/de/Unsere-Stadt/Die-Stadt/Sehenswertes/Museen/Roemerkastell",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XGHPA97M",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Schramberg.de. “Römerkastell in Waldmössingen,” n.d. https://www.schramberg.de/de/Unsere-Stadt/Die-Stadt/Sehenswertes/Museen/Roemerkastell.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Römerkastell in Waldmössingen",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Römerkastell in Waldmössingen, Waldmössingen (Römerkastell)",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/118956/romerkastell-in-waldmossingen"
+        }
+    ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
         "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 12 B4 Schramberg",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 12 B4 Schramberg",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "12 B4 Schramberg",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Römer-Baden-Württemberg-544-46",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Römer Baden-Württemberg 544-46",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K6S4HPPI",
+            "citationDetail": "544-46",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">P Filtzinger, D Planck, and B Cämmerer, eds. <i>Die Römer in Baden-Württemberg</i>. 3rd ed. Stuttgart: K. Theiss, 1986.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Römer Baden-Württemberg",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.schramberg.de/de/Unsere-Stadt/Die-Stadt/Sehenswertes/Museen/Roemerkastell",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XGHPA97M",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Schramberg.de. “Römerkastell in Waldmössingen,” n.d. https://www.schramberg.de/de/Unsere-Stadt/Die-Stadt/Sehenswertes/Museen/Roemerkastell.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Römerkastell in Waldmössingen",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://de.wikipedia.org/wiki/Kastell_Waldm%C3%B6ssingen",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
+            "citationDetail": "Kastell Waldmössingen",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (German)",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        8.493333,
-        48.273889
+        8.49334795,
+        48.273512999999994
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -227,7 +565,7 @@
         "dare:ancient=0",
         "dare:feature=fort"
     ],
-    "title": "Schramberg",
+    "title": "Kastell Waldmössingen",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/118956"
 }

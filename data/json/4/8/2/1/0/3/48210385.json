@@ -10,13 +10,25 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": [
-                "at"
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
+                }
             ],
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/['at']",
+            "connectionType": "succeeds",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/succeeds",
             "connectsTo": "https://pleiades.stoa.org/places/413005",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-11-04T16:36:13Z",
             "creators": [
                 {
@@ -28,13 +40,19 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 1453,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-01-27T22:21:22Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "3733956186",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": 640,
             "title": "Alba Fucens",
             "uri": "https://pleiades.stoa.org/places/48210385/3733956186"
         }
@@ -180,11 +198,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "Node 2385554830",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "osm:node=2385554830",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -207,11 +225,11 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Alba Fucens",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Alba Fucens.",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (Italian)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [

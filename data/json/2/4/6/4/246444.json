@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        2.0,
-        41.0,
-        3.0,
-        42.0
+        2.2311995,
+        41.4647861,
+        2.2311995,
+        41.4647861
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,38 +53,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            2.0,
-                            41.0
-                        ],
-                        [
-                            2.0,
-                            42.0
-                        ],
-                        [
-                            3.0,
-                            42.0
-                        ],
-                        [
-                            3.0,
-                            41.0
-                        ],
-                        [
-                            2.0,
-                            41.0
-                        ]
-                    ]
+                    2.2311995,
+                    41.4647861
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-montigala-peak",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/246444/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/246444/osm-location-of-montigala-peak",
+                "location_precision": "precise",
+                "snippet": "Unknown; AD 1700 - AD 2100",
+                "title": "OSM location of Montigalà (peak)"
             },
             "type": "Feature"
         }
@@ -115,53 +95,32 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-09T18:59:16Z",
+            "contributors": [],
+            "created": "2019-04-29T20:47:23Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2100,
             "featureType": [
                 "unknown"
             ],
@@ -170,51 +129,48 @@
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            2.0,
-                            41.0
-                        ],
-                        [
-                            2.0,
-                            42.0
-                        ],
-                        [
-                            3.0,
-                            42.0
-                        ],
-                        [
-                            3.0,
-                            41.0
-                        ],
-                        [
-                            2.0,
-                            41.0
-                        ]
-                    ]
+                    2.2311995,
+                    41.4647861
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:32:43Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2019-04-29T20:47:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-04-29T20:47:23Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-montigala-peak",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "provenance": "Barrington Atlas: BAtlas 25 H4 Iovis M.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1274365854, version 7, osm:changeset=53731924, 2017-11-13T07:24:34Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1274365854",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1274365854",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1274365854",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/246444/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Montigalà (peak)",
+            "uri": "https://pleiades.stoa.org/places/246444/osm-location-of-montigala-peak"
         }
     ],
     "names": [
@@ -298,49 +254,49 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "BAtlas 25 H4 Iovis M.",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ABR6SR8Q",
             "citationDetail": "I, 328",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Schulten, Adolf. <i>Geografía y Etnografía Antiguas de La Peninsula Ibérica</i>. 2 vols. Madrid: Consejo Superior de Investigaciones Científicas, Instituto Rodrigo Caro de Arqueología, 1959.</div>",
             "otherIdentifier": "",
             "shortTitle": "Schulten 1959",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5XZAGXE7",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">M. Prevosti i Monclús. “El Mons Iovis de Mela I El Culte Solar de Montigalà Dins El Panorama Religiós de l’àrea Iberromana Catalana.” <i>Fonaments</i> 6 (1996): 77–120.</div>",
             "otherIdentifier": "",
             "shortTitle": "Prevosti i Monclús 1996",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/40415507",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XH3XVBTP",
             "citationDetail": "94",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Cepas, Adela, Joseph Guitart i Duran, and Guillermo Fatás Cabeza. <i>Tabula Imperii Romani: K/J-31 Pyrénées Orientales/Baleares: Tarraco - Baliares</i>. Tabula Imperii Romani, K/J-31. Pyreneés Orientales-Baleares. Madrid: Ministerio de Fomento: Ministerio de Educación y Cultura CSIC : Institut D’Estudis Catalans, 1997. http://www.worldcat.org/oclc/40415507.</div>",
             "otherIdentifier": "",
             "shortTitle": "TIR Tarraco",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        2.5,
-        41.5
+        2.2311995,
+        41.4647861
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

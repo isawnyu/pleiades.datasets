@@ -10,11 +10,11 @@
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,6 +22,18 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2009-09-08T19:44:46Z",
@@ -32,7 +44,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 35 G2 Ras el-Hammam",
-    "details": "The Barrington Atlas notes material(s): Ls",
+    "details": "<p>The Barrington Atlas notes material(s): Ls</p>",
     "features": [
         {
             "geometry": {
@@ -54,6 +66,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2021-02-20T00:44:05Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "ctype",
+            "modified": "2021-02-20T00:36:51Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:48:47Z",
@@ -158,11 +180,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
                     "citationDetail": "19057",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19057.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -173,10 +195,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/mine"
+        "https://pleiades.stoa.org/vocabularies/place-types/quarry"
     ],
     "placeTypes": [
-        "mine"
+        "quarry"
     ],
     "provenance": "Barrington Atlas: BAtlas 35 G2 Ras el-Hammam",
     "references": [
@@ -185,22 +207,33 @@
             "alternateURI": "",
             "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "BAtlas 35 G2 Ras el-Hammam",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Brouquier-Reddé-1992-125-26",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Brouquier-Reddé 1992 125-26",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVJEI3WI",
+            "citationDetail": "125-26",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Brouquier-Reddé, Véronique. <i>Temples et Cultes de Tripolitaine</i>. Etudes d’Antiquités Africaines. Paris: Editions du Centre national de la recherche scientifique, 1992.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Brouquier-Reddé 1992",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6NRDLKH6",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Munzi, Massimiliano, Enrico Cirelli, and Fabrizio Felici. “Il territorio di Leptis Magna: ricognizioni tra Ras el-Mergheb e Ras el-Hammam (2007).” In <i>L’Africa Romana. Atti del 18 convegno di studio, Olbia, 11-14 dicembre 2008</i>, 725–48. Roma: Carocci Editore, 2010.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Munzi 2010",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
@@ -211,9 +244,9 @@
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
+        "dare:ancient=0",
         "dare:feature=mine",
-        "limestone",
-        "dare:ancient=0"
+        "limestone"
     ],
     "title": "Ras el-Hammam",
     "type": "FeatureCollection",

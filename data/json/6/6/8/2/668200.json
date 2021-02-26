@@ -1,12 +1,85 @@
 {
     "@type": "Place",
     "bbox": [
-        36.415717,
-        35.302796,
-        36.415717,
-        35.302796
+        36.4,
+        35.2833333,
+        36.4,
+        35.2833333
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "middle-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-bronze-age-southern-levant"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "iron-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/iron-age-southern-levant"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "crusader-byzantine-seljuq-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/crusader-byzantine-seljuq-middle-east"
+                }
+            ],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/658560",
+            "contributors": [],
+            "created": "2020-11-04T07:57:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1204,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-11-04T07:58:03Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "orontes-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.crane.utoronto.ca/tell-acharneh.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Tell ‘Acharneh",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "CRANE",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -2000,
+            "title": "Orontes (river)",
+            "uri": "https://pleiades.stoa.org/places/668200/orontes-river"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/658560"
     ],
@@ -22,6 +95,12 @@
         {
             "name": "R. Warner",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -42,7 +121,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-10-19T12:21:28Z",
+    "created": "2020-11-04T07:40:04Z",
     "creators": [
         {
             "name": "J.P. Brown",
@@ -53,29 +132,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 68 B3 Asharne",
-    "details": "The Barrington Atlas Directory notes: Asharne",
+    "description": "Tell ‘Acharneh is located 35 km northwest of Hama, on the north bank of the Orontes River, at the crossroads of two main trade routes. This center for the production of oil, wax, and wheat was occupied during the Bronze and Iron Ages, as well as during the First Crusades. Its ancient name, Tunip, is known from second-millennium-BC sources. A stele fragment bearing an inscription of the Neo-Assyrian king Sargon II (r. 721–705 BCE) found there attests to the city’s occupation during the Iron Age.",
+    "details": "<p>An ancient place, cited: BAtlas 68 B3 Asharne. The Barrington Atlas Directory notes: Asharne</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    36.415717,
-                    35.302796
+                    36.4,
+                    35.2833333
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-11529",
+            "id": "62a644-627644639634627631646629",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/668200/darmc-location-11529",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/668200/62a644-627644639634627631646629",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 11529"
+                "snippet": "Settlement; 2000 BC - AD 1204",
+                "title": "OSM location of Tall al `Asharinah"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 11529 as related",
+            "modified": "2020-11-06T20:17:05Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Initial revision; Edited; updated references. check-in of working copy jbecker",
+            "modified": "2020-11-06T20:15:44Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2020-11-04T07:40:03Z",
@@ -106,98 +195,284 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "middle-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-bronze-age-southern-levant"
                 },
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "iron-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/iron-age-southern-levant"
+                },
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "neo-assyrian-babylonian-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/neo-assyrian-babylonian-middle-east"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "crusader-byzantine-seljuq-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/crusader-byzantine-seljuq-middle-east"
                 }
             ],
-            "created": "2011-03-09T20:46:30Z",
+            "contributors": [],
+            "created": "2020-11-04T07:31:10Z",
             "creators": [
                 {
-                    "name": "J.P. Brown",
-                    "username": null
-                },
-                {
-                    "name": "P.-L. Gatier",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 11529",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 1204,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    36.415717,
-                    35.302796
+                    36.4,
+                    35.2833333
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:44:52Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2020-11-04T08:08:18Z",
+                    "modifiedBy": "jnovotny"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T20:46:31Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2020-11-04T07:39:00Z",
+                    "modifiedBy": "jnovotny"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-11-04T07:31:10Z",
+                    "modifiedBy": "jnovotny"
                 }
             ],
-            "id": "darmc-location-11529",
+            "id": "62a644-627644639634627631646629",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 11529",
+            "provenance": "OpenStreetMap (Node 567200874, version 1, osm:changeset=3164487, 2009-11-19T21:51:55Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/567200874",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "11529",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 11529.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 567200874",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=567200874",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://www.crane.utoronto.ca/tell-acharneh.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Tell ‘Acharneh",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "CRANE",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "http://www.acharneh.hst.ulaval.ca/english/frameInter.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Location",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "Tell Acharneh",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "http://www.acharneh.hst.ulaval.ca/english/frameInter.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Satellite",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "Tell Acharneh",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 11529",
-            "uri": "https://pleiades.stoa.org/places/668200/darmc-location-11529"
+            "start": -2000,
+            "title": "OSM location of Tall al `Asharinah",
+            "uri": "https://pleiades.stoa.org/places/668200/62a644-627644639634627631646629"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "تل العشارنة",
+            "contributors": [],
+            "created": "2020-11-04T08:00:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2020-11-04T08:02:00Z",
+                    "modifiedBy": "jnovotny"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-11-04T08:00:42Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "tell-2018acharneh",
+            "language": "ar",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.crane.utoronto.ca/tell-acharneh.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Tell ‘Acharneh",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "CRANE",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "http://www.acharneh.hst.ulaval.ca/english/frameInter.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "Tell Acharneh",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Tell ‘Acharneh",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/668200/tell-2018acharneh"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "middle-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-bronze-age-southern-levant"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-bronze-age-southern-levant",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-bronze-age-southern-levant"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2020-11-04T08:03:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jamie Novotny",
+                    "uri": "https://pleiades.stoa.org/author/jnovotny",
+                    "username": "jnovotny"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -1200,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-11-04T08:03:54Z",
+                    "modifiedBy": "jnovotny"
+                }
+            ],
+            "id": "tunip",
+            "language": "akk",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.crane.utoronto.ca/tell-acharneh.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Tell ‘Acharneh",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "CRANE",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Tunip",
+            "start": -2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/668200/tunip"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
@@ -207,38 +482,73 @@
     "provenance": "Barrington Atlas: BAtlas 68 B3 Asharne",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "BAtlas 68 B3 Asharne",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "68 B3 Asharne",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Mouterde-1945-29",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Mouterde 1945 29",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FV5GD3XM",
+            "citationDetail": "29",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Mouterde, René, and A Poidebard. <i>Le Limes de Chalcis: Organisation de La Steppe En Haute Syrie Romaine</i>. xvi, 1 vols. Bibliothèque Archéologique et Historique 38. Paris: P. Geuthner, 1945.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Mouterde 1945",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.crane.utoronto.ca/tell-acharneh.html",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "Tell ‘Acharneh",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "",
+            "otherIdentifier": "",
+            "shortTitle": "CRANE",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.acharneh.hst.ulaval.ca/english/frameInter.html",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "",
+            "otherIdentifier": "",
+            "shortTitle": "Tell Acharneh",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "11529",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        36.415717,
-        35.302796
+        36.4,
+        35.2833333
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
+        "ANE",
+        "Assyrian",
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
     "title": "Asharne",
     "type": "FeatureCollection",

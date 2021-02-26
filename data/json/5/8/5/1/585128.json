@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.644609,
-        37.937222,
-        23.706248,
-        37.938183
+        23.7026146,
+        37.9623675,
+        23.7026146,
+        37.9623675
     ],
     "connections": [
         {
@@ -49,11 +49,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Wikipedia: Long Walls",
                     "otherIdentifier": "",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -103,11 +103,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Wikipedia: Long Walls",
                     "otherIdentifier": "",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -169,11 +169,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
                     "citationDetail": "Long Walls",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -194,6 +194,12 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
@@ -206,15 +212,15 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-10-15T20:36:06Z",
@@ -230,43 +236,38 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            23.5,
-                            37.75
-                        ],
-                        [
-                            23.5,
-                            38.0
-                        ],
-                        [
-                            23.75,
-                            38.0
-                        ],
-                        [
-                            23.75,
-                            37.75
-                        ],
-                        [
-                            23.5,
-                            37.75
-                        ]
-                    ]
+                    23.7026146,
+                    37.9623675
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-i-i1-4i-r-i1-4i-ii-i-i1-2i-ii1i-i",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/585128/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/585128/osm-location-of-i-i1-4i-r-i1-4i-ii-i-i1-2i-ii1i-i",
+                "location_precision": "precise",
+                "snippet": "City-wall; 550 BC - 30 BC",
+                "title": "OSM location of Τμήμα του νοτιου σκέλους των μακρών τειχών επι των οδών Τέω και βρυουλων"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARE 25102",
+            "modified": "2020-07-16T02:03:35Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "reference links to zotero",
+            "modified": "2020-07-16T02:02:32Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added 2 topostext references, bkiesling as contributor",
+            "modified": "2020-07-16T01:52:59Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference; changed wikidata reference type",
             "modified": "2019-12-27T16:24:10Z",
@@ -322,9 +323,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -337,95 +338,84 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-10T21:30:37Z",
+            "contributors": [],
+            "created": "2020-07-16T01:55:25Z",
             "creators": [
                 {
-                    "name": "J.S. Traill",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap.",
             "details": "",
-            "end": 300,
+            "end": -30,
             "featureType": [
-                "unknown"
+                "city-wall"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/city-wall"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            23.5,
-                            37.75
-                        ],
-                        [
-                            23.5,
-                            38.0
-                        ],
-                        [
-                            23.75,
-                            38.0
-                        ],
-                        [
-                            23.75,
-                            37.75
-                        ],
-                        [
-                            23.5,
-                            37.75
-                        ]
-                    ]
+                    23.7026146,
+                    37.9623675
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:46:11Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2020-07-16T15:54:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-07-16T01:55:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-07-16T01:55:26Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-i-i1-4i-r-i1-4i-ii-i-i1-2i-ii1i-i",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/city-wall"
             ],
-            "provenance": "Barrington Atlas: BAtlas 59 B3",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 6932670810, version 2, osm:changeset=88055547, 2020-07-16T01:54:48Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/6932670810",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 6932670810",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=6932670810",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/585128/batlas-location"
+            "title": "OSM location of Τμήμα του νοτιου σκέλους των μακρών τειχών επι των οδών Τέω και βρυουλων",
+            "uri": "https://pleiades.stoa.org/places/585128/osm-location-of-i-i1-4i-r-i1-4i-ii-i-i1-2i-ii1i-i"
         }
     ],
     "names": [
@@ -477,11 +467,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "",
                     "citationDetail": "",
-                    "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
                     "formattedCitation": "Thuc. 1.107.1",
                     "otherIdentifier": "",
                     "shortTitle": "",
-                    "type": "seeFurther"
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
@@ -505,148 +495,181 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
             "citationDetail": "59 B3",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://openlibrary.org/works/OL8327792W.</div>",
             "otherIdentifier": " ",
             "shortTitle": "BAtlas",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7BDW7C76",
             "citationDetail": "155-60",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Judeich, Walther. <i>Topographie von Athen</i>. 2., Vollständig neubearb. Handbuch Der Altertumswissenschaft, 3. Abt., 2. T., 2. Bd. München: Beck, 1931.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Judeich 1931",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T77SWSVQ",
             "citationDetail": "288-91",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Traulos, Ioannes N. <i>Bildlexikon Zur Topographie Des Antiken Attika</i>. Tübingen: E. Wasmuth, 1988.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Travlos 1988",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://en.wikipedia.org/wiki/Long_Walls",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Long Walls",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://dx.doi.org/10.1163/ej.9789004162327.i-270",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/I3H3T4Y2",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Conwell, David H. <i>Connecting a City to the Sea: The History of the Athenian Long Walls</i>, 2008. http://dx.doi.org/10.1163/ej.9789004162327.i-270.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Conwell 2008",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.livius.org/articles/place/athens/athens-photos/athens-long-walls/?",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "Livius: Athens, Long Walls",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/726HWVKS",
+            "citationDetail": "Athens, Long Walls",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lendering, Jona. <i>Livius - Articles on Ancient History</i>, 1995. http://www.livius.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Livius.org",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://www.jstor.org/stable/499185",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9PDTX64J",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Scranton, Robert L. “The Fortifications of Athens at the Opening of the Peloponnesian War.” <i>American Journal of Archaeology</i> 42, no. 4 (1938): 525–36. https://doi.org/10.2307/499185.</div>",
             "otherIdentifier": "",
             "shortTitle": "Scranton 1938",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://www.wikidata.org/wiki/Q1163616",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
             "citationDetail": "Q1163616",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/citesAsRelated",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
-            "type": "citesAsRelated"
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
             "accessURI": "http://referenceworks.brillonline.com/browse/brill-s-new-pauly",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
             "citationDetail": "Fortifications I; Athens [1] II.7",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": "",
             "shortTitle": "New Pauly",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://referenceworks.brillonline.com/entries/supplementum-epigraphicum-graecum/seg-37-85-athens-law-on-rebuilding-the-walls-of-athens-peiraieus-and-the-long-walls-3076-bc-a37_85?s.num=1&s.q=long+walls",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "SEG 37-85",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S3GAFDX3",
+            "citationDetail": "37-85",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Supplementum Epigraphicum Graecum</i>, n.d.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "SEG",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://referenceworks.brillonline.com/entries/supplementum-epigraphicum-graecum/seg-58-101-mounichia-now-in-the-peiraieus-museum-law-concerning-repairs-to-the-walls-of-eetioneia-the-long-walls-and-the-rest-of-the-peiraieus-syngraphai-for-the-walls-of-mou",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
-            "formattedCitation": "SEG 58-101",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S3GAFDX3",
+            "citationDetail": "58-101",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Supplementum Epigraphicum Graecum</i>, n.d.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "SEG",
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://www.jstor.org/stable/10.2972/hesp.80.1.0071",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RMUAT8CX",
             "citationDetail": "",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Theocharaki, Anna Maria. “THE ANCIENT CIRCUIT WALL OF ATHENS: Its Changing Course and the Phases of Construction.” <i>Hesperia: The Journal of the American School of Classical Studies at Athens</i> 80, no. 1 (2011): 71–156. https://doi.org/10.2972/hesp.80.1.0071.</div>",
             "otherIdentifier": "",
             "shortTitle": "Theocharaki 2011",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "www.jstor.org/stable/581058",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/737Y7VFR",
             "citationDetail": "10",
-            "citationTypeURI": "https://pleiades.stoa.org/vocabularies/feature-type/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Catling, H. W. “Archaeology in Greece, 1976-77.” <i>Archaeological Reports</i>, no. 24 (1977): 3–69. www.jstor.org/stable/581058.</div>",
             "otherIdentifier": "",
             "shortTitle": "Catling 1977",
-            "type": "seeFurther"
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/380237FLW2",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "S Long Wall 2 (Athens) Tauros - Μακρά Τείχη",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/380237FLW1",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "S Long Wall 1 (Athens) 40 Tauros - Μακρά Τείχη",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://dare.ht.lu.se/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
+            "citationDetail": "25102",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Lund, Sweden: Department of Archaeology and Ancient History, Lund University, Sweden, 2015. http://dare.ht.lu.se/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARE",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.67564025,
-        37.93750575
+        23.7026146,
+        37.9623675
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
