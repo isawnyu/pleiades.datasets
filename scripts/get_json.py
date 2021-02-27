@@ -36,15 +36,29 @@ POSITIONAL_ARGUMENTS = [
     # each row is a list with 3 elements: name, type, help
 ]
 
+logger = logging.getLogger()
+
 
 def get_last_mod(p):
     dates = [parse_date(h['modified']) for h in p['history']]
     for loc in p['locations']:
         dates.extend([parse_date(h['modified']) for h in loc['history']])
+        dates.append(parse_date(loc['created']))
     for nam in p['names']:
         dates.extend([parse_date(h['modified']) for h in nam['history']])
-    # todo: connections once they're added to the JSON properly
-    return sorted(dates)[-1]
+        dates.append(parse_date(nam['created']))
+    for con in p['connections']:
+        dates.extend([parse_date(h['modified']) for h in con['history']])
+        dates.append(parse_date(con['created']))
+    sorted_dates = sorted(dates)
+    try:
+        last_date = sorted_dates[-1]
+    except IndexError:
+        logger.error(
+            'Could not find created or last modified date for place {}'
+            ''.format(p['id']))
+        raise
+    return last_date
 
 
 def main(**kwargs):
