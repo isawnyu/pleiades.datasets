@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2021/02/21 06:47:22.750989 US/Eastern
+# Date: 2021/02/28 06:47:22.631061 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 830
+# Triple count: 836
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -228,6 +228,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "delta"@en;
     skos:scopeNote "A delta as defined by the Getty Art and Architecture Thesaurus: Alluvial deposits at the mouths of rivers commonly forming nearly flat, fan-shaped plains of considerable area traversed by many separate branches of water."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/deme-attic> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/deme-attic>,
+        <https://www.wikidata.org/wiki/Q672490>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "deme (Athenian)"@en;
+    skos:scopeNote "A n administrative unit of the ancient Athenian state as defined in Wikidata Q672490."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/desert> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/desert>;
@@ -543,7 +550,7 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/people>,
         <http://vocab.getty.edu/aat/300387177>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "people, tribe (historial cultural group)"@en;
+    skos:prefLabel "people, tribe (historical cultural group)"@en;
     skos:scopeNote "A historical cultural group as defined by the Getty Art and Architecture Thesaurus: Societies or groups of people who once existed and were characterized by common ideas, customs, or social behavior within a particular nation or people and period."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/piscina-roman> a <http://www.w3.org/2004/02/skos/core#Concept>;
@@ -959,7 +966,7 @@
 <https://pleiades.stoa.org/vocabularies/place-types/water-inland> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/water-inland>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "water, inland"@en .
+    skos:prefLabel "water (inland)"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/water-open> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/water-open>;
