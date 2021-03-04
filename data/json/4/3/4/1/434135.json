@@ -1,12 +1,60 @@
 {
     "@type": "Place",
     "bbox": [
-        14.0,
-        41.0,
-        14.5,
-        41.5
+        14.1353813,
+        41.2483189,
+        14.1362163,
+        41.2488146
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/433146",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2017-11-05T02:40:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-03-03T23:55:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2017-11-05T02:40:01Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "teanum-sidicinum",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Teanum Sidicinum",
+            "uri": "https://pleiades.stoa.org/places/434135/teanum-sidicinum"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/433146"
     ],
@@ -34,56 +82,57 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-11T23:15:05Z",
+    "created": "2021-03-03T23:22:05Z",
     "creators": [
         {
             "name": "N. Purcell",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 44 F3 unnamed bridge (Ponte Sfondato, E Teanum Sidicinum)",
-    "details": "The Barrington Atlas Directory notes: Ponte Sfondato, E Teanum Sidicinum",
+    "description": "An ancient bridge located to the east of ancient Teanum Sidicinum (modern Teano in Italy).",
+    "details": "<p>The Barrington Atlas Directory notes: Ponte Sfondato, E Teanum Sidicinum</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            14.0,
-                            41.0
+                            14.1353813,
+                            41.2483189
                         ],
                         [
-                            14.0,
-                            41.5
+                            14.1362163,
+                            41.2488146
                         ],
                         [
-                            14.5,
-                            41.5
+                            14.1358034,
+                            41.2485413
                         ],
                         [
-                            14.5,
-                            41.0
-                        ],
-                        [
-                            14.0,
-                            41.0
+                            14.1353813,
+                            41.2483189
                         ]
                     ]
                 ],
                 "type": "Polygon"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-remains-of-roman-bridge",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/434135/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/434135/osm-location-of-remains-of-roman-bridge",
+                "location_precision": "precise",
+                "snippet": "Bridge; 330 BC - AD 640",
+                "title": "OSM Location of remains of Roman bridge"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title, summary; title, summary; updated Locations, Names. check in of working copy",
+            "modified": "2021-03-04T01:15:37Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2017-11-05T02:39:35Z",
@@ -104,9 +153,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -129,60 +178,43 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T23:15:06Z",
+            "contributors": [],
+            "created": "2021-03-03T23:45:47Z",
             "creators": [
                 {
-                    "name": "N. Purcell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            14.0,
-                            41.0
+                            14.1353813,
+                            41.2483189
                         ],
                         [
-                            14.0,
-                            41.5
+                            14.1362163,
+                            41.2488146
                         ],
                         [
-                            14.5,
-                            41.5
+                            14.1358034,
+                            41.2485413
                         ],
                         [
-                            14.5,
-                            41.0
-                        ],
-                        [
-                            14.0,
-                            41.0
+                            14.1353813,
+                            41.2483189
                         ]
                     ]
                 ],
@@ -190,27 +222,107 @@
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:04:56Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-03-03T23:47:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-03-03T23:46:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-03-03T23:45:47Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-remains-of-roman-bridge",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 44 F3",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 683778002, version 1, osm:changeset=69212963, 2019-04-14T20:08:34Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/683778002",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 683778002",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=683778002",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/434135/batlas-location"
+            "title": "OSM Location of remains of Roman bridge",
+            "uri": "https://pleiades.stoa.org/places/434135/osm-location-of-remains-of-roman-bridge"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Ponte Sfondato",
+            "contributors": [],
+            "created": "2021-03-03T23:54:15Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Modern name offered by the Barrington Atlas.",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-03-03T23:54:15Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ponte-sfondato",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 656 s.v. \"Bridges\": \"Ponte Sfondato\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ponte Sfondato",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/434135/ponte-sfondato"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/bridge"
     ],
@@ -243,13 +355,13 @@
         }
     ],
     "reprPoint": [
-        14.25,
-        41.25
+        14.135804137683905,
+        41.24855777819971
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Ponte Romano di Val d'Assano",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/434135"
 }

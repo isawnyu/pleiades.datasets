@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.92138,
-        38.224527,
-        23.92138,
-        38.224527
+        23.9346933,
+        38.2324295,
+        23.9347822,
+        38.232491
     ],
     "connections": [],
     "connectsWith": [
@@ -57,23 +57,52 @@
         {
             "geometry": {
                 "coordinates": [
-                    23.92138,
-                    38.224527
+                    [
+                        [
+                            23.9347822,
+                            38.2324295
+                        ],
+                        [
+                            23.9346985,
+                            38.2324325
+                        ],
+                        [
+                            23.9346933,
+                            38.232466
+                        ],
+                        [
+                            23.9347599,
+                            38.232491
+                        ],
+                        [
+                            23.9347814,
+                            38.2324889
+                        ],
+                        [
+                            23.9347822,
+                            38.2324295
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-21337",
+            "id": "osm-location-of-varnava-tower-attica",
             "properties": {
-                "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/580130/darmc-location-21337",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/580130/osm-location-of-varnava-tower-attica",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 330 BC",
-                "title": "DARMC location 21337"
+                "snippet": "Tower-single; 550 BC - 330 BC",
+                "title": "OSM location of Varnava tower (Attica)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-03-03T23:13:25Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added Wikidata Q105716048: Varnava tower (Attica)",
             "modified": "2021-02-28T21:59:41Z",
@@ -129,85 +158,106 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "classical",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:33:39Z",
+            "contributors": [],
+            "created": "2021-02-28T21:58:13Z",
             "creators": [
                 {
-                    "name": "J.S. Traill",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 21337",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": -330,
             "featureType": [
-                "unknown"
+                "tower-single"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-single"
             ],
             "geometry": {
                 "coordinates": [
-                    23.92138,
-                    38.224527
+                    [
+                        [
+                            23.9347822,
+                            38.2324295
+                        ],
+                        [
+                            23.9346985,
+                            38.2324325
+                        ],
+                        [
+                            23.9346933,
+                            38.232466
+                        ],
+                        [
+                            23.9347599,
+                            38.232491
+                        ],
+                        [
+                            23.9347814,
+                            38.2324889
+                        ],
+                        [
+                            23.9347822,
+                            38.2324295
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:45:50Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-02-28T21:58:37Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:33:41Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-02-28T21:58:13Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21337",
+            "id": "osm-location-of-varnava-tower-attica",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-single"
             ],
-            "provenance": "DARMC OBJECTID: 21337",
+            "provenance": "OpenStreetMap (Way 912183333, version 1, osm:changeset=100158119, 2021-02-28T21:56:23Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/912183333",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21337",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 912183333",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21337.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=912183333",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 21337",
-            "uri": "https://pleiades.stoa.org/places/580130/darmc-location-21337"
+            "title": "OSM location of Varnava tower (Attica)",
+            "uri": "https://pleiades.stoa.org/places/580130/osm-location-of-varnava-tower-attica"
         }
     ],
     "names": [
@@ -348,11 +398,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21337",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.92138,
-        38.224527
+        23.934744350803715,
+        38.23245460615878
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

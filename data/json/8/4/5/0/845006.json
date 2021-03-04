@@ -1,36 +1,66 @@
 {
     "@type": "Place",
     "bbox": [
-        31.40575,
-        41.24817,
-        31.40575,
-        41.24817
+        31.4055082,
+        41.2177653,
+        31.6837268,
+        41.2690645
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/1224",
-            "contributors": [],
-            "created": "2016-07-13T13:35:21Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2021-03-03T19:30:23Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype->flows; batlas reference",
+                    "modified": "2021-03-03T20:43:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2021-03-03T19:30:23Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "1224",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "86 B2 Lykos fl.",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Pontus Euxinus",
@@ -42,16 +72,14 @@
     ],
     "contributors": [
         {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -67,24 +95,26 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2018-06-07T23:49:35Z",
+    "created": "2021-03-03T19:17:18Z",
     "creators": [
         {
             "name": "C. Foss",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 86 B2 Lykos fl.",
-    "details": "The Barrington Atlas Directory notes: river",
+    "description": "An ancient river that empties into the Black Sea near Heraclea Pontica. The BAtlas identifies it with the modern Gülünç Su (Gülüç Çayı). Brill's New Pauly uses another modern name of the same river: Ayndınlar Çayı.",
+    "details": "<p>The Barrington Atlas Directory notes: Gülüç Çayı</p>",
     "features": [
         {
             "geometry": {
@@ -99,13 +129,324 @@
                 "description": "AWMC representative position for the mouth of Lykos fl. at 1 : 1 million scale",
                 "link": "https://pleiades.stoa.org/places/845006/awmc-representative-position-for-lykos-fl",
                 "location_precision": "precise",
-                "snippet": "River, ; 30 BC - AD 300",
+                "snippet": "Mouth; 30 BC - AD 300",
                 "title": "AWMC Representative Position for Lykos (river)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.4645142,
+                            41.2177653
+                        ],
+                        [
+                            31.4634308,
+                            41.2178194
+                        ],
+                        [
+                            31.4055082,
+                            41.248312
+                        ],
+                        [
+                            31.4214208,
+                            41.2534304
+                        ],
+                        [
+                            31.4226433,
+                            41.2537984
+                        ],
+                        [
+                            31.4242323,
+                            41.2539292
+                        ],
+                        [
+                            31.4253507,
+                            41.2539172
+                        ],
+                        [
+                            31.4836061,
+                            41.2439171
+                        ],
+                        [
+                            31.4835609,
+                            41.2429368
+                        ],
+                        [
+                            31.4650822,
+                            41.2180943
+                        ],
+                        [
+                            31.4645142,
+                            41.2177653
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-the-lower-portion-of-the-modern",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/845006/osm-location-of-the-lower-portion-of-the-modern",
+                "location_precision": "precise",
+                "snippet": "River; AD 2000 - AD 2099",
+                "title": "OSM Location of the lower portion of the modern Gülüç Çayı"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.4836061,
+                            41.2439171
+                        ],
+                        [
+                            31.482914,
+                            41.248376
+                        ],
+                        [
+                            31.4961653,
+                            41.2610034
+                        ],
+                        [
+                            31.497776,
+                            41.2614902
+                        ],
+                        [
+                            31.537453,
+                            41.2690645
+                        ],
+                        [
+                            31.5389704,
+                            41.2688628
+                        ],
+                        [
+                            31.5600637,
+                            41.2628919
+                        ],
+                        [
+                            31.5615048,
+                            41.2622842
+                        ],
+                        [
+                            31.4836061,
+                            41.2439171
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-second-segment-of-modern-ga1-4la1",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/845006/osm-location-of-second-segment-of-modern-ga1-4la1",
+                "location_precision": "precise",
+                "snippet": "River; AD 2000 - AD 2099",
+                "title": "OSM location of second segment of modern Gülüç Çayı"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.5733397,
+                            41.2490258
+                        ],
+                        [
+                            31.5728425,
+                            41.2492308
+                        ],
+                        [
+                            31.5615048,
+                            41.2622842
+                        ],
+                        [
+                            31.5700986,
+                            41.2648892
+                        ],
+                        [
+                            31.5710876,
+                            41.2651505
+                        ],
+                        [
+                            31.5731053,
+                            41.2649762
+                        ],
+                        [
+                            31.5766306,
+                            41.263883
+                        ],
+                        [
+                            31.5781501,
+                            41.262479
+                        ],
+                        [
+                            31.5780662,
+                            41.2611158
+                        ],
+                        [
+                            31.5741981,
+                            41.2495042
+                        ],
+                        [
+                            31.5733397,
+                            41.2490258
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-third-segment-of-the-ga1-4la1-4ass",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/845006/osm-location-of-third-segment-of-the-ga1-4la1-4ass",
+                "location_precision": "precise",
+                "snippet": "River; AD 2000 - AD 2099",
+                "title": "OSM Location of third segment of the Gülüç Çayı"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.6028907,
+                            41.2335464
+                        ],
+                        [
+                            31.5975764,
+                            41.2355362
+                        ],
+                        [
+                            31.5741981,
+                            41.2495042
+                        ],
+                        [
+                            31.5811424,
+                            41.2595126
+                        ],
+                        [
+                            31.582506,
+                            41.2599086
+                        ],
+                        [
+                            31.5843844,
+                            41.2602844
+                        ],
+                        [
+                            31.5883911,
+                            41.2593814
+                        ],
+                        [
+                            31.5900275,
+                            41.2575511
+                        ],
+                        [
+                            31.6010052,
+                            41.2447601
+                        ],
+                        [
+                            31.6031163,
+                            41.2419843
+                        ],
+                        [
+                            31.6028907,
+                            41.2335464
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-fourth-segment-of-the-ga1-4la1",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/845006/osm-location-of-fourth-segment-of-the-ga1-4la1",
+                "location_precision": "precise",
+                "snippet": "River; AD 2000 - AD 2099",
+                "title": "OSM Location of fourth segment of the Gülüç Çayı"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.6057446,
+                            41.2323071
+                        ],
+                        [
+                            31.6047003,
+                            41.2323708
+                        ],
+                        [
+                            31.6028907,
+                            41.2335464
+                        ],
+                        [
+                            31.6268325,
+                            41.249474
+                        ],
+                        [
+                            31.6306033,
+                            41.250399
+                        ],
+                        [
+                            31.6794805,
+                            41.2460996
+                        ],
+                        [
+                            31.6807621,
+                            41.2458793
+                        ],
+                        [
+                            31.6815628,
+                            41.2451115
+                        ],
+                        [
+                            31.6818687,
+                            41.2444899
+                        ],
+                        [
+                            31.6837268,
+                            41.2397984
+                        ],
+                        [
+                            31.6654121,
+                            41.2328129
+                        ],
+                        [
+                            31.6057446,
+                            41.2323071
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-hte-fifth-segment-of-the-modern",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/845006/osm-location-of-hte-fifth-segment-of-the-modern",
+                "location_precision": "precise",
+                "snippet": "River; AD 2000 - AD 2099",
+                "title": "OSM location of hte fifth segment of the modern Gülüç Çayı"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; cleaned up references; added New Pauly reference; added original BAtlas directory detail",
+            "modified": "2021-03-03T20:42:58Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T23:49:38Z",
@@ -159,7 +500,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2013-10-10T22:01:03Z",
             "creators": [
                 {
@@ -173,12 +521,10 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "river",
-                ""
+                "mouth"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/river",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mouth"
             ],
             "geometry": {
                 "coordinates": [
@@ -188,6 +534,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "ctype to river mouth",
+                    "modified": "2021-03-03T20:44:39Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "edited title",
                     "modified": "2013-11-25T19:16:37Z",
@@ -204,8 +555,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/river",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mouth"
             ],
             "provenance": "Pleiades",
             "references": [],
@@ -213,6 +563,617 @@
             "start": -30,
             "title": "AWMC Representative Position for Lykos (river)",
             "uri": "https://pleiades.stoa.org/places/845006/awmc-representative-position-for-lykos-fl"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-03-03T19:40:24Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "river"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.4645142,
+                            41.2177653
+                        ],
+                        [
+                            31.4634308,
+                            41.2178194
+                        ],
+                        [
+                            31.4055082,
+                            41.248312
+                        ],
+                        [
+                            31.4214208,
+                            41.2534304
+                        ],
+                        [
+                            31.4226433,
+                            41.2537984
+                        ],
+                        [
+                            31.4242323,
+                            41.2539292
+                        ],
+                        [
+                            31.4253507,
+                            41.2539172
+                        ],
+                        [
+                            31.4836061,
+                            41.2439171
+                        ],
+                        [
+                            31.4835609,
+                            41.2429368
+                        ],
+                        [
+                            31.4650822,
+                            41.2180943
+                        ],
+                        [
+                            31.4645142,
+                            41.2177653
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-03-03T19:40:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-03-03T19:40:24Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-of-the-lower-portion-of-the-modern",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "provenance": "OpenStreetMap (Way 133474383, version 3, osm:changeset=13441804, 2012-10-10T14:33:27Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/133474383",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 133474383",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=133474383",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location of the lower portion of the modern Gülüç Çayı",
+            "uri": "https://pleiades.stoa.org/places/845006/osm-location-of-the-lower-portion-of-the-modern"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-03-03T19:44:18Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "river"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.4836061,
+                            41.2439171
+                        ],
+                        [
+                            31.482914,
+                            41.248376
+                        ],
+                        [
+                            31.4961653,
+                            41.2610034
+                        ],
+                        [
+                            31.497776,
+                            41.2614902
+                        ],
+                        [
+                            31.537453,
+                            41.2690645
+                        ],
+                        [
+                            31.5389704,
+                            41.2688628
+                        ],
+                        [
+                            31.5600637,
+                            41.2628919
+                        ],
+                        [
+                            31.5615048,
+                            41.2622842
+                        ],
+                        [
+                            31.4836061,
+                            41.2439171
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-03-03T19:44:38Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-03-03T19:44:18Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-of-second-segment-of-modern-ga1-4la1",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "provenance": "OpenStreetMap (Way 277761170, version 1, osm:changeset=21994874, 2014-04-28T07:22:32Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/277761170",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 277761170",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=277761170",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of second segment of modern Gülüç Çayı",
+            "uri": "https://pleiades.stoa.org/places/845006/osm-location-of-second-segment-of-modern-ga1-4la1"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-03-03T19:45:45Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "river"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.5733397,
+                            41.2490258
+                        ],
+                        [
+                            31.5728425,
+                            41.2492308
+                        ],
+                        [
+                            31.5615048,
+                            41.2622842
+                        ],
+                        [
+                            31.5700986,
+                            41.2648892
+                        ],
+                        [
+                            31.5710876,
+                            41.2651505
+                        ],
+                        [
+                            31.5731053,
+                            41.2649762
+                        ],
+                        [
+                            31.5766306,
+                            41.263883
+                        ],
+                        [
+                            31.5781501,
+                            41.262479
+                        ],
+                        [
+                            31.5780662,
+                            41.2611158
+                        ],
+                        [
+                            31.5741981,
+                            41.2495042
+                        ],
+                        [
+                            31.5733397,
+                            41.2490258
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-03-03T19:46:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-03-03T19:45:45Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-of-third-segment-of-the-ga1-4la1-4ass",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "provenance": "OpenStreetMap (Way 133474387, version 4, osm:changeset=21994874, 2014-04-28T07:22:40Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/133474387",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 133474387",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=133474387",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location of third segment of the Gülüç Çayı",
+            "uri": "https://pleiades.stoa.org/places/845006/osm-location-of-third-segment-of-the-ga1-4la1-4ass"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-03-03T19:46:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "river"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.6028907,
+                            41.2335464
+                        ],
+                        [
+                            31.5975764,
+                            41.2355362
+                        ],
+                        [
+                            31.5741981,
+                            41.2495042
+                        ],
+                        [
+                            31.5811424,
+                            41.2595126
+                        ],
+                        [
+                            31.582506,
+                            41.2599086
+                        ],
+                        [
+                            31.5843844,
+                            41.2602844
+                        ],
+                        [
+                            31.5883911,
+                            41.2593814
+                        ],
+                        [
+                            31.5900275,
+                            41.2575511
+                        ],
+                        [
+                            31.6010052,
+                            41.2447601
+                        ],
+                        [
+                            31.6031163,
+                            41.2419843
+                        ],
+                        [
+                            31.6028907,
+                            41.2335464
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-03-03T19:47:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-03-03T19:46:50Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-of-fourth-segment-of-the-ga1-4la1",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "provenance": "OpenStreetMap (Way 214234856, version 3, osm:changeset=25171759, 2014-09-02T00:01:42Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/214234856",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 214234856",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=214234856",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location of fourth segment of the Gülüç Çayı",
+            "uri": "https://pleiades.stoa.org/places/845006/osm-location-of-fourth-segment-of-the-ga1-4la1"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-03-03T19:47:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "river"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            31.6057446,
+                            41.2323071
+                        ],
+                        [
+                            31.6047003,
+                            41.2323708
+                        ],
+                        [
+                            31.6028907,
+                            41.2335464
+                        ],
+                        [
+                            31.6268325,
+                            41.249474
+                        ],
+                        [
+                            31.6306033,
+                            41.250399
+                        ],
+                        [
+                            31.6794805,
+                            41.2460996
+                        ],
+                        [
+                            31.6807621,
+                            41.2458793
+                        ],
+                        [
+                            31.6815628,
+                            41.2451115
+                        ],
+                        [
+                            31.6818687,
+                            41.2444899
+                        ],
+                        [
+                            31.6837268,
+                            41.2397984
+                        ],
+                        [
+                            31.6654121,
+                            41.2328129
+                        ],
+                        [
+                            31.6057446,
+                            41.2323071
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-03-03T19:48:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-03-03T19:47:53Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-of-hte-fifth-segment-of-the-modern",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "provenance": "OpenStreetMap (Way 133474377, version 5, osm:changeset=37264005, 2016-02-17T10:56:58Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/133474377",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 133474377",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=133474377",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of hte fifth segment of the modern Gülüç Çayı",
+            "uri": "https://pleiades.stoa.org/places/845006/osm-location-of-hte-fifth-segment-of-the-modern"
         }
     ],
     "names": [
@@ -294,44 +1255,46 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/river"
+        "https://pleiades.stoa.org/vocabularies/place-types/river",
+        "https://pleiades.stoa.org/vocabularies/place-types/mouth"
     ],
     "placeTypes": [
-        "river"
+        "river",
+        "mouth"
     ],
     "provenance": "Barrington Atlas: BAtlas 86 B2 Lykos fl.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "86 B2 Lykos fl.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 86 B2 Lykos fl.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Lykos-5",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Lykos 5",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Lykos 5",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/467951082",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIB-Paphlagonien-248",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/235QWW8W",
+            "citationDetail": "248",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIB Paphlagonien 248",
+            "formattedCitation": "<div class=\"csl-entry\">Belke, Klaus, and Herbert Hunger. <i>Paphlagonien und Honorias</i>. Tabula Imperii Byzantini 9. Vienna: Verl. der Österreichischen Akademie der Wissenschaften, 1996. http://www.worldcat.org/oclc/467951082.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIB Paphlagonien",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -344,11 +1307,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e713820",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Lycus [17] River in the region of Heracleia [7]",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "New Pauly",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        31.40575,
-        41.24817
+        31.530749973235018,
+        41.248875584544095
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

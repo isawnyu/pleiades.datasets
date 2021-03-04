@@ -1,14 +1,64 @@
 {
     "@type": "Place",
     "bbox": [
-        27.5929514,
-        38.7033516,
-        27.5929514,
-        38.7033516
+        27.5207674,
+        38.6604925,
+        27.5929722,
+        38.7034627
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/550575",
+            "contributors": [],
+            "created": "2021-03-03T22:48:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-03-03T22:48:14Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "hermus-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "56 F4",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Hermus (river)",
+            "uri": "https://pleiades.stoa.org/places/550827/hermus-river"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/550829"
+        "https://pleiades.stoa.org/places/550575",
+        "https://pleiades.stoa.org/places/550829",
+        "https://pleiades.stoa.org/places/copy_of_550702"
     ],
     "contributors": [
         {
@@ -34,7 +84,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2017-10-27T20:49:02Z",
+    "created": "2021-03-03T22:37:21Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -49,9 +99,83 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 56 F4 Phrygios fl.",
-    "details": "The Barrington Atlas Directory notes: Kum Çay (lower course)",
+    "description": "A tributary of the ancient Hermus river in Lydia. Scholars identify the Phrygios with the lower course of the modern Kum Çay.",
+    "details": "<p>The Barrington Atlas Directory notes: Kum Çay (lower course)</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.5207674,
+                            38.6604925
+                        ],
+                        [
+                            27.5214226,
+                            38.6621582
+                        ],
+                        [
+                            27.5218679,
+                            38.6631023
+                        ],
+                        [
+                            27.5228818,
+                            38.6639812
+                        ],
+                        [
+                            27.5441454,
+                            38.6812696
+                        ],
+                        [
+                            27.5451038,
+                            38.6820138
+                        ],
+                        [
+                            27.5696701,
+                            38.6969221
+                        ],
+                        [
+                            27.5709513,
+                            38.6973916
+                        ],
+                        [
+                            27.574717,
+                            38.6984357
+                        ],
+                        [
+                            27.5929722,
+                            38.7034627
+                        ],
+                        [
+                            27.5664636,
+                            38.6820929
+                        ],
+                        [
+                            27.5634489,
+                            38.6801871
+                        ],
+                        [
+                            27.5301666,
+                            38.6640943
+                        ],
+                        [
+                            27.5207674,
+                            38.6604925
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-the-lower-course-of-the-modern",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/550827/osm-location-of-the-lower-course-of-the-modern",
+                "location_precision": "precise",
+                "snippet": "River; AD 2000 - AD 2099",
+                "title": "OSM location of the lower course of the modern lower course of the Kum Çayı "
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -72,6 +196,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; cleaned up references; updated Connections, Locations. check in of working copy.",
+            "modified": "2021-03-04T01:05:26Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "replacing the abbreviation fl. with (river) to bring titles into conformance with Editorial Guidelines",
             "modified": "2017-10-27T20:49:04Z",
@@ -100,6 +229,141 @@
     ],
     "id": "550827",
     "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-03-03T22:45:56Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "river"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            27.5207674,
+                            38.6604925
+                        ],
+                        [
+                            27.5214226,
+                            38.6621582
+                        ],
+                        [
+                            27.5218679,
+                            38.6631023
+                        ],
+                        [
+                            27.5228818,
+                            38.6639812
+                        ],
+                        [
+                            27.5441454,
+                            38.6812696
+                        ],
+                        [
+                            27.5451038,
+                            38.6820138
+                        ],
+                        [
+                            27.5696701,
+                            38.6969221
+                        ],
+                        [
+                            27.5709513,
+                            38.6973916
+                        ],
+                        [
+                            27.574717,
+                            38.6984357
+                        ],
+                        [
+                            27.5929722,
+                            38.7034627
+                        ],
+                        [
+                            27.5664636,
+                            38.6820929
+                        ],
+                        [
+                            27.5634489,
+                            38.6801871
+                        ],
+                        [
+                            27.5301666,
+                            38.6640943
+                        ],
+                        [
+                            27.5207674,
+                            38.6604925
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-03-03T22:46:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-03-03T22:45:56Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-of-the-lower-course-of-the-modern",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
+            ],
+            "provenance": "OpenStreetMap (Way 84594965, version 6, osm:changeset=91387715, 2020-09-23T19:11:18Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/84594965",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 84594965",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=84594965",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of the lower course of the modern lower course of the Kum Çayı ",
+            "uri": "https://pleiades.stoa.org/places/550827/osm-location-of-the-lower-course-of-the-modern"
+        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
@@ -266,31 +530,31 @@
     "provenance": "Barrington Atlas: BAtlas 56 F4 Phrygios fl.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "56 F4 Phrygios fl.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 56 F4 Phrygios fl.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Phrygios-1",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Phrygios 1",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Phrygios 1",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        27.5929514,
-        38.7033516
+        27.574559509325947,
+        38.69315973449358
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
