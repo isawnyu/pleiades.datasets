@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        21.0,
-        39.5,
-        21.5,
-        40.0
+        21.0957716,
+        39.925261,
+        21.0957716,
+        39.925261
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,14 +14,16 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-06-24T13:47:12Z",
@@ -37,38 +39,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.0,
-                            39.5
-                        ],
-                        [
-                            21.0,
-                            40.0
-                        ],
-                        [
-                            21.5,
-                            40.0
-                        ],
-                        [
-                            21.5,
-                            39.5
-                        ],
-                        [
-                            21.0,
-                            39.5
-                        ]
-                    ]
+                    21.0957716,
+                    39.925261
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-avgo-peak",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/530949/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/530949/osm-location-of-avgo-peak",
+                "location_precision": "precise",
+                "snippet": "Mountain",
+                "title": "OSM Location of Avgo peak"
             },
             "type": "Feature"
         }
@@ -99,98 +81,75 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-06-24T13:47:13Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2021-03-05T12:42:21Z",
             "creators": [
                 {
-                    "name": "W.M. Murray",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": -30,
+            "end": null,
             "featureType": [
-                "unknown"
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.0,
-                            39.5
-                        ],
-                        [
-                            21.0,
-                            40.0
-                        ],
-                        [
-                            21.5,
-                            40.0
-                        ],
-                        [
-                            21.5,
-                            39.5
-                        ],
-                        [
-                            21.0,
-                            39.5
-                        ]
-                    ]
+                    21.0957716,
+                    39.925261
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:00:22Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2021-03-05T12:42:36Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-03-05T12:42:22Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-avgo-peak",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "provenance": "Barrington Atlas: BAtlas 54 D2 Kitios M.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 26862514, version 11, osm:changeset=87583771, 2020-07-06T07:30:57Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/26862514",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26862514",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=26862514",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/530949/batlas-location"
+            "start": null,
+            "title": "OSM Location of Avgo peak",
+            "uri": "https://pleiades.stoa.org/places/530949/osm-location-of-avgo-peak"
         }
     ],
     "names": [
@@ -290,8 +249,8 @@
         }
     ],
     "reprPoint": [
-        21.25,
-        39.75
+        21.0957716,
+        39.925261
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
