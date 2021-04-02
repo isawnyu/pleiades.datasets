@@ -1,33 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        23.2739852,
-        37.25915,
-        23.2739852,
-        37.25915
+        23.2737539,
+        37.2591831,
+        23.2885715,
+        37.2759746
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "in",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/in",
             "connectsTo": "https://pleiades.stoa.org/places/570495",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:50:30Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype -> located in",
+                    "modified": "2021-04-01T16:52:22Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "570495",
             "provenance": "Pleiades",
             "references": [],
@@ -43,21 +56,15 @@
     "contributors": [
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -68,9 +75,15 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2018-06-07T20:48:47Z",
+    "created": "2021-04-01T16:52:48Z",
     "creators": [
         {
             "name": "G. Reger",
@@ -81,29 +94,102 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 58 E3 Trikrana Ins.",
-    "details": "The Barrington Atlas Directory notes: Trikeri",
+    "description": "An ancient island mentioned by Pausanias, it can be identified with the modern Trikeri.",
+    "details": "<p>The Barrington Atlas Directory notes: Trikeri</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    23.2739852,
-                    37.25915
+                    [
+                        [
+                            23.2769376,
+                            37.2591831
+                        ],
+                        [
+                            23.2748139,
+                            37.2593274
+                        ],
+                        [
+                            23.2741237,
+                            37.2593814
+                        ],
+                        [
+                            23.2737539,
+                            37.2596264
+                        ],
+                        [
+                            23.2756496,
+                            37.2737205
+                        ],
+                        [
+                            23.2759127,
+                            37.274184
+                        ],
+                        [
+                            23.2762682,
+                            37.2745221
+                        ],
+                        [
+                            23.2787021,
+                            37.2757808
+                        ],
+                        [
+                            23.280071,
+                            37.2759746
+                        ],
+                        [
+                            23.2876681,
+                            37.2736224
+                        ],
+                        [
+                            23.288147,
+                            37.2733014
+                        ],
+                        [
+                            23.2883434,
+                            37.2731115
+                        ],
+                        [
+                            23.2884702,
+                            37.2728528
+                        ],
+                        [
+                            23.2885715,
+                            37.2723419
+                        ],
+                        [
+                            23.2876754,
+                            37.2655641
+                        ],
+                        [
+                            23.2830545,
+                            37.2619235
+                        ],
+                        [
+                            23.2769376,
+                            37.2591831
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "location-of-Trikrana-Ins",
+            "id": "osm-location-of-modern-trikeri-island",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/570752/location-of-Trikrana-Ins",
+                "link": "https://pleiades.stoa.org/places/570752/osm-location-of-modern-trikeri-island",
                 "location_precision": "precise",
-                "snippet": "Island, ; AD 1700 - AD 2100",
-                "title": "location of Trikrana Ins."
+                "snippet": "Island",
+                "title": "OSM Location of modern Trikeri island"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title, summary; update Paus. ref.",
+            "modified": "2021-04-01T18:17:28Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T20:48:50Z",
@@ -139,80 +225,138 @@
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
-                }
-            ],
+            "attestations": [],
             "contributors": [],
-            "created": "2013-05-22T18:41:01Z",
+            "created": "2021-04-01T16:54:13Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 2100,
+            "end": null,
             "featureType": [
-                "island",
-                ""
+                "island"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/island",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
             "geometry": {
                 "coordinates": [
-                    23.2739852,
-                    37.25915
+                    [
+                        [
+                            23.2769376,
+                            37.2591831
+                        ],
+                        [
+                            23.2748139,
+                            37.2593274
+                        ],
+                        [
+                            23.2741237,
+                            37.2593814
+                        ],
+                        [
+                            23.2737539,
+                            37.2596264
+                        ],
+                        [
+                            23.2756496,
+                            37.2737205
+                        ],
+                        [
+                            23.2759127,
+                            37.274184
+                        ],
+                        [
+                            23.2762682,
+                            37.2745221
+                        ],
+                        [
+                            23.2787021,
+                            37.2757808
+                        ],
+                        [
+                            23.280071,
+                            37.2759746
+                        ],
+                        [
+                            23.2876681,
+                            37.2736224
+                        ],
+                        [
+                            23.288147,
+                            37.2733014
+                        ],
+                        [
+                            23.2883434,
+                            37.2731115
+                        ],
+                        [
+                            23.2884702,
+                            37.2728528
+                        ],
+                        [
+                            23.2885715,
+                            37.2723419
+                        ],
+                        [
+                            23.2876754,
+                            37.2655641
+                        ],
+                        [
+                            23.2830545,
+                            37.2619235
+                        ],
+                        [
+                            23.2769376,
+                            37.2591831
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "added location",
-                    "modified": "2013-05-22T18:41:25Z",
-                    "modifiedBy": "jbecker"
+                    "comment": "Initial revision",
+                    "modified": "2021-04-01T16:54:30Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-05-22T18:41:04Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2021-04-01T16:54:13Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "location-of-Trikrana-Ins",
+            "id": "osm-location-of-modern-trikeri-island",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/island",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
-            "provenance": "OpenStreetMap (Way 8901779, version 2, osm:changeset=4955303, 2010-06-10T16:09:03Z)",
+            "provenance": "OpenStreetMap (Relation 543208, version 5, osm:changeset=87508143, 2020-07-03T14:30:08Z)",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/8901779",
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/543208",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Way 8901779",
+                    "citationDetail": "Relation 543208",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:way=8901779",
-                    "otherIdentifier": " ",
+                    "formattedCitation": "osm:relation=543208",
+                    "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 1700,
-            "title": "location of Trikrana Ins.",
-            "uri": "https://pleiades.stoa.org/places/570752/location-of-Trikrana-Ins"
+            "start": null,
+            "title": "OSM Location of modern Trikeri island",
+            "uri": "https://pleiades.stoa.org/places/570752/osm-location-of-modern-trikeri-island"
         }
     ],
     "names": [
@@ -294,12 +438,12 @@
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.34.8",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+            "citationDetail": "2.34.8",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Paus. 2.34.8",
+            "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Paus. (Spiro: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
@@ -315,13 +459,13 @@
         }
     ],
     "reprPoint": [
-        23.2739852,
-        37.25915
+        23.281089994369218,
+        37.26785516823647
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Trikrana Ins.",
+    "title": "Trikrana (island)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/570752"
 }
