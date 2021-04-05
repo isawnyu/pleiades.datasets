@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2021/03/28 06:47:23.052137 GMT-4
+# Date: 2021/04/04 06:47:22.841143 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 836
+# Triple count: 898
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -30,6 +30,13 @@
     skos:prefLabel "acropolis"@en;
     skos:scopeNote "An acropolis as defined by the Getty Art and Architecture Thesaurus term 300000700: \"The higher and usually fortified sections of ancient Greek cities, typically containing temples and some public buildings and used as places of refuge.\""@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/agora> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/agora>,
+        <http://vocab.getty.edu/aat/300008074>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "agora"@en;
+    skos:scopeNote "An agora as defined by the Getty Art and Architecture Thesaurus: In ancient Greek settlements, open spaces used as marketplaces or general public meeting places."@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/amphitheatre> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/amphitheatre>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
@@ -42,9 +49,11 @@
     skos:prefLabel "aqueduct"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/arch> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/arch>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/arch>,
+        <http://vocab.getty.edu/aat/300000994>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "arch, triumphal arch"@en .
+    skos:prefLabel "arch"@en;
+    skos:scopeNote "An arch as defined by the Getty Art and Architecture Thesaurus: Structural elements, typically curved, spanning openings and transmitting vertical loads to either side of the opening; also, structural elements or freestanding structures that resemble arches or act structurally like arches."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/archaeological-site> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/archaeological-site>,
@@ -179,12 +188,26 @@
     skos:prefLabel "cistern"@en;
     skos:scopeNote "A waterproof receptacle for retaining liquids, as described at http://en.wikipedia.org/wiki/Cistern. Equivalent to aat:300052558."@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/citadel> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/citadel>,
+        <http://vocab.getty.edu/aat/300006902>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "citadel"@en;
+    skos:scopeNote "A citadel as defined by the Getty Art and Architecture Thesaurus: Fortresses commanding cities or towns, serving to protect and control the inhabitants."@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/city-block> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/city-block>,
         <http://vocab.getty.edu/aat/300008077>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "city block"@en;
     skos:scopeNote "A city block as defined by the Getty Art and Architecture Thesaurus: Pieces of land within urban areas usually bounded on all sides by streets or other transportation routes, natural physical barriers, or public open space and not traversed by through streets."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/city-center> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/city-center>,
+        <https://www.wikidata.org/wiki/Q1468524>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "city center"@en;
+    skos:scopeNote "A city center as defined in Wikidata Q1468524: commercial, cultural and often the historical, political and geographic heart of a city"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/city-gate> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/city-gate>;
@@ -222,6 +245,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "dam, dike, levee"@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/defensive-wall> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/defensive-wall>,
+        <http://vocab.getty.edu/aat/300002485>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "wall (defensive)"@en;
+    skos:scopeNote "A defensive wall as defined by the Getty Art and Architecture Thesaurus: all sorts of walls constructed to resist attack."@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/delta> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/delta>,
         <http://vocab.getty.edu/aat/300008760>;
@@ -234,7 +264,7 @@
         <https://www.wikidata.org/wiki/Q672490>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "deme (Athenian)"@en;
-    skos:scopeNote "A n administrative unit of the ancient Athenian state as defined in Wikidata Q672490."@en .
+    skos:scopeNote "An administrative unit of the ancient Athenian state as defined in Wikidata Q672490."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/desert> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/desert>;
@@ -274,6 +304,13 @@
     skos:prefLabel "ekklesiasterion"@en;
     skos:scopeNote "A type of Greek building used for public assemblies."@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/escarpment> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/escarpment>,
+        <http://vocab.getty.edu/aat/300132353>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "escarpment"@en;
+    skos:scopeNote "An escarpment as defined by the Getty Art and Architecture Thesaurus: Steep slopes in front of fortifications. Also, long, steep cliffs or slopes resulting from erosion, and which separate two comparatively level surfaces."@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/estate> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/estate>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
@@ -289,7 +326,14 @@
 <https://pleiades.stoa.org/vocabularies/place-types/false> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/false>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "erroneous place, false name"@en .
+    skos:prefLabel "false place"@en;
+    skos:scopeNote "A putative place, now rejected, that originally resulted from ancient scribal error, research mistake, or erroneous modern scholarship. Not to be confused with fictional places."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/fiction> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fiction>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "fictional place"@en;
+    skos:scopeNote "A demonstrably non-existent place invented or perpetuated by ancient sources."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/findspot> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/findspot>;
@@ -346,6 +390,13 @@
     skos:prefLabel "fortlet"@en;
     skos:scopeNote "A fortlet as defined by the Getty Art and Architecture Thesaurus:  Small or rudimentary forts, especially in the Roman period."@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/forum> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/forum>,
+        <http://vocab.getty.edu/aat/300008085>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "forum"@en;
+    skos:scopeNote "A forum as defined by the Getty Art and Architecture Thesaurus: In ancient Roman settlements, open spaces used as marketplaces or general public meeting places and places for judicial and public business."@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/fountain> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fountain>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
@@ -363,6 +414,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "garden, hortus"@en;
     skos:scopeNote "A garden is a planned space, usually outdoors, set aside for the display, cultivation, and enjoyment of plants and other forms of nature, as described at https://en.wikipedia.org/?title=Garden"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/gateway> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/gateway>,
+        <http://vocab.getty.edu/aat/300069189>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "gateway"@en;
+    skos:scopeNote "A gateway as defined by the Getty Art and Architecture Thesaurus: Passages through fences or walls separating two exterior spaces, or the structures or ornamental constructions enclosing such passages"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/grove> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/grove>;
@@ -574,7 +632,7 @@
 <https://pleiades.stoa.org/vocabularies/place-types/plaza> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/plaza>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "agora, forum, plaza"@en;
+    skos:prefLabel "agora, forum, plaza (deprecated)"@en;
     skos:scopeNote "An agora, forum, or other plaza-like civic space."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/polis> a <http://www.w3.org/2004/02/skos/core#Concept>;
@@ -588,6 +646,13 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/port>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "port"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/postern> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/postern>,
+        <http://vocab.getty.edu/aat/300002932>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "postern"@en;
+    skos:scopeNote "A postern as defined by the Getty Art and Architecture Thesaurus: Secondary, and often inconspicuous back doors or gates, especially to fortified or walled enclosures; may also be used for minor, private or side entrances."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/priory> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/priory>,
@@ -761,6 +826,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "stoa"@en;
     skos:scopeNote "A rectangular building with an open colonnade along one long side."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/street> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/street>,
+        <http://vocab.getty.edu/aat/300008247>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "street"@en;
+    skos:scopeNote "A street as defined by the Getty Art and Architecture Thesaurus: A road in a city, town, or village, characterized by usually being paved and comparatively wide (as opposed to a lane or alley), and generally running between two rows of houses or other buildings."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/synagogue> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/synagogue>,
