@@ -1,19 +1,65 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
-    "contributors": [
+    "connections": [
         {
-            "name": "G. Reger",
-            "username": null
-        },
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/540993",
+            "contributors": [],
+            "created": "2021-04-03T12:30:40Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-04-03T12:30:41Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ossa-mountain",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 834 s.v. \"Larissa\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Ossa (mountain)",
+            "uri": "https://pleiades.stoa.org/places/543766/ossa-mountain"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/540993"
+    ],
+    "contributors": [
         {
             "name": "R. Talbert",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "G. Reger",
             "username": null
         },
         {
@@ -21,9 +67,15 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2010-11-23T00:31:21Z",
+    "created": "2021-04-03T12:21:56Z",
     "creators": [
         {
             "name": "J. Fossey",
@@ -34,8 +86,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 55 unlocated Larissa",
-    "details": "The Barrington Atlas Directory notes: on Mt. Ossa",
+    "description": "An ancient settlement of Thessaly, located somewhere on Mount Ossa. Its precise location cannot be determined today.",
+    "details": "<p>The Barrington Atlas Directory notes: on Mt. Ossa</p>",
     "features": [
         {
             "geometry": null,
@@ -51,6 +103,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references; summary; place type",
+            "modified": "2021-04-03T15:03:41Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2021-04-03T12:21:56Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T19:30:40Z",
@@ -146,18 +208,14 @@
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "attested": "",
+            "attested": "Λάρισσα",
             "contributors": [
-                {
-                    "name": "G. Reger",
-                    "username": null
-                },
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
@@ -165,9 +223,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-23T00:31:21Z",
+            "created": "2021-04-03T12:30:54Z",
             "creators": [
                 {
                     "name": "J. Fossey",
@@ -183,13 +247,18 @@
             "end": null,
             "history": [
                 {
+                    "comment": "greek",
+                    "modified": "2021-04-03T15:02:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:13:01Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "larissa",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 55 Larissa",
             "references": [],
@@ -202,33 +271,35 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 55 Larissa",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "55 Larissa",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 55 Larissa",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Stählin-1924",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/75DXF39V",
+            "citationDetail": "94-96",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Stählin 1924, 94-96",
+            "formattedCitation": "<div class=\"csl-entry\">Stählin, Friedrich. <i>Das Hellenische Thessalien: Landeskundliche Und Geschichtliche Beschreibung Thessaliens in Der Hellenischen Und Römischen Zeit</i>. Unveränderter Nachdruck d. Amsterdam: A. M. Hakkert, 1924.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Stählin 1924",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],

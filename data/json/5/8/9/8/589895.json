@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        25.656732,
-        35.079312,
-        25.656732,
-        35.079312
+        25.6567883,
+        35.0751603,
+        25.6567883,
+        35.0751603
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,10 +14,8 @@
             "username": null
         },
         {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -26,8 +24,16 @@
             "username": "bkiesling"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -36,7 +42,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2018-06-07T21:03:09Z",
+    "created": "2021-03-31T22:02:50Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -47,29 +53,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 E2 Larisa?",
-    "details": "The Barrington Atlas Directory notes: Kalamafka: Kastellos",
+    "description": "A city of southeastern Crete, mentioned by Strabo. It may be associated with the \"Kastellos\" at modern Kalamafka.",
+    "details": "<p>The Barrington Atlas Directory notes: Kalamafka: Kastellos</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    25.656732,
-                    35.079312
+                    25.6567883,
+                    35.0751603
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-3802",
+            "id": "osm-location-of-modern-kalamafka",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/589895/darmc-location-3802",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/589895/osm-location-of-modern-kalamafka",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 330 BC",
-                "title": "DARMC location 3802"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location of Modern Kalamafka"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 3802 = related",
+            "modified": "2021-04-04T15:21:42Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; cleaned up references; new pauly reference; title",
+            "modified": "2021-04-04T15:19:58Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T21:03:11Z",
@@ -105,95 +121,87 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:02:41Z",
+            "contributors": [],
+            "created": "2021-03-31T22:08:31Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 3802",
-            "end": -330,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    25.656732,
-                    35.079312
+                    25.6567883,
+                    35.0751603
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:49:27Z",
-                    "modifiedBy": "admin"
+                    "comment": "certainty -> less certain; associated modern; settlement modern",
+                    "modified": "2021-03-31T22:10:21Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:02:42Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2021-03-31T22:08:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-03-31T22:08:31Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-3802",
+            "id": "osm-location-of-modern-kalamafka",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 3802",
+            "provenance": "OpenStreetMap (Node 271154009, version 6, osm:changeset=98027666, 2021-01-23T16:47:34Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/271154009",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "3802",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 271154009",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 3802.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=271154009",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 3802",
-            "uri": "https://pleiades.stoa.org/places/589895/darmc-location-3802"
+            "start": 2000,
+            "title": "OSM Location of Modern Kalamafka",
+            "uri": "https://pleiades.stoa.org/places/589895/osm-location-of-modern-kalamafka"
         }
     ],
     "names": [
@@ -301,36 +309,36 @@
     "provenance": "Barrington Atlas: BAtlas 60 E2 Larisa?",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 E2 Larisa?",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 60 E2 Larisa?",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/f.html#Faure-1963",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PK56JDN3",
+            "citationDetail": "18",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Faure 1963, 18",
+            "formattedCitation": "<div class=\"csl-entry\">Faure, Paul. “Nouvelles Localisations de Villes Crétoises.” <i>Κρητικὰ Χρονικά</i> 17 (1963): 16–26.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Faure 1963",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/w.html#Watrous-1994",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ENC34644",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Watrous 1994",
+            "formattedCitation": "<div class=\"csl-entry\">Watrous, L.V. “Gournia Project.” <i>Archaeological Reports</i> 41 (95 1994): 65.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Watrous 1994",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -343,11 +351,33 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e631680",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Larisa [4] City in Crete",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "New Pauly",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3802",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.656732,
-        35.079312
+        25.6567883,
+        35.0751603
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -356,7 +386,7 @@
         "dare:feature=settlement",
         "dare:major=0"
     ],
-    "title": "Larisa?",
+    "title": "Larisa",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/589895"
 }

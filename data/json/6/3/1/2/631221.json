@@ -1,15 +1,69 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "route_next",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/route_next",
+            "connectsTo": "https://pleiades.stoa.org/places/631938",
+            "contributors": [],
+            "created": "2021-04-03T13:43:28Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "<p>NB: The TabPeut's \"Incilissa\" is considered a false toponym, arising from scribal error for \"Cilicia\". T.B. Mitford rejects the entire place as false. See further the \"details\" on <a class=\"external-link\" href=\"https://pleiades.stoa.org/places/631938\" target=\"_self\" title=\"\">the place resource for Cilissa/Ingilissis</a>.</p>",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-04-03T13:43:29Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "cilissa-ingilissis",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2306.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "9B3 Incilissa (Talbert 2306)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": 300,
+            "title": "Cilissa/Ingilissis",
+            "uri": "https://pleiades.stoa.org/places/631221/cilissa-ingilissis"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/631938",
+        "https://pleiades.stoa.org/places/628928"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -17,17 +71,23 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2009-10-19T10:38:21Z",
+    "created": "2021-04-03T12:49:08Z",
     "creators": [
         {
             "name": "T.B. Mitford",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 64 unlocated Larissa",
-    "details": "The Barrington Atlas Directory notes: vicinity of (H)Erp(h)a or on Karasekdüzü, 12 miles WSW Kangal?",
+    "description": "An ancient place in Cappadocia, lying on a Peutinger map route between \"Arasaxa\" and \"Incilissa\" (the latter possibly a false toponym resulting from scribal error). Modern attempts to identify a precise location are inconclusive.",
+    "details": "<p>Writing in the <em>Barrington Atlas Directory</em> for Map 64, T.B. Mitford cites T. Sinclair 1989 and suggests the following location for this Larissa: \"vicinity of (H)Erp(h)a or on Karasekdüzü, 12 miles WSW Kangal?\" (p. 993 s.v. \"Larissa\"). Sinclair 2020 (p. 179) demurs, tentatively placing Larissa at the point where the route of a Roman highway crosses the Zamantı river, but conceding that the distance figure as transmitted by the Peutinger map would have to be discarded as erroneous if his suggestion were accepted. It is worth noting in this context that the next Peutinger Map route segment beyond Larissa purports to go to \"Incilissa\" (see <em>Pleiades</em> <a class=\"external-link\" href=\"../631938\" target=\"_self\" title=\"\">Cilissa/Ingilissis</a>), which Mitford rejects as a place name entirely, considering it a corruption of \"Cilicia\" (BAtlDir p. 993 s.v. \"Cilissa/Ingilissis\"). The river crossing Sinclair prefers is where Mitford tentatively placed <a class=\"external-link\" href=\"../628972\" target=\"_self\" title=\"\">Euagina/Sebagina</a><span class=\"external-link\"> in BAtlas 64 C2</span>. Sinclair 2020 (p. 192 note 107) calls out what he sees as a discrepancy between the map position chosen by Mitford and the proper coordinates of the modern toponyms Mitford cites in the directory (p. 987 s.v. \"Euagina/Sebagena?\").</p>",
     "features": [
         {
             "geometry": null,
@@ -43,6 +103,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type; added TP reference; cleaned up references; details; added Sinclair 2020; see also reference",
+            "modified": "2021-04-03T15:15:03Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2021-04-03T12:49:07Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T19:09:35Z",
@@ -156,14 +226,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Larissa",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -171,9 +237,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2009-10-19T10:38:21Z",
+            "created": "2021-04-03T13:34:08Z",
             "creators": [
                 {
                     "name": "T.B. Mitford",
@@ -185,16 +257,33 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "Initial revision; Edited",
+                    "modified": "2021-04-03T15:15:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T07:24:27Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "larissa",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 64 Larissa",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2305.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "9B3 Larissa (Talbert 2305)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Larissa",
             "start": -30,
@@ -204,56 +293,89 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 64 Larissa",
     "references": [
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 993 s.v. \"Larissa\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 64 Larissa",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlDir",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Larisa-11",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Larisa 11",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Larisa 11",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIB-Kappadokien-221",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIV7H5RQ",
+            "citationDetail": "221",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIB Kappadokien 221",
+            "formattedCitation": "<div class=\"csl-entry\">F. Hild, and M. Restle. <i>Kappadokien (Kappadokia, Charsianon, Sebasteia Und Lykandos)</i>. Tabula Imperii Byzantini 2, 1981.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIB Kappadokien",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/16887803",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9NV6TCIV",
+            "citationDetail": "462-63",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Sinclair, T. A. <i>Eastern Turkey: An Architectural and Archaeological Survey</i>. 4 vols. London: Pindar Press, 1987. http://www.worldcat.org/oclc/16887803.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Sinclair 1989",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/prm.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "9B3 Larissa (Talbert 2305)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TP (Talbert: CUP)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RP4IYVHL",
+            "citationDetail": "page 179 and page 192 note 107",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Sinclair, Thomas A. <i>Eastern Trade and the Mediterranean in the Middle Ages: Pegolotti’s Ayas-Tabriz Itinerary and Its Commercial Context</i>. London, New York: Routledge, Taylor &amp; Francis Group, 2020.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Sinclair 2020",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Sinclair-1989-462-63",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Sinclair 1989 462-63",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 993 s.v. \"Cilissa/Ingilissis\" and 987 s.v. \"Euagina/Sebagena?\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "shortTitle": "BAtlDir",
+            "type": "http://purl.org/spar/cito/seeAlso"
         }
     ],
     "reprPoint": null,
