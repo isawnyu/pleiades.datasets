@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        15.0,
-        36.5,
-        15.5,
-        37.0
+        15.2231642,
+        36.9645478,
+        15.2231642,
+        36.9645478
     ],
     "connections": [
         {
@@ -82,49 +82,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 47 G5 Naustathmus Portus?",
-    "details": "The Barrington Atlas Directory notes: Fontane Bianche",
+    "description": "An ancient port on the east coast of Sicily, mentioned by Pliny. It is probably to be associated with modern Fontane Bianche.",
+    "details": "<p>The Barrington Atlas Directory notes: Fontane Bianche</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            36.5
-                        ],
-                        [
-                            15.0,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            36.5
-                        ],
-                        [
-                            15.0,
-                            36.5
-                        ]
-                    ]
+                    15.2231642,
+                    36.9645478
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-fontane-bianche",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/462385/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Point location of modern Fontane Bianche, thought to be associated with the ancient site, derived from an OpenStreetMap node.",
+                "link": "https://pleiades.stoa.org/places/462385/osm-location-of-modern-fontane-bianche",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of modern Fontane Bianche"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2021-04-07T09:14:00Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Plin. HN (Mayhoff: PHI) 3.89.6",
             "modified": "2017-07-20T17:44:42Z",
@@ -145,98 +130,95 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-11T15:12:45Z",
+            "created": "2017-07-20T17:46:28Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Point location of modern Fontane Bianche, thought to be associated with the ancient site, derived from an OpenStreetMap node.",
             "details": "",
-            "end": 300,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            36.5
-                        ],
-                        [
-                            15.0,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            36.5
-                        ],
-                        [
-                            15.0,
-                            36.5
-                        ]
-                    ]
+                    15.2231642,
+                    36.9645478
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:22:26Z",
-                    "modifiedBy": "admin"
+                    "comment": "certainty -> less certain",
+                    "modified": "2021-04-07T09:12:43Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2017-07-20T17:47:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-07-20T17:46:28Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-fontane-bianche",
             "locationType": [
-                "representative"
+                "representative",
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 47 G5 Naustathmus Portus?",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 2922609951, version 4, osm:changeset=43468646, 2016-11-07T16:57:10Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2922609951",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2922609951",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2922609951",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/462385/batlas-location"
+            "start": 1700,
+            "title": "OSM location of modern Fontane Bianche",
+            "uri": "https://pleiades.stoa.org/places/462385/osm-location-of-modern-fontane-bianche"
         }
     ],
     "names": [
@@ -344,13 +326,13 @@
         }
     ],
     "reprPoint": [
-        15.25,
-        36.75
+        15.2231642,
+        36.9645478
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Naustathmus Portus?",
+    "title": "Naustathmus Portus",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/462385"
 }
