@@ -71,6 +71,11 @@
     ],
     "history": [
         {
+            "comment": "update refs.",
+            "modified": "2021-04-08T01:59:07Z",
+            "modifiedBy": "jbecker"
+        },
+        {
             "comment": "title; summary",
             "modified": "2021-04-07T09:31:25Z",
             "modifiedBy": "thomase"
@@ -194,21 +199,24 @@
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
-            "attestations": [],
-            "attested": "",
-            "contributors": [
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
                 {
-                    "name": "G. Reger",
-                    "username": null
-                },
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Phalassia Pr.",
+            "contributors": [
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
@@ -216,9 +224,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-23T00:41:59Z",
+            "created": "2021-04-07T09:31:36Z",
             "creators": [
                 {
                     "name": "J. Fossey",
@@ -231,8 +245,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 1999,
             "history": [
+                {
+                    "comment": "Converted to BAtlas label: added language, reference, and time period.; Edited",
+                    "modified": "2021-04-08T01:56:27Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:09:10Z",
@@ -240,16 +259,90 @@
                 }
             ],
             "id": "Phalassia-Pr",
-            "language": "",
-            "nameType": "geographic",
+            "language": "en",
+            "nameType": "label",
             "provenance": "Barrington Atlas: BAtlas 55 D3 Phalassia? Pr.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "55 D3 Phalassia? Pr.",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "romanized": "Phalassia Pr.",
-            "start": null,
+            "start": 1900,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/541035/Phalassia-Pr"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Φαλα(σ)σία ἄκρα",
+            "contributors": [],
+            "created": "2021-04-07T09:42:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-04-07T09:43:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-04-07T09:42:44Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "phalas-s-ia-akra",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015022717592&view=1up&seq=247&q1=%CE%A6%CE%B1%CE%BB%CE%B1(%CF%83)%CF%83%CE%AF%CE%B1%20%E1%BC%84%CE%BA%CF%81%CE%B1",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/56UMLU8H",
+                    "citationDetail": "3.15.25",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Claudii Ptolemaei geographia</i>. Edited by Karl Friedrich August Nobbe. 3 in 2 vols. Lipsiae: Sumptibus et typis Caroli Tauchnitii, 1843. https://catalog.hathitrust.org/Record/002504277.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ptol. (Nobbe: Hathi)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Phalas(s)ia akra, Phalasia akra, Phalassia αkra, Falassia akra, Falasia akra",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/541035/phalas-s-ia-akra"
         }
     ],
     "placeTypeURIs": [
@@ -261,36 +354,36 @@
     "provenance": "Barrington Atlas: BAtlas 55 D3 Phalassia? Pr.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "55 D3 Phalassia? Pr.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 55 D3 Phalassia? Pr.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Phalassia-Pr.",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Phalassia Pr.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Phalassia Pr.",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/38486863",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/k.html#Knoepfler-1997",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KKVJ5Z9K",
+            "citationDetail": "361, 414 (n. 72)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Knoepfler 1997, 361, 414 (n. 72)",
+            "formattedCitation": "<div class=\"csl-entry\">Knoepfler, D. “Le Territoire d’Erétrie et l’organisation Politique de La Cité (Dêmoi, Chôroi, Phylai).” In <i>The Polis as an Urban Centre and as a Political Community. Symposium August 29-31, 1996</i>, 352–449. Acts of the Copenhagen Polis Centre 4. Copenhagen: Det Kongelige Danske Videnskabernes Selskab, 1997. http://www.worldcat.org/oclc/38486863.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Knoepfler 1997",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],

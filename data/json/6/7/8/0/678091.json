@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        35.566986,
-        32.907983,
-        35.566986,
-        32.907983
+        35.5627683,
+        32.910721,
+        35.565193,
+        32.912331
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,23 +53,60 @@
         {
             "geometry": {
                 "coordinates": [
-                    35.566986,
-                    32.907983
+                    [
+                        [
+                            35.5647156,
+                            32.910721
+                        ],
+                        [
+                            35.5635864,
+                            32.9107571
+                        ],
+                        [
+                            35.5627871,
+                            32.9110745
+                        ],
+                        [
+                            35.5627683,
+                            32.9112952
+                        ],
+                        [
+                            35.5628327,
+                            32.9113965
+                        ],
+                        [
+                            35.5647746,
+                            32.912331
+                        ],
+                        [
+                            35.565193,
+                            32.9121058
+                        ],
+                        [
+                            35.5647156,
+                            32.910721
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-12014",
+            "id": "osm-location-of-korazim",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/678091/darmc-location-12014",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas and PECS.",
+                "link": "https://pleiades.stoa.org/places/678091/osm-location-of-korazim",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 12014"
+                "snippet": "Archaeological-site; 30 BC - AD 850",
+                "title": "OSM Location of Korazim"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-04-08T09:46:32Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2019-01-31T15:24:05Z",
@@ -110,9 +147,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -123,82 +160,124 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "late-antique",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T20:59:17Z",
-            "creators": [
-                {
-                    "name": "J.P. Brown",
-                    "username": null
                 },
                 {
-                    "name": "E.M. Meyers",
-                    "username": null
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "early-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-byzantine"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 12014",
-            "end": 640,
+            "contributors": [],
+            "created": "2021-04-08T09:42:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap. Dates after BAtlas and PECS.",
+            "details": "",
+            "end": 850,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    35.566986,
-                    32.907983
+                    [
+                        [
+                            35.5647156,
+                            32.910721
+                        ],
+                        [
+                            35.5635864,
+                            32.9107571
+                        ],
+                        [
+                            35.5627871,
+                            32.9110745
+                        ],
+                        [
+                            35.5627683,
+                            32.9112952
+                        ],
+                        [
+                            35.5628327,
+                            32.9113965
+                        ],
+                        [
+                            35.5647746,
+                            32.912331
+                        ],
+                        [
+                            35.565193,
+                            32.9121058
+                        ],
+                        [
+                            35.5647156,
+                            32.910721
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:48:30Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-04-08T09:45:18Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T20:59:18Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2021-04-08T09:44:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-04-08T09:42:31Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-12014",
+            "id": "osm-location-of-korazim",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 12014",
+            "provenance": "OpenStreetMap (Way 734139727, version 2, osm:changeset=96442002, 2020-12-26T07:58:57Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/734139727",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12014",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 734139727",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12014.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=734139727",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 12014",
-            "uri": "https://pleiades.stoa.org/places/678091/darmc-location-12014"
+            "title": "OSM Location of Korazim",
+            "uri": "https://pleiades.stoa.org/places/678091/osm-location-of-korazim"
         }
     ],
     "names": [
@@ -272,10 +351,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 69 C4 Chorazin",
     "references": [
@@ -355,11 +436,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12014",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.566986,
-        32.907983
+        35.56409006740321,
+        32.911391307213016
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
