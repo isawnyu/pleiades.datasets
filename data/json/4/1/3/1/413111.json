@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.5,
-        43.5,
-        14.0,
-        44.0
+        13.6053591,
+        43.5520619,
+        13.6053591,
+        43.5520619
     ],
     "connections": [],
     "connectsWith": [],
@@ -32,56 +32,46 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-12T15:26:59Z",
+    "created": "2021-04-08T17:04:39Z",
     "creators": [
         {
             "name": "W.V. Harris",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 42 F1 Cunerum Pr.",
-    "details": "The Barrington Atlas Directory notes: near Monte Cónero",
+    "description": "A promontory on the Adriatic coast of Italy, south of Ancona near Monte Conero.",
+    "details": "<p>The Barrington Atlas Directory notes: near Monte Cónero</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            13.5,
-                            43.5
-                        ],
-                        [
-                            13.5,
-                            44.0
-                        ],
-                        [
-                            14.0,
-                            44.0
-                        ],
-                        [
-                            14.0,
-                            43.5
-                        ],
-                        [
-                            13.5,
-                            43.5
-                        ]
-                    ]
+                    13.6053591,
+                    43.5520619
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/413111/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/413111/osm-location",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "OSM location of Monte Conero"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Initial revision; ref. update",
+            "modified": "2021-04-08T18:25:45Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2021-04-08T17:04:38Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T04:48:02Z",
@@ -102,91 +92,94 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-12T15:27:00Z",
+            "created": "2014-05-11T03:57:35Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            13.5,
-                            43.5
-                        ],
-                        [
-                            13.5,
-                            44.0
-                        ],
-                        [
-                            14.0,
-                            44.0
-                        ],
-                        [
-                            14.0,
-                            43.5
-                        ],
-                        [
-                            13.5,
-                            43.5
-                        ]
-                    ]
+                    13.6053591,
+                    43.5520619
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:48:02Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-04-08T17:03:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-05-11T03:59:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-11T03:57:40Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "provenance": "Barrington Atlas: BAtlas 42 F1 Cunerum Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 830265233, version 2, osm:changeset=15648140, 2013-04-07T22:49:19Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/830265233",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 830265233",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=830265233",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/413111/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Monte Conero",
+            "uri": "https://pleiades.stoa.org/places/413111/osm-location"
         }
     ],
     "names": [
@@ -243,44 +236,46 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/cape"
+        "https://pleiades.stoa.org/vocabularies/place-types/cape",
+        "https://pleiades.stoa.org/vocabularies/place-types/mountain"
     ],
     "placeTypes": [
-        "cape"
+        "cape",
+        "mountain"
     ],
     "provenance": "Barrington Atlas: BAtlas 42 F1 Cunerum Pr.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "42 F1 Cunerum Pr.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 42 F1 Cunerum Pr.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Cunerum-Pr.",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Cunerum Pr.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Cunerum Pr.",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        13.75,
-        43.75
+        13.6053591,
+        43.5520619
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Cunerum Pr.",
+    "title": "Cunerum (promontory)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/413111"
 }
