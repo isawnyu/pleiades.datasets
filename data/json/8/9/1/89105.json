@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -4.12454,
-        55.947901,
-        -4.12454,
-        55.947901
+        -4.1206451,
+        55.948558,
+        -4.1186046,
+        55.9496856
     ],
     "connections": [
         {
@@ -91,23 +91,48 @@
         {
             "geometry": {
                 "coordinates": [
-                    -4.12454,
-                    55.947901
+                    [
+                        [
+                            -4.12026,
+                            55.948558
+                        ],
+                        [
+                            -4.1206451,
+                            55.9494653
+                        ],
+                        [
+                            -4.1189897,
+                            55.9496856
+                        ],
+                        [
+                            -4.1186046,
+                            55.9487783
+                        ],
+                        [
+                            -4.12026,
+                            55.948558
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-19045",
+            "id": "osm-location-of-auchendavy-roman-fort",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/89105/darmc-location-19045",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/89105/osm-location-of-auchendavy-roman-fort",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 19045"
+                "snippet": "Fort-2; AD 43 - AD 410",
+                "title": "OSM location of Auchendavy Roman Fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-04-11T12:45:21Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "wikidata Q48797214: Auchendavy Roman fort",
             "modified": "2021-04-09T14:35:38Z",
@@ -158,8 +183,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -167,76 +192,93 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:43:02Z",
+            "contributors": [],
+            "created": "2021-04-09T14:36:10Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 19045",
-            "end": 300,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    -4.12454,
-                    55.947901
+                    [
+                        [
+                            -4.12026,
+                            55.948558
+                        ],
+                        [
+                            -4.1206451,
+                            55.9494653
+                        ],
+                        [
+                            -4.1189897,
+                            55.9496856
+                        ],
+                        [
+                            -4.1186046,
+                            55.9487783
+                        ],
+                        [
+                            -4.12026,
+                            55.948558
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:16:25Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-04-09T14:36:32Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:43:03Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-04-09T14:36:11Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-19045",
+            "id": "osm-location-of-auchendavy-roman-fort",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 19045",
+            "provenance": "OpenStreetMap (Way 206931182, version 2, osm:changeset=15143369, 2013-02-24T03:11:58Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/206931182",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19045",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 206931182",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19045.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=206931182",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 19045",
-            "uri": "https://pleiades.stoa.org/places/89105/darmc-location-19045"
+            "start": 43,
+            "title": "OSM location of Auchendavy Roman Fort",
+            "uri": "https://pleiades.stoa.org/places/89105/osm-location-of-auchendavy-roman-fort"
         }
     ],
     "names": [],
@@ -337,11 +379,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "19045",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        -4.12454,
-        55.947901
+        -4.11962485,
+        55.94912180000001
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
