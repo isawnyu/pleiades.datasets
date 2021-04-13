@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.75,
-        41.75,
-        13.0,
-        42.0
+        12.8079802,
+        41.9315264,
+        12.8208118,
+        41.942205
     ],
     "connections": [],
     "connectsWith": [
@@ -57,43 +57,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            12.75,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            42.0
-                        ],
-                        [
-                            13.0,
-                            42.0
-                        ],
-                        [
-                            13.0,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            41.75
-                        ]
-                    ]
+                    12.8079802,
+                    41.942205
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-colle-ripoli",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/422820/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/422820/location-of-colle-ripoli",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "OSM location of Colle Ripoli"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.8208118,
+                    41.9315264
+                ],
+                "type": "Point"
+            },
+            "id": "location-of-monte-s-angelo-in-arcese",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/422820/location-of-monte-s-angelo-in-arcese",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "OSM location of Monte S. Angelo in Arcese"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update refs.",
+            "modified": "2021-04-12T14:42:33Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
             "modified": "2021-03-01T22:40:38Z",
@@ -144,95 +147,171 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-11-10T22:30:11Z",
+            "contributors": [],
+            "created": "2013-12-30T21:33:02Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            12.75,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            42.0
-                        ],
-                        [
-                            13.0,
-                            42.0
-                        ],
-                        [
-                            13.0,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            41.75
-                        ]
-                    ]
+                    12.8079802,
+                    41.942205
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:54:29Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2017-01-25T18:30:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-12-30T21:33:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-12-30T21:33:06Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-colle-ripoli",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "provenance": "Barrington Atlas: BAtlas 43 D2 Aeflanus M.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1355560634, version 2, osm:changeset=9383790, 2011-09-24T12:39:39Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1355560634",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1355560634",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1355560634",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/422820/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Colle Ripoli",
+            "uri": "https://pleiades.stoa.org/places/422820/location-of-colle-ripoli"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [],
+            "created": "2013-12-30T21:34:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "<p>598 m</p>",
+            "end": 2100,
+            "featureType": [
+                "mountain"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "geometry": {
+                "coordinates": [
+                    12.8208118,
+                    41.9315264
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2017-01-25T18:30:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-12-30T21:36:06Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-12-30T21:34:07Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "location-of-monte-s-angelo-in-arcese",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "provenance": "OpenStreetMap (Node 1355560635, version 2, osm:changeset=9383781, 2011-09-24T12:38:48Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1355560635",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1355560635",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1355560635",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "OSM location of Monte S. Angelo in Arcese",
+            "uri": "https://pleiades.stoa.org/places/422820/location-of-monte-s-angelo-in-arcese"
         }
     ],
     "names": [
@@ -341,29 +420,29 @@
         {
             "accessURI": "http://www.trismegistos.org/place/43872",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 43872: Aeflanus Mons (Monte Sant'Angelo)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 43872",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
             "accessURI": "http://referenceworks.brillonline.com/entries/brill-s-new-pauly/aefulae-e104320",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Aefulae",
             "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
-            "formattedCitation": "New Pauly Aefulae",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "http://purl.org/spar/cito/seeAlso"
         }
     ],
     "reprPoint": [
-        12.875,
-        41.875
+        12.814395999999999,
+        41.9368657
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

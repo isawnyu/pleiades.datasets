@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        8.205453,
-        40.593711,
-        8.205453,
-        40.593711
+        8.1896003,
+        40.61665,
+        8.1896003,
+        40.61665
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    8.205453,
-                    40.593711
+                    8.1896003,
+                    40.61665
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21087",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/472011/darmc-location-21087",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/472011/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 21087"
+                "snippet": "Villa; 30 BC - AD 300",
+                "title": "OSM location of Santimbenia maritime villa"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-04-13T09:41:47Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T23:00:04Z",
@@ -91,9 +96,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -106,70 +111,90 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-10T00:25:29Z",
+            "created": "2014-05-30T22:13:12Z",
             "creators": [
                 {
-                    "name": "S.L. Dyson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 21087",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    8.205453,
-                    40.593711
+                    8.1896003,
+                    40.61665
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:27:39Z",
-                    "modifiedBy": "admin"
+                    "comment": "archaeology: substantive",
+                    "modified": "2021-04-13T09:46:18Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:25:30Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-05-30T22:13:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-30T22:13:15Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21087",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "DARMC OBJECTID: 21087",
+            "provenance": "OpenStreetMap (Node 2313594271, version 2, osm:changeset=22647452, 2014-05-30T22:12:54Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2313594271",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21087",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2313594271",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21087.",
+                    "formattedCitation": "osm:node=2313594271",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.sardegnacultura.it/j/v/253?s=21302&v=2&c=2463&c1=2625&t=1",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Alghero, Villa di Sant'Imbenia",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 21087",
-            "uri": "https://pleiades.stoa.org/places/472011/darmc-location-21087"
+            "title": "OSM location of Santimbenia maritime villa",
+            "uri": "https://pleiades.stoa.org/places/472011/osm-location"
         }
     ],
     "names": [],
@@ -202,11 +227,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21087",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        8.205453,
-        40.593711
+        8.1896003,
+        40.61665
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
