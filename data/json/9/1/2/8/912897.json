@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        45.853611,
-        31.285833,
-        45.853611,
-        31.285833
+        45.85,
+        31.283333,
+        45.85,
+        31.283333
     ],
     "connections": [],
     "connectsWith": [
@@ -13,14 +13,14 @@
     ],
     "contributors": [
         {
-            "name": "P. Flensted Jensen",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "name": "P. Flensted Jensen",
+            "username": null
         },
         {
             "homepage": null,
@@ -92,23 +92,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    45.853611,
-                    31.285833
+                    45.85,
+                    31.283333
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21512",
+            "id": "osm-location",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/912897/darmc-location-21512",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/912897/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "DARMC location 21512"
+                "snippet": "Settlement; 5500 BC - 2350 BC",
+                "title": "OSM location of Sankara"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-04-13T22:02:58Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2017-10-20T13:11:21Z",
@@ -149,8 +154,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -158,106 +163,89 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                    "timePeriod": "ubaid-early-dynastic-ii-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/ubaid-early-dynastic-ii-mesopotamia"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "early-dynastic-mesopotamia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-dynastic-mesopotamia"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:41:01Z",
+            "contributors": [],
+            "created": "2014-10-11T18:11:44Z",
             "creators": [
                 {
-                    "name": "A. Hausleiter",
-                    "username": null
-                },
-                {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
-                },
-                {
-                    "name": "R. Wenke",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21512",
-            "end": 300,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": -2350,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    45.853611,
-                    31.285833
+                    45.85,
+                    31.283333
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:32:46Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2018-09-30T15:18:38Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:41:05Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2017-01-01T18:11:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-10-11T18:13:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-10-11T18:11:49Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21512",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 21512",
+            "provenance": "OpenStreetMap (Node 2487982264, version 2, osm:changeset=26009973, 2014-10-11T18:11:31Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2487982264",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21512",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2487982264",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21512.",
+                    "formattedCitation": "osm:node=2487982264",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 21512",
-            "uri": "https://pleiades.stoa.org/places/912897/darmc-location-21512"
+            "start": -5500,
+            "title": "OSM location of Sankara",
+            "uri": "https://pleiades.stoa.org/places/912897/osm-location"
         }
     ],
     "names": [
@@ -997,11 +985,22 @@
             "otherIdentifier": "",
             "shortTitle": "Iraq Significant Sites",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21512",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        45.853611,
-        31.285833
+        45.85,
+        31.283333
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
