@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        26.5,
-        34.5,
-        27.0,
-        35.0
+        28.1402037,
+        36.2103503,
+        28.1402037,
+        36.2103503
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,38 +49,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.5,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            35.0
-                        ],
-                        [
-                            27.0,
-                            35.0
-                        ],
-                        [
-                            27.0,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            34.5
-                        ]
-                    ]
+                    28.1402037,
+                    36.2103503
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/590060/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/590060/osm-location",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern, ; AD 1700 - AD 2100",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
@@ -101,95 +81,85 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-09-22T19:26:03Z",
+            "contributors": [],
+            "created": "2014-05-18T05:26:18Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.5,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            35.0
-                        ],
-                        [
-                            27.0,
-                            35.0
-                        ],
-                        [
-                            27.0,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            34.5
-                        ]
-                    ]
+                    28.1402037,
+                    36.2103503
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:51:13Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-05-18T05:26:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-18T05:26:22Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 G3 Stegna",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 276173795, version 4, osm:changeset=17197663, 2013-08-02T22:08:39Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/276173795",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 276173795",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=276173795",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/590060/batlas-location"
+            "start": 1700,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/590060/osm-location"
         }
     ],
     "names": [],
@@ -225,8 +195,8 @@
         }
     ],
     "reprPoint": [
-        26.75,
-        34.75
+        28.1402037,
+        36.2103503
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
