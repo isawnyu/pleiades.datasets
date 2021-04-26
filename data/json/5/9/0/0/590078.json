@@ -1,7 +1,48 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
+    "bbox": [
+        27.13536,
+        35.3974,
+        27.13536,
+        35.3974
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/589841",
+            "contributors": [],
+            "created": "2020-07-07T16:02:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-07-07T16:03:00Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "karpathos-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Karpathos (island)",
+            "uri": "https://pleiades.stoa.org/places/590078/karpathos-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/589841"
     ],
@@ -29,7 +70,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:26:28Z",
+    "created": "2021-04-22T18:39:45Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -40,23 +81,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 E5 Thoanteion Pr.",
-    "details": "The Barrington Atlas Directory notes: Akra Kastellos",
+    "description": "Thoanteion Pr., a promontory of Karpathos mentioned by Ptolemy.",
+    "details": "<p>The Barrington Atlas Directory notes: Akra Kastellos</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    27.13536,
+                    35.3974
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-of-akra-kastello",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/590078/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Coordinates following GeoNames",
+                "link": "https://pleiades.stoa.org/places/590078/geonames-location-of-akra-kastello",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "GeoNames location of Ákra Kástello"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary",
+            "modified": "2021-04-23T10:59:47Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "refs.",
             "modified": "2021-04-22T12:48:43Z",
@@ -82,69 +134,77 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-22T19:26:29Z",
+            "contributors": [],
+            "created": "2021-04-22T12:46:45Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Coordinates following GeoNames",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    27.13536,
+                    35.3974
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:51:26Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2021-04-22T12:46:45Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "geonames-location-of-akra-kastello",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 E5 Thoanteion Pr.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/260795/akra-kastello.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "260795: Ákra Kástello",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/590078/batlas-location"
+            "start": 2000,
+            "title": "GeoNames location of Ákra Kástello",
+            "uri": "https://pleiades.stoa.org/places/590078/geonames-location-of-akra-kastello"
         }
     ],
     "names": [
@@ -244,9 +304,23 @@
             "otherIdentifier": "",
             "shortTitle": "GeoNames",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://catalog.hathitrust.org/Record/002504277",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/56UMLU8H",
+            "citationDetail": "5.2.33",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Claudii Ptolemaei geographia</i>. Edited by Karl Friedrich August Nobbe. 3 in 2 vols. Lipsiae: Sumptibus et typis Caroli Tauchnitii, 1843. https://catalog.hathitrust.org/Record/002504277.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Ptol. (Nobbe: Hathi)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        27.13536,
+        35.3974
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
