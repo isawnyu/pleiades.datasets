@@ -1,33 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        30.376631,
+        30.31667,
         19.742908,
         30.376631,
-        19.742908
+        19.81667
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "communicates",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/communicates",
             "connectsTo": "https://pleiades.stoa.org/places/727172",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:48:49Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-04-27T22:21:17Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "727172",
             "provenance": "Pleiades",
             "references": [],
@@ -94,6 +107,24 @@
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
                 "title": "DARMC location 21410"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.31667,
+                    19.81667
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-of-the-third-cataract-of-the-nile",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/805602/geonames-location-of-the-third-cataract-of-the-nile",
+                "location_precision": "precise",
+                "snippet": "Rapid; AD 2000 - AD 2099",
+                "title": "GeoNames location of the Third Cataract of the Nile"
             },
             "type": "Feature"
         }
@@ -224,6 +255,80 @@
             "start": -30,
             "title": "DARMC location 21410",
             "uri": "https://pleiades.stoa.org/places/805602/darmc-location-21410"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-04-27T22:20:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "rapid"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/rapid"
+            ],
+            "geometry": {
+                "coordinates": [
+                    30.31667,
+                    19.81667
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-04-27T22:20:42Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "geonames-location-of-the-third-cataract-of-the-nile",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/rapid"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/366119/third-cataract.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "366119: Third Cataract",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "GeoNames location of the Third Cataract of the Nile",
+            "uri": "https://pleiades.stoa.org/places/805602/geonames-location-of-the-third-cataract-of-the-nile"
         }
     ],
     "names": [
@@ -346,8 +451,8 @@
         }
     ],
     "reprPoint": [
-        30.376631,
-        19.742908
+        30.3466505,
+        19.779789
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
