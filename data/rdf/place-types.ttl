@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2021/05/02 06:47:22.794177 GMT-4
+# Date: 2021/05/09 06:47:23.171741 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 904
+# Triple count: 910
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -528,6 +528,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "mine"@en;
     skos:scopeNote "A mine as defined by the Getty Art and Architecture Thesaurus: Excavation or systems of excavations, including pits or tunnels, made underground for the extraction of metals, metallic ores, coal, salt, precious stones, building stone, clay, or another substance, or an open-air excavation for the extraction of such substances."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/monastery> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/monastery>,
+        <http://vocab.getty.edu/aat/300000641>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "monastery"@en;
+    skos:scopeNote "A monastery as defined by the Getty Art and Architecture Thesaurus: Built complexes for religious retirement or seclusion from the world for monks, who are people living a celibate life according to the rule of a particular religious order and adhering to vows, especially of poverty, chastity, and obedience."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/monument> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/monument>,
