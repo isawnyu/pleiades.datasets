@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -5.774776,
-        36.088341,
-        -5.774776,
-        36.088341
+        -5.7749081,
+        36.0882053,
+        -5.774626,
+        36.0884155
     ],
     "connections": [
         {
@@ -82,23 +82,48 @@
         {
             "geometry": {
                 "coordinates": [
-                    -5.774776,
-                    36.088341
+                    [
+                        [
+                            -5.774682,
+                            36.0882053
+                        ],
+                        [
+                            -5.7749081,
+                            36.088256
+                        ],
+                        [
+                            -5.774846,
+                            36.0884155
+                        ],
+                        [
+                            -5.774626,
+                            36.0883611
+                        ],
+                        [
+                            -5.774682,
+                            36.0882053
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "house-of-the-sundial",
+            "id": "house-o-t-sundial",
             "properties": {
-                "description": "Point representing the approximate center point of House of the Sundial based on Google Maps imagery.",
-                "link": "https://pleiades.stoa.org/places/510567670/house-of-the-sundial",
+                "description": "Polygon representing the visible remains of the House of the Sundial, derived from an OpenStreetMap Way after Sillières 1995.",
+                "link": "https://pleiades.stoa.org/places/510567670/house-o-t-sundial",
                 "location_precision": "precise",
                 "snippet": "Townhouse; 30 BC - AD 300",
-                "title": "Imagery location of House of the Sundial "
+                "title": "OSM location of the House of the sundial"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2021-05-12T17:06:31Z",
+            "modifiedBy": "gmckee"
+        },
         {
             "comment": "Edited",
             "modified": "2021-05-05T19:12:16Z",
@@ -124,9 +149,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
-            "accuracy_value": 5.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -137,24 +162,17 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "created": "2020-11-20T02:11:04Z",
+            "contributors": [],
+            "created": "2021-05-12T17:07:46Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Lai Ching Tsui",
-                    "uri": "https://pleiades.stoa.org/author/lctsui",
-                    "username": "lctsui"
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
                 }
             ],
-            "description": "Point representing the approximate center point of House of the Sundial based on Google Maps imagery.",
+            "description": "Polygon representing the visible remains of the House of the Sundial, derived from an OpenStreetMap Way after Sillières 1995.",
             "details": "",
             "end": 300,
             "featureType": [
@@ -165,84 +183,68 @@
             ],
             "geometry": {
                 "coordinates": [
-                    -5.774776,
-                    36.088341
+                    [
+                        [
+                            -5.774682,
+                            36.0882053
+                        ],
+                        [
+                            -5.7749081,
+                            36.088256
+                        ],
+                        [
+                            -5.774846,
+                            36.0884155
+                        ],
+                        [
+                            -5.774626,
+                            36.0883611
+                        ],
+                        [
+                            -5.774682,
+                            36.0882053
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "change feature type to townhouse from villa as latter not the best descriptor here.",
-                    "modified": "2021-05-06T13:03:13Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2020-12-19T22:11:36Z",
-                    "modifiedBy": "lctsui"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2020-12-19T22:10:23Z",
-                    "modifiedBy": "lctsui"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2020-12-19T22:00:54Z",
-                    "modifiedBy": "lctsui"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2020-12-19T21:59:18Z",
-                    "modifiedBy": "lctsui"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2020-12-19T21:44:45Z",
-                    "modifiedBy": "lctsui"
-                },
-                {
                     "comment": "Initial revision",
-                    "modified": "2020-11-20T02:11:04Z",
-                    "modifiedBy": "lctsui"
+                    "modified": "2021-05-12T17:08:40Z",
+                    "modifiedBy": "gmckee"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-05-12T17:07:46Z",
+                    "modifiedBy": "gmckee"
                 }
             ],
-            "id": "house-of-the-sundial",
+            "id": "house-o-t-sundial",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/townhouse"
             ],
-            "provenance": "Pleiades",
+            "provenance": "OpenStreetMap (Way 942303885, version 1, osm:changeset=104587004, 2021-05-12T17:03:17Z)",
             "references": [
                 {
-                    "accessURI": "https://dialnet.unirioja.es/servlet/articulo?codigo=2702380",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/942303885",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/grep_workshop_at_cornell_2020/items/KDI3CDSG",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "<div class=\"csl-entry\">Balil Iliana, A. “Casa y Urbanismo En La España Antigua. Casa Familiar y Vivienda Colectiva En La España Romana.” <i>Boletín Del Seminario de Estudios de Arte y Arqueología: BSAA</i> 38 (1973). https://dialnet.unirioja.es/servlet/articulo?codigo=2702380.</div>",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 942303885",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=942303885",
                     "otherIdentifier": "",
-                    "shortTitle": "Balil Iliana 1973",
-                    "type": "http://purl.org/spar/cito/seeFurther"
-                },
-                {
-                    "accessURI": "http://www.worldcat.org/oclc/431871350",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/grep_workshop_at_cornell_2020/items/HPEHWR3R",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "<div class=\"csl-entry\">Sillières, Pierre, Myriam Fincker, and Jean-Michel Labarthe. <i>Baelo Claudia: une cité romaine de Bètique</i>. Collection de la Casa de Velázquez 51. Madrid Casa de Velázquez, 1995. http://www.worldcat.org/oclc/431871350.</div>",
-                    "otherIdentifier": "",
-                    "shortTitle": "Sillières 1995",
-                    "type": "http://purl.org/spar/cito/seeFurther"
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Imagery location of House of the Sundial ",
-            "uri": "https://pleiades.stoa.org/places/510567670/house-of-the-sundial"
+            "title": "OSM location of the House of the sundial",
+            "uri": "https://pleiades.stoa.org/places/510567670/house-o-t-sundial"
         }
     ],
     "names": [],
@@ -258,7 +260,7 @@
             "accessURI": "http://www.worldcat.org/oclc/431871350",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/grep_workshop_at_cornell_2020/items/HPEHWR3R",
-            "citationDetail": "",
+            "citationDetail": "pages 166-169",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Sillières, Pierre, Myriam Fincker, and Jean-Michel Labarthe. <i>Baelo Claudia: une cité romaine de Bétique</i>. Collection de la Casa de Velázquez 51. Madrid Casa de Velázquez, 1995. http://www.worldcat.org/oclc/431871350.</div>",
             "otherIdentifier": "",
@@ -278,8 +280,8 @@
         }
     ],
     "reprPoint": [
-        -5.774776,
-        36.088341
+        -5.774766549745337,
+        36.08830899534498
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
