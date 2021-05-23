@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.822996,
-        41.855772,
-        12.822996,
-        41.855772
+        12.8192165,
+        41.8584397,
+        12.8192165,
+        41.8584397
     ],
     "connections": [],
     "connectsWith": [],
@@ -48,28 +48,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 43 D2 Il Tondo",
-    "details": "The Barrington Atlas Directory notes: Il Tondo",
+    "details": "<p>The Barrington Atlas Directory notes: Il Tondo</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    12.822996,
-                    41.855772
+                    12.8192165,
+                    41.8584397
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20930",
+            "id": "osm-location-of-il-tondo",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/423086/darmc-location-20930",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/423086/osm-location-of-il-tondo",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 20930"
+                "snippet": "Amphitheatre; 30 BC - AD 300",
+                "title": "OSM location of Il Tondo"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-05-22T10:43:58Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updates",
             "modified": "2021-05-22T03:53:24Z",
@@ -100,9 +105,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -113,71 +118,69 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:15:05Z",
+            "contributors": [],
+            "created": "2021-05-22T03:58:41Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 20930",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "amphitheatre"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
             ],
             "geometry": {
                 "coordinates": [
-                    12.822996,
-                    41.855772
+                    12.8192165,
+                    41.8584397
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:57:25Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-05-22T03:59:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-05-22T03:58:41Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20930",
+            "id": "osm-location-of-il-tondo",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
             ],
-            "provenance": "DARMC OBJECTID: 20930",
+            "provenance": "OpenStreetMap (Node 1638031408, version 4, osm:changeset=61769306, 2018-08-18T12:31:54Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1638031408",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20930",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1638031408",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20930.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=1638031408",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 20930",
-            "uri": "https://pleiades.stoa.org/places/423086/darmc-location-20930"
+            "title": "OSM location of Il Tondo",
+            "uri": "https://pleiades.stoa.org/places/423086/osm-location-of-il-tondo"
         }
     ],
     "names": [],
@@ -212,11 +215,22 @@
             "otherIdentifier": "",
             "shortTitle": "Sgreva 1993",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20930",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.822996,
-        41.855772
+        12.8192165,
+        41.8584397
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
