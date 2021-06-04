@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         9.330252,
-        46.505737,
-        9.330252,
+        46.5056297,
+        9.3303337,
         46.505737
     ],
     "connections": [],
@@ -22,14 +22,14 @@
             "username": null
         },
         {
+            "name": "M. Puhane",
+            "username": null
+        },
+        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
-        },
-        {
-            "name": "M. Puhane",
-            "username": null
         },
         {
             "homepage": null,
@@ -69,6 +69,24 @@
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
                 "title": "DARMC location 8679"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.3303337,
+                    46.5056297
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-spla1-4gen-pass",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/187356/osm-location-of-spla1-4gen-pass",
+                "location_precision": "precise",
+                "snippet": "Pass; AD 2000 - AD 2099",
+                "title": "OSM location of Splügen Pass"
             },
             "type": "Feature"
         }
@@ -199,6 +217,85 @@
             "start": -30,
             "title": "DARMC location 8679",
             "uri": "https://pleiades.stoa.org/places/187356/darmc-location-8679"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-05-30T18:25:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "pass"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
+            ],
+            "geometry": {
+                "coordinates": [
+                    9.3303337,
+                    46.5056297
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2021-05-30T18:25:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-05-30T18:25:00Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-spla1-4gen-pass",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
+            ],
+            "provenance": "OpenStreetMap (Node 431912611, version 11, osm:changeset=48816533, 2017-05-19T10:03:47Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/431912611",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 431912611",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=431912611",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of Splügen Pass",
+            "uri": "https://pleiades.stoa.org/places/187356/osm-location-of-spla1-4gen-pass"
         }
     ],
     "names": [
@@ -281,10 +378,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/station"
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
+        "https://pleiades.stoa.org/vocabularies/place-types/pass"
     ],
     "placeTypes": [
-        "station"
+        "station",
+        "pass"
     ],
     "provenance": "Barrington Atlas: BAtlas 19 B3 *Cunus Aureus",
     "references": [
@@ -334,8 +433,8 @@
         }
     ],
     "reprPoint": [
-        9.330252,
-        46.505737
+        9.33029285,
+        46.50568335
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

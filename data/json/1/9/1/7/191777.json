@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        11.0,
-        47.0,
-        12.0,
-        48.0
+        11.5066996,
+        47.0073993,
+        11.5066996,
+        47.0073993
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,38 +53,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            11.0,
-                            47.0
-                        ],
-                        [
-                            11.0,
-                            48.0
-                        ],
-                        [
-                            12.0,
-                            48.0
-                        ],
-                        [
-                            12.0,
-                            47.0
-                        ],
-                        [
-                            11.0,
-                            47.0
-                        ]
-                    ]
+                    11.5066996,
+                    47.0073993
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-brenner-pass",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/191777/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/191777/osm-location-of-brenner-pass",
+                "location_precision": "precise",
+                "snippet": "Pass; AD 2000 - AD 2099",
+                "title": "OSM location of Brenner Pass"
             },
             "type": "Feature"
         }
@@ -125,104 +105,82 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "G. Moosbauer",
-                    "username": null
-                },
-                {
-                    "name": "M. Puhane",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-06-23T12:47:38Z",
+            "contributors": [],
+            "created": "2021-05-28T18:29:49Z",
             "creators": [
                 {
-                    "name": "H. Bender",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "pass"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            11.0,
-                            47.0
-                        ],
-                        [
-                            11.0,
-                            48.0
-                        ],
-                        [
-                            12.0,
-                            48.0
-                        ],
-                        [
-                            12.0,
-                            47.0
-                        ],
-                        [
-                            11.0,
-                            47.0
-                        ]
-                    ]
+                    11.5066996,
+                    47.0073993
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:43:10Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-05-28T18:30:21Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:23:08Z",
-                    "modifiedBy": "admin"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-05-28T18:29:49Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-brenner-pass",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
-            "provenance": "Barrington Atlas: BAtlas 19 D2 6",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 508401093, version 9, osm:changeset=51724685, 2017-09-04T16:04:48Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/508401093",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 508401093",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=508401093",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/191777/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Brenner Pass",
+            "uri": "https://pleiades.stoa.org/places/191777/osm-location-of-brenner-pass"
         }
     ],
     "names": [],
@@ -269,8 +227,8 @@
         }
     ],
     "reprPoint": [
-        11.5,
-        47.5
+        11.5066996,
+        47.0073993
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
