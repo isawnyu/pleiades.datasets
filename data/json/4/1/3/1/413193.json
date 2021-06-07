@@ -76,6 +76,7 @@
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/1356",
+        "https://pleiades.stoa.org/places/416866",
         "https://pleiades.stoa.org/places/413388",
         "https://pleiades.stoa.org/places/413194"
     ],
@@ -378,15 +379,18 @@
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "attested": "",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "attested": "Marta",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -394,9 +398,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-12T15:28:35Z",
+            "created": "2021-06-04T05:05:32Z",
             "creators": [
                 {
                     "name": "W.V. Harris",
@@ -405,8 +421,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 640,
             "history": [
+                {
+                    "comment": "Language; reference",
+                    "modified": "2021-06-04T19:05:39Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:50:48Z",
@@ -414,13 +435,25 @@
                 }
             ],
             "id": "marta",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 42 B4 Marta fl.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1234.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "4B1 (Talbert 1234)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Marta",
-            "start": null,
+            "start": 300,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/413193/marta"
