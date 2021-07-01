@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        11.220455,
-        43.830072,
-        11.220455,
-        43.830072
+        11.2301728,
+        43.8334012,
+        11.2301728,
+        43.8334012
     ],
     "connections": [
         {
@@ -40,7 +40,7 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/403181",
         "https://pleiades.stoa.org/places/277432401",
-        "https://pleiades.stoa.org/places/277432402"
+        "https://pleiades.stoa.org/places/277432403"
     ],
     "contributors": [
         {
@@ -77,29 +77,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 42 A1 Quinto Fiorentino",
-    "details": "The Barrington Atlas Directory notes: Quinto Fiorentino",
+    "description": "Quinto Fiorentino is a place located in the plain of the Arno River to the west of Florence. Its location corresponds to the fifth mile of the Roman road. The site is especially known for two Etruscan tholos-type tombs a thòlos, one of which is the Tomba della Mula, and the other the Tomba della Montagnola.",
+    "details": "<p>The Barrington Atlas Directory notes: Quinto Fiorentino</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    11.220455,
-                    43.830072
+                    11.2301728,
+                    43.8334012
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-23894",
+            "id": "osm-location-of-necropoli-di-palastreto",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/413279/darmc-location-23894",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/413279/osm-location-of-necropoli-di-palastreto",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 550 BC",
-                "title": "DARMC location 23894"
+                "snippet": "Cemetery; 750 BC - 550 BC",
+                "title": "OSM location of Necropoli di Palastreto"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-06-30T20:51:05Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2021-06-27T21:49:14Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2015-08-18T14:12:40Z",
@@ -140,9 +150,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -153,72 +163,69 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:48:11Z",
+            "contributors": [],
+            "created": "2021-06-27T21:43:38Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 23894",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": -550,
             "featureType": [
-                "unknown"
+                "cemetery"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "geometry": {
                 "coordinates": [
-                    11.220455,
-                    43.830072
+                    11.2301728,
+                    43.8334012
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:51:39Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location to place",
+                    "modified": "2021-06-27T21:43:59Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:48:12Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-06-27T21:43:38Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-23894",
+            "id": "osm-location-of-necropoli-di-palastreto",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
-            "provenance": "DARMC OBJECTID: 23894",
+            "provenance": "OpenStreetMap (Node 3541884830, version 4, osm:changeset=46761779, 2017-03-11T12:55:27Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/3541884830",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "23894",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 3541884830",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 23894.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=3541884830",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 23894",
-            "uri": "https://pleiades.stoa.org/places/413279/darmc-location-23894"
+            "title": "OSM location of Necropoli di Palastreto",
+            "uri": "https://pleiades.stoa.org/places/413279/osm-location-of-necropoli-di-palastreto"
         }
     ],
     "names": [],
@@ -233,36 +240,36 @@
     "provenance": "Barrington Atlas: BAtlas 42 A1 Quinto Fiorentino",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "42 A1 Quinto Fiorentino",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 42 A1 Quinto Fiorentino",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-XIV",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
+            "citationDetail": "XIV, 519-34",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BTCGI XIV, 519-34",
+            "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "BTCGI",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=sesto-fiorentino",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "SESTO FIORENTINO Tuscany, Italy",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), SESTO FIORENTINO Tuscany, Italy",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -286,11 +293,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "23894",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        11.220455,
-        43.830072
+        11.2301728,
+        43.8334012
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

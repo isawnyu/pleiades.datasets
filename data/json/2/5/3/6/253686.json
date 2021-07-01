@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        3.2334713,
+        41.9503531,
+        3.2334713,
+        41.9503531
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -27,7 +32,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-09T18:50:07Z",
+    "created": "2021-06-29T15:05:18Z",
     "creators": [
         {
             "name": "H.S. Sivan",
@@ -42,23 +47,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 25 unlocated Celebandicum Iugum",
-    "details": "The Barrington Atlas Directory notes: Cap de Begur. Name known only from Avienus; otherwise unattested.",
+    "description": "Mentioned only by Avienus, the Celebandicum Iugum is to be identified with the modern Cap de Begur on the Mediterranean coast of the Spanish province of Girona. The Barrington Atlas treated it as an unlocated, possibly false, toponym.",
+    "details": "<p>The Barrington Atlas Directory notes: Cap de Begur. Name known only from Avienus; otherwise unattested.</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    3.2334713,
+                    41.9503531
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-cap-de-begur",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/253686/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/253686/osm-location-of-cap-de-begur",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "OSM location of Cap de Begur"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type",
+            "modified": "2021-06-29T15:40:24Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2021-06-29T15:05:18Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2013-12-24T02:03:20Z",
@@ -84,73 +105,82 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-11-09T18:50:08Z",
+            "contributors": [],
+            "created": "2021-06-25T00:14:13Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    3.2334713,
+                    41.9503531
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:38:49Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-06-25T00:14:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-06-25T00:14:14Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-cap-de-begur",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 25 Celebandicum Iugum",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 30700110, version 5, osm:changeset=87711392, 2020-07-08T12:33:20Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/30700110",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 30700110",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=30700110",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/253686/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Cap de Begur",
+            "uri": "https://pleiades.stoa.org/places/253686/osm-location-of-cap-de-begur"
         }
     ],
     "names": [
@@ -215,11 +245,9 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
         "https://pleiades.stoa.org/vocabularies/place-types/cape"
     ],
     "placeTypes": [
-        "unlocated",
         "cape"
     ],
     "provenance": "Barrington Atlas: BAtlas 25 Celebandicum Iugum",
@@ -269,7 +297,10 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        3.2334713,
+        41.9503531
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
