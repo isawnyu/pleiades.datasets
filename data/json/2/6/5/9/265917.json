@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -1.0,
-        38.0,
-        0.0,
-        39.0
+        -0.7692125,
+        38.3459902,
+        -0.7692125,
+        38.3459902
     ],
     "connections": [],
     "connectsWith": [],
@@ -18,14 +18,22 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-09-24T19:03:07Z",
@@ -41,38 +49,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -1.0,
-                            38.0
-                        ],
-                        [
-                            -1.0,
-                            39.0
-                        ],
-                        [
-                            0.0,
-                            39.0
-                        ],
-                        [
-                            0.0,
-                            38.0
-                        ],
-                        [
-                            -1.0,
-                            38.0
-                        ]
-                    ]
+                    -0.7692125,
+                    38.3459902
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-aspe",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/265917/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/265917/osm-location-of-modern-aspe",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of modern Aspe"
             },
             "type": "Feature"
         }
@@ -93,8 +81,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -102,99 +90,73 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T19:03:08Z",
+            "contributors": [],
+            "created": "2021-07-14T17:08:06Z",
             "creators": [
                 {
-                    "name": "P.O. Spann",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -1.0,
-                            38.0
-                        ],
-                        [
-                            -1.0,
-                            39.0
-                        ],
-                        [
-                            0.0,
-                            39.0
-                        ],
-                        [
-                            0.0,
-                            38.0
-                        ],
-                        [
-                            -1.0,
-                            38.0
-                        ]
-                    ]
+                    -0.7692125,
+                    38.3459902
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:51:21Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-07-14T17:08:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-07-14T17:08:06Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-aspe",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 27 E3 (I)Aspis",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1383299037, version 7, osm:changeset=91926253, 2020-10-04T09:48:47Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1383299037",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1383299037",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1383299037",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/265917/batlas-location"
+            "start": 2000,
+            "title": "OSM location of modern Aspe",
+            "uri": "https://pleiades.stoa.org/places/265917/osm-location-of-modern-aspe"
         }
     ],
     "names": [
@@ -336,10 +298,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 27 E3 (I)Aspis",
     "references": [
@@ -378,8 +340,8 @@
         }
     ],
     "reprPoint": [
-        -0.5,
-        38.5
+        -0.7692125,
+        38.3459902
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

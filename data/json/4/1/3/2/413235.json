@@ -1,12 +1,48 @@
 {
     "@type": "Place",
     "bbox": [
-        11.0,
-        42.5,
-        11.5,
-        43.0
+        11.2358616,
+        42.5972756,
+        11.2358616,
+        42.5972756
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/1356",
+            "contributors": [],
+            "created": "2021-07-13T14:10:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2021-07-13T14:10:35Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "tyrrhenum-inferum-mare",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Tyrrhenum/Inferum Mare",
+            "uri": "https://pleiades.stoa.org/places/413235/tyrrhenum-inferum-mare"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/1356",
         "https://pleiades.stoa.org/places/414497"
@@ -48,38 +84,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            11.0,
-                            42.5
-                        ],
-                        [
-                            11.0,
-                            43.0
-                        ],
-                        [
-                            11.5,
-                            43.0
-                        ],
-                        [
-                            11.5,
-                            42.5
-                        ],
-                        [
-                            11.0,
-                            42.5
-                        ]
-                    ]
+                    11.2358616,
+                    42.5972756
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/413235/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/413235/osm-location",
+                "location_precision": "precise",
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM location of Fiume Osa"
             },
             "type": "Feature"
         }
@@ -110,91 +126,87 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-11-12T15:29:30Z",
+            "contributors": [],
+            "created": "2014-06-17T19:00:00Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            11.0,
-                            42.5
-                        ],
-                        [
-                            11.0,
-                            43.0
-                        ],
-                        [
-                            11.5,
-                            43.0
-                        ],
-                        [
-                            11.5,
-                            42.5
-                        ],
-                        [
-                            11.0,
-                            42.5
-                        ]
-                    ]
+                    11.2358616,
+                    42.5972756
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:51:13Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2016-12-04T17:05:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-06-17T19:00:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-06-17T19:00:05Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "provenance": "Barrington Atlas: BAtlas 42 A3 Osa fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 203994393, version 4, osm:changeset=18726470, 2013-11-05T10:11:55Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/203994393",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 203994393",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=203994393",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/413235/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Fiume Osa",
+            "uri": "https://pleiades.stoa.org/places/413235/osm-location"
         }
     ],
     "names": [
@@ -282,8 +294,8 @@
         }
     ],
     "reprPoint": [
-        11.25,
-        42.75
+        11.2358616,
+        42.5972756
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

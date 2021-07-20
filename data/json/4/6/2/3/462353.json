@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.135419,
-        37.849579,
-        13.135419,
-        37.849579
+        13.1305859,
+        37.8500948,
+        13.1309599,
+        37.8505649
     ],
     "connections": [
         {
@@ -87,28 +87,53 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 47 C3 Monte Maranfusa",
-    "details": "The Barrington Atlas Directory notes: Monte Maranfusa, fortified urban center",
+    "details": "<p>The Barrington Atlas Directory notes: Monte Maranfusa, fortified urban center</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    13.135419,
-                    37.849579
+                    [
+                        [
+                            13.1309431,
+                            37.8500948
+                        ],
+                        [
+                            13.1305859,
+                            37.850103
+                        ],
+                        [
+                            13.1306028,
+                            37.8505649
+                        ],
+                        [
+                            13.1309599,
+                            37.8505568
+                        ],
+                        [
+                            13.1309431,
+                            37.8500948
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-28552",
+            "id": "osm-location-of-scavi-archeologici-monte-maranfusa",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/462353/darmc-location-28552",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/462353/osm-location-of-scavi-archeologici-monte-maranfusa",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 330 BC",
-                "title": "DARMC location 28552"
+                "snippet": "Archaeological-site; 750 BC - 330 BC",
+                "title": "OSM location of Scavi Archeologici Monte Maranfusa"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-07-19T16:38:05Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2021-07-15T19:46:23Z",
@@ -139,9 +164,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -158,72 +183,89 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:12:55Z",
+            "contributors": [],
+            "created": "2021-07-15T19:46:49Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 28552",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": -330,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    13.135419,
-                    37.849579
+                    [
+                        [
+                            13.1309431,
+                            37.8500948
+                        ],
+                        [
+                            13.1305859,
+                            37.850103
+                        ],
+                        [
+                            13.1306028,
+                            37.8505649
+                        ],
+                        [
+                            13.1309599,
+                            37.8505568
+                        ],
+                        [
+                            13.1309431,
+                            37.8500948
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:22:05Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-07-15T19:47:13Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:12:56Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-07-15T19:46:49Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-28552",
+            "id": "osm-location-of-scavi-archeologici-monte-maranfusa",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 28552",
+            "provenance": "OpenStreetMap (Way 964694512, version 1, osm:changeset=108070810, 2021-07-15T19:43:35Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/964694512",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "28552",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 964694512",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 28552.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=964694512",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 28552",
-            "uri": "https://pleiades.stoa.org/places/462353/darmc-location-28552"
+            "title": "OSM location of Scavi Archeologici Monte Maranfusa",
+            "uri": "https://pleiades.stoa.org/places/462353/osm-location-of-scavi-archeologici-monte-maranfusa"
         }
     ],
     "names": [],
@@ -269,11 +311,22 @@
             "otherIdentifier": "",
             "shortTitle": "Spatafora 1993",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "28552",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.135419,
-        37.849579
+        13.130772934965341,
+        37.85032986035034
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
