@@ -31,16 +31,21 @@
             },
             "id": "osm-location",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/346876400/osm-location",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 30 BC - AD 640",
-                "title": "OSM location"
+                "snippet": "Fort-2; 30 BC - AD 640",
+                "title": "OSM location of Kleinkastell Freimühle"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "updates, UWHS",
+            "modified": "2021-07-29T13:51:51Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "created place",
             "modified": "2014-07-08T04:01:46Z",
@@ -53,7 +58,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -74,16 +79,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 640,
             "featureType": [
-                "fort",
-                ""
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -93,6 +96,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "edit title, summary, type, remains",
+                    "modified": "2021-07-29T13:48:01Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "added location",
                     "modified": "2014-07-08T04:03:13Z",
@@ -109,8 +117,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Node 254925521, version 4, osm:changeset=15811480, 2013-04-21T14:29:06Z)",
             "references": [
@@ -128,15 +135,17 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "OSM location",
+            "title": "OSM location of Kleinkastell Freimühle",
             "uri": "https://pleiades.stoa.org/places/346876400/osm-location"
         }
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
         "fort"
     ],
     "provenance": "Pleiades",
@@ -151,6 +160,28 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (German)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://whc.unesco.org/en/list/430",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "citationDetail": "430ter-369: Frontiers of the Romn Empire s.v. \"Fortlet of Freimühle\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "WHL",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1678694",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q1678694: Kleinkastell Freimühle",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
@@ -159,7 +190,9 @@
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
-    "subject": [],
+    "subject": [
+        "UWHS"
+    ],
     "title": "Freimühle",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/346876400"
