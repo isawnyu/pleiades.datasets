@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        16.73169,
-        40.390949,
-        16.73169,
-        40.390949
+        16.7462701,
+        40.39146,
+        16.7462701,
+        40.39146
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,23 +53,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    16.73169,
-                    40.390949
+                    16.7462701,
+                    40.39146
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20683",
+            "id": "location-of-sanctuary",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/442859/darmc-location-20683",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/442859/location-of-sanctuary",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "DARMC location 20683"
+                "snippet": "Temple-2; 750 BC - AD 300",
+                "title": "OSM location of Tempio di Zeus Aglaios"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-08-04T19:52:00Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added wikidata",
             "modified": "2021-08-03T21:42:58Z",
@@ -125,9 +130,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -144,8 +149,8 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "hellenistic-republican",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
@@ -156,76 +161,89 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-31T21:00:52Z",
+            "contributors": [],
+            "created": "2014-02-07T13:22:27Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 20683",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "temple-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    16.73169,
-                    40.390949
+                    16.7462701,
+                    40.39146
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:11:51Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-08-03T21:40:16Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T21:00:53Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2016-08-04T03:10:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2015-10-04T13:07:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2014-02-07T13:24:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-02-07T13:22:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-02-07T13:22:31Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20683",
+            "id": "location-of-sanctuary",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "DARMC OBJECTID: 20683",
+            "provenance": "OpenStreetMap (Way 260454167, version 1, osm:changeset=20430400, 2014-02-07T13:21:54Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/260454167",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20683",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 260454167",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20683.",
+                    "formattedCitation": "osm:way=260454167",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 20683",
-            "uri": "https://pleiades.stoa.org/places/442859/darmc-location-20683"
+            "title": "OSM location of Tempio di Zeus Aglaios",
+            "uri": "https://pleiades.stoa.org/places/442859/location-of-sanctuary"
         }
     ],
     "names": [
@@ -385,11 +403,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20683",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        16.73169,
-        40.390949
+        16.7462701,
+        40.39146
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
