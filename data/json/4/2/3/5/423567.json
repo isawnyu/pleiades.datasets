@@ -10,29 +10,49 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/423025",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:41:45Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 300,
+            "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2021-08-10T13:27:58Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "423025",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Roma",
             "uri": "https://pleiades.stoa.org/places/423567/423025"
         }
@@ -126,6 +146,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "wikidata Q622956: Aqua Traiana",
+            "modified": "2021-08-10T13:28:32Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "references",
             "modified": "2020-07-29T01:10:02Z",
@@ -403,11 +428,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q622956",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q622956: Aqua Traiana",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.47512085,
-        41.890333600000005
+        12.4641047,
+        41.8888922
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
