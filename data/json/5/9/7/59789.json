@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        65.0,
-        35.0,
-        70.0,
-        40.0
+        68.2694905,
+        37.0067558,
+        68.2694905,
+        37.0067558
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,38 +45,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            65.0,
-                            35.0
-                        ],
-                        [
-                            65.0,
-                            40.0
-                        ],
-                        [
-                            70.0,
-                            40.0
-                        ],
-                        [
-                            70.0,
-                            35.0
-                        ],
-                        [
-                            65.0,
-                            35.0
-                        ]
-                    ]
+                    68.2694905,
+                    37.0067558
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/59789/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/59789/osm-location",
+                "location_precision": "precise",
+                "snippet": "River; AD 2000 - AD 2099",
+                "title": "OSM location of Kunduz River"
             },
             "type": "Feature"
         }
@@ -112,98 +92,98 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-23T04:33:58Z",
+            "contributors": [],
+            "created": "2015-02-01T04:48:33Z",
             "creators": [
                 {
-                    "name": "M.U. Erdosy",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            65.0,
-                            35.0
-                        ],
-                        [
-                            65.0,
-                            40.0
-                        ],
-                        [
-                            70.0,
-                            40.0
-                        ],
-                        [
-                            70.0,
-                            35.0
-                        ],
-                        [
-                            65.0,
-                            35.0
-                        ]
-                    ]
+                    68.2694905,
+                    37.0067558
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:54:08Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-08-16T14:27:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2015-02-01T04:49:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-02-01T04:48:36Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "provenance": "Barrington Atlas: BAtlas 6 B2 Dargoidos? fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 28604648, version 3, osm:changeset=787324, 2008-11-24T15:08:50Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/28604648",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 28604648",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=28604648",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Kunduz_River",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Kunduz River",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Kunduz River.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/59789/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Kunduz River",
+            "uri": "https://pleiades.stoa.org/places/59789/osm-location"
         }
     ],
     "names": [
@@ -320,8 +300,8 @@
         }
     ],
     "reprPoint": [
-        67.5,
-        37.5
+        68.2694905,
+        37.0067558
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

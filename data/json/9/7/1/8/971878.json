@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        68.569763,
-        35.99802,
-        68.582048,
-        36.050153
+        68.5656127,
+        36.0504637,
+        68.5656127,
+        36.0504637
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,41 +53,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    68.569763,
-                    36.050153
+                    68.5656127,
+                    36.0504637
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-3569",
+            "id": "osm-location-of-surkh-kotal",
             "properties": {
-                "description": "5M scale point location",
-                "link": "https://pleiades.stoa.org/places/971878/darmc-location-3569",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/971878/osm-location-of-surkh-kotal",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "DARMC location 3569"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    68.582048,
-                    35.99802
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-21700",
-            "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/971878/darmc-location-21700",
-                "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "DARMC location 21700"
+                "snippet": "Archaeological-site; AD 100 - AD 199",
+                "title": "OSM location of Surkh Kotal"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-08-17T18:05:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updates",
             "modified": "2021-08-16T00:01:47Z",
@@ -128,161 +115,82 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "second-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/second-ce"
                 }
             ],
-            "created": "2011-03-09T19:00:41Z",
+            "contributors": [],
+            "created": "2021-08-16T00:02:57Z",
             "creators": [
                 {
-                    "name": "F.T. Hiebert",
-                    "username": null
-                },
-                {
-                    "name": "P.L. Kohl",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "5M scale point location",
-            "details": "DARMC OBJECTID: 3569",
-            "end": null,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 199,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    68.569763,
-                    36.050153
+                    68.5656127,
+                    36.0504637
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T23:43:24Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-08-16T00:04:24Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:00:42Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-08-16T00:02:57Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-3569",
+            "id": "osm-location-of-surkh-kotal",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 3569",
+            "provenance": "OpenStreetMap (Node 4402053444, version 2, osm:changeset=51957063, 2017-09-11T23:08:45Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/4402053444",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "3569",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4402053444",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 3569.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=4402053444",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "DARMC location 3569",
-            "uri": "https://pleiades.stoa.org/places/971878/darmc-location-3569"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:45:53Z",
-            "creators": [
-                {
-                    "name": "F.T. Hiebert",
-                    "username": null
-                },
-                {
-                    "name": "P.L. Kohl",
-                    "username": null
-                }
-            ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21700",
-            "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    68.582048,
-                    35.99802
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T23:43:24Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:45:54Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-21700",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 21700",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21700",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21700.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": null,
-            "title": "DARMC location 21700",
-            "uri": "https://pleiades.stoa.org/places/971878/darmc-location-21700"
+            "start": 100,
+            "title": "OSM location of Surkh Kotal",
+            "uri": "https://pleiades.stoa.org/places/971878/osm-location-of-surkh-kotal"
         }
     ],
     "names": [],
@@ -352,11 +260,22 @@
             "otherIdentifier": "",
             "shortTitle": "CENTCOM Afghanistan",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3569 and 21700",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        68.5759055,
-        36.024086499999996
+        68.5656127,
+        36.0504637
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
