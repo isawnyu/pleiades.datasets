@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2021/09/12 06:47:36.884670 GMT-4
+# Date: 2021/09/05 06:47:36.609778 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4089
+# Triple count: 4015
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -183,11 +183,6 @@
     rdfs:label "Kh., see Khirbet";
     rdfs:comment "This is not and never should have been a place resource; it was created because a cross-reference that should have been ignored in the Barrington Atlas Map-by-Map Directory was erroneously treated as place data during initial processing. It has therefore been moved from its original location to the errata section and its original URI deprecated.";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/814692> .
-
-<https://pleiades.stoa.org/errata/844711544#this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Tell Chuera";
-    rdfs:comment "Unintentional duplicate of https://pleiades.stoa.org/places/677382294";
-    foaf:primaryTopicOf <https://pleiades.stoa.org/errata/844711544> .
 
 <https://pleiades.stoa.org/errata/857326#this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Deprecated Skylax fl.";
@@ -1919,76 +1914,6 @@
     dcterms:title "Undetermined location";
     owl:sameAs <http://pleiades.stoa.org/errata/814692/undetermined>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 83  Kh., see Khirbet" ] .
-
-<https://pleiades.stoa.org/errata/844711544> a <http://www.w3.org/2004/02/skos/core#Concept>,
-        <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "Buccellati 2014 ",
-        "Focus on fortifications ",
-        "Orthmann 1990 ",
-        "Orthmann 1995 ",
-        "Tell Chuēra in Nordost-Syrien ",
-        "Wikipedia (English) Tell Chuera";
-    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
-    dcterms:description "Unintentional duplicate of https://pleiades.stoa.org/places/677382294";
-    dcterms:modified "2021-09-10T18:53:02-04:00";
-    dcterms:title "Tell Chuera";
-    cito:citesForInformation <http://www.worldcat.org/oclc/221510930>,
-        <http://www.worldcat.org/oclc/716213174>,
-        <http://www.worldcat.org/oclc/903424950>,
-        <https://en.wikipedia.org/wiki/Tell_Chuera>,
-        <https://www.zotero.org/groups/pleiades/items/2RN5PRQD>,
-        <https://www.zotero.org/groups/pleiades/items/CMDPQX8T>;
-    owl:sameAs <http://pleiades.stoa.org/errata/844711544>;
-    geo:lat 36.6465219;
-    geo:long 39.498189;
-    skos:altLabel "Tell Chuera"@fr,
-        "تل ضهر الشويرة"@ar;
-    skos:inScheme <https://pleiades.stoa.org/places>;
-    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
-    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/settlement>;
-    pleiades:hasLocation <https://pleiades.stoa.org/errata/844711544/osm-location-of-tall-dahr-ash-shuwayrah>;
-    pleiades:hasName <https://pleiades.stoa.org/errata/844711544/name.2017-05-31.0051984944>,
-        <https://pleiades.stoa.org/errata/844711544/name.2017-05-31.9866634536> .
-
-<https://pleiades.stoa.org/errata/844711544/name.2017-05-31.0051984944> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:bibliographicCitation "Wikidata Q1693787";
-    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
-    dcterms:description "";
-    dcterms:modified "2021-09-10T18:53:02-04:00";
-    dcterms:title "Tall Dahr ash Shuwayrah";
-    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q1693787>;
-    owl:sameAs <http://pleiades.stoa.org/errata/844711544/name.2017-05-31.0051984944>;
-    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
-    pleiades:nameAttested "تل ضهر الشويرة"@ar;
-    pleiades:nameRomanized "Tall Dahr ash Shuwayrah" .
-
-<https://pleiades.stoa.org/errata/844711544/name.2017-05-31.9866634536> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:bibliographicCitation "Wikidata Q1693787";
-    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
-    dcterms:description "";
-    dcterms:modified "2021-09-10T18:53:02-04:00";
-    dcterms:title "Tell Chuera";
-    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q1693787>;
-    owl:sameAs <http://pleiades.stoa.org/errata/844711544/name.2017-05-31.9866634536>;
-    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
-    pleiades:nameRomanized "Tell Chuera" .
-
-<https://pleiades.stoa.org/errata/844711544/osm-location-of-tall-dahr-ash-shuwayrah> a <https://pleiades.stoa.org/places/vocab#Location>;
-    osgeo:asGeoJSON "{\"type\": \"Point\", \"coordinates\": [39.498189, 36.6465219]}";
-    osgeo:asWKT "POINT (39.4981890000000035 36.6465219000000033)";
-    dcterms:bibliographicCitation "OSM Node 567060598";
-    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
-    dcterms:description "Representative location based on OpenStreetMap.";
-    dcterms:modified "2021-09-10T18:53:02-04:00";
-    dcterms:title "OSM location of Tall Dahr ash Shuwayrah";
-    cito:citesAsDataSource <http://www.openstreetmap.org/browse/node/567060598>;
-    owl:sameAs <http://pleiades.stoa.org/errata/844711544/osm-location-of-tall-dahr-ash-shuwayrah>;
-    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 567060598, version 2, osm:changeset=16656150, 2013-06-22T13:00:51Z)" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce>,
-        <https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc>,
-        <https://pleiades.stoa.org/vocabularies/time-periods/4th-millenium-bce>;
-    pleiades:end_date -1000;
-    pleiades:start_date -4000 .
 
 <https://pleiades.stoa.org/errata/857326> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
