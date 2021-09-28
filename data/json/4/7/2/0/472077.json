@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        8.0,
-        42.0,
-        9.0,
-        43.0
+        8.8612325,
+        42.6098701,
+        8.8612325,
+        42.6098701
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,38 +45,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            8.0,
-                            42.0
-                        ],
-                        [
-                            8.0,
-                            43.0
-                        ],
-                        [
-                            9.0,
-                            43.0
-                        ],
-                        [
-                            9.0,
-                            42.0
-                        ],
-                        [
-                            8.0,
-                            42.0
-                        ]
-                    ]
+                    8.8612325,
+                    42.6098701
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/472077/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/472077/osm-location",
+                "location_precision": "precise",
+                "snippet": "Coast; AD 1700 - AD 2100",
+                "title": "OSM location of coastline"
             },
             "type": "Feature"
         }
@@ -107,104 +87,92 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T20:24:18Z",
+            "contributors": [],
+            "created": "2014-06-05T15:50:58Z",
             "creators": [
                 {
-                    "name": "S.L. Dyson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "coast"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/coast"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            8.0,
-                            42.0
-                        ],
-                        [
-                            8.0,
-                            43.0
-                        ],
-                        [
-                            9.0,
-                            43.0
-                        ],
-                        [
-                            9.0,
-                            42.0
-                        ],
-                        [
-                            8.0,
-                            42.0
-                        ]
-                    ]
+                    8.8612325,
+                    42.6098701
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:28:20Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-09-26T14:58:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-10-01T03:43:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-06-05T15:51:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-06-05T15:51:00Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/coast"
             ],
-            "provenance": "Barrington Atlas: BAtlas 48 C2 Kaisias Aigialos",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 71408269, version 7, osm:changeset=20235549, 2014-01-27T20:02:12Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/71408269",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 71408269",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=71408269",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/472077/batlas-location"
+            "start": 1700,
+            "title": "OSM location of coastline",
+            "uri": "https://pleiades.stoa.org/places/472077/osm-location"
         }
     ],
     "names": [
@@ -305,8 +273,8 @@
         }
     ],
     "reprPoint": [
-        8.5,
-        42.5
+        8.8612325,
+        42.6098701
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
