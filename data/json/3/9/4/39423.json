@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        44.383228,
-        14.172159,
-        44.383228,
-        14.172159
+        44.400794,
+        14.211704,
+        44.400794,
+        14.211704
     ],
     "connections": [
         {
@@ -122,36 +122,56 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T22:06:37Z",
+    "created": "2021-10-08T19:24:58Z",
     "creators": [
         {
             "name": "D.T. Potts",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 4 B3 Sap(p)har",
+    "description": "This ancient settlement, located in the southern highlands of modern Yemen, was the capital of the Ḥimyarite tribal confederacy from the third to the sixth centuries of the modern era.",
     "details": "<p>The Barrington Atlas Directory notes: Zafar YEM</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    44.383228,
-                    14.172159
+                    44.400794,
+                    14.211704
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-3505",
+            "id": "location-of-zafar-yemen",
             "properties": {
-                "description": "5M scale point location",
-                "link": "https://pleiades.stoa.org/places/39423/darmc-location-3505",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/39423/location-of-zafar-yemen",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 3505"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of Zafar, Yemen"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary",
+            "modified": "2021-10-08T20:40:25Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary",
+            "modified": "2021-10-08T19:26:58Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up Yule reference",
+            "modified": "2021-10-08T19:23:35Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-10-08T15:38:17Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2021-10-07T23:52:22Z",
@@ -187,8 +207,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -196,82 +216,78 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:59:36Z",
+            "contributors": [],
+            "created": "2014-01-24T02:28:45Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "5M scale point location",
-            "details": "DARMC OBJECTID: 3505",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    44.383228,
-                    14.172159
+                    44.400794,
+                    14.211704
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:41:13Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-10-07T23:52:03Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:59:37Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-01-24T02:29:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-01-24T02:28:54Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-3505",
+            "id": "location-of-zafar-yemen",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 3505",
+            "provenance": "OpenStreetMap (Node 1223208428, version 2, osm:changeset=20170580, 2014-01-24T02:19:53Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1223208428",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "3505",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1223208428",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 3505.",
+                    "formattedCitation": "osm:node=1223208428",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 3505",
-            "uri": "https://pleiades.stoa.org/places/39423/darmc-location-3505"
+            "start": 1700,
+            "title": "OSM location of Zafar, Yemen",
+            "uri": "https://pleiades.stoa.org/places/39423/location-of-zafar-yemen"
         }
     ],
     "names": [
@@ -293,14 +309,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Sapphar",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -308,9 +320,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-22T22:06:37Z",
+            "created": "2021-10-08T19:30:12Z",
             "creators": [
                 {
                     "name": "D.T. Potts",
@@ -322,16 +340,38 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "language; attested form; pliny reference",
+                    "modified": "2021-10-08T19:31:10Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2021-10-08T19:30:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:41:13Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "sapphar",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 4 B3 Sap(p)har",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/412/1724-1731@1#412",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "6.104.1",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Sapphar",
             "start": -30,
@@ -601,20 +641,31 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.harrassowitz-verlag.de/Antiquity/Late_Antique_Arabia_-_Zafar_Capital_of_Himyar:_Rehabilitation_of_a_%27Decadent%27_Society/title_294.ahtml",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/856834108",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QFNZL4IB",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Yule, P. et la. 2013. Late antique Arabia - Ẓafār, capital of Ḥimyar : rehabilitation of a 'decadent' society ; excavations of the Ruprecht-Karls-Universität Heidelberg 1998 - 2010 in the highlands of Yemen. Wiesbaden : Harrassowitz.",
+            "formattedCitation": "<div class=\"csl-entry\">Yule, Paul, ed. <i>Late antique Arabia: Ẓafār, capital of Ḥimyar : rehabilitation of a “decadent” society : excavations of the Ruprecht-Karls-Universität Heidelberg 1998-2010 in the highland of the Yemen</i>. Abhandlungen der Deutschen Orient-Gesellschaft 29. Wiesbaden: Harrassowitz Verlag, 2013. https://www.harrassowitz-verlag.de/Antiquity/Late_Antique_Arabia_-_Zafar_Capital_of_Himyar:_Rehabilitation_of_a_%27Decadent%27_Society/title_294.ahtml.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Yule 2013",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3505",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        44.383228,
-        14.172159
+        44.400794,
+        14.211704
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -623,7 +674,7 @@
         "dare:feature=settlement",
         "dare:major=0"
     ],
-    "title": "Sap(p)har",
+    "title": "Ẓafār",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/39423"
 }
