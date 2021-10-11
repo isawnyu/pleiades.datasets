@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        4.349213,
+        4.3481322,
         52.060064,
         4.349213,
-        52.060064
+        52.0603746
     ],
     "connections": [
         {
@@ -64,6 +64,41 @@
             "start": null,
             "title": "Germania Inferior",
             "uri": "https://pleiades.stoa.org/places/98918/981524"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/113334",
+            "contributors": [],
+            "created": "2019-11-29T14:23:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-11-29T14:23:44Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "untitled",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Untitled",
+            "uri": "https://pleiades.stoa.org/places/98918/untitled"
         }
     ],
     "connectsWith": [
@@ -124,23 +159,46 @@
         {
             "geometry": {
                 "coordinates": [
+                    4.3481322,
+                    52.0603746
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-forum-hadriani",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/98918/osm-location-of-forum-hadriani",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site; 30 BC - AD 640",
+                "title": "OSM location of Forum Hadriani"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     4.349213,
                     52.060064
                 ],
                 "type": "Point"
             },
-            "id": "settlement",
+            "id": "archaeological_location",
             "properties": {
                 "description": "Location of Forum Hadriani, based on archeological evidence.",
-                "link": "https://pleiades.stoa.org/places/98918/settlement",
+                "link": "https://pleiades.stoa.org/places/98918/archaeological_location",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Settlement"
+                "title": "Archaeological Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Buijtendorp 2010",
+            "modified": "2021-10-10T12:26:29Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "DARMC 21887",
             "modified": "2020-12-09T15:38:50Z",
@@ -211,9 +269,94 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2021-10-09T14:56:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "archaeological-site"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "geometry": {
+                "coordinates": [
+                    4.3481322,
+                    52.0603746
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2021-10-09T14:56:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-10-09T14:56:06Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-forum-hadriani",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "OpenStreetMap (Node 5567776884, version 1, osm:changeset=58277971, 2018-04-20T22:16:31Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/5567776884",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 5567776884",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=5567776884",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Forum Hadriani",
+            "uri": "https://pleiades.stoa.org/places/98918/osm-location-of-forum-hadriani"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-handheld-gps",
+            "accuracy_value": 15.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -224,7 +367,20 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2011-09-14T20:02:58Z",
             "creators": [
                 {
@@ -235,14 +391,10 @@
                 }
             ],
             "description": "Location of Forum Hadriani, based on archeological evidence.",
-            "details": "\r\n<p>Based on:</p>\r\n<p>Buijtendorp, T.M. Forum Hadriani. De vergeten stad van Hadrianus: Ontwikkeling, uiterlijk en betekenis van het 'Nederlands Pompeji.&nbsp;<span class=\"Apple-style-span\">Amsterdam: Vrije Universiteit [<a class=\"external-link\" href=\"http://hdl.handle.net/1871/16369\">http://hdl.handle.net/1871/16369</a>]</span></p>\r\n",
+            "details": "<p>Based on:</p>\r\n<p>Buijtendorp, T.M. Forum Hadriani. De vergeten stad van Hadrianus: Ontwikkeling, uiterlijk en betekenis van het 'Nederlands Pompeji. <span class=\"Apple-style-span\">Amsterdam: Vrije Universiteit [<a class=\"external-link\" href=\"http://hdl.handle.net/1871/16369\">http://hdl.handle.net/1871/16369</a>]</span></p>",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     4.349213,
@@ -251,6 +403,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "updated reference",
+                    "modified": "2021-10-10T12:25:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "accuracy; title",
+                    "modified": "2021-10-10T12:20:39Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T23:44:43Z",
@@ -272,31 +434,29 @@
                     "modifiedBy": "renevoorburg"
                 }
             ],
-            "id": "settlement",
+            "id": "archaeological_location",
             "locationType": [
-                "representative"
+                "central_point"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "locationTypeURI": [],
             "provenance": "Pleiades",
             "references": [
                 {
                     "accessURI": "http://hdl.handle.net/1871/16369",
                     "alternateURI": "",
-                    "bibliographicURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DBHAADF3",
                     "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Buijtendorp 2010",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Buijtendorp, T.M. “Forum Hadriani. De vergeten stad van Hadrianus: Ontwikkeling, uiterlijk en betekenis van het ‘Nederlands Pompeji.’” PhD-Thesis – Research external, graduation internal, Vrije Universiteit, 2010. http://hdl.handle.net/1871/16369.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "http://purl.org/spar/cito/cites"
+                    "shortTitle": "Buijtendorp 2010",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Settlement",
-            "uri": "https://pleiades.stoa.org/places/98918/settlement"
+            "title": "Archaeological Location",
+            "uri": "https://pleiades.stoa.org/places/98918/archaeological_location"
         }
     ],
     "names": [
@@ -562,10 +722,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 10 A4 Aurelium Cananefatium/Forum Hadriani",
     "references": [
@@ -689,11 +851,22 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "http://hdl.handle.net/1871/16369",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DBHAADF3",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Buijtendorp, T.M. “Forum Hadriani. De vergeten stad van Hadrianus: Ontwikkeling, uiterlijk en betekenis van het ‘Nederlands Pompeji.’” PhD-Thesis – Research external, graduation internal, Vrije Universiteit, 2010. http://hdl.handle.net/1871/16369.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Buijtendorp 2010",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        4.349213,
-        52.060064
+        4.3486726,
+        52.0602193
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
