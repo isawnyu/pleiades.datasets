@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -7.0,
-        37.0,
-        -6.0,
-        38.0
+        -6.1782368,
+        37.6710488,
+        -6.1782368,
+        37.6710488
     ],
     "connections": [],
     "connectsWith": [],
@@ -57,38 +57,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -7.0,
-                            37.0
-                        ],
-                        [
-                            -7.0,
-                            38.0
-                        ],
-                        [
-                            -6.0,
-                            38.0
-                        ],
-                        [
-                            -6.0,
-                            37.0
-                        ],
-                        [
-                            -7.0,
-                            37.0
-                        ]
-                    ]
+                    -6.1782368,
+                    37.6710488
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/257473/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/257473/osm-location",
+                "location_precision": "precise",
+                "snippet": "Bridge, ; 30 BC - AD 640",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
@@ -109,8 +89,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -118,103 +98,76 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-09T19:26:38Z",
+            "contributors": [],
+            "created": "2014-07-04T15:36:19Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "bridge",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -7.0,
-                            37.0
-                        ],
-                        [
-                            -7.0,
-                            38.0
-                        ],
-                        [
-                            -6.0,
-                            38.0
-                        ],
-                        [
-                            -6.0,
-                            37.0
-                        ],
-                        [
-                            -7.0,
-                            37.0
-                        ]
-                    ]
+                    -6.1782368,
+                    37.6710488
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:47:32Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-07-04T15:36:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-07-04T15:36:21Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 26 D4",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 72709621, version 1, osm:changeset=5510028, 2010-08-16T15:11:20Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/72709621",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 72709621",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=72709621",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/257473/batlas-location"
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/257473/osm-location"
         }
     ],
     "names": [],
@@ -250,8 +203,8 @@
         }
     ],
     "reprPoint": [
-        -6.5,
-        37.5
+        -6.1782368,
+        37.6710488
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

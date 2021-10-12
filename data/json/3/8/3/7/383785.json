@@ -1,13 +1,63 @@
 {
     "@type": "Place",
     "bbox": [
-        7.0,
-        45.0,
-        7.5,
-        45.5
+        7.3923988,
+        45.0939839,
+        7.7273134,
+        45.3068678
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/393469",
+            "contributors": [],
+            "created": "2021-10-11T14:38:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn added",
+                    "modified": "2021-10-11T14:38:06Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "padus-eridanus-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q472813",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q472813: Stura di Lanzo",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Padus/Eridanus (river)",
+            "uri": "https://pleiades.stoa.org/places/383785/padus-eridanus-river"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/393469"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -43,7 +93,7 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 39 A3 Stura fl.",
+    "description": "A river of northern Italy and a tributary of the Po river.",
     "details": "The Barrington Atlas Directory notes: Stura di Lanzo",
     "features": [
         {
@@ -51,41 +101,98 @@
                 "coordinates": [
                     [
                         [
-                            7.0,
-                            45.0
+                            7.7273134,
+                            45.0939839
                         ],
                         [
-                            7.0,
-                            45.5
+                            7.6607537,
+                            45.1200907
                         ],
                         [
-                            7.5,
-                            45.5
+                            7.6596331,
+                            45.1205318
                         ],
                         [
-                            7.5,
-                            45.0
+                            7.6577523,
+                            45.1214288
                         ],
                         [
-                            7.0,
-                            45.0
+                            7.40439,
+                            45.2866347
+                        ],
+                        [
+                            7.4034506,
+                            45.2874157
+                        ],
+                        [
+                            7.3990246,
+                            45.2913093
+                        ],
+                        [
+                            7.3986155,
+                            45.2920622
+                        ],
+                        [
+                            7.3923988,
+                            45.3068678
+                        ],
+                        [
+                            7.4976561,
+                            45.2671471
+                        ],
+                        [
+                            7.4992075,
+                            45.2665269
+                        ],
+                        [
+                            7.5298593,
+                            45.252039
+                        ],
+                        [
+                            7.5409299,
+                            45.2440804
+                        ],
+                        [
+                            7.5468545,
+                            45.2397693
+                        ],
+                        [
+                            7.7112812,
+                            45.1082984
+                        ],
+                        [
+                            7.7122522,
+                            45.1074844
+                        ],
+                        [
+                            7.7190044,
+                            45.1016438
+                        ],
+                        [
+                            7.7273134,
+                            45.0939839
                         ]
                     ]
                 ],
                 "type": "Polygon"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-stura-di-lanzo",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/383785/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/383785/osm-location-of-modern-stura-di-lanzo",
+                "location_precision": "precise",
+                "snippet": "River; AD 2000 - AD 2099",
+                "title": "OSM Location of modern Stura di Lanzo"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references, summary",
+            "modified": "2021-10-11T14:36:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "replacing the abbreviation fl. with (river) to bring titles into conformance with Editorial Guidelines",
             "modified": "2017-10-27T20:24:36Z",
@@ -111,8 +218,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -120,74 +227,110 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-15T17:59:04Z",
+            "created": "2021-10-11T11:13:37Z",
             "creators": [
                 {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            7.0,
-                            45.0
+                            7.7273134,
+                            45.0939839
                         ],
                         [
-                            7.0,
-                            45.5
+                            7.6607537,
+                            45.1200907
                         ],
                         [
-                            7.5,
-                            45.5
+                            7.6596331,
+                            45.1205318
                         ],
                         [
-                            7.5,
-                            45.0
+                            7.6577523,
+                            45.1214288
                         ],
                         [
-                            7.0,
-                            45.0
+                            7.40439,
+                            45.2866347
+                        ],
+                        [
+                            7.4034506,
+                            45.2874157
+                        ],
+                        [
+                            7.3990246,
+                            45.2913093
+                        ],
+                        [
+                            7.3986155,
+                            45.2920622
+                        ],
+                        [
+                            7.3923988,
+                            45.3068678
+                        ],
+                        [
+                            7.4976561,
+                            45.2671471
+                        ],
+                        [
+                            7.4992075,
+                            45.2665269
+                        ],
+                        [
+                            7.5298593,
+                            45.252039
+                        ],
+                        [
+                            7.5409299,
+                            45.2440804
+                        ],
+                        [
+                            7.5468545,
+                            45.2397693
+                        ],
+                        [
+                            7.7112812,
+                            45.1082984
+                        ],
+                        [
+                            7.7122522,
+                            45.1074844
+                        ],
+                        [
+                            7.7190044,
+                            45.1016438
+                        ],
+                        [
+                            7.7273134,
+                            45.0939839
                         ]
                     ]
                 ],
@@ -195,24 +338,41 @@
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:36:38Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2021-10-11T11:14:22Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-10-11T11:13:39Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-stura-di-lanzo",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "provenance": "Barrington Atlas: BAtlas 39 A3 Stura fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Relation 2233612, version 8, osm:changeset=75908987, 2019-10-18T18:07:41Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/2233612",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Relation 2233612",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:relation=2233612",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/383785/batlas-location"
+            "start": 2000,
+            "title": "OSM Location of modern Stura di Lanzo",
+            "uri": "https://pleiades.stoa.org/places/383785/osm-location-of-modern-stura-di-lanzo"
         }
     ],
     "names": [
@@ -294,42 +454,64 @@
     "provenance": "Barrington Atlas: BAtlas 39 A3 Stura fl.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "39 A3 Stura fl.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 39 A3 Stura fl.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/929265897",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/n.html#Nissen-I",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RR846S8I",
+            "citationDetail": "185",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Nissen I, 185",
+            "formattedCitation": "<div class=\"csl-entry\">Nissen, Heinrich. <i>Italische Landeskunde. 1 : Land und Leute</i>. Amsterdam: Hakkert, 1967. http://www.worldcat.org/oclc/929265897.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Nissen I",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/929265929",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/i.html#II",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNVN3E2D",
+            "citationDetail": "163",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "II, 163",
+            "formattedCitation": "<div class=\"csl-entry\">Nissen, Heinrich. <i>Italische Landeskunde. 2 : Die Staedte</i>. Amsterdam: Hakkert, 1967. http://www.worldcat.org/oclc/929265929.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Nissen II",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Stura_di_Lanzo",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Stura di Lazno",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q472813",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q472813: Stura di Lanzo",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        7.25,
-        45.25
+        7.559327747851038,
+        45.20699423340679
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
