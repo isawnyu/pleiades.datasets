@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.5,
-        36.5,
-        23.0,
-        37.0
+        22.54,
+        36.88,
+        22.54,
+        36.88
     ],
     "connections": [],
     "connectsWith": [],
@@ -43,49 +43,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 58 D4 unnamed quarry (Krokeai)",
-    "details": "<p>The Barrington Atlas Directory notes: Krokeai</p>",
+    "description": "An unnamed quarry at Krokeai.",
+    "details": "<p>The Barrington Atlas Directory notes: Krokeai. According to the Oxford Roman Economy Project, this quarry was a source of a dark green serpentine known either as porfido verde di Grecia or serpentino. This stone was used from the Late Bronze Age (Myceneans) to the Roman Imperial period.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.5,
-                            36.5
-                        ],
-                        [
-                            22.5,
-                            37.0
-                        ],
-                        [
-                            23.0,
-                            37.0
-                        ],
-                        [
-                            23.0,
-                            36.5
-                        ],
-                        [
-                            22.5,
-                            36.5
-                        ]
-                    ]
+                    22.54,
+                    36.88
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-quarry",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/572298/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Coordinates after Oxford Roman Economy Project",
+                "link": "https://pleiades.stoa.org/places/572298/location-of-quarry",
+                "location_precision": "precise",
+                "snippet": "Mine; 30 BC - AD 300",
+                "title": "Imagery location of quarry"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "removed deprecated type. update and augmented references, added summary and details.",
+            "modified": "2021-10-15T20:18:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "ctype",
             "modified": "2021-02-20T01:10:33Z",
@@ -111,8 +96,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -124,89 +109,69 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-20T20:56:57Z",
+            "contributors": [],
+            "created": "2014-01-26T22:14:59Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Coordinates after Oxford Roman Economy Project",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "mine"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mine"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.5,
-                            36.5
-                        ],
-                        [
-                            22.5,
-                            37.0
-                        ],
-                        [
-                            23.0,
-                            37.0
-                        ],
-                        [
-                            23.0,
-                            36.5
-                        ],
-                        [
-                            22.5,
-                            36.5
-                        ]
-                    ]
+                    22.54,
+                    36.88
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:34:23Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-10-15T20:19:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-01-26T22:15:06Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-quarry",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mine"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 D4",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://oxrep.classics.ox.ac.uk/popup.php?ste=3175",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "Oxrep, 3175",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/572298/batlas-location"
+            "title": "Imagery location of quarry",
+            "uri": "https://pleiades.stoa.org/places/572298/location-of-quarry"
         }
     ],
     "names": [],
@@ -221,46 +186,49 @@
     "provenance": "Barrington Atlas: BAtlas 58 D4",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "58 D4",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 58 D4",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/d.html#Dworakowska-1975",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RKT5CDSP",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Dworakowska 1975",
+            "formattedCitation": "<div class=\"csl-entry\">Dworakowska, Angelina. <i>Quarries in Ancient Greece</i>. Bibliotheca Antiqua 14. Wroclaw: Zaklad Narodowy im. Ossolinskich, Wydawn. Polskiej Akademii Nauk, 1975.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Dworakowska 1975",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://oxrep.classics.ox.ac.uk/popup.php?ste=3175",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R9E44TD6",
+            "citationDetail": "Krokeai",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Oxrep, Krokeai",
+            "formattedCitation": "<div class=\"csl-entry\">Russell, Ben. <i>Stone Quarries Database</i>. Oxford Roman Economy Project, 2013. http://oxrep.classics.ox.ac.uk/databases/stone_quarries_database/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "OXREP Stone Quarries Database",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        22.75,
-        36.75
+        22.54,
+        36.88
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
-    "subject": [],
+    "subject": [
+        "mine, quarry",
+        "serpentine"
+    ],
     "title": "Krokeai (quarry)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/572298"
