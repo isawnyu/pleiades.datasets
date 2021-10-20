@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.886793,
-        38.248774,
-        22.886793,
-        38.248774
+        22.8917188,
+        38.2482204,
+        22.8917188,
+        38.2482204
     ],
     "connections": [],
     "connectsWith": [],
@@ -12,6 +12,12 @@
         {
             "name": "DARMC",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Michael Karabogias",
+            "uri": "https://pleiades.stoa.org/author/mkarabogias",
+            "username": "mkarabogias"
         },
         {
             "name": "R. Talbert",
@@ -40,7 +46,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-11-23T00:36:19Z",
+    "created": "2021-10-19T22:29:15Z",
     "creators": [
         {
             "name": "J. Fossey",
@@ -51,29 +57,64 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 55 D4 Chorsiai",
-    "details": "The Barrington Atlas Directory notes: Kastron Khostion",
+    "description": "An ancient Greek settlement in Boetia, located at modern Kastron Khostion, to the west-south-west of Prodromos in Greece.",
+    "details": "<p>The Barrington Atlas Directory notes: Kastron Khostion</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    22.886793,
-                    38.248774
+                    22.8917188,
+                    38.2482204
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-12018",
+            "id": "osm-location",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/540711/darmc-location-12018",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/540711/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 12018"
+                "snippet": "Acropolis, Wall-2; 750 BC - AD 640",
+                "title": "OSM Location of Ancient Korsiai"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added CIRCE, Chronique, iDAI gazetteer, FaKB, and wikidata references",
+            "modified": "2021-10-19T23:00:35Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2021-10-19T22:29:14Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added Morin 2004; cleaned up blank reference",
+            "modified": "2021-10-19T22:13:45Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2021-10-19T21:40:40Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added wikipedia reference provided by mkarabogias",
+            "modified": "2021-10-19T19:43:13Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-10-19T19:40:29Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "updated NPauly reference to include online link; added ToposText reference; summary",
+            "modified": "2021-10-19T19:36:48Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updates",
             "modified": "2021-03-18T14:45:31Z",
@@ -104,9 +145,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -143,74 +184,85 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-09T20:59:24Z",
+            "created": "2021-10-19T03:46:43Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Michael Karabogias",
+                    "uri": "https://pleiades.stoa.org/author/mkarabogias",
+                    "username": "mkarabogias"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 12018",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "acropolis",
+                "wall-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/acropolis",
+                "https://pleiades.stoa.org/vocabularies/place-types/wall-2"
             ],
             "geometry": {
                 "coordinates": [
-                    22.886793,
-                    38.248774
+                    22.8917188,
+                    38.2482204
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:05:02Z",
-                    "modifiedBy": "admin"
+                    "comment": "dates",
+                    "modified": "2021-10-19T19:39:22Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T20:59:25Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2021-10-19T03:51:28Z",
+                    "modifiedBy": "mkarabogias"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-10-19T03:48:16Z",
+                    "modifiedBy": "mkarabogias"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-10-19T03:46:43Z",
+                    "modifiedBy": "mkarabogias"
                 }
             ],
-            "id": "darmc-location-12018",
-            "locationType": [
-                "representative"
-            ],
+            "id": "osm-location",
+            "locationType": [],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/acropolis",
+                "https://pleiades.stoa.org/vocabularies/place-types/wall-2"
             ],
-            "provenance": "DARMC OBJECTID: 12018",
+            "provenance": "Barrington Atlas 55 A3 Chorsiai",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/6939672128",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12018",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 6939672128",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12018.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=6939672128",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 12018",
-            "uri": "https://pleiades.stoa.org/places/540711/darmc-location-12018"
+            "title": "OSM Location of Ancient Korsiai",
+            "uri": "https://pleiades.stoa.org/places/540711/osm-location"
         }
     ],
     "names": [
@@ -250,28 +302,36 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Χορσιαί",
             "contributors": [
-                {
-                    "name": "G. Reger",
-                    "username": null
-                },
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
+                    "homepage": null,
+                    "name": "Michael Karabogias",
+                    "uri": "https://pleiades.stoa.org/author/mkarabogias",
+                    "username": "mkarabogias"
                 },
                 {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "name": "G. Reger",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-23T00:36:20Z",
+            "created": "2021-10-19T19:51:54Z",
             "creators": [
                 {
                     "name": "J. Fossey",
@@ -287,29 +347,348 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "greek orthography; language; references",
+                    "modified": "2021-10-19T19:55:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2021-10-19T19:51:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:05:02Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "chorsiai",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 55 D4 Chorsiai",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://de.wikisource.org/wiki/RE:Chorsiai",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+                    "citationDetail": "Chorsiai",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "RE",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
-            "romanized": "Chorsiai",
+            "romanized": "Chorsiai, Chorsiaí, Khorsiai",
             "start": -750,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/540711/chorsiai"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "attested": "Χορσία",
+            "contributors": [],
+            "created": "2021-10-19T19:58:17Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Michael Karabogias",
+                    "uri": "https://pleiades.stoa.org/author/mkarabogias",
+                    "username": "mkarabogias"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-10-19T19:58:18Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "chorsia",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://de.wikisource.org/wiki/RE:Chorsiai",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+                    "citationDetail": "Chorsiai",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "RE",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Chorsia, Chorsía, Khorsia",
+            "start": null,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/540711/chorsia"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "less-confident-inferred",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident-inferred",
+                    "timePeriod": "early-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-helladic"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-geometric",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-geometric"
+                }
+            ],
+            "attested": "Κορσιαι",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2021-10-19T03:53:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Michael Karabogias",
+                    "uri": "https://pleiades.stoa.org/author/mkarabogias",
+                    "username": "mkarabogias"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -330,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-10-19T20:07:18Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2021-10-19T03:57:57Z",
+                    "modifiedBy": "mkarabogias"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2021-10-19T03:56:14Z",
+                    "modifiedBy": "mkarabogias"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2021-10-19T03:55:02Z",
+                    "modifiedBy": "mkarabogias"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-10-19T03:53:33Z",
+                    "modifiedBy": "mkarabogias"
+                }
+            ],
+            "id": "korsiai",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://de.wikisource.org/wiki/RE:Chorsiai",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+                    "citationDetail": "Chorsiai",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "RE",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Korsiai, Korsíai, Korsiaí",
+            "start": -3000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/540711/korsiai"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Πρόδρομος",
+            "contributors": [],
+            "created": "2021-10-19T22:16:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-10-19T22:16:12Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "prodromos",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/254662/prodromos.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "254662: Pródromos",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Prodromos, Pródromos, Pródhromos",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/540711/prodromos"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Χώστια",
+            "contributors": [],
+            "created": "2021-10-19T22:24:46Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-10-19T22:25:05Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-10-19T22:24:48Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "khostia",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/254662/prodromos.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "254662: Pródromos",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://www.persee.fr/doc/mom_0766-0510_1986_sem_11_1_2073",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/I3VZWSPT",
+                    "citationDetail": "page 94 figure 1",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Roesch, Paul. “L’eau et les textiles : Chorsiai de Béotie.” <i>MOM Éditions</i> 11, no. 1 (1986): 93–99. https://www.persee.fr/doc/mom_0766-0510_1986_sem_11_1_2073.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Roesch 1986",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/19744479",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SZAWKZV5",
+                    "citationDetail": "187-94",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Fossey, John M. <i>Topography and Population of Ancient Boiotia</i>. 1st ed. 2 in 1 vols. Chicago: Ares, 1988. http://www.worldcat.org/oclc/19744479.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Fossey 1988",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Khostia, Khóstia, Chostia",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/540711/khostia"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/acropolis",
+        "https://pleiades.stoa.org/vocabularies/place-types/wall-2"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "acropolis",
+        "wall-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 55 D4 Chorsiai",
     "references": [
@@ -336,20 +715,119 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e233320",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Chorsiae",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "New Pauly",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/382229PCho",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Chorsiai (Boeotia) 8 Prodromo - Χορσία",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12018",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Corseae",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Corseae",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SCT4S8PW",
-            "citationDetail": "Chorsiai",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Y9ZFQE3M",
+            "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Cancik, Hubert, Helmuth Schneider, and Manfred Landfester, eds. <i>Der Neue Pauly: Enzyklopädie Der Antike</i>. Stuttgart: J.B. Metzler, 1996.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Jacques Morin. <i>Khóstia II: The Bronze Age : Results of Canadian Explorations and Excavations at Khóstia, Boiotia, Central Greece</i>. McGill University Monographs in Classical Archaeology and History ; No. 21. Chicago: Ares, 2004.</div>",
             "otherIdentifier": "",
-            "shortTitle": "NPauly",
+            "shortTitle": "Morin 2004",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://circe-antique.huma-num.fr/topo.php?ID=52232",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ACFD4QHW",
+            "citationDetail": "52232: Chorsiai (Kastron Chostion)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Sonia Darthou, François de Polignac, Jean-Sébastien Gros, and François Crouzet. <i>CIRCE Project Database: Constructions, Interprétations et Représentations Cultuelles de l’Espace Dans Les Sociétés Anciennes</i>. Hosted by TGIR Huma-Num. Accessed October 19, 2021. https://circe-antique.huma-num.fr/index.php.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CIRCE",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=36839",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "36839: Prodromos, Elikon (Chostia)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Chronique en ligne",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/app/#!/show/2764050",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2764050:  Chorsiai/Khostia",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "http://portal.cig-icg.gr/node/130",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/249P3YJR",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">“Fouilles Archéologiques à Khostia En Boéotie.” In <i>Portal to the Past: Digital Archive of Archaeological Projects and Research Canadian Institute in Greece</i>. Athens: Canadian Institute in Greece, 2013. http://portal.cig-icg.gr/node/130.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "FaKB",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q11915763",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q11915763: Chorsiai",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        22.886793,
-        38.248774
+        22.8917188,
+        38.2482204
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
