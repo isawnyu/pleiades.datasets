@@ -92,16 +92,21 @@
             },
             "id": "location-of-eleutherna-bridge",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/591168/location-of-eleutherna-bridge",
                 "location_precision": "precise",
-                "snippet": "Bridge, ; 330 BC - 30 BC",
-                "title": "location of Eleutherna Bridge "
+                "snippet": "Bridge; 330 BC - 30 BC",
+                "title": "OSM location of Eleutherna Bridge "
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2021-10-22T14:31:04Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2021-06-23T13:26:55Z",
@@ -149,7 +154,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -170,16 +175,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": -30,
             "featureType": [
-                "bridge",
-                ""
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
@@ -189,6 +192,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "update title, summary",
+                    "modified": "2021-10-22T14:31:30Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "added location",
                     "modified": "2013-09-28T02:56:39Z",
@@ -205,8 +213,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "provenance": "OpenStreetMap (Node 1285382544, version 3, osm:changeset=18070909, 2013-09-28T02:55:39Z)",
             "references": [
@@ -224,7 +231,7 @@
             ],
             "review_state": "published",
             "start": -330,
-            "title": "location of Eleutherna Bridge ",
+            "title": "OSM location of Eleutherna Bridge ",
             "uri": "https://pleiades.stoa.org/places/591168/location-of-eleutherna-bridge"
         }
     ],
@@ -312,8 +319,11 @@
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:ancient=2",
-        "dare:feature=bridge"
+        "bridge",
+        "dare:feature=bridge",
+        "extant remains",
+        "corbel",
+        "dare:ancient=2"
     ],
     "title": "Eleutherna Bridge",
     "type": "FeatureCollection",
