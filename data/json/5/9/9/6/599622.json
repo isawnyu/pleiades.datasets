@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        27.0,
-        38.0,
-        27.5,
-        38.5
+        27.3951786,
+        38.0460003,
+        27.3951786,
+        38.0460003
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,43 +49,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            27.0,
-                            38.0
-                        ],
-                        [
-                            27.0,
-                            38.5
-                        ],
-                        [
-                            27.5,
-                            38.5
-                        ],
-                        [
-                            27.5,
-                            38.0
-                        ],
-                        [
-                            27.0,
-                            38.0
-                        ]
-                    ]
+                    27.3951786,
+                    38.0460003
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/599622/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Undetermined location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/599622/osm-location",
+                "location_precision": "precise",
+                "snippet": "Mountain, ; AD 1700 - AD 2100",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references; added Yavuzcezzar 2013",
+            "modified": "2021-10-29T10:25:55Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
             "modified": "2021-03-01T22:40:49Z",
@@ -111,8 +96,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -120,99 +105,76 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-15T09:05:33Z",
+            "contributors": [],
+            "created": "2014-12-14T02:37:30Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            27.0,
-                            38.0
-                        ],
-                        [
-                            27.0,
-                            38.5
-                        ],
-                        [
-                            27.5,
-                            38.5
-                        ],
-                        [
-                            27.5,
-                            38.0
-                        ],
-                        [
-                            27.0,
-                            38.0
-                        ]
-                    ]
+                    27.3951786,
+                    38.0460003
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:59:41Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-12-14T02:37:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-12-14T02:37:35Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 61 E1 Gallesion M.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 2733585599, version 1, osm:changeset=21242438, 2014-03-22T11:53:53Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2733585599",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2733585599",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2733585599",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599622/undetermined"
+            "start": 1700,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/599622/osm-location"
         }
     ],
     "names": [
@@ -288,6 +250,63 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/599622/Gallesion-M"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Alaman Daği",
+            "contributors": [],
+            "created": "2021-10-29T10:28:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-10-29T10:28:54Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "alaman-dagi",
+            "language": "tr",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://dagakactim.blogspot.com/2013/01/ahmetli-koyu-gallesion-alaman-dag.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QIZTDMAB",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Yavuzcezzar, Mehmet. “AHMETLİ KÖYÜ - GALLESİON (Alaman Dağı) ALTINDA MANASTIR MEVKİİ YÜRÜYÜŞÜ.” <i>Dağa Kaçtım</i> (blog), Ocak  Perşembe 2013. https://dagakactim.blogspot.com/2013/01/ahmetli-koyu-gallesion-alaman-dag.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Yavuzcezzar 2013",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Alaman Daği, Alaman Dagi",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/599622/alaman-dagi"
         }
     ],
     "placeTypeURIs": [
@@ -299,31 +318,42 @@
     "provenance": "Barrington Atlas: BAtlas 61 E1 Gallesion M.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "61 E1 Gallesion M.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 61 E1 Gallesion M.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Robert-1989-88",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QUI6NJ6M",
+            "citationDetail": "page 88",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Robert 1989 88",
+            "formattedCitation": "<div class=\"csl-entry\">Robert, Louis. <i>Claros</i>. Paris: Ed. Recherche sur les civilisations, 1989.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Robert 1989",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://dagakactim.blogspot.com/2013/01/ahmetli-koyu-gallesion-alaman-dag.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QIZTDMAB",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "formattedCitation": "<div class=\"csl-entry\">Yavuzcezzar, Mehmet. “AHMETLİ KÖYÜ - GALLESİON (Alaman Dağı) ALTINDA MANASTIR MEVKİİ YÜRÜYÜŞÜ.” <i>Dağa Kaçtım</i> (blog), Ocak  Perşembe 2013. https://dagakactim.blogspot.com/2013/01/ahmetli-koyu-gallesion-alaman-dag.html.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Yavuzcezzar 2013",
+            "type": "http://purl.org/spar/cito/seeAlso"
         }
     ],
     "reprPoint": [
-        27.25,
-        38.25
+        27.3951786,
+        38.0460003
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

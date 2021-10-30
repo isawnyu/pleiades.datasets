@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        26.0,
-        31.0,
-        27.0,
-        32.0
+        26.6381365,
+        31.5198367,
+        26.6381365,
+        31.5198367
     ],
     "connections": [],
     "connectsWith": [],
@@ -51,38 +51,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            31.0
-                        ],
-                        [
-                            26.0,
-                            32.0
-                        ],
-                        [
-                            27.0,
-                            32.0
-                        ],
-                        [
-                            27.0,
-                            31.0
-                        ],
-                        [
-                            26.0,
-                            31.0
-                        ]
-                    ]
+                    26.6381365,
+                    31.5198367
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/716642/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Undetermined location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/716642/osm-location",
+                "location_precision": "precise",
+                "snippet": "Island; AD 1700 - AD 2100",
+                "title": "OSM Location of Ishaila Rocks"
             },
             "type": "Feature"
         }
@@ -113,8 +93,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -122,95 +102,85 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2009-09-09T05:51:47Z",
+            "created": "2013-11-07T03:16:54Z",
             "creators": [
                 {
-                    "name": "D.J. Mattingly",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "island"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            31.0
-                        ],
-                        [
-                            26.0,
-                            32.0
-                        ],
-                        [
-                            27.0,
-                            32.0
-                        ],
-                        [
-                            27.0,
-                            31.0
-                        ],
-                        [
-                            26.0,
-                            31.0
-                        ]
-                    ]
+                    26.6381365,
+                    31.5198367
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:06:01Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-10-29T09:43:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-11-07T03:17:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-11-07T03:17:00Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
-            "provenance": "Barrington Atlas: BAtlas 73 D2 Tyndareioi Inss.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 768745388, version 2, osm:changeset=4970284, 2010-06-12T13:17:07Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/768745388",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 768745388",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=768745388",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/716642/undetermined"
+            "start": 1700,
+            "title": "OSM Location of Ishaila Rocks",
+            "uri": "https://pleiades.stoa.org/places/716642/osm-location"
         }
     ],
     "names": [
@@ -311,8 +281,8 @@
         }
     ],
     "reprPoint": [
-        26.5,
-        31.5
+        26.6381365,
+        31.5198367
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
