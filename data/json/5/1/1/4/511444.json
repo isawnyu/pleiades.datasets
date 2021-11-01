@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        28.0,
-        41.5,
-        28.5,
-        42.0
+        27.9864011,
+        41.8778439,
+        27.9864011,
+        41.8778439
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,43 +45,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            28.0,
-                            41.5
-                        ],
-                        [
-                            28.0,
-                            42.0
-                        ],
-                        [
-                            28.5,
-                            42.0
-                        ],
-                        [
-                            28.5,
-                            41.5
-                        ],
-                        [
-                            28.0,
-                            41.5
-                        ]
-                    ]
+                    27.9864011,
+                    41.8778439
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/511444/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Undetermined location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/511444/osm-location",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern, ; AD 1700 - AD 2100",
+                "title": "OSM location of modern İğneada"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2021-10-31T16:16:53Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T22:07:33Z",
@@ -102,98 +87,85 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-15T08:17:39Z",
+            "contributors": [],
+            "created": "2014-04-19T16:13:32Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            28.0,
-                            41.5
-                        ],
-                        [
-                            28.0,
-                            42.0
-                        ],
-                        [
-                            28.5,
-                            42.0
-                        ],
-                        [
-                            28.5,
-                            41.5
-                        ],
-                        [
-                            28.0,
-                            41.5
-                        ]
-                    ]
+                    27.9864011,
+                    41.8778439
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:53:17Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-04-19T16:14:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-04-19T16:13:36Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 52 C1 Thynias",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1830075616, version 1, osm:changeset=12291882, 2012-07-18T19:24:05Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1830075616",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1830075616",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1830075616",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/511444/undetermined"
+            "start": 1700,
+            "title": "OSM location of modern İğneada",
+            "uri": "https://pleiades.stoa.org/places/511444/osm-location"
         }
     ],
     "names": [
@@ -257,43 +229,41 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/labeled feature",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "labeled feature",
         "settlement",
         "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 52 C1 Thynias",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "52 C1 Thynias",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 52 C1 Thynias",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Thynias-1",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Thynias 1",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Thynias 1",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        28.25,
-        41.75
+        27.9864011,
+        41.8778439
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
