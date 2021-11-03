@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.003812,
-        43.177777,
-        13.003812,
-        43.177777
+        12.98567,
+        43.17905,
+        12.98567,
+        43.17905
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.003812,
-                    43.177777
+                    12.98567,
+                    43.17905
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-18809",
+            "id": "osm-location-of-pioraco",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/413275/darmc-location-18809",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/413275/osm-location-of-pioraco",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 18809"
+                "snippet": "Settlement-modern, ; AD 1700 - AD 2100",
+                "title": "OSM location of Pioraco"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-11-02T16:35:00Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "edited TM GEO ID",
             "modified": "2017-04-10T14:13:50Z",
@@ -111,8 +116,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -120,82 +125,76 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:27:02Z",
+            "contributors": [],
+            "created": "2015-08-11T04:23:02Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18809",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    13.003812,
-                    43.177777
+                    12.98567,
+                    43.17905
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:51:38Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2015-08-11T04:24:26Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:27:03Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-08-11T04:23:05Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18809",
+            "id": "osm-location-of-pioraco",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 18809",
+            "provenance": "OpenStreetMap (Node 70981424, version 1, osm:changeset=163913, 2007-10-14T16:06:58Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/70981424",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18809",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 70981424",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18809.",
+                    "formattedCitation": "osm:node=70981424",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 18809",
-            "uri": "https://pleiades.stoa.org/places/413275/darmc-location-18809"
+            "start": 1700,
+            "title": "OSM location of Pioraco",
+            "uri": "https://pleiades.stoa.org/places/413275/osm-location-of-pioraco"
         }
     ],
     "names": [
@@ -363,11 +362,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18809",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.003812,
-        43.177777
+        12.98567,
+        43.17905
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

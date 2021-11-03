@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        19.568865,
-        43.969954,
-        19.568865,
-        43.969954
+        19.5317425,
+        43.9721961,
+        19.5317425,
+        43.9721961
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    19.568865,
-                    43.969954
+                    19.5317425,
+                    43.9721961
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-13609",
+            "id": "osm-location-of-skelani",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/207263/darmc-location-13609",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/207263/osm-location-of-skelani",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 13609"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of Skelani"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-11-02T16:40:46Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2017-08-03T03:26:58Z",
@@ -111,8 +116,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -120,87 +125,74 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:43:23Z",
+            "contributors": [],
+            "created": "2017-08-03T03:35:35Z",
             "creators": [
                 {
-                    "name": "J.J. Wilkes",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 13609",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    19.568865,
-                    43.969954
+                    19.5317425,
+                    43.9721961
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:54:23Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2017-08-03T03:36:34Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:35:48Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:43:24Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-08-03T03:35:35Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-13609",
+            "id": "osm-location-of-skelani",
             "locationType": [
-                "representative"
+                "representative",
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 13609",
+            "provenance": "OpenStreetMap (Node 1672624562, version 1, osm:changeset=10960890, 2012-03-12T21:30:02Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1672624562",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "13609",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1672624562",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 13609.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=1672624562",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 13609",
-            "uri": "https://pleiades.stoa.org/places/207263/darmc-location-13609"
+            "start": 1700,
+            "title": "OSM location of Skelani",
+            "uri": "https://pleiades.stoa.org/places/207263/osm-location-of-skelani"
         }
     ],
     "names": [
@@ -418,11 +410,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "13609",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        19.568865,
-        43.969954
+        19.5317425,
+        43.9721961
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
