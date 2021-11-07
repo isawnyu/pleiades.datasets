@@ -1,13 +1,70 @@
 {
     "@type": "Place",
     "bbox": [
-        12.874389,
-        41.997951,
-        12.874389,
-        41.997951
+        12.8768423,
+        41.9994591,
+        12.8768423,
+        41.9994591
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/770901484",
+            "contributors": [],
+            "created": "2021-11-05T02:44:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2021-11-05T02:44:55Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "via-valeria",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.jstor.org/stable/40310566",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/W23VCWQP",
+                    "citationDetail": "27",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Essen, C.C. Van. “The Via Valeria from Tivoli to Collarmele.” <i>Papers of the British School at Rome</i> 25 (1957): 22–38. http://www.jstor.org/stable/40310566.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Van Essen 1957",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Via Valeria",
+            "uri": "https://pleiades.stoa.org/places/423063/via-valeria"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/770901484"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -36,7 +93,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-10T22:34:23Z",
+    "created": "2021-11-05T02:41:26Z",
     "creators": [
         {
             "name": "L. Quilici",
@@ -47,29 +104,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 43 D1 Sep. C. Maenius Bassus",
+    "description": "The tomb C. Maenius Bassus is located along the Via Valeria. This podium tomb with superstructure is dated to either the reign of Caius or that of Claudius. Epigraphic evidence mentions that C. Maenius C. f. Cam. Bassus was an Augustalis, an aedile, and praefectus fabrum.",
     "details": "<p>None</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    12.874389,
-                    41.997951
+                    12.8768423,
+                    41.9994591
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20653",
+            "id": "osm-location",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/423063/darmc-location-20653",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/423063/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 20653"
+                "snippet": "Tomb, ; 30 BC - AD 300",
+                "title": "OSM location of Sepolcro di Caio Menio Basso, Vicovaro"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-11-05T11:35:31Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary; updated Connections",
+            "modified": "2021-11-05T11:32:16Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2021-11-05T02:41:23Z",
@@ -125,9 +192,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -138,71 +205,78 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:14:15Z",
+            "contributors": [],
+            "created": "2014-06-15T19:36:15Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 20653",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "tomb",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    12.874389,
-                    41.997951
+                    12.8768423,
+                    41.9994591
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:57:11Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2016-07-29T14:54:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-06-15T19:36:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-06-15T19:36:19Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20653",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "representative",
+                ""
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 20653",
+            "provenance": "OpenStreetMap (Node 2671770712, version 1, osm:changeset=20563649, 2014-02-14T18:12:55Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2671770712",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20653",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2671770712",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20653.",
+                    "formattedCitation": "osm:node=2671770712",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 20653",
-            "uri": "https://pleiades.stoa.org/places/423063/darmc-location-20653"
+            "title": "OSM location of Sepolcro di Caio Menio Basso, Vicovaro",
+            "uri": "https://pleiades.stoa.org/places/423063/osm-location"
         }
     ],
     "names": [
@@ -349,11 +423,33 @@
             "otherIdentifier": "",
             "shortTitle": "Van Essen 1957",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "http://atlantides.org/bibliography/c.html#CIL-14",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "CIL 14, 3665",
+            "otherIdentifier": "",
+            "shortTitle": "",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20653",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.874389,
-        41.997951
+        12.8768423,
+        41.9994591
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
