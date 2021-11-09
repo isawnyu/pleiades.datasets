@@ -1,12 +1,48 @@
 {
     "@type": "Place",
     "bbox": [
-        43.035008,
-        38.34153,
-        43.035008,
-        38.34153
+        43.0373749,
+        38.3397421,
+        43.0373749,
+        38.3397421
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/359852689",
+            "contributors": [],
+            "created": "2019-12-20T16:59:55Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-12-20T16:59:56Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "akdamar-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Akdamar Island",
+            "uri": "https://pleiades.stoa.org/places/874304/akdamar-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/359852689",
         "https://pleiades.stoa.org/places/359852688"
@@ -59,28 +95,38 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 89 F2 Aghtamar",
-    "details": "The Barrington Atlas Directory notes: Aghtamar",
+    "details": "<p>The Barrington Atlas Directory notes: Aghtamar</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    43.035008,
-                    38.34153
+                    43.0373749,
+                    38.3397421
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21425",
+            "id": "osm-location-of-fort",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/874304/darmc-location-21425",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/874304/osm-location-of-fort",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 21425"
+                "snippet": "Fort; AD 300 - AD 640",
+                "title": "OSM location of fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-11-08T12:14:12Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2021-11-08T12:13:26Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2015-02-20T19:32:37Z",
@@ -111,8 +157,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -124,84 +170,74 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:37:16Z",
+            "contributors": [],
+            "created": "2015-02-20T19:33:11Z",
             "creators": [
                 {
-                    "name": "S.E. Kroll",
-                    "username": null
-                },
-                {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
-                },
-                {
-                    "name": "T. Sinclair",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21425",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    43.035008,
-                    38.34153
+                    43.0373749,
+                    38.3397421
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:59:29Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-11-08T01:30:12Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:37:17Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2015-02-20T19:33:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-02-20T19:33:15Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21425",
+            "id": "osm-location-of-fort",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 21425",
+            "provenance": "OpenStreetMap (Way 191563546, version 1, osm:changeset=13931695, 2012-11-19T13:18:30Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/191563546",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21425",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 191563546",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21425.",
+                    "formattedCitation": "osm:way=191563546",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 21425",
-            "uri": "https://pleiades.stoa.org/places/874304/darmc-location-21425"
+            "title": "OSM location of fort",
+            "uri": "https://pleiades.stoa.org/places/874304/osm-location-of-fort"
         }
     ],
     "names": [
@@ -316,11 +352,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21425",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        43.035008,
-        38.34153
+        43.0373749,
+        38.3397421
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
