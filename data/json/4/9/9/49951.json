@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        75.0,
-        10.0,
-        80.0,
-        15.0
+        79.8258095,
+        10.2781938,
+        79.8258095,
+        10.2781938
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,38 +45,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            75.0,
-                            10.0
-                        ],
-                        [
-                            75.0,
-                            15.0
-                        ],
-                        [
-                            80.0,
-                            15.0
-                        ],
-                        [
-                            80.0,
-                            10.0
-                        ],
-                        [
-                            75.0,
-                            10.0
-                        ]
-                    ]
+                    79.8258095,
+                    10.2781938
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/49951/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/49951/osm-location",
+                "location_precision": "precise",
+                "snippet": "Unknown; AD 1700 - AD 2100",
+                "title": "OSM location of modern Kodikkarai lighthouse"
             },
             "type": "Feature"
         }
@@ -112,8 +92,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -121,95 +101,79 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-23T00:56:50Z",
+            "created": "2013-10-22T03:35:23Z",
             "creators": [
                 {
-                    "name": "M.U. Erdosy",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "end": 2100,
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            75.0,
-                            10.0
-                        ],
-                        [
-                            75.0,
-                            15.0
-                        ],
-                        [
-                            80.0,
-                            15.0
-                        ],
-                        [
-                            80.0,
-                            10.0
-                        ],
-                        [
-                            75.0,
-                            10.0
-                        ]
-                    ]
+                    79.8258095,
+                    10.2781938
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:38:39Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-11-10T10:48:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-10-22T03:35:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-10-22T03:35:28Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "OpenStreetMap (Node 1293789573, version 5, osm:changeset=18039953, 2013-09-26T07:21:44Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1293789573",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1293789573",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1293789573",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 5 D4 Coliacum/Kalligikon Pr.",
-            "references": [],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/49951/batlas-location"
+            "start": 1700,
+            "title": "OSM location of modern Kodikkarai lighthouse",
+            "uri": "https://pleiades.stoa.org/places/49951/osm-location"
         }
     ],
     "names": [
@@ -804,8 +768,8 @@
         }
     ],
     "reprPoint": [
-        77.5,
-        12.5
+        79.8258095,
+        10.2781938
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
