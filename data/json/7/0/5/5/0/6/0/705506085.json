@@ -10,35 +10,61 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "third-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/third-ce"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/423025",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:58:02Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 299,
+            "history": [
+                {
+                    "comment": "date",
+                    "modified": "2021-11-10T14:23:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "ctype",
+                    "modified": "2021-11-10T14:22:44Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "423025",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": 200,
             "title": "Roma",
             "uri": "https://pleiades.stoa.org/places/705506085/423025"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/423025"
+        "https://pleiades.stoa.org/places/423025",
+        "https://pleiades.stoa.org/places/298699921"
     ],
     "contributors": [],
     "created": "2015-05-31T20:58:27Z",
