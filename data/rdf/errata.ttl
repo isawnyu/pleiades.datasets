@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2021/11/07 06:47:53.430959 US/Eastern
+# Date: 2021/11/14 06:47:52.821432 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4089
+# Triple count: 4148
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -130,6 +130,11 @@
         <https://pleiades.stoa.org/places/423025#this>;
     rdfs:comment "A tenth century church built on the site of a Roman structure that was either a temple or a tomb dating ca. AD 160.";
     foaf:primaryTopicOf <https://pleiades.stoa.org/errata/55607045> .
+
+<https://pleiades.stoa.org/errata/570408#this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Erroneous Duplicate: Ladon (river)";
+    rdfs:comment "Duplicate for Ladon/Selleis (river) : https://pleiades.stoa.org/places/570409";
+    foaf:primaryTopicOf <https://pleiades.stoa.org/errata/570408> .
 
 <https://pleiades.stoa.org/errata/592169143#this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Mortuary Temple of Ramesses III";
@@ -435,6 +440,10 @@
 <http://atlantides.org/capgrids/56#E2-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[27.5, 39.5], [27.5, 40.0], [27.0, 40.0], [27.0, 39.5], [27.5, 39.5]]]}";
     osgeo:asWKT "POLYGON ((27.5000000000000000 39.5000000000000000, 27.5000000000000000 40.0000000000000000, 27.0000000000000000 40.0000000000000000, 27.0000000000000000 39.5000000000000000, 27.5000000000000000 39.5000000000000000))" .
+
+<http://atlantides.org/capgrids/58#B2-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[22.0, 37.5], [22.0, 38.0], [21.5, 38.0], [21.5, 37.5], [22.0, 37.5]]]}";
+    osgeo:asWKT "POLYGON ((22.0000000000000000 37.5000000000000000, 22.0000000000000000 38.0000000000000000, 21.5000000000000000 38.0000000000000000, 21.5000000000000000 37.5000000000000000, 22.0000000000000000 37.5000000000000000))" .
 
 <http://atlantides.org/capgrids/87#A4-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[36.0, 40.0], [36.0, 41.0], [35.0, 41.0], [35.0, 40.0], [36.0, 40.0]]]}";
@@ -1574,6 +1583,57 @@
         <https://pleiades.stoa.org/vocabularies/time-periods/roman>;
     pleiades:end_date 1453;
     pleiades:start_date -30 .
+
+<https://pleiades.stoa.org/errata/570408> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    osspatial:within <http://atlantides.org/capgrids/58#B2>;
+    dcterms:bibliographicCitation "",
+        "Str. (Meineke: Perseus) 8.8.4";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "Ladon";
+    dcterms:creator <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59102736>;
+    dcterms:description "Duplicate for Ladon/Selleis (river) : https://pleiades.stoa.org/places/570409";
+    dcterms:modified "2021-11-12T22:10:43-05:00";
+    dcterms:title "Erroneous Duplicate: Ladon (river)";
+    cito:citesForInformation <http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8.8.4>,
+        <http://openlibrary.org/works/OL8327792W>;
+    owl:sameAs <http://pleiades.stoa.org/errata/570408>;
+    skos:altLabel "Ladon";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/river>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/570408/batlas-location>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/570408/ladon> .
+
+<https://pleiades.stoa.org/errata/570408/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/58#B2>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59102736>;
+    dcterms:description "";
+    dcterms:modified "2017-10-27T16:51:23-04:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/570408/batlas-location>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ] .
+
+<https://pleiades.stoa.org/errata/570408/ladon> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59102736>;
+    dcterms:description "";
+    dcterms:modified "2017-10-27T16:51:23-04:00";
+    dcterms:title "Ladon";
+    owl:sameAs <http://pleiades.stoa.org/errata/570408/ladon>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ];
+    pleiades:nameRomanized "Ladon" .
 
 <https://pleiades.stoa.org/errata/592169143> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -4159,6 +4219,8 @@
 <http://atlantides.org/capgrids/102#G5> osgeo:extent <http://atlantides.org/capgrids/102#G5-extent> .
 
 <http://atlantides.org/capgrids/56#E2> osgeo:extent <http://atlantides.org/capgrids/56#E2-extent> .
+
+<http://atlantides.org/capgrids/58#B2> osgeo:extent <http://atlantides.org/capgrids/58#B2-extent> .
 
 <http://atlantides.org/capgrids/87#A4> osgeo:extent <http://atlantides.org/capgrids/87#A4-extent> .
 
