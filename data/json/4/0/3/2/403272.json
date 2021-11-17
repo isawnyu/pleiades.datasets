@@ -1,12 +1,48 @@
 {
     "@type": "Place",
     "bbox": [
-        11.149615,
-        42.436517,
-        11.149615,
-        42.436517
+        11.1520473,
+        42.436299,
+        11.1520473,
+        42.436299
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/403179",
+            "contributors": [],
+            "created": "2017-09-30T19:32:33Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2017-09-30T19:32:34Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "argentarius-m",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Argentarius (mountain)",
+            "uri": "https://pleiades.stoa.org/places/403272/argentarius-m"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/403179"
     ],
@@ -46,28 +82,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 41 E5 S. Liberata",
-    "details": "The Barrington Atlas Directory notes: S. Liberata",
+    "details": "<p>The Barrington Atlas Directory notes: S. Liberata</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    11.149615,
-                    42.436517
+                    11.1520473,
+                    42.436299
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21073",
+            "id": "location-of-villa-di-santa-liberata",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/403272/darmc-location-21073",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/403272/location-of-villa-di-santa-liberata",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 21073"
+                "snippet": "Villa, ; 30 BC - AD 300",
+                "title": "OSM location of Villa di Santa Liberata"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-11-17T08:51:52Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2016-12-04T16:56:05Z",
@@ -98,8 +139,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -111,72 +152,88 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:24:48Z",
+            "contributors": [],
+            "created": "2014-02-15T19:02:19Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 21073",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "villa",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    11.149615,
-                    42.436517
+                    11.1520473,
+                    42.436299
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:45:43Z",
-                    "modifiedBy": "admin"
+                    "comment": "added reference",
+                    "modified": "2015-08-15T15:32:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:24:49Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-02-15T19:02:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-02-15T19:02:21Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21073",
+            "id": "location-of-villa-di-santa-liberata",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 21073",
+            "provenance": "OpenStreetMap (Node 2560120410, version 1, osm:changeset=19215558, 2013-12-01T17:00:35Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2560120410",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21073",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2560120410",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21073.",
+                    "formattedCitation": "osm:node=2560120410",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://it.wikipedia.org/wiki/Torre_di_Santa_Liberata",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Torre di Santa Liberata",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Torre di Santa Liberata.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 21073",
-            "uri": "https://pleiades.stoa.org/places/403272/darmc-location-21073"
+            "title": "OSM location of Villa di Santa Liberata",
+            "uri": "https://pleiades.stoa.org/places/403272/location-of-villa-di-santa-liberata"
         }
     ],
     "names": [],
@@ -209,11 +266,22 @@
             "otherIdentifier": "",
             "shortTitle": "ASAT",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21073",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        11.149615,
-        42.436517
+        11.1520473,
+        42.436299
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
