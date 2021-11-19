@@ -1,20 +1,20 @@
 {
     "@type": "Place",
     "bbox": [
-        21.5,
-        38.0,
-        22.0,
-        38.5
+        21.6838695,
+        38.362506,
+        21.6838695,
+        38.362506
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "G. Reger",
             "username": null
         },
         {
-            "name": "G. Reger",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -47,49 +47,44 @@
             "username": null
         }
     ],
-    "description": "A mountain mentioned in ancient sources.",
-    "details": "None",
+    "description": "A mountain mentioned in ancient sources. Modern Klokova in Grece.",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.5,
-                            38.0
-                        ],
-                        [
-                            21.5,
-                            38.5
-                        ],
-                        [
-                            22.0,
-                            38.5
-                        ],
-                        [
-                            22.0,
-                            38.0
-                        ],
-                        [
-                            21.5,
-                            38.0
-                        ]
-                    ]
+                    21.6838695,
+                    38.362506
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/541123/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/541123/osm-location",
+                "location_precision": "precise",
+                "snippet": "Mountain, ; AD 1700 - AD 2100",
+                "title": "OSM location of modern Klokova"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references",
+            "modified": "2021-11-18T21:24:03Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "wikipedia",
+            "modified": "2021-11-18T21:19:14Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary",
+            "modified": "2021-11-18T21:17:58Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
             "modified": "2021-03-01T22:40:35Z",
@@ -110,99 +105,85 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "G. Reger",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-11-23T00:43:47Z",
+            "contributors": [],
+            "created": "2014-06-25T00:41:42Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.5,
-                            38.0
-                        ],
-                        [
-                            21.5,
-                            38.5
-                        ],
-                        [
-                            22.0,
-                            38.5
-                        ],
-                        [
-                            22.0,
-                            38.0
-                        ],
-                        [
-                            21.5,
-                            38.0
-                        ]
-                    ]
+                    21.6838695,
+                    38.362506
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:10:26Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-06-25T00:42:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-06-25T00:41:45Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 55 B4 Taphiassos M.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 26864142, version 6, osm:changeset=3611122, 2010-01-13T16:31:20Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/26864142",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26864142",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=26864142",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/541123/batlas-location"
+            "start": 1700,
+            "title": "OSM location of modern Klokova",
+            "uri": "https://pleiades.stoa.org/places/541123/osm-location"
         }
     ],
     "names": [
@@ -269,6 +250,63 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/541123/Taphiassos-M"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Κλόκοβα",
+            "contributors": [],
+            "created": "2021-11-18T21:25:45Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-11-18T21:25:45Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "klokova",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://el.wikipedia.org/wiki/%CE%9A%CE%BB%CF%8C%CE%BA%CE%BF%CE%B2%CE%B1",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BUR4V79V",
+                    "citationDetail": "Κλόκοβα",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Βικιπαίδεια: την ελεύθερη εγκυκλοπαίδεια που γράφουμε συμμετοχικά</i>. Wikimedia Foundation, 2001. https://el.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Greek)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Klokova",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/541123/klokova"
         }
     ],
     "placeTypeURIs": [
@@ -293,18 +331,29 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Taphiassos-M.",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Taphiassos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Taphiassos M.",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Klokova",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Klokova",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        21.75,
-        38.25
+        21.6838695,
+        38.362506
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
