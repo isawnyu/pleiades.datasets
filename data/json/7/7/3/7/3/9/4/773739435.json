@@ -3,31 +3,44 @@
     "bbox": [
         28.9746077,
         41.005444,
-        28.9753714,
-        41.0059058
+        28.9746077,
+        41.005444
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/520998",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:43:53Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype: \"at\"",
+                    "modified": "2021-11-27T23:14:11Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "520998",
             "provenance": "Pleiades",
             "references": [],
@@ -39,6 +52,8 @@
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/520998",
+        "https://pleiades.stoa.org/places/927063702",
+        "https://pleiades.stoa.org/places/909992346",
         "https://pleiades.stoa.org/places/177059114",
         "https://pleiades.stoa.org/places/820631036"
     ],
@@ -70,42 +85,6 @@
                 "location_precision": "precise",
                 "snippet": "Circus, ; AD 300 - AD 1453",
                 "title": "OSM location of Hippodrome of Constantinople"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    28.9750961,
-                    41.0056497
-                ],
-                "type": "Point"
-            },
-            "id": "serpent-column",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/773739435/serpent-column",
-                "location_precision": "precise",
-                "snippet": "Monument, ; AD 300 - AD 640",
-                "title": "OSM location of Serpent Column"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    28.9753714,
-                    41.0059058
-                ],
-                "type": "Point"
-            },
-            "id": "obelisk-of-theodosius",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/773739435/obelisk-of-theodosius",
-                "location_precision": "precise",
-                "snippet": "Monument, ; AD 300 - AD 640",
-                "title": "OSM location of Obelisk of Theodosius"
             },
             "type": "Feature"
         }
@@ -212,214 +191,14 @@
             "start": 300,
             "title": "OSM location of Hippodrome of Constantinople",
             "uri": "https://pleiades.stoa.org/places/773739435/location-of-hippodrome-of-constantinople"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "accuracy_value": 20.0,
-            "archaeologicalRemains": "traces",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-10-30T02:41:55Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "monument",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/monument",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    28.9750961,
-                    41.0056497
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-08-03T13:01:42Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-10-30T02:43:31Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-10-30T02:42:00Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "serpent-column",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/monument",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Node 415157636, version 7, osm:changeset=14153871, 2012-12-04T16:40:37Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/415157636",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 415157636",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=415157636",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Serpent_Column",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Serpent Column",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Serpent Column.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "http://purl.org/spar/cito/seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": 300,
-            "title": "OSM location of Serpent Column",
-            "uri": "https://pleiades.stoa.org/places/773739435/serpent-column"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "accuracy_value": 20.0,
-            "archaeologicalRemains": "traces",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-10-30T02:44:30Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "monument",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/monument",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    28.9753714,
-                    41.0059058
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2016-08-03T13:02:48Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2013-10-30T02:45:15Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-10-30T02:44:33Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "obelisk-of-theodosius",
-            "locationType": [
-                "representative",
-                ""
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/monument",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Node 415157637, version 6, osm:changeset=14153871, 2012-12-04T16:40:37Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/415157637",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 415157637",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=415157637",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Obelisk_of_Theodosius",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Obelisk of Theodosius",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Obelisk of Theodosius.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "http://purl.org/spar/cito/seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": 300,
-            "title": "OSM location of Obelisk of Theodosius",
-            "uri": "https://pleiades.stoa.org/places/773739435/obelisk-of-theodosius"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/circus",
-        "https://pleiades.stoa.org/vocabularies/place-types/monument"
+        "https://pleiades.stoa.org/vocabularies/place-types/circus"
     ],
     "placeTypes": [
-        "circus",
-        "monument"
+        "circus"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -436,8 +215,8 @@
         }
     ],
     "reprPoint": [
-        28.975025066666664,
-        41.0056665
+        28.9746077,
+        41.005444
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
