@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        30.701086,
-        24.565021,
-        30.703352,
-        24.567944
+        30.7161279,
+        24.5799485,
+        30.7171471,
+        24.5809144
     ],
     "connections": [],
     "connectsWith": [],
@@ -62,46 +62,66 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 79 D4 Kysis",
-    "details": "The Barrington Atlas Directory notes: Douch",
+    "details": "<p>The Barrington Atlas Directory notes: Douch</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    30.701086,
-                    24.565021
+                    [
+                        [
+                            30.716262,
+                            24.5799485
+                        ],
+                        [
+                            30.7161279,
+                            24.5808461
+                        ],
+                        [
+                            30.7166428,
+                            24.5809144
+                        ],
+                        [
+                            30.7171471,
+                            24.5805778
+                        ],
+                        [
+                            30.7170827,
+                            24.580329
+                        ],
+                        [
+                            30.7167179,
+                            24.5799827
+                        ],
+                        [
+                            30.716262,
+                            24.5799485
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-4270",
+            "id": "osm-location-of-qasr-dusch-ruins",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/776191/darmc-location-4270",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/776191/osm-location-of-qasr-dusch-ruins",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 4270"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    30.703352,
-                    24.567944
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-4285",
-            "properties": {
-                "description": "5M scale point location",
-                "link": "https://pleiades.stoa.org/places/776191/darmc-location-4285",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 4285"
+                "title": "OSM Location of Qasr Dusch Ruins"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata, update other references",
+            "modified": "2021-11-29T00:30:39Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-11-28T11:49:59Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2014-03-09T03:49:44Z",
@@ -147,9 +167,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -168,19 +188,23 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-01-31T19:56:22Z",
+            "created": "2021-11-28T11:45:08Z",
             "creators": [
                 {
-                    "name": "G. Wagner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 4270",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+            "details": "",
             "end": 640,
             "featureType": [
                 "unknown"
@@ -190,136 +214,91 @@
             ],
             "geometry": {
                 "coordinates": [
-                    30.701086,
-                    24.565021
+                    [
+                        [
+                            30.716262,
+                            24.5799485
+                        ],
+                        [
+                            30.7161279,
+                            24.5808461
+                        ],
+                        [
+                            30.7166428,
+                            24.5809144
+                        ],
+                        [
+                            30.7171471,
+                            24.5805778
+                        ],
+                        [
+                            30.7170827,
+                            24.580329
+                        ],
+                        [
+                            30.7167179,
+                            24.5799827
+                        ],
+                        [
+                            30.716262,
+                            24.5799485
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:23:32Z",
-                    "modifiedBy": "admin"
+                    "comment": "removed duplicate time period",
+                    "modified": "2021-11-28T11:50:59Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T19:56:24Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "archaeology: substantive",
+                    "modified": "2021-11-28T11:50:27Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2021-11-28T11:46:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-11-28T11:46:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-11-28T11:45:08Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-4270",
+            "id": "osm-location-of-qasr-dusch-ruins",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "provenance": "DARMC OBJECTID: 4270",
+            "provenance": "OpenStreetMap (Way 265695834, version 1, osm:changeset=21053259, 2014-03-11T21:12:18Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/265695834",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "4270",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 265695834",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 4270.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=265695834",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 4270",
-            "uri": "https://pleiades.stoa.org/places/776191/darmc-location-4270"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-31T19:56:24Z",
-            "creators": [
-                {
-                    "name": "G. Wagner",
-                    "username": null
-                }
-            ],
-            "description": "5M scale point location",
-            "details": "DARMC OBJECTID: 4285",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    30.703352,
-                    24.567944
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:23:33Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T19:56:25Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-4285",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 4285",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "4285",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 4285.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 4285",
-            "uri": "https://pleiades.stoa.org/places/776191/darmc-location-4285"
+            "title": "OSM Location of Qasr Dusch Ruins",
+            "uri": "https://pleiades.stoa.org/places/776191/osm-location-of-qasr-dusch-ruins"
         }
     ],
     "names": [
@@ -455,36 +434,36 @@
     "provenance": "Barrington Atlas: BAtlas 79 D4 Kysis",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "79 D4 Kysis",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 79 D4 Kysis",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/w.html#Wagner-1987-176-79",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2NV4AV2U",
+            "citationDetail": "176-79",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wagner 1987 176-79",
+            "formattedCitation": "<div class=\"csl-entry\">Wagner, Guy. <i>Les Oasis d’Egypte à l’époque Grecque, Romaine et Byzantine d’après Les Documents Grecs: Recherches de Papyrologie et d’épigraphie Grecques</i>. Bibliothèque d’étude, t. 1. Le Caire: Institut français d’archéologie orientale du Caire, 1987.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wagner 1987",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/2761",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 2761: Kysis (Dush)",
             "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
-            "formattedCitation": "TM, GEO ID 2761",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/seeAlso"
         },
         {
@@ -497,11 +476,33 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (German)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "4270 and 4285",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q2121433",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q2121433: Qasr Dush",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        30.702219,
-        24.5664825
+        30.716576454068555,
+        24.580441930453514
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        50.0,
-        15.0,
-        55.0,
-        20.0
+        52.2093989,
+        15.9270015,
+        52.2093989,
+        15.9270015
     ],
     "connections": [],
     "connectsWith": [],
@@ -51,43 +51,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            50.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            20.0
-                        ],
-                        [
-                            55.0,
-                            20.0
-                        ],
-                        [
-                            55.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            15.0
-                        ]
-                    ]
+                    52.2093989,
+                    15.9270015
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-ghubbat-al-qamar",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39419/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap, sourced from GNS",
+                "link": "https://pleiades.stoa.org/places/39419/osm-location-of-ghubbat-al-qamar",
+                "location_precision": "precise",
+                "snippet": "Bay",
+                "title": "OSM Location of Ghubbat al Qamar"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2021-11-29T00:26:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Finding bays (sinus) by their titles and setting feature types",
             "modified": "2012-03-20T22:14:16Z",
@@ -108,98 +93,87 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/geonet-names-server",
+            "accuracy_value": 1800.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
+            "attestations": [],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-09-22T22:06:31Z",
+            "created": "2021-11-28T12:09:06Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap, sourced from GNS",
             "details": "",
-            "end": 300,
+            "end": null,
             "featureType": [
-                "unknown"
+                "bay"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bay"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            50.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            20.0
-                        ],
-                        [
-                            55.0,
-                            20.0
-                        ],
-                        [
-                            55.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            15.0
-                        ]
-                    ]
+                    52.2093989,
+                    15.9270015
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:41:10Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2021-11-28T12:10:43Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-11-28T12:10:22Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-11-28T12:09:06Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-ghubbat-al-qamar",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bay"
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 D2 Sachalites Sinus",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1222092742, version 5, osm:changeset=81629183, 2020-02-29T20:24:31Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1222092742",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1222092742",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1222092742",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39419/batlas-location"
+            "start": null,
+            "title": "OSM Location of Ghubbat al Qamar",
+            "uri": "https://pleiades.stoa.org/places/39419/osm-location-of-ghubbat-al-qamar"
         }
     ],
     "names": [
@@ -260,42 +234,163 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/39419/sachalites-sinus"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Al Qamar Bay",
+            "contributors": [],
+            "created": "2021-11-28T12:19:24Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-11-28T12:19:51Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-11-28T12:19:26Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "al-qamar-bay",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/72011/ghubbat-al-qamar.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "72011: Ghubbat al Qamar",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Al Qamar Bay, Qamar Bay",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/39419/al-qamar-bay"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2021-11-28T12:21:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-11-28T12:21:33Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ghubbat-al-qamar",
+            "language": "ar",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/72011/ghubbat-al-qamar.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "72011: Ghubbat al Qamar",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ghubbat al Qamar",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/39419/ghubbat-al-qamar"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/water-open"
+        "https://pleiades.stoa.org/vocabularies/place-types/water-open",
+        "https://pleiades.stoa.org/vocabularies/place-types/bay"
     ],
     "placeTypes": [
-        "water-open"
+        "water-open",
+        "bay"
     ],
     "provenance": "Barrington Atlas: BAtlas 4 D2 Sachalites Sinus",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "4 D2 Sachalites Sinus",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 4 D2 Sachalites Sinus",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Beeston-1981",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3IAWD9KA",
+            "citationDetail": "357",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Beeston 1981, 357",
+            "formattedCitation": "<div class=\"csl-entry\">Beeston, A. L. F. “Book Review: The Periplus of the Erythraean Sea, by an Unknown Author.” <i>Bullschoorieafri Bulletin of the School of Oriental and African Studies, University of London</i> 44, no. 2 (1981): 353–58.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Beeston 1981",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        52.5,
-        17.5
+        52.2093989,
+        15.9270015
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
