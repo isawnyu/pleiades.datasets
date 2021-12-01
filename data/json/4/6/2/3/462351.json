@@ -1,33 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        14.242453,
-        37.247103,
-        14.242453,
-        37.247103
+        14.2634758,
+        37.236281,
+        14.2634758,
+        37.236281
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/462492",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:45:39Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype: \"on\"",
+                    "modified": "2021-11-30T20:26:32Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "462492",
             "provenance": "Pleiades",
             "references": [],
@@ -75,29 +88,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 47 E4 Monte Lavanca Nera",
+    "description": "A peak in south-central Sicily on which archaeological remains of a fortified settlement have been identified. The settlement's ancient name is unknown.",
     "details": "<p>The Barrington Atlas Directory notes: Monte Lavanca Nera, fortified center</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    14.242453,
-                    37.247103
+                    14.2634758,
+                    37.236281
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-28550",
+            "id": "osm-location-of-lavanca-nera",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/462351/darmc-location-28550",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/462351/osm-location-of-lavanca-nera",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 550 BC",
-                "title": "DARMC location 28550"
+                "snippet": "Mountain, ; AD 1700 - AD 2100",
+                "title": "OSM location of Lavanca Nera"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary",
+            "modified": "2021-11-30T20:27:56Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-11-30T20:26:55Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2018-07-07T22:11:18Z",
@@ -133,8 +156,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -142,76 +165,76 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:12:59Z",
+            "contributors": [],
+            "created": "2014-05-08T03:36:17Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 28550",
-            "end": -550,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    14.242453,
-                    37.247103
+                    14.2634758,
+                    37.236281
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:22:04Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-05-08T03:36:47Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:13:00Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-08T03:36:23Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-28550",
+            "id": "osm-location-of-lavanca-nera",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 28550",
+            "provenance": "OpenStreetMap (Node 2026726353, version 1, osm:changeset=13988733, 2012-11-22T17:55:51Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2026726353",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "28550",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2026726353",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 28550.",
+                    "formattedCitation": "osm:node=2026726353",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 28550",
-            "uri": "https://pleiades.stoa.org/places/462351/darmc-location-28550"
+            "start": 1700,
+            "title": "OSM location of Lavanca Nera",
+            "uri": "https://pleiades.stoa.org/places/462351/osm-location-of-lavanca-nera"
         }
     ],
     "names": [],
@@ -257,11 +280,22 @@
             "otherIdentifier": "",
             "shortTitle": "Adamesteanu 1958",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "28550",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        14.242453,
-        37.247103
+        14.2634758,
+        37.236281
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
