@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.0,
-        36.0,
-        23.5,
-        36.5
+        23.2016595,
+        36.4503568,
+        23.2016595,
+        36.4503568
     ],
     "connections": [
         {
@@ -81,38 +81,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            23.0,
-                            36.0
-                        ],
-                        [
-                            23.0,
-                            36.5
-                        ],
-                        [
-                            23.5,
-                            36.5
-                        ],
-                        [
-                            23.5,
-                            36.0
-                        ],
-                        [
-                            23.0,
-                            36.0
-                        ]
-                    ]
+                    23.2016595,
+                    36.4503568
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-akra-maleas",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570455/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Representative location of the cape based on an OpenStreetMap way associated with the Akra Maleas lighthouse.",
+                "link": "https://pleiades.stoa.org/places/570455/osm-location-of-akra-maleas",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 1700 - AD 2100",
+                "title": "OSM location of Akra Maleas"
             },
             "type": "Feature"
         }
@@ -178,95 +158,87 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-09-20T20:50:40Z",
+            "contributors": [],
+            "created": "2015-09-05T16:43:05Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location of the cape based on an OpenStreetMap way associated with the Akra Maleas lighthouse.",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            23.0,
-                            36.0
-                        ],
-                        [
-                            23.0,
-                            36.5
-                        ],
-                        [
-                            23.5,
-                            36.5
-                        ],
-                        [
-                            23.5,
-                            36.0
-                        ],
-                        [
-                            23.0,
-                            36.0
-                        ]
-                    ]
+                    23.2016595,
+                    36.4503568
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:31:15Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2017-11-20T04:25:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2015-09-05T16:43:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-09-05T16:43:09Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-akra-maleas",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 E5 Malea Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1431287198, version 5, osm:changeset=33263920, 2015-08-11T11:43:01Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1431287198",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1431287198",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1431287198",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570455/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Akra Maleas",
+            "uri": "https://pleiades.stoa.org/places/570455/osm-location-of-akra-maleas"
         }
     ],
     "names": [
@@ -324,6 +296,149 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/570455/Malea-Pr"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                }
+            ],
+            "attested": "Μαλειάων ὄρος",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2017-11-20T04:35:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -550,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-12-01T14:58:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "name",
+                    "modified": "2017-11-20T04:35:23Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "maleiaon-oros",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:3.276-3.328",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "Hom. Od. 3.287",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Maleiaon oros, Maleiáōn óros",
+            "start": -750,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/570455/maleiaon-oros"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Ακρωτήριο Μαλέας",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2015-09-05T17:19:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-12-01T15:00:47Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2021-12-01T15:00:04Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added name",
+                    "modified": "2015-09-05T17:19:54Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "akrotirio-maleas",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/257871/akra-maleas.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "formattedCitation": "GeoNames 261605",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/cites"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Akrotirio Maleas, Akroterio Maleas, Akrōtério Maléas, Maleas (Akrotirio)",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/570455/akrotirio-maleas"
         }
     ],
     "placeTypeURIs": [
@@ -446,8 +561,8 @@
         }
     ],
     "reprPoint": [
-        23.25,
-        36.25
+        23.2016595,
+        36.4503568
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
