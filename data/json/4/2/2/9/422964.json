@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.457349,
-        41.956119,
-        12.457349,
-        41.956119
+        12.4551076,
+        41.9564709,
+        12.4551076,
+        41.9564709
     ],
     "connections": [
         {
@@ -85,23 +85,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.457349,
-                    41.956119
+                    12.4551076,
+                    41.9564709
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20980",
+            "id": "osm-location",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/422964/darmc-location-20980",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/422964/osm-location",
                 "location_precision": "precise",
                 "snippet": "Villa, ; 30 BC - AD 640",
-                "title": "DARMC location 20980"
+                "title": "OSM location of Villa di Lucio Vero"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added DARMC reference to maintain linkage after retracting less precise location",
+            "modified": "2021-12-06T23:43:18Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2020-10-10T15:22:57Z",
@@ -177,60 +182,31 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                },
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                }
-            ],
-            "created": "2011-01-21T23:15:13Z",
+            "contributors": [],
+            "created": "2015-10-11T02:04:29Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 20980",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
                 "villa",
@@ -242,52 +218,126 @@
             ],
             "geometry": {
                 "coordinates": [
-                    12.457349,
-                    41.956119
+                    12.4551076,
+                    41.9564709
                 ],
                 "type": "Point"
             },
             "history": [
                 {
                     "comment": "Edited",
-                    "modified": "2014-02-22T20:40:22Z",
+                    "modified": "2016-10-02T14:34:04Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:56:07Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2016-05-21T15:20:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2015-10-11T02:05:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-10-11T02:04:33Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20980",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "representative",
+                ""
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/villa",
                 "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 20980",
+            "provenance": "OpenStreetMap (Node 3781542085, version 1, osm:changeset=34561152, 2015-10-11T02:04:00Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/3781542085",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20980",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 3781542085",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20980.",
+                    "formattedCitation": "osm:node=3781542085",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 20980",
-            "uri": "https://pleiades.stoa.org/places/422964/darmc-location-20980"
+            "title": "OSM location of Villa di Lucio Vero",
+            "uri": "https://pleiades.stoa.org/places/422964/osm-location"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Villa di Lucio Vero",
+            "contributors": [],
+            "created": "2016-10-02T15:08:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Modern toponym for the archaeological site.",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "ref. update",
+                    "modified": "2020-10-10T15:29:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added name",
+                    "modified": "2016-10-02T15:08:32Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "villa-di-lucio-vero",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/9847662/villa-di-lucio-vero.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "9847662: Villa di Lucio Vero",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Villa di Lucio Vero",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/422964/villa-di-lucio-vero"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/villa"
     ],
@@ -405,11 +455,22 @@
             "otherIdentifier": "",
             "shortTitle": "Arachne",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20980",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.457349,
-        41.956119
+        12.4551076,
+        41.9564709
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
