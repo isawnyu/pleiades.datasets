@@ -10,29 +10,61 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
             "connectsTo": "https://pleiades.stoa.org/places/432744",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:42:16Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "history": [],
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "type: part of (regional); Giudici 2020; 21st century",
+                    "modified": "2021-12-10T14:53:28Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "432744",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://fupress.com/capitoli/the-coastal-lakes-of-campi-flegrei-between-biodiversity-and-anthropization/4570",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PZH8H26S",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Giudici, Gabriella Nora Maria, Ferdinando Jannuzzi, Salvatore Patrizio, and Fabrizio Pisani Massamormile. “The coastal lakes of Campi Flegrei: between biodiversity and anthropization.” In <i>Eighth International Symposium “Monitoring of Mediterranean Coastal Areas. Problems and Measurement Techniques” Livorno (Italy) June 2020</i>, edited by Laura Bonora, Donatella Carboni, and Matteo De Vincenzi, 250–58. Proceedings e report. 2020: Firenze University Press, 2020. https://doi.org/10.36253/978-88-5518-147-1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Giudici 2020",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": 2000,
             "title": "Campi Phlegraei",
             "uri": "https://pleiades.stoa.org/places/432915/432744"
         }
@@ -71,7 +103,7 @@
             "username": null
         }
     ],
-    "description": "A small lake near Lake Avernus.",
+    "description": "A small lake near Lake Avernus, the modern Lucrino in Italy.",
     "details": "<p>The Barrington Atlas Directory notes: Lago Lucrino</p>",
     "features": [
         {
@@ -166,6 +198,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; added Giudici 2020",
+            "modified": "2021-12-10T14:52:12Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2019-08-10T14:50:58Z",
@@ -458,7 +495,14 @@
                 }
             ],
             "attested": "Lago di Lucrino",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-01-18T19:05:13Z",
             "creators": [
                 {
@@ -473,6 +517,11 @@
             "end": 2100,
             "history": [
                 {
+                    "comment": "alternate romanization",
+                    "modified": "2021-12-10T14:54:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "added name",
                     "modified": "2013-01-18T19:05:17Z",
                     "modifiedBy": "jbecker"
@@ -484,7 +533,7 @@
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "romanized": "Lago di Lucrino",
+            "romanized": "Lago di Lucrino, Lucrino (Lago di)",
             "start": 1700,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
@@ -643,10 +692,21 @@
             "otherIdentifier": "",
             "shortTitle": "GeoNames",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://fupress.com/capitoli/the-coastal-lakes-of-campi-flegrei-between-biodiversity-and-anthropization/4570",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PZH8H26S",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Giudici, Gabriella Nora Maria, Ferdinando Jannuzzi, Salvatore Patrizio, and Fabrizio Pisani Massamormile. “The coastal lakes of Campi Flegrei: between biodiversity and anthropization.” In <i>Eighth International Symposium “Monitoring of Mediterranean Coastal Areas. Problems and Measurement Techniques” Livorno (Italy) June 2020</i>, edited by Laura Bonora, Donatella Carboni, and Matteo De Vincenzi, 250–58. Proceedings e report. 2020: Firenze University Press, 2020. https://doi.org/10.36253/978-88-5518-147-1.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Giudici 2020",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        14.08011252387009,
+        14.080112523870092,
         40.829186561841595
     ],
     "review_state": "published",
