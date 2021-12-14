@@ -75,11 +75,16 @@ def main(**kwargs):
            'pleiades-places-latest.json.gz')
     local_filename = url.split('/')[-1]
     path = join('data', 'json', local_filename)
+    fetch_json = False
     try:
         modified = datetime.fromtimestamp(getmtime(path), timezone.utc)
     except FileNotFoundError:
-        modified = datetime.fromtimestamp(getmtime('LICENSE'), timezone.utc)
-    if modified.date() < datetime.today().date():
+        # modified = datetime.fromtimestamp(getmtime('LICENSE'), timezone.utc)
+        fetch_json = True
+    else:
+        if modified.date() < datetime.today().date():
+            fetch_json = True
+    if fetch_json:
         r = requests.get(url, stream=True)
         with open(path, 'wb') as f:
             for chunk in r.iter_content(chunk_size=1024):
