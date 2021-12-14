@@ -1,9 +1,10 @@
 #! /usr/local/bin/bash
 set -x
 
-PD_HOME=/Users/paregorios/Documents/files/P/pleiades.datasets
+SCRIPT_DIR=$(dirname "${BASH_SOURCE[0]}")
+cd $SCRIPT_DIR/..
+PD_HOME=$PWD
 
-cd $PD_HOME
 nice git checkout main
 nice git pull origin main
 nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/get_json.py -x
