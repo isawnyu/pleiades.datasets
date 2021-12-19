@@ -1,7 +1,99 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
+    "bbox": [
+        36.333333,
+        36.75,
+        36.333333,
+        36.75
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/658376",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2021-12-16T22:50:59Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "updated Cicero reference",
+                    "modified": "2021-12-17T21:58:11Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2021-12-17T21:39:23Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added cnxn and references",
+                    "modified": "2021-12-16T22:51:00Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "amanus-mountain-range",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Erana_(Cilicia)",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Erana",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://latin.packhum.org/loc/474/56/390/5295-5308",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KMEZI2ZD",
+                    "citationDetail": "15.4.9.1",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Cicero, Marcus Tullius. <i>Epistulae ad familiares</i>. Edited by David Roy Shackleton Bailey. 2 vols. Cambridge classical texts and commentaries 16–17. Cambridge: Cambridge University Press, 1977. https://latin.packhum.org/loc/474/56/0#0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Cic. Fam. (Shackleton Bailey: PHI)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 1037 see \"Erana\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Amanus (mountain range)",
+            "uri": "https://pleiades.stoa.org/places/662159/amanus-mountain-range"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/658376"
     ],
@@ -37,7 +129,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-10-19T11:46:03Z",
+    "created": "2021-12-17T21:41:45Z",
     "creators": [
         {
             "name": "T. Sinclair",
@@ -48,7 +140,7 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 67 unlocated Erana",
+    "description": "An ancient city in Cilicia, defeated by Roman troops under Cicero's command as governor of the Roman province of Cilicia. The city's precise location is not known, but it seems to have been located on the north side of the Amanus mountain range (the modern Nur Dağları in Turkey).",
     "details": "<p>The Barrington Atlas Directory notes: N side of Amanus M.</p>",
     "features": [
         {
@@ -65,6 +157,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; ptype + settlement; Cicero reference",
+            "modified": "2021-12-18T05:04:04Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added wikidata Q60791986: Erana",
             "modified": "2021-12-16T22:48:28Z",
@@ -248,10 +345,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 67 Erana",
     "references": [
@@ -287,9 +386,23 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://latin.packhum.org/loc/474/56/390/5295-5308#390",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KMEZI2ZD",
+            "citationDetail": "15.4.9.1",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Cicero, Marcus Tullius. <i>Epistulae ad familiares</i>. Edited by David Roy Shackleton Bailey. 2 vols. Cambridge classical texts and commentaries 16–17. Cambridge: Cambridge University Press, 1977. https://latin.packhum.org/loc/474/56/0#0.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Cic. Fam. (Shackleton Bailey: PHI)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        36.333333,
+        36.75
+    ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
