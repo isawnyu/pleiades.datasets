@@ -1,13 +1,63 @@
 {
     "@type": "Place",
     "bbox": [
-        31.5,
-        36.5,
-        32.0,
-        37.0
+        31.77389,
+        36.6044852,
+        31.7765118,
+        36.60682
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/639073",
+            "contributors": [],
+            "created": "2021-12-19T12:43:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-12-19T12:43:55Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ptolemais",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.academia.edu/19752896/Harmandar_C_S_Bezdan_M_Ptolemais_Antik_Kenti_Liman%C4%B1_ve_Fotogrametri_%C3%87al%C4%B1%C5%9Fmalar%C4%B1_18_Sualt%C4%B1_Bilim_ve_Teknoloji_Toplant%C4%B1s%C4%B1_%C4%B0zmir_2015_74_82?auto=download",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2FZPMS6D",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Harmandar, Celil Samet, and Mehmet Bezdan. “Ptolemais Antik Kenti Limanı ve Fotogrametri Çalışmaları.” İn <i>SBT 2015: 18. Sualti Bi̇li̇m ve Teknoloji̇ Toplantisi</i>, edited by F. Ozan DÜZBASTILAR. İzmir: Ege Üniversitesi, n.d. https://www.academia.edu/19752896/Harmandar_C_S_Bezdan_M_Ptolemais_Antik_Kenti_Liman%C4%B1_ve_Fotogrametri_%C3%87al%C4%B1%C5%9Fmalar%C4%B1_18_Sualt%C4%B1_Bilim_ve_Teknoloji_Toplant%C4%B1s%C4%B1_%C4%B0zmir_2015_74_82?auto=download.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Harmandar 2015",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Ptolemais",
+            "uri": "https://pleiades.stoa.org/places/638959/ptolemais"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/639073"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -32,7 +82,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2011-01-10T22:58:30Z",
+    "created": "2021-12-19T11:35:46Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -43,49 +93,57 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 65 G4 Leucolla Pr.",
-    "details": "The Barrington Atlas Directory notes: Fığla Burnu",
+    "description": "A small headland on Turkey's southern coast: modern Fığla/Fidan Burnu. Recent photgrammetrical, archaeological survey, and archival work indicates that this coastal feature was probably exploited as a port facility -- including construction of a Hellenistic era breakwater in the Aynalıgöl Koyu on the southeast side of the peninsula -- for the nearby city of Ptolemais.",
+    "details": "<p>The Barrington Atlas Directory notes: Fığla Burnu</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            31.5,
-                            36.5
-                        ],
-                        [
-                            31.5,
-                            37.0
-                        ],
-                        [
-                            32.0,
-                            37.0
-                        ],
-                        [
-                            32.0,
-                            36.5
-                        ],
-                        [
-                            31.5,
-                            36.5
-                        ]
-                    ]
+                    31.7765118,
+                    36.6044852
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/638959/osm-location",
+                "location_precision": "precise",
+                "snippet": "Cape, ; AD 1700 - AD 2100",
+                "title": "OSM location of modern lighthouse"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    31.77389,
+                    36.60682
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-of-fidan-burnu",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/638959/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "link": "https://pleiades.stoa.org/places/638959/geonames-location-of-fidan-burnu",
+                "location_precision": "precise",
+                "snippet": "Cape",
+                "title": "Geonames Location of Fidan Burnu"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; cleaned up references; added wikidata reference; added Harmandar 2015; updated Connections, Names",
+            "modified": "2021-12-19T17:52:32Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2021-12-19T11:35:45Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2015-04-15T20:25:36Z",
@@ -111,8 +169,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -120,102 +178,282 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2011-01-10T22:58:31Z",
+            "contributors": [],
+            "created": "2015-04-15T20:27:07Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cape",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            31.5,
-                            36.5
-                        ],
-                        [
-                            31.5,
-                            37.0
-                        ],
-                        [
-                            32.0,
-                            37.0
-                        ],
-                        [
-                            32.0,
-                            36.5
-                        ],
-                        [
-                            31.5,
-                            36.5
-                        ]
-                    ]
+                    31.7765118,
+                    36.6044852
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:29:38Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2015-04-15T20:27:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-04-15T20:27:11Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 65 G4 Leucolla Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 2966430323, version 1, osm:changeset=24186599, 2014-07-16T18:00:38Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2966430323",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2966430323",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2966430323",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/638959/batlas-location"
+            "start": 1700,
+            "title": "OSM location of modern lighthouse",
+            "uri": "https://pleiades.stoa.org/places/638959/osm-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2021-12-19T11:35:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "cape"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
+            ],
+            "geometry": {
+                "coordinates": [
+                    31.77389,
+                    36.60682
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-12-19T11:35:03Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "geonames-location-of-fidan-burnu",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/314948/fidan-burnu.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "314948: Fidan Burnu",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Geonames Location of Fidan Burnu",
+            "uri": "https://pleiades.stoa.org/places/638959/geonames-location-of-fidan-burnu"
         }
     ],
     "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Fığla Burnu",
+            "contributors": [],
+            "created": "2021-12-19T12:13:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2021-12-19T12:13:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-12-19T12:13:22Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "figla-burnu",
+            "language": "tr",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 1001 see \"Fığla Burnu\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://www.geonames.org/314948/fidan-burnu.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "314948: Fidan Burnu",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Fığla Burnu, Figla Burnu",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/638959/figla-burnu"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Fidan Burnu",
+            "contributors": [],
+            "created": "2021-12-19T12:14:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2021-12-19T12:14:43Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "fidan-burnu",
+            "language": "tr",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/314948/fidan-burnu.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "314948: Fidan Burnu",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Fidan Burnu",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/638959/fidan-burnu"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -356,47 +594,69 @@
     "provenance": "Barrington Atlas: BAtlas 65 G4 Leucolla Pr.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "65 G4 Leucolla Pr.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 65 G4 Leucolla Pr.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Leukolla-1",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Leukolla 1",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Leukolla 1",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DL%3Aentry+group%3D6%3Aentry%3Dleucolla-geo",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "LEUCOLLA",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
+            "otherIdentifier": " ",
+            "shortTitle": "Smith 1854 (Perseus)",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q34866590",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Fidan Burnu (Q34866590)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.academia.edu/19752896/Harmandar_C_S_Bezdan_M_Ptolemais_Antik_Kenti_Liman%C4%B1_ve_Fotogrametri_%C3%87al%C4%B1%C5%9Fmalar%C4%B1_18_Sualt%C4%B1_Bilim_ve_Teknoloji_Toplant%C4%B1s%C4%B1_%C4%B0zmir_2015_74_82?auto=download",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2FZPMS6D",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), LEUCOLLA",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "formattedCitation": "<div class=\"csl-entry\">Harmandar, Celil Samet, and Mehmet Bezdan. “Ptolemais Antik Kenti Limanı ve Fotogrametri Çalışmaları.” İn <i>SBT 2015: 18. Sualti Bi̇li̇m ve Teknoloji̇ Toplantisi</i>, edited by F. Ozan DÜZBASTILAR. İzmir: Ege Üniversitesi, n.d. https://www.academia.edu/19752896/Harmandar_C_S_Bezdan_M_Ptolemais_Antik_Kenti_Liman%C4%B1_ve_Fotogrametri_%C3%87al%C4%B1%C5%9Fmalar%C4%B1_18_Sualt%C4%B1_Bilim_ve_Teknoloji_Toplant%C4%B1s%C4%B1_%C4%B0zmir_2015_74_82?auto=download.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Harmandar 2015",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        31.75,
-        36.75
+        31.7752009,
+        36.6056526
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Leucolla Pr.",
+    "title": "Leucolla",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/638959"
 }
