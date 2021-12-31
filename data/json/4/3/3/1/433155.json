@@ -1,33 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        14.0,
-        41.0,
-        14.5,
-        41.5
+        14.3719823,
+        41.4494964,
+        14.4304727,
+        41.4596073
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
             "connectsTo": "https://pleiades.stoa.org/places/815",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:42:33Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype: part of (physical/topographic)",
+                    "modified": "2021-12-30T11:23:17Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "815",
             "provenance": "Pleiades",
             "references": [],
@@ -64,56 +77,64 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-11T23:30:12Z",
+    "created": "2021-12-30T11:20:49Z",
     "creators": [
         {
             "name": "N. Purcell",
             "username": null
         }
     ],
-    "description": "Tifernus M. (Monti Matese), a mountain chain that straddles Campania and Molise in the central-southern Apennines.",
-    "details": "The Barrington Atlas Directory notes: Monti del Matese",
+    "description": "Tifernus mons was the Roman name for the central portion of the modern Monti Matese, a mountain chain that straddles Campania and Molise in the central-southern Apennines.",
+    "details": "<p>The Barrington Atlas Directory notes: Monti del Matese</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            14.0,
-                            41.0
-                        ],
-                        [
-                            14.0,
-                            41.5
-                        ],
-                        [
-                            14.5,
-                            41.5
-                        ],
-                        [
-                            14.5,
-                            41.0
-                        ],
-                        [
-                            14.0,
-                            41.0
-                        ]
-                    ]
+                    14.3719823,
+                    41.4494964
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-monte-miletto",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/433155/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/433155/osm-location-of-monte-miletto",
+                "location_precision": "precise",
+                "snippet": "Mountain, ; AD 1700 - AD 2100",
+                "title": "OSM location of Monte Miletto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.4304727,
+                    41.4596073
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-monte-acerone",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/433155/osm-location-of-monte-acerone",
+                "location_precision": "precise",
+                "snippet": "Mountain, ; AD 1700 - AD 2100",
+                "title": "OSM location of Monte Acerone"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; removed erroneous CIL entry from BAtlDir: text is clearly about the river, not the mountain; cleaned up BAtlas and Nissen references; cleaned up and corrected KPauly reference, which had been garbled during original Pleiades import from BAtlDir; added Livy reference; added Smith reference, since he does a better job explaining what's going on in the sources than anything Purcell cited in BAtlDir; added New Pauly reference",
+            "modified": "2021-12-31T01:18:10Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2021-12-30T11:20:48Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "edited description; added references",
             "modified": "2013-08-14T05:09:19Z",
@@ -139,91 +160,167 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-11-11T23:30:13Z",
+            "contributors": [],
+            "created": "2013-08-31T17:47:23Z",
             "creators": [
                 {
-                    "name": "N. Purcell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            14.0,
-                            41.0
-                        ],
-                        [
-                            14.0,
-                            41.5
-                        ],
-                        [
-                            14.5,
-                            41.5
-                        ],
-                        [
-                            14.5,
-                            41.0
-                        ],
-                        [
-                            14.0,
-                            41.0
-                        ]
-                    ]
+                    14.3719823,
+                    41.4494964
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:04:33Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2013-08-31T17:47:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-08-31T17:47:25Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-monte-miletto",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 44 F3 Tifernus M.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1887062736, version 2, osm:changeset=16719058, 2013-06-26T21:15:20Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1887062736",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1887062736",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1887062736",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/433155/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Monte Miletto",
+            "uri": "https://pleiades.stoa.org/places/433155/osm-location-of-monte-miletto"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [],
+            "created": "2013-08-31T17:45:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "mountain",
+                ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "geometry": {
+                "coordinates": [
+                    14.4304727,
+                    41.4596073
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added location",
+                    "modified": "2013-08-31T17:45:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-08-31T17:45:24Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-monte-acerone",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "provenance": "OpenStreetMap (Node 2343906528, version 1, osm:changeset=16544298, 2013-06-13T23:36:24Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2343906528",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2343906528",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2343906528",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "OSM location of Monte Acerone",
+            "uri": "https://pleiades.stoa.org/places/433155/osm-location-of-monte-acerone"
         }
     ],
     "names": [
@@ -231,15 +328,18 @@
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "attested": "",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Tifernus mons",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -247,9 +347,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-11T23:30:12Z",
+            "created": "2021-12-30T11:41:33Z",
             "creators": [
                 {
                     "name": "N. Purcell",
@@ -258,8 +364,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "history": [
+                {
+                    "comment": "Latin; attested; romanized; Livy reference",
+                    "modified": "2021-12-31T01:18:24Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:04:33Z",
@@ -267,67 +378,28 @@
                 }
             ],
             "id": "Tifernus-M",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 44 F3 Tifernus M.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/914/1/513/1021-1029#513",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MCDKGDL9",
+                    "citationDetail": "10.30.7",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Titus Livius. <i>Titi Livi Ab Urbe Condita</i>. 5 vols. Clarendon: Oxford U.P, 1908. https://latin.packhum.org/loc/914/1/0#0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Liv. (OCT: PHI)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
-            "romanized": "Tifernus M.",
-            "start": null,
+            "romanized": "Tifernus mons",
+            "start": -30,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/433155/Tifernus-M"
-        },
-        {
-            "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "attested": "",
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T23:30:12Z",
-            "creators": [
-                {
-                    "name": "N. Purcell",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:04:33Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "Prifernus-M",
-            "language": "",
-            "nameType": "geographic",
-            "provenance": "Barrington Atlas: BAtlas 44 F3 Tifernus M.",
-            "references": [],
-            "review_state": "published",
-            "romanized": "Prifernus M.",
-            "start": null,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/433155/Prifernus-M"
         }
     ],
     "placeTypeURIs": [
@@ -339,47 +411,36 @@
     "provenance": "Barrington Atlas: BAtlas 44 F3 Tifernus M.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "44 F3 Tifernus M.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 44 F3 Tifernus M.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/929265929",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNVN3E2D",
+            "citationDetail": "786",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Nissen, Heinrich. <i>Italische Landeskunde. 2 : Die Staedte</i>. Amsterdam: Hakkert, 1967. http://www.worldcat.org/oclc/929265929.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Nissen II",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/c.html#CIL-9.5959",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6SG8TIST",
+            "citationDetail": "Tifernus",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "CIL 9.5959",
+            "formattedCitation": "<div class=\"csl-entry\">Ziegler, Konrat, Walther Sontheimer, and August Friedrich von Pauly. <i>Der Kleine Pauly: Lexikon der Antike. Auf der Grundlage von Pauly’s Realencyclopädie der classischen Altertumswissenschaft</i>. 5 vols. Stuttgart: A. Druckenmüller, 1964.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/n.html#Nissen-II",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Nissen II, 786",
-            "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/k.html#KlPauly-Tifernus-M.-§-Prifernus-M.",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "KlPauly Tifernus M. § Prifernus M.",
-            "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "KlPauly",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -392,16 +453,49 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://latin.packhum.org/loc/914/1/513/1021-1029#513",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MCDKGDL9",
+            "citationDetail": "10.30.7",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Titus Livius. <i>Titi Livi Ab Urbe Condita</i>. 5 vols. Clarendon: Oxford U.P, 1908. https://latin.packhum.org/loc/914/1/0#0.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Liv. (OCT: PHI)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=tifernus-geo",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "TIFERNUS",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Smith 1854 (Perseus)",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e1213930",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Tifernus",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "New Pauly",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        14.25,
-        41.25
+        14.401227500000001,
+        41.45455185
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Tifernus M.",
+    "title": "Tifernus (mountain)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/433155"
 }
