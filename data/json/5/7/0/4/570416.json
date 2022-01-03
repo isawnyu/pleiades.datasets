@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.5,
-        36.5,
-        23.0,
-        37.0
+        22.564,
+        36.754,
+        22.564,
+        36.754
     ],
     "connections": [],
     "connectsWith": [],
@@ -12,6 +12,12 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -32,7 +38,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-20T20:49:47Z",
+    "created": "2022-01-01T20:58:55Z",
     "creators": [
         {
             "name": "G. Reger",
@@ -44,48 +50,38 @@
         }
     ],
     "description": "Mt. Koumarou.",
-    "details": "The Barrington Atlas Directory notes: Mt. Koumarou",
+    "details": "<p>The Barrington Atlas Directory notes: Mt. Koumarou</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.5,
-                            36.5
-                        ],
-                        [
-                            22.5,
-                            37.0
-                        ],
-                        [
-                            23.0,
-                            37.0
-                        ],
-                        [
-                            23.0,
-                            36.5
-                        ],
-                        [
-                            22.5,
-                            36.5
-                        ]
-                    ]
+                    22.564,
+                    36.754
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "imagery-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570416/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Coordinates following GeoHack",
+                "link": "https://pleiades.stoa.org/places/570416/imagery-location",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 2000 - AD 2099",
+                "title": "Imagery location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-01-02T12:54:00Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-01-01T20:58:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
             "modified": "2021-03-01T22:40:43Z",
@@ -116,95 +112,77 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-20T20:49:47Z",
+            "contributors": [],
+            "created": "2022-01-01T20:58:35Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Coordinates following GeoHack",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.5,
-                            36.5
-                        ],
-                        [
-                            22.5,
-                            37.0
-                        ],
-                        [
-                            23.0,
-                            37.0
-                        ],
-                        [
-                            23.0,
-                            36.5
-                        ],
-                        [
-                            22.5,
-                            36.5
-                        ]
-                    ]
+                    22.564,
+                    36.754
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:30:49Z",
-                    "modifiedBy": "admin"
+                    "comment": "added imagery location",
+                    "modified": "2022-01-01T20:58:39Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "imagery-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 D4 Larysion M.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://geohack.toolforge.org/geohack.php?params=36.754_N_22.564_E_globe:earth&language=en",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "GeoHack (36.754; 22.564)",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570416/batlas-location"
+            "start": 2000,
+            "title": "Imagery location",
+            "uri": "https://pleiades.stoa.org/places/570416/imagery-location"
         }
     ],
     "names": [
@@ -212,15 +190,18 @@
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "attested": "",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Λαρύσιον",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -228,23 +209,45 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-09-20T20:49:47Z",
+            "created": "2022-01-01T21:02:41Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
-                    "name": "G. Reger",
+                    "name": "J. McK. Camp II",
                     "username": null
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "history": [
+                {
+                    "comment": "reference, Greek orthography, time period",
+                    "modified": "2022-01-02T12:53:32Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2022-01-01T21:02:40Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
                     "modified": "2021-03-01T22:40:44Z",
@@ -260,10 +263,22 @@
             "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 58 D4 Larysion M.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.22.2",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+                    "citationDetail": "3.22.2",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Paus. (Spiro: Perseus)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Larysion",
-            "start": null,
+            "start": -30,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/570416/Larysion-M"
@@ -278,42 +293,64 @@
     "provenance": "Barrington Atlas: BAtlas 58 D4 Larysion M.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "58 D4 Larysion M.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 58 D4 Larysion M.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:3.22.2",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+            "citationDetail": "3.22.2",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Paus. 3.22.2",
+            "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Paus. (Spiro: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:id=gythium-geo",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "GYTHIUM",
             "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
-            "formattedCitation": "Smith 1854 (Perseus), GYTHIUM",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "http://purl.org/spar/cito/seeAlso"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q16328367",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q16328367: Larysion",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/368228LLar",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Larysion Mt. (Lakonia)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        22.75,
-        36.75
+        22.564,
+        36.754
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
