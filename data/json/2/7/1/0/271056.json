@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        0.1633256,
+        38.7893909,
+        0.6267842,
+        41.6147605
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -31,30 +36,64 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-24T18:58:35Z",
+    "created": "2022-01-04T20:58:24Z",
     "creators": [
         {
             "name": "P.O. Spann",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 27 unlocated Ilerda",
-    "details": "The Barrington Atlas Directory notes: Javea? (or Lérida N R. Ebro). Name known only from Avienus; otherwise unattested.",
+    "description": "An ancient settlement reported only by the 4th century CE Roman poet Avienus, who places it on the east coast of the Iberian peninsula. If it is not a fiction, it might be identified as either modern Javea or modern Lérida, north of the river Ebro.",
+    "details": "<p>The Barrington Atlas Directory notes: Javea? (or Lérida N R. Ebro). Name known only from Avienus; otherwise unattested.</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    0.1633256,
+                    38.7893909
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-modern-xabia-javea",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/271056/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/271056/osm-location-of-modern-xabia-javea",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1900 - AD 2099",
+                "title": "OSM location of modern Xàbia / Jávea"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.6267842,
+                    41.6147605
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-modern-la-c-rida",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/271056/osm-location-of-modern-la-c-rida",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1900 - AD 2099",
+                "title": "OSM Location of modern Lérida"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type += settlement; cleaned up references",
+            "modified": "2022-01-05T02:56:53Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-01-04T20:58:24Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2021-11-13T19:08:57Z",
@@ -80,69 +119,217 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
             "contributors": [
                 {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-24T18:58:36Z",
+            "created": "2022-01-04T21:15:03Z",
             "creators": [
                 {
-                    "name": "P.O. Spann",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    0.1633256,
+                    38.7893909
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:55:00Z",
-                    "modifiedBy": "admin"
+                    "comment": "added 20th century and BAtlDir reference",
+                    "modified": "2022-01-05T02:56:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2022-01-04T21:15:03Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2022-01-02T16:50:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2021-11-13T19:10:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-11-13T19:10:16Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-xabia-javea",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 27 Ilerda",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 258337724, version 11, osm:changeset=91926253, 2020-10-04T09:48:47Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/258337724",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 258337724",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=258337724",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 453 see \"Ilerda\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/271056/batlas-location"
+            "start": 1900,
+            "title": "OSM location of modern Xàbia / Jávea",
+            "uri": "https://pleiades.stoa.org/places/271056/osm-location-of-modern-xabia-javea"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2022-01-04T21:13:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    0.6267842,
+                    41.6147605
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-01-04T21:14:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-01-04T21:13:13Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-of-modern-la-c-rida",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 124083658, version 39, osm:changeset=84122605, 2020-04-25T21:42:04Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/124083658",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 124083658",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=124083658",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 453 see \"Ilerda\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1900,
+            "title": "OSM Location of modern Lérida",
+            "uri": "https://pleiades.stoa.org/places/271056/osm-location-of-modern-la-c-rida"
         }
     ],
     "names": [
@@ -204,10 +391,12 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
         "unlocated",
+        "settlement",
         "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 27 Ilerda",
@@ -215,38 +404,30 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 453 see \"Ilerda\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 27 Ilerda",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlDir",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/164594055",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#THA-133-34",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "THA 133-34",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ABQE4A2G",
+            "citationDetail": "133-134",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Avienus, Rufius Festus. <i>Avieno, Ora maritima: descriptio orbis terrae phaenomena</i>. Edited by Julio Mangas and D Plácido. Testimonia Hispaniae Antiqua 1. Madrid: Ed. Historia 2000, 1994. http://www.worldcat.org/oclc/164594055.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#Avienus-475",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Avienus 475",
-            "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "shortTitle": "THA 1",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        0.3950549,
+        40.2020757
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
