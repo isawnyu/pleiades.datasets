@@ -6,8 +6,66 @@
         -6.220387,
         36.3788516
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/256138",
+            "contributors": [],
+            "created": "2022-01-13T17:33:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-01-13T17:33:21Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "cotinussa-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/36156421",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PCC822HP",
+                    "citationDetail": "page 88 see \"HERAKLEION\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Alarcão, Jorge de, Adela Cepas, José Ignacio Reguera Cardiel, Angela Alonso Sánchez, and Union académique internationale, eds. <i>Tabula Imperii Romani. Hoja J-29 : Lisboa : Emerita, Scallabis, Pax Iulia, Gades: sobre la base cartográfica del mapa a escala 1:1000000 del IGN</i>. Tabula Imperii Romani, J-29. Madrid: Consejo Superior de Investigaciones Cientificas : Ministerio de Obras Públicas, Transportes y Medio Ambiente, Instituto Geográfico Nacional : Ministerio de Cultura, 1995. http://www.worldcat.org/oclc/36156421.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TIR Emerita",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Cotinussa (island)",
+            "uri": "https://pleiades.stoa.org/places/256197/cotinussa-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/256138",
+        "https://pleiades.stoa.org/places/copy_of_255953"
+    ],
     "contributors": [
         {
             "name": "R. Warner",
@@ -36,7 +94,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-09T19:34:32Z",
+    "created": "2022-01-10T16:20:52Z",
     "creators": [
         {
             "name": "Jr.",
@@ -51,8 +109,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 26 D5 Herakleion",
-    "details": "The Barrington Atlas Directory notes: on Isla Sancti Petri",
+    "description": "An ancient sanctuary of Hercules (Melqart) that Strabo places at one end of the long island occupied by ancient Gades (Cotinussa). Significant landscape and coastal change have occurred since antiquity, disrupting the integrity of the island. Modern scholars have consistently identified the location of the sanctuary as at or near the 17th-18th century Castillio de Sancti Petri, which today occupies a separate homonymous islet. Archaeological finds possibly associated with the sanctuary have been made in the vicinity (both terrestrial and underwater) over the years, but precise location of foundations or other identifiable architecture have remained elusive.",
+    "details": "<p>The Barrington Atlas Directory notes: on Isla Sancti Petri</p>",
     "features": [
         {
             "geometry": {
@@ -74,6 +132,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "added Léon 2022; summary; place type = sanctuary; cleaned up TIR reference; added Strabo reference; cleaned up BAtlas reference; added Connection to Cotinussa island; summary; wikipedia",
+            "modified": "2022-01-13T20:19:22Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2022-01-10T16:20:52Z",
@@ -261,34 +324,69 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
         "https://pleiades.stoa.org/vocabularies/place-types/island"
     ],
     "placeTypes": [
+        "sanctuary",
         "island"
     ],
     "provenance": "Barrington Atlas: BAtlas 26 D5 Herakleion",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "26 D5 Herakleion",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 26 D5 Herakleion",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/36156421",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Emerita-88",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PCC822HP",
+            "citationDetail": "page 88 see \"HERAKLEION\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Alarcão, Jorge de, Adela Cepas, José Ignacio Reguera Cardiel, Angela Alonso Sánchez, and Union académique internationale, eds. <i>Tabula Imperii Romani. Hoja J-29 : Lisboa : Emerita, Scallabis, Pax Iulia, Gades: sobre la base cartográfica del mapa a escala 1:1000000 del IGN</i>. Tabula Imperii Romani, J-29. Madrid: Consejo Superior de Investigaciones Cientificas : Ministerio de Obras Públicas, Transportes y Medio Ambiente, Instituto Geográfico Nacional : Ministerio de Cultura, 1995. http://www.worldcat.org/oclc/36156421.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TIR Emerita",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.diariodecadiz.es/ocio/templo-Melkart-no-existe_0_1645335848.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IVVC36VU",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Emerita 88",
+            "formattedCitation": "<div class=\"csl-entry\">Léon, Virginia. “La plataforma del supuesto templo de Melkart bajo el agua no existe, ha sido un error del software.” <i>Diario de Cádiz</i>, January 7, 2022, sec. Cultura. https://www.diariodecadiz.es/ocio/templo-Melkart-no-existe_0_1645335848.html.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Léon 2022",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:3.5.3",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "citationDetail": "3.5.3",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Str. (Meineke: Perseus)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.zotero.org/groups/2533/items/LPYQ8SZL",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LPYQ8SZL",
+            "citationDetail": "Castillo de Sancti Petri",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: la enciclopedia de contenido libre</i>. Wikimedia Foundation, 2001. https://es.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (Spanish)",
+            "type": "http://purl.org/spar/cito/seeAlso"
         }
     ],
     "reprPoint": [
