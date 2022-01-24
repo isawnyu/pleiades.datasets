@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.5,
-        45.5,
-        13.0,
-        46.0
+        12.6589694,
+        45.6743479,
+        12.6594654,
+        45.6748304
     ],
     "connections": [],
     "connectsWith": [],
@@ -32,7 +32,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-15T18:30:51Z",
+    "created": "2022-01-23T13:06:19Z",
     "creators": [
         {
             "name": "M. Pearce",
@@ -47,49 +47,63 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 40 D1 unnamed bridge (at Ceggia, Fondo Loro, further from (H)Eraclia)",
-    "details": "The Barrington Atlas Directory notes: at Ceggia, Fondo Loro, further from (H)Eraclia",
+    "description": "Excavated remains of a Roman bridge located on the modern Via Ponte Romano about 2km southest of Ceggia (Veneto), Italy. Aerial/satellite photographs often show crop marking corresponding to the associated Roman road and now-diverted watercourse spanned by the bridge.",
+    "details": "<p>The Barrington Atlas Directory notes: at Ceggia, Fondo Loro, further from (H)Eraclia</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            12.5,
-                            45.5
+                            12.6592291,
+                            45.6743479
                         ],
                         [
-                            12.5,
-                            46.0
+                            12.6590996,
+                            45.6743844
                         ],
                         [
-                            13.0,
-                            46.0
+                            12.6589694,
+                            45.6744211
                         ],
                         [
-                            13.0,
-                            45.5
+                            12.6592057,
+                            45.6748304
                         ],
                         [
-                            12.5,
-                            45.5
+                            12.6594654,
+                            45.6747572
+                        ],
+                        [
+                            12.6592291,
+                            45.6743479
                         ]
                     ]
                 ],
                 "type": "Polygon"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-ponte-romano",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/394872/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap: protected archaeological area surrounding the remains of the ancient stone bridge. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/394872/osm-location-of-ponte-romano",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site, Bridge; 30 BC - AD 300",
+                "title": "OSM Location of Ponte Romano "
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; cleaned up legacy references; archeoveneto reference",
+            "modified": "2022-01-23T15:24:09Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-01-23T13:06:18Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2014-02-11T20:43:30Z",
@@ -110,9 +124,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -121,76 +135,61 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2022-01-23T12:54:24Z",
+            "creators": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-15T18:30:52Z",
-            "creators": [
-                {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "R. Peretto",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
-                }
-            ],
-            "description": "",
+            "description": "Location based on OpenStreetMap: protected archaeological area surrounding the remains of the ancient stone bridge. Dates after BAtlas.",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "archaeological-site",
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            12.5,
-                            45.5
+                            12.6592291,
+                            45.6743479
                         ],
                         [
-                            12.5,
-                            46.0
+                            12.6590996,
+                            45.6743844
                         ],
                         [
-                            13.0,
-                            46.0
+                            12.6589694,
+                            45.6744211
                         ],
                         [
-                            13.0,
-                            45.5
+                            12.6592057,
+                            45.6748304
                         ],
                         [
-                            12.5,
-                            45.5
+                            12.6594654,
+                            45.6747572
+                        ],
+                        [
+                            12.6592291,
+                            45.6743479
                         ]
                     ]
                 ],
@@ -198,55 +197,80 @@
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:41:31Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2022-01-23T13:00:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-01-23T12:54:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-01-23T12:54:24Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-ponte-romano",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 40 D1",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 381188893, version 2, osm:changeset=56518770, 2018-02-20T12:12:31Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/381188893",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 381188893",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=381188893",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/394872/batlas-location"
+            "title": "OSM Location of Ponte Romano ",
+            "uri": "https://pleiades.stoa.org/places/394872/osm-location-of-ponte-romano"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+        "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "bridge"
+        "bridge",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 40 D1",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "40 D1",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 40 D1",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/c.html#CAV-I",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/D6UB5BGS",
+            "citationDetail": "212",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "CAV I, 212",
+            "formattedCitation": "<div class=\"csl-entry\">L Capuis, G Leonardi, S Pesavento Mattioli, and G Rosada, eds. <i>Carta Archeologica Del Veneto I</i>. Modena, 1988.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "CAV I",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -254,21 +278,32 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Ceggia",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Ceggia.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
+            "type": "http://purl.org/spar/cito/seeAlso"
+        },
+        {
+            "accessURI": "http://www.archeoveneto.it/portale/?page_id=131&recid=119",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K9QPSBME",
+            "citationDetail": "131.119: Ponte romano – Ceggia",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Regione del Veneto, Dip.to di Archeologia, Università di Padova, and Soprintendenza per i Beni Archeologici del Veneto. <i>ArcheoVeneto</i>. Edited by Giulio Bodon, Jacopo Bonetto, Francesca Ghedini, and Vincenzo Tiné. Accessed January 23, 2022. https://www.archeoveneto.it/portale/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ArcheoVeneto",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        12.75,
-        45.75
+        12.659217399968028,
+        45.674589149886565
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Ponte romano – Ceggia",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/394872"
 }
