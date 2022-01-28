@@ -1,12 +1,72 @@
 {
     "@type": "Place",
     "bbox": [
-        12.75,
-        41.5,
-        13.0,
-        41.75
+        12.9501558,
+        41.5033097,
+        12.9506299,
+        41.5036786
     ],
     "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/356966898",
+            "contributors": [],
+            "created": "2022-01-27T18:46:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-01-27T18:46:52Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "via-appia",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "43 D3 58",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Via Appia",
+            "uri": "https://pleiades.stoa.org/places/426634/via-appia"
+        },
         {
             "@type": "Connection",
             "associationCertainty": "certain",
@@ -58,6 +118,7 @@
         }
     ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/356966898",
         "https://pleiades.stoa.org/places/690508612"
     ],
     "contributors": [
@@ -84,7 +145,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-10T22:29:44Z",
+    "created": "2022-01-23T13:45:47Z",
     "creators": [
         {
             "name": "L. Quilici",
@@ -95,49 +156,54 @@
             "username": null
         }
     ],
-    "description": "A Roman bridge located along the Via Amerina outside Civita Castellana.",
-    "details": "<p>The Barrington Atlas Directory notes: bridge (Ponte tre Ponti)</p>",
+    "description": "A Roman bridge located on the Via Appia at modern Tor Tre Ponti.",
+    "details": "<p>Not to be confused with the <a class=\"external-link\" href=\"https://pleiades.stoa.org/places/414506\" target=\"_self\" title=\"\">Ponte sul Fosso Tre Ponti</a> on the Via Amerina between ancient Nepet and Falerii.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            12.75,
-                            41.5
+                            12.9505286,
+                            41.5033097
                         ],
                         [
-                            12.75,
-                            41.75
+                            12.9501558,
+                            41.5036075
                         ],
                         [
-                            13.0,
-                            41.75
+                            12.9502571,
+                            41.5036786
                         ],
                         [
-                            13.0,
-                            41.5
+                            12.9506299,
+                            41.5033808
                         ],
                         [
-                            12.75,
-                            41.5
+                            12.9505286,
+                            41.5033097
                         ]
                     ]
                 ],
                 "type": "Polygon"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-ponte-traiano",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/426634/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap. Dates after BAtlDir",
+                "link": "https://pleiades.stoa.org/places/426634/osm-location-of-ponte-traiano",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 640",
+                "title": "OSM Location of Ponte Traiano"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; cleaned up legacy references; removed incorrect vici reference; title; details; added Wikipedia reference; added Via Appia connection (Via Amerina connection in baseline should be deleted); added OSM Location (generic BAtlas gridsquare location in baseline should be deleted), added modern Names and map labels.",
+            "modified": "2022-01-27T21:04:26Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2020-12-20T20:10:23Z",
@@ -173,9 +239,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -192,64 +258,47 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-10T22:29:45Z",
+            "contributors": [],
+            "created": "2022-01-27T18:39:46Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap. Dates after BAtlDir",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            12.75,
-                            41.5
+                            12.9505286,
+                            41.5033097
                         ],
                         [
-                            12.75,
-                            41.75
+                            12.9501558,
+                            41.5036075
                         ],
                         [
-                            13.0,
-                            41.75
+                            12.9502571,
+                            41.5036786
                         ],
                         [
-                            13.0,
-                            41.5
+                            12.9506299,
+                            41.5033808
                         ],
                         [
-                            12.75,
-                            41.5
+                            12.9505286,
+                            41.5033097
                         ]
                     ]
                 ],
@@ -257,27 +306,227 @@
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:58:37Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-01-27T18:42:05Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-01-27T18:39:47Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-ponte-traiano",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 43 D3 58",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 401420900, version 1, osm:changeset=37588631, 2016-03-03T14:51:59Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/401420900",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 401420900",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=401420900",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 633 see \"No. 58 D3 bridge (Ponte tre Ponti)\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/426634/batlas-location"
+            "title": "OSM Location of Ponte Traiano",
+            "uri": "https://pleiades.stoa.org/places/426634/osm-location-of-ponte-traiano"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Ponte di Traiano",
+            "contributors": [],
+            "created": "2022-01-27T18:44:08Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-01-27T18:44:10Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ponte-di-traiano",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://it.wikipedia.org/wiki/Tor_Tre_Ponti",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
+                    "citationDetail": "Tor Tre Ponti",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ponte di Traiano",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/426634/ponte-di-traiano"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Ponte tre Ponti",
+            "contributors": [],
+            "created": "2022-01-27T18:45:25Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-01-27T18:45:26Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ponte-tre-ponti",
+            "language": "it",
+            "nameType": "label",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://it.wikipedia.org",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 633 see \"No. 58 D3 bridge (Ponte tre Ponti)\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ponte tre Ponti",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/426634/ponte-tre-ponti"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Ponte Traiano",
+            "contributors": [],
+            "created": "2022-01-27T18:48:09Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-01-27T18:48:09Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ponte-traiano",
+            "language": "it",
+            "nameType": "label",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/way/401420900",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Way: Ponte Traiano (401420900)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ponte Traiano",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/426634/ponte-traiano"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/bridge"
     ],
@@ -300,24 +549,13 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/q.html#Quilici-1990",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/W379H5RU",
+            "citationDetail": "52-53",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Quilici 1990, 52-53",
+            "formattedCitation": "<div class=\"csl-entry\">Quilici Gigli, Stefania, ed. <i>La Via Appia: Decimo Incontro Di Studio Del Comitato per l’archeologia Laziale</i>. Quaderni Del Centro Di Studio per l’archeologia Etrusco-Italica 18. Roma: Consiglio nazionale delle ricerche, 1990.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Quilici Gigli 1990",
             "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "http://vici.org/vici/11742",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
-            "citationDetail": "11742: Ponte sul Fosso Tre Ponti",
-            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
-            "otherIdentifier": " ",
-            "shortTitle": "vici.org",
-            "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
             "accessURI": "",
@@ -329,11 +567,22 @@
             "otherIdentifier": "",
             "shortTitle": "Antonelli 1995",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://it.wikipedia.org/wiki/Tor_Tre_Ponti",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
+            "citationDetail": "Tor Tre Ponti",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (Italian)",
+            "type": "http://purl.org/spar/cito/seeAlso"
         }
     ],
     "reprPoint": [
-        12.875,
-        41.625
+        12.95039285,
+        41.50349415
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -344,7 +593,7 @@
         "opus caementicium",
         "tuff"
     ],
-    "title": "Ponte Tre Ponti",
+    "title": "Ponte di Traiano at Tor Tre Ponti",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/426634"
 }
