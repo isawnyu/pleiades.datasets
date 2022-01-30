@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2022/01/23 06:47:27.574615 US/Eastern
+# Date: 2022/01/30 06:47:27.963043 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 928
+# Triple count: 934
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -524,6 +524,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "milestone"@en;
     skos:scopeNote "A milestone as defined by the Getty Art and Architecture Thesaurus: Stones, slabs, or pillars of any material, set by the side of a road to mark distances between one point and another; most often distances between cities."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/military-base> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/military-base>,
+        <http://vocab.getty.edu/aat/300000455>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "military base"@en;
+    skos:scopeNote "A military base as defined by the Getty Art and Architecture Thesaurus."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/military-installation-or-camp-temporary> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/military-installation-or-camp-temporary>;
