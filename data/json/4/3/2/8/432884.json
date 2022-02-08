@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.787207,
-        41.44039,
-        13.787207,
-        41.44039
+        13.753783,
+        41.4273675,
+        13.7543516,
+        41.4277737
     ],
     "connections": [
         {
@@ -88,23 +88,48 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.787207,
-                    41.44039
+                    [
+                        [
+                            13.7541209,
+                            41.4273675
+                        ],
+                        [
+                            13.753783,
+                            41.4275807
+                        ],
+                        [
+                            13.7540136,
+                            41.4277737
+                        ],
+                        [
+                            13.7543516,
+                            41.4275525
+                        ],
+                        [
+                            13.7541209,
+                            41.4273675
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-18054",
+            "id": "osm-location-of-interamna-linares",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/432884/darmc-location-18054",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/432884/osm-location-of-interamna-linares",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 18054"
+                "snippet": "Theatre; 30 BC - AD 300",
+                "title": "OSM location of Interamna Linares"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2022-02-06T13:07:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "EDH 12313: Interamna Lirenas – Pignataro Interamna (Termine)",
             "modified": "2022-02-06T02:28:20Z",
@@ -190,18 +215,12 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -209,67 +228,89 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:08:31Z",
+            "contributors": [],
+            "created": "2022-02-06T02:24:02Z",
             "creators": [
                 {
-                    "name": "N. Purcell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18054",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "theatre"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre"
             ],
             "geometry": {
                 "coordinates": [
-                    13.787207,
-                    41.44039
+                    [
+                        [
+                            13.7541209,
+                            41.4273675
+                        ],
+                        [
+                            13.753783,
+                            41.4275807
+                        ],
+                        [
+                            13.7540136,
+                            41.4277737
+                        ],
+                        [
+                            13.7543516,
+                            41.4275525
+                        ],
+                        [
+                            13.7541209,
+                            41.4273675
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:00:41Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-02-06T02:24:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-02-06T02:24:02Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18054",
+            "id": "osm-location-of-interamna-linares",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre"
             ],
-            "provenance": "DARMC OBJECTID: 18054",
+            "provenance": "OpenStreetMap (Way 624476083, version 2, osm:changeset=117065869, 2022-02-06T02:23:12Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/624476083",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18054",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 624476083",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18054.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=624476083",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 18054",
-            "uri": "https://pleiades.stoa.org/places/432884/darmc-location-18054"
+            "start": -30,
+            "title": "OSM location of Interamna Linares",
+            "uri": "https://pleiades.stoa.org/places/432884/osm-location-of-interamna-linares"
         }
     ],
     "names": [
@@ -393,6 +434,86 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/432884/interamnion"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Interamnates Sucasini",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2022-02-06T02:12:09Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-02-06T13:08:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "name",
+                    "modified": "2022-02-06T02:12:11Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "interamnates-sucasini",
+            "language": "la",
+            "nameType": "ethnic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/0#238",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.64.5",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/470975107",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JUJMFW2M",
+                    "citationDetail": "341",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Oakley, Stephen P. <i>A Commentary on Livy, Books VI-X. Volume III, Volume III,</i>. Oxford: Clarendon Press, 2005. http://www.worldcat.org/oclc/470975107.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Oakley 2005 v. III",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Interamnates Sucasini",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/432884/interamnates-sucasini"
         }
     ],
     "placeTypeURIs": [
@@ -679,11 +800,22 @@
             "otherIdentifier": "",
             "shortTitle": "EDH",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18054",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.787207,
-        41.44039
+        13.754067035575845,
+        41.427569284975746
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
