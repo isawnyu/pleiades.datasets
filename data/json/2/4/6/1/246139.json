@@ -1,13 +1,87 @@
 {
     "@type": "Place",
     "bbox": [
-        2.866662,
-        42.468926,
-        2.866662,
-        42.468926
+        2.8629997,
+        42.4646429,
+        2.8629997,
+        42.4646429
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "route_next",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/route_next",
+            "connectsTo": "https://pleiades.stoa.org/places/246449",
+            "contributors": [],
+            "created": "2022-02-09T00:10:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "The Antonine Itinerary records a distance of m.p. XVI between Ad Pyreneum and Iuncaria.",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-02-09T00:15:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-02-09T00:10:12Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "iuncaria",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/936644063",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+                    "citationDetail": "390.2-3 (page 60)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ItAnt (Cuntz)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "accessURI": "https://taller.iec.cat/itiner-e/fitxa-una.asp?id_fitxa=7",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4JGPPVX6",
+                    "citationDetail": "Antonine Itinerary I",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Soto, Pau de, Tom Brughmans, Santiago Muxach, and Josep Guitart. <i>Itiner-e: The Gazetteer of Roads</i>. Barcelona: Institut d’Estudis Catalans, 2018. https://itinere.recerca.iec.cat/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Itiner-e",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Iuncaria",
+            "uri": "https://pleiades.stoa.org/places/246139/iuncaria"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/246449",
+        "https://pleiades.stoa.org/places/246566"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -36,7 +110,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-09T18:53:59Z",
+    "created": "2022-02-08T22:02:12Z",
     "creators": [
         {
             "name": "H.S. Sivan",
@@ -51,29 +125,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 25 H3 Ad Pyrenaeum/Summus Pyrenaeus",
-    "details": "The Barrington Atlas Directory notes: Col de Perthus",
+    "description": "This Roman road station \"at the Pyrenees\" or \"Top of the Pyrenees\" is attested in inscriptions, the Antonine Itinerary, and the Peutinger Map. It was located at the Coll del Pertús, a pass now on the modern French/Spanish border, and modern scholars tend to assume it was coincident with (or very near) the modern border town of Le Perthus.",
+    "details": "<p>The Barrington Atlas Directory notes: Col de Perthus</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    2.866662,
-                    42.468926
+                    2.8629997,
+                    42.4646429
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-8860",
+            "id": "osm-location-of-modern-perthus",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/246139/darmc-location-8860",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/246139/osm-location-of-modern-perthus",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 8860"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location of Modern Perthus"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 8860 = related",
+            "modified": "2022-02-09T02:09:14Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; added ItAnt; cleaned up references; added associated modern names and locations. DARMC should be retracted once OSM location is published.",
+            "modified": "2022-02-09T02:01:35Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference",
             "modified": "2014-09-26T00:51:43Z",
@@ -114,8 +198,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -123,99 +207,317 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-04T23:25:45Z",
+            "contributors": [],
+            "created": "2022-02-08T23:06:56Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 8860",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    2.866662,
-                    42.468926
+                    2.8629997,
+                    42.4646429
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:29:05Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-02-08T23:07:24Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-04T23:25:46Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-02-08T23:06:56Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-8860",
+            "id": "osm-location-of-modern-perthus",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 8860",
+            "provenance": "OpenStreetMap (Node 279920830, version 10, osm:changeset=67744978, 2019-03-03T19:09:28Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/279920830",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "8860",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 279920830",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 8860.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=279920830",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 8860",
-            "uri": "https://pleiades.stoa.org/places/246139/darmc-location-8860"
+            "start": 2000,
+            "title": "OSM Location of Modern Perthus",
+            "uri": "https://pleiades.stoa.org/places/246139/osm-location-of-modern-perthus"
         }
     ],
     "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Col de Perthus",
+            "contributors": [],
+            "created": "2022-02-08T22:26:17Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-02-08T22:27:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2022-02-08T22:26:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-02-08T22:26:18Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "col-de-perthus",
+            "language": "en",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 389 see \"Ad Pyrenaeum/Summus Pyrenaeus\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Col de Perthus",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/246139/col-de-perthus"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Col du Perthus",
+            "contributors": [],
+            "created": "2022-02-08T22:28:15Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-02-08T22:28:16Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "col-du-perthus",
+            "language": "fr",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://fr.wikipedia.org",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/B4HPCZIK",
+                    "citationDetail": "Col du Perthus",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipédia: L’encyclopédie libre que chacun peut améliorer</i>. Wikimedia Foundation, 2001. https://fr.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (French)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Col du Perthus",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/246139/col-du-perthus"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "attested": "Coll del Pertús",
+            "contributors": [],
+            "created": "2022-02-08T22:30:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-02-08T22:30:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-02-08T22:30:22Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "coll-del-pertus",
+            "language": "ca",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://ca.wikipedia.org/wiki/Coll_del_Pert%C3%BAs",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NKNPYEAZ",
+                    "citationDetail": "Coll del Pertús",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Viquipèdia: L’enciclopèdia de Contingut Lliure Que Tothom Pot Millorar</i>. Wikimedia Foundation, 2001. https://ca.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Catalan)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Coll del Pertús",
+            "start": null,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/246139/coll-del-pertus"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Le Perthus",
+            "contributors": [],
+            "created": "2022-02-08T23:05:45Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-02-08T23:05:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-02-08T23:05:45Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "le-perthus",
+            "language": "fr",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://doi.org/10.1163/9789004411449_007",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VQCMSUEG",
+                    "citationDetail": "page 115",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Campedelli, Camilla. “The Impact of Roman Roads and Milestones on the Landscape of the Iberian Peninsula.” In <i>The Impact of the Roman Empire on Landscapes: Proceedings of the Fourteenth Workshop of the International Network Impact of Empire (Mainz, June 12-15, 2019)</i>, edited by Marietta Horster and Nikolas Hächler, 111–30. Impact of Empire 41. Brill, 2022. https://doi.org/10.1163/9789004411449_007.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Campedelli 2022",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Le Perthus",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/246139/le-perthus"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -359,64 +661,207 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/246139/summus-pyrenaeus"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Ad Pireneum",
+            "contributors": [],
+            "created": "2022-02-08T23:09:55Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-02-08T23:09:56Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ad-pireneum",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/936644063",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+                    "citationDetail": "390.2 (page 60)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ItAnt (Cuntz)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ad Pireneum",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/246139/ad-pireneum"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "attested": "Insvmmo pyreneo",
+            "contributors": [],
+            "created": "2022-02-08T23:12:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-02-08T23:12:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-02-08T23:12:02Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "insummo-pyreneo",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace774.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "1B2 Insvmmo pyreneo (Talbert 774)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Insummo Pyreneo, Insvmmo Pyreneo",
+            "start": 300,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/246139/insummo-pyreneo"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/station"
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "station"
+        "station",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 25 H3 Ad Pyrenaeum/Summus Pyrenaeus",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "25 H3 Ad Pyrenaeum/Summus Pyrenaeus",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 25 H3 Ad Pyrenaeum/Summus Pyrenaeus",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/40415507",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Tarraco-150",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XH3XVBTP",
+            "citationDetail": "150",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Tarraco 150",
+            "formattedCitation": "<div class=\"csl-entry\">Cepas, Adela, Joseph Guitart i Duran, and Guillermo Fatás Cabeza. <i>Tabula Imperii Romani: K/J-31 Pyrénées Orientales/Baleares: Tarraco - Baliares</i>. Tabula Imperii Romani, K/J-31. Pyreneés Orientales-Baleares. Madrid: Ministerio de Fomento: Ministerio de Educación y Cultura CSIC : Institut D’Estudis Catalans, 1997. http://www.worldcat.org/oclc/40415507.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Tarraco",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace774.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "1B2 (Talbert 774)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "TP 1B2 (Talbert 774)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aentry%3Dsummus-pyrenaeus-geo",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "SUMMUS PYRENAEUS",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), SUMMUS PYRENAEUS",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/936644063",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+            "citationDetail": "390.2 (page 60): Ad Pyreneum",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItAnt (Cuntz)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "8860",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        2.866662,
-        42.468926
+        2.8629997,
+        42.4646429
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

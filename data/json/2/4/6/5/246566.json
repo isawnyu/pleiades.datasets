@@ -10,6 +10,72 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "first-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-bce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/246139",
+            "contributors": [],
+            "created": "2022-02-08T22:48:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-02-08T22:48:23Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ad-pyrenaeum-summus-pyrenaeus",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "25 H3",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -100,
+            "title": "Ad Pyrenaeum/Summus Pyrenaeus",
+            "uri": "https://pleiades.stoa.org/places/246566/ad-pyrenaeum-summus-pyrenaeus"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
             "attestations": [],
             "connectionType": "connection",
             "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
@@ -38,6 +104,7 @@
         }
     ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/246139",
         "https://pleiades.stoa.org/places/834876934"
     ],
     "contributors": [
@@ -74,7 +141,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-11-09T19:01:13Z",
+    "created": "2022-02-08T22:43:27Z",
     "creators": [
         {
             "name": "H.S. Sivan",
@@ -89,7 +156,7 @@
             "username": null
         }
     ],
-    "description": "In 71 BC as Pompey returned to Italy from Iberia he set up a monument in the Pyrenees (near the Col de Panissars) known as the Pompei Tropaea. This monument commemorated the 876 cities Pompey had conquered.",
+    "description": "In 71 BC as Pompey returned to Italy from Iberia he set up a monument in the Pyrenees known as the Pompei Tropaea. This monument commemorated the 876 cities Pompey had conquered. Pompey's monument was spoliated in late antiquity and a medieval church and later priory were built on the site. Spoliated in turn, what is left of all these structures now comprises the Sitio arqueológico de Panissars on the French/Spanish border.",
     "details": "<p>The Barrington Atlas Directory notes: Panissars</p>",
     "features": [
         {
@@ -136,6 +203,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; added connection to Ad Pyrenaeus/Summus Pyrenaeum",
+            "modified": "2022-02-09T01:30:13Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added DARMC reference to maintain linkage after retracting less precise location",
             "modified": "2021-06-30T20:53:27Z",
