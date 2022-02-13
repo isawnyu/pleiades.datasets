@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
+        29.8876666,
+        36.218342,
         29.887844,
-        36.215853,
-        29.889191,
-        36.218342
+        36.2184666
     ],
     "connections": [],
     "connectsWith": [],
@@ -42,7 +42,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2011-01-10T22:56:31Z",
+    "created": "2022-02-10T12:06:34Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -53,27 +53,9 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 65 C5 *Istlada",
-    "details": "<p>The Barrington Atlas Directory notes: Hayıtlı</p>",
+    "description": "Ruins of an ancient town located in a now-uninhabited forest area near the modern Turkish town of Kapaklı in the Demre district of Antalya province. Its ancient name is known only from fragmentary epigraphic sources of the Hellenistic period, but archaeological investigation has demonstrated occupation and development from the 3rd century BCE through late antiquity, with some modest habitation continuing in the medieval period.",
+    "details": "<p>The <em>Barrington Atlas Directory</em> and PECS follow 19th century European travelers' reports in associating this site with the modern Turkish name Hayıtlı, but that name does not appear in more modern gazetteers.</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    29.889191,
-                    36.215853
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-12896",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/638874/darmc-location-12896",
-                "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "DARMC location 12896"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -91,9 +73,37 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.8876666,
+                    36.2184666
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-istlada",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap. Dates after Marksteiner 2004.",
+                "link": "https://pleiades.stoa.org/places/638874/osm-location-of-istlada",
+                "location_precision": "precise",
+                "snippet": "Settlement; 330 BC - AD 640",
+                "title": "OSM location of Istlada"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type += ruin; details; cleaned up legacy references; added Marksteiner 2004; fixed typo in summary",
+            "modified": "2022-02-10T14:23:47Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-02-10T12:05:27Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "darmc 2791",
             "modified": "2017-08-11T19:04:47Z",
@@ -132,92 +142,6 @@
     ],
     "id": "638874",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:23:12Z",
-            "creators": [
-                {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 12896",
-            "end": -30,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    29.889191,
-                    36.215853
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:28:37Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:23:13Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-12896",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 12896",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12896",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12896.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 12896",
-            "uri": "https://pleiades.stoa.org/places/638874/darmc-location-12896"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
@@ -291,6 +215,125 @@
             "start": -330,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/638874/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2022-02-10T12:43:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap. Dates after Marksteiner 2004.",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    29.8876666,
+                    36.2184666
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "dated after Marksteiner 2004; added reference",
+                    "modified": "2022-02-10T14:24:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2022-02-10T12:43:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2017-08-11T19:03:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-08-11T19:03:10Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-istlada",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Node 2427378897, version 2, osm:changeset=49639785, 2017-06-18T17:29:17Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2427378897",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2427378897",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2427378897",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://hw.oeaw.ac.at?arp=0x0006b0ee",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HH2G8D5W",
+                    "citationDetail": "pages 21-23",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Marksteiner, Thomas, and Philipp Niewöhner. “Die Kirche von Istlada in Lykien.” <i>Mitteilungen zur christlichen Archäologie</i> 10 (2004): 21. https://doi.org/10.1553/micha10s21.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Marksteiner 2004",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -330,
+            "title": "OSM location of Istlada",
+            "uri": "https://pleiades.stoa.org/places/638874/osm-location-of-istlada"
         }
     ],
     "names": [
@@ -358,50 +401,63 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/ruin",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
+        "ruin",
         "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 65 C5 *Istlada",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "65 C5 *Istlada",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 65 C5 *Istlada",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:id=istlada",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "ISTLADA (Hayitli) Turkey",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), ISTLADA (Hayitli) Turkey",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://darmc.harvard.edu/",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-            "citationDetail": "2791",
+            "citationDetail": "2791 and 12896",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 2791.",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "http://hw.oeaw.ac.at?arp=0x0006b0ee",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HH2G8D5W",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Marksteiner, Thomas, and Philipp Niewöhner. “Die Kirche von Istlada in Lykien.” <i>Mitteilungen zur christlichen Archäologie</i> 10 (2004): 21. https://doi.org/10.1553/micha10s21.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Marksteiner 2004",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        29.8885175,
-        36.2170975
+        29.887755300000002,
+        36.2184043
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
