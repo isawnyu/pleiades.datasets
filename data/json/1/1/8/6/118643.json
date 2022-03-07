@@ -1,8 +1,8 @@
 {
     "@type": "Place",
     "bbox": [
-        9.452056,
-        48.601306,
+        9.4517829,
+        48.6012554,
         9.452056,
         48.601306
     ],
@@ -14,15 +14,7 @@
             "username": null
         },
         {
-            "name": "M. Puhane",
-            "username": null
-        },
-        {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -36,6 +28,22 @@
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "M. Puhane",
+            "username": null
         }
     ],
     "created": "2010-06-11T21:05:53Z",
@@ -46,8 +54,26 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 12 C4 Dettingen",
-    "details": "The Barrington Atlas Directory notes: Dettingen, Teck",
+    "details": "<p>The Barrington Atlas Directory notes: Dettingen, Teck</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    9.4517829,
+                    48.6012554
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-kastell-dettingen-unter-teck",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/118643/osm-location-of-kastell-dettingen-unter-teck",
+                "location_precision": "precise",
+                "snippet": "Tower-defensive; 30 BC - AD 300",
+                "title": "OSM location of Kastell Dettingen unter Teck"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -56,18 +82,23 @@
                 ],
                 "type": "Point"
             },
-            "id": "center-point-of-archaeological-site-dettingen-unter-teck",
+            "id": "imagery-location",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/118643/center-point-of-archaeological-site-dettingen-unter-teck",
+                "link": "https://pleiades.stoa.org/places/118643/imagery-location",
                 "location_precision": "precise",
                 "snippet": "Unknown",
-                "title": "Center point of archaeological site Dettingen unter Teck"
+                "title": "Imagery Location: Center point of archaeological site Dettingen unter Teck"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update",
+            "modified": "2022-03-04T20:17:09Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-21T00:17:53Z",
@@ -103,13 +134,99 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2022-03-04T20:16:16Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "tower-defensive"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
+            ],
+            "geometry": {
+                "coordinates": [
+                    9.4517829,
+                    48.6012554
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2022-03-04T20:16:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-03-04T20:16:16Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-kastell-dettingen-unter-teck",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
+            ],
+            "provenance": "OpenStreetMap (Node 7832122276, version 2, osm:changeset=107249547, 2021-07-01T09:10:34Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/7832122276",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 7832122276",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=7832122276",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Kastell Dettingen unter Teck",
+            "uri": "https://pleiades.stoa.org/places/118643/osm-location-of-kastell-dettingen-unter-teck"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
             "created": "2011-11-16T13:19:19Z",
             "creators": [
                 {
@@ -152,7 +269,7 @@
                     "modifiedBy": "jahlfeldt"
                 }
             ],
-            "id": "center-point-of-archaeological-site-dettingen-unter-teck",
+            "id": "imagery-location",
             "locationType": [
                 "representative"
             ],
@@ -175,15 +292,17 @@
             ],
             "review_state": "published",
             "start": null,
-            "title": "Center point of archaeological site Dettingen unter Teck",
-            "uri": "https://pleiades.stoa.org/places/118643/center-point-of-archaeological-site-dettingen-unter-teck"
+            "title": "Imagery Location: Center point of archaeological site Dettingen unter Teck",
+            "uri": "https://pleiades.stoa.org/places/118643/imagery-location"
         }
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "tower-defensive",
         "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 12 C4 Dettingen",
@@ -202,18 +321,18 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Römer-Baden-Württemberg-268-70",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K6S4HPPI",
+            "citationDetail": "268-70",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Römer Baden-Württemberg 268-70",
+            "formattedCitation": "<div class=\"csl-entry\">P Filtzinger, D Planck, and B Cämmerer, eds. <i>Die Römer in Baden-Württemberg</i>. 3rd ed. Stuttgart: K. Theiss, 1986.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Römer Baden-Württemberg",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        9.452056,
-        48.601306
+        9.45191945,
+        48.601280700000004
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

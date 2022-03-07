@@ -1,20 +1,16 @@
 {
     "@type": "Place",
     "bbox": [
-        7.8543016,
-        48.3696303,
-        7.8543016,
-        48.3696303
+        7.8533034,
+        48.3691131,
+        7.8550244,
+        48.3702562
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -28,22 +24,72 @@
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2009-11-02T15:51:11Z",
     "creators": [
         {
-            "name": "C. Haselgrove",
+            "name": "J. Kunow",
             "username": null
         },
         {
-            "name": "J. Kunow",
+            "name": "C. Haselgrove",
             "username": null
         }
     ],
     "description": "An ancient place, cited: BAtlas 11 H4 Friesenheim",
-    "details": "The Barrington Atlas Directory notes: Friesenheim, GER",
+    "details": "<p>The Barrington Atlas Directory notes: Friesenheim, GER</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            7.8545826,
+                            48.3691131
+                        ],
+                        [
+                            7.8533034,
+                            48.3697231
+                        ],
+                        [
+                            7.8537472,
+                            48.3702562
+                        ],
+                        [
+                            7.8550244,
+                            48.3697611
+                        ],
+                        [
+                            7.8545826,
+                            48.3691131
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-bodendenkmal-rapmische",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/108995/osm-location-of-bodendenkmal-rapmische",
+                "location_precision": "precise",
+                "snippet": "Station; 30 BC - AD 300",
+                "title": "OSM location of Bodendenkmal Römische Straßenstation Friesenheim"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -52,18 +98,23 @@
                 ],
                 "type": "Point"
             },
-            "id": "archaeological-site-of-roman-station",
+            "id": "imagery-location",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/108995/archaeological-site-of-roman-station",
+                "link": "https://pleiades.stoa.org/places/108995/imagery-location",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Archaeological site of Roman road station"
+                "title": "Imagery location of archaeological site of Roman road station"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update",
+            "modified": "2022-03-04T20:14:04Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-21T00:09:15Z",
@@ -99,6 +150,105 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2022-03-04T20:14:36Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "station"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            7.8545826,
+                            48.3691131
+                        ],
+                        [
+                            7.8533034,
+                            48.3697231
+                        ],
+                        [
+                            7.8537472,
+                            48.3702562
+                        ],
+                        [
+                            7.8550244,
+                            48.3697611
+                        ],
+                        [
+                            7.8545826,
+                            48.3691131
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2022-03-04T20:15:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-03-04T20:14:36Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-bodendenkmal-rapmische",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
+            ],
+            "provenance": "OpenStreetMap (Way 32928641, version 13, osm:changeset=75987232, 2019-10-21T10:06:23Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/32928641",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 32928641",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=32928641",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Bodendenkmal Römische Straßenstation Friesenheim",
+            "uri": "https://pleiades.stoa.org/places/108995/osm-location-of-bodendenkmal-rapmische"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
@@ -112,7 +262,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
             "created": "2012-01-11T17:47:44Z",
             "creators": [
                 {
@@ -160,7 +317,7 @@
                     "modifiedBy": "jahlfeldt"
                 }
             ],
-            "id": "archaeological-site-of-roman-station",
+            "id": "imagery-location",
             "locationType": [
                 "representative"
             ],
@@ -183,8 +340,8 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Archaeological site of Roman road station",
-            "uri": "https://pleiades.stoa.org/places/108995/archaeological-site-of-roman-station"
+            "title": "Imagery location of archaeological site of Roman road station",
+            "uri": "https://pleiades.stoa.org/places/108995/imagery-location"
         }
     ],
     "names": [],
@@ -210,18 +367,18 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Römer-Baden-Württemberg-292-93",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K6S4HPPI",
+            "citationDetail": "292-93",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Römer Baden-Württemberg 292-93",
+            "formattedCitation": "<div class=\"csl-entry\">P Filtzinger, D Planck, and B Cämmerer, eds. <i>Die Römer in Baden-Württemberg</i>. 3rd ed. Stuttgart: K. Theiss, 1986.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Römer Baden-Württemberg",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        7.8543016,
-        48.3696303
+        7.8542387548209,
+        48.36966717613692
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
