@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.78963,
-        35.247257,
-        23.78963,
-        35.247257
+        23.7865776,
+        35.2406412,
+        23.7865776,
+        35.2406412
     ],
     "connections": [
         {
@@ -92,23 +92,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    23.78963,
-                    35.247257
+                    23.7865776,
+                    35.2406412
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-13510",
+            "id": "osm-location-of-ii1iiii",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/589914/darmc-location-13510",
+                "description": "Representative location based on OpenStreetMap. Chronology following Barrington Atlas.",
+                "link": "https://pleiades.stoa.org/places/589914/osm-location-of-ii1iiii",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 13510"
+                "snippet": "Settlement; 330 BC - AD 640",
+                "title": "OSM location of Λισσός"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-03-08T10:22:20Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updated references",
             "modified": "2022-03-07T01:23:21Z",
@@ -149,8 +154,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -174,76 +179,69 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:40:29Z",
+            "contributors": [],
+            "created": "2022-03-07T01:28:37Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 13510",
+            "description": "Representative location based on OpenStreetMap. Chronology following Barrington Atlas.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    23.78963,
-                    35.247257
+                    23.7865776,
+                    35.2406412
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:49:40Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-03-07T01:29:14Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:40:30Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-03-07T01:28:37Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-13510",
+            "id": "osm-location-of-ii1iiii",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 13510",
+            "provenance": "OpenStreetMap (Node 312517594, version 9, osm:changeset=118179155, 2022-03-07T01:28:12Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/312517594",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "13510",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 312517594",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 13510.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=312517594",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 13510",
-            "uri": "https://pleiades.stoa.org/places/589914/darmc-location-13510"
+            "title": "OSM location of Λισσός",
+            "uri": "https://pleiades.stoa.org/places/589914/osm-location-of-ii1iiii"
         }
     ],
     "names": [
@@ -395,11 +393,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "13510",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.78963,
-        35.247257
+        23.7865776,
+        35.2406412
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

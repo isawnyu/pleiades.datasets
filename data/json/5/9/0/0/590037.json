@@ -1,39 +1,52 @@
 {
     "@type": "Place",
     "bbox": [
-        26.0,
-        35.0,
-        26.5,
-        35.5
+        26.311348,
+        35.316056,
+        26.311348,
+        35.316056
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
             "connectsTo": "https://pleiades.stoa.org/places/589748",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:40:24Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype: part of (physical/topographic)",
+                    "modified": "2022-03-08T10:35:23Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "589748",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Creta Ins.",
+            "title": "Creta (island)",
             "uri": "https://pleiades.stoa.org/places/590037/589748"
         }
     ],
@@ -81,43 +94,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            35.5
-                        ],
-                        [
-                            26.5,
-                            35.5
-                        ],
-                        [
-                            26.5,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            35.0
-                        ]
-                    ]
+                    26.311348,
+                    35.316056
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-ii-i2i-ipsi-iiuii",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/590037/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/590037/osm-location-of-ii-i2i-ipsi-iiuii",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "OSM location of Κάβο Σίδερο"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2022-03-08T10:29:06Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added connection",
             "modified": "2013-03-04T21:36:25Z",
@@ -143,108 +141,82 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:25:28Z",
+            "contributors": [],
+            "created": "2022-03-06T03:55:11Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            35.5
-                        ],
-                        [
-                            26.5,
-                            35.5
-                        ],
-                        [
-                            26.5,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            35.0
-                        ]
-                    ]
+                    26.311348,
+                    35.316056
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:50:58Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-03-06T03:55:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-03-06T03:55:12Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-ii-i2i-ipsi-iiuii",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 F2 Sam(m)onion Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 4836354806, version 1, osm:changeset=48417922, 2017-05-05T08:16:33Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/4836354806",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4836354806",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=4836354806",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/590037/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Κάβο Σίδερο",
+            "uri": "https://pleiades.stoa.org/places/590037/osm-location-of-ii-i2i-ipsi-iiuii"
         }
     ],
     "names": [
@@ -428,8 +400,8 @@
         }
     ],
     "reprPoint": [
-        26.25,
-        35.25
+        26.311348,
+        35.316056
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
