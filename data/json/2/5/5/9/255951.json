@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -5.0,
-        37.0,
-        -4.0,
-        38.0
+        -4.9325335,
+        37.6746159,
+        -4.9325335,
+        37.6746159
     ],
     "connections": [],
     "connectsWith": [],
@@ -57,38 +57,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -5.0,
-                            37.0
-                        ],
-                        [
-                            -5.0,
-                            38.0
-                        ],
-                        [
-                            -4.0,
-                            38.0
-                        ],
-                        [
-                            -4.0,
-                            37.0
-                        ],
-                        [
-                            -5.0,
-                            37.0
-                        ]
-                    ]
+                    -4.9325335,
+                    37.6746159
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-la-carlota",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/255951/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/255951/osm-location-of-modern-la-carlota",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of modern La Carlota"
             },
             "type": "Feature"
         }
@@ -119,8 +99,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -128,103 +108,73 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-09T19:30:44Z",
+            "contributors": [],
+            "created": "2021-07-13T22:30:09Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -5.0,
-                            37.0
-                        ],
-                        [
-                            -5.0,
-                            38.0
-                        ],
-                        [
-                            -4.0,
-                            38.0
-                        ],
-                        [
-                            -4.0,
-                            37.0
-                        ],
-                        [
-                            -5.0,
-                            37.0
-                        ]
-                    ]
+                    -4.9325335,
+                    37.6746159
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:39:03Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-07-13T22:30:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-07-13T22:30:09Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-la-carlota",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 26 F4 Ad Aras",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 417179109, version 11, osm:changeset=72398085, 2019-07-18T16:10:21Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/417179109",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 417179109",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=417179109",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/255951/batlas-location"
+            "start": 2000,
+            "title": "OSM location of modern La Carlota",
+            "uri": "https://pleiades.stoa.org/places/255951/osm-location-of-modern-la-carlota"
         }
     ],
     "names": [
@@ -355,8 +305,8 @@
         }
     ],
     "reprPoint": [
-        -4.5,
-        37.5
+        -4.9325335,
+        37.6746159
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

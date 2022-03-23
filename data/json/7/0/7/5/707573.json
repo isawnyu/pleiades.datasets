@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        32.5,
-        35.0,
-        33.0,
-        35.5
+        32.635812,
+        35.1875195,
+        32.635812,
+        35.1875195
     ],
     "connections": [
         {
@@ -77,38 +77,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            32.5,
-                            35.0
-                        ],
-                        [
-                            32.5,
-                            35.5
-                        ],
-                        [
-                            33.0,
-                            35.5
-                        ],
-                        [
-                            33.0,
-                            35.0
-                        ],
-                        [
-                            32.5,
-                            35.0
-                        ]
-                    ]
+                    32.635812,
+                    35.1875195
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "osm-location-of-mansur",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/707573/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Undetermined location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/707573/osm-location-of-mansur",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern, ; AD 1700 - AD 2100",
+                "title": "OSM location of Mansur"
             },
             "type": "Feature"
         }
@@ -134,8 +114,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -143,89 +123,76 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-20T09:31:35Z",
+            "contributors": [],
+            "created": "2014-02-25T16:58:10Z",
             "creators": [
                 {
-                    "name": "D. Rupp",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            32.5,
-                            35.0
-                        ],
-                        [
-                            32.5,
-                            35.5
-                        ],
-                        [
-                            33.0,
-                            35.5
-                        ],
-                        [
-                            33.0,
-                            35.0
-                        ],
-                        [
-                            32.5,
-                            35.0
-                        ]
-                    ]
+                    32.635812,
+                    35.1875195
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:03:04Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-02-25T16:58:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-02-25T16:58:14Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location-of-mansur",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 72 B2 Mansoura",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1271325344, version 2, osm:changeset=16249145, 2013-05-23T08:47:53Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1271325344",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1271325344",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1271325344",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": 300,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/707573/undetermined"
+            "start": 1700,
+            "title": "OSM location of Mansur",
+            "uri": "https://pleiades.stoa.org/places/707573/osm-location-of-mansur"
         }
     ],
     "names": [],
@@ -261,8 +228,8 @@
         }
     ],
     "reprPoint": [
-        32.75,
-        35.25
+        32.635812,
+        35.1875195
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

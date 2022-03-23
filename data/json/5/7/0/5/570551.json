@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.044664,
-        37.108636,
-        22.0506864,
-        37.1100352
+        22.0130186,
+        37.0835034,
+        22.0130186,
+        37.0835034
     ],
     "connections": [
         {
@@ -117,38 +117,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.5,
-                            37.0
-                        ],
-                        [
-                            21.5,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.0
-                        ],
-                        [
-                            21.5,
-                            37.0
-                        ]
-                    ]
+                    22.0130186,
+                    37.0835034
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-course-of-3a03bc3b93c33bf3c2-river",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570551/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/570551/osm-location-of-course-of-3a03bc3b93c33bf3c2-river",
+                "location_precision": "precise",
+                "snippet": "River, ; AD 1700 - AD 2100",
+                "title": "OSM location of course of Πάμισος (river)"
             },
             "type": "Feature"
         }
@@ -189,95 +169,85 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-09-20T20:52:30Z",
+            "contributors": [],
+            "created": "2015-09-07T04:00:22Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "river",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.5,
-                            37.0
-                        ],
-                        [
-                            21.5,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.0
-                        ],
-                        [
-                            21.5,
-                            37.0
-                        ]
-                    ]
+                    22.0130186,
+                    37.0835034
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:32:10Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2015-09-07T04:00:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-09-07T04:00:27Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-course-of-3a03bc3b93c33bf3c2-river",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 B3 Pamisos fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 122997752, version 5, osm:changeset=17818666, 2013-09-13T15:30:55Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/122997752",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 122997752",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=122997752",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570551/batlas-location"
+            "start": 1700,
+            "title": "OSM location of course of Πάμισος (river)",
+            "uri": "https://pleiades.stoa.org/places/570551/osm-location-of-course-of-3a03bc3b93c33bf3c2-river"
         }
     ],
     "names": [
@@ -367,6 +337,68 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/570551/pamisos"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "Πάμισος Ποταμός",
+            "contributors": [],
+            "created": "2015-09-07T04:03:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2100,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2015-09-07T04:03:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added name",
+                    "modified": "2015-09-07T04:03:11Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "pamisos-potamos",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/255954/pamisos-potamos.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "formattedCitation": "GeoNames 255954",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/cites"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Pámisos Potamós, Pamisos Potamos",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/570551/pamisos-potamos"
         }
     ],
     "placeTypeURIs": [
@@ -467,8 +499,8 @@
         }
     ],
     "reprPoint": [
-        22.047675199999997,
-        37.109335599999994
+        22.0130186,
+        37.0835034
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

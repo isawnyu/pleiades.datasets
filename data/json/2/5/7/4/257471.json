@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -7.0,
-        38.0,
-        -6.0,
-        39.0
+        -6.3493861,
+        38.9230375,
+        -6.348937,
+        38.9245316
     ],
     "connections": [],
     "connectsWith": [],
@@ -58,37 +58,23 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            -7.0,
-                            38.0
-                        ],
-                        [
-                            -7.0,
-                            39.0
-                        ],
-                        [
-                            -6.0,
-                            39.0
-                        ],
-                        [
-                            -6.0,
-                            38.0
-                        ],
-                        [
-                            -7.0,
-                            38.0
-                        ]
+                        -6.348937,
+                        38.9245316
+                    ],
+                    [
+                        -6.3493861,
+                        38.9230375
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-puente-romano-de-la-puerta",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/257471/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/257471/osm-location-of-puente-romano-de-la-puerta",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Puente Romano de la Puerta"
             },
             "type": "Feature"
         }
@@ -119,8 +105,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -130,101 +116,77 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-09T19:26:36Z",
+            "contributors": [],
+            "created": "2021-05-22T21:30:49Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            -7.0,
-                            38.0
-                        ],
-                        [
-                            -7.0,
-                            39.0
-                        ],
-                        [
-                            -6.0,
-                            39.0
-                        ],
-                        [
-                            -6.0,
-                            38.0
-                        ],
-                        [
-                            -7.0,
-                            38.0
-                        ]
+                        -6.348937,
+                        38.9245316
+                    ],
+                    [
+                        -6.3493861,
+                        38.9230375
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:47:31Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2021-05-22T21:31:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2021-05-22T21:30:49Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-puente-romano-de-la-puerta",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 26 D3",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 86985126, version 11, osm:changeset=104782242, 2021-05-16T19:22:43Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/86985126",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 86985126",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=86985126",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/257471/batlas-location"
+            "title": "OSM location of Puente Romano de la Puerta",
+            "uri": "https://pleiades.stoa.org/places/257471/osm-location-of-puente-romano-de-la-puerta"
         }
     ],
     "names": [],
@@ -282,8 +244,8 @@
         }
     ],
     "reprPoint": [
-        -6.5,
-        38.5
+        -6.34916155,
+        38.92378455
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

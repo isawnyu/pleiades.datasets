@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        70.0,
-        30.0,
-        75.0,
-        35.0
+        70.2884894,
+        34.5126952,
+        70.2884894,
+        34.5126952
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,38 +45,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            70.0,
-                            30.0
-                        ],
-                        [
-                            70.0,
-                            35.0
-                        ],
-                        [
-                            75.0,
-                            35.0
-                        ],
-                        [
-                            75.0,
-                            30.0
-                        ],
-                        [
-                            70.0,
-                            30.0
-                        ]
-                    ]
+                    70.2884894,
+                    34.5126952
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/59774/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/59774/osm-location",
+                "location_precision": "precise",
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM location of لغمان"
             },
             "type": "Feature"
         }
@@ -117,8 +97,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -126,89 +106,89 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-23T04:33:41Z",
+            "contributors": [],
+            "created": "2015-02-01T04:45:11Z",
             "creators": [
                 {
-                    "name": "M.U. Erdosy",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": -30,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            70.0,
-                            30.0
-                        ],
-                        [
-                            70.0,
-                            35.0
-                        ],
-                        [
-                            75.0,
-                            35.0
-                        ],
-                        [
-                            75.0,
-                            30.0
-                        ],
-                        [
-                            70.0,
-                            30.0
-                        ]
-                    ]
+                    70.2884894,
+                    34.5126952
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:53:57Z",
-                    "modifiedBy": "admin"
+                    "comment": "update refs.",
+                    "modified": "2021-08-16T14:21:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2015-02-01T04:45:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-02-01T04:45:18Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "provenance": "Barrington Atlas: BAtlas 6 C3 Choes? fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 295374611, version 1, osm:changeset=24480865, 2014-08-01T13:00:43Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/295374611",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 295374611",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=295374611",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.geonames.org/1148910/darya-ye-alingar.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "1148910: Daryā-ye ‘Alīngā",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": " ",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/59774/batlas-location"
+            "start": 1700,
+            "title": "OSM location of لغمان",
+            "uri": "https://pleiades.stoa.org/places/59774/osm-location"
         }
     ],
     "names": [
@@ -336,8 +316,8 @@
         }
     ],
     "reprPoint": [
-        72.5,
-        32.5
+        70.2884894,
+        34.5126952
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

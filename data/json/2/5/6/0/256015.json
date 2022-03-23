@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -10.0,
-        38.0,
-        -9.0,
-        39.0
+        -9.2221662,
+        38.4139707,
+        -9.2221662,
+        38.4139707
     ],
     "connections": [],
     "connectsWith": [],
@@ -57,38 +57,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -10.0,
-                            38.0
-                        ],
-                        [
-                            -10.0,
-                            39.0
-                        ],
-                        [
-                            -9.0,
-                            39.0
-                        ],
-                        [
-                            -9.0,
-                            38.0
-                        ],
-                        [
-                            -10.0,
-                            38.0
-                        ]
-                    ]
+                    -9.2221662,
+                    38.4139707
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-cabo-espichel",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/256015/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/256015/osm-location-of-cabo-espichel",
+                "location_precision": "precise",
+                "snippet": "Cape, ; AD 1700 - AD 2100",
+                "title": "OSM location of Cabo Espichel"
             },
             "type": "Feature"
         }
@@ -119,124 +99,86 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-09T19:31:49Z",
+            "contributors": [],
+            "created": "2016-10-22T12:34:35Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cape",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -10.0,
-                            38.0
-                        ],
-                        [
-                            -10.0,
-                            39.0
-                        ],
-                        [
-                            -9.0,
-                            39.0
-                        ],
-                        [
-                            -9.0,
-                            38.0
-                        ],
-                        [
-                            -10.0,
-                            38.0
-                        ]
-                    ]
+                    -9.2221662,
+                    38.4139707
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:39:58Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2016-10-22T12:35:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2016-10-22T12:34:37Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-cabo-espichel",
             "locationType": [
-                "representative"
+                "representative",
+                ""
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 26 A3 Barbarion Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 3913744843, version 1, osm:changeset=36209719, 2015-12-28T01:12:40Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/3913744843",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 3913744843",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=3913744843",
+                    "otherIdentifier": "http://www.openstreetmap.org/browse/node/3913744843",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/256015/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Cabo Espichel",
+            "uri": "https://pleiades.stoa.org/places/256015/osm-location-of-cabo-espichel"
         }
     ],
     "names": [
@@ -457,8 +399,8 @@
         }
     ],
     "reprPoint": [
-        -9.5,
-        38.5
+        -9.2221662,
+        38.4139707
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

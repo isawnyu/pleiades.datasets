@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        39.5,
-        19.0,
-        39.5,
-        19.0
+        35.1618115,
+        24.6663592,
+        35.1618115,
+        24.6663592
     ],
     "connections": [
         {
@@ -54,21 +54,15 @@
     "contributors": [
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -79,6 +73,12 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-08T00:57:16Z",
@@ -102,38 +102,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            35.0,
-                            24.5
-                        ],
-                        [
-                            35.0,
-                            25.0
-                        ],
-                        [
-                            35.5,
-                            25.0
-                        ],
-                        [
-                            35.5,
-                            24.5
-                        ],
-                        [
-                            35.0,
-                            24.5
-                        ]
-                    ]
+                    35.1618115,
+                    24.6663592
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/785972/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Undetermined location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/785972/osm-location",
+                "location_precision": "precise",
+                "snippet": "Island, ; AD 1700 - AD 2100",
+                "title": "OSM location of Wadi Gemal Island"
             },
             "type": "Feature"
         }
@@ -164,99 +144,101 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2009-10-12T10:32:23Z",
+            "contributors": [],
+            "created": "2014-04-20T00:40:34Z",
             "creators": [
                 {
-                    "name": "J. Keenan",
-                    "username": null
-                },
-                {
-                    "name": "S.E. Sidebotham",
-                    "username": null
-                },
-                {
-                    "name": "T. Wilfong",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "island",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            35.0,
-                            24.5
-                        ],
-                        [
-                            35.0,
-                            25.0
-                        ],
-                        [
-                            35.5,
-                            25.0
-                        ],
-                        [
-                            35.5,
-                            24.5
-                        ],
-                        [
-                            35.0,
-                            24.5
-                        ]
-                    ]
+                    35.1618115,
+                    24.6663592
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:24:39Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2016-10-01T16:57:06Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "a",
+                    "modified": "2014-04-20T00:41:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "a",
+                    "modified": "2014-04-20T00:41:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "a",
+                    "modified": "2014-04-20T00:41:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-04-20T00:40:39Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "representative",
+                ""
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 80 G4 Aphrodites Nesos",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 768809921, version 2, osm:changeset=6783719, 2010-12-27T23:58:54Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/768809921",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 768809921",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=768809921",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/785972/undetermined"
+            "start": 1700,
+            "title": "OSM location of Wadi Gemal Island",
+            "uri": "https://pleiades.stoa.org/places/785972/osm-location"
         }
     ],
     "names": [
@@ -396,8 +378,8 @@
         }
     ],
     "reprPoint": [
-        39.5,
-        19.0
+        35.1618115,
+        24.6663592
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        80.0,
-        30.0,
-        85.0,
-        35.0
+        81.3113433,
+        31.0660734,
+        81.3113433,
+        31.0660734
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,38 +45,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            80.0,
-                            30.0
-                        ],
-                        [
-                            80.0,
-                            35.0
-                        ],
-                        [
-                            85.0,
-                            35.0
-                        ],
-                        [
-                            85.0,
-                            30.0
-                        ],
-                        [
-                            80.0,
-                            30.0
-                        ]
-                    ]
+                    81.3113433,
+                    31.0660734
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/59960/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/59960/osm-location",
+                "location_precision": "precise",
+                "snippet": "Mountain, ; AD 1700 - AD 2100",
+                "title": "OSM location of Mt Kailash"
             },
             "type": "Feature"
         }
@@ -112,98 +92,91 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-23T04:37:39Z",
+            "contributors": [],
+            "created": "2014-04-14T04:20:46Z",
             "creators": [
                 {
-                    "name": "M.U. Erdosy",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            80.0,
-                            30.0
-                        ],
-                        [
-                            80.0,
-                            35.0
-                        ],
-                        [
-                            85.0,
-                            35.0
-                        ],
-                        [
-                            85.0,
-                            30.0
-                        ],
-                        [
-                            80.0,
-                            30.0
-                        ]
-                    ]
+                    81.3113433,
+                    31.0660734
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:59:26Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2016-10-02T01:24:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-04-14T04:21:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-04-14T04:20:48Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "representative",
+                ""
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 6 E3 Oscobares M.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 250954728, version 19, osm:changeset=21558576, 2014-04-07T19:09:49Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/250954728",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 250954728",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=250954728",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": 300,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/59960/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Mt Kailash",
+            "uri": "https://pleiades.stoa.org/places/59960/osm-location"
         }
     ],
     "names": [
@@ -314,8 +287,8 @@
         }
     ],
     "reprPoint": [
-        82.5,
-        32.5
+        81.3113433,
+        31.0660734
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
