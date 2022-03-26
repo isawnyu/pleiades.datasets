@@ -1,39 +1,69 @@
 {
     "@type": "Place",
     "bbox": [
-        24.9,
-        36.616667,
-        24.9,
-        36.616667
+        24.9154455,
+        36.6232355,
+        24.9241501,
+        36.6293373
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/589996",
-            "contributors": [],
-            "created": "2016-07-13T13:40:20Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2022-03-24T20:15:20Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-03-25T02:37:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2022-03-24T20:15:18Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "589996",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "60 inset C5",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
-            "title": "Pholegandros Ins.",
+            "title": "Pholegandros (island)",
             "uri": "https://pleiades.stoa.org/places/589995/589996"
         }
     ],
@@ -64,7 +94,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:24:26Z",
+    "created": "2022-03-24T20:15:59Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -75,23 +105,94 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 C5 Pholegandros",
+    "description": "An ancient settlement on the island of Pholegandros in the Creticum Mare. Located at the modern village of Chora (Palaiokastro).",
     "details": "<p>The Barrington Atlas Directory notes: Palaiokastro</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.9180776,
+                            36.6232355
+                        ],
+                        [
+                            24.9194942,
+                            36.6234064
+                        ],
+                        [
+                            24.9241039,
+                            36.6269647
+                        ],
+                        [
+                            24.9241461,
+                            36.6271066
+                        ],
+                        [
+                            24.9241501,
+                            36.6271561
+                        ],
+                        [
+                            24.9241463,
+                            36.6272005
+                        ],
+                        [
+                            24.9241362,
+                            36.6272358
+                        ],
+                        [
+                            24.924083,
+                            36.6274023
+                        ],
+                        [
+                            24.9221565,
+                            36.6293249
+                        ],
+                        [
+                            24.92212,
+                            36.6293373
+                        ],
+                        [
+                            24.9191203,
+                            36.6289535
+                        ],
+                        [
+                            24.9187766,
+                            36.6287727
+                        ],
+                        [
+                            24.9154692,
+                            36.6268432
+                        ],
+                        [
+                            24.9154455,
+                            36.6258386
+                        ],
+                        [
+                            24.9180776,
+                            36.6232355
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-modern-chora",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589995/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/589995/osm-location-of-modern-chora",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location of modern Chora"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; updated Locations (BAtlas location should be withdrawn once working copy is checked in and OSM associated modern location is published); update references",
+            "modified": "2022-03-25T02:41:14Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2016-07-27T13:34:54Z",
@@ -117,94 +218,142 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:24:26Z",
+            "contributors": [],
+            "created": "2022-03-24T20:23:07Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.9180776,
+                            36.6232355
+                        ],
+                        [
+                            24.9194942,
+                            36.6234064
+                        ],
+                        [
+                            24.9241039,
+                            36.6269647
+                        ],
+                        [
+                            24.9241461,
+                            36.6271066
+                        ],
+                        [
+                            24.9241501,
+                            36.6271561
+                        ],
+                        [
+                            24.9241463,
+                            36.6272005
+                        ],
+                        [
+                            24.9241362,
+                            36.6272358
+                        ],
+                        [
+                            24.924083,
+                            36.6274023
+                        ],
+                        [
+                            24.9221565,
+                            36.6293249
+                        ],
+                        [
+                            24.92212,
+                            36.6293373
+                        ],
+                        [
+                            24.9191203,
+                            36.6289535
+                        ],
+                        [
+                            24.9187766,
+                            36.6287727
+                        ],
+                        [
+                            24.9154692,
+                            36.6268432
+                        ],
+                        [
+                            24.9154455,
+                            36.6258386
+                        ],
+                        [
+                            24.9180776,
+                            36.6232355
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:50:28Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-03-24T20:23:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-03-24T20:23:07Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-chora",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 C5 Pholegandros",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 144057080, version 11, osm:changeset=61775145, 2018-08-18T16:46:45Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/144057080",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 144057080",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=144057080",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589995/batlas-location"
+            "start": 2000,
+            "title": "OSM Location of modern Chora",
+            "uri": "https://pleiades.stoa.org/places/589995/osm-location-of-modern-chora"
         }
     ],
     "names": [
@@ -290,39 +439,41 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 C5 Pholegandros",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 C5 Pholegandros",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 60 C5 Pholegandros",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Pholegandros",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Pholegandros",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Pholegandros",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        24.9,
-        36.616667
+        24.91986004725828,
+        36.62655984814377
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

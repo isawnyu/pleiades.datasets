@@ -1,15 +1,66 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        24.5252527,
+        36.7878679,
+        24.5276213,
+        36.7892589
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/589868",
+            "contributors": [],
+            "created": "2022-03-24T20:30:54Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-03-24T20:30:54Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "kimolos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "60 inset C5",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Kimolos (island)",
+            "uri": "https://pleiades.stoa.org/places/589867/kimolos-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/589868"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -17,9 +68,21 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:21:24Z",
+    "created": "2022-03-24T20:27:56Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -30,23 +93,90 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 C5 Kimolos",
-    "details": "The Barrington Atlas Directory notes: Ag. Andreas",
+    "description": "An ancient settlement on the Cycladic island of Kimolos, located at modern Ag. Andreas (now a small island in the western bay of Kimolos).",
+    "details": "<p>The Barrington Atlas Directory notes: Ag. Andreas</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.5274651,
+                            36.7878679
+                        ],
+                        [
+                            24.5276213,
+                            36.7879997
+                        ],
+                        [
+                            24.5275427,
+                            36.7881625
+                        ],
+                        [
+                            24.5273156,
+                            36.7884723
+                        ],
+                        [
+                            24.5268123,
+                            36.7888624
+                        ],
+                        [
+                            24.5262714,
+                            36.7892214
+                        ],
+                        [
+                            24.5258369,
+                            36.7892589
+                        ],
+                        [
+                            24.5258129,
+                            36.7892553
+                        ],
+                        [
+                            24.5254795,
+                            36.7889549
+                        ],
+                        [
+                            24.5253032,
+                            36.7887361
+                        ],
+                        [
+                            24.5252527,
+                            36.788631
+                        ],
+                        [
+                            24.5263344,
+                            36.7879821
+                        ],
+                        [
+                            24.5263954,
+                            36.7879753
+                        ],
+                        [
+                            24.5274651,
+                            36.7878679
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "osm-location-of-modern-ii3i1i-i-ii1-2iiii-i",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589867/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/589867/osm-location-of-modern-ii3i1i-i-ii1-2iiii-i",
+                "location_precision": "precise",
+                "snippet": "Island",
+                "title": "OSM Location of modern Άγιος Ανδρέας"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; place type; updated Connections, added Location (once published, the BAtlas location in the baseline should be retracted); update references",
+            "modified": "2022-03-25T02:46:40Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:49:06Z",
@@ -62,100 +192,131 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:21:24Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2022-03-24T20:36:48Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": null,
             "featureType": [
-                "unknown"
+                "island"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            24.5274651,
+                            36.7878679
+                        ],
+                        [
+                            24.5276213,
+                            36.7879997
+                        ],
+                        [
+                            24.5275427,
+                            36.7881625
+                        ],
+                        [
+                            24.5273156,
+                            36.7884723
+                        ],
+                        [
+                            24.5268123,
+                            36.7888624
+                        ],
+                        [
+                            24.5262714,
+                            36.7892214
+                        ],
+                        [
+                            24.5258369,
+                            36.7892589
+                        ],
+                        [
+                            24.5258129,
+                            36.7892553
+                        ],
+                        [
+                            24.5254795,
+                            36.7889549
+                        ],
+                        [
+                            24.5253032,
+                            36.7887361
+                        ],
+                        [
+                            24.5252527,
+                            36.788631
+                        ],
+                        [
+                            24.5263344,
+                            36.7879821
+                        ],
+                        [
+                            24.5263954,
+                            36.7879753
+                        ],
+                        [
+                            24.5274651,
+                            36.7878679
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:49:07Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-03-24T20:37:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-03-24T20:36:49Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-ii3i1i-i-ii1-2iiii-i",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 C5 Kimolos",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 676951029, version 2, osm:changeset=68209657, 2019-03-16T17:46:41Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/676951029",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 676951029",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=676951029",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589867/batlas-location"
+            "start": null,
+            "title": "OSM Location of modern Άγιος Ανδρέας",
+            "uri": "https://pleiades.stoa.org/places/589867/osm-location-of-modern-ii3i1i-i-ii1-2iiii-i"
         }
     ],
     "names": [
@@ -247,41 +408,46 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/island",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unknown"
+        "island",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 C5 Kimolos",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 C5 Kimolos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 60 C5 Kimolos",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Kimolos",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Kimolos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Kimolos",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        24.526411281277895,
+        36.78854561925695
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Kimolos",
+    "title": "Kimolos (settlement)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/589867"
 }
