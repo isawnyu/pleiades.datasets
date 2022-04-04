@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2022/03/27 06:47:32.615861 GMT-4
+# Date: 2022/04/03 06:47:32.209421 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 940
+# Triple count: 952
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -468,6 +468,13 @@
     skos:prefLabel "hunting base"@en;
     skos:scopeNote "A hunting base as defined by the Getty Art and Architecture Thesaurus: Operational centers of any size used for activities surrounding hunting"@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/interior-wall> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/interior-wall>,
+        <http://vocab.getty.edu/aat/300002535>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "wall (interior)"@en;
+    skos:scopeNote "An interior wall as defined by the Getty Art and Architecture Thesaurus: Walls having two interior faces and existing entirely within the exterior walls."@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/island> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/island>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
@@ -772,6 +779,13 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/road>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "road"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/room> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/room>,
+        <http://vocab.getty.edu/aat/300004044>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "room (interior)"@en;
+    skos:scopeNote "A room (interior space) as defined by the Getty Art and Architecture Thesaurus: Refers to the interior portions of buildings or other structures fully separated and divided off from the other portions by a floor, ceiling, and walls or partitions."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/ruin> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/ruin>,
