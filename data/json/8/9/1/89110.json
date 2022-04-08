@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -4.083657,
-        55.956526,
-        -4.083657,
-        55.956526
+        -4.0731702,
+        55.9582428,
+        -4.0707519,
+        55.9595893
     ],
     "connections": [
         {
@@ -91,23 +91,48 @@
         {
             "geometry": {
                 "coordinates": [
-                    -4.083657,
-                    55.956526
+                    [
+                        [
+                            -4.0724035,
+                            55.9582428
+                        ],
+                        [
+                            -4.0707519,
+                            55.9586785
+                        ],
+                        [
+                            -4.0715185,
+                            55.9595893
+                        ],
+                        [
+                            -4.0731702,
+                            55.9591536
+                        ],
+                        [
+                            -4.0724035,
+                            55.9582428
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-19054",
+            "id": "osm-location-of-bar-hill-roman-fort",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/89110/darmc-location-19054",
+                "description": "Representative location based on an OpenStreetMap way outlining the site of the Roman fort.",
+                "link": "https://pleiades.stoa.org/places/89110/osm-location-of-bar-hill-roman-fort",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 19054"
+                "snippet": "Fort; AD 43 - AD 410",
+                "title": "OSM location of  Bar Hill Roman Fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-07T20:57:00Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "wikidata Q12012421: Bar Hill Roman fort",
             "modified": "2021-04-09T14:37:58Z",
@@ -163,85 +188,102 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:43:14Z",
+            "contributors": [],
+            "created": "2017-04-05T17:31:39Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 19054",
-            "end": 300,
+            "description": "Representative location based on an OpenStreetMap way outlining the site of the Roman fort.",
+            "details": "",
+            "end": 410,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    -4.083657,
-                    55.956526
+                    [
+                        [
+                            -4.0724035,
+                            55.9582428
+                        ],
+                        [
+                            -4.0707519,
+                            55.9586785
+                        ],
+                        [
+                            -4.0715185,
+                            55.9595893
+                        ],
+                        [
+                            -4.0731702,
+                            55.9591536
+                        ],
+                        [
+                            -4.0724035,
+                            55.9582428
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:16:31Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2017-04-05T17:33:02Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:43:14Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-04-05T17:31:48Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-19054",
+            "id": "osm-location-of-bar-hill-roman-fort",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 19054",
+            "provenance": "OpenStreetMap (Way 206923634, version 2, osm:changeset=20254782, 2014-01-28T21:28:49Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/206923634",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19054",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 206923634",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19054.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=206923634",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 19054",
-            "uri": "https://pleiades.stoa.org/places/89110/darmc-location-19054"
+            "start": 43,
+            "title": "OSM location of  Bar Hill Roman Fort",
+            "uri": "https://pleiades.stoa.org/places/89110/osm-location-of-bar-hill-roman-fort"
         }
     ],
     "names": [],
@@ -351,11 +393,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "19054",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        -4.083657,
-        55.956526
+        -4.071961040566697,
+        55.95891605517563
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
