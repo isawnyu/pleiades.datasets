@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2022/04/03 06:48:0.079684 GMT-4
+# Date: 2022/04/10 06:47:59.135447 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4114
+# Triple count: 4165
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -68,6 +68,12 @@
     rdfs:label "Arabia";
     rdfs:comment "An ancient place, cited: BAtlas 102 G5 no. 56 (Arabia)";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/1001942> .
+
+<https://pleiades.stoa.org/errata/143028854%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Doublet: Oppidum Bochoritanum";
+    spatial:C <https://pleiades.stoa.org/places/632227173%23this>;
+    rdfs:comment "SEE *BOCCHORI: https://pleiades.stoa.org/places/265827";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/143028854> .
 
 <https://pleiades.stoa.org/errata/177444%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn (duplicate): Aquae Calidae";
@@ -1086,6 +1092,52 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/1001942/batlas-location>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 G5 56" ] .
+
+<https://pleiades.stoa.org/errata/143028854> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "",
+        "Estarellas Ordinas 2005 ",
+        "Plin., NH (Mayhoff: PHI) 3.77.5",
+        "Wikidata Q4936168: Bocchoris",
+        "Wikipedia (English) Bocchoris (city)",
+        "Wikipedia (English) Port de Pollença";
+    dcterms:contributor <https://pleiades.stoa.org/author/jbellviure>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "SEE *BOCCHORI: https://pleiades.stoa.org/places/265827";
+    dcterms:modified "2022-04-07T14:48:23-04:00";
+    dcterms:title "Doublet: Oppidum Bochoritanum";
+    cito:citesAsEvidence <https://latin.packhum.org/loc/978/1/242/595-604>;
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q4936168>;
+    cito:citesForInformation <http://atlantides.org/bibliography/>,
+        <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0006%253Aalphabetic+letter%253DO%253Aentry+group%253D2%253Aentry%253Doppidum-bochoritanum>,
+        <http://www.worldcat.org/oclc/804180875>,
+        <https://en.wikipedia.org/wiki/Bocchoris_(city)>,
+        <https://en.wikipedia.org/wiki/Port_de_Pollen%25C3%25A7a>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/632227173>;
+    owl:sameAs <http://pleiades.stoa.org/errata/143028854>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/port>,
+        <https://pleiades.stoa.org//plone/vocabularies/place-types/settlement>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/143028854/imagery-location-pedret-de-boquer> .
+
+<https://pleiades.stoa.org/errata/143028854/imagery-location-pedret-de-boquer> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "Estarellas Ordinas 2005 ";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbellviure>;
+    dcterms:description "Location of the excavations that uncovered Roman remains of Civitas Bocchoritana";
+    dcterms:modified "2022-04-06T07:13:15-04:00";
+    dcterms:subject "archaeology";
+    dcterms:title "Imagery Location of Pedret de Bóquer";
+    cito:citesAsRelated <http://www.worldcat.org/oclc/804180875>;
+    owl:sameAs <http://pleiades.stoa.org/errata/143028854/imagery-location-pedret-de-boquer>;
+    prov:wasDerivedFrom [ rdfs:label "" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/time-periods/1st-millennium-bce>,
+        <https://pleiades.stoa.org/vocabularies/time-periods/late-antique>,
+        <https://pleiades.stoa.org/vocabularies/time-periods/roman>;
+    pleiades:end_date 640;
+    pleiades:start_date -1000 .
 
 <https://pleiades.stoa.org/errata/177444> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
