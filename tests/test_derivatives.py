@@ -23,3 +23,4 @@ class TestJSON2CSV:
         result = self.converter.convert_place(source)
         assert "295374" == result["id"]
         assert "Zucchabar" == result["title"]
+        assert "Barrington Atlas: BAtlas 30 D4 Zucchabar" == result["provenance"]

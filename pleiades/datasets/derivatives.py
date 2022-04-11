@@ -12,7 +12,8 @@ Code for making derivatives from JSON
 class JSON2CSV:
     common_schema = dict(
         id=lambda x: x["id"],
-        title=lambda x: x["title"]
+        title=lambda x: x["title"],
+        provenance=lambda x: x["provenance"]
     )
 
     place_schema = common_schema.copy()
