@@ -35,3 +35,4 @@ class TestJSON2CSV:
         ) == result["description"]
         assert 36.304939 == result["representative_latitude"]
         assert 2.223758 == result["representative_longitude"]
+        assert [2.223758, 36.304782, 2.22619, 36.304939] == result["bounding_box"]
