@@ -20,6 +20,9 @@ class JSON2CSV:
         representative_latitude=lambda x: x["reprPoint"][1],
         representative_longitude=lambda x: x["reprPoint"][0],
         bounding_box=lambda x: x["bbox"],
+        rights=lambda x: x["rights"],
+        created=lambda x: x["created"],
+        uri=lambda x: x["uri"],
     )
 
     place_schema = common_schema.copy()

@@ -36,3 +36,9 @@ class TestJSON2CSV:
         assert 36.304939 == result["representative_latitude"]
         assert 2.223758 == result["representative_longitude"]
         assert [2.223758, 36.304782, 2.22619, 36.304939] == result["bounding_box"]
+        assert (
+            "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by)."
+            == result["rights"]
+        )
+        assert "2010-09-24T21:02:57Z" == result["created"]
+        assert "https://pleiades.stoa.org/places/295374" == result["uri"]
