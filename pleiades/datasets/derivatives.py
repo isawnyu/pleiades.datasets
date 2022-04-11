@@ -9,11 +9,16 @@
 Code for making derivatives from JSON
 """
 
+
 class JSON2CSV:
     common_schema = dict(
         id=lambda x: x["id"],
         title=lambda x: x["title"],
-        provenance=lambda x: x["provenance"]
+        provenance=lambda x: x["provenance"],
+        details=lambda x: x["details"],
+        description=lambda x: x["description"],
+        representative_latitude=lambda x: x["reprPoint"][1],
+        representative_longitude=lambda x: x["reprPoint"][0]
     )
 
     place_schema = common_schema.copy()
@@ -33,6 +38,7 @@ class JSON2CSV:
     connection_keys = list(connection_schema.keys())
 
     def convert_place(self, source: dict):
-        result = {k: self.place_schema[k](source) or "" for k in self.place_keys}
+        result = {
+            k: self.place_schema[k](source) or "" for k in self.place_keys}
         return result
 

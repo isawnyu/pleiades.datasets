@@ -12,6 +12,7 @@ import json
 from pathlib import Path
 from pleiades.datasets.derivatives import JSON2CSV
 
+
 class TestJSON2CSV:
     converter = JSON2CSV()
 
@@ -24,3 +25,13 @@ class TestJSON2CSV:
         assert "295374" == result["id"]
         assert "Zucchabar" == result["title"]
         assert "Barrington Atlas: BAtlas 30 D4 Zucchabar" == result["provenance"]
+        assert (
+            "<p>The Barrington Atlas Directory notes: Miliana</p>" == result["details"]
+        )
+        assert (
+            "Zucchabar was an ancient city of Mauretania Caesariensis with Punic origins. The modern Algerian "
+            "community of Miliana lies atop and around the largely unexcavated ancient site. Epigraphic evidence "
+            "indicates that the Roman emperor Augustus established a veteran colony there."
+        ) == result["description"]
+        assert 36.304939 == result["representative_latitude"]
+        assert 2.223758 == result["representative_longitude"]
