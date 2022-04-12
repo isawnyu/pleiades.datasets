@@ -70,6 +70,8 @@ class JSON2CSV:
     connection_schema.update(
         id=lambda x, y: x["id"],
         place_id=lambda x, y: y["id"],
+        connection_type=lambda x, y: x["connectionType"],
+        connects_to=lambda x, y: x["connectsTo"],
         association_certainty=lambda x, y: x["associationCertainty"],
         year_after_which=lambda x, y: x["start"],
         year_before_which=lambda x, y: x["end"],
