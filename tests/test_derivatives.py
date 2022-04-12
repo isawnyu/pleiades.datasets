@@ -90,7 +90,7 @@ class TestJSON2CSV:
         assert "toponym used by Ptolemy." == result["description"]
         assert "" == result["details"]
         assert "Pleiades" == result["provenance"]
-        assert "Zouchabbari" == result["title"]
+        assert "Zouchábbari" == result["title"]
         assert "https://pleiades.stoa.org/places/295374/zouchabbari" == result["uri"]
         assert "geographic" == result["name_type"]
         assert "grc" == result["language_tag"]

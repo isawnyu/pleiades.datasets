@@ -23,7 +23,6 @@ setuptools.setup(
         "python-dateutil",
         "requests",
         "shapely",
-        "python-slugify",
     ],
     python_requires=">=3.8.3",
 )
