@@ -18,6 +18,6 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=['airtight', 'python-dateutil', 'requests'],
-    python_requires='>=3.8.3'
+    install_requires=["airtight", "python-dateutil", "requests", "shapely"],
+    python_requires=">=3.8.3",
 )
