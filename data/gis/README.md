@@ -183,7 +183,13 @@
         </ul>
     </dd>
     <dt>transcription_completeness</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>Term indicating whether the witness tradition of a particular name variant has brought us the name in complete form, or if it is fragmentary.</li>
+            <li>Terms and definitions: transcription_completeness.csv.</li>
+            <li>Applies to: names.csv.</li>
+        </ul>
+    </dd>
     <dt>uri</dt>
     <dd></dd>
     <dt>year_after_which</dt>
