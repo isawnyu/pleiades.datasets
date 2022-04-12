@@ -124,3 +124,12 @@ class TestJSON2CSV:
             places = [json.load(fp)]
         del fp
         self.converter.write(places, "tests/data/out")
+
+    def test_write_multi(self):
+        places = list()
+        for filename in ["zucchabar.json", "manliana.json", "urius_river.json"]:
+            filepath = Path("tests/data") / filename
+            with open(filepath, "r", encoding="utf-8") as fp:
+                places.append(json.load(fp))
+            del fp
+        self.converter.write(places, "tests/data/out")
