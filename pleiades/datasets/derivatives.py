@@ -48,6 +48,8 @@ class JSON2CSV:
 
     name_schema = common_schema.copy()
     name_schema.update(
+        id=lambda x, y: x["id"],
+        place_id=lambda x, y: y["id"],
         title=lambda x, y: x["romanized"].split(",")[0].strip(),
         name_type=lambda x, y: x["nameType"],
         language_tag=lambda x, y: x["language"],

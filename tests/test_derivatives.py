@@ -92,6 +92,8 @@ class TestJSON2CSV:
         assert "Pleiades" == result["provenance"]
         assert "Zouchábbari" == result["title"]
         assert "https://pleiades.stoa.org/places/295374/zouchabbari" == result["uri"]
+        assert "zouchabbari" == result["id"]
+        assert "295374" == result["place_id"]
         assert "geographic" == result["name_type"]
         assert "grc" == result["language_tag"]
         assert "Ζουχάββαρι" == result["attested_form"]
