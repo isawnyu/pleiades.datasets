@@ -9,6 +9,7 @@
 Code for making derivatives from JSON
 """
 from shapely.geometry import shape, box
+from slugify import slugify
 
 
 class JSON2CSV:
@@ -47,7 +48,26 @@ class JSON2CSV:
     location_keys = list(location_schema.keys())
 
     name_schema = common_schema.copy()
-    name_schema.update()
+    name_schema.update(
+        title=lambda x, y: [
+            r.strip()
+            for r in x["romanized"].split(",")
+            if r.strip() == slugify(r, separator=" ", lowercase=False)
+        ][0]
+        or x["romanized"].split(",")[0].strip(),
+        name_type=lambda x, y: x["nameType"],
+        language_tag=lambda x, y: x["language"],
+        attested_form=lambda x, y: x["attested"],
+        romanized_form_1=lambda x, y: x["romanized"].split(",")[0].strip(),
+        romanized_form_2=lambda x, y: x["romanized"].split(",")[1].strip() or "",
+        romanized_form_3=lambda x, y: x["romanized"].split(",")[2].strip() or "",
+        association_certainty=lambda x, y: x["associationCertainty"],
+        transcription_accuracy=lambda x, y: x["transcriptionAccuracy"],
+        transcription_completeness=lambda x, y: x["transcriptionCompleteness"],
+        year_after_which=lambda x, y: x["start"],
+        year_before_which=lambda x, y: x["end"],
+        rights=lambda x, y: y["rights"],  # sic
+    )
     name_keys = list(name_schema.keys())
 
     connection_schema = common_schema.copy()
@@ -60,9 +80,21 @@ class JSON2CSV:
         }
         return result
 
-    def convert_location(self, location_source: dict, place_source: str):
+    def convert_location(self, location_source: dict, place_source: dict):
         result = {
             k: self.location_schema[k](location_source, place_source) or ""
             for k in self.location_keys
         }
+        return result
+
+    def convert_name(self, name_source: dict, place_source: dict):
+        result = dict()
+        for k in self.name_keys:
+            if k.startswith("romanized"):
+                try:
+                    result[k] = self.name_schema[k](name_source, place_source) or ""
+                except IndexError:
+                    result[k] = ""
+            else:
+                result[k] = self.name_schema[k](name_source, place_source) or ""
         return result

@@ -78,3 +78,32 @@ class TestJSON2CSV:
             "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by)."
             == result["rights"]
         )
+
+    def test_name(self):
+        filepath = Path("tests/data/zucchabar.json")
+        with open(filepath, "r", encoding="utf-8") as fp:
+            place = json.load(fp)
+        del fp
+        name = place["names"][1]  # because it has Greek
+        result = self.converter.convert_name(name, place)
+        assert "2013-06-07T14:07:50Z" == result["created"]
+        assert "toponym used by Ptolemy." == result["description"]
+        assert "" == result["details"]
+        assert "Pleiades" == result["provenance"]
+        assert "Zouchabbari" == result["title"]
+        assert "https://pleiades.stoa.org/places/295374/zouchabbari" == result["uri"]
+        assert "geographic" == result["name_type"]
+        assert "grc" == result["language_tag"]
+        assert "Ζουχάββαρι" == result["attested_form"]
+        assert "Zouchábbari" == result["romanized_form_1"]
+        assert "Zouchabbari" == result["romanized_form_2"]
+        assert "" == result["romanized_form_3"]
+        assert "certain" == result["association_certainty"]
+        assert "accurate" == result["transcription_accuracy"]
+        assert "complete" == result["transcription_completeness"]
+        assert -30 == result["year_after_which"]
+        assert 300 == result["year_before_which"]
+        assert (
+            "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by)."
+            == result["rights"]
+        )
