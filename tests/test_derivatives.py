@@ -109,3 +109,19 @@ class TestJSON2CSV:
             "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by)."
             == result["rights"]
         )
+
+    def test_connection(self):
+        filepath = Path("tests/data/zucchabar.json")
+        with open(filepath, "r", encoding="utf-8") as fp:
+            place = json.load(fp)
+        del fp
+        connection = place["connections"][0]  # because it has Greek
+        result = self.converter.convert_connection(connection, place)
+        assert "2016-07-13T13:31:46Z" == result["created"]
+        assert "" == result["description"]
+        assert "" == result["details"]
+        assert "Pleiades" == result["provenance"]
+        assert "Mauretania Caesariensis" == result["title"]
+        assert "https://pleiades.stoa.org/places/295374/285482" == result["uri"]
+        assert "285482" == result["id"]
+        assert "295374" == result["place_id"]

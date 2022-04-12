@@ -67,8 +67,18 @@ class JSON2CSV:
     name_keys = list(name_schema.keys())
 
     connection_schema = common_schema.copy()
-    connection_schema.update()
+    connection_schema.update(
+        id=lambda x, y: x["id"],
+        place_id=lambda x, y: y["id"],
+    )
     connection_keys = list(connection_schema.keys())
+
+    def convert_connection(self, connection_source: dict, place_source: dict):
+        result = {
+            k: self.connection_schema[k](connection_source, place_source) or ""
+            for k in self.connection_keys
+        }
+        return result
 
     def convert_place(self, place_source: dict, *args):
         result = {
