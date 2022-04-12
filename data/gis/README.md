@@ -40,6 +40,9 @@
         </ul>
     <dd></dd>
     <dt>bounding_box_wkt</dt>
+        <ul>
+            <li>A bounding box for the geometries of all locations associated with a given place, expressed as a Polygon using the [Well-Known Text (WKT)](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) format.</li>
+        </ul>
     <dd></dd>
     <dt>connection_type</dt>
     <dd></dd>
