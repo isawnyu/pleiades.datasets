@@ -99,6 +99,7 @@ class JSON2CSV:
             "association_certainty",
             "connection_types",
             "places",
+            "languages_and_scripts",
             "location_points",
             "location_polygons",
             "location_linestrings",
@@ -184,6 +185,11 @@ class JSON2CSV:
             )
         filename = "names.csv"
         self._write_csv(dirpath / filename, ready_names[0].keys(), ready_names)
+
+    def _write_languages_and_scripts_csv(self, source_places: list, dirpath: Path):
+        parsed_terms = self._parse_vocab("ancient-name-languages")
+        filename = "languages_and_scripts.csv"
+        self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
 
     def _write_location_linestrings_csv(self, source_places: list, dirpath: Path):
         ready_locations = list()
