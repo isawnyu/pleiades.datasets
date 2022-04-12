@@ -20,8 +20,11 @@ setuptools.setup(
     ],
     install_requires=[
         "airtight",
+        "beautifulsoup4",
+        "lxml",
         "python-dateutil",
         "requests",
+        "requests-cache",
         "shapely",
     ],
     python_requires=">=3.8.3",

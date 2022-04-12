@@ -22,7 +22,7 @@
         <ul>
             <li>Term indicating whether archaeological remains are known to be visible at a particular location and, if so, how substantive they are.</li>
             <li>Applies to: locations.csv</li>
-            <li>Terms and definitions: archaeological_remains_vocabulary.csv</li>
+            <li>Terms and definitions: archaeological_remains.csv</li>
         </ul>
     </dd>
     <dt>association_certainty</dt>

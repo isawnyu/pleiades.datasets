@@ -8,14 +8,18 @@
 """
 Code for making derivatives from JSON
 """
+from bs4 import BeautifulSoup
 import csv
 import logging
 from pathlib import Path
+from pprint import pformat
+import requests_cache
 from shapely.geometry import shape, box
 
 
 class JSON2CSV:
     logger = logging.getLogger("JSON2CSV")
+    session = requests_cache.CachedSession("derivatives")
 
     common_schema = dict(
         created=lambda x, y: x["created"],
@@ -80,10 +84,16 @@ class JSON2CSV:
     )
     connection_keys = list(connection_schema.keys())
 
+    vocabulary_schema = dict(
+        key=lambda x: x["href"].split("/")[-1], term=lambda x: x.string.strip()
+    )
+    vocabulary_keys = list(vocabulary_schema.keys())
+
     def write(self, source: list, dir: str):
         dirpath = Path(dir).expanduser().resolve()
         dirpath.mkdir(parents=True, exist_ok=True)
         for filename in [
+            "archaeological_remains",
             "places",
             "location_points",
             "location_polygons",
@@ -96,6 +106,33 @@ class JSON2CSV:
             except AttributeError:
                 pass
         # add test for missed location types
+
+    def _parse_vocab(self, vocab_slug: str):
+        vocab_uri = f"https://pleiades.stoa.org/vocabularies/{vocab_slug}"
+        r = self.session.get(vocab_uri)
+        if r.status_code != 200:
+            r.raise_for_status()
+        soup = BeautifulSoup(r.text, features="lxml")
+        div = soup.find("div", id="content")
+        links = div.find_all("a", href=True)
+        entries = list()
+        self.logger.debug("foo")
+        for link in links:
+            if (
+                link["href"] in [".", ".."]
+                or link.string.strip().lower() == "back to vocabularies"
+            ):
+                continue
+            entries.append(
+                {k: self.vocabulary_schema[k](link) or "" for k in self.vocabulary_keys}
+            )
+        self.logger.debug(pformat(entries, indent=4))
+        return entries
+
+    def _write_archaeological_remains_csv(self, source_places: list, dirpath: Path):
+        parsed_terms = self._parse_vocab("arch-remains")
+        filename = "archaeological_remains.csv"
+        self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
 
     def _write_connections_csv(self, source_places: list, dirpath: Path):
         ready_connections = list()
