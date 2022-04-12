@@ -78,27 +78,27 @@ class JSON2CSV:
     )
     connection_keys = list(connection_schema.keys())
 
-    def convert_connection(self, connection_source: dict, place_source: dict):
+    def _convert_connection(self, connection_source: dict, place_source: dict):
         result = {
             k: self.connection_schema[k](connection_source, place_source) or ""
             for k in self.connection_keys
         }
         return result
 
-    def convert_place(self, place_source: dict, *args):
+    def _convert_place(self, place_source: dict, *args):
         result = {
             k: self.place_schema[k](place_source, None) or "" for k in self.place_keys
         }
         return result
 
-    def convert_location(self, location_source: dict, place_source: dict):
+    def _convert_location(self, location_source: dict, place_source: dict):
         result = {
             k: self.location_schema[k](location_source, place_source) or ""
             for k in self.location_keys
         }
         return result
 
-    def convert_name(self, name_source: dict, place_source: dict):
+    def _convert_name(self, name_source: dict, place_source: dict):
         result = dict()
         for k in self.name_keys:
             if k.startswith("romanized"):

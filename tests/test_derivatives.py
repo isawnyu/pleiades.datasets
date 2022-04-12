@@ -21,7 +21,7 @@ class TestJSON2CSV:
         with open(filepath, "r", encoding="utf-8") as fp:
             source = json.load(fp)
         del fp
-        result = self.converter.convert_place(source)
+        result = self.converter._convert_place(source)
         assert "2010-09-24T21:02:57Z" == result["created"]
         assert (
             "Zucchabar was an ancient city of Mauretania Caesariensis with Punic origins. The modern Algerian "
@@ -52,7 +52,7 @@ class TestJSON2CSV:
             place = json.load(fp)
         del fp
         location = place["locations"][0]
-        result = self.converter.convert_location(location, place)
+        result = self.converter._convert_location(location, place)
         assert "2011-03-09T22:42:32Z" == result["created"]
         assert "500K scale point location" == result["description"]
         assert "DARMC OBJECTID: 15549" == result["details"]
@@ -85,7 +85,7 @@ class TestJSON2CSV:
             place = json.load(fp)
         del fp
         name = place["names"][1]  # because it has Greek
-        result = self.converter.convert_name(name, place)
+        result = self.converter._convert_name(name, place)
         assert "2013-06-07T14:07:50Z" == result["created"]
         assert "toponym used by Ptolemy." == result["description"]
         assert "" == result["details"]
@@ -116,7 +116,7 @@ class TestJSON2CSV:
             place = json.load(fp)
         del fp
         connection = place["connections"][0]  # because it has Greek
-        result = self.converter.convert_connection(connection, place)
+        result = self.converter._convert_connection(connection, place)
         assert "2016-07-13T13:31:46Z" == result["created"]
         assert "" == result["description"]
         assert "" == result["details"]
