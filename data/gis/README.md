@@ -116,23 +116,72 @@
         </ul>
     </dd>
     <dt>place_id</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>An alphabetic string providing the "id" value for the place with which a particular connection, location, or name is associated. In the case of a connection, this is the place **from which** the connection originates. This field can be used to join data about related connections, names, locations, and places.</li>
+            <li>Applies to: connections.csv, locations_*.csv, and names.csv.</li>
+        </ul>
+    </dd>
     <dt>provenance</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>A short textual statement indicating the origin of the data represented in the record.</li>
+            <li>Applies to: connections.csv, locations_*.csv, names.csv, and places.csv.</li>
+        </ul>
+    </dd>
     <dt>representative_latitude</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>A latitude coordinate, for [a Pleiades "representative point"](https://pleiades.stoa.org/help/representative-points) for a place.</li>
+            <li>Format: this coordinate is expressed in signed digital degrees and measured according to the [World Geodetic System, 1984 version (WGS84)](https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84).</li>
+            <li>Applies to: places.csv.</li>
+        </ul>
+    </dd>
     <dt>representative_longitude</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>A longitude coordinate, for [a Pleiades "representative point"](https://pleiades.stoa.org/help/representative-points) for a place.</li>
+            <li>Format: this coordinate is expressed in signed digital degrees and measured according to the [World Geodetic System, 1984 version (WGS84)](https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84).</li>
+            <li>Applies to: places.csv.</li>
+        </ul>
+    </dd>
     <dt>romanized_form_1</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>A romanized form of a name for a Pleiades place.</li>
+            <li>Note: this field may have a value even if the "attested_form" for a name is blank. When a value is provided in "attested_form", this value is a romanization of that form. Otherwise, this form has been recorded from a secondary source in which the original language and script are not provided (or if the script used originally was not yet supported by the Unicode standard at the time the record was created.)
+            <li>Applies to: names.csv.</li>
+        </ul>
+    </dd>
     <dt>romanized_form_2</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>An alternate romanized form for a name. See "romanized_form_1".</li>
+            <li>Applies to: names.csv.</li>
+        </ul>
+    </dd>
     <dt>romanized_form_3</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>An alternate romanized form for a name. See "romanized_form_1".</li>
+            <li>Applies to: names.csv.</li>
+        </ul>
+    </dd>
     <dt>title</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>An alphanumeric string providing a title for a particular connection, location, name, or place. For more information about naming conventions in Pleiades, see "[About Titles](https://pleiades.stoa.org/help/editorial-guidelines#section-2)" in the *Pleiades Editorial Guidelines.*</li>
+            <li>Applies to: connections.csv, locations_*.csv, names.csv, and places.csv.</li>
+        </ul>
+    </dd>
     <dt>transcription_accuracy</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>A term indicating the level of accuracy thought to obtain with respect to the witness tradition of a particular name variant (i.e., whether or not it has been transmitted to us correctly).</li>
+            <li>Terms and definitions: transcription_accuracy.csv.</li>
+            <li>Applies to: names.csv.</li>
+        </ul>
+    </dd>
     <dt>transcription_completeness</dt>
     <dd></dd>
     <dt>uri</dt>

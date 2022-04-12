@@ -106,6 +106,7 @@ class JSON2CSV:
             "name_types",
             "names",
             "connections",
+            "transcription_accuracy",
         ]:
             try:
                 getattr(self, f"_write_{filename}_csv")(source, dirpath)
@@ -256,9 +257,18 @@ class JSON2CSV:
         filename = "name_types.csv"
         self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
 
-    def _write_csv(self, filepath, fieldnames, rows):
+    def _write_transcription_accuracy_csv(self, source_places: list, dirpath: Path):
+        parsed_terms = self._parse_vocab("name-accuracy")
+        filename = "transcription_accuracy.csv"
+        self._write_csv(
+            dirpath / filename,
+            parsed_terms[0].keys(),
+            parsed_terms,
+        )
+
+    def _write_csv(self, filepath, fieldnames, rows, quoting=csv.QUOTE_MINIMAL):
         with open(filepath, "w", encoding="utf-8-sig") as fp:
-            writer = csv.DictWriter(fp, fieldnames=fieldnames)
+            writer = csv.DictWriter(fp, fieldnames=fieldnames, quoting=quoting)
             writer.writeheader()
             writer.writerows(rows)
         del fp
