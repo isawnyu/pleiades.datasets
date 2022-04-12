@@ -8,6 +8,8 @@
 """
 Code for making derivatives from JSON
 """
+import csv
+from pathlib import Path
 from shapely.geometry import shape, box
 
 
@@ -27,7 +29,6 @@ class JSON2CSV:
         representative_latitude=lambda x, y: x["reprPoint"][1],
         representative_longitude=lambda x, y: x["reprPoint"][0],
         bounding_box_wkt=lambda x, y: box(*x["bbox"]).wkt,
-        rights=lambda x, y: x["rights"],
     )
     place_keys = list(place_schema.keys())
 
@@ -42,7 +43,6 @@ class JSON2CSV:
         geometry_wkt=lambda x, y: shape(x["geometry"]).wkt,
         year_after_which=lambda x, y: x["start"],
         year_before_which=lambda x, y: x["end"],
-        rights=lambda x, y: y["rights"],  # sic
     )
     location_keys = list(location_schema.keys())
 
@@ -62,7 +62,6 @@ class JSON2CSV:
         transcription_completeness=lambda x, y: x["transcriptionCompleteness"],
         year_after_which=lambda x, y: x["start"],
         year_before_which=lambda x, y: x["end"],
-        rights=lambda x, y: y["rights"],  # sic
     )
     name_keys = list(name_schema.keys())
 
@@ -78,16 +77,51 @@ class JSON2CSV:
     )
     connection_keys = list(connection_schema.keys())
 
+    def write(self, source: list, dir: str):
+        dirpath = Path(dir).expanduser().resolve()
+        dirpath.mkdir(parents=True, exist_ok=True)
+        for filename in [
+            "places",
+            "location_points",
+            "location_polygons",
+            "location_linestrings",
+            "names",
+            "connections",
+        ]:
+            try:
+                getattr(self, f"_write_{filename}_csv")(source, dirpath)
+            except AttributeError:
+                pass
+
+    def _write_location_points_csv(self, source_places: list, dirpath: Path):
+        ready_locations = list()
+        for place in source_places:
+            ready_locations.extend(
+                [
+                    self._convert_location(loc, place)
+                    for loc in place["locations"]
+                    if loc["geometry"]["type"] == "Point"
+                ]
+            )
+        filename = "location_points.csv"
+        self._write_csv(dirpath / filename, ready_locations[0].keys(), ready_locations)
+
+    def _write_places_csv(self, source_places: list, dirpath: Path):
+        ready_places = [self._convert_place(p) for p in source_places]
+        filename = "places.csv"
+        self._write_csv(dirpath / filename, ready_places[0].keys(), ready_places)
+
+    def _write_csv(self, filepath, fieldnames, rows):
+        with open(filepath, "w", encoding="utf-8") as fp:
+            writer = csv.DictWriter(fp, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(rows)
+        del fp
+
     def _convert_connection(self, connection_source: dict, place_source: dict):
         result = {
             k: self.connection_schema[k](connection_source, place_source) or ""
             for k in self.connection_keys
-        }
-        return result
-
-    def _convert_place(self, place_source: dict, *args):
-        result = {
-            k: self.place_schema[k](place_source, None) or "" for k in self.place_keys
         }
         return result
 
@@ -108,4 +142,10 @@ class JSON2CSV:
                     result[k] = ""
             else:
                 result[k] = self.name_schema[k](name_source, place_source) or ""
+        return result
+
+    def _convert_place(self, place_source: dict, *args):
+        result = {
+            k: self.place_schema[k](place_source, None) or "" for k in self.place_keys
+        }
         return result

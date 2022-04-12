@@ -41,10 +41,6 @@ class TestJSON2CSV:
             "POLYGON ((2.22619 36.304782, 2.22619 36.304939, 2.223758 36.304939, 2.223758 36.304782, 2.22619 36.304782))"
             == result["bounding_box_wkt"]
         )
-        assert (
-            "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by)."
-            == result["rights"]
-        )
 
     def test_location(self):
         filepath = Path("tests/data/zucchabar.json")
@@ -74,10 +70,6 @@ class TestJSON2CSV:
         assert "POINT (2.223758 36.304939)" == result["geometry_wkt"]
         assert -330 == result["year_after_which"]
         assert 300 == result["year_before_which"]
-        assert (
-            "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by)."
-            == result["rights"]
-        )
 
     def test_name(self):
         filepath = Path("tests/data/zucchabar.json")
@@ -105,10 +97,6 @@ class TestJSON2CSV:
         assert "complete" == result["transcription_completeness"]
         assert -30 == result["year_after_which"]
         assert 300 == result["year_before_which"]
-        assert (
-            "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by)."
-            == result["rights"]
-        )
 
     def test_connection(self):
         filepath = Path("tests/data/zucchabar.json")
@@ -129,3 +117,10 @@ class TestJSON2CSV:
         assert "certain" == result["association_certainty"]
         assert "" == result["year_after_which"]
         assert "" == result["year_before_which"]
+
+    def test_write(self):
+        filepath = Path("tests/data/zucchabar.json")
+        with open(filepath, "r", encoding="utf-8") as fp:
+            places = [json.load(fp)]
+        del fp
+        self.converter.write(places, "tests/data/out")
