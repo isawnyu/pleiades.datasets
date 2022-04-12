@@ -85,7 +85,9 @@ class JSON2CSV:
     connection_keys = list(connection_schema.keys())
 
     vocabulary_schema = dict(
-        key=lambda x: x["href"].split("/")[-1], term=lambda x: x.string.strip()
+        key=lambda x: x["key"],
+        term=lambda x: x["term"],
+        definition=lambda x: x["definition"],
     )
     vocabulary_keys = list(vocabulary_schema.keys())
 
@@ -94,6 +96,7 @@ class JSON2CSV:
         dirpath.mkdir(parents=True, exist_ok=True)
         for filename in [
             "archaeological_remains",
+            "association_certainty",
             "places",
             "location_points",
             "location_polygons",
@@ -115,16 +118,33 @@ class JSON2CSV:
         soup = BeautifulSoup(r.text, features="lxml")
         div = soup.find("div", id="content")
         links = div.find_all("a", href=True)
-        entries = list()
-        self.logger.debug("foo")
+        components = list()
         for link in links:
             if (
                 link["href"] in [".", ".."]
                 or link.string.strip().lower() == "back to vocabularies"
             ):
                 continue
+            component_uri = f"{vocab_uri}/{link['href'].split('/')[-1]}"
+            cr = self.session.get(component_uri)
+            if cr.status_code != 200:
+                cr.raise_for_status()
+            component_soup = BeautifulSoup(cr.text, features="lxml")
+            term_text = component_soup.find("div", id="content").find("p").text.strip()
+            components.append(
+                {
+                    "key": link["href"].split("/")[-1],
+                    "term": link.text.strip(),
+                    "definition": term_text,
+                }
+            )
+        entries = list()
+        for component in components:
             entries.append(
-                {k: self.vocabulary_schema[k](link) or "" for k in self.vocabulary_keys}
+                {
+                    k: self.vocabulary_schema[k](component) or ""
+                    for k in self.vocabulary_keys
+                }
             )
         self.logger.debug(pformat(entries, indent=4))
         return entries
@@ -132,6 +152,11 @@ class JSON2CSV:
     def _write_archaeological_remains_csv(self, source_places: list, dirpath: Path):
         parsed_terms = self._parse_vocab("arch-remains")
         filename = "archaeological_remains.csv"
+        self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
+
+    def _write_association_certainty_csv(self, source_places: list, dirpath: Path):
+        parsed_terms = self._parse_vocab("association-certainty")
+        filename = "association_certainty.csv"
         self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
 
     def _write_connections_csv(self, source_places: list, dirpath: Path):

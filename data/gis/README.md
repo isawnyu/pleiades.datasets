@@ -26,7 +26,13 @@
         </ul>
     </dd>
     <dt>association_certainty</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>Term indicating the level of certainty in the association between a place and a name, location, or connection.</li>
+            <li>Applies to: connections.csv, locations_*.csv, names.csv.</li>
+            <li>Terms and definitions: association_certainty.csv</li>
+        </ul>
+    </dd>
     <dt>attested_form</dt>
     <dd></dd>
     <dt>bounding_box_wkt</dt>
