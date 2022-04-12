@@ -1,33 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        22.462289,
-        37.048788,
-        22.462289,
-        37.048788
+        22.4534818,
+        37.0657435,
+        22.4534818,
+        37.0657435
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
             "connectsTo": "https://pleiades.stoa.org/places/570723",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:50:09Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-04-11T19:40:01Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "570723",
             "provenance": "Pleiades",
             "references": [],
@@ -51,24 +64,30 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2010-09-20T20:51:07Z",
+    "created": "2022-04-11T19:30:39Z",
     "creators": [
         {
             "name": "G. Reger",
@@ -79,29 +98,49 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 58 C3 Menelaion",
+    "description": "An ancient Greek sanctuary of Helen and Menelaos near ancient Therapnai in Greece.",
     "details": "<p>The Barrington Atlas Directory notes: Aphisiou</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    22.462289,
-                    37.048788
+                    22.4534818,
+                    37.0657435
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-16082",
+            "id": "osm-location-of-menelaion",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/570477/darmc-location-16082",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/570477/osm-location-of-menelaion",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 30 BC",
-                "title": "DARMC location 16082"
+                "snippet": "Temple-2; 750 BC - 330 BC",
+                "title": "OSM location of Menelaion"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added TGN reference, added topostext, added bkiesling as contribugtor",
+            "modified": "2022-04-12T03:25:49Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update wikidata, vici.org references",
+            "modified": "2022-04-12T03:23:05Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; cleaned up references; removed redundant Polybius reference",
+            "modified": "2022-04-11T19:39:43Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-11T19:30:32Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2019-01-26T15:08:48Z",
@@ -172,9 +211,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -189,84 +228,71 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "classical",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-25T18:29:36Z",
+            "contributors": [],
+            "created": "2017-11-25T21:43:38Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 16082",
-            "end": -30,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": -330,
             "featureType": [
-                "unknown"
+                "temple-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    22.462289,
-                    37.048788
+                    22.4534818,
+                    37.0657435
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:31:28Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2017-11-25T21:45:44Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-25T18:29:37Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-11-25T21:43:39Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-16082",
+            "id": "osm-location-of-menelaion",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "DARMC OBJECTID: 16082",
+            "provenance": "OpenStreetMap (Node 4583804241, version 2, osm:changeset=54077029, 2017-11-25T16:54:12Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/4583804241",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "16082",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4583804241",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 16082.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=4583804241",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 16082",
-            "uri": "https://pleiades.stoa.org/places/570477/darmc-location-16082"
+            "title": "OSM location of Menelaion",
+            "uri": "https://pleiades.stoa.org/places/570477/osm-location-of-menelaion"
         }
     ],
     "names": [
@@ -346,9 +372,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
         "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
     ],
     "placeTypes": [
+        "sanctuary",
         "temple-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 58 C3 Menelaion",
@@ -367,38 +395,27 @@
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0543.tlg001.perseus-eng1:5.18",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QPGBM7G4",
+            "citationDetail": "5.18-22",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Plb. 5.18",
+            "formattedCitation": "<div class=\"csl-entry\">Polybius. <i>Polybiou Historiai = Polybii Historiae</i>. Edited by Theodor Büttner-Wobst and Ludwig August Dindorf. 4 vols. Lipsiae: B.G. Teubneri, 1882. http://data.perseus.org/texts/urn:cts:greekLit:tlg0543.tlg001.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/citesAsEvidence"
-        },
-        {
-            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0543.tlg001.perseus-eng1:5.22",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Plb. 5.22",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Polyb. (Büttner-Wobst: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DT%3Aentry+group%3D3%3Aentry%3Dtherapnai",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "THERAPNAI or Therapne Greece",
             "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
-            "formattedCitation": "PECS (Perseus), THERAPNAI or Therapne Greece",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "http://purl.org/spar/cito/seeAlso"
         },
         {
-            "accessURI": "https://en.wikipedia.org",
+            "accessURI": "https://en.wikipedia.org/wiki/Menelaion",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Menelaion",
@@ -412,15 +429,15 @@
             "accessURI": "https://www.wikidata.org/wiki/Q23069794",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
-            "citationDetail": "Q23069794",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationDetail": "Q23069794: Menelaion, Sparta",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
-            "accessURI": "https://de.wikipedia.org",
+            "accessURI": "https://de.wikipedia.org/wiki/Menelaion",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
             "citationDetail": "Menelaion",
@@ -433,12 +450,12 @@
         {
             "accessURI": "https://el.wikipedia.org/wiki/%CE%9C%CE%B5%CE%BD%CE%B5%CE%BB%CE%AC%CE%B5%CE%B9%CE%BF%CE%BD_%CE%A3%CF%80%CE%AC%CF%81%CF%84%CE%B7%CF%82",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "Wikipedia (Greek) Μενελάειον Σπάρτης",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BUR4V79V",
+            "citationDetail": "Μενελάειον Σπάρτης",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Βικιπαίδεια: την ελεύθερη εγκυκλοπαίδεια που γράφουμε συμμετοχικά</i>. Wikimedia Foundation, 2001. https://el.wikipedia.org.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikipedia (Greek)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -458,20 +475,20 @@
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BQWXK29G",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">CATLING, H. W., H. HUGHES-BROCK, N. BRODIE, G. JONES, R. E. JONES, and J. E. TOMLINSON. “SPARTA: MENELAION I: THE BRONZE AGE. Volume 1: Text [CD-ROM Content].” <i>The British School at Athens. Supplementary Volumes</i>, no. 45 (2009): CD1–179. http://www.jstor.org/stable/40856090.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Catling, H. W., H. Hughes-Brock, N. Brodie, G. Jones, R. E. Jones, and J. E. Tomlinson. “Sparta: Menelaion I: The Bronze Age. Volume 1: Text [CD-ROM Content].” <i>The British School at Athens. Supplementary Volumes</i>, no. 45 (2009): CD1–179. http://www.jstor.org/stable/40856090.</div>",
             "otherIdentifier": "",
-            "shortTitle": "Catling et al. 2009",
+            "shortTitle": "Catling 2009",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "https://warwick.ac.uk/fac/arts/classics/students/modules/greekreligion/database/clunbf/",
+            "accessURI": "https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/clunbf",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9W92WIKN",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Hero Shrine of Menelaus",
+            "formattedCitation": "<div class=\"csl-entry\">Warwick Archaeological Site Database. “Hero Shrine of Menelaus,” 2016. https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/clunbf.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Hero Shrine of Menelaus 2016",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -500,7 +517,7 @@
             "accessURI": "https://vici.org/",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
-            "citationDetail": "26293",
+            "citationDetail": "26293: Therapne - Menelaion",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
             "otherIdentifier": "",
@@ -515,13 +532,46 @@
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Dawkins, R. M., and Arthur M. Woodward. “Laconia: I. Excavations at Sparta, 1910.” <i>The Annual of the British School at Athens</i> 16 (1909): 1–61. http://www.jstor.org/stable/30096432.</div>",
             "otherIdentifier": "",
-            "shortTitle": "Dawkins and Woodward 1909",
+            "shortTitle": "Dawkins 1909",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "16082",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "http://vocab.getty.edu/page/tgn/8722619",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "citationDetail": "8722619: Menelaion",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TGN",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/370225SMen",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Menelaion (Lakonia)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        22.462289,
-        37.048788
+        22.4534818,
+        37.0657435
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

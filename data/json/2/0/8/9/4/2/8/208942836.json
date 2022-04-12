@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.712593,
-        43.346063,
-        12.712593,
-        43.346063
+        12.7315991,
+        43.3379371,
+        12.7315991,
+        43.3379371
     ],
     "connections": [
         {
@@ -81,23 +81,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.712593,
-                    43.346063
+                    12.7315991,
+                    43.3379371
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-27727",
+            "id": "osm-location-of-ponte-spiano-sigillo",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/208942836/darmc-location-27727",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/208942836/osm-location-of-ponte-spiano-sigillo",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 27727"
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Ponte Spiano, Sigillo"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-11T19:53:03Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2021-07-22T17:14:38Z",
@@ -138,18 +143,12 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "restored",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -157,86 +156,69 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2011-08-12T23:29:03Z",
+            "contributors": [],
+            "created": "2017-11-08T16:04:32Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 27727",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    12.712593,
-                    43.346063
+                    12.7315991,
+                    43.3379371
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:02:11Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2017-11-08T16:05:03Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations.",
-                    "modified": "2011-08-12T23:29:04Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-11-08T16:04:34Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-27727",
+            "id": "osm-location-of-ponte-spiano-sigillo",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "DARMC OBJECTID: 27727",
+            "provenance": "OpenStreetMap (Node 2250054232, version 2, osm:changeset=53614299, 2017-11-08T16:03:47Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2250054232",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "27727",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2250054232",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 27727.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=2250054232",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 27727",
-            "uri": "https://pleiades.stoa.org/places/208942836/darmc-location-27727"
+            "start": -30,
+            "title": "OSM location of Ponte Spiano, Sigillo",
+            "uri": "https://pleiades.stoa.org/places/208942836/osm-location-of-ponte-spiano-sigillo"
         }
     ],
     "names": [],
@@ -302,11 +284,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/clunbf",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "27727",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.712593,
-        43.346063
+        12.7315991,
+        43.3379371
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
