@@ -45,7 +45,13 @@
         </ul>
     <dd></dd>
     <dt>connection_type</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>Term indicating the nature of a connection between two places.</li>
+            <li>Applies to: connections.csv.</li>
+            <li>Terms and definitions: connection_types.csv</li>
+        </ul>
+    </dd>
     <dt>connects_to</dt>
     <dd></dd>
     <dt>created</dt>

@@ -97,6 +97,7 @@ class JSON2CSV:
         for filename in [
             "archaeological_remains",
             "association_certainty",
+            "connection_types",
             "places",
             "location_points",
             "location_polygons",
@@ -157,6 +158,11 @@ class JSON2CSV:
     def _write_association_certainty_csv(self, source_places: list, dirpath: Path):
         parsed_terms = self._parse_vocab("association-certainty")
         filename = "association_certainty.csv"
+        self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
+
+    def _write_connection_types_csv(self, source_places: list, dirpath: Path):
+        parsed_terms = self._parse_vocab("relationship-types")
+        filename = "connection_types.csv"
         self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
 
     def _write_connections_csv(self, source_places: list, dirpath: Path):
