@@ -9,11 +9,14 @@
 Code for making derivatives from JSON
 """
 import csv
+import logging
 from pathlib import Path
 from shapely.geometry import shape, box
 
 
 class JSON2CSV:
+    logger = logging.getLogger("JSON2CSV")
+
     common_schema = dict(
         created=lambda x, y: x["created"],
         description=lambda x, y: x["description"],
@@ -92,6 +95,45 @@ class JSON2CSV:
                 getattr(self, f"_write_{filename}_csv")(source, dirpath)
             except AttributeError:
                 pass
+        # add test for missed location types
+
+    def _write_connections_csv(self, source_places: list, dirpath: Path):
+        ready_connections = list()
+        for place in source_places:
+            ready_connections.extend(
+                [self._convert_connection(conn, place) for conn in place["connections"]]
+            )
+        filename = "connections.csv"
+        self._write_csv(
+            dirpath / filename, ready_connections[0].keys(), ready_connections
+        )
+
+    def _write_names_csv(self, source_places: list, dirpath: Path):
+        ready_names = list()
+        for place in source_places:
+            ready_names.extend(
+                [self._convert_name(name, place) for name in place["names"]]
+            )
+        filename = "names.csv"
+        self._write_csv(dirpath / filename, ready_names[0].keys(), ready_names)
+
+    def _write_location_linestrings_csv(self, source_places: list, dirpath: Path):
+        ready_locations = list()
+        for place in source_places:
+            ready_locations.extend(
+                [
+                    self._convert_location(loc, place)
+                    for loc in place["locations"]
+                    if loc["geometry"]["type"] == "LineString"
+                ]
+            )
+        if ready_locations:
+            filename = "location_linestrings.csv"
+            self._write_csv(
+                dirpath / filename, ready_locations[0].keys(), ready_locations
+            )
+        else:
+            self.logger.warning(f"No linestring locations were found.")
 
     def _write_location_points_csv(self, source_places: list, dirpath: Path):
         ready_locations = list()
@@ -103,8 +145,31 @@ class JSON2CSV:
                     if loc["geometry"]["type"] == "Point"
                 ]
             )
-        filename = "location_points.csv"
-        self._write_csv(dirpath / filename, ready_locations[0].keys(), ready_locations)
+        if ready_locations:
+            filename = "location_points.csv"
+            self._write_csv(
+                dirpath / filename, ready_locations[0].keys(), ready_locations
+            )
+        else:
+            self.logger.warning(f"No point locations were found.")
+
+    def _write_location_polygons_csv(self, source_places: list, dirpath: Path):
+        ready_locations = list()
+        for place in source_places:
+            ready_locations.extend(
+                [
+                    self._convert_location(loc, place)
+                    for loc in place["locations"]
+                    if loc["geometry"]["type"] == "Polygon"
+                ]
+            )
+        if ready_locations:
+            filename = "location_polygons.csv"
+            self._write_csv(
+                dirpath / filename, ready_locations[0].keys(), ready_locations
+            )
+        else:
+            self.logger.warning(f"No polygon locations were found.")
 
     def _write_places_csv(self, source_places: list, dirpath: Path):
         ready_places = [self._convert_place(p) for p in source_places]
@@ -112,7 +177,7 @@ class JSON2CSV:
         self._write_csv(dirpath / filename, ready_places[0].keys(), ready_places)
 
     def _write_csv(self, filepath, fieldnames, rows):
-        with open(filepath, "w", encoding="utf-8") as fp:
+        with open(filepath, "w", encoding="utf-8-sig") as fp:
             writer = csv.DictWriter(fp, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(rows)
