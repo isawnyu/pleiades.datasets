@@ -42,7 +42,7 @@
     <dt>bounding_box_wkt</dt>
         <ul>
             <li>A bounding box for the geometries of all locations associated with a given place.</li>
-            <li>Format: expressed as a Polygon using the [Well-Known Text (WKT)](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) format.</li>
+            <li>Format: expressed as a Polygon using the <a href="https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry">Well-Known Text (WKT)</a> format.</li>
         </ul>
     <dd></dd>
     <dt>connection_type</dt>
@@ -64,7 +64,7 @@
     <dd>
         <ul>
             <li>Date and time the record was created in the Pleiades gazetteer.</li>
-            <li>Format: A date-time string conforming to the [ISO 8601 Date and Time Format](https://en.wikipedia.org/wiki/ISO_8601), e.g. "2016-07-13T13:31:46Z". All date-times are calculated to the second in Universal Coordinated Time (UTC) and the "Z" timezone indicator is appended.</li>
+            <li>Format: A date-time string conforming to the <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601 Date and Time Format</a>, e.g. "2016-07-13T13:31:46Z". All date-times are calculated to the second in <a href="https://en.wikipedia.org/wiki/Coordinated_Universal_Time">Coordinated Universal Time (UTC)</a> and the "Z" timezone indicator is appended.</li>
             <li>Applies to: connections.csv, locations_*.csv, names.csv, and places.csv.</li>
         </ul>
     </dd>
@@ -102,7 +102,7 @@
     <dd>
         <ul>
             <li>An alphabetic string indicating the language and writing system of the name contained in the "attested_form" field.</li>
-            <li>Format: A string conforming to [IETF BCP 47 Language Tags](https://tools.ietf.org/rfc/bcp/bcp47.txt) whose subtags are registered in the [IANA Language Subtag Registry](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry).</li>
+            <li>Format: A string conforming to <a href="https://tools.ietf.org/rfc/bcp/bcp47.txt">IETF BCP 47 Language Tags</a> whose subtags are registered in the <a href="https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">IANA Language Subtag Registry</a>.</li>
             <li>Terms and definitions: all language tags appearing in Pleiades data are defined in languages_and_scripts.csv.</li>
             <li>Applies to: names.csv.</li>
         </ul>
@@ -132,16 +132,16 @@
     <dt>representative_latitude</dt>
     <dd>
         <ul>
-            <li>A latitude coordinate, for [a Pleiades "representative point"](https://pleiades.stoa.org/help/representative-points) for a place.</li>
-            <li>Format: this coordinate is expressed in signed digital degrees and measured according to the [World Geodetic System, 1984 version (WGS84)](https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84).</li>
+            <li>A latitude coordinate, for <a href="https://pleiades.stoa.org/help/representative-points">a Pleiades "representative point"</a> for a place.</li>
+            <li>Format: this coordinate is expressed in signed digital degrees and measured according to the <a href="https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84">World Geodetic System, 1984 version (WGS84)</a>.</li>
             <li>Applies to: places.csv.</li>
         </ul>
     </dd>
     <dt>representative_longitude</dt>
     <dd>
         <ul>
-            <li>A longitude coordinate, for [a Pleiades "representative point"](https://pleiades.stoa.org/help/representative-points) for a place.</li>
-            <li>Format: this coordinate is expressed in signed digital degrees and measured according to the [World Geodetic System, 1984 version (WGS84)](https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84).</li>
+            <li>A latitude coordinate, for <a href="https://pleiades.stoa.org/help/representative-points">a Pleiades "representative point"</a> for a place.</li>
+            <li>Format: this coordinate is expressed in signed digital degrees and measured according to the <a href="https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84">World Geodetic System, 1984 version (WGS84)</a>.</li>
             <li>Applies to: places.csv.</li>
         </ul>
     </dd>
@@ -170,7 +170,7 @@
     <dt>title</dt>
     <dd>
         <ul>
-            <li>An alphanumeric string providing a title for a particular connection, location, name, or place. For more information about naming conventions in Pleiades, see "[About Titles](https://pleiades.stoa.org/help/editorial-guidelines#section-2)" in the *Pleiades Editorial Guidelines.*</li>
+            <li>An alphanumeric string providing a title for a particular connection, location, name, or place. For more information about naming conventions in Pleiades, see "<a href="https://pleiades.stoa.org/help/editorial-guidelines#section-2">About Titles</a>" in the *Pleiades Editorial Guidelines.*</li>
             <li>Applies to: connections.csv, locations_*.csv, names.csv, and places.csv.</li>
         </ul>
     </dd>
@@ -191,16 +191,25 @@
         </ul>
     </dd>
     <dt>uri</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>A Uniform Resource Identifier uniquely identifying a particular connection, location, name, or place.</li>
+            <li>Applies to: connections.csv, locations_*.csv, names.csv, and places.csv.</li>
+        </ul>        
+    </dd>
     <dt>year_after_which</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>The year after which a particular connection, location, name, or place flourished, was in use, or otherwise obtained, i.e., <i><a href="https://en.wikipedia.org/wiki/Terminus_post_quem">terminus post quem</a></i>.</li>
+            <li>Format: a signed integer indicating a year in the <a href="https://en.wikipedia.org/wiki/Proleptic_Julian_calendar">proleptic Julian calendar</a>. There is no <a href="https://en.wikipedia.org/wiki/Year_zero">year zero</a>.</li>
+            <li>Applies to: connections.csv, locations_*.csv, names.csv, and places.csv.</li>
+        </ul>
+    </dd>
     <dt>year_before_which</dt>
-    <dd></dd>
-
+    <dd>
+        <ul>
+            <li>The year before which a particular connection, location, name, or place flourished, was in use, or otherwise obtained, i.e., <i>terminus ante quem</i>.</li>
+            <li>Format: a signed integer indicating a year in the <a href="https://en.wikipedia.org/wiki/Proleptic_Julian_calendar">proleptic Julian calendar</a>. There is no <a href="https://en.wikipedia.org/wiki/Year_zero">year zero</a>.</li>
+            <li>Applies to: connections.csv, locations_*.csv, names.csv, and places.csv.</li>
+    </dd>
 </dl>
-
-## Field Coverage
-
-| heading | places | names | locations | connections |
-| --- |:---:|:---:|:---:|:---:|
-| created | x | x | x | x |
