@@ -125,3 +125,6 @@ class TestJSON2CSV:
         assert "https://pleiades.stoa.org/places/295374/285482" == result["uri"]
         assert "285482" == result["id"]
         assert "295374" == result["place_id"]
+        assert "certain" == result["association_certainty"]
+        assert "" == result["year_after_which"]
+        assert "" == result["year_before_which"]
