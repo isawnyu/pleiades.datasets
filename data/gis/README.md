@@ -34,6 +34,10 @@
         </ul>
     </dd>
     <dt>attested_form</dt>
+        <ul>
+            <li>Transcription of the attested form of the name in its original language and script (Unicode characters), if known.</li>
+            <li>Applies to: names.csv</li>
+        </ul>
     <dd></dd>
     <dt>bounding_box_wkt</dt>
     <dd></dd>
