@@ -103,6 +103,7 @@ class JSON2CSV:
             "location_points",
             "location_polygons",
             "location_linestrings",
+            "name_types",
             "names",
             "connections",
         ]:
@@ -249,6 +250,11 @@ class JSON2CSV:
         ready_places = [self._convert_place(p) for p in source_places]
         filename = "places.csv"
         self._write_csv(dirpath / filename, ready_places[0].keys(), ready_places)
+
+    def _write_name_types_csv(self, source_places: list, dirpath: Path):
+        parsed_terms = self._parse_vocab("name-types")
+        filename = "name_types.csv"
+        self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
 
     def _write_csv(self, filepath, fieldnames, rows):
         with open(filepath, "w", encoding="utf-8-sig") as fp:

@@ -108,7 +108,13 @@
         </ul>
     </dd>
     <dt>name_type</dt>
-    <dd></dd>
+    <dd>
+        <ul>
+            <li>Term indicating the type or function of a name string as recorded in Pleiades.</li>
+            <li>Terms and definitions: name_types.csv.</li>
+            <li>Applies to: names.csv.</li>
+        </ul>
+    </dd>
     <dt>place_id</dt>
     <dd></dd>
     <dt>provenance</dt>
