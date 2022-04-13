@@ -111,10 +111,9 @@ class JSON2CSV:
             "transcription_accuracy",
             "transcription_completeness",
         ]:
-            try:
-                getattr(self, f"_write_{filename}_csv")(source, dirpath)
-            except AttributeError:
-                pass
+            print(f"Processing {filename}", end=" ...")
+            getattr(self, f"_write_{filename}_csv")(source, dirpath)
+            print(f"done")
         # add test for missed location types
 
     def _parse_vocab(self, vocab_slug: str):
@@ -202,7 +201,7 @@ class JSON2CSV:
                 if loc["geometry"] is None:
                     continue
                 if loc["geometry"]["type"] == "LineString":
-                    ready_locations.add(self._convert_location(loc, place))
+                    ready_locations.append(self._convert_location(loc, place))
         if ready_locations:
             filename = "location_linestrings.csv"
             self._write_csv(
@@ -216,7 +215,7 @@ class JSON2CSV:
         for place in source_places:
             for loc in place["locations"]:
                 if loc["geometry"]["type"] == "Point":
-                    ready_locations.add(self._convert_location(loc, place))
+                    ready_locations.append(self._convert_location(loc, place))
         if ready_locations:
             filename = "location_points.csv"
             self._write_csv(
@@ -230,7 +229,7 @@ class JSON2CSV:
         for place in source_places:
             for loc in place["locations"]:
                 if loc["geometry"]["type"] == "Polygon":
-                    ready_locations.add(self._convert_location(loc, place))
+                    ready_locations.append(self._convert_location(loc, place))
         if ready_locations:
             filename = "location_polygons.csv"
             self._write_csv(
