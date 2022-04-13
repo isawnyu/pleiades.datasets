@@ -15,6 +15,8 @@ from pathlib import Path
 from pprint import pformat
 import requests_cache
 from shapely.geometry import shape, box
+import sys
+import traceback
 
 
 class JSON2CSV:
@@ -172,9 +174,8 @@ class JSON2CSV:
     def _write_connections_csv(self, source_places: list, dirpath: Path):
         ready_connections = list()
         for place in source_places:
-            ready_connections.extend(
-                [self._convert_connection(conn, place) for conn in place["connections"]]
-            )
+            for conn in place["connections"]:
+                ready_connections.add(self._convert_connection(conn, place))
         filename = "connections.csv"
         self._write_csv(
             dirpath / filename, ready_connections[0].keys(), ready_connections
@@ -197,13 +198,11 @@ class JSON2CSV:
     def _write_location_linestrings_csv(self, source_places: list, dirpath: Path):
         ready_locations = list()
         for place in source_places:
-            ready_locations.extend(
-                [
-                    self._convert_location(loc, place)
-                    for loc in place["locations"]
-                    if loc["geometry"]["type"] == "LineString"
-                ]
-            )
+            for loc in place["locations"]:
+                if loc["geometry"] is None:
+                    continue
+                if loc["geometry"]["type"] == "LineString":
+                    ready_locations.add(self._convert_location(loc, place))
         if ready_locations:
             filename = "location_linestrings.csv"
             self._write_csv(
@@ -215,13 +214,9 @@ class JSON2CSV:
     def _write_location_points_csv(self, source_places: list, dirpath: Path):
         ready_locations = list()
         for place in source_places:
-            ready_locations.extend(
-                [
-                    self._convert_location(loc, place)
-                    for loc in place["locations"]
-                    if loc["geometry"]["type"] == "Point"
-                ]
-            )
+            for loc in place["locations"]:
+                if loc["geometry"]["type"] == "Point":
+                    ready_locations.add(self._convert_location(loc, place))
         if ready_locations:
             filename = "location_points.csv"
             self._write_csv(
@@ -233,13 +228,9 @@ class JSON2CSV:
     def _write_location_polygons_csv(self, source_places: list, dirpath: Path):
         ready_locations = list()
         for place in source_places:
-            ready_locations.extend(
-                [
-                    self._convert_location(loc, place)
-                    for loc in place["locations"]
-                    if loc["geometry"]["type"] == "Polygon"
-                ]
-            )
+            for loc in place["locations"]:
+                if loc["geometry"]["type"] == "Polygon":
+                    ready_locations.add(self._convert_location(loc, place))
         if ready_locations:
             filename = "location_polygons.csv"
             self._write_csv(
@@ -291,10 +282,13 @@ class JSON2CSV:
         return result
 
     def _convert_location(self, location_source: dict, place_source: dict):
-        result = {
-            k: self.location_schema[k](location_source, place_source) or ""
-            for k in self.location_keys
-        }
+        result = dict()
+        for k in self.location_keys:
+            try:
+                result[k] = self.location_schema[k](location_source, place_source) or ""
+            except KeyError as err:
+                self.logger.error(pformat(location_source, indent=4))
+                raise
         return result
 
     def _convert_name(self, name_source: dict, place_source: dict):
@@ -310,7 +304,25 @@ class JSON2CSV:
         return result
 
     def _convert_place(self, place_source: dict, *args):
-        result = {
-            k: self.place_schema[k](place_source, None) or "" for k in self.place_keys
-        }
+        result = dict()
+        for k in self.place_keys:
+            try:
+                result[k] = self.place_schema[k](place_source, None) or ""
+            except TypeError as err:
+                msg = str(err)
+                if msg in [
+                    "'NoneType' object is not subscriptable",
+                    "shapely.geometry.geo.box() argument after * must be an iterable, not NoneType",
+                ]:
+                    result[k] = ""
+                else:
+                    exc_type, exc_value, exc_traceback = sys.exc_info()
+                    self.logger.error(
+                        f"Error converting place {place_source['id']}, field key {k}:\n"
+                        + "".join(
+                            traceback.format_exception(
+                                exc_type, exc_value, exc_traceback, limit=3
+                            )
+                        )
+                    )
         return result
