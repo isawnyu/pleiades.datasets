@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        35.651803,
-        34.019518,
-        35.651803,
-        34.019518
+        35.6426463,
+        34.0127927,
+        35.6428318,
+        34.0129993
     ],
     "connections": [],
     "connectsWith": [],
@@ -48,28 +48,58 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 69 C1 unnamed bridge (Maameltein, N Palaibyblos)",
-    "details": "The Barrington Atlas Directory notes: Maameltein, N Palaibyblos",
+    "details": "<p>The Barrington Atlas Directory notes: Maameltein, N Palaibyblos</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    35.651803,
-                    34.019518
+                    [
+                        [
+                            35.6427673,
+                            34.0127927
+                        ],
+                        [
+                            35.6428318,
+                            34.01282
+                        ],
+                        [
+                            35.6427103,
+                            34.0129993
+                        ],
+                        [
+                            35.6426463,
+                            34.012968
+                        ],
+                        [
+                            35.6427673,
+                            34.0127927
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-14774",
+            "id": "osm-location",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/679508/darmc-location-14774",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/679508/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 14774"
+                "snippet": "Bridge; 140 BC - AD 640",
+                "title": "OSM location of Maalmetein Roman bridge"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title",
+            "modified": "2022-04-11T10:30:32Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-11T10:30:10Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2020-08-04T15:48:15Z",
@@ -100,8 +130,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -109,86 +139,110 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-middle-east"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-08-04T21:23:58Z",
+            "created": "2014-11-21T16:45:12Z",
             "creators": [
                 {
-                    "name": "J.P. Brown",
-                    "username": null
-                },
-                {
-                    "name": "E.M. Meyers",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 14774",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    35.651803,
-                    34.019518
+                    [
+                        [
+                            35.6427673,
+                            34.0127927
+                        ],
+                        [
+                            35.6428318,
+                            34.01282
+                        ],
+                        [
+                            35.6427103,
+                            34.0129993
+                        ],
+                        [
+                            35.6426463,
+                            34.012968
+                        ],
+                        [
+                            35.6427673,
+                            34.0127927
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:52:48Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-04-11T10:28:21Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-04T21:23:59Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2020-08-04T15:49:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-11-21T16:45:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-11-21T16:45:16Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-14774",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "DARMC OBJECTID: 14774",
+            "provenance": "OpenStreetMap (Way 313844813, version 4, osm:changeset=57119385, 2018-03-12T18:02:47Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/313844813",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "14774",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 313844813",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 14774.",
+                    "formattedCitation": "osm:way=313844813",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 14774",
-            "uri": "https://pleiades.stoa.org/places/679508/darmc-location-14774"
+            "start": -140,
+            "title": "OSM location of Maalmetein Roman bridge",
+            "uri": "https://pleiades.stoa.org/places/679508/osm-location"
         }
     ],
     "names": [],
@@ -221,11 +275,22 @@
             "otherIdentifier": "",
             "shortTitle": "Goodchild 1949",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "14774",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.651803,
-        34.019518
+        35.642738998786875,
+        34.01289527898782
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -234,7 +299,7 @@
         "dare:ancient=2",
         "dare:feature=bridge"
     ],
-    "title": "Untitled",
+    "title": "Maalmetein Roman Bridge",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/679508"
 }

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        2.399225,
-        45.452599,
-        2.399225,
-        45.452599
+        2.4259404,
+        45.4505839,
+        2.4265465,
+        45.4509451
     ],
     "connections": [],
     "connectsWith": [],
@@ -59,23 +59,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    2.399225,
-                    45.452599
+                    [
+                        [
+                            2.4261764,
+                            45.4505839
+                        ],
+                        [
+                            2.4264178,
+                            45.4506742
+                        ],
+                        [
+                            2.4265465,
+                            45.4507871
+                        ],
+                        [
+                            2.4265197,
+                            45.4509188
+                        ],
+                        [
+                            2.4264071,
+                            45.4509451
+                        ],
+                        [
+                            2.4261013,
+                            45.4509414
+                        ],
+                        [
+                            2.4259779,
+                            45.4509282
+                        ],
+                        [
+                            2.4259404,
+                            45.4508924
+                        ],
+                        [
+                            2.4261764,
+                            45.4505839
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-16071",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/138447/darmc-location-16071",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/138447/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 16071"
+                "snippet": "Sanctuary; 30 BC - AD 640",
+                "title": "OSM location of Sanctuaire gallo-romain"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-11T19:55:35Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2016-07-29T00:03:01Z",
@@ -121,100 +162,151 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-09T22:51:11Z",
+            "created": "2014-11-16T03:02:22Z",
             "creators": [
                 {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 16071",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "sanctuary"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
             "geometry": {
                 "coordinates": [
-                    2.399225,
-                    45.452599
+                    [
+                        [
+                            2.4261764,
+                            45.4505839
+                        ],
+                        [
+                            2.4264178,
+                            45.4506742
+                        ],
+                        [
+                            2.4265465,
+                            45.4507871
+                        ],
+                        [
+                            2.4265197,
+                            45.4509188
+                        ],
+                        [
+                            2.4264071,
+                            45.4509451
+                        ],
+                        [
+                            2.4261013,
+                            45.4509414
+                        ],
+                        [
+                            2.4259779,
+                            45.4509282
+                        ],
+                        [
+                            2.4259404,
+                            45.4508924
+                        ],
+                        [
+                            2.4261764,
+                            45.4505839
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:24:14Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimport",
+                    "modified": "2022-04-11T19:54:47Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:00:56Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2019-04-26T02:36:12Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T22:51:12Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2016-07-29T00:03:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-11-16T03:03:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-11-16T03:02:25Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-16071",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
-            "provenance": "DARMC OBJECTID: 16071",
+            "provenance": "OpenStreetMap (Way 313030372, version 2, osm:changeset=48537443, 2017-05-09T17:06:37Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/313030372",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "16071",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 313030372",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 16071.",
+                    "formattedCitation": "osm:way=313030372",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=margerides",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "PECS (Perseus), MARGERIDES Corrèze, France",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 16071",
-            "uri": "https://pleiades.stoa.org/places/138447/darmc-location-16071"
+            "title": "OSM location of Sanctuaire gallo-romain",
+            "uri": "https://pleiades.stoa.org/places/138447/osm-location"
         }
     ],
     "names": [
@@ -326,11 +418,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/clunbf",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "16071",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        2.399225,
-        45.452599
+        2.4262528781420016,
+        45.450809173603865
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
