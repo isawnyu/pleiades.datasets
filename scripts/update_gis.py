@@ -56,9 +56,10 @@ def main(**kwargs):
                 del fp
                 i += 1
                 if i % 1000 == 0:
-                    print(f"processed {i} JSON files ...")
+                    print(f"Read {i} JSON files.")
         if "c" in dirs:
             dirs.remove("c")
+    print(f"Read {len(places)} JSON files.")
     converter.write(places, "data/gis")
 
 
