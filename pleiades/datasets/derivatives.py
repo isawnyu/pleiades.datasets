@@ -174,7 +174,7 @@ class JSON2CSV:
         ready_connections = list()
         for place in source_places:
             for conn in place["connections"]:
-                ready_connections.add(self._convert_connection(conn, place))
+                ready_connections.append(self._convert_connection(conn, place))
         filename = "connections.csv"
         self._write_csv(
             dirpath / filename, ready_connections[0].keys(), ready_connections
@@ -199,6 +199,12 @@ class JSON2CSV:
         for place in source_places:
             for loc in place["locations"]:
                 if loc["geometry"] is None:
+                    if loc["id"] not in ["batlas-location", "undetermined"] and not loc[
+                        "id"
+                    ].startswith("gane-location"):
+                        print(
+                            f"WARNING: points NULL geometry for location {loc['id']} '{loc['title']}' of place {place['id']} {place['title']}"
+                        )
                     continue
                 if loc["geometry"]["type"] == "LineString":
                     ready_locations.append(self._convert_location(loc, place))
@@ -214,6 +220,14 @@ class JSON2CSV:
         ready_locations = list()
         for place in source_places:
             for loc in place["locations"]:
+                if loc["geometry"] is None:
+                    if loc["id"] not in ["batlas-location", "undetermined"] and not loc[
+                        "id"
+                    ].startswith("gane-location"):
+                        print(
+                            f"WARNING: points NULL geometry for location {loc['id']} '{loc['title']}' of place {place['id']} {place['title']}"
+                        )
+                    continue
                 if loc["geometry"]["type"] == "Point":
                     ready_locations.append(self._convert_location(loc, place))
         if ready_locations:
@@ -228,6 +242,14 @@ class JSON2CSV:
         ready_locations = list()
         for place in source_places:
             for loc in place["locations"]:
+                if loc["geometry"] is None:
+                    if loc["id"] not in ["batlas-location", "undetermined"] and not loc[
+                        "id"
+                    ].startswith("gane-location"):
+                        print(
+                            f"WARNING: polygons NULL geometry for location {loc['id']} '{loc['title']}' of place {place['id']} {place['title']}"
+                        )
+                    continue
                 if loc["geometry"]["type"] == "Polygon":
                     ready_locations.append(self._convert_location(loc, place))
         if ready_locations:
