@@ -19,6 +19,7 @@ Download: [pleiades_gis_data.zip](pleiades_gis_data.zip)
  - `name_types.csv`: terms from the [Name Types Vocabulary](https://pleiades.stoa.org/vocabularies/name-types)
  - `names.csv`: _Pleiades_ Names.
  - `place_types.csv`: terms from the [Place Types (Feature or Place Categories) Vocabulary](https://pleiades.stoa.org/vocabularies/place-types)
+ - `places_place_types.csv`: matches place ids (join to places.csv:id) to placetype ids (join to place_types.csv:key).
  - `places.csv`: _Pleiades_ Places.
  - `README.md`: this file
  - `transcription_accuracy.csv`: terms from the [Transcription (Name) Accuracy Vocabulary](https://pleiades.stoa.org/vocabularies/name-accuracy)
