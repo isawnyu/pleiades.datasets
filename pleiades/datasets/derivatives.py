@@ -100,15 +100,16 @@ class JSON2CSV:
             "archaeological_remains",
             "association_certainty",
             "connection_types",
-            "places",
+            "connections",
             "languages_and_scripts",
+            "location_linestrings",
             "location_points",
             "location_polygons",
-            "location_linestrings",
-            "place_types",
             "name_types",
             "names",
-            "connections",
+            "place_types",
+            "places_place_types",
+            "places",
             "transcription_accuracy",
             "transcription_completeness",
         ]:
@@ -261,15 +262,23 @@ class JSON2CSV:
         else:
             self.logger.warning(f"No polygon locations were found.")
 
-    def _write_places_csv(self, source_places: list, dirpath: Path):
-        ready_places = [self._convert_place(p) for p in source_places]
-        filename = "places.csv"
-        self._write_csv(dirpath / filename, ready_places[0].keys(), ready_places)
-
     def _write_place_types_csv(self, source_places: list, dirpath: Path):
         parsed_terms = self._parse_vocab("place-types")
         filename = "place_types.csv"
         self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
+
+    def _write_places_place_types_csv(self, source_places: list, dirpath: Path):
+        rows = list()
+        for p in source_places:
+            for ptype in p["placeTypes"]:
+                rows.append({"place_id": p["id"], "place_type": ptype})
+        filename = "places_place_types.csv"
+        self._write_csv(dirpath / filename, rows[0].keys(), rows)
+
+    def _write_places_csv(self, source_places: list, dirpath: Path):
+        ready_places = [self._convert_place(p) for p in source_places]
+        filename = "places.csv"
+        self._write_csv(dirpath / filename, ready_places[0].keys(), ready_places)
 
     def _write_name_types_csv(self, source_places: list, dirpath: Path):
         parsed_terms = self._parse_vocab("name-types")
