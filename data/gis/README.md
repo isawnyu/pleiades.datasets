@@ -1,6 +1,6 @@
 # _Pleiades_ Data for GIS
 
-Last update: 13 April 2022
+Last update: 14 April 2022
 
 A collection of CSV files derived from data in the [_Pleiades_ gazetteer of ancient places](https://pleiades.stoa.org). This collection is intended to facilitate use of _Pleiades_ data in geographic information systems software. Files have been tested for use in QGIS.
 
@@ -18,6 +18,7 @@ Download: [pleiades_gis_data.zip](pleiades_gis_data.zip)
  - `location_polygons.csv`: _Pleiades_ Locations with Polygon geometry.
  - `name_types.csv`: terms from the [Name Types Vocabulary](https://pleiades.stoa.org/vocabularies/name-types)
  - `names.csv`: _Pleiades_ Names.
+ - `place_types.csv`: terms from the [Place Types (Feature or Place Categories) Vocabulary](https://pleiades.stoa.org/vocabularies/place-types)
  - `places.csv`: _Pleiades_ Places.
  - `README.md`: this file
  - `transcription_accuracy.csv`: terms from the [Transcription (Name) Accuracy Vocabulary](https://pleiades.stoa.org/vocabularies/name-accuracy)
