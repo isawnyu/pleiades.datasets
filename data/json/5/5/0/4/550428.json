@@ -1,33 +1,46 @@
 {
     "@type": "Place",
     "bbox": [
-        28.044921,
-        38.572215,
-        28.044921,
-        38.572215
+        28.0433024,
+        38.5709553,
+        28.0470181,
+        38.5738394
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/550485",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:43:47Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "located at",
+                    "modified": "2022-04-14T22:43:10Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "550485",
             "provenance": "Pleiades",
             "references": [],
@@ -89,23 +102,109 @@
         {
             "geometry": {
                 "coordinates": [
-                    28.044921,
-                    38.572215
+                    [
+                        [
+                            28.0446723,
+                            38.5709553
+                        ],
+                        [
+                            28.0457199,
+                            38.5709973
+                        ],
+                        [
+                            28.0462123,
+                            38.5712143
+                        ],
+                        [
+                            28.0466242,
+                            38.5715083
+                        ],
+                        [
+                            28.0470181,
+                            38.5720264
+                        ],
+                        [
+                            28.0470002,
+                            38.5724324
+                        ],
+                        [
+                            28.0467764,
+                            38.5729714
+                        ],
+                        [
+                            28.0465078,
+                            38.5733984
+                        ],
+                        [
+                            28.0462213,
+                            38.5736434
+                        ],
+                        [
+                            28.0457825,
+                            38.5738324
+                        ],
+                        [
+                            28.0449319,
+                            38.5738394
+                        ],
+                        [
+                            28.0442425,
+                            38.5736924
+                        ],
+                        [
+                            28.0437859,
+                            38.5734334
+                        ],
+                        [
+                            28.0434635,
+                            38.5729924
+                        ],
+                        [
+                            28.0433024,
+                            38.5723694
+                        ],
+                        [
+                            28.0434098,
+                            38.5719494
+                        ],
+                        [
+                            28.0435799,
+                            38.5715083
+                        ],
+                        [
+                            28.0440097,
+                            38.5711793
+                        ],
+                        [
+                            28.0446723,
+                            38.5709553
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-23073",
+            "id": "location-of-tumulus-of-alyattes",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/550428/darmc-location-23073",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/550428/location-of-tumulus-of-alyattes",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 330 BC",
-                "title": "DARMC location 23073"
+                "snippet": "Tumulus; 750 BC - 550 BC",
+                "title": "OSM location of Tumulus of Alyattes"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title",
+            "modified": "2022-04-14T22:42:56Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-14T22:42:45Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2020-08-26T15:28:28Z",
@@ -151,9 +250,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -162,88 +261,165 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "archaic",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-01T03:35:34Z",
+            "created": "2018-07-28T21:59:27Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 23073",
-            "end": -330,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": -550,
             "featureType": [
-                "unknown"
+                "tumulus"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
             ],
             "geometry": {
                 "coordinates": [
-                    28.044921,
-                    38.572215
+                    [
+                        [
+                            28.0446723,
+                            38.5709553
+                        ],
+                        [
+                            28.0457199,
+                            38.5709973
+                        ],
+                        [
+                            28.0462123,
+                            38.5712143
+                        ],
+                        [
+                            28.0466242,
+                            38.5715083
+                        ],
+                        [
+                            28.0470181,
+                            38.5720264
+                        ],
+                        [
+                            28.0470002,
+                            38.5724324
+                        ],
+                        [
+                            28.0467764,
+                            38.5729714
+                        ],
+                        [
+                            28.0465078,
+                            38.5733984
+                        ],
+                        [
+                            28.0462213,
+                            38.5736434
+                        ],
+                        [
+                            28.0457825,
+                            38.5738324
+                        ],
+                        [
+                            28.0449319,
+                            38.5738394
+                        ],
+                        [
+                            28.0442425,
+                            38.5736924
+                        ],
+                        [
+                            28.0437859,
+                            38.5734334
+                        ],
+                        [
+                            28.0434635,
+                            38.5729924
+                        ],
+                        [
+                            28.0433024,
+                            38.5723694
+                        ],
+                        [
+                            28.0434098,
+                            38.5719494
+                        ],
+                        [
+                            28.0435799,
+                            38.5715083
+                        ],
+                        [
+                            28.0440097,
+                            38.5711793
+                        ],
+                        [
+                            28.0446723,
+                            38.5709553
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:16:44Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-04-14T22:42:02Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-01T03:35:35Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2018-07-29T02:36:15Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-23073",
+            "id": "location-of-tumulus-of-alyattes",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tumulus"
             ],
-            "provenance": "DARMC OBJECTID: 23073",
+            "provenance": "OpenStreetMap (Way 137723294, version 3, osm:changeset=13292698, 2012-09-29T06:21:35Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/137723294",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "23073",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 137723294",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 23073.",
+                    "formattedCitation": "osm:way=137723294",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Alyattes_of_Lydia",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Alyattes of Lydia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Alyattes of Lydia.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 23073",
-            "uri": "https://pleiades.stoa.org/places/550428/darmc-location-23073"
+            "title": "OSM location of Tumulus of Alyattes",
+            "uri": "https://pleiades.stoa.org/places/550428/location-of-tumulus-of-alyattes"
         }
     ],
     "names": [
@@ -371,11 +547,22 @@
             "otherIdentifier": "",
             "shortTitle": "Str. (Meineke: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "23073",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        28.044921,
-        38.572215
+        28.04514600109142,
+        38.572393548995464
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -384,7 +571,7 @@
         "dare:major=0",
         "dare:feature=tumulus"
     ],
-    "title": "Alyattes",
+    "title": "Alyattes Tumulus",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/550428"
 }

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.434503,
-        40.796441,
-        13.434503,
-        40.796441
+        13.4296609,
+        40.8009672,
+        13.4304924,
+        40.8015374
     ],
     "connections": [
         {
@@ -81,23 +81,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.434503,
-                    40.796441
+                    [
+                        [
+                            13.4299104,
+                            40.8009672
+                        ],
+                        [
+                            13.4304562,
+                            40.801003
+                        ],
+                        [
+                            13.4304924,
+                            40.8010806
+                        ],
+                        [
+                            13.4303127,
+                            40.8014379
+                        ],
+                        [
+                            13.4302671,
+                            40.8015171
+                        ],
+                        [
+                            13.4300311,
+                            40.8015374
+                        ],
+                        [
+                            13.4297951,
+                            40.8014542
+                        ],
+                        [
+                            13.4296609,
+                            40.8012085
+                        ],
+                        [
+                            13.4297012,
+                            40.8009994
+                        ],
+                        [
+                            13.4299104,
+                            40.8009672
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-7906",
+            "id": "location-of-roman-villa",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/433057/darmc-location-7906",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/433057/location-of-roman-villa",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 7906"
+                "snippet": "Villa; 30 BC - AD 300",
+                "title": "OSM location of Villa Giulia di Punta Eolo a Ventotene"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-14T22:19:42Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2020-06-08T03:22:25Z",
@@ -138,9 +183,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -153,65 +198,156 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-01-21T23:08:01Z",
+            "created": "2013-12-09T00:01:25Z",
             "creators": [
                 {
-                    "name": "N. Purcell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 7906",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    13.434503,
-                    40.796441
+                    [
+                        [
+                            13.4299104,
+                            40.8009672
+                        ],
+                        [
+                            13.4304562,
+                            40.801003
+                        ],
+                        [
+                            13.4304924,
+                            40.8010806
+                        ],
+                        [
+                            13.4303127,
+                            40.8014379
+                        ],
+                        [
+                            13.4302671,
+                            40.8015171
+                        ],
+                        [
+                            13.4300311,
+                            40.8015374
+                        ],
+                        [
+                            13.4297951,
+                            40.8014542
+                        ],
+                        [
+                            13.4296609,
+                            40.8012085
+                        ],
+                        [
+                            13.4297012,
+                            40.8009994
+                        ],
+                        [
+                            13.4299104,
+                            40.8009672
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:02:02Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-04-14T22:18:58Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "title",
+                    "modified": "2020-06-08T03:22:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-03-06T16:47:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added reference",
+                    "modified": "2014-02-25T04:25:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-12-09T00:02:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-12-09T00:01:29Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-7906",
+            "id": "location-of-roman-villa",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "DARMC OBJECTID: 7906",
+            "provenance": "OpenStreetMap (Way 250875353, version 3, osm:changeset=25209667, 2014-09-03T17:17:46Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/250875353",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7906",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 250875353",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7906.",
+                    "formattedCitation": "osm:way=250875353",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://notizie.antika.it/005898_villa-giulia-a-ventotene-la-capacita-umana-di-far-soffrire-anche-in-paradiso/",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Villa Giulia a Ventotene: la capacità umana di far soffrire anche in Paradiso",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "http://www.ventotene.in/isola/monumenti/villa-giulia.aspx",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Villa Giulia di Punta Eolo a Ventotene",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 7906",
-            "uri": "https://pleiades.stoa.org/places/433057/darmc-location-7906"
+            "title": "OSM location of Villa Giulia di Punta Eolo a Ventotene",
+            "uri": "https://pleiades.stoa.org/places/433057/location-of-roman-villa"
         }
     ],
     "names": [],
@@ -255,11 +391,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7906",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.434503,
-        40.796441
+        13.430066912992274,
+        40.801216706020895
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

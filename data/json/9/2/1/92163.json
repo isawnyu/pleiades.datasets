@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        -3.9768342,
+        54.9593498,
+        -3.9768342,
+        54.9593498
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -31,30 +36,46 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-11-02T09:52:58Z",
+    "created": "2022-04-14T18:49:54Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 9 unlocated Loukopibia",
+    "description": "A Roman fort, just over the river Dee from modern Glenlochar in Scotland. The fort, excavated in the 1950s, is largely invisible today. It may correspond to the ancient name Loukopibia.",
     "details": "<p>The Barrington Atlas Directory notes: Glenlochar?</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "undetermined",
+            "geometry": {
+                "coordinates": [
+                    -3.9768342,
+                    54.9593498
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-glenlochar-roman-fort",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/92163/undetermined",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Undetermined location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/92163/osm-location-of-glenlochar-roman-fort",
+                "location_precision": "precise",
+                "snippet": "Fort, ; 30 BC - AD 300",
+                "title": "OSM location of Glenlochar Roman fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; place type; cleaned up references; removed bad RBrit seeAlso reference",
+            "modified": "2022-04-14T19:00:26Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-04-14T18:49:54Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2020-03-20T20:10:07Z",
@@ -95,8 +116,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -106,78 +127,81 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-11-02T09:52:59Z",
+            "contributors": [],
+            "created": "2015-07-04T21:12:49Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "fort",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    -3.9768342,
+                    54.9593498
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:36:40Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2015-07-04T21:13:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-07-04T21:12:54Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location-of-glenlochar-roman-fort",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 9 Loukopibia",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1506691923, version 2, osm:changeset=32414745, 2015-07-04T21:12:06Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1506691923",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1506691923",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1506691923",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/92163/undetermined"
+            "title": "OSM location of Glenlochar Roman fort",
+            "uri": "https://pleiades.stoa.org/places/92163/osm-location-of-glenlochar-roman-fort"
         }
     ],
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -203,14 +227,16 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2009-11-02T09:52:58Z",
@@ -225,13 +251,18 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "language; uncertain",
+                    "modified": "2022-04-14T19:00:56Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T09:36:40Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "loukopibia",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 9 Loukopibia",
             "references": [],
@@ -244,11 +275,11 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
-        "unlocated",
+        "fort-2",
         "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 9 Loukopibia",
@@ -256,12 +287,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 133 see, under \"Unlocated Toponyms\", \"Loukopibia\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 9 Loukopibia",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlDir",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -276,55 +307,47 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "http://roman-britain.co.uk/places/loucovium.htm",
+            "accessURI": "http://www.roman-britain.co.uk/places/glenlochar/",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PMV8NEDG",
+            "citationDetail": "Glenlochar Fort",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "roman-britain.co.uk: Lovcovivm? Roman Fort and Camps Glenlochar, Dumfries & Galloway",
+            "formattedCitation": "<div class=\"csl-entry\">White, Kevan, and Mike Haseler. <i>Roman Britain</i>, 2016. http://www.roman-britain.co.uk.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "RBrit",
             "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "http://roman-britain.co.uk/places/glenlochar.htm",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
-            "formattedCitation": "roman-britain.co.uk: Glenlochar Camps Temporary Marching Camps Glenlochar, Dumfries & Galloway",
-            "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeAlso"
         },
         {
             "accessURI": "http://canmore.org.uk/site/64687/glenlochar",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R9QC8C2K",
+            "citationDetail": "64687: Glenlochar",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Canmore ID 64687",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Canmore: National Record of the Historic Environment, Part of Historic Environment Scotland</i>, n.d. https://canmore.org.uk/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Canmore",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/15185",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 15185: Leucovia (Glenlochar)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 15185",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        -3.9768342,
+        54.9593498
+    ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Loukopibia",
+    "title": "Glenlochar Roman Fort",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/92163"
 }
