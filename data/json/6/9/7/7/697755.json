@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        35.406656,
-        30.843214,
-        35.406656,
-        30.843214
+        35.4117786,
+        30.8296184,
+        35.4117786,
+        30.8296184
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,28 +44,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 71 A4 Toloha",
-    "details": "The Barrington Atlas Directory notes: Qasr et-Tlah",
+    "details": "<p>The Barrington Atlas Directory notes: Qasr et-Tlah</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    35.406656,
-                    30.843214
+                    35.4117786,
+                    30.8296184
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-2592",
+            "id": "osm-location-of-qasr-al-tilah",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/697755/darmc-location-2592",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/697755/osm-location-of-qasr-al-tilah",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 2592"
+                "snippet": "Fort; 330 BC - AD 640",
+                "title": "OSM location of Qasr al Tilah"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-15T19:20:55Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2018-12-14T03:12:29Z",
@@ -96,8 +101,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -121,72 +126,69 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:51:16Z",
+            "contributors": [],
+            "created": "2018-12-14T03:09:39Z",
             "creators": [
                 {
-                    "name": "S.T. Parker",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 2592",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    35.406656,
-                    30.843214
+                    35.4117786,
+                    30.8296184
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:01:08Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2018-12-14T03:10:06Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:51:17Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-12-14T03:09:40Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-2592",
+            "id": "osm-location-of-qasr-al-tilah",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 2592",
+            "provenance": "OpenStreetMap (Node 798886793, version 3, osm:changeset=9828297, 2011-11-14T20:09:02Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/798886793",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "2592",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 798886793",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 2592.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=798886793",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 2592",
-            "uri": "https://pleiades.stoa.org/places/697755/darmc-location-2592"
+            "title": "OSM location of Qasr al Tilah",
+            "uri": "https://pleiades.stoa.org/places/697755/osm-location-of-qasr-al-tilah"
         }
     ],
     "names": [
@@ -301,11 +303,22 @@
             "otherIdentifier": "",
             "shortTitle": "MacDonald 1992",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "2592",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.406656,
-        30.843214
+        35.4117786,
+        30.8296184
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
