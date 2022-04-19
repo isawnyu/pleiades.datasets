@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.594415,
-        26.75899,
-        33.594415,
-        26.75899
+        33.5850772,
+        26.7668073,
+        33.5856271,
+        26.7673269
     ],
     "connections": [],
     "connectsWith": [],
@@ -67,23 +67,80 @@
         {
             "geometry": {
                 "coordinates": [
-                    33.594415,
-                    26.75899
+                    [
+                        [
+                            33.5854447,
+                            26.7668073
+                        ],
+                        [
+                            33.5854675,
+                            26.7668192
+                        ],
+                        [
+                            33.5856244,
+                            26.7671102
+                        ],
+                        [
+                            33.5856271,
+                            26.7671545
+                        ],
+                        [
+                            33.5856083,
+                            26.7671665
+                        ],
+                        [
+                            33.5852918,
+                            26.7673269
+                        ],
+                        [
+                            33.5852502,
+                            26.7673162
+                        ],
+                        [
+                            33.5852194,
+                            26.767297
+                        ],
+                        [
+                            33.5850772,
+                            26.7669773
+                        ],
+                        [
+                            33.5850987,
+                            26.7669533
+                        ],
+                        [
+                            33.5852757,
+                            26.7668623
+                        ],
+                        [
+                            33.5854152,
+                            26.7668097
+                        ],
+                        [
+                            33.5854447,
+                            26.7668073
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-22658",
+            "id": "osm-location-of-roman-fort",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/766408/darmc-location-22658",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/766408/osm-location-of-roman-fort",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 22658"
+                "snippet": "Fort; 30 BC - AD 300",
+                "title": "OSM location of Roman fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-19T10:13:45Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:25:58Z",
@@ -114,8 +171,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -129,70 +186,131 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-10T01:17:49Z",
+            "created": "2014-03-09T01:05:50Z",
             "creators": [
                 {
-                    "name": "S.E. Sidebotham",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22658",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    33.594415,
-                    26.75899
+                    [
+                        [
+                            33.5854447,
+                            26.7668073
+                        ],
+                        [
+                            33.5854675,
+                            26.7668192
+                        ],
+                        [
+                            33.5856244,
+                            26.7671102
+                        ],
+                        [
+                            33.5856271,
+                            26.7671545
+                        ],
+                        [
+                            33.5856083,
+                            26.7671665
+                        ],
+                        [
+                            33.5852918,
+                            26.7673269
+                        ],
+                        [
+                            33.5852502,
+                            26.7673162
+                        ],
+                        [
+                            33.5852194,
+                            26.767297
+                        ],
+                        [
+                            33.5850772,
+                            26.7669773
+                        ],
+                        [
+                            33.5850987,
+                            26.7669533
+                        ],
+                        [
+                            33.5852757,
+                            26.7668623
+                        ],
+                        [
+                            33.5854152,
+                            26.7668097
+                        ],
+                        [
+                            33.5854447,
+                            26.7668073
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:22:34Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-04-19T10:12:18Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:17:50Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-03-09T01:06:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-09T01:05:52Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-22658",
+            "id": "osm-location-of-roman-fort",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 22658",
+            "provenance": "OpenStreetMap (Way 265139533, version 1, osm:changeset=20997965, 2014-03-09T01:05:08Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/265139533",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22658",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 265139533",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22658.",
+                    "formattedCitation": "osm:way=265139533",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 22658",
-            "uri": "https://pleiades.stoa.org/places/766408/darmc-location-22658"
+            "title": "OSM location of Roman fort",
+            "uri": "https://pleiades.stoa.org/places/766408/osm-location-of-roman-fort"
         }
     ],
     "names": [
@@ -328,11 +446,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeAlso"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22658",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        33.594415,
-        26.75899
+        33.58534926313972,
+        26.767061448431832
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
