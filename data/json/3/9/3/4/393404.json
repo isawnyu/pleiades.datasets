@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.233178,
-        44.38024,
-        12.233178,
-        44.38024
+        12.2177088,
+        44.3941321,
+        12.221024,
+        44.3963974
     ],
     "connections": [
         {
@@ -193,23 +193,56 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.233178,
-                    44.38024
+                    [
+                        [
+                            12.2201818,
+                            44.3941321
+                        ],
+                        [
+                            12.221024,
+                            44.3945767
+                        ],
+                        [
+                            12.2190231,
+                            44.3963974
+                        ],
+                        [
+                            12.2177088,
+                            44.3959758
+                        ],
+                        [
+                            12.2181053,
+                            44.3956134
+                        ],
+                        [
+                            12.2189587,
+                            44.3948335
+                        ],
+                        [
+                            12.2201818,
+                            44.3941321
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-18349",
+            "id": "location-of-archaeological-area",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/393404/darmc-location-18349",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/393404/location-of-archaeological-area",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 18349"
+                "snippet": "Port; 30 BC - AD 640",
+                "title": "OSM location of Porto romano di Classe"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-19T09:45:26Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2020-07-23T15:13:26Z",
@@ -290,99 +323,132 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-09T23:16:55Z",
+            "created": "2014-02-11T23:06:54Z",
             "creators": [
                 {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "R. Peretto",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18349",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "<p>Remains of the Roman port.</p>",
             "end": 640,
             "featureType": [
-                "unknown"
+                "port"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/port"
             ],
             "geometry": {
                 "coordinates": [
-                    12.233178,
-                    44.38024
+                    [
+                        [
+                            12.2201818,
+                            44.3941321
+                        ],
+                        [
+                            12.221024,
+                            44.3945767
+                        ],
+                        [
+                            12.2190231,
+                            44.3963974
+                        ],
+                        [
+                            12.2177088,
+                            44.3959758
+                        ],
+                        [
+                            12.2181053,
+                            44.3956134
+                        ],
+                        [
+                            12.2189587,
+                            44.3948335
+                        ],
+                        [
+                            12.2201818,
+                            44.3941321
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:39:07Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-04-19T09:44:42Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:16:56Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2018-12-17T02:30:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-07-07T16:30:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-02-11T23:07:29Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-02-11T23:06:57Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18349",
+            "id": "location-of-archaeological-area",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/port"
             ],
-            "provenance": "DARMC OBJECTID: 18349",
+            "provenance": "OpenStreetMap (Way 213878344, version 9, osm:changeset=74040254, 2019-09-03T13:01:36Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/213878344",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18349",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 213878344",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18349.",
+                    "formattedCitation": "osm:way=213878344",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 18349",
-            "uri": "https://pleiades.stoa.org/places/393404/darmc-location-18349"
+            "title": "OSM location of Porto romano di Classe",
+            "uri": "https://pleiades.stoa.org/places/393404/location-of-archaeological-area"
         }
     ],
     "names": [
@@ -640,11 +706,22 @@
             "otherIdentifier": "",
             "shortTitle": "Augenti 2011",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18349",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.233178,
-        44.38024
+        12.219388844962344,
+        44.39529255944997
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
