@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -8.0,
-        41.0,
-        -7.0,
-        42.0
+        -7.6821418,
+        41.2835006,
+        -7.6821418,
+        41.2835006
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,38 +45,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -8.0,
-                            41.0
-                        ],
-                        [
-                            -7.0,
-                            41.0
-                        ],
-                        [
-                            -7.0,
-                            42.0
-                        ],
-                        [
-                            -8.0,
-                            42.0
-                        ],
-                        [
-                            -8.0,
-                            41.0
-                        ]
-                    ]
+                    -7.6821418,
+                    41.2835006
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-santuario-de-panoias",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/236594/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/236594/location-of-santuario-de-panoias",
+                "location_precision": "precise",
+                "snippet": "Temple, ; 30 BC - AD 300",
+                "title": "location of Santuário de Panóias"
             },
             "type": "Feature"
         }
@@ -107,8 +87,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -120,85 +100,72 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T16:46:22Z",
+            "contributors": [],
+            "created": "2014-03-16T21:43:48Z",
             "creators": [
                 {
-                    "name": "E.W. Haley",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "temple",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -8.0,
-                            41.0
-                        ],
-                        [
-                            -7.0,
-                            41.0
-                        ],
-                        [
-                            -7.0,
-                            42.0
-                        ],
-                        [
-                            -8.0,
-                            42.0
-                        ],
-                        [
-                            -8.0,
-                            41.0
-                        ]
-                    ]
+                    -7.6821418,
+                    41.2835006
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:23:59Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2014-03-16T21:44:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-16T21:43:52Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-santuario-de-panoias",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 24 D3 Panóias",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1342138131, version 3, osm:changeset=21145536, 2014-03-16T21:42:19Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1342138131",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1342138131",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1342138131",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/236594/batlas-location"
+            "title": "location of Santuário de Panóias",
+            "uri": "https://pleiades.stoa.org/places/236594/location-of-santuario-de-panoias"
         }
     ],
     "names": [],
@@ -256,8 +223,8 @@
         }
     ],
     "reprPoint": [
-        -7.5,
-        41.5
+        -7.6821418,
+        41.2835006
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
