@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        32.454168,
-        30.966654,
-        32.48333,
-        30.976557
+        32.4921106,
+        30.9666153,
+        32.4936878,
+        30.9681043
     ],
     "connections": [],
     "connectsWith": [],
@@ -26,14 +26,14 @@
             "username": "bkiesling"
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
         },
         {
             "homepage": null,
@@ -61,41 +61,73 @@
         {
             "geometry": {
                 "coordinates": [
-                    32.454168,
-                    30.976557
+                    [
+                        [
+                            32.4931165,
+                            30.9666153
+                        ],
+                        [
+                            32.4934222,
+                            30.9668453
+                        ],
+                        [
+                            32.4935885,
+                            30.9671075
+                        ],
+                        [
+                            32.4936878,
+                            30.9678858
+                        ],
+                        [
+                            32.4936315,
+                            30.9680054
+                        ],
+                        [
+                            32.4935215,
+                            30.9681043
+                        ],
+                        [
+                            32.4927007,
+                            30.9679617
+                        ],
+                        [
+                            32.4921106,
+                            30.9671521
+                        ],
+                        [
+                            32.4926873,
+                            30.9667947
+                        ],
+                        [
+                            32.4931165,
+                            30.9666153
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-2255",
+            "id": "osm-location-of-grenzfestung-des-ramses-iii",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/727152/darmc-location-2255",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/727152/osm-location-of-grenzfestung-des-ramses-iii",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 2255"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    32.48333,
-                    30.966654
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-4653",
-            "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/727152/darmc-location-4653",
-                "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 4653"
+                "snippet": "Fort; 1548 BC - 1086 BC",
+                "title": "OSM location of Grenzfestung des Ramses III"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-04-23T00:14:01Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-22T10:57:10Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2018-11-09T15:41:05Z",
@@ -146,215 +178,122 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "new-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/new-kingdom-egypt"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:48:54Z",
+            "contributors": [],
+            "created": "2018-11-09T15:45:03Z",
             "creators": [
                 {
-                    "name": "A. Bernand",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 2255",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": -1086,
             "featureType": [
-                "unknown"
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
-                    32.454168,
-                    30.976557
+                    [
+                        [
+                            32.4931165,
+                            30.9666153
+                        ],
+                        [
+                            32.4934222,
+                            30.9668453
+                        ],
+                        [
+                            32.4935885,
+                            30.9671075
+                        ],
+                        [
+                            32.4936878,
+                            30.9678858
+                        ],
+                        [
+                            32.4936315,
+                            30.9680054
+                        ],
+                        [
+                            32.4935215,
+                            30.9681043
+                        ],
+                        [
+                            32.4927007,
+                            30.9679617
+                        ],
+                        [
+                            32.4921106,
+                            30.9671521
+                        ],
+                        [
+                            32.4926873,
+                            30.9667947
+                        ],
+                        [
+                            32.4931165,
+                            30.9666153
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:07:45Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2018-11-09T15:46:16Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:48:55Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-11-09T15:45:04Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-2255",
+            "id": "osm-location-of-grenzfestung-des-ramses-iii",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "DARMC OBJECTID: 2255",
+            "provenance": "OpenStreetMap (Way 642623327, version 1, osm:changeset=64328688, 2018-11-09T15:44:35Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/642623327",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "2255",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 642623327",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 2255.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=642623327",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 2255",
-            "uri": "https://pleiades.stoa.org/places/727152/darmc-location-2255"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:06:48Z",
-            "creators": [
-                {
-                    "name": "A. Bernand",
-                    "username": null
-                }
-            ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 4653",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    32.48333,
-                    30.966654
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:07:45Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:06:49Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-4653",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 4653",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "4653",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 4653.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 4653",
-            "uri": "https://pleiades.stoa.org/places/727152/darmc-location-4653"
+            "start": -1548,
+            "title": "OSM location of Grenzfestung des Ramses III",
+            "uri": "https://pleiades.stoa.org/places/727152/osm-location-of-grenzfestung-des-ramses-iii"
         }
     ],
     "names": [
@@ -637,14 +576,14 @@
     "provenance": "Barrington Atlas: BAtlas 74 G3 Magdolos",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "74 G3 Magdolos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 74 G3 Magdolos",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -661,12 +600,12 @@
         {
             "accessURI": "http://www.trismegistos.org/place/2698",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 2698: Migdol (Tell el-Heir)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 2698",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
@@ -694,12 +633,12 @@
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:2.159",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXF7J4U2",
+            "citationDetail": "2.159",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Hdt. 2.159",
+            "formattedCitation": "<div class=\"csl-entry\">Herodotus. <i>Herodotus</i>. Edited by A. D Godley. 4 vols. Loeb Classical Library. London; New York: W. Heinemann; G.P. Putnam’s Sons, 1921. http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Hdt. (Godley: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
@@ -723,11 +662,33 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (German)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "2255 and 4653",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1545755",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q1545755: Border fortress of Ramesses III",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        32.468749,
-        30.9716055
+        32.49300330979111,
+        30.96736765307682
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
