@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        1.969957,
-        41.464129,
-        1.969957,
-        41.464129
+        1.9368067,
+        41.4749104,
+        1.9382457,
+        41.4749965
     ],
     "connections": [],
     "connectsWith": [],
@@ -52,28 +52,49 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 25 G4 unnamed bridge (Pont del Diable (Martorell) over R. Llobregat, SE (Ad) Fines)",
-    "details": "The Barrington Atlas Directory notes: Pont del Diable (Martorell) over R. Llobregat, SE (Ad) Fines",
+    "details": "<p>The Barrington Atlas Directory notes: Pont del Diable (Martorell) over R. Llobregat, SE (Ad) Fines</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    1.969957,
-                    41.464129
+                    [
+                        [
+                            1.9368067,
+                            41.4749104
+                        ],
+                        [
+                            1.9382457,
+                            41.4749965
+                        ],
+                        [
+                            1.9381471,
+                            41.4749915
+                        ],
+                        [
+                            1.9368067,
+                            41.4749104
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-27827",
+            "id": "osm-location-of-roman-bridge",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/247659/darmc-location-27827",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/247659/osm-location-of-roman-bridge",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 27827"
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Roman bridge"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-22T11:29:43Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2014-03-23T05:33:56Z",
@@ -104,8 +125,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 1000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -115,88 +136,99 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-08-04T21:22:58Z",
+            "created": "2014-03-23T05:34:10Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 27827",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    1.969957,
-                    41.464129
+                    [
+                        [
+                            1.9368067,
+                            41.4749104
+                        ],
+                        [
+                            1.9382457,
+                            41.4749965
+                        ],
+                        [
+                            1.9381471,
+                            41.4749915
+                        ],
+                        [
+                            1.9368067,
+                            41.4749104
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:36:06Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance; title",
+                    "modified": "2022-04-22T11:28:10Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-04T21:22:59Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-03-23T05:34:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-23T05:34:13Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-27827",
+            "id": "osm-location-of-roman-bridge",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "DARMC OBJECTID: 27827",
+            "provenance": "OpenStreetMap (Way 92878792, version 10, osm:changeset=115310423, 2021-12-23T19:28:56Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/92878792",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "27827",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 92878792",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 27827.",
+                    "formattedCitation": "osm:way=92878792",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 27827",
-            "uri": "https://pleiades.stoa.org/places/247659/darmc-location-27827"
+            "title": "OSM location of Roman bridge",
+            "uri": "https://pleiades.stoa.org/places/247659/osm-location-of-roman-bridge"
         }
     ],
     "names": [],
@@ -251,11 +283,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Spanish)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://edh-www.adw.uni-heidelberg.de/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "27827",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        1.969957,
-        41.464129
+        1.9375261750726889,
+        41.474953898286145
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

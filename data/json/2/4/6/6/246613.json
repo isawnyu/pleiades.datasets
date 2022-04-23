@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        0.188236,
-        41.017186,
-        0.188236,
-        41.017186
+        0.1848178,
+        41.0042463,
+        0.1862042,
+        41.0051766
     ],
     "connections": [],
     "connectsWith": [],
@@ -57,23 +57,56 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.188236,
-                    41.017186
+                    [
+                        [
+                            0.1848178,
+                            41.0042463
+                        ],
+                        [
+                            0.185496,
+                            41.0042803
+                        ],
+                        [
+                            0.1858145,
+                            41.0043962
+                        ],
+                        [
+                            0.1862042,
+                            41.0051766
+                        ],
+                        [
+                            0.1859869,
+                            41.0051682
+                        ],
+                        [
+                            0.1852338,
+                            41.0049476
+                        ],
+                        [
+                            0.1848178,
+                            41.0042463
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-3502",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/246613/darmc-location-3502",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/246613/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "DARMC location 3502"
+                "snippet": "Settlement; 550 BC - 30 BC",
+                "title": "OSM location of Despoblado ibérico de San Antonio (Calaceite, TERUEL)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-22T11:00:25Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T23:56:42Z",
@@ -99,9 +132,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -120,78 +153,112 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-04T23:23:45Z",
+            "created": "2014-07-20T01:15:41Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 3502",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    0.188236,
-                    41.017186
+                    [
+                        [
+                            0.1848178,
+                            41.0042463
+                        ],
+                        [
+                            0.185496,
+                            41.0042803
+                        ],
+                        [
+                            0.1858145,
+                            41.0043962
+                        ],
+                        [
+                            0.1862042,
+                            41.0051766
+                        ],
+                        [
+                            0.1859869,
+                            41.0051682
+                        ],
+                        [
+                            0.1852338,
+                            41.0049476
+                        ],
+                        [
+                            0.1848178,
+                            41.0042463
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:34:25Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-04-22T10:59:30Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-04T23:23:45Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2016-12-15T04:04:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-07-20T01:16:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-07-20T01:15:47Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-3502",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 3502",
+            "provenance": "OpenStreetMap (Way 221596321, version 3, osm:changeset=84334673, 2020-04-29T11:34:34Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/221596321",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "3502",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 221596321",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 3502.",
+                    "formattedCitation": "osm:way=221596321",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 3502",
-            "uri": "https://pleiades.stoa.org/places/246613/darmc-location-3502"
+            "title": "OSM location of Despoblado ibérico de San Antonio (Calaceite, TERUEL)",
+            "uri": "https://pleiades.stoa.org/places/246613/osm-location"
         }
     ],
     "names": [],
@@ -224,18 +291,29 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3502",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        0.188236,
-        41.017186
+        0.1855221402036804,
+        41.004693445016535
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
     "title": "S. Antonio de Calaceite",
     "type": "FeatureCollection",

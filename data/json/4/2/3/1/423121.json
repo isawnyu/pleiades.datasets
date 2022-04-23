@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.48124,
-        41.664924,
-        12.48124,
-        41.664924
+        12.3928913,
+        41.6790626,
+        12.3935699,
+        41.6796155
     ],
     "connections": [],
     "connectsWith": [
@@ -56,18 +56,42 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.48124,
-                    41.664924
+                    [
+                        [
+                            12.393138,
+                            41.6790626
+                        ],
+                        [
+                            12.3935699,
+                            41.6793691
+                        ],
+                        [
+                            12.3932775,
+                            41.6796155
+                        ],
+                        [
+                            12.3931327,
+                            41.6795113
+                        ],
+                        [
+                            12.3928913,
+                            41.679305
+                        ],
+                        [
+                            12.393138,
+                            41.6790626
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
-            "id": "darmc-location-19008",
+            "id": "osm-location",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/423121/darmc-location-19008",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/423121/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 19008"
+                "snippet": "Settlement; 30 BC - AD 640",
+                "title": "OSM location of Tor Paterno"
             },
             "type": "Feature"
         }
@@ -128,8 +152,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -137,81 +161,119 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-01-21T23:12:59Z",
+            "created": "2014-07-10T03:23:34Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 19008",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    12.48124,
-                    41.664924
+                    [
+                        [
+                            12.393138,
+                            41.6790626
+                        ],
+                        [
+                            12.3935699,
+                            41.6793691
+                        ],
+                        [
+                            12.3932775,
+                            41.6796155
+                        ],
+                        [
+                            12.3931327,
+                            41.6795113
+                        ],
+                        [
+                            12.3928913,
+                            41.679305
+                        ],
+                        [
+                            12.393138,
+                            41.6790626
+                        ]
+                    ]
                 ],
-                "type": "Point"
+                "type": "Polygon"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:57:47Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-04-22T10:53:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-11-04T00:20:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2015-12-03T16:25:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-07-10T03:25:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-07-10T03:23:41Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-19008",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 19008",
+            "provenance": "OpenStreetMap (Way 292132862, version 2, osm:changeset=25508235, 2014-09-17T19:53:36Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/292132862",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19008",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 292132862",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19008.",
+                    "formattedCitation": "osm:way=292132862",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 19008",
-            "uri": "https://pleiades.stoa.org/places/423121/darmc-location-19008"
+            "title": "OSM location of Tor Paterno",
+            "uri": "https://pleiades.stoa.org/places/423121/osm-location"
         }
     ],
     "names": [
@@ -404,8 +466,8 @@
         }
     ],
     "reprPoint": [
-        12.48124,
-        41.664924
+        12.393225522723043,
+        41.679341123513275
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
