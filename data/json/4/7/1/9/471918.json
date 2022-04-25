@@ -1,33 +1,51 @@
 {
     "@type": "Place",
     "bbox": [
-        9.156709,
-        41.240569,
-        9.156709,
-        41.240569
+        9.13333,
+        41.23333,
+        9.13333,
+        41.23333
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
             "connectsTo": "https://pleiades.stoa.org/places/472014",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:46:28Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype: part of (physical/topographic)",
+                    "modified": "2022-04-23T11:42:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "located on",
+                    "modified": "2022-04-23T11:38:05Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "472014",
             "provenance": "Pleiades",
             "references": [],
@@ -38,7 +56,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/472014"
+        "https://pleiades.stoa.org/places/472014",
+        "https://pleiades.stoa.org/places/473387"
     ],
     "contributors": [
         {
@@ -75,29 +94,44 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 48 B1 Errebantion Akron",
+    "description": "A promontory on the northern coast of Sardinia. It is probably to be identified with the \"Errebantion Akron\" mentioned by Ptolemy.",
     "details": "<p>The Barrington Atlas Directory notes: Capo Testa?</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    9.156709,
-                    41.240569
+                    9.13333,
+                    41.23333
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-19499",
+            "id": "geonames-location-of-modern-capo-testa",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/471918/darmc-location-19499",
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/471918/geonames-location-of-modern-capo-testa",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 19499"
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "Geonames location of modern Capo Testa"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2022-04-23T11:41:25Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2022-04-23T11:37:41Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-04-23T11:36:20Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "ctype",
             "modified": "2021-02-12T17:16:51Z",
@@ -148,98 +182,96 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": null,
+            "accuracy_value": null,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2011-03-09T23:39:37Z",
+            "created": "2022-04-23T11:35:07Z",
             "creators": [
                 {
-                    "name": "S.L. Dyson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 19499",
-            "end": 300,
+            "description": "",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    9.156709,
-                    41.240569
+                    9.13333,
+                    41.23333
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:26:36Z",
-                    "modifiedBy": "admin"
+                    "comment": "certain",
+                    "modified": "2022-04-23T11:41:43Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:39:38Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2022-04-23T11:35:09Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-19499",
+            "id": "geonames-location-of-modern-capo-testa",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "DARMC OBJECTID: 19499",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.geonames.org/3165719/capo-testa.html",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19499",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "3165719: Capo Testa",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19499.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 19499",
-            "uri": "https://pleiades.stoa.org/places/471918/darmc-location-19499"
+            "start": 2000,
+            "title": "Geonames location of modern Capo Testa",
+            "uri": "https://pleiades.stoa.org/places/471918/geonames-location-of-modern-capo-testa"
         }
     ],
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "less-confident",
@@ -261,14 +293,16 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2010-11-11T20:21:15Z",
@@ -283,13 +317,18 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "Initial revision",
+                    "modified": "2022-04-23T11:42:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:26:36Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "errebantion-akron",
-            "language": "",
+            "language": "akk",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 48 B1 Errebantion Akron",
             "references": [],
@@ -302,8 +341,8 @@
         },
         {
             "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "less-confident",
@@ -325,14 +364,16 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2010-11-11T20:21:16Z",
@@ -347,6 +388,11 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "less certain",
+                    "modified": "2022-04-23T11:41:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:26:37Z",
                     "modifiedBy": "admin"
@@ -358,7 +404,7 @@
                 }
             ],
             "id": "erbentium",
-            "language": "",
+            "language": "akk",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 48 B1 Errebantion Akron",
             "references": [],
@@ -371,12 +417,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
-        "https://pleiades.stoa.org/vocabularies/place-types/quarry"
+        "https://pleiades.stoa.org/vocabularies/place-types/cape",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement-modern",
-        "quarry"
+        "cape",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 48 B1 Errebantion Akron",
     "references": [
@@ -412,11 +458,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "19499",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsDataSource"
         }
     ],
     "reprPoint": [
-        9.156709,
-        41.240569
+        9.13333,
+        41.23333
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -426,7 +483,7 @@
         "dare:feature=mine",
         "granite"
     ],
-    "title": "Errebantion Akron",
+    "title": "Capo Testa",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/471918"
 }
