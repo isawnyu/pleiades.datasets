@@ -6,6 +6,24 @@ A collection of CSV files derived from data in the [_Pleiades_ gazetteer of anci
 
 Download: [pleiades_gis_data.zip](pleiades_gis_data.zip)
 
+# Quick Start
+
+- Load `places.csv` as "delimited text" (see "Technical Metadata" below)
+- Set X = `representative_longitude` and Y = `representative_latitude`
+- You'll get dots for "representative points" (see sub "representative_" in "Fields", below) for the recorded geometries (locations in Pleiades parlance) of each place. 
+
+## Accuracy and precision can vary wildly!
+
+To get an envelope around the feature's probable location:
+
+- Load `places.csv` again as "delimited text" but this time use the geometries in `bounding_box_wkt` instead of the representative lat/lons.
+- Note that some of them are huge and some of them are tiny.
+
+## More Adventures
+
+The `locations.csv` file contains each location associated with each place. You'll probably want to use joins to hook them up with `places.csv`. Watch out for the `accuracy_radius` field (in **meters**). Note the difference between "associated modern", "relocated modern" and other "location types".
+
+
 ## Files
 
  - `archaeological_remains.csv`: terms from the [Archaeological Remains Vocabulary](https://pleiades.stoa.org/vocabularies/arch-remains)
@@ -29,6 +47,7 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
 
 ## Technical Metadata
 
+Coordinate reference system and coordinate representation: WGS-84 signed decimal degrees of Longitude and Latitude
 File format: Comma-Separated Values (CSV)  
 Field delimiter: comma
 Text delimiters: double quotation marks, used only when necessary (e.g., when field contains a comma)  
