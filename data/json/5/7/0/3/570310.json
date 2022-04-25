@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        21.0,
-        37.5,
-        21.5,
-        38.0
+        21.3140471,
+        37.6378531,
+        21.3140471,
+        37.6378531
     ],
     "connections": [
         {
@@ -81,38 +81,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.0,
-                            37.5
-                        ],
-                        [
-                            21.5,
-                            37.5
-                        ],
-                        [
-                            21.5,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            37.5
-                        ]
-                    ]
+                    21.3140471,
+                    37.6378531
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-akra-katakolo",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570310/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/570310/location-of-akra-katakolo",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 1700 - AD 2100",
+                "title": "OSM location of Ákra Katákolo"
             },
             "type": "Feature"
         }
@@ -153,95 +133,105 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-20T20:47:40Z",
+            "created": "2014-01-26T17:56:35Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.0,
-                            37.5
-                        ],
-                        [
-                            21.5,
-                            37.5
-                        ],
-                        [
-                            21.5,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            37.5
-                        ]
-                    ]
+                    21.3140471,
+                    37.6378531
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:27:53Z",
-                    "modifiedBy": "admin"
+                    "comment": "title",
+                    "modified": "2022-04-23T20:49:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-01-26T17:57:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-01-26T17:56:37Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-akra-katakolo",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 A2 Ichthys Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1431284002, version 3, osm:changeset=18139054, 2013-10-02T08:23:15Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1431284002",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1431284002",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1431284002",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.geonames.org/260696/akra-katakolo.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "GeoNames ID 260696",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570310/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Ákra Katákolo",
+            "uri": "https://pleiades.stoa.org/places/570310/location-of-akra-katakolo"
         }
     ],
     "names": [
@@ -333,8 +323,8 @@
         }
     ],
     "reprPoint": [
-        21.25,
-        37.75
+        21.3140471,
+        37.6378531
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
