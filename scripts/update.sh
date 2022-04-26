@@ -7,7 +7,7 @@ PD_HOME=$PWD
 
 nice git checkout main
 nice git pull origin main
-nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/get_json.py -x
+nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/get_json.py -r
 nice bash ./scripts/get_csv.sh
 nice bash ./scripts/get_ttl.sh
 nice git add data/csv
