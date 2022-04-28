@@ -1,9 +1,9 @@
 {
     "@type": "Place",
     "bbox": [
-        12.3098943,
-        42.5502955,
-        12.3098943,
+        12.3098031,
+        42.5499952,
+        12.3101705,
         42.5502955
     ],
     "connections": [
@@ -40,7 +40,14 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/413185"
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        }
+    ],
     "created": "2019-06-24T03:41:13Z",
     "creators": [
         {
@@ -50,16 +57,42 @@
             "username": "jbecker"
         }
     ],
-    "description": "Poggio Gramignano, Lugnano in Teverina.",
+    "description": "A roman villa in the modern Lugnano commune of Italy's Terni province. Substantial architectural remains dating to the Roman imperial period have been excavated there, as well as a later (5th century CE?) collection of child and infant burials that gained significant media attention.",
     "details": "<p>Polygonal geometry representing the visible enclosure of the site, derived from an OpenStreetMap way.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    12.3098943,
-                    42.5502955
+                    [
+                        12.3098943,
+                        42.5502955
+                    ],
+                    [
+                        12.3098031,
+                        42.5501276
+                    ],
+                    [
+                        12.3100311,
+                        42.5500584
+                    ],
+                    [
+                        12.3100981,
+                        42.5499952
+                    ],
+                    [
+                        12.3101491,
+                        42.5500643
+                    ],
+                    [
+                        12.3101705,
+                        42.550252
+                    ],
+                    [
+                        12.3098943,
+                        42.5502955
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "location-of-roman-villa",
             "properties": {
@@ -73,6 +106,26 @@
         }
     ],
     "history": [
+        {
+            "comment": "place type += cemetery",
+            "modified": "2022-04-27T20:11:33Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "wikipedia reference: see also",
+            "modified": "2022-04-27T20:11:09Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary",
+            "modified": "2022-04-27T20:10:26Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "title",
+            "modified": "2022-04-27T20:05:09Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added Fentress 2003 and Wilson 2022",
             "modified": "2022-04-26T04:00:29Z",
@@ -111,7 +164,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2014-02-14T14:52:36Z",
             "creators": [
                 {
@@ -132,12 +192,43 @@
             ],
             "geometry": {
                 "coordinates": [
-                    12.3098943,
-                    42.5502955
+                    [
+                        12.3098943,
+                        42.5502955
+                    ],
+                    [
+                        12.3098031,
+                        42.5501276
+                    ],
+                    [
+                        12.3100311,
+                        42.5500584
+                    ],
+                    [
+                        12.3100981,
+                        42.5499952
+                    ],
+                    [
+                        12.3101491,
+                        42.5500643
+                    ],
+                    [
+                        12.3101705,
+                        42.550252
+                    ],
+                    [
+                        12.3098943,
+                        42.5502955
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-04-27T20:04:50Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2017-01-16T00:31:40Z",
@@ -166,7 +257,7 @@
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "OpenStreetMap (Way 261548140, version 1, osm:changeset=20560303, 2014-02-14T14:52:17Z)",
+            "provenance": "OpenStreetMap (Way 261548140, version 2, osm:changeset=46743062, 2017-03-10T16:34:19Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/261548140",
@@ -199,9 +290,11 @@
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
         "https://pleiades.stoa.org/vocabularies/place-types/villa"
     ],
     "placeTypes": [
+        "cemetery",
         "villa"
     ],
     "provenance": "Pleiades",
@@ -211,11 +304,11 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
             "citationDetail": "Lugnano in Teverina",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
             "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Lugnano in Teverina.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/seeAlso"
         },
         {
             "accessURI": "http://www.worldcat.org/oclc/949205965",
@@ -263,13 +356,13 @@
         }
     ],
     "reprPoint": [
-        12.3098943,
-        42.5502955
+        12.310006647287038,
+        42.5501617535709
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Poggio Gramignano villa romana",
+    "title": "Poggio Gramignano Roman Villa",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/330348886"
 }
