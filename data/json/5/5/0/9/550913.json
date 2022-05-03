@@ -288,7 +288,7 @@
                 "description": "Location of Siğacık according to Geonames.",
                 "link": "https://pleiades.stoa.org/places/550913/sigac131k",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; AD 1700 - AD 2100",
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
                 "title": "Siğacık"
             },
             "type": "Feature"
@@ -460,7 +460,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
             "accuracy_value": 30.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -471,7 +471,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-04-18T06:39:13Z",
             "creators": [
                 {
@@ -485,12 +492,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "settlement",
-                ""
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -500,6 +505,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-05-02T21:32:30Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2013-04-25T19:29:49Z",
@@ -513,11 +523,10 @@
             ],
             "id": "sigac131k",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "provenance": "GeoNames.org 300865",
             "references": [
@@ -632,10 +641,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 56 D5 Teos",
     "references": [
