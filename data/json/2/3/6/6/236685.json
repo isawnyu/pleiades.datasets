@@ -1,29 +1,27 @@
 {
     "@type": "Place",
     "bbox": [
-        -8.144603,
-        41.159889,
-        -8.144603,
-        41.159889
+        -8.1485255,
+        41.1609641,
+        -8.1463402,
+        41.1623389
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
         {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -33,13 +31,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-08T00:28:29Z",
@@ -49,29 +49,81 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 24 C3 *Tongobriga",
-    "details": "The Barrington Atlas Directory notes: Freixo (Marco de Canaveses) POR",
+    "description": "A Roman settlement located at modern Freixo in Portugal.",
+    "details": "<p>The Barrington Atlas Directory notes: Freixo (Marco de Canaveses) POR</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    -8.144603,
-                    41.159889
+                    [
+                        -8.148319,
+                        41.1617298
+                    ],
+                    [
+                        -8.1484048,
+                        41.1616975
+                    ],
+                    [
+                        -8.1485255,
+                        41.1615662
+                    ],
+                    [
+                        -8.1481715,
+                        41.1609641
+                    ],
+                    [
+                        -8.1465599,
+                        41.161479
+                    ],
+                    [
+                        -8.1464663,
+                        41.1615659
+                    ],
+                    [
+                        -8.1463402,
+                        41.1617979
+                    ],
+                    [
+                        -8.1463509,
+                        41.1619089
+                    ],
+                    [
+                        -8.1465467,
+                        41.1623389
+                    ],
+                    [
+                        -8.1471535,
+                        41.1621828
+                    ],
+                    [
+                        -8.148319,
+                        41.1617298
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-2104",
+            "id": "osm-location-of-tonga3briga",
             "properties": {
-                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/236685/darmc-location-2104",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/236685/osm-location-of-tonga3briga",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 2104"
+                "snippet": "Settlement, Plaza; 30 BC - AD 300",
+                "title": "OSM location of Tongóbriga"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary",
+            "modified": "2022-05-03T23:02:40Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-05-03T23:00:36Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-08T00:28:32Z",
@@ -112,18 +164,12 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -131,72 +177,114 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:47:46Z",
+            "contributors": [],
+            "created": "2016-12-11T14:52:46Z",
             "creators": [
                 {
-                    "name": "E.W. Haley",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 2104",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement",
+                "plaza"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza"
             ],
             "geometry": {
                 "coordinates": [
-                    -8.144603,
-                    41.159889
+                    [
+                        -8.148319,
+                        41.1617298
+                    ],
+                    [
+                        -8.1484048,
+                        41.1616975
+                    ],
+                    [
+                        -8.1485255,
+                        41.1615662
+                    ],
+                    [
+                        -8.1481715,
+                        41.1609641
+                    ],
+                    [
+                        -8.1465599,
+                        41.161479
+                    ],
+                    [
+                        -8.1464663,
+                        41.1615659
+                    ],
+                    [
+                        -8.1463402,
+                        41.1617979
+                    ],
+                    [
+                        -8.1463509,
+                        41.1619089
+                    ],
+                    [
+                        -8.1465467,
+                        41.1623389
+                    ],
+                    [
+                        -8.1471535,
+                        41.1621828
+                    ],
+                    [
+                        -8.148319,
+                        41.1617298
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:25:00Z",
-                    "modifiedBy": "admin"
+                    "comment": "added location",
+                    "modified": "2016-12-11T14:53:17Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:47:47Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2016-12-11T14:52:47Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-2104",
+            "id": "osm-location-of-tonga3briga",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/plaza"
             ],
-            "provenance": "DARMC OBJECTID: 2104",
+            "provenance": "OpenStreetMap (Way 459011362, version 1, osm:changeset=44324433, 2016-12-11T14:52:17Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/459011362",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "2104",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 459011362",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 2104.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=459011362",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 2104",
-            "uri": "https://pleiades.stoa.org/places/236685/darmc-location-2104"
+            "start": -30,
+            "title": "OSM location of Tongóbriga",
+            "uri": "https://pleiades.stoa.org/places/236685/osm-location-of-tonga3briga"
         }
     ],
     "names": [
@@ -420,11 +508,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "2104",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        -8.144603,
-        41.159889
+        -8.14740272846362,
+        41.16165242819375
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

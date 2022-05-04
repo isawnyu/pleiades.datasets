@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.933614,
-        42.08905,
-        13.933614,
-        42.08905
+        13.9341538,
+        42.0880608,
+        13.9352884,
+        42.0888908
     ],
     "connections": [
         {
@@ -106,24 +106,70 @@
             "username": null
         }
     ],
-    "description": "A sanctuary in the territory of the Paeligni dedicated to Hercules Curinus situated on an artificial terrace on the slopes of Mount Morrone. The terrace sanctuary looks over Sulmo in the valley below. ",
+    "description": "A sanctuary in the territory of the Paeligni dedicated to Hercules Curinus situated on an artificial terrace on the slopes of Mount Morrone. The terrace sanctuary looks over Sulmo in the valley below.",
     "details": "<p>The Barrington Atlas Directory notes: Le Poteche di Ovidio</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    13.933614,
-                    42.08905
+                    [
+                        13.93454,
+                        42.0888908
+                    ],
+                    [
+                        13.9341538,
+                        42.0887117
+                    ],
+                    [
+                        13.934658,
+                        42.0881424
+                    ],
+                    [
+                        13.9348431,
+                        42.088226
+                    ],
+                    [
+                        13.9351328,
+                        42.0881006
+                    ],
+                    [
+                        13.9352481,
+                        42.0880608
+                    ],
+                    [
+                        13.9352884,
+                        42.0881424
+                    ],
+                    [
+                        13.9351274,
+                        42.0882539
+                    ],
+                    [
+                        13.9350389,
+                        42.0884231
+                    ],
+                    [
+                        13.9348592,
+                        42.0885903
+                    ],
+                    [
+                        13.9346017,
+                        42.0888331
+                    ],
+                    [
+                        13.93454,
+                        42.0888908
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "dare-location",
+            "id": "location-of-sanctuary",
             "properties": {
-                "description": "Representative point location, site precision",
-                "link": "https://pleiades.stoa.org/places/413165/dare-location",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/413165/location-of-sanctuary",
                 "location_precision": "precise",
-                "snippet": "Sanctuary, ; 330 BC - AD 300",
-                "title": "DARE Location"
+                "snippet": "Sanctuary; 330 BC - AD 300",
+                "title": "OSM location of Santuario di Ercole Curino"
             },
             "type": "Feature"
         }
@@ -204,9 +250,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -226,82 +272,134 @@
             "contributors": [
                 {
                     "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2012-10-20T23:39:29Z",
+            "created": "2014-02-19T04:50:31Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Representative point location, site precision",
+            "description": "Representative location based on OpenStreetMap.",
             "details": "",
             "end": 300,
             "featureType": [
-                "sanctuary",
-                ""
+                "sanctuary"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
             "geometry": {
                 "coordinates": [
-                    13.933614,
-                    42.08905
+                    [
+                        13.93454,
+                        42.0888908
+                    ],
+                    [
+                        13.9341538,
+                        42.0887117
+                    ],
+                    [
+                        13.934658,
+                        42.0881424
+                    ],
+                    [
+                        13.9348431,
+                        42.088226
+                    ],
+                    [
+                        13.9351328,
+                        42.0881006
+                    ],
+                    [
+                        13.9352481,
+                        42.0880608
+                    ],
+                    [
+                        13.9352884,
+                        42.0881424
+                    ],
+                    [
+                        13.9351274,
+                        42.0882539
+                    ],
+                    [
+                        13.9350389,
+                        42.0884231
+                    ],
+                    [
+                        13.9348592,
+                        42.0885903
+                    ],
+                    [
+                        13.9346017,
+                        42.0888331
+                    ],
+                    [
+                        13.93454,
+                        42.0888908
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-05-03T23:09:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Edited",
-                    "modified": "2016-07-29T16:28:57Z",
+                    "modified": "2017-04-22T18:12:48Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-                    "modified": "2012-10-20T23:39:30Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2016-07-29T16:29:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-02-19T04:51:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-02-19T04:50:33Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "dare-location",
+            "id": "location-of-sanctuary",
             "locationType": [
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
-            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "provenance": "OpenStreetMap (Way 262315474, version 4, osm:changeset=66702880, 2019-01-28T11:42:46Z)",
             "references": [
                 {
-                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/262315474",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
+                    "citationDetail": "Way 262315474",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=262315474",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "http://purl.org/spar/cito/cites"
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARE Location",
-            "uri": "https://pleiades.stoa.org/places/413165/dare-location"
+            "title": "OSM location of Santuario di Ercole Curino",
+            "uri": "https://pleiades.stoa.org/places/413165/location-of-sanctuary"
         }
     ],
     "names": [
@@ -545,8 +643,8 @@
         }
     ],
     "reprPoint": [
-        13.933614,
-        42.08905
+        13.934724211388946,
+        42.08844382959831
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
