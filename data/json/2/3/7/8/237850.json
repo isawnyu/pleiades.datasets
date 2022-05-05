@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -6.0,
-        41.0,
-        -5.0,
-        42.0
+        -5.998772,
+        41.1152133,
+        -5.9986445,
+        41.1157972
     ],
     "connections": [],
     "connectsWith": [],
@@ -46,37 +46,27 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            -6.0,
-                            41.0
-                        ],
-                        [
-                            -5.0,
-                            41.0
-                        ],
-                        [
-                            -5.0,
-                            42.0
-                        ],
-                        [
-                            -6.0,
-                            42.0
-                        ],
-                        [
-                            -6.0,
-                            41.0
-                        ]
+                        -5.9986445,
+                        41.1152133
+                    ],
+                    [
+                        -5.9986782,
+                        41.1154545
+                    ],
+                    [
+                        -5.998772,
+                        41.1157972
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "location-of-puente-mocho",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/237850/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/237850/location-of-puente-mocho",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Puente Mocho"
             },
             "type": "Feature"
         }
@@ -102,9 +92,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -113,93 +103,98 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-24T16:39:33Z",
+            "created": "2014-01-12T06:45:42Z",
             "creators": [
                 {
-                    "name": "E.W. Haley",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap.",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            -6.0,
-                            41.0
-                        ],
-                        [
-                            -5.0,
-                            41.0
-                        ],
-                        [
-                            -5.0,
-                            42.0
-                        ],
-                        [
-                            -6.0,
-                            42.0
-                        ],
-                        [
-                            -6.0,
-                            41.0
-                        ]
+                        -5.9986445,
+                        41.1152133
+                    ],
+                    [
+                        -5.9986782,
+                        41.1154545
+                    ],
+                    [
+                        -5.998772,
+                        41.1157972
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:25:38Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-05-04T10:28:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2019-05-03T21:39:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-01-12T06:46:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-01-12T06:45:45Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-puente-mocho",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 24 F3 24",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 48048900, version 2, osm:changeset=6564496, 2010-12-06T15:14:22Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/48048900",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 48048900",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=48048900",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/237850/batlas-location"
+            "title": "OSM location of Puente Mocho",
+            "uri": "https://pleiades.stoa.org/places/237850/location-of-puente-mocho"
         }
     ],
     "names": [],
@@ -246,8 +241,8 @@
         }
     ],
     "reprPoint": [
-        -5.5,
-        41.5
+        -5.998699173791353,
+        41.11550711813153
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
