@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        5.197222,
-        43.681944,
-        5.197222,
-        43.681944
+        5.1970465,
+        43.6818441,
+        5.1973254,
+        43.6820484
     ],
     "connections": [],
     "connectsWith": [],
@@ -69,9 +69,50 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.1970465,
+                        43.6819722
+                    ],
+                    [
+                        5.1971577,
+                        43.6818441
+                    ],
+                    [
+                        5.1973254,
+                        43.6819203
+                    ],
+                    [
+                        5.1972143,
+                        43.6820484
+                    ],
+                    [
+                        5.1970465,
+                        43.6819722
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-temple-de-la-maison-basse-dit-de",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/148046/osm-location-of-temple-de-la-maison-basse-dit-de",
+                "location_precision": "precise",
+                "snippet": "Temple-2; 30 BC - AD 640",
+                "title": "OSM location of Temple de la Maison-Basse dit de Château-Bas"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added wikidata Q516783: Temple romain de Château-Bas",
+            "modified": "2022-05-05T15:15:57Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "updates",
             "modified": "2021-09-12T02:29:38Z",
@@ -221,6 +262,109 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/148046/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2017-08-25T15:39:24Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "temple-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.1970465,
+                        43.6819722
+                    ],
+                    [
+                        5.1971577,
+                        43.6818441
+                    ],
+                    [
+                        5.1973254,
+                        43.6819203
+                    ],
+                    [
+                        5.1972143,
+                        43.6820484
+                    ],
+                    [
+                        5.1970465,
+                        43.6819722
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2017-08-25T15:39:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-08-25T15:39:25Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-temple-de-la-maison-basse-dit-de",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+            ],
+            "provenance": "OpenStreetMap (Way 268068030, version 2, osm:changeset=49011065, 2017-05-26T19:52:53Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/268068030",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 268068030",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=268068030",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Temple de la Maison-Basse dit de Château-Bas",
+            "uri": "https://pleiades.stoa.org/places/148046/osm-location-of-temple-de-la-maison-basse-dit-de"
         }
     ],
     "names": [],
@@ -297,11 +441,22 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q516783",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q516783: Temple romain de Château-Bas",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        5.197222,
-        43.681944
+        5.197203980041348,
+        43.681945127355974
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        10.1393443,
-        44.0353943,
-        10.1393443,
-        44.0353943
+        10.1167289,
+        44.0210911,
+        10.1169906,
+        44.021232
     ],
     "connections": [
         {
@@ -87,18 +87,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    10.1393443,
-                    44.0353943
+                    [
+                        10.1167725,
+                        44.021232
+                    ],
+                    [
+                        10.1169906,
+                        44.0211553
+                    ],
+                    [
+                        10.1169469,
+                        44.0210911
+                    ],
+                    [
+                        10.1167289,
+                        44.0211677
+                    ],
+                    [
+                        10.1167725,
+                        44.021232
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "dare-location",
+            "id": "osm-location-of-chiesa-san-leonardo-al-frigido",
             "properties": {
-                "description": "Representative point location, village precision",
-                "link": "https://pleiades.stoa.org/places/403279/dare-location",
+                "description": "Representative location of the current church based on OpenStreetMap. The church assumed the space of the former Roman mansio.",
+                "link": "https://pleiades.stoa.org/places/403279/osm-location-of-chiesa-san-leonardo-al-frigido",
                 "location_precision": "precise",
-                "snippet": "Station; AD 300 - AD 640",
-                "title": "DARE Location"
+                "snippet": "Church-2; AD 1700 - AD 2100",
+                "title": "OSM location of Chiesa San Leonardo al Frigido"
             },
             "type": "Feature"
         }
@@ -154,8 +172,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -163,68 +181,92 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
-            "created": "2012-10-23T17:56:19Z",
+            "created": "2017-08-05T13:52:52Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Representative point location, village precision",
+            "description": "Representative location of the current church based on OpenStreetMap. The church assumed the space of the former Roman mansio.",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "station"
+                "church-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/station"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "geometry": {
                 "coordinates": [
-                    10.1393443,
-                    44.0353943
+                    [
+                        10.1167725,
+                        44.021232
+                    ],
+                    [
+                        10.1169906,
+                        44.0211553
+                    ],
+                    [
+                        10.1169469,
+                        44.0210911
+                    ],
+                    [
+                        10.1167289,
+                        44.0211677
+                    ],
+                    [
+                        10.1167725,
+                        44.021232
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-                    "modified": "2012-10-23T17:56:20Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added OSM location",
+                    "modified": "2017-08-05T13:54:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-08-05T13:52:54Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "dare-location",
+            "id": "osm-location-of-chiesa-san-leonardo-al-frigido",
             "locationType": [
-                "representative"
+                "representative",
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/station"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
-            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "provenance": "OpenStreetMap (Way 315534278, version 2, osm:changeset=33447279, 2015-08-19T18:59:59Z)",
             "references": [
                 {
-                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/315534278",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "http://purl.org/spar/cito/cites"
+                    "citationDetail": "Way 315534278",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=315534278",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARE Location",
-            "uri": "https://pleiades.stoa.org/places/403279/dare-location"
+            "start": 1700,
+            "title": "OSM location of Chiesa San Leonardo al Frigido",
+            "uri": "https://pleiades.stoa.org/places/403279/osm-location-of-chiesa-san-leonardo-al-frigido"
         }
     ],
     "names": [
@@ -387,8 +429,8 @@
         }
     ],
     "reprPoint": [
-        10.1393443,
-        44.0353943
+        10.116859724824074,
+        44.02116153327785
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
