@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2022/05/01 06:48:0.072896 GMT-4
+# Date: 2022/05/08 06:48:2.022892 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4165
+# Triple count: 4224
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -236,6 +236,11 @@
     rdfs:comment "A duplicate entry for the Roman Province of Creta et Cyrene (https://pleiades.stoa.org/places/981517). ";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/981515> .
 
+<https://pleiades.stoa.org/errata/98978%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn (duplicate): Helinium";
+    rdfs:comment "This place resource, which was created from BAtlas 10 A5 Helinium, has been withdrawn. The BAtlas Directory failed to equate it with BAtlas 11 E5 Helinium, which is the same ancient place. See now https://pleiades.stoa.org/places/109039.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/98978> .
+
 <https://pleiades.stoa.org/errata/991318%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Baetica";
     spatial:C <https://pleiades.stoa.org/places/540456066%23this>;
@@ -348,6 +353,10 @@
     rdfs:label "Mesopotamia";
     rdfs:comment "An ancient place, cited: BAtlas 101 P4 Mesopotamia";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/991405> .
+
+<http://atlantides.org/capgrids/10%23A5-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[5.0, 51.0], [5.0, 52.0], [4.0, 52.0], [4.0, 51.0], [5.0, 51.0]]]}";
+    osgeo:asWKT "POLYGON ((5.0000000000000000 51.0000000000000000, 5.0000000000000000 52.0000000000000000, 4.0000000000000000 52.0000000000000000, 4.0000000000000000 51.0000000000000000, 5.0000000000000000 51.0000000000000000))" .
 
 <http://atlantides.org/capgrids/100%23L4-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[25.0, 35.0], [25.0, 40.0], [20.0, 40.0], [20.0, 35.0], [25.0, 35.0]]]}";
@@ -2072,11 +2081,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -2095,11 +2104,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87%23A4>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -2113,11 +2122,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -2426,6 +2435,57 @@
     owl:sameAs <http://pleiades.stoa.org/errata/981515/creta-et-cyrene>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ];
     pleiades:nameRomanized "Creta et Cyrene" .
+
+<https://pleiades.stoa.org/errata/98978> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    osspatial:within <http://atlantides.org/capgrids/10%23A5>;
+    dcterms:bibliographicCitation "";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/71839743>;
+    dcterms:description "This place resource, which was created from BAtlas 10 A5 Helinium, has been withdrawn. The BAtlas Directory failed to equate it with BAtlas 11 E5 Helinium, which is the same ancient place. See now https://pleiades.stoa.org/places/109039.";
+    dcterms:modified "2022-05-02T19:04:38-04:00";
+    dcterms:title "Withdrawn (duplicate): Helinium";
+    cito:citesForInformation <http://atlantides.org/bibliography/r.html%23RE-Helinium>,
+        <http://openlibrary.org/works/OL8327792W>;
+    owl:sameAs <http://pleiades.stoa.org/errata/98978>;
+    skos:altLabel "Helinium";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 10 A5 Helinium" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/unknown>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/98978/undetermined>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/98978/helinium> .
+
+<https://pleiades.stoa.org/errata/98978/helinium> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/71839743>;
+    dcterms:description "";
+    dcterms:modified "2012-02-15T14:45:22-04:00";
+    dcterms:title "Helinium";
+    owl:sameAs <http://pleiades.stoa.org/errata/98978/helinium>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 10 A5 Helinium" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/time-periods/roman>;
+    pleiades:end_date 300;
+    pleiades:nameRomanized "Helinium";
+    pleiades:start_date -30 .
+
+<https://pleiades.stoa.org/errata/98978/undetermined> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/10%23A5>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/71839743>;
+    dcterms:description "";
+    dcterms:modified "2012-02-15T14:45:22-04:00";
+    dcterms:title "Undetermined location";
+    owl:sameAs <http://pleiades.stoa.org/errata/98978/undetermined>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 10 A5 Helinium" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/time-periods/roman>;
+    pleiades:end_date 300;
+    pleiades:start_date -30 .
 
 <https://pleiades.stoa.org/errata/991318> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -4209,6 +4269,8 @@
     owl:sameAs <http://pleiades.stoa.org/errata/991405/mesopotamia>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ];
     pleiades:nameRomanized "Mesopotamia" .
+
+<http://atlantides.org/capgrids/10%23A5> osgeo:extent <http://atlantides.org/capgrids/10%23A5-extent> .
 
 <http://atlantides.org/capgrids/100%23L4> osgeo:extent <http://atlantides.org/capgrids/100%23L4-extent> .
 
