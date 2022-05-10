@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        30.560504,
-        25.282226,
-        30.560504,
-        25.282226
+        30.5576597,
+        25.2862733,
+        30.5581425,
+        25.2869136
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    30.560504,
-                    25.282226
+                    [
+                        30.5576705,
+                        25.2869136
+                    ],
+                    [
+                        30.5576597,
+                        25.2862879
+                    ],
+                    [
+                        30.5581238,
+                        25.2862733
+                    ],
+                    [
+                        30.5581425,
+                        25.2868893
+                    ],
+                    [
+                        30.5576705,
+                        25.2869136
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-26133",
+            "id": "location-of-qasr-el-ghuweita",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/776215/darmc-location-26133",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/776215/location-of-qasr-el-ghuweita",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "DARMC location 26133"
+                "snippet": "Temple-2; 2010 BC - 1640 BC",
+                "title": "OSM location of Qasr el-Ghuweita"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-05-09T15:59:32Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update to references, place type",
             "modified": "2022-05-08T00:31:15Z",
@@ -106,8 +129,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -115,76 +138,124 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "middle-kingdom-egypt",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-kingdom-egypt"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-08-02T20:44:20Z",
+            "created": "2014-03-09T23:47:40Z",
             "creators": [
                 {
-                    "name": "G. Wagner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 26133",
-            "end": -30,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": -1640,
             "featureType": [
-                "unknown"
+                "temple-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    30.560504,
-                    25.282226
+                    [
+                        30.5576705,
+                        25.2869136
+                    ],
+                    [
+                        30.5576597,
+                        25.2862879
+                    ],
+                    [
+                        30.5581238,
+                        25.2862733
+                    ],
+                    [
+                        30.5581425,
+                        25.2868893
+                    ],
+                    [
+                        30.5576705,
+                        25.2869136
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:23:45Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-05-09T15:58:44Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:44:21Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2022-05-08T00:31:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "update",
+                    "modified": "2022-05-08T00:28:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-03-09T23:48:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-09T23:47:44Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-26133",
+            "id": "location-of-qasr-el-ghuweita",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "DARMC OBJECTID: 26133",
+            "provenance": "OpenStreetMap (Way 265345071, version 1, osm:changeset=21016898, 2014-03-09T23:47:00Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/265345071",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "26133",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 265345071",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 26133.",
+                    "formattedCitation": "osm:way=265345071",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://de.wikivoyage.org/wiki/Qa%E1%B9%A3r_el-Ghuwei%E1%B9%ADa",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Qaṣr el-Ghuweiṭa",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 26133",
-            "uri": "https://pleiades.stoa.org/places/776215/darmc-location-26133"
+            "start": -2010,
+            "title": "OSM location of Qasr el-Ghuweita",
+            "uri": "https://pleiades.stoa.org/places/776215/location-of-qasr-el-ghuweita"
         }
     ],
     "names": [
@@ -298,11 +369,22 @@
             "otherIdentifier": " ",
             "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "26133",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        30.560504,
-        25.282226
+        30.55789813177709,
+        25.286592249219854
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
