@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        12.652904,
-        41.489014,
-        12.652904,
-        41.489014
+        12.657221,
+        41.4933986,
+        12.6578056,
+        41.4940154
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/424316"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -53,23 +55,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.652904,
-                    41.489014
+                    [
+                        12.657221,
+                        41.4936236
+                    ],
+                    [
+                        12.6574195,
+                        41.4940154
+                    ],
+                    [
+                        12.6578056,
+                        41.4939896
+                    ],
+                    [
+                        12.6575054,
+                        41.4933986
+                    ],
+                    [
+                        12.6574249,
+                        41.4934609
+                    ],
+                    [
+                        12.6574329,
+                        41.4935111
+                    ],
+                    [
+                        12.6573712,
+                        41.4935593
+                    ],
+                    [
+                        12.6573069,
+                        41.4935573
+                    ],
+                    [
+                        12.657221,
+                        41.4936236
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-20668",
+            "id": "osm-location-of-torre-del-monumento",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/423096/darmc-location-20668",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/423096/osm-location-of-torre-del-monumento",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 20668"
+                "snippet": "Archaeological-site, Tomb; 30 BC - AD 300",
+                "title": "OSM location of Torre del Monumento"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-05-16T13:07:07Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updates",
             "modified": "2021-09-26T15:06:43Z",
@@ -115,9 +156,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -128,71 +169,106 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:14:24Z",
+            "contributors": [],
+            "created": "2022-05-16T03:01:19Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 20668",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "archaeological-site",
+                "tomb"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "geometry": {
                 "coordinates": [
-                    12.652904,
-                    41.489014
+                    [
+                        12.657221,
+                        41.4936236
+                    ],
+                    [
+                        12.6574195,
+                        41.4940154
+                    ],
+                    [
+                        12.6578056,
+                        41.4939896
+                    ],
+                    [
+                        12.6575054,
+                        41.4933986
+                    ],
+                    [
+                        12.6574249,
+                        41.4934609
+                    ],
+                    [
+                        12.6574329,
+                        41.4935111
+                    ],
+                    [
+                        12.6573712,
+                        41.4935593
+                    ],
+                    [
+                        12.6573069,
+                        41.4935573
+                    ],
+                    [
+                        12.657221,
+                        41.4936236
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:57:31Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-05-16T03:01:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-05-16T03:01:20Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20668",
+            "id": "osm-location-of-torre-del-monumento",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
-            "provenance": "DARMC OBJECTID: 20668",
+            "provenance": "OpenStreetMap (Way 478290104, version 2, osm:changeset=68326988, 2019-03-20T09:42:40Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/478290104",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20668",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 478290104",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20668.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=478290104",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 20668",
-            "uri": "https://pleiades.stoa.org/places/423096/darmc-location-20668"
+            "title": "OSM location of Torre del Monumento",
+            "uri": "https://pleiades.stoa.org/places/423096/osm-location-of-torre-del-monumento"
         }
     ],
     "names": [],
@@ -240,11 +316,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20668",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.652904,
-        41.489014
+        12.657508918888638,
+        41.493749311476925
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
