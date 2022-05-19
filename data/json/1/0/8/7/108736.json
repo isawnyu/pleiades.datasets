@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        8.114004,
-        49.743064,
-        8.114004,
-        49.743064
+        8.1171153,
+        49.7425578,
+        8.1176871,
+        49.7432228
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,11 +45,11 @@
     "created": "2009-11-02T15:46:47Z",
     "creators": [
         {
-            "name": "C. Haselgrove",
+            "name": "J. Kunow",
             "username": null
         },
         {
-            "name": "J. Kunow",
+            "name": "C. Haselgrove",
             "username": null
         }
     ],
@@ -59,23 +59,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    8.114004,
-                    49.743064
+                    [
+                        8.1173147,
+                        49.7432228
+                    ],
+                    [
+                        8.1171153,
+                        49.7431723
+                    ],
+                    [
+                        8.1174877,
+                        49.7425578
+                    ],
+                    [
+                        8.1176871,
+                        49.7426082
+                    ],
+                    [
+                        8.1173147,
+                        49.7432228
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-7064",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/108736/darmc-location-7064",
+                "description": "Representative ocation based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/108736/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 7064"
+                "snippet": "Fort-2; 30 BC - AD 640",
+                "title": "OSM location of Römerkastell"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-05-18T14:37:49Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2022-05-17T23:28:33Z",
@@ -121,100 +144,133 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-09T19:39:39Z",
+            "created": "2014-11-16T05:05:11Z",
             "creators": [
                 {
-                    "name": "C. Haselgrove",
-                    "username": null
-                },
-                {
-                    "name": "J. Kunow",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 7064",
+            "description": "Representative ocation based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    8.114004,
-                    49.743064
+                    [
+                        8.1173147,
+                        49.7432228
+                    ],
+                    [
+                        8.1171153,
+                        49.7431723
+                    ],
+                    [
+                        8.1174877,
+                        49.7425578
+                    ],
+                    [
+                        8.1176871,
+                        49.7426082
+                    ],
+                    [
+                        8.1173147,
+                        49.7432228
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:08:25Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2022-05-18T14:37:18Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:40:00Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-05-18T14:36:39Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:39:40Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "update title, summary",
+                    "modified": "2022-05-17T23:26:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-11-16T05:06:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-11-16T05:05:14Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-7064",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 7064",
+            "provenance": "OpenStreetMap (Way 30983550, version 3, osm:changeset=70251401, 2019-05-14T20:08:30Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/30983550",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7064",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 30983550",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7064.",
+                    "formattedCitation": "osm:way=30983550",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://de.wikipedia.org/wiki/Kastell_Alzey",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
+                    "citationDetail": "Kastell Alzey",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Kastell Alzey.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (German)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 7064",
-            "uri": "https://pleiades.stoa.org/places/108736/darmc-location-7064"
+            "title": "OSM location of Römerkastell",
+            "uri": "https://pleiades.stoa.org/places/108736/osm-location"
         }
     ],
     "names": [
@@ -390,11 +446,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7064",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        8.114004,
-        49.743064
+        8.117401202142005,
+        49.74289028024429
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
