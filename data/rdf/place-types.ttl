@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2022/05/15 06:47:32.453910 GMT-4
+# Date: 2022/05/22 06:47:31.976727 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 952
+# Triple count: 968
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -80,6 +80,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "architectural complex"@en;
     skos:scopeNote "A group of rooms, spaces, built features or structures that make up an individual architectural unit within a larger building or group of buildings."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/barracks> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/barracks>,
+        <http://vocab.getty.edu/aat/300005665>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "barracks"@en;
+    skos:scopeNote "Barracks as defined by the Getty Art and Architecture Thesaurus: Buildings or sets of buildings erected as common living quarters for groups of soldiers or workers."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/basilica> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/basilica>;
@@ -837,6 +844,18 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "shrine"@en;
     skos:scopeNote "A shrine as defined by the Getty Art and Architecture Thesaurus term 300007558: \"Structures or large furnishings in which devotion is paid to a statue, picture, saint, deity or other holy objects.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/siege-mine> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/siege-mine>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "siege mine"@en;
+    skos:scopeNote "An excavated area or tunnel associated with sapping and other forms of subterranean and siege warfare."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/siege-ramp> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/siege-ramp>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "siege ramp"@en;
+    skos:scopeNote "A ramp associated with siege warfare tactics."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/space-exterior-covered> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/space-exterior-covered>,
