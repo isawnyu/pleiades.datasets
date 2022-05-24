@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        40.4520746,
+        -10.4815672,
+        40.4520746,
+        -10.4815672
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -27,30 +32,46 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T22:12:27Z",
+    "created": "2022-05-21T23:46:14Z",
     "creators": [
         {
             "name": "D.T. Potts",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 4 unlocated Prason",
-    "details": "The Barrington Atlas Directory notes: Ras Dima opposite the island Mafia (Arabic: Manfiya) or Cape Delgado TAN",
+    "description": "A headland located south of Meroë in a region referred to as Barbarica, possibly to be identified with the area opposite the island Mafia (Arabic: Manfiya) or Cape Delgado.",
+    "details": "<p>The Barrington Atlas Directory notes: Ras Dima opposite the island Mafia (Arabic: Manfiya) or Cape Delgado TAN</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    40.4520746,
+                    -10.4815672
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-cape-delgado",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/40256/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/40256/osm-location-of-cape-delgado",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "OSM location of Cape Delgado"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2022-05-23T20:12:44Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update summary, place type, add reference",
+            "modified": "2022-05-23T19:57:07Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2021-11-29T00:37:08Z",
@@ -78,70 +99,69 @@
             "@type": "Location",
             "accuracy": null,
             "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T22:12:28Z",
+            "contributors": [],
+            "created": "2022-05-21T23:57:27Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "geometry": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:44:06Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    40.4520746,
+                    -10.4815672
+                ],
+                "type": "Point"
+            },
+            "history": [],
+            "id": "osm-location-of-cape-delgado",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 Prason",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 4607660894, version 2, osm:changeset=48528433, 2017-05-09T11:03:05Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/4607660894",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4607660894",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=4607660894",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/40256/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Cape Delgado",
+            "uri": "https://pleiades.stoa.org/places/40256/osm-location-of-cape-delgado"
         }
     ],
     "names": [
@@ -205,10 +225,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/cape"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "cape"
     ],
     "provenance": "Barrington Atlas: BAtlas 4 Prason",
     "references": [
@@ -233,9 +255,34 @@
             "otherIdentifier": "",
             "shortTitle": "Datoo 1970",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=prasum-promontorium-geo&highlight=",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "PRASUM PROMONTÓRIUM",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Smith 1854 (Perseus)",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-1.7.2",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "Ptol. 1.7.2",
+            "otherIdentifier": "",
+            "shortTitle": "",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        40.4520746,
+        -10.4815672
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
