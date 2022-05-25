@@ -18,14 +18,14 @@
             "username": null
         },
         {
+            "name": "R. Warner",
+            "username": null
+        },
+        {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
-        },
-        {
-            "name": "R. Warner",
-            "username": null
         },
         {
             "homepage": null,
@@ -40,15 +40,15 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-11-02T09:55:30Z",
+    "created": "2022-05-24T16:11:28Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 9 G6 Harpham",
-    "details": "The Barrington Atlas Directory notes: Harpham",
+    "description": "An extensive Roman courtyard complex and associated crossroads settlement in East Yorkshire, lying to the immediate north of the modern Harpham Grange and northwest of Burton Agnes. A small portion of the mostly invisible site was excavated in the early 20th century, with a second (never published) excavation following in the 1950s. A 2019 geophysical survey and its publication (Maw 2021) have made the site more sensible and better documented.",
+    "details": "<p>The Barrington Atlas Directory notes: Harpham</p>",
     "features": [
         {
             "geometry": {
@@ -60,7 +60,7 @@
             },
             "id": "darmc-location-20905",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/89197/darmc-location-20905",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
@@ -70,6 +70,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "added Maw 2021; cleaned up BAtlas reference; title; summary; place type; summary; place types; title; summary",
+            "modified": "2022-05-24T17:42:40Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2020-10-17T15:23:11Z",
@@ -132,7 +137,7 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 20905",
             "end": 640,
             "featureType": [
@@ -189,22 +194,26 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/villa",
+        "https://pleiades.stoa.org/vocabularies/place-types/road"
     ],
     "placeTypes": [
-        "villa"
+        "settlement",
+        "villa",
+        "road"
     ],
     "provenance": "Barrington Atlas: BAtlas 9 G6 Harpham",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "9 G6 Harpham",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 9 G6 Harpham",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -216,6 +225,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Scott, Eleanor. <i>A Gazetteer of Roman Villas in Britain</i>. Leicester: Leicester University Archaeological Research Centre, 1993. http://www.worldcat.org/oclc/624430910.</div>",
             "otherIdentifier": "",
             "shortTitle": "Scott 1993",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/core/journals/britannia/article/harpham-roman-villa-in-context-insights-from-an-integrated-remotesensing-survey-on-the-yorkshire-wolds/130CFA311221050A7EF79A4280000888",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PVMCIIES",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Maw, Eleanor. “The Harpham Roman Villa in Context: Insights from an Integrated Remote-Sensing Survey on the Yorkshire Wolds.” <i>Britannia</i> 52 (November 2021): 369–84. https://doi.org/10.1017/S0068113X21000106.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Maw 2021",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
@@ -230,7 +250,7 @@
         "dare:ancient=0",
         "dare:feature=villa"
     ],
-    "title": "Harpham",
+    "title": "Harpham Roman Villa and Settlement",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/89197"
 }
