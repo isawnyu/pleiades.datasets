@@ -8,6 +8,8 @@
     ],
     "connections": [],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/70976",
+        "https://pleiades.stoa.org/places/70975",
         "https://pleiades.stoa.org/places/76617563",
         "https://pleiades.stoa.org/places/636775194"
     ],
@@ -99,6 +101,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-05-30T15:51:20Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "references",
             "modified": "2019-05-26T20:27:37Z",
@@ -553,14 +560,22 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2009-10-30T22:28:08Z",
@@ -575,14 +590,19 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "ctype to ethnic, set language = Latin",
+                    "modified": "2022-05-30T15:52:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T07:57:16Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "coriosolitae",
-            "language": "",
-            "nameType": "geographic",
+            "language": "la",
+            "nameType": "ethnic",
             "provenance": "Barrington Atlas: BAtlas 7 D3 Fanum Martis/Civitas Coriosolitum",
             "references": [],
             "review_state": "published",
@@ -604,8 +624,21 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "attested": "",
-            "contributors": [],
+            "attested": "Corseul",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
             "created": "2012-05-25T22:05:09Z",
             "creators": [
                 {
@@ -620,16 +653,38 @@
             "end": 2100,
             "history": [
                 {
+                    "comment": "added geonames reference since published name lacked reference",
+                    "modified": "2022-05-30T15:53:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "ctype to assoc modern name",
+                    "modified": "2022-05-30T15:52:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "RFO and PECS references from Johan Ahlfeldt (jahlfeldt) and reviewd by Tom Elliott (thomase) in May 2012",
                     "modified": "2012-05-25T22:05:10Z",
                     "modifiedBy": "sgillies"
                 }
             ],
             "id": "corseul",
-            "language": "",
-            "nameType": "geographic",
+            "language": "fr",
+            "nameType": "associated_modern",
             "provenance": "Regnum Francorum Online",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/3023511/corseul.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "3023511: Corseul",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "romanized": "Corseul",
             "start": 1700,
@@ -754,6 +809,17 @@
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/14520616",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/X5SB7P6M",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Guennou, Guy. <i>La Cité Des Coriosolites</i>. Dossiers Du Centre Régional Archéologique d’Alet, D. Rennes: Laboratoire d’archéologie, Institut armoricain, Université de Haute Bretagne, 1981. http://www.worldcat.org/oclc/14520616.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Guennou 1981",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
