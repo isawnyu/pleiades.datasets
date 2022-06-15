@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        21.847882,
-        45.486655,
-        21.847882,
-        45.486655
+        21.8568616,
+        45.5034007,
+        21.8603173,
+        45.5058468
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    21.847882,
-                    45.486655
+                    [
+                        21.8586998,
+                        45.5058468
+                    ],
+                    [
+                        21.8568616,
+                        45.5044355
+                    ],
+                    [
+                        21.8584791,
+                        45.5034007
+                    ],
+                    [
+                        21.8603173,
+                        45.504812
+                    ],
+                    [
+                        21.8586998,
+                        45.5058468
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-24481",
+            "id": "osm-location-of-castrul-roman-aizis",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/206899/darmc-location-24481",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/206899/osm-location-of-castrul-roman-aizis",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 24481"
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM location of Castrul roman Aizis"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-06-14T20:34:07Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2022-06-13T15:06:23Z",
@@ -106,8 +129,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -119,77 +142,92 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T02:12:09Z",
+            "contributors": [],
+            "created": "2022-06-13T00:58:01Z",
             "creators": [
                 {
-                    "name": "J.J. Wilkes",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 24481",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    21.847882,
-                    45.486655
+                    [
+                        21.8586998,
+                        45.5058468
+                    ],
+                    [
+                        21.8568616,
+                        45.5044355
+                    ],
+                    [
+                        21.8584791,
+                        45.5034007
+                    ],
+                    [
+                        21.8603173,
+                        45.504812
+                    ],
+                    [
+                        21.8586998,
+                        45.5058468
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:51:58Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2022-06-13T15:04:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:33:06Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-06-13T00:58:26Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T02:12:11Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-06-13T00:58:01Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-24481",
+            "id": "osm-location-of-castrul-roman-aizis",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 24481",
+            "provenance": "OpenStreetMap (Way 279454530, version 3, osm:changeset=57410103, 2018-03-22T06:24:26Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/279454530",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "24481",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 279454530",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24481.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=279454530",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 24481",
-            "uri": "https://pleiades.stoa.org/places/206899/darmc-location-24481"
+            "title": "OSM location of Castrul roman Aizis",
+            "uri": "https://pleiades.stoa.org/places/206899/osm-location-of-castrul-roman-aizis"
         }
     ],
     "names": [
@@ -321,11 +359,22 @@
             "otherIdentifier": " ",
             "shortTitle": "TP (Talbert: CUP)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "24481",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        21.847882,
-        45.486655
+        21.85858945,
+        45.50462375
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

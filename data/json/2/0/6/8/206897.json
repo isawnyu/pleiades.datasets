@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.403427,
-        45.523444,
-        22.403427,
-        45.523444
+        22.4053666,
+        45.5231701,
+        22.4102979,
+        45.5264979
     ],
     "connections": [],
     "connectsWith": [],
@@ -36,36 +36,64 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-10-20T13:54:22Z",
+    "created": "2022-06-14T19:19:07Z",
     "creators": [
         {
             "name": "J.J. Wilkes",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 21 E4 *Agnaviae",
-    "details": "The Barrington Atlas Directory notes: Zăvoi? ROM",
+    "description": "A Roman camp located in the middle of the modern village of Zăvoi in Romania. The site may be associated with a road station known as Acmonia/Augmonia/Agnavi(a)e in ancient sources.",
+    "details": "<p>The Barrington Atlas Directory notes: Zăvoi? ROM</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    22.403427,
-                    45.523444
+                    [
+                        22.4059251,
+                        45.5264979
+                    ],
+                    [
+                        22.4053666,
+                        45.523581
+                    ],
+                    [
+                        22.4097392,
+                        45.5231701
+                    ],
+                    [
+                        22.4102979,
+                        45.5260866
+                    ],
+                    [
+                        22.4059251,
+                        45.5264979
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-24362",
+            "id": "osm-location-of-castra-of-zavoi",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/206897/darmc-location-24362",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/206897/osm-location-of-castra-of-zavoi",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 24362"
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM location of Castra of Zăvoi"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; place type += fort; cleaned up references; added Luca 2006; added Wikidata reference; added German wikipedia reference; removed English wikipedia article; added RAN references; updated Names",
+            "modified": "2022-06-14T23:28:36Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-06-14T19:18:49Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2013-07-05T21:28:50Z",
@@ -106,8 +134,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -119,77 +147,87 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T02:07:08Z",
+            "contributors": [],
+            "created": "2022-06-13T00:53:57Z",
             "creators": [
                 {
-                    "name": "J.J. Wilkes",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 24362",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    22.403427,
-                    45.523444
+                    [
+                        22.4059251,
+                        45.5264979
+                    ],
+                    [
+                        22.4053666,
+                        45.523581
+                    ],
+                    [
+                        22.4097392,
+                        45.5231701
+                    ],
+                    [
+                        22.4102979,
+                        45.5260866
+                    ],
+                    [
+                        22.4059251,
+                        45.5264979
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:51:58Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-06-13T00:54:21Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:33:05Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T02:07:09Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-06-13T00:53:57Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-24362",
+            "id": "osm-location-of-castra-of-zavoi",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 24362",
+            "provenance": "OpenStreetMap (Way 240812490, version 8, osm:changeset=87152244, 2020-06-25T17:18:04Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/240812490",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "24362",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 240812490",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24362.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=240812490",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 24362",
-            "uri": "https://pleiades.stoa.org/places/206897/darmc-location-24362"
+            "title": "OSM location of Castra of Zăvoi",
+            "uri": "https://pleiades.stoa.org/places/206897/osm-location-of-castra-of-zavoi"
         }
     ],
     "names": [
@@ -201,18 +239,185 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Castra of Zăvoi",
+            "contributors": [],
+            "created": "2022-06-14T19:34:46Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-06-14T19:34:47Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "castra-of-zavoi",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q5050761",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Castra of Zăvoi (Q5050761) ",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Castra of Zăvoi",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/206897/castra-of-zavoi"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Castrul roman de la Zăvoi",
+            "contributors": [],
+            "created": "2022-06-14T19:35:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-06-14T19:35:49Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "castrul-roman-de-la-zavoi",
+            "language": "ro",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q5050761",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Castra of Zăvoi (Q5050761)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Castrul roman de la Zăvoi",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/206897/castrul-roman-de-la-zavoi"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Kastell Zăvoi",
+            "contributors": [],
+            "created": "2022-06-14T19:40:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-06-14T19:40:34Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "kastell-zavoi",
+            "language": "de",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://de.wikipedia.org/wiki/Kastell_Z%C4%83voi",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
+                    "citationDetail": "Kastell Zăvoi",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (German)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Kastell Zăvoi",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/206897/kastell-zavoi"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Agnaviae",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -220,9 +425,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2009-10-20T13:54:22Z",
+            "created": "2022-06-14T19:50:39Z",
             "creators": [
                 {
                     "name": "J.J. Wilkes",
@@ -233,6 +444,16 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "language; reference",
+                    "modified": "2022-06-14T23:28:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "less certain",
+                    "modified": "2022-06-14T19:50:26Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T02:51:58Z",
@@ -245,10 +466,22 @@
                 }
             ],
             "id": "agnaviae",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 21 E4 *Agnaviae",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1738.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "6A4 Agnavi(a)e (TP 1738)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Agnaviae",
             "start": -30,
@@ -258,8 +491,8 @@
         },
         {
             "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -268,14 +501,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Acmonia",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -283,6 +512,12 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2009-10-20T13:54:22Z",
@@ -296,6 +531,16 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "latin",
+                    "modified": "2022-06-14T20:19:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "less certain",
+                    "modified": "2022-06-14T19:50:07Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T02:51:58Z",
@@ -313,7 +558,7 @@
                 }
             ],
             "id": "acmonia",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 21 E4 *Agnaviae",
             "references": [],
@@ -336,64 +581,119 @@
     "provenance": "Barrington Atlas: BAtlas 21 E4 *Agnaviae",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "21 E4 *Agnaviae",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 21 E4 *Agnaviae",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Aquincum-26",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U8NJVRER",
+            "citationDetail": "26",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Aquincum 26",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Aquincum - Sarmizegetusa - Sirmium</i>. Tabula Imperii Romani L34. Budapest, Hungary: Cartographia Budapest; Magyar Tudományos Akadémia: Archaeologiai Bizottság, 1968.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Aquincum",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#Tudor-1968-43-44",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEKB4E9F",
+            "citationDetail": "43-44",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Tudor 1968 43-44",
+            "formattedCitation": "<div class=\"csl-entry\">Tudor, Dumitru. <i>Orase, Tirguri Si Sate in Dacia Romana</i>. Bucuresti: Editura Stiintifica, 1968.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Tudor 1968",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1738.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "6A4 (Talbert 1738)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "TP 6A4 (Talbert 1738)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
-            "accessURI": "https://en.wikipedia.org/wiki/Agnaviae_%28castra%29",
+            "accessURI": "https://darmc.harvard.edu/",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-            "citationDetail": "Castra of Zăvoi",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "24362",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://magazines.ulbsibiu.ro/arheologie/publicatii/bibliotheca/banat%20repertoriu%20mare/repertoriubanat.pdf",
+            "alternateURI": "https://web.archive.org/web/20211222192257/https://magazines.ulbsibiu.ro/arheologie/publicatii/bibliotheca/banat%20repertoriu%20mare/repertoriubanat.pdf",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/G6BJHGN2",
+            "citationDetail": "page 277 number 668: Zăvoi (comună, judeţul Caraş-Severin)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Castra of Zăvoi.",
-            "otherIdentifier": " ",
-            "shortTitle": "Wikipedia (English)",
+            "formattedCitation": "<div class=\"csl-entry\">Luca, Sabin Adrian, ed. <i>Descoperiri arheologice din Banatul românesc: repertoriu</i>. Bibliotheca Septemcastrensis 18. Sibiu; Alba Iulia: Altip, 2006.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Luca 2006",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q5050761",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Castra of Zăvoi (Q5050761) ",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://de.wikipedia.org/wiki/Kastell_Z%C4%83voi",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
+            "citationDetail": "Kastell Zăvoi",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (German)",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://ran.cimec.ro/?codran=54626.02",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RVA4C7U9",
+            "citationDetail": "54626.02: Complexul roman de la Zăvoi - Cimitirul ortodox",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">“Repertoriul Arheologic Național al Romaniei.” Accessed June 14, 2022. http://ran.cimec.ro/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RAN",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://ran.cimec.ro/sel.asp?cod-sit-ran-54626.01",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RVA4C7U9",
+            "citationDetail": "54626.01: Castrul roman de la Zăvoi (Agnaviae)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">“Repertoriul Arheologic Național al Romaniei.” Accessed June 14, 2022. http://ran.cimec.ro/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RAN",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        22.403427,
-        45.523444
+        22.407832151736137,
+        45.52483392839097
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -402,7 +702,7 @@
         "dare:major=0",
         "dare:feature=station"
     ],
-    "title": "*Agnaviae",
+    "title": "Zăvoi Roman Camp",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/206897"
 }
