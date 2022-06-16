@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        20.260639,
-        45.13739,
-        20.260639,
-        45.13739
+        20.2534441,
+        45.1450548,
+        20.2534441,
+        45.1450548
     ],
     "connections": [
         {
@@ -33,7 +33,7 @@
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Danuvius/Istros/Hister fl.",
+            "title": "Danuvius/Istros/Hister (river)",
             "uri": "https://pleiades.stoa.org/places/206874/226577"
         }
     ],
@@ -68,36 +68,46 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-10-20T13:54:02Z",
+    "created": "2022-06-15T18:48:07Z",
     "creators": [
         {
             "name": "J.J. Wilkes",
             "username": null
         }
     ],
-    "description": "Acumincum (Stari Slankamen) was a settlement of the Scordisci that was later conquered by the Romans. During the Flavian period, the cohors I Britannica equitata and II Adjutrix were based there.",
+    "description": "Acumincum (modern Stari Slankamen in Serbia) was a settlement of the Scordisci that was later conquered by the Romans. During the Flavian period, the cohors I Britannica equitata and II Adjutrix were based there.",
     "details": "<p>The Barrington Atlas Directory notes: Stari Slankamen YUG</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    20.260639,
-                    45.13739
+                    20.2534441,
+                    45.1450548
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-7004",
+            "id": "osm-location-of-acuminicum",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/206874/darmc-location-7004",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/206874/osm-location-of-acuminicum",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 7004"
+                "title": "OSM Location of Acuminicum"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 7004 = related",
+            "modified": "2022-06-15T20:05:12Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; updated Wikipedia reference; cleaned up TIR reference; wikidata reference",
+            "modified": "2022-06-15T20:03:40Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2022-06-12T22:20:18Z",
@@ -143,9 +153,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -162,77 +172,63 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:38:22Z",
+            "contributors": [],
+            "created": "2022-06-15T18:55:34Z",
             "creators": [
                 {
-                    "name": "J.J. Wilkes",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 7004",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+            "details": "",
             "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
-                    20.260639,
-                    45.13739
+                    20.2534441,
+                    45.1450548
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:51:47Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-06-15T18:56:32Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:32:53Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:38:23Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-06-15T18:55:34Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-7004",
+            "id": "osm-location-of-acuminicum",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 7004",
+            "locationTypeURI": [],
+            "provenance": "OpenStreetMap (Node 5214928479, version 3, osm:changeset=86667067, 2020-06-15T11:28:50Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/5214928479",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7004",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 5214928479",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7004.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=5214928479",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 7004",
-            "uri": "https://pleiades.stoa.org/places/206874/darmc-location-7004"
+            "title": "OSM Location of Acuminicum",
+            "uri": "https://pleiades.stoa.org/places/206874/osm-location-of-acuminicum"
         }
     ],
     "names": [
@@ -304,6 +300,120 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/206874/acumincum"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "attested": "Acunum",
+            "contributors": [],
+            "created": "2022-06-15T19:01:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-06-15T19:01:38Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "acunum",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1643.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "5A3 Acvnvm (TPPlace 1643)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Acunum",
+            "start": 300,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/206874/acunum"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Ἀκούμιγκον",
+            "contributors": [],
+            "created": "2022-06-15T19:05:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-06-15T19:05:38Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "akouminkon",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015022717592&view=1up&seq=171&q1=%E1%BC%88%CE%BA%CE%BF%CF%8D%CE%BC%CE%B9%CE%B3%CE%BA%CE%BF%CE%BD",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/56UMLU8H",
+                    "citationDetail": "2.16.5",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Claudii Ptolemaei geographia</i>. Edited by Karl Friedrich August Nobbe. 3 in 2 vols. Lipsiae: Sumptibus et typis Caroli Tauchnitii, 1843. https://catalog.hathitrust.org/Record/002504277.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ptol. (Nobbe: Hathi)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Akouminkon, Akoumingkon",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/206874/akouminkon"
         }
     ],
     "placeTypeURIs": [
@@ -328,12 +438,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Aquincum-23",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U8NJVRER",
+            "citationDetail": "23",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Aquincum 23",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Aquincum - Sarmizegetusa - Sirmium</i>. Tabula Imperii Romani L34. Budapest, Hungary: Cartographia Budapest; Magyar Tudományos Akadémia: Archaeologiai Bizottság, 1968.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Aquincum",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -348,20 +458,42 @@
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
-            "accessURI": "https://en.wikipedia.org/wiki/Stari_Slankamen",
+            "accessURI": "https://en.wikipedia.org/wiki/Acumincum",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-            "citationDetail": "Stari Slankamen",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Acuminicum",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Stari Slankamen.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q4677883",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Acumincum (Q4677883) ",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7004",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        20.260639,
-        45.13739
+        20.2534441,
+        45.1450548
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
