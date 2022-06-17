@@ -1,7 +1,67 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/462503",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2019-02-03T05:08:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-06-16T13:09:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-02-03T05:08:58Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "syracusae-syrakousai",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/246/1612-1617#246",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.89.5",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Syracusae/Syrakousai",
+            "uri": "https://pleiades.stoa.org/places/465949/syracusae-syrakousai"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/462503"
     ],
@@ -29,15 +89,15 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-11T15:04:47Z",
+    "created": "2022-06-16T13:07:46Z",
     "creators": [
         {
             "name": "R.J.A. Wilson",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 47 unlocated Magea Fons",
-    "details": "The Barrington Atlas Directory notes: near Syracuse",
+    "description": "A spring, mentioned by Pliny the Elder, in the territory of Syracuse. Its precise location has not been determined by modern scholars.",
+    "details": "<p>The Barrington Atlas Directory notes: near Syracuse</p>",
     "features": [
         {
             "geometry": null,
@@ -53,6 +113,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type += spring",
+            "modified": "2022-06-16T15:25:17Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-06-16T13:07:46Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2019-02-03T05:08:37Z",
@@ -159,14 +229,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Magea fons",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -174,9 +240,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-11T15:04:48Z",
+            "created": "2022-06-16T03:52:24Z",
             "creators": [
                 {
                     "name": "R.J.A. Wilson",
@@ -188,16 +266,38 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "adjusted Pliny link",
+                    "modified": "2022-06-16T13:07:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added Pliny ref. added Latin name",
+                    "modified": "2022-06-16T13:06:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:25:29Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "magea-fons",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 47 Magea Fons",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/246/1612-1617#246",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.89.5",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Magea Fons",
             "start": -30,
@@ -207,10 +307,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/spring"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "spring"
     ],
     "provenance": "Barrington Atlas: BAtlas 47 Magea Fons",
     "references": [
