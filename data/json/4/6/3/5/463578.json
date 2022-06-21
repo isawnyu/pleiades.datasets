@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.5,
-        37.5,
-        15.0,
-        38.0
+        14.8644979,
+        37.575132,
+        14.8645735,
+        37.5751869
     ],
     "connections": [
         {
@@ -41,6 +41,58 @@
             "start": null,
             "title": "Sicilia (island)",
             "uri": "https://pleiades.stoa.org/places/463578/sicilia-island"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "crosses",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/crosses",
+            "connectsTo": "https://pleiades.stoa.org/places/462502",
+            "contributors": [],
+            "created": "2022-06-16T23:51:54Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2022-06-17T00:00:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2022-06-16T23:51:58Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "symaethus-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 722",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Symaethus (river)",
+            "uri": "https://pleiades.stoa.org/places/463578/symaethus-river"
         }
     ],
     "connectsWith": [
@@ -71,7 +123,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-11T15:02:26Z",
+    "created": "2022-06-16T23:55:26Z",
     "creators": [
         {
             "name": "R.J.A. Wilson",
@@ -79,48 +131,51 @@
         }
     ],
     "description": "An unnamed bridge located west of Hybla Gereatis at Pietralunga di Paternò, over the river Simeto.",
-    "details": "The Barrington Atlas Directory notes: W Hybla Gereatis at Pietralunga di Paternò, over R. Simeto",
+    "details": "<p>The Barrington Atlas Directory notes: W Hybla Gereatis at Pietralunga di Paternò, over R. Simeto</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            14.5,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            38.0
-                        ],
-                        [
-                            14.5,
-                            38.0
-                        ],
-                        [
-                            14.5,
-                            37.5
-                        ]
+                        14.8645119,
+                        37.5751869
+                    ],
+                    [
+                        14.8644979,
+                        37.5751448
+                    ],
+                    [
+                        14.8645596,
+                        37.575132
+                    ],
+                    [
+                        14.8645735,
+                        37.5751741
+                    ],
+                    [
+                        14.8645119,
+                        37.5751869
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-ponte-romano",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/463578/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/463578/osm-location-of-ponte-romano",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Ponte Romano"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references, summary, title; added wikipedia and wikidata references",
+            "modified": "2022-06-17T16:17:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2022-06-16T23:55:25Z",
@@ -146,9 +201,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -159,85 +214,87 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T15:02:26Z",
+            "contributors": [],
+            "created": "2022-06-16T23:54:55Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            14.5,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            38.0
-                        ],
-                        [
-                            14.5,
-                            38.0
-                        ],
-                        [
-                            14.5,
-                            37.5
-                        ]
+                        14.8645119,
+                        37.5751869
+                    ],
+                    [
+                        14.8644979,
+                        37.5751448
+                    ],
+                    [
+                        14.8645596,
+                        37.575132
+                    ],
+                    [
+                        14.8645735,
+                        37.5751741
+                    ],
+                    [
+                        14.8645119,
+                        37.5751869
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:24:19Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-06-16T23:55:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-06-16T23:54:56Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-ponte-romano",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 47 F3",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 359424834, version 4, osm:changeset=122485219, 2022-06-16T23:54:15Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/359424834",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 359424834",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=359424834",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/463578/batlas-location"
+            "title": "OSM location of Ponte Romano",
+            "uri": "https://pleiades.stoa.org/places/463578/osm-location-of-ponte-romano"
         }
     ],
     "names": [],
@@ -250,25 +307,25 @@
     "provenance": "Barrington Atlas: BAtlas 47 F3",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "47 F3",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 47 F3",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-XIII",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
+            "citationDetail": "XIII, 383-88",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BTCGI XIII, 383-88",
+            "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "BTCGI",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -285,12 +342,12 @@
         {
             "accessURI": "https://www.cambridge.org/core/journals/archaeological-reports/article/archaeology-in-sicily-19881995/1D6F5913010B3948E27346957DE38A26",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/INBFI7K3",
+            "citationDetail": "77-78",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wilson 1995, 77-78",
+            "formattedCitation": "<div class=\"csl-entry\">Wilson, R. J. A. “Archaeology in Sicily 1988-1995.” <i>Archaeological Reports</i> 42 (November 1996): 59–123. https://doi.org/10.2307/581055.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wilson 1996",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -303,16 +360,38 @@
             "otherIdentifier": "",
             "shortTitle": "Branciforte 1996",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://it.wikipedia.org/wiki/Ponte_romano_di_Pietralunga",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
+            "citationDetail": "Ponte romano di Pietralunga",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (Italian)",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3908182",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Ponte romano di Pietralunga (Q3908182)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        14.75,
-        37.75
+        14.864535717300795,
+        37.575159441335195
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Roman bridge, Pietralunga di Paternò",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/463578"
 }
