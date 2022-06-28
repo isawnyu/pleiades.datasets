@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        61.3262183,
-        30.5953354,
-        61.3262183,
-        30.5953354
+        61.328,
+        30.5961,
+        61.328,
+        30.5961
     ],
     "connections": [
         {
@@ -79,9 +79,21 @@
     "contributors": [
         {
             "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson",
+            "username": "cjohansson"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg",
+            "username": "rrattenborg"
         }
     ],
     "created": "2015-01-22T21:16:18Z",
@@ -99,18 +111,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    61.3262183,
-                    30.5953354
+                    61.328,
+                    30.5961
                 ],
                 "type": "Point"
             },
-            "id": "osm-location",
+            "id": "cigs-location-of-sahr-i-sukhta",
             "properties": {
-                "description": "Representative location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/377547413/osm-location",
+                "description": "Representative centroid location of Šahr-i Sūkhta from Cuneiform Inscriptions Geographical Site Index (CIGS) .",
+                "link": "https://pleiades.stoa.org/places/377547413/cigs-location-of-sahr-i-sukhta",
                 "location_precision": "precise",
-                "snippet": "Settlement; 5000 BC - 1000 BC",
-                "title": "OSM location of Shahr-e Sukhteh"
+                "snippet": "Archaeological-site; 4000 BC - 2000 BC",
+                "title": "CIGS location of Šahr-i Sūkhta"
             },
             "type": "Feature"
         }
@@ -146,28 +158,32 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "chalcolithic-iran",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/chalcolithic-iran"
+                    "timePeriod": "4th-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/4th-millenium-bce"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "2nd-millenium-bce",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-bronze-age-iran",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-bronze-age-iran"
                 }
             ],
-            "contributors": [],
-            "created": "2015-01-22T21:18:22Z",
-            "creators": [
+            "contributors": [
                 {
                     "homepage": null,
                     "name": "Jeffrey Becker",
@@ -175,64 +191,122 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Representative location based on OpenStreetMap",
-            "details": "",
-            "end": -1000,
+            "created": "2022-06-24T10:32:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "Representative centroid location of Šahr-i Sūkhta from Cuneiform Inscriptions Geographical Site Index (CIGS) .",
+            "details": "<p><span>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</span></p>",
+            "end": -2000,
             "featureType": [
-                "settlement"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    61.3262183,
-                    30.5953354
+                    61.328,
+                    30.5961
                 ],
                 "type": "Point"
             },
             "history": [
                 {
+                    "comment": "correct typo in wikipedia reference",
+                    "modified": "2022-06-27T14:29:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Edited",
-                    "modified": "2020-07-10T14:41:22Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2022-06-27T09:22:57Z",
+                    "modifiedBy": "rrattenborg"
                 },
                 {
-                    "comment": "added location",
-                    "modified": "2015-01-22T21:20:15Z",
-                    "modifiedBy": "jbecker"
+                    "comment": "Corrected links for Wikidata and Wikipedia.",
+                    "modified": "2022-06-27T09:09:19Z",
+                    "modifiedBy": "rrattenborg"
                 },
                 {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2015-01-22T21:18:25Z",
-                    "modifiedBy": "jbecker"
+                    "comment": "Edited",
+                    "modified": "2022-06-24T10:46:10Z",
+                    "modifiedBy": "rrattenborg"
+                },
+                {
+                    "comment": "Draft location",
+                    "modified": "2022-06-24T10:32:59Z",
+                    "modifiedBy": "rrattenborg"
                 }
             ],
-            "id": "osm-location",
+            "id": "cigs-location-of-sahr-i-sukhta",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "OpenStreetMap (Node 3304892108, version 1, osm:changeset=28337254, 2015-01-22T21:17:47Z)",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/3304892108",
+                    "accessURI": "https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003224129/archaeology-iran-palaeolithic-achaemenid-empire-roger-matthews-hassan-fazeli-nashli-amy-richardson",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 3304892108",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5E7SMD8J",
+                    "citationDetail": "312-313",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Matthews, Roger, Hassan Fazeli Nashli, and Amy Richardson. <i>The Archaeology of Iran from the Palaeolithic to the Achaemenid Empire</i>. London: Routledge, 2022. https://doi.org/10.4324/9781003224129.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Matthews et al. 2022",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://doi.org/10.5281/zenodo.4960710",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4S3ZL8AB",
+                    "citationDetail": "SOK",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=3304892108",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
+                    "formattedCitation": "<div class=\"csl-entry\">Rattenborg, Rune, Carolin Johansson, Seraina Nett, Gustav Ryberg Smidt, and Jakob Andersson. “Cuneiform Inscriptions Geographical Site Index (CIGS).” Zenodo, 2021. https://doi.org/10.5281/zenodo.4960710.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "CIGS",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q1025825",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q1025825: Shahr-e Sukhteh",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "http://purl.org/spar/cito/citesAsRelated"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Shahr-e_Sukhteh",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Shahr-e Sukhteh",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeAlso"
                 }
             ],
             "review_state": "published",
-            "start": -5000,
-            "title": "OSM location of Shahr-e Sukhteh",
-            "uri": "https://pleiades.stoa.org/places/377547413/osm-location"
+            "start": -4000,
+            "title": "CIGS location of Šahr-i Sūkhta",
+            "uri": "https://pleiades.stoa.org/places/377547413/cigs-location-of-sahr-i-sukhta"
         }
     ],
     "names": [
@@ -332,8 +406,8 @@
         }
     ],
     "reprPoint": [
-        61.3262183,
-        30.5953354
+        61.328,
+        30.5961
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

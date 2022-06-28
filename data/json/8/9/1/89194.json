@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.711009,
-        54.52065,
-        -0.711009,
-        54.52065
+        -0.7109315,
+        54.5245757,
+        -0.7109315,
+        54.5245757
     ],
     "connections": [],
     "connectsWith": [],
@@ -40,36 +40,46 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-11-02T09:55:28Z",
+    "created": "2022-06-26T19:56:22Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 9 G6 Goldsborough",
-    "details": "The Barrington Atlas Directory notes: Goldsborough",
+    "description": "According to the Historic England registry, a Roman signal station was identified at Goldsborough. This station was part of a system along the cliffs of north-east Yorkshire.",
+    "details": "<p>The Barrington Atlas Directory notes: Goldsborough</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    -0.711009,
-                    54.52065
+                    -0.7109315,
+                    54.5245757
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-19049",
+            "id": "osm-location-of-roman-signal-station",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/89194/darmc-location-19049",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/89194/osm-location-of-roman-signal-station",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 19049"
+                "snippet": "Fort-2; AD 43 - AD 410",
+                "title": "OSM location of Roman Signal Station"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-06-27T19:10:28Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update references, summary; title",
+            "modified": "2022-06-27T19:09:04Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2022-06-26T19:56:22Z",
@@ -105,8 +115,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -114,76 +124,73 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:43:08Z",
+            "contributors": [],
+            "created": "2022-06-26T19:54:28Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 19049",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    -0.711009,
-                    54.52065
+                    -0.7109315,
+                    54.5245757
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:18:37Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-06-26T19:54:52Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:43:09Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-06-26T19:54:28Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-19049",
+            "id": "osm-location-of-roman-signal-station",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 19049",
+            "provenance": "OpenStreetMap (Node 710606020, version 2, osm:changeset=10516431, 2012-01-27T21:13:41Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/710606020",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19049",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 710606020",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19049.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=710606020",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 19049",
-            "uri": "https://pleiades.stoa.org/places/89194/darmc-location-19049"
+            "start": 43,
+            "title": "OSM location of Roman Signal Station",
+            "uri": "https://pleiades.stoa.org/places/89194/osm-location-of-roman-signal-station"
         }
     ],
     "names": [],
@@ -198,25 +205,25 @@
     "provenance": "Barrington Atlas: BAtlas 9 G6 Goldsborough",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "9 G6 Goldsborough",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 9 G6 Goldsborough",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43014428",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-BritSep-37",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZCE8AR3R",
+            "citationDetail": "37",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR BritSep 37",
+            "formattedCitation": "<div class=\"csl-entry\">Sheppard Frere, A. L. F. Rivet, N. H. H. Sitwell, and British Academy. <i>Tabula Imperii Romani: Britannia Septentrionalis : Covering Sheets N.30 and O.30, with Parts of Sheets N.29, N.31 and O.29 of the International 1:1,000,000 Map of the World</i>. Oxford: Oxford University Press; British Academy, 1987. http://www.worldcat.org/oclc/43014428.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR BritSep",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -229,11 +236,44 @@
             "otherIdentifier": "",
             "shortTitle": "HEListing",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q17664822",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q17664822: Roman signal station at Goldsborough, 130m south east of Scratch Alley",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://doi.org/10.1080/00665983.1932.10853589",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VZHETIL7",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hornsby, William, and John D. Laverick. “The Roman Signal Station at Goldsborough, Near Whitby.” <i>Archaeological Journal</i> 89, no. 1 (January 1, 1932): 203–19. https://doi.org/10.1080/00665983.1932.10853589.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Hornsby and Laverick 1932",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "19049",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        -0.711009,
-        54.52065
+        -0.7109315,
+        54.5245757
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -242,7 +282,7 @@
         "dare:ancient=0",
         "dare:feature=fort"
     ],
-    "title": "Goldsborough",
+    "title": "Goldsborough Roman Signal Station",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/89194"
 }
