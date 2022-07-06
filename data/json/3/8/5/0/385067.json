@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        10.0,
-        44.5,
-        10.5,
-        45.0
+        10.4255344,
+        44.7699437,
+        10.4278923,
+        44.7700097
     ],
     "connections": [
         {
@@ -48,10 +48,46 @@
             "start": null,
             "title": "Incia (river)",
             "uri": "https://pleiades.stoa.org/places/385067/383676"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/66908841",
+            "contributors": [],
+            "created": "2022-07-05T23:11:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-07-05T23:11:15Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "via-aemilia",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Aemilia",
+            "uri": "https://pleiades.stoa.org/places/385067/via-aemilia"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/383676"
+        "https://pleiades.stoa.org/places/383676",
+        "https://pleiades.stoa.org/places/66908841"
     ],
     "contributors": [
         {
@@ -88,49 +124,40 @@
             "username": null
         }
     ],
-    "description": "An unnamed ancient bridge over the Incia fl., near S. Ilario d’Enza.",
+    "description": "An unnamed Roman bridge on the Via Aemilia over the ancient Incia river. Located near modern S. Ilario d’Enza in Italy.",
     "details": "<p>The Barrington Atlas Directory notes: over Incia fl., near S. Ilario d’Enza</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            10.0,
-                            44.5
-                        ],
-                        [
-                            10.5,
-                            44.5
-                        ],
-                        [
-                            10.5,
-                            45.0
-                        ],
-                        [
-                            10.0,
-                            45.0
-                        ],
-                        [
-                            10.0,
-                            44.5
-                        ]
+                        10.4255344,
+                        44.7700097
+                    ],
+                    [
+                        10.4278923,
+                        44.7699437
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-bridge",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/385067/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/385067/osm-location-of-modern-bridge",
+                "location_precision": "precise",
+                "snippet": "Bridge; AD 2000 - AD 2099",
+                "title": "OSM Location of modern bridge"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2022-07-05T23:09:19Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2017-11-05T03:26:10Z",
@@ -156,108 +183,88 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notvisible",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-15T17:53:11Z",
+            "contributors": [],
+            "created": "2022-07-05T23:09:53Z",
             "creators": [
                 {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            10.0,
-                            44.5
-                        ],
-                        [
-                            10.5,
-                            44.5
-                        ],
-                        [
-                            10.5,
-                            45.0
-                        ],
-                        [
-                            10.0,
-                            45.0
-                        ],
-                        [
-                            10.0,
-                            44.5
-                        ]
+                        10.4255344,
+                        44.7700097
+                    ],
+                    [
+                        10.4278923,
+                        44.7699437
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:37:16Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-07-05T23:10:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-07-05T23:09:54Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-bridge",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 39 G4",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 82493945, version 8, osm:changeset=59936834, 2018-06-18T09:26:46Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/82493945",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 82493945",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=82493945",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/385067/batlas-location"
+            "start": 2000,
+            "title": "OSM Location of modern bridge",
+            "uri": "https://pleiades.stoa.org/places/385067/osm-location-of-modern-bridge"
         }
     ],
     "names": [],
@@ -293,13 +300,13 @@
         }
     ],
     "reprPoint": [
-        10.25,
-        44.75
+        10.42671335,
+        44.7699767
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Unnamed bridge",
+    "title": "Enza Roman Bridge",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/385067"
 }

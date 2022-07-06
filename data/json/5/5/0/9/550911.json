@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        26.030496,
-        39.821771,
         26.069085,
-        39.8339
+        39.8339,
+        26.0701917,
+        39.8347344
     ],
     "connections": [
         {
@@ -84,7 +84,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 56 C2 Tenedos",
-    "details": "The Barrington Atlas Directory notes: Bozcaada",
+    "details": "<p>The Barrington Atlas Directory notes: Bozcaada</p>",
     "features": [
         {
             "geometry": {
@@ -107,23 +107,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    26.030496,
-                    39.821771
+                    26.0701917,
+                    39.8347344
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-13216",
+            "id": "osm-location-of-bozcaada",
             "properties": {
-                "description": "TIB point location",
-                "link": "https://pleiades.stoa.org/places/550911/darmc-location-13216",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/550911/osm-location-of-bozcaada",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "DARMC location 13216"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of Bozcaada"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-07-05T10:32:20Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added cnxn",
             "modified": "2015-01-11T00:17:59Z",
@@ -267,8 +272,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -276,102 +281,73 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:23:00Z",
+            "contributors": [],
+            "created": "2022-07-04T20:59:48Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "TIB point location",
-            "details": "DARMC OBJECTID: 13216",
-            "end": 300,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    26.030496,
-                    39.821771
+                    26.0701917,
+                    39.8347344
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:22:11Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-07-04T21:00:08Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:23:01Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-07-04T20:59:49Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-13216",
+            "id": "osm-location-of-bozcaada",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 13216",
+            "provenance": "OpenStreetMap (Node 7446867755, version 1, osm:changeset=84115436, 2020-04-25T17:31:59Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/7446867755",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "13216",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 7446867755",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 13216.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=7446867755",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 13216",
-            "uri": "https://pleiades.stoa.org/places/550911/darmc-location-13216"
+            "start": 1700,
+            "title": "OSM location of Bozcaada",
+            "uri": "https://pleiades.stoa.org/places/550911/osm-location-of-bozcaada"
         }
     ],
     "names": [
@@ -491,11 +467,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "13216",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        26.0497905,
-        39.8278355
+        26.069638349999998,
+        39.8343172
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
