@@ -1,44 +1,63 @@
 {
     "@type": "Place",
     "bbox": [
-        35.5849343,
-        37.6056811,
-        35.5849343,
-        37.6056811
+        35.3365823,
+        36.9864202,
+        35.3365823,
+        36.9864202
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "crosses",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/crosses",
             "connectsTo": "https://pleiades.stoa.org/places/648748",
-            "contributors": [],
-            "created": "2016-07-13T13:46:56Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2022-07-08T00:06:22Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "crosses",
+                    "modified": "2022-07-08T00:06:38Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2022-07-08T00:06:22Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
             "id": "648748",
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "(P)Saros/Sinarus/Koiranos fl.",
+            "title": "(P)Saros/Sinarus/Koiranos (river)",
             "uri": "https://pleiades.stoa.org/places/650062/648748"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/648748"
+        "https://pleiades.stoa.org/places/648748",
+        "https://pleiades.stoa.org/places/648548"
     ],
     "contributors": [
         {
@@ -77,43 +96,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            35.0,
-                            36.5
-                        ],
-                        [
-                            35.5,
-                            36.5
-                        ],
-                        [
-                            35.5,
-                            37.0
-                        ],
-                        [
-                            35.0,
-                            37.0
-                        ],
-                        [
-                            35.0,
-                            36.5
-                        ]
-                    ]
+                    35.3365823,
+                    36.9864202
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "location-of-taskoepru-adana",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/650062/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Undetermined location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/650062/location-of-taskoepru-adana",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 640",
+                "title": "OSM location of Taşköprü (Adana)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2022-07-07T23:56:37Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2014-02-23T04:49:28Z",
@@ -139,8 +143,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -150,87 +154,93 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "created": "2009-10-19T11:02:43Z",
+            "contributors": [],
+            "created": "2013-10-19T13:23:47Z",
             "creators": [
                 {
-                    "name": "S. Mitchell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 640,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            35.0,
-                            36.5
-                        ],
-                        [
-                            35.5,
-                            36.5
-                        ],
-                        [
-                            35.5,
-                            37.0
-                        ],
-                        [
-                            35.0,
-                            37.0
-                        ],
-                        [
-                            35.0,
-                            36.5
-                        ]
-                    ]
+                    35.3365823,
+                    36.9864202
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:36:30Z",
-                    "modifiedBy": "admin"
+                    "comment": "update",
+                    "modified": "2022-07-07T22:07:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-10-19T13:25:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-10-19T13:23:50Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "location-of-taskoepru-adana",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 66 G3",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 114242660, version 1, osm:changeset=8204512, 2011-05-21T10:31:05Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/114242660",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 114242660",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=114242660",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Ta%C5%9Fk%C3%B6pr%C3%BC_(Adana)",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Taşköprü (Adana)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Taşköprü (Adana).",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/650062/undetermined"
+            "title": "OSM location of Taşköprü (Adana)",
+            "uri": "https://pleiades.stoa.org/places/650062/location-of-taskoepru-adana"
         }
     ],
     "names": [],
@@ -266,8 +276,8 @@
         }
     ],
     "reprPoint": [
-        35.5849343,
-        37.6056811
+        35.3365823,
+        36.9864202
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

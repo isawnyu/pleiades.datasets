@@ -2,9 +2,9 @@
     "@type": "Place",
     "bbox": [
         -8.438535,
-        37.18682,
-        -8.438535,
-        37.18682
+        37.1864934,
+        -8.4378376,
+        37.1869526
     ],
     "connections": [],
     "connectsWith": [],
@@ -18,14 +18,14 @@
             "username": null
         },
         {
+            "name": "R. Warner",
+            "username": null
+        },
+        {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
-        },
-        {
-            "name": "R. Warner",
-            "username": null
         },
         {
             "homepage": null,
@@ -40,7 +40,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-11-09T19:38:37Z",
+    "created": "2022-07-07T17:00:40Z",
     "creators": [
         {
             "name": "Jr.",
@@ -55,8 +55,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 26 B4 Silves",
-    "details": "The Barrington Atlas Directory notes: Silves, POR",
+    "description": "An unnamed Roman bridge at modern Silves in Portugal's Algarve region. The bridge spans the Arade river.",
+    "details": "<p>The Barrington Atlas Directory notes: Silves, POR</p>",
     "features": [
         {
             "geometry": {
@@ -68,16 +68,50 @@
             },
             "id": "darmc-location-17997",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/256451/darmc-location-17997",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
                 "title": "DARMC location 17997"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -8.4385126,
+                        37.1869526
+                    ],
+                    [
+                        -8.4378376,
+                        37.1864934
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-ponte-romana",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/256451/osm-location-of-ponte-romana",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Ponte Romana"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2022-07-07T19:24:22Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-07-07T17:00:39Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "vici.org 15936: Silves",
             "modified": "2022-07-07T00:53:19Z",
@@ -144,7 +178,7 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 17997",
             "end": 640,
             "featureType": [
@@ -197,6 +231,91 @@
             "start": -30,
             "title": "DARMC location 17997",
             "uri": "https://pleiades.stoa.org/places/256451/darmc-location-17997"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2022-07-07T00:52:16Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "bridge"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        -8.4385126,
+                        37.1869526
+                    ],
+                    [
+                        -8.4378376,
+                        37.1864934
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "comment": "added OSM location",
+                    "modified": "2022-07-07T00:52:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-07-07T00:52:17Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-ponte-romana",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+            ],
+            "provenance": "OpenStreetMap (Way 111318290, version 2, osm:changeset=41005533, 2016-07-25T08:21:06Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/111318290",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 111318290",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=111318290",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Ponte Romana",
+            "uri": "https://pleiades.stoa.org/places/256451/osm-location-of-ponte-romana"
         }
     ],
     "names": [],
@@ -243,8 +362,8 @@
         }
     ],
     "reprPoint": [
-        -8.438535,
-        37.18682
+        -8.438355049999998,
+        37.1867715
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -253,7 +372,7 @@
         "dare:ancient=0",
         "dare:feature=bridge"
     ],
-    "title": "Silves",
+    "title": "Silves Roman Bridge",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/256451"
 }
