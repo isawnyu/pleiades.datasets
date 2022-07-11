@@ -1,6 +1,7 @@
 # _Pleiades_ Data for GIS
 
-Last update: 14 April 2022
+Data is updated several times each week.   
+Last update to this document: 11 July 2022
 
 A collection of CSV files derived from data in the [_Pleiades_ gazetteer of ancient places](https://pleiades.stoa.org). This collection is intended to facilitate use of _Pleiades_ data in geographic information systems software. Files have been tested for use in QGIS.
 
