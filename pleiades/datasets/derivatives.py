@@ -199,7 +199,8 @@ class JSON2CSV:
     def _write_location_linestrings_csv(self, source_places: list, dirpath: Path):
         ready_locations = list()
         for place in source_places:
-            for loc in place["locations"]:
+            for loci, loc in enumerate(place["locations"]):
+                feature = place["features"][loci]
                 if loc["geometry"] is None:
                     if loc["id"] not in ["batlas-location", "undetermined"] and not loc[
                         "id"
@@ -209,7 +210,7 @@ class JSON2CSV:
                         )
                     continue
                 if loc["geometry"]["type"] == "LineString":
-                    ready_locations.append(self._convert_location(loc, place))
+                    ready_locations.append(self._convert_location(loc, place, feature))
         if ready_locations:
             filename = "location_linestrings.csv"
             self._write_csv(
@@ -221,7 +222,8 @@ class JSON2CSV:
     def _write_location_points_csv(self, source_places: list, dirpath: Path):
         ready_locations = list()
         for place in source_places:
-            for loc in place["locations"]:
+            for loci, loc in enumerate(place["locations"]):
+                feature = place["features"][loci]
                 if loc["geometry"] is None:
                     if loc["id"] not in ["batlas-location", "undetermined"] and not loc[
                         "id"
@@ -231,7 +233,7 @@ class JSON2CSV:
                         )
                     continue
                 if loc["geometry"]["type"] == "Point":
-                    ready_locations.append(self._convert_location(loc, place))
+                    ready_locations.append(self._convert_location(loc, place, feature))
         if ready_locations:
             filename = "location_points.csv"
             self._write_csv(
@@ -243,7 +245,8 @@ class JSON2CSV:
     def _write_location_polygons_csv(self, source_places: list, dirpath: Path):
         ready_locations = list()
         for place in source_places:
-            for loc in place["locations"]:
+            for loci, loc in enumerate(place["locations"]):
+                feature = place["features"][loci]
                 if loc["geometry"] is None:
                     if loc["id"] not in ["batlas-location", "undetermined"] and not loc[
                         "id"
@@ -253,7 +256,7 @@ class JSON2CSV:
                         )
                     continue
                 if loc["geometry"]["type"] == "Polygon":
-                    ready_locations.append(self._convert_location(loc, place))
+                    ready_locations.append(self._convert_location(loc, place, feature))
         if ready_locations:
             filename = "location_polygons.csv"
             self._write_csv(
@@ -317,7 +320,11 @@ class JSON2CSV:
         }
         return result
 
-    def _convert_location(self, location_source: dict, place_source: dict):
+    def _convert_location(
+        self, location_source: dict, place_source: dict, feature_source: dict
+    ):
+        from pprint import pprint
+
         result = dict()
         for k in self.location_keys:
             try:
@@ -325,6 +332,9 @@ class JSON2CSV:
             except KeyError as err:
                 self.logger.error(pformat(location_source, indent=4))
                 raise
+        result["location_precision"] = feature_source["properties"][
+            "location_precision"
+        ]
         return result
 
     def _convert_name(self, name_source: dict, place_source: dict):

@@ -154,6 +154,15 @@ Text encoding: UTF-8 with Byte Order Marker (BOM)
             <li>Applies to: `connections.csv`, `locations_*.csv`, `names.csv`, and `places.csv`.</li>
         </ul>
     </dd>
+    <dt>location_precision</dt>
+    <dd>
+        <ul>
+            <li>A categorical indicator for each Pleiades "Location" resource that indicates how the associated coordinate information should be interpreted and used. One of two values may appear: "precise" or "rough".</li>
+            <li>"precise": a Location's geometry is meant to convey a specific position on the earth's surface (subject further to the "positional accuracy" q.v. of the source data and/or digitization method)</li>
+            <li>"rough": a Location's geometry (usually a polygon) is meant to convey the spatial bounds within which the feature in question should be sought or might lie. "Rough" Locations are usually derived from small-scale and sketch map resources, gazetteers that use "bingo" map grid references rather than spatial coordinates, and similar sources.</li>
+            <li>Applies to: `locations_*.csv`.</li>
+        </ul>
+    </dd>
     <dt>language_tag</dt>
     <dd>
         <ul>
