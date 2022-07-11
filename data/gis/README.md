@@ -15,15 +15,13 @@ Download: [pleiades_gis_data.zip](pleiades_gis_data.zip)
 
 ## Accuracy and precision can vary wildly!
 
-To get an envelope around the feature's probable location:
+**If the value in the `location_precision` field for a place is "rough", do not assume the representative point is accurate.** It may just be the centroid of a large bounding box. The accuracy of the representative point for your purposes may also be affected by the accuracy or precision of the source data or by the presence of multiple "less certain" or "uncertain" locations for a given place. "Associated modern" locations may also prove misleading.
 
-- Load `places.csv` again as "delimited text" but this time use the geometries in `bounding_box_wkt` instead of the representative lat/lons.
-- Note that some of them are huge and some of them are tiny.
+To get an envelope around the feature's probable location(s), load `places.csv` again as "delimited text" but this time use the geometries in `bounding_box_wkt` instead of the representative lat/lons.
 
-## More Adventures
+## More Adventures (Locations)
 
-The `locations.csv` file contains each location associated with each place. You'll probably want to use joins to hook them up with `places.csv`. Watch out for the `accuracy_radius` field (in **meters**). Note the difference between "associated modern", "relocated modern" and other "location types".
-
+The `locations.csv` file contains each location associated with each place. You'll probably want to use joins to hook them up with `places.csv`. Watch out not only for the individual `location_precision` field values, but also for the `accuracy_radius` field (in **meters**). Note the difference between "associated modern", "relocated modern" and other "location types".
 
 ## Files
 
@@ -158,10 +156,10 @@ Text encoding: UTF-8 with Byte Order Marker (BOM)
     <dt>location_precision</dt>
     <dd>
         <ul>
-            <li>A categorical indicator for each Pleiades "Location" resource that indicates how the associated coordinate information should be interpreted and used. One of two values may appear: "precise" or "rough".</li>
+            <li>A categorical indicator for each Pleiades "Location" or "Place" resource that indicates how the associated coordinate information should be interpreted and used. One of two values may appear: "precise" or "rough".</li>
             <li>"precise": a Location's geometry is meant to convey a specific position on the earth's surface (subject further to the "positional accuracy" q.v. of the source data and/or digitization method)</li>
             <li>"rough": a Location's geometry (usually a polygon) is meant to convey the spatial bounds within which the feature in question should be sought or might lie. "Rough" Locations are usually derived from small-scale and sketch map resources, gazetteers that use "bingo" map grid references rather than spatial coordinates, and similar sources.</li>
-            <li>Applies to: `locations_*.csv`.</li>
+            <li>Applies to: `locations_*.csv` and `places.csv`.</li>
         </ul>
     </dd>
     <dt>language_tag</dt>

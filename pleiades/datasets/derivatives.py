@@ -38,6 +38,10 @@ class JSON2CSV:
         representative_latitude=lambda x, y: x["reprPoint"][1],
         representative_longitude=lambda x, y: x["reprPoint"][0],
         bounding_box_wkt=lambda x, y: box(*x["bbox"]).wkt,
+        location_precision=lambda x, y: ["rough", "precise"][
+            "precise"
+            in set([f["properties"]["location_precision"] for f in x["features"]])
+        ],
     )
     place_keys = list(place_schema.keys())
 

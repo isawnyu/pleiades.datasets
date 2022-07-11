@@ -20,19 +20,25 @@ Metadata” below)</li>
 </ul>
 <h2 id="accuracy-and-precision-can-vary-wildly">Accuracy and precision
 can vary wildly!</h2>
-<p>To get an envelope around the feature’s probable location:</p>
-<ul>
-<li>Load <code>places.csv</code> again as “delimited text” but this time
-use the geometries in <code>bounding_box_wkt</code> instead of the
-representative lat/lons.</li>
-<li>Note that some of them are huge and some of them are tiny.</li>
-</ul>
-<h2 id="more-adventures">More Adventures</h2>
+<p><strong>If the value in the <code>location_precision</code> field for
+a place is “rough”, do not assume the representative point is
+accurate.</strong> It may just be the centroid of a large bounding box.
+The accuracy of the representative point for your purposes may also be
+affected by the accuracy or precision of the source data or by the
+presence of multiple “less certain” or “uncertain” locations for a given
+place. “Associated modern” locations may also prove misleading.</p>
+<p>To get an envelope around the feature’s probable location(s), load
+<code>places.csv</code> again as “delimited text” but this time use the
+geometries in <code>bounding_box_wkt</code> instead of the
+representative lat/lons.</p>
+<h2 id="more-adventures-locations">More Adventures (Locations)</h2>
 <p>The <code>locations.csv</code> file contains each location associated
 with each place. You’ll probably want to use joins to hook them up with
-<code>places.csv</code>. Watch out for the <code>accuracy_radius</code>
-field (in <strong>meters</strong>). Note the difference between
-“associated modern”, “relocated modern” and other “location types”.</p>
+<code>places.csv</code>. Watch out not only for the individual
+<code>location_precision</code> field values, but also for the
+<code>accuracy_radius</code> field (in <strong>meters</strong>). Note
+the difference between “associated modern”, “relocated modern” and other
+“location types”.</p>
 <h2 id="files">Files</h2>
 <ul>
 <li><code>archaeological_remains.csv</code>: terms from the <a
@@ -313,8 +319,8 @@ location_precision
 <dd>
 <ul>
 <li>
-A categorical indicator for each Pleiades “Location” resource that
-indicates how the associated coordinate information should be
+A categorical indicator for each Pleiades “Location” or “Place” resource
+that indicates how the associated coordinate information should be
 interpreted and used. One of two values may appear: “precise” or
 “rough”.
 </li>
@@ -331,7 +337,7 @@ sketch map resources, gazetteers that use “bingo” map grid references
 rather than spatial coordinates, and similar sources.
 </li>
 <li>
-Applies to: <code>locations_*.csv</code>.
+Applies to: <code>locations_*.csv</code> and <code>places.csv</code>.
 </li>
 </ul>
 </dd>
