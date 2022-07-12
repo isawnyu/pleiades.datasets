@@ -1,16 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        -6.329776,
-        39.224644,
-        -6.329776,
-        39.224644
+        -6.2908476,
+        39.2363894,
+        -6.2908476,
+        39.2363894
     ],
     "connections": [],
     "connectsWith": [
         "https://pleiades.stoa.org/places/364933709",
-        "https://pleiades.stoa.org/places/257458",
-        "https://pleiades.stoa.org/places/copy_of_257458"
+        "https://pleiades.stoa.org/places/257458"
     ],
     "contributors": [
         {
@@ -44,7 +43,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-11-09T19:30:54Z",
+    "created": "2022-07-07T17:21:18Z",
     "creators": [
         {
             "name": "Jr.",
@@ -59,29 +58,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 26 D2 Ad Sorores",
-    "details": "The Barrington Atlas Directory notes: Casas de Don Antonio",
+    "description": "A Roman road station on the main highway between Emerita Augusta and Norba. The mansio has not been located archaeologically, but is thought to have been coincident with the modern Spanish village of Casas de Don Antonio.",
+    "details": "<p>The Barrington Atlas Directory notes: Casas de Don Antonio</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    -6.329776,
-                    39.224644
+                    -6.2908476,
+                    39.2363894
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-19592",
+            "id": "osm-location-of-modern-casas-de-don-antonio",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/255958/darmc-location-19592",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/255958/osm-location-of-modern-casas-de-don-antonio",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 19592"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location of modern Casas de Don Antonio"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; added vici.org reference; cleaned up references; updated Names, Locations; other locations should be retracted once the OSM location associated with this working copy is published.",
+            "modified": "2022-07-11T14:46:03Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2022-07-07T17:21:16Z",
@@ -117,8 +121,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -126,89 +130,161 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:43:01Z",
+            "contributors": [],
+            "created": "2022-07-07T17:26:36Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 19592",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    -6.329776,
-                    39.224644
+                    -6.2908476,
+                    39.2363894
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:39:11Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-07-07T17:27:16Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:43:03Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-07-07T17:26:36Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-19592",
+            "id": "osm-location-of-modern-casas-de-don-antonio",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 19592",
+            "provenance": "OpenStreetMap (Node 1276953265, version 6, osm:changeset=109386065, 2021-08-09T07:56:21Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1276953265",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19592",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1276953265",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19592.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=1276953265",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 19592",
-            "uri": "https://pleiades.stoa.org/places/255958/darmc-location-19592"
+            "start": 2000,
+            "title": "OSM Location of modern Casas de Don Antonio",
+            "uri": "https://pleiades.stoa.org/places/255958/osm-location-of-modern-casas-de-don-antonio"
         }
     ],
     "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Casas de Don Antonio",
+            "contributors": [],
+            "created": "2022-07-07T17:25:40Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-07-07T17:25:41Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "casas-de-don-antonio",
+            "language": "es",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 417 see \"Ad Sorores\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://es.wikipedia.org/wiki/Casas_de_Don_Antonio",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LPYQ8SZL",
+                    "citationDetail": "Casas de Don Antonio",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: la enciclopedia de contenido libre</i>. Wikimedia Foundation, 2001. https://es.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Spanish)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Casas de Don Antonio",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/255958/casas-de-don-antonio"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -283,44 +359,46 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/station"
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "station"
+        "station",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 26 D2 Ad Sorores",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "26 D2 Ad Sorores",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 26 D2 Ad Sorores",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/36156421",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Emerita-25",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PCC822HP",
+            "citationDetail": "25",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Emerita 25",
+            "formattedCitation": "<div class=\"csl-entry\">Alarcão, Jorge de, Adela Cepas, José Ignacio Reguera Cardiel, Angela Alonso Sánchez, and Union académique internationale, eds. <i>Tabula Imperii Romani. Hoja J-29 : Lisboa : Emerita, Scallabis, Pax Iulia, Gades: sobre la base cartográfica del mapa a escala 1:1000000 del IGN</i>. Tabula Imperii Romani, J-29. Madrid: Consejo Superior de Investigaciones Cientificas : Ministerio de Obras Públicas, Transportes y Medio Ambiente, Instituto Geográfico Nacional : Ministerio de Cultura, 1995. http://www.worldcat.org/oclc/36156421.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Emerita",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "http://www.trismegistos.org/place/26478",
+            "accessURI": "https://www.trismegistos.org/place/26478",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 26478: Ad Sorores (Casas de Don Antonio)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 26478",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
@@ -333,11 +411,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (Spanish)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://vici.org/vici/3601/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "3601: Ad Sorores",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        -6.329776,
-        39.224644
+        -6.2908476,
+        39.2363894
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
