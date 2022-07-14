@@ -1,12 +1,60 @@
 {
     "@type": "Place",
     "bbox": [
-        15.5,
-        41.0,
-        16.0,
-        41.5
+        15.5454392,
+        41.0737287,
+        15.5455427,
+        41.0744339
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "uncertain",
+            "attestations": [],
+            "connectionType": "same_as",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/same_as",
+            "connectsTo": "https://pleiades.stoa.org/places/442727",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2019-03-27T14:23:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-07-13T21:17:56Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-03-27T14:23:52Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "pons-aufidi",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Pons Aufidi",
+            "uri": "https://pleiades.stoa.org/places/443954/pons-aufidi"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/442727",
         "https://pleiades.stoa.org/places/356966898"
@@ -24,6 +72,12 @@
         },
         {
             "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
@@ -35,7 +89,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-11T20:35:12Z",
+    "created": "2022-07-13T20:19:16Z",
     "creators": [
         {
             "name": "I.E.M. Edlund Berry",
@@ -46,49 +100,63 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 45 C2 unnamed bridge (Ponte S. Venere, over R. Ofanto at Pons Aufidi on Via Appia)",
+    "description": "A much-repaired medieval bridge crossing the Aufidus (modern Ofanto) river. Long a traditional candidate location for the \"Pons Aufidi\" shown on the Peutinger map (thus BAtlas), recent survey work has found no evidence in the area consistent with a Roman-era bridge. The Pietra Dell'Oglio bridge (further south on the Ofanto) is of Roman date and now a more likely candidate. The Ponte S. Venere remains in use today for the Strada Statale 303.",
     "details": "<p>The Barrington Atlas Directory notes: Ponte S. Venere, over R. Ofanto at Pons Aufidi on Via Appia</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            15.5,
-                            41.0
-                        ],
-                        [
-                            16.0,
-                            41.0
-                        ],
-                        [
-                            16.0,
-                            41.5
-                        ],
-                        [
-                            15.5,
-                            41.5
-                        ],
-                        [
-                            15.5,
-                            41.0
-                        ]
+                        15.5454392,
+                        41.0737287
+                    ],
+                    [
+                        15.5455427,
+                        41.0744339
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-bridge",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/443954/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/443954/osm-location-of-bridge",
+                "location_precision": "precise",
+                "snippet": "Bridge; AD 640 - AD 2100",
+                "title": "OSM Location of bridge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.545522,
+                    41.074245
+                ],
+                "type": "Point"
+            },
+            "id": "dare-location",
+            "properties": {
+                "description": "Representative point location, site precision",
+                "link": "https://pleiades.stoa.org/places/443954/dare-location",
+                "location_precision": "precise",
+                "snippet": "Station; 30 BC - AD 640",
+                "title": "DARE Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; typo in summary; Chiocchini 2021",
+            "modified": "2022-07-13T21:19:37Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-07-13T20:19:16Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2019-06-26T13:21:03Z",
@@ -114,8 +182,116 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "restored",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
+                },
+                {
+                    "confidence": "confident-inferred",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "sixteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/sixteenth-ce"
+                },
+                {
+                    "confidence": "confident-inferred",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "seventeenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/seventeenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [],
+            "created": "2022-07-13T20:47:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "bridge"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        15.5454392,
+                        41.0737287
+                    ],
+                    [
+                        15.5455427,
+                        41.0744339
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "comment": "dates",
+                    "modified": "2022-07-13T20:49:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "dates",
+                    "modified": "2022-07-13T20:49:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-07-13T20:47:31Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-of-bridge",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+            ],
+            "provenance": "OpenStreetMap (Way 158090284, version 3, osm:changeset=33190753, 2015-08-07T20:58:44Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/158090284",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 158090284",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=158090284",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 640,
+            "title": "OSM Location of bridge",
+            "uri": "https://pleiades.stoa.org/places/443954/osm-location-of-bridge"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
+            "accuracy_value": 10.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -127,103 +303,80 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "late-antique",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T20:35:12Z",
+            "contributors": [],
+            "created": "2012-10-20T20:50:54Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Johan Åhlfeldt",
+                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+                    "username": "jahlfeldt"
                 }
             ],
-            "description": "",
+            "description": "Representative point location, site precision",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "station"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.5,
-                            41.0
-                        ],
-                        [
-                            16.0,
-                            41.0
-                        ],
-                        [
-                            16.0,
-                            41.5
-                        ],
-                        [
-                            15.5,
-                            41.5
-                        ],
-                        [
-                            15.5,
-                            41.0
-                        ]
-                    ]
+                    15.545522,
+                    41.074245
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:11:59Z",
-                    "modifiedBy": "admin"
+                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+                    "modified": "2012-10-20T20:50:58Z",
+                    "modifiedBy": "sgillies"
                 }
             ],
-            "id": "batlas-location",
+            "id": "dare-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
-            "provenance": "Barrington Atlas: BAtlas 45 C2",
-            "references": [],
+            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "references": [
+                {
+                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/cites"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/443954/batlas-location"
+            "title": "DARE Location",
+            "uri": "https://pleiades.stoa.org/places/443954/dare-location"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+        "https://pleiades.stoa.org/vocabularies/place-types/bridge",
+        "https://pleiades.stoa.org/vocabularies/place-types/station"
     ],
     "placeTypes": [
-        "bridge"
+        "bridge",
+        "station"
     ],
     "provenance": "Barrington Atlas: BAtlas 45 C2",
     "references": [
@@ -248,16 +401,27 @@
             "otherIdentifier": "",
             "shortTitle": "Quilici 1989",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://vici.org/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/X6Z6F3SH",
+            "citationDetail": "224-228, 247, and 251-252",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Chiocchini, Ugo, Mariella De Piano, Mario Gaeta, Erminio Pagliuca, Nicola Polzone, and Fiammetta Sarmento. “Geoarchaelogical Study of the Roman Pietra Dell’Oglio Bridge at the Service of the Old Appian Way, Campania, Southern Italy.” <i>Archaeological Discovery</i> 9, no. 4 (September 26, 2021): 223–58. https://doi.org/10.4236/ad.2021.94012.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Chiocchini 2021",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        15.75,
-        41.25
+        15.545506475,
+        41.074163150000004
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Unnamed bridge ",
+    "title": "Ponte S. Venere",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/443954"
 }
