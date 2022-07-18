@@ -1,12 +1,48 @@
 {
     "@type": "Place",
     "bbox": [
-        8.0,
-        35.0,
-        8.5,
-        35.5
+        8.1416663,
+        35.4209281,
+        8.1418735,
+        35.421088
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/324831",
+            "contributors": [],
+            "created": "2022-07-08T01:17:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2022-07-08T01:17:26Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "theveste",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Theveste",
+            "uri": "https://pleiades.stoa.org/places/326163/theveste"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/324831"
     ],
@@ -30,58 +66,77 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-28T13:51:22Z",
+    "created": "2022-07-15T16:36:53Z",
     "creators": [
         {
             "name": "R.B. Hitchner",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 33 B2 unnamed bridge (N Theveste)",
-    "details": "The Barrington Atlas Directory notes: N Theveste",
+    "description": "An unnamed bridge located north of Theveste (modern Tébessa, Algeria) on a Roman road between Theveste and Ammaedara (modern Haidra).",
+    "details": "<p>The Barrington Atlas Directory notes: N Theveste</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            8.0,
-                            35.0
-                        ],
-                        [
-                            8.5,
-                            35.0
-                        ],
-                        [
-                            8.5,
-                            35.5
-                        ],
-                        [
-                            8.0,
-                            35.5
-                        ],
-                        [
-                            8.0,
-                            35.0
-                        ]
+                        8.1418353,
+                        35.421088
+                    ],
+                    [
+                        8.1416663,
+                        35.4209531
+                    ],
+                    [
+                        8.1416987,
+                        35.4209281
+                    ],
+                    [
+                        8.1418735,
+                        35.421065
+                    ],
+                    [
+                        8.1418353,
+                        35.421088
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-roman-bridge",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/326163/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/326163/osm-location-of-roman-bridge",
+                "location_precision": "precise",
+                "snippet": "Bridge; AD 750 - AD 940",
+                "title": "OSM location of Roman bridge"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-07-15T21:33:52Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "title; summary",
+            "modified": "2022-07-15T21:33:04Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-07-15T16:36:51Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T04:17:32Z",
@@ -97,8 +152,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -106,99 +161,91 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "abassid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/abassid-middle-east"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-28T13:51:23Z",
+            "contributors": [],
+            "created": "2022-07-08T01:17:55Z",
             "creators": [
                 {
-                    "name": "R.B. Hitchner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 940,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            8.0,
-                            35.0
-                        ],
-                        [
-                            8.5,
-                            35.0
-                        ],
-                        [
-                            8.5,
-                            35.5
-                        ],
-                        [
-                            8.0,
-                            35.5
-                        ],
-                        [
-                            8.0,
-                            35.0
-                        ]
+                        8.1418353,
+                        35.421088
+                    ],
+                    [
+                        8.1416663,
+                        35.4209531
+                    ],
+                    [
+                        8.1416987,
+                        35.4209281
+                    ],
+                    [
+                        8.1418735,
+                        35.421065
+                    ],
+                    [
+                        8.1418353,
+                        35.421088
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:17:32Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-07-08T01:18:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-07-08T01:17:56Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-roman-bridge",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 33 B2",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 1076718624, version 1, osm:changeset=123339782, 2022-07-08T01:16:24Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1076718624",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1076718624",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1076718624",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/326163/batlas-location"
+            "start": 750,
+            "title": "OSM location of Roman bridge",
+            "uri": "https://pleiades.stoa.org/places/326163/osm-location-of-roman-bridge"
         }
     ],
     "names": [],
@@ -211,36 +258,36 @@
     "provenance": "Barrington Atlas: BAtlas 33 B2",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "33 B2",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 33 B2",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&viewer=picture",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-29.102",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+            "citationDetail": "29.102",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "AAA 29.102",
+            "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "AAA",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        8.25,
-        35.25
+        8.141769246663397,
+        35.42100889291602
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Theveste Roman Bridge",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/326163"
 }
