@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2022/07/10 06:47:32.788629 GMT-4
+# Date: 2022/07/17 06:47:34.381049 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 968
+# Triple count: 974
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -150,6 +150,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "castellum"@en;
     skos:scopeNote "A castellum as defined by the Getty Art and Architecture Thesaurus: Small, ancient Roman fortified towns or outposts."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/castle> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/castle>,
+        <http://vocab.getty.edu/aat/300006891>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "castle"@en;
+    skos:scopeNote "A castle as defined by the Getty Art and Architecture Thesaurus: Buildings or groups of buildings intended primarily to serve as a fortified residence of a prince or nobleman."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/causeway> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/causeway>;
