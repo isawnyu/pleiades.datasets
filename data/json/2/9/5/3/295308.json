@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        1.0,
-        36.0,
-        1.5,
-        36.5
+        1.33203,
+        36.46667,
+        1.36667,
+        36.48186
     ],
     "connections": [],
     "connectsWith": [],
@@ -18,66 +18,82 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-24T21:01:34Z",
+    "created": "2022-07-19T21:33:47Z",
     "creators": [
         {
             "name": "T.W. Potter",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 30 B4 Merachiche",
-    "details": "The Barrington Atlas Directory notes: Merachiche",
+    "description": "Evidence of possible ancient construction, presumably associated with the nearby copper mines at \"Bou Khandek\", was noted by AAA at modern \"Merachiche\", southeast of modern Ténès in Algeria (ancient Cartenna).",
+    "details": "<p>The Barrington Atlas Directory notes: Merachiche</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            1.0,
-                            36.0
-                        ],
-                        [
-                            1.5,
-                            36.0
-                        ],
-                        [
-                            1.5,
-                            36.5
-                        ],
-                        [
-                            1.0,
-                            36.5
-                        ],
-                        [
-                            1.0,
-                            36.0
-                        ]
-                    ]
+                    1.36667,
+                    36.46667
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "geonames-location-of-mines-de-cuivre-bou-khenndak",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/295308/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "link": "https://pleiades.stoa.org/places/295308/geonames-location-of-mines-de-cuivre-bou-khenndak",
+                "location_precision": "precise",
+                "snippet": "Mine-2",
+                "title": "Geonames location of Mines de Cuivre Bou Khenndak"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.33203,
+                    36.48186
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-of-douar-m2019rachiche",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/295308/geonames-location-of-douar-m2019rachiche",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1900 - AD 2099",
+                "title": "Geonames location of Douar M’rachiche"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type; title; cleaned up references; added modern location for the mines AAA mentions, which are near M. not equivalent to M. as BAtlas seems to take it; added associated modern Names for both locales",
+            "modified": "2022-07-20T00:13:54Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-07-19T21:33:46Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T04:01:43Z",
@@ -93,8 +109,75 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2022-07-19T21:44:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "mine-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mine-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    1.36667,
+                    36.46667
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-07-19T21:44:33Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "geonames-location-of-mines-de-cuivre-bou-khenndak",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mine-2"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/2502823/mines-de-cuivre-bou-khenndak.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "2502823: Mines de Cuivre Bou Khenndak",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Geonames location of Mines de Cuivre Bou Khenndak",
+            "uri": "https://pleiades.stoa.org/places/295308/geonames-location-of-mines-de-cuivre-bou-khenndak"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -102,135 +185,228 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T21:01:34Z",
+            "contributors": [],
+            "created": "2022-07-19T21:32:57Z",
             "creators": [
                 {
-                    "name": "T.W. Potter",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            1.0,
-                            36.0
-                        ],
-                        [
-                            1.5,
-                            36.0
-                        ],
-                        [
-                            1.5,
-                            36.5
-                        ],
-                        [
-                            1.0,
-                            36.5
-                        ],
-                        [
-                            1.0,
-                            36.0
-                        ]
-                    ]
+                    1.33203,
+                    36.48186
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:01:43Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-07-19T21:32:59Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "geonames-location-of-douar-m2019rachiche",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 30 B4 Merachiche",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/2572484/douar-m-rachiche.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "2572484: Douar M’rachiche",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/295308/batlas-location"
+            "start": 1900,
+            "title": "Geonames location of Douar M’rachiche",
+            "uri": "https://pleiades.stoa.org/places/295308/geonames-location-of-douar-m2019rachiche"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "بوخندق",
+            "contributors": [],
+            "created": "2022-07-19T21:47:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-07-19T21:47:51Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "boukhandek",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/node/1033064856",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Node: Boukhandek (1033064856)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Boukhandek, Bukhandaq",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/295308/boukhandek"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "attested": "ضووار م'راچهيچهي",
+            "contributors": [],
+            "created": "2022-07-19T21:59:55Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-07-19T21:59:55Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "douar-mrachiche",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/2572484/douar-m-rachiche.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "2572484: Douar M’rachiche",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Douar M'rachiche",
+            "start": null,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/295308/douar-mrachiche"
+        }
+    ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+        "https://pleiades.stoa.org/vocabularies/place-types/mine-2"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement",
+        "settlement-modern",
+        "mine-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 30 B4 Merachiche",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "30 B4 Merachiche",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 30 B4 Merachiche",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://bibliotheque-numerique.inha.fr/idviewer/21113/125",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-12.41",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+            "citationDetail": "12.41",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "AAA 12.41",
+            "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "AAA",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        1.25,
-        36.25
+        1.34935,
+        36.474265
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Merachiche",
+    "title": "Merachiche/Bou Khenndak",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/295308"
 }
