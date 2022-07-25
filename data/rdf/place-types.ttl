@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2022/07/17 06:47:34.381049 GMT-4
+# Date: 2022/07/24 06:47:32.724288 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 974
+# Triple count: 992
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -132,6 +132,13 @@
     skos:prefLabel "canal"@en;
     skos:scopeNote "A canal as defined by the Getty Art and Architecture Thesaurus: Artificial navigable waterways."@en .
 
+<https://pleiades.stoa.org/vocabularies/place-types/canyon> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/canyon>,
+        <http://vocab.getty.edu/aat/300008763>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "canyon"@en;
+    skos:scopeNote "A canyon (fluvial landform) as defined by the Getty Art and Architecture Thesaurus: Deep, steep-sided land depressions, often having a river at the bottom; common to arid and semi-arid areas. Distinct from \"valleys (landforms),\" which tend to have a flattish landscape rather than high, precipitous slopes. Distinct from \"gorges (landforms),\" which tend to be smaller, narrower, and more rocky."@en .
+
 <https://pleiades.stoa.org/vocabularies/place-types/cape> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/cape>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
@@ -194,7 +201,7 @@
 <https://pleiades.stoa.org/vocabularies/place-types/church> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/church>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "church, monastery"@en;
+    skos:prefLabel "church, monastery (deprecated)"@en;
     skos:scopeNote "Deprecated type derived from a Barrington Atlas symbol."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/church-2> a <http://www.w3.org/2004/02/skos/core#Concept>;
@@ -383,7 +390,7 @@
 <https://pleiades.stoa.org/vocabularies/place-types/fort> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fort>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "fort, tower"@en .
+    skos:prefLabel "fort, tower (deprecated)"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/fort-2> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/fort-2>,
@@ -449,6 +456,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "gateway"@en;
     skos:scopeNote "A gateway as defined by the Getty Art and Architecture Thesaurus: Passages through fences or walls separating two exterior spaces, or the structures or ornamental constructions enclosing such passages"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/gorge> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/gorge>,
+        <http://vocab.getty.edu/aat/300008767>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "gorge"@en;
+    skos:scopeNote "A gorge (landform) as defined by the Getty Art and Architecture Thesaurus: Deep, rocky land depressions with steep sides, larger than ravines, with a river or stream at the bottom; distinct from \"canyons,\" which tend to be larger and less rocky."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/grove> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/grove>;
@@ -732,7 +746,7 @@
 <https://pleiades.stoa.org/vocabularies/place-types/province> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/province>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
-    skos:prefLabel "province, diocese, nome"@en;
+    skos:prefLabel "province, diocese, nome (deprecated)"@en;
     skos:scopeNote "An administrative region"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/province-2> a <http://www.w3.org/2004/02/skos/core#Concept>;
@@ -1133,6 +1147,13 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/water-open>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "water, open"@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/watercourse> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/watercourse>,
+        <http://vocab.getty.edu/aat/300387091>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "watercourse"@en;
+    skos:scopeNote "A watercourse as defined by the Getty Art and Architecture Thesaurus: Natural or artificial well-defined channels that carry flowing water; may be either produced by the flowing water or artificially designed to carry flowing water."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/waterfall> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/waterfall>,
