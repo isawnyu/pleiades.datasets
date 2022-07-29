@@ -1,8 +1,8 @@
 {
     "@type": "Place",
     "bbox": [
-        4.559525,
-        44.077832,
+        4.5593907,
+        44.0777277,
         4.559525,
         44.077832
     ],
@@ -71,9 +71,32 @@
                 "title": "Center point of oppidum Saint-Vincent, commune Gaujac"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.5593907,
+                    44.0777277
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-thermes-romains",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/148092/osm-location-of-thermes-romains",
+                "location_precision": "precise",
+                "snippet": "Bath; 30 BC - AD 300",
+                "title": "OSM location of Thermes Romains"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata, cleanup other references",
+            "modified": "2022-07-28T14:54:57Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "darmc 6445",
             "modified": "2017-12-31T03:05:24Z",
@@ -247,6 +270,85 @@
             "start": -550,
             "title": "Center point of oppidum Saint-Vincent, commune Gaujac",
             "uri": "https://pleiades.stoa.org/places/148092/center-point-of-oppidum-saint-vincent-commune-gaujac"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2022-07-28T14:48:39Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "bath"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
+            ],
+            "geometry": {
+                "coordinates": [
+                    4.5593907,
+                    44.0777277
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added osm location",
+                    "modified": "2022-07-28T14:49:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-07-28T14:48:39Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-thermes-romains",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
+            ],
+            "provenance": "OpenStreetMap (Node 2181205935, version 3, osm:changeset=52342326, 2017-09-25T01:40:42Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2181205935",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2181205935",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2181205935",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Thermes Romains",
+            "uri": "https://pleiades.stoa.org/places/148092/osm-location-of-thermes-romains"
         }
     ],
     "names": [
@@ -297,33 +399,35 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/bath"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "bath"
     ],
     "provenance": "Barrington Atlas: BAtlas 15 D1 Gaujac",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "15 D1 Gaujac",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 15 D1 Gaujac",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=gaujac",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "GAUJAC Locality of Saint-Vincent, Gard, France",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), GAUJAC Locality of Saint-Vincent, Gard, France",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -362,12 +466,12 @@
         {
             "accessURI": "http://www.trismegistos.org/place/21126",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 21126: Gaujac",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 21126",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
@@ -380,11 +484,22 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3523866",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q3523866: Roman baths of Gaujac",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        4.559525,
-        44.077832
+        4.559457849999999,
+        44.07777985
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

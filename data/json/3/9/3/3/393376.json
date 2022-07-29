@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        11.783797,
-        45.331858,
-        11.783797,
-        45.331858
+        11.7921332,
+        45.3286608,
+        11.7935622,
+        45.3300848
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/921077291"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -52,28 +54,68 @@
         }
     ],
     "description": "An ancient thermal site known as Aponi fons or Aquae Patavinae.",
-    "details": "The Barrington Atlas Directory notes: Montegrotto Terme",
+    "details": "<p>The Barrington Atlas Directory notes: Montegrotto Terme</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    11.783797,
-                    45.331858
+                    [
+                        11.7926266,
+                        45.3300848
+                    ],
+                    [
+                        11.7935622,
+                        45.3297921
+                    ],
+                    [
+                        11.7928163,
+                        45.3286608
+                    ],
+                    [
+                        11.7921332,
+                        45.3288846
+                    ],
+                    [
+                        11.7924827,
+                        45.3294118
+                    ],
+                    [
+                        11.7922344,
+                        45.3294931
+                    ],
+                    [
+                        11.7922857,
+                        45.3295705
+                    ],
+                    [
+                        11.7926266,
+                        45.3300848
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-23762",
+            "id": "osm-location",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/393376/darmc-location-23762",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/393376/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 23762"
+                "snippet": "Bath; 30 BC - AD 640",
+                "title": "OSM location of Area Archeologica Via Scavi"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-07-28T16:34:52Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update references",
+            "modified": "2022-07-28T14:57:47Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "edited description; added references",
             "modified": "2013-01-26T21:01:13Z",
@@ -104,8 +146,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -113,108 +155,125 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-10T01:44:00Z",
+            "created": "2015-05-17T02:59:26Z",
             "creators": [
                 {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "R. Peretto",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 23762",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "bath"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
             ],
             "geometry": {
                 "coordinates": [
-                    11.783797,
-                    45.331858
+                    [
+                        11.7926266,
+                        45.3300848
+                    ],
+                    [
+                        11.7935622,
+                        45.3297921
+                    ],
+                    [
+                        11.7928163,
+                        45.3286608
+                    ],
+                    [
+                        11.7921332,
+                        45.3288846
+                    ],
+                    [
+                        11.7924827,
+                        45.3294118
+                    ],
+                    [
+                        11.7922344,
+                        45.3294931
+                    ],
+                    [
+                        11.7922857,
+                        45.3295705
+                    ],
+                    [
+                        11.7926266,
+                        45.3300848
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:38:48Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-07-28T16:33:48Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:44:01Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "edit summary",
+                    "modified": "2022-07-28T14:58:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2015-12-13T04:48:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2015-05-17T03:00:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-05-17T02:59:31Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-23762",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
             ],
-            "provenance": "DARMC OBJECTID: 23762",
+            "provenance": "OpenStreetMap (Way 134414329, version 4, osm:changeset=35741416, 2015-12-04T09:02:09Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/134414329",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "23762",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 134414329",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 23762.",
+                    "formattedCitation": "osm:way=134414329",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 23762",
-            "uri": "https://pleiades.stoa.org/places/393376/darmc-location-23762"
+            "start": -30,
+            "title": "OSM location of Area Archeologica Via Scavi",
+            "uri": "https://pleiades.stoa.org/places/393376/osm-location"
         }
     ],
     "names": [
@@ -413,36 +472,36 @@
     "provenance": "Barrington Atlas: BAtlas 40 B2 Aponus",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "40 B2 Aponus",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 40 B2 Aponus",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/d.html#Dämmer-1986",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3UKXWH4E",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Dämmer 1986",
+            "formattedCitation": "<div class=\"csl-entry\">Driesch, Angela von den, Heinz-Werner Dämmer, and Luciano Lazzaro. <i>San Pietro Montagnon (Montegrotto): Ein Vorgeschichtliches Seeheiligtum in Venetien</i>. Studien Zu Vor- Und Frühgeschichtlichen Heiligtümern 1. Mainz am Rhein: P. von Zabern, 1986.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Dämmer 1986",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/v.html#Veneto-180-93",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/D7869X8Z",
+            "citationDetail": "180-93",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Veneto 180-93",
+            "formattedCitation": "<div class=\"csl-entry\">Manasse, G Cavalieri, ed. <i>Il Veneto Nell’età Romana</i>. Vol 2. Verona, 1987.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Veneto",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -477,11 +536,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "23762",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        11.783797,
-        45.331858
+        11.792777112403762,
+        45.32939405339522
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
