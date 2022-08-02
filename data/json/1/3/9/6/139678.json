@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        1.134253,
-        45.795444,
-        1.134253,
-        45.795444
+        1.1388315,
+        45.7935076,
+        1.1389265,
+        45.7935687
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,24 +14,38 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-06-21T12:12:08Z",
     "creators": [
         {
-            "name": "R.W. Mathisen",
+            "name": "H.S. Sivan",
             "username": null
         },
         {
-            "name": "H.S. Sivan",
+            "name": "R.W. Mathisen",
             "username": null
         }
     ],
@@ -41,18 +55,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    1.134253,
-                    45.795444
+                    [
+                        1.1388315,
+                        45.7935351
+                    ],
+                    [
+                        1.1388796,
+                        45.7935076
+                    ],
+                    [
+                        1.1389265,
+                        45.7935377
+                    ],
+                    [
+                        1.1388833,
+                        45.7935687
+                    ],
+                    [
+                        1.1388315,
+                        45.7935351
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "center-point-of-commune-aixe-sur-vienne",
+            "id": "osm-location-of-pont-romain",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/139678/center-point-of-commune-aixe-sur-vienne",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/139678/osm-location-of-pont-romain",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "Center point of commune Aixe-sur-Vienne"
+                "snippet": "Bridge; 30 BC - AD 640",
+                "title": "OSM location of Pont romain"
             },
             "type": "Feature"
         }
@@ -93,63 +125,106 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
             "contributors": [],
-            "created": "2011-10-28T22:34:50Z",
+            "created": "2022-07-31T14:24:22Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 640,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    1.134253,
-                    45.795444
+                    [
+                        1.1388315,
+                        45.7935351
+                    ],
+                    [
+                        1.1388796,
+                        45.7935076
+                    ],
+                    [
+                        1.1389265,
+                        45.7935377
+                    ],
+                    [
+                        1.1388833,
+                        45.7935687
+                    ],
+                    [
+                        1.1388315,
+                        45.7935351
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:26:33Z",
-                    "modifiedBy": "admin"
+                    "comment": "added osm location",
+                    "modified": "2022-07-31T14:24:51Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:03:50Z",
-                    "modifiedBy": "admin"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-07-31T14:24:22Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "center-point-of-commune-aixe-sur-vienne",
+            "id": "osm-location-of-pont-romain",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Pleiades",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 821948961, version 2, osm:changeset=121110254, 2022-05-17T17:01:47Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/821948961",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 821948961",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=821948961",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Center point of commune Aixe-sur-Vienne",
-            "uri": "https://pleiades.stoa.org/places/139678/center-point-of-commune-aixe-sur-vienne"
+            "start": -30,
+            "title": "OSM location of Pont romain",
+            "uri": "https://pleiades.stoa.org/places/139678/osm-location-of-pont-romain"
         }
     ],
     "names": [],
@@ -185,8 +260,8 @@
         }
     ],
     "reprPoint": [
-        1.134253,
-        45.795444
+        1.1388793737364007,
+        45.79353750673518
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
