@@ -1,12 +1,65 @@
 {
     "@type": "Place",
     "bbox": [
-        26.5,
-        37.0,
-        27.0,
-        37.5
+        26.580316,
+        37.321298,
+        26.580316,
+        37.321298
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/599872",
+            "contributors": [],
+            "created": "2022-06-01T22:14:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2022-08-06T15:09:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2022-06-01T22:14:04Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "patmos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 D3 Panormos",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Patmos (island)",
+            "uri": "https://pleiades.stoa.org/places/599861/patmos-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/599872"
     ],
@@ -26,9 +79,15 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T09:09:51Z",
+    "created": "2022-08-07T11:43:00Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -39,49 +98,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 61 D3 Panormos",
-    "details": "The Barrington Atlas Directory notes: Patmos GRE",
+    "description": "A bay, sheltered on north, west, and south by the Aegean island of Patmos.",
+    "details": "<p>The Barrington Atlas Directory notes: Patmos GRE</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.5,
-                            37.0
-                        ],
-                        [
-                            27.0,
-                            37.0
-                        ],
-                        [
-                            27.0,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.0
-                        ]
-                    ]
+                    26.580316,
+                    37.321298
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "imagery-location-of-panormos-bay-patmos",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/599861/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Undetermined location"
+                "link": "https://pleiades.stoa.org/places/599861/imagery-location-of-panormos-bay-patmos",
+                "location_precision": "precise",
+                "snippet": "Bay; AD 2000 - AD 2099",
+                "title": "Imagery location of Panormos bay (Patmos)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type = bay; added imagery Location after BAtlas, which supersedes existing gridsquare location on baseline.",
+            "modified": "2022-08-07T14:47:42Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2022-08-06T15:09:17Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T07:02:35Z",
@@ -97,95 +146,82 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2009-10-15T09:09:52Z",
+            "contributors": [],
+            "created": "2022-08-07T11:48:07Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "bay"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bay"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.5,
-                            37.0
-                        ],
-                        [
-                            27.0,
-                            37.0
-                        ],
-                        [
-                            27.0,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.0
-                        ]
-                    ]
+                    26.580316,
+                    37.321298
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:02:35Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2022-08-07T11:48:47Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-08-07T11:48:08Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "undetermined",
+            "id": "imagery-location-of-panormos-bay-patmos",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bay"
             ],
-            "provenance": "Barrington Atlas: BAtlas 61 D3 Panormos",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 D3 Panormos",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599861/undetermined"
+            "start": 2000,
+            "title": "Imagery location of Panormos bay (Patmos)",
+            "uri": "https://pleiades.stoa.org/places/599861/imagery-location-of-panormos-bay-patmos"
         }
     ],
     "names": [
@@ -246,39 +282,39 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/labeled feature"
+        "https://pleiades.stoa.org/vocabularies/place-types/bay"
     ],
     "placeTypes": [
-        "labeled feature"
+        "bay"
     ],
     "provenance": "Barrington Atlas: BAtlas 61 D3 Panormos",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "61 D3 Panormos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 61 D3 Panormos",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Patmos-2186",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Patmos 2186",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Patmos 2186",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        26.75,
-        37.25
+        26.580316,
+        37.321298
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

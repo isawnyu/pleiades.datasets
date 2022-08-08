@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        9.775091,
-        48.785496,
-        9.776917,
-        48.786694
+        9.7760915,
+        48.7858199,
+        9.7788134,
+        48.7876509
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/458048480"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -50,31 +52,49 @@
             "username": "sgillies"
         }
     ],
-    "created": "2010-06-11T21:09:30Z",
+    "created": "2022-08-07T11:11:42Z",
     "creators": [
         {
             "name": "H. Bender",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 12 C4 Schirenhof",
-    "details": "The Barrington Atlas Directory notes: Schirenhof",
+    "description": "A Roman fort with associated vicus located at modern Schirenhof in the German municipality of Schwäbisch Gmünd, Baden-Württemberg.",
+    "details": "<p>The Barrington Atlas Directory notes: Schirenhof</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    9.775091,
-                    48.785496
+                    [
+                        9.7760915,
+                        48.7869203
+                    ],
+                    [
+                        9.7774382,
+                        48.7858199
+                    ],
+                    [
+                        9.7788134,
+                        48.7865505
+                    ],
+                    [
+                        9.7774667,
+                        48.7876509
+                    ],
+                    [
+                        9.7760915,
+                        48.7869203
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-8283",
+            "id": "osm-approximate-location-of-kohortenkastell",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/118952/darmc-location-8283",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/118952/osm-approximate-location-of-kohortenkastell",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 8283"
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM Approximate Location of Kohortenkastell Schirenhof"
             },
             "type": "Feature"
         },
@@ -98,6 +118,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; place type; cleaned up references; added OSM Location",
+            "modified": "2022-08-07T16:10:28Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-08-07T11:11:35Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2014-07-08T03:59:45Z",
@@ -133,9 +163,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notvisible",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -146,77 +176,87 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T20:03:14Z",
+            "contributors": [],
+            "created": "2022-08-07T11:16:13Z",
             "creators": [
                 {
-                    "name": "H. Bender",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 8283",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    9.775091,
-                    48.785496
+                    [
+                        9.7760915,
+                        48.7869203
+                    ],
+                    [
+                        9.7774382,
+                        48.7858199
+                    ],
+                    [
+                        9.7788134,
+                        48.7865505
+                    ],
+                    [
+                        9.7774667,
+                        48.7876509
+                    ],
+                    [
+                        9.7760915,
+                        48.7869203
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:18:52Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-08-07T11:17:06Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:53:56Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T20:03:15Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-08-07T11:16:15Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-8283",
+            "id": "osm-approximate-location-of-kohortenkastell",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 8283",
+            "provenance": "OpenStreetMap (Way 440634221, version 7, osm:changeset=104533751, 2021-05-11T20:13:11Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/440634221",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "8283",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 440634221",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 8283.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=440634221",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 8283",
-            "uri": "https://pleiades.stoa.org/places/118952/darmc-location-8283"
+            "title": "OSM Approximate Location of Kohortenkastell Schirenhof",
+            "uri": "https://pleiades.stoa.org/places/118952/osm-approximate-location-of-kohortenkastell"
         },
         {
             "@type": "Location",
@@ -295,52 +335,65 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/bath",
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
-        "bath",
+        "fort-2",
+        "settlement",
         "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 12 C4 Schirenhof",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "12 C4 Schirenhof",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 12 C4 Schirenhof",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Beck-1980",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9HAJXTWM",
+            "citationDetail": "103-106",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Beck 1980, 103-106",
+            "formattedCitation": "<div class=\"csl-entry\">Beck, Willi, and Dieter Planck. <i>Der Limes in Südwestdeutschland: Limeswanderweg Main, Rems, Wörnitz</i>. Stuttgart: K. Theiss, 1980.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Beck 1980",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.livius.org/place/schirenhof/",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/726HWVKS",
+            "citationDetail": "Schirenhof",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Livius.org, Schirenhof",
+            "formattedCitation": "<div class=\"csl-entry\">Lendering, Jona. <i>Livius - Articles on Ancient History</i>, 1995. http://www.livius.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Livius.org",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "8283",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        9.776004,
-        48.786095
+        9.777184725,
+        48.786714700000005
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -349,7 +402,7 @@
         "dare:ancient=0",
         "dare:feature=fort"
     ],
-    "title": "Schirenhof",
+    "title": "Schirenhof Roman Fort",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/118952"
 }
