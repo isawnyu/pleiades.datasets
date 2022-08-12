@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -5.0,
-        37.0,
-        -4.0,
-        38.0
+        -4.732364,
+        37.902847,
+        -4.732364,
+        37.902847
     ],
     "connections": [],
     "connectsWith": [],
@@ -36,56 +36,41 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-24T18:56:07Z",
+    "created": "2022-08-11T22:19:10Z",
     "creators": [
         {
             "name": "P.O. Spann",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 27 A4 unnamed bridge (SW La Valenzoleja on Arroyo Rabanales)",
-    "details": "The Barrington Atlas Directory notes: SW La Valenzoleja on Arroyo Rabanales",
+    "description": "A bridge, originally of Roman date, over the modern Arroyo Rabanales (a tributary of the Guadalquivir) just east of Cordoba, Spain. The bridge was in use as late as the 1920s.",
+    "details": "<p>The Barrington Atlas Directory notes: SW La Valenzoleja on Arroyo Rabanales</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -5.0,
-                            37.0
-                        ],
-                        [
-                            -4.0,
-                            37.0
-                        ],
-                        [
-                            -4.0,
-                            38.0
-                        ],
-                        [
-                            -5.0,
-                            38.0
-                        ],
-                        [
-                            -5.0,
-                            37.0
-                        ]
-                    ]
+                    -4.732364,
+                    37.902847
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "imagery-location-of-bridge",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/267273/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location determined with reference to Google Earth screen capture in Romero Correas 2021. Exact location verified in Google Earth Pro using historical imagery dating to 15 August 2007 (foliage progressively and ultimately completely blocks the view in later imagery). This location matches Figures 38 and 39 in Ostos López 2014.",
+                "link": "https://pleiades.stoa.org/places/267273/imagery-location-of-bridge",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 1999",
+                "title": "Imagery Location of bridge"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; references; location",
+            "modified": "2022-08-11T23:06:39Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2020-09-30T14:02:54Z",
@@ -106,9 +91,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -123,91 +108,123 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "late-antique",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "sixteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/sixteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "seventeenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/seventeenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "eighteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/eighteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T18:56:07Z",
+            "contributors": [],
+            "created": "2022-08-11T22:37:40Z",
             "creators": [
                 {
-                    "name": "P.O. Spann",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location determined with reference to Google Earth screen capture in Romero Correas 2021. Exact location verified in Google Earth Pro using historical imagery dating to 15 August 2007 (foliage progressively and ultimately completely blocks the view in later imagery). This location matches Figures 38 and 39 in Ostos López 2014.",
             "details": "",
-            "end": 640,
+            "end": 1999,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -5.0,
-                            37.0
-                        ],
-                        [
-                            -4.0,
-                            37.0
-                        ],
-                        [
-                            -4.0,
-                            38.0
-                        ],
-                        [
-                            -5.0,
-                            38.0
-                        ],
-                        [
-                            -5.0,
-                            37.0
-                        ]
-                    ]
+                    -4.732364,
+                    37.902847
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:53:34Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2022-08-11T23:01:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2022-08-11T22:39:27Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-08-11T22:37:44Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "imagery-location-of-bridge",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 27 A4",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://youtu.be/L4HtDesE3wQ?t=25",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9HMDNCGE",
+                    "citationDetail": "0:25-0:35",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Romero Correas, Cristóbal. <i>Puente Romano sobre el Arroyo Rabanales</i>, 2021. https://www.youtube.com/watch?v=L4HtDesE3wQ.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Romero Correas 2021",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "http://helvia.uco.es/xmlui/handle/10396/16492",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KWHTJHKT",
+                    "citationDetail": "page 35, Fig. 38 and Fig. 39",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Ostos López, Ildefonso. “Puentes romanos. Los puentes romanos del término municipal de Córdoba.” <i>Anahgramas 1, 3-107 (2014)</i>, 2014. http://helvia.uco.es/xmlui/handle/10396/16492.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ostos López 2014",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/267273/batlas-location"
+            "title": "Imagery Location of bridge",
+            "uri": "https://pleiades.stoa.org/places/267273/imagery-location-of-bridge"
         }
     ],
     "names": [],
@@ -240,16 +257,60 @@
             "otherIdentifier": "",
             "shortTitle": "Fernández Casado 1980",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.adesalambrar.com/index.php/lugares-de-interes/2242-puente-sobre-el-arroyo-rabanales",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EVZKYXNH",
+            "citationDetail": "Puente sobre el Arroyo Rabanales",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">“Plataforma Ciudadana A Desalambrar En Defensa de Vías Pecurias, Caminos Públicos y Cauces.” Accessed August 11, 2022. https://www.adesalambrar.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Plataforma a Desalambrar",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.youtube.com/watch?v=L4HtDesE3wQ",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9HMDNCGE",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Romero Correas, Cristóbal. <i>Puente Romano sobre el Arroyo Rabanales</i>, 2021. https://www.youtube.com/watch?v=L4HtDesE3wQ.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Romero Correas 2021",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://youtu.be/2gnrNOM3D2o?t=539",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QSC428WS",
+            "citationDetail": "8:59 - ",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">PTV Archivo. <i>Arroyos de Córdoba | 1989</i>, 2013. https://www.youtube.com/watch?v=2gnrNOM3D2o.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arroyos de Córdoba | 1989",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://helvia.uco.es/xmlui/handle/10396/16492",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KWHTJHKT",
+            "citationDetail": "pages 35-43",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Ostos López, Ildefonso. “Puentes romanos. Los puentes romanos del término municipal de Córdoba.” <i>Anahgramas 1, 3-107 (2014)</i>, 2014. http://helvia.uco.es/xmlui/handle/10396/16492.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Ostos López 2014",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        -4.5,
-        37.5
+        -4.732364,
+        37.902847
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Puente sobre el Arroyo Rabanales",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/267273"
 }
