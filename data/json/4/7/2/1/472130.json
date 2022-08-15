@@ -1,13 +1,58 @@
 {
     "@type": "Place",
     "bbox": [
-        9.0,
-        42.0,
-        10.0,
-        43.0
+        9.1903461,
+        42.1441461,
+        9.1903461,
+        42.1441461
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/472063",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2016-07-13T13:54:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-08-12T23:42:16Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "472063",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Corsica/Kyrnos (island)",
+            "uri": "https://pleiades.stoa.org/places/472130/472063"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/472063"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -18,6 +63,22 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Stefano Costa",
+            "uri": "https://pleiades.stoa.org/author/scosta",
+            "username": "scosta"
+        },
+        {
+            "name": "steko",
+            "username": null
         },
         {
             "homepage": null,
@@ -33,49 +94,44 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 48 D2 Syrboi?",
-    "details": "The Barrington Atlas Directory notes: Col de Sorba",
+    "description": "A pre-Roman people settled in the interior mountains of Corsica. Their precise territory is not known, but they are thought to have been localized in the Col de Sobra.",
+    "details": "<p>The Barrington Atlas Directory notes: Col de Sorba</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            9.0,
-                            42.0
-                        ],
-                        [
-                            10.0,
-                            42.0
-                        ],
-                        [
-                            10.0,
-                            43.0
-                        ],
-                        [
-                            9.0,
-                            43.0
-                        ],
-                        [
-                            9.0,
-                            42.0
-                        ]
-                    ]
+                    9.1903461,
+                    42.1441461
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-the-col-de-sorba",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/472130/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/472130/osm-location-of-the-col-de-sorba",
+                "location_precision": "precise",
+                "snippet": "Pass; AD 2000 - AD 2099",
+                "title": "OSM Location of the Col de Sorba"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2022-08-12T23:41:09Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "title",
+            "modified": "2022-08-12T23:40:28Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary",
+            "modified": "2022-08-12T23:39:55Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2013-09-13T15:06:46Z",
@@ -96,111 +152,98 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2022-08-12T23:38:41Z",
+            "creators": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
+                    "name": "steko",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-11T20:25:16Z",
-            "creators": [
-                {
-                    "name": "S.L. Dyson",
-                    "username": null
-                }
-            ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "pass"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            9.0,
-                            42.0
-                        ],
-                        [
-                            10.0,
-                            42.0
-                        ],
-                        [
-                            10.0,
-                            43.0
-                        ],
-                        [
-                            9.0,
-                            43.0
-                        ],
-                        [
-                            9.0,
-                            42.0
-                        ]
-                    ]
+                    9.1903461,
+                    42.1441461
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:28:57Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2022-08-12T23:39:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-08-12T23:38:51Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-08-12T23:38:42Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-the-col-de-sorba",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
-            "provenance": "Barrington Atlas: BAtlas 48 D2 Syrboi?",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 294926221, version 6, osm:changeset=70703992, 2019-05-28T16:52:49Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/294926221",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 294926221",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=294926221",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/472130/batlas-location"
+            "start": 2000,
+            "title": "OSM Location of the Col de Sorba",
+            "uri": "https://pleiades.stoa.org/places/472130/osm-location-of-the-col-de-sorba"
         }
     ],
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "less-confident",
@@ -222,14 +265,16 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2010-11-11T20:25:16Z",
@@ -244,6 +289,11 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "certain; Greek",
+                    "modified": "2022-08-12T23:41:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "programmatically changed nameType from geographic to ethnic: site-wide cleanup of peoples/tribes imported from the Barrington Atlas",
                     "modified": "2021-02-25T22:57:59Z",
                     "modifiedBy": "admin"
@@ -255,7 +305,7 @@
                 }
             ],
             "id": "syrboi",
-            "language": "",
+            "language": "grc",
             "nameType": "ethnic",
             "provenance": "Barrington Atlas: BAtlas 48 D2 Syrboi?",
             "references": [],
@@ -268,9 +318,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/pass",
         "https://pleiades.stoa.org/vocabularies/place-types/people"
     ],
     "placeTypes": [
+        "pass",
         "people"
     ],
     "provenance": "Barrington Atlas: BAtlas 48 D2 Syrboi?",
@@ -299,13 +351,13 @@
         }
     ],
     "reprPoint": [
-        9.5,
-        42.5
+        9.1903461,
+        42.1441461
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Syrboi?",
+    "title": "Syrboi",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/472130"
 }

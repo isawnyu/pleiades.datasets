@@ -2,12 +2,50 @@
     "@type": "Place",
     "bbox": [
         -0.192255,
-        35.532275,
-        -0.192255,
+        35.5305119,
+        -0.1906822,
         35.532275
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/285530",
+            "contributors": [],
+            "created": "2022-08-11T17:43:33Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-08-11T17:43:33Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "tasaccora-river",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Tasaccora (river)",
+            "uri": "https://pleiades.stoa.org/places/285529/tasaccora-river"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/285530"
+    ],
     "contributors": [
         {
             "name": "R. Warner",
@@ -18,26 +56,50 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2010-09-24T20:27:31Z",
+    "created": "2022-08-11T17:42:45Z",
     "creators": [
         {
             "name": "T.W. Potter",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 29 E1 Tasaccora",
+    "description": "An ancient settlement in north Africa near a river of the same name. Modern Siq in Algeria.",
     "details": "The Barrington Atlas Directory notes: Sig/St-Denis-du-Sig",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1906822,
+                    35.5305119
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-modern-sig",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/285529/osm-location-of-modern-sig",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location of modern Sig"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -48,7 +110,7 @@
             },
             "id": "darmc-location-15018",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/285529/darmc-location-15018",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
@@ -58,6 +120,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; updated Connections, Locations",
+            "modified": "2022-08-12T23:19:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2022-08-11T17:42:45Z",
@@ -86,6 +153,85 @@
     ],
     "id": "285529",
     "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2022-08-11T17:44:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -0.1906822,
+                    35.5305119
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-08-11T17:44:32Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-08-11T17:44:13Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-of-modern-sig",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 424749543, version 17, osm:changeset=97161219, 2021-01-08T10:06:26Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/424749543",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 424749543",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=424749543",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location of modern Sig",
+            "uri": "https://pleiades.stoa.org/places/285529/osm-location-of-modern-sig"
+        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
@@ -120,7 +266,7 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 15018",
             "end": 640,
             "featureType": [
@@ -246,10 +392,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 29 E1 Tasaccora",
     "references": [
@@ -277,8 +425,8 @@
         }
     ],
     "reprPoint": [
-        -0.192255,
-        35.532275
+        -0.1914686,
+        35.531393449999996
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
