@@ -6,8 +6,58 @@
         26.1115291,
         35.2035035
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/1043",
+            "contributors": [],
+            "created": "2022-08-18T13:38:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2022-08-18T13:38:34Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "internum-mare",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q25163873",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q25163873: Pentélis Réma",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Internum Mare",
+            "uri": "https://pleiades.stoa.org/places/589757/internum-mare"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/1043"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -30,6 +80,12 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2020-01-04T22:36:54Z",
@@ -43,7 +99,7 @@
             "username": null
         }
     ],
-    "description": "A river in eastern Crete, probably to be associated with the modern Sitianos/Stomios, which is known today primarily as the Pentelis Rema and which empties into the Mediterranean at Sitia.",
+    "description": "A river in eastern Crete, probably to be associated with the modern Sitianos/Stomios, which is known today primarily as the Pentelis Rema and which empties into the Mediterranean Sea at Sitia.",
     "details": "<p>The Barrington Atlas Directory notes: Stomios</p>",
     "features": [
         {
@@ -1384,6 +1440,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "added Wikidata Q25163873: Pentélis Réma and GeoNames references",
+            "modified": "2022-08-18T13:40:01Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "summary",
             "modified": "2022-08-17T21:02:45Z",
@@ -3016,66 +3077,6 @@
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
-            "attestations": [],
-            "attested": "",
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:18:52Z",
-            "creators": [
-                {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": null,
-            "history": [
-                {
-                    "comment": "Baseline created",
-                    "modified": "2022-08-17T21:03:20Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:47:55Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "didymoi",
-            "language": "",
-            "nameType": "geographic",
-            "provenance": "Barrington Atlas: BAtlas 60 F2 Didymoi? fl.",
-            "references": [],
-            "review_state": "published",
-            "romanized": "Didymoi",
-            "start": null,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/589757/didymoi"
-        },
-        {
-            "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
@@ -3115,11 +3116,21 @@
             "history": [
                 {
                     "comment": "certain; greek",
-                    "modified": "2022-08-17T21:03:38Z",
+                    "modified": "2022-08-18T11:21:40Z",
                     "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2022-08-17T21:03:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modified": "2012-02-15T06:47:55Z",
+                    "modifiedBy": "admin"
                 }
             ],
-            "id": "copy_of_didymoi",
+            "id": "didymoi",
             "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 60 F2 Didymoi? fl.",
@@ -3129,7 +3140,7 @@
             "start": null,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/589757/copy_of_didymoi"
+            "uri": "https://pleiades.stoa.org/places/589757/didymoi"
         },
         {
             "@type": "Name",
@@ -3365,6 +3376,28 @@
             "otherIdentifier": "",
             "shortTitle": "Faure 1984",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q25163873",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q25163873: Pentélis Réma",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.geonames.org/8609053/pentelis-rema.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "8609053: Pentélis Réma",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "GeoNames",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
