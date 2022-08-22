@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2022/08/14 06:47:33.099605 GMT-4
+# Date: 2022/08/21 06:47:32.919805 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 992
+# Triple count: 998
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -80,6 +80,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "architectural complex"@en;
     skos:scopeNote "A group of rooms, spaces, built features or structures that make up an individual architectural unit within a larger building or group of buildings."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/archive-repository> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/archive-repository>,
+        <http://vocab.getty.edu/aat/300264596>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "archive repository"@en;
+    skos:scopeNote "An archive repository as defined by the Getty Art and Architecture Thesaurus: buildings or rooms for long-term storage or depositing of archives or documents"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/barracks> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/barracks>,
