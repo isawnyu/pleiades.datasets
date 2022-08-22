@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        20.0,
-        39.5,
-        20.5,
-        40.0
+        20.439784,
+        39.660436,
+        20.439784,
+        39.660436
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,14 +14,16 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-06-24T13:50:43Z",
@@ -31,49 +33,44 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 54 B2 Vigla",
-    "details": "The Barrington Atlas Directory notes: Vigla, Keramitsas",
+    "description": "A small guard tower in Epirus.",
+    "details": "<p>The Barrington Atlas Directory notes: Vigla, Keramitsas</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.0,
-                            39.5
-                        ],
-                        [
-                            20.5,
-                            39.5
-                        ],
-                        [
-                            20.5,
-                            40.0
-                        ],
-                        [
-                            20.0,
-                            40.0
-                        ],
-                        [
-                            20.0,
-                            39.5
-                        ]
-                    ]
+                    20.439784,
+                    39.660436
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "reported-location-of-vigla-keramitsas",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/531141/batlas-location",
-                "location_precision": "rough",
+                "description": "Coordinates converted from UTM in Sucha 2021 (NB: she marks this location as \"presumed/not found\" in her index. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/531141/reported-location-of-vigla-keramitsas",
+                "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "Barrington Atlas location"
+                "title": "Reported location of Vigla Keramitsas"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references",
+            "modified": "2022-08-19T22:22:09Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added Suha 2021",
+            "modified": "2022-08-19T22:17:28Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "title; summary; place type",
+            "modified": "2022-08-19T22:16:18Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:02:12Z",
@@ -89,8 +86,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -102,127 +99,99 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-06-24T13:50:43Z",
+            "contributors": [],
+            "created": "2022-08-19T22:28:12Z",
             "creators": [
                 {
-                    "name": "W.M. Murray",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Coordinates converted from UTM in Sucha 2021 (NB: she marks this location as \"presumed/not found\" in her index. Dates after BAtlas.",
             "details": "",
             "end": -30,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.0,
-                            39.5
-                        ],
-                        [
-                            20.5,
-                            39.5
-                        ],
-                        [
-                            20.5,
-                            40.0
-                        ],
-                        [
-                            20.0,
-                            40.0
-                        ],
-                        [
-                            20.0,
-                            39.5
-                        ]
-                    ]
+                    20.439784,
+                    39.660436
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:02:13Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-08-19T22:28:12Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "reported-location-of-vigla-keramitsas",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 54 B2 Vigla",
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/531141/batlas-location"
+            "title": "Reported location of Vigla Keramitsas",
+            "uri": "https://pleiades.stoa.org/places/531141/reported-location-of-vigla-keramitsas"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/tower-single"
     ],
     "placeTypes": [
-        "unknown"
+        "tower-single"
     ],
     "provenance": "Barrington Atlas: BAtlas 54 B2 Vigla",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "54 B2 Vigla",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 54 B2 Vigla",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/884608915",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/d.html#Dakaris-1972",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XXDEJCQ7",
+            "citationDetail": "157",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Dakaris 1972, 157",
+            "formattedCitation": "<div class=\"csl-entry\">S Dakaris. <i>Θεσπρωτία</i>. Ancient Greek Cities 15. Athens: Athens Center of Ekistics, 1972. http://www.worldcat.org/oclc/884608915.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Dakaris 1972",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://helda.helsinki.fi/handle/10138/335876",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/55TJBC4U",
+            "citationDetail": "pages 57, 60 and 410 number 71",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Suha, Mikko. “Late Classical - Hellenistic Fortifications in Epirus : Fourth to Second Century BC.” Doctoral, University of Helsinki, 2021. https://helda.helsinki.fi/handle/10138/335876.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Suha 2021",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        20.25,
-        39.75
+        20.439784,
+        39.660436
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Vigla",
+    "title": "Vigla Keramitsas",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/531141"
 }

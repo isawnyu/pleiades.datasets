@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        20.5,
-        38.5,
-        21.0,
-        39.0
+        20.969995,
+        38.710936,
+        20.969995,
+        38.710936
     ],
     "connections": [],
     "connectsWith": [],
@@ -32,56 +32,41 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-06-24T13:43:40Z",
+    "created": "2022-08-19T20:22:45Z",
     "creators": [
         {
             "name": "W.M. Murray",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 54 C4 unnamed dam (E Alyzeia, in Glosses Pass)",
-    "details": "The Barrington Atlas Directory notes: E Alyzeia, in Glosses Pass",
+    "description": "An ancient dam, subsequently reused, repaired, and adapted into modern times, in the Glosses pass east of Alyzeia (modern Kalima) and just below the later site of the Byzantine fortress of Varnako/Barnako. Remains of aqueduct and mill fittings of various dates have been noted; the dam and its reservoir are presumed to have been created originally (perhaps in Classical or Hellenistic times) to supply some portion of Alyzeia or its chora.",
+    "details": "<p>The Barrington Atlas Directory notes: E Alyzeia, in Glosses Pass</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.5,
-                            38.5
-                        ],
-                        [
-                            21.0,
-                            38.5
-                        ],
-                        [
-                            21.0,
-                            39.0
-                        ],
-                        [
-                            20.5,
-                            39.0
-                        ],
-                        [
-                            20.5,
-                            38.5
-                        ]
-                    ]
+                    20.969995,
+                    38.710936
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "imagery-location-of-dam",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/533787/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "Barrington Atlas location"
+                "link": "https://pleiades.stoa.org/places/533787/imagery-location-of-dam",
+                "location_precision": "precise",
+                "snippet": "Dam; 550 BC - 30 BC",
+                "title": "Imagery location of dam"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; cleaned up batlas reference; added imagery location (there are OSM nodes for this feature, but they do not correlate well with imagery from Google Earth and Mapbox and therefore have been omitted).",
+            "modified": "2022-08-19T23:51:36Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2017-10-07T00:31:10Z",
@@ -102,9 +87,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -121,85 +106,52 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-06-24T13:43:40Z",
+            "contributors": [],
+            "created": "2022-08-19T20:51:13Z",
             "creators": [
                 {
-                    "name": "W.M. Murray",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
             "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "dam"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/dam"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.5,
-                            38.5
-                        ],
-                        [
-                            21.0,
-                            38.5
-                        ],
-                        [
-                            21.0,
-                            39.0
-                        ],
-                        [
-                            20.5,
-                            39.0
-                        ],
-                        [
-                            20.5,
-                            38.5
-                        ]
-                    ]
+                    20.969995,
+                    38.710936
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:02:24Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-08-19T20:51:14Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "imagery-location-of-dam",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/dam"
             ],
-            "provenance": "Barrington Atlas: BAtlas 54 C4",
+            "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/533787/batlas-location"
+            "title": "Imagery location of dam",
+            "uri": "https://pleiades.stoa.org/places/533787/imagery-location-of-dam"
         }
     ],
     "names": [],
@@ -212,14 +164,14 @@
     "provenance": "Barrington Atlas: BAtlas 54 C4",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "54 C4 (unlabeled dam symbol)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 54 C4",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -246,13 +198,13 @@
         }
     ],
     "reprPoint": [
-        20.75,
-        38.75
+        20.969995,
+        38.710936
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Mytikas Valley Dam",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/533787"
 }
