@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        -4.6398494,
+        36.5073263,
+        -4.6397239,
+        36.5074272
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -23,6 +28,12 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-09-24T18:58:22Z",
@@ -33,22 +44,99 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 27 unlocated Barbetium Iugum",
-    "details": "The Barrington Atlas Directory notes: Cabo CalaburrasName known only from Avienus; otherwise unattested.",
+    "details": "The Barrington Atlas Directory notes: Cabo Calaburras. Name known only from Avienus; otherwise unattested.",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    [
+                        -4.6397479,
+                        36.5073367
+                    ],
+                    [
+                        -4.6397307,
+                        36.5073536
+                    ],
+                    [
+                        -4.6397239,
+                        36.5073747
+                    ],
+                    [
+                        -4.6397287,
+                        36.5073961
+                    ],
+                    [
+                        -4.6397443,
+                        36.5074139
+                    ],
+                    [
+                        -4.6397678,
+                        36.5074249
+                    ],
+                    [
+                        -4.6397896,
+                        36.5074272
+                    ],
+                    [
+                        -4.6398111,
+                        36.5074234
+                    ],
+                    [
+                        -4.6398296,
+                        36.5074138
+                    ],
+                    [
+                        -4.6398429,
+                        36.5073998
+                    ],
+                    [
+                        -4.6398494,
+                        36.5073829
+                    ],
+                    [
+                        -4.6398477,
+                        36.5073631
+                    ],
+                    [
+                        -4.6398366,
+                        36.5073454
+                    ],
+                    [
+                        -4.6398179,
+                        36.5073324
+                    ],
+                    [
+                        -4.6397945,
+                        36.5073263
+                    ],
+                    [
+                        -4.6397699,
+                        36.5073278
+                    ],
+                    [
+                        -4.6397479,
+                        36.5073367
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-faro-de-calaburras",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/271048/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/271048/osm-location-of-faro-de-calaburras",
+                "location_precision": "precise",
+                "snippet": "Lighthouse; AD 2000 - AD 2099",
+                "title": "OSM location of Faro de Calaburras"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-08-27T18:04:13Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T18:55:07Z",
@@ -69,69 +157,148 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "attestations": [
                 {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-24T18:58:23Z",
+            "contributors": [],
+            "created": "2022-08-27T18:05:06Z",
             "creators": [
                 {
-                    "name": "P.O. Spann",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "lighthouse"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    [
+                        -4.6397479,
+                        36.5073367
+                    ],
+                    [
+                        -4.6397307,
+                        36.5073536
+                    ],
+                    [
+                        -4.6397239,
+                        36.5073747
+                    ],
+                    [
+                        -4.6397287,
+                        36.5073961
+                    ],
+                    [
+                        -4.6397443,
+                        36.5074139
+                    ],
+                    [
+                        -4.6397678,
+                        36.5074249
+                    ],
+                    [
+                        -4.6397896,
+                        36.5074272
+                    ],
+                    [
+                        -4.6398111,
+                        36.5074234
+                    ],
+                    [
+                        -4.6398296,
+                        36.5074138
+                    ],
+                    [
+                        -4.6398429,
+                        36.5073998
+                    ],
+                    [
+                        -4.6398494,
+                        36.5073829
+                    ],
+                    [
+                        -4.6398477,
+                        36.5073631
+                    ],
+                    [
+                        -4.6398366,
+                        36.5073454
+                    ],
+                    [
+                        -4.6398179,
+                        36.5073324
+                    ],
+                    [
+                        -4.6397945,
+                        36.5073263
+                    ],
+                    [
+                        -4.6397699,
+                        36.5073278
+                    ],
+                    [
+                        -4.6397479,
+                        36.5073367
+                    ]
+                ],
+                "type": "LineString"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:54:54Z",
-                    "modifiedBy": "admin"
+                    "comment": "added osm location",
+                    "modified": "2022-08-27T18:05:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-08-27T18:05:06Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-faro-de-calaburras",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
             ],
-            "provenance": "Barrington Atlas: BAtlas 27 Barbetium Iugum",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 631320795, version 4, osm:changeset=72397915, 2019-07-18T16:05:35Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/631320795",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 631320795",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=631320795",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/271048/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Faro de Calaburras",
+            "uri": "https://pleiades.stoa.org/places/271048/osm-location-of-faro-de-calaburras"
         }
     ],
     "names": [
@@ -192,33 +359,35 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "lighthouse"
     ],
     "provenance": "Barrington Atlas: BAtlas 27 Barbetium Iugum",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "27 Barbetium Iugum",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 27 Barbetium Iugum",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/164594055",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#THA-117",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ABQE4A2G",
+            "citationDetail": "117",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "THA 117",
+            "formattedCitation": "<div class=\"csl-entry\">Avienus, Rufius Festus. <i>Avieno, Ora maritima: descriptio orbis terrae phaenomena</i>. Edited by Julio Mangas and D Plácido. Testimonia Hispaniae Antiqua 1. Madrid: Ed. Historia 2000, 1994. http://www.worldcat.org/oclc/164594055.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "THA 1",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -233,7 +402,10 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        -4.639786984951498,
+        36.50737660239737
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
