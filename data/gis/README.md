@@ -1,14 +1,15 @@
 # _Pleiades_ Data for GIS
 
 Data is updated several times each week.   
-Last update to this document: 11 July 2022
+Last update to this "README" document: 30 August 2022
 
 A collection of CSV files derived from data in the [_Pleiades_ gazetteer of ancient places](https://pleiades.stoa.org). This collection is intended to facilitate use of _Pleiades_ data in geographic information systems software. Files have been tested for use in QGIS.
 
-Download: [pleiades_gis_data.zip](pleiades_gis_data.zip)
+Download latest dataset: [pleiades_gis_data.zip](pleiades_gis_data.zip)
 
 # Quick Start
 
+- Download and unzip the `pleiades_gis_data.zip` file.
 - Load `places.csv` as "delimited text" (see "Technical Metadata" below)
 - Set X = `representative_longitude` and Y = `representative_latitude`
 - You'll get dots for "representative points" (see sub "representative_" in "Fields", below) for the recorded geometries (locations in Pleiades parlance) of each place. 
