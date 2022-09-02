@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -7.0,
-        41.0,
-        -6.0,
-        42.0
+        -6.741052717372497,
+        41.680143317500836,
+        -6.51833516722678,
+        41.76294856050367
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-24T16:49:22Z",
@@ -40,48 +56,57 @@
         }
     ],
     "description": "The Zoelae were an ancient Celtic tribe of Gallaecia in the Iberian peninsula.",
-    "details": "The Barrington Atlas Directory notes: between Trás-os-Montes POR and Tierra de Aliste (Zamora)",
+    "details": "<p>The Barrington Atlas Directory notes: between Trás-os-Montes POR and Tierra de Aliste (Zamora)</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            -7.0,
-                            41.0
+                            -6.741052717372497,
+                            41.680143317500836
                         ],
                         [
-                            -6.0,
-                            41.0
+                            -6.676331378013856,
+                            41.69917900554748
                         ],
                         [
-                            -6.0,
-                            42.0
+                            -6.636356433115964,
+                            41.712503987180014
                         ],
                         [
-                            -7.0,
-                            42.0
+                            -6.606851116643668,
+                            41.72297361560578
                         ],
                         [
-                            -7.0,
-                            41.0
+                            -6.566876171745662,
+                            41.73725038164076
+                        ],
+                        [
+                            -6.51833516722678,
+                            41.76294856050367
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/236724/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/236724/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 330 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-09-02T01:36:18Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "edited description, added references",
             "modified": "2014-01-12T06:37:09Z",
@@ -107,9 +132,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -128,83 +153,112 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-09-24T16:49:23Z",
+            "created": "2022-08-30T11:14:56Z",
             "creators": [
                 {
                     "name": "E.W. Haley",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            -7.0,
-                            41.0
+                            -6.741052717372497,
+                            41.680143317500836
                         ],
                         [
-                            -6.0,
-                            41.0
+                            -6.676331378013856,
+                            41.69917900554748
                         ],
                         [
-                            -6.0,
-                            42.0
+                            -6.636356433115964,
+                            41.712503987180014
                         ],
                         [
-                            -7.0,
-                            42.0
+                            -6.606851116643668,
+                            41.72297361560578
                         ],
                         [
-                            -7.0,
-                            41.0
+                            -6.566876171745662,
+                            41.73725038164076
+                        ],
+                        [
+                            -6.51833516722678,
+                            41.76294856050367
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:25:28Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 24 E3 Zoelae",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211489",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "24 E3 Zoelae",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/236724/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/236724/batlas-map-label-location"
         }
     ],
     "names": [
@@ -289,25 +343,25 @@
     "provenance": "Barrington Atlas: BAtlas 24 E3 Zoelae",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "24 E3 Zoelae",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 24 E3 Zoelae",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/29332628",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Conimbriga-111",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MUWQD6UC",
+            "citationDetail": "111",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Conimbriga 111",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Porto: Conimbriga - Bracara - Lucus - Asturica</i>. Tabula Imperii Romani K29. Madrid: Ministerio de Cultura; Consejo Superior de Investigaciones Científicas (Spain); Comité Español de la Tabula Imperii Romani, 1993. http://www.worldcat.org/oclc/29332628.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Conimbriga",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -324,51 +378,51 @@
         {
             "accessURI": "http://referenceworks.brillonline.com/entries/brill-s-new-pauly/zoelae-e12217660",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Zoelae",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "New Pauly, Zoelae",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/228/182-188",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "3.28.3",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Plin. HN 3.28.3",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NIZB6YAK",
+            "citationDetail": "6101,13",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "ILS 6101,13",
+            "formattedCitation": "<div class=\"csl-entry\">Dessau, Hermann. <i>Inscriptiones latinae selectae</i>. Zürich: Weidmann, 1997.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "ILS",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NIZB6YAK",
+            "citationDetail": "6101,4",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "ILS 6101,4",
+            "formattedCitation": "<div class=\"csl-entry\">Dessau, Hermann. <i>Inscriptiones latinae selectae</i>. Zürich: Weidmann, 1997.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "ILS",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        -6.5,
-        41.5
+        -6.628006084449791,
+        41.71734881887285
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

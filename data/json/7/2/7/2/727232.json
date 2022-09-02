@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        30.0,
-        30.5,
-        30.5,
-        31.0
+        30.114737810660017,
+        30.41525726543665,
+        30.377430305703797,
+        30.519001765290795
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2009-09-09T06:42:41Z",
@@ -45,38 +61,60 @@
         {
             "geometry": {
                 "coordinates": [
+                    30.19499,
+                    30.43785
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-of-wadi-an-natrun",
+            "properties": {
+                "description": "Representative location based on GeoNames.",
+                "link": "https://pleiades.stoa.org/places/727232/geonames-location-of-wadi-an-natrun",
+                "location_precision": "precise",
+                "snippet": "Valley; AD 1700 - AD 2100",
+                "title": "GeoNames location of Wādī an Naţrūn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     [
                         [
-                            30.0,
-                            30.5
+                            30.114737810660017,
+                            30.519001765290795
                         ],
                         [
-                            30.5,
-                            30.5
+                            30.176603796811605,
+                            30.498062508439546
                         ],
                         [
-                            30.5,
-                            31.0
+                            30.228000154537654,
+                            30.4818821735999
                         ],
                         [
-                            30.0,
-                            31.0
+                            30.278444727861142,
+                            30.46475005435792
                         ],
                         [
-                            30.0,
-                            30.5
+                            30.316516103954427,
+                            30.447617935115886
+                        ],
+                        [
+                            30.377430305703797,
+                            30.41525726543665
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "undetermined",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/727232/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Undetermined location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/727232/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; AD 300 - AD 640",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
@@ -117,9 +155,95 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2017-09-11T12:00:33Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on GeoNames.",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "valley"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/valley"
+            ],
+            "geometry": {
+                "coordinates": [
+                    30.19499,
+                    30.43785
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-09-01T15:35:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added GeoNames location",
+                    "modified": "2017-09-11T12:00:37Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "geonames-location-of-wadi-an-natrun",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/valley"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/351277/wadi-an-natrun.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "GeoNames 351277 (Wādī an Naţrūn)",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "GeoNames location of Wādī an Naţrūn",
+            "uri": "https://pleiades.stoa.org/places/727232/geonames-location-of-wadi-an-natrun"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -132,83 +256,112 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2009-09-09T06:42:42Z",
+            "created": "2022-08-30T11:15:13Z",
             "creators": [
                 {
                     "name": "A. Bernand",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            30.0,
-                            30.5
+                            30.114737810660017,
+                            30.519001765290795
                         ],
                         [
-                            30.5,
-                            30.5
+                            30.176603796811605,
+                            30.498062508439546
                         ],
                         [
-                            30.5,
-                            31.0
+                            30.228000154537654,
+                            30.4818821735999
                         ],
                         [
-                            30.0,
-                            31.0
+                            30.278444727861142,
+                            30.46475005435792
                         ],
                         [
-                            30.0,
-                            30.5
+                            30.316516103954427,
+                            30.447617935115886
+                        ],
+                        [
+                            30.377430305703797,
+                            30.41525726543665
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:08:47Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 74 C3 Sketis",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Sketis",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "74 C3 Sketis",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": 300,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/727232/undetermined"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/727232/batlas-map-label-location"
         }
     ],
     "names": [
@@ -327,8 +480,8 @@
         }
     ],
     "reprPoint": [
-        30.25,
-        30.75
+        30.22153905058457,
+        30.454865706130803
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
