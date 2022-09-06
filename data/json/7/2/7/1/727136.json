@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        30.0,
-        31.0,
-        30.5,
-        31.5
+        30.08505403461237,
+        31.358736,
+        30.130382766773437,
+        31.377511296194314
     ],
     "connections": [
         {
@@ -53,15 +53,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2009-09-09T06:41:22Z",
@@ -77,38 +93,60 @@
         {
             "geometry": {
                 "coordinates": [
+                    30.1082529,
+                    31.358736
+                ],
+                "type": "Point"
+            },
+            "id": "location-of-ile-nelson",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/727136/location-of-ile-nelson",
+                "location_precision": "precise",
+                "snippet": "Island, ; AD 1700 - AD 2100",
+                "title": "location of Île Nelson "
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     [
                         [
-                            30.0,
-                            31.0
+                            30.08505403461237,
+                            31.377511296194314
                         ],
                         [
-                            30.5,
-                            31.0
+                            30.097189285742047,
+                            31.377511296194314
                         ],
                         [
-                            30.5,
-                            31.5
+                            30.10468458791047,
+                            31.377511296194314
                         ],
                         [
-                            30.0,
-                            31.5
+                            30.111109132626098,
+                            31.37679745789262
                         ],
                         [
-                            30.0,
-                            31.0
+                            30.11824751564359,
+                            31.377154377043553
+                        ],
+                        [
+                            30.130382766773437,
+                            31.37679745789262
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "undetermined",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/727136/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Undetermined location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/727136/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 550 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
@@ -139,9 +177,102 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [],
+            "created": "2013-12-12T04:54:28Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "island",
+                ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "geometry": {
+                "coordinates": [
+                    30.1082529,
+                    31.358736
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added location",
+                    "modified": "2013-12-12T04:55:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-12-12T04:54:32Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "location-of-ile-nelson",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "provenance": "OpenStreetMap (Way 251440402, version 1, osm:changeset=19406210, 2013-12-12T04:53:59Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/251440402",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 251440402",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=251440402",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://fr.wikipedia.org/wiki/%C3%8Ele_Nelson_(%C3%89gypte)",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/B4HPCZIK",
+                    "citationDetail": "Île Nelson (Égypte)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipédia: L’encyclopédie libre que chacun peut améliorer (2001-), Île Nelson (Égypte).",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (French)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "location of Île Nelson ",
+            "uri": "https://pleiades.stoa.org/places/727136/location-of-ile-nelson"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -166,83 +297,112 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2009-09-09T06:41:23Z",
+            "created": "2022-08-30T11:15:35Z",
             "creators": [
                 {
                     "name": "A. Bernand",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            30.0,
-                            31.0
+                            30.08505403461237,
+                            31.377511296194314
                         ],
                         [
-                            30.5,
-                            31.0
+                            30.097189285742047,
+                            31.377511296194314
                         ],
                         [
-                            30.5,
-                            31.5
+                            30.10468458791047,
+                            31.377511296194314
                         ],
                         [
-                            30.0,
-                            31.5
+                            30.111109132626098,
+                            31.37679745789262
                         ],
                         [
-                            30.0,
-                            31.0
+                            30.11824751564359,
+                            31.377154377043553
+                        ],
+                        [
+                            30.130382766773437,
+                            31.37679745789262
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:07:34Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 74 C2 Kanope Ins.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Kanope Ins.",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "74 C2 Kanope",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -550,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/727136/undetermined"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/727136/batlas-map-label-location"
         }
     ],
     "names": [
@@ -373,8 +533,8 @@
         }
     ],
     "reprPoint": [
-        30.25,
-        31.25
+        30.107987371435197,
+        31.36798445953141
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

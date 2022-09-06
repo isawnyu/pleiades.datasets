@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        21.5,
-        36.5,
-        22.0,
-        37.0
+        21.6757446293675,
+        36.69203043820983,
+        21.787579296641525,
+        36.74021452357789
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-20T20:51:58Z",
@@ -44,48 +60,77 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 58 B4 Oinoussai Inss.",
-    "details": "The Barrington Atlas Directory notes: Sapientza, Schiza et al.",
+    "details": "<p>The Barrington Atlas Directory notes: Sapientza, Schiza et al.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            21.5,
-                            36.5
+                            21.6757446293675,
+                            36.74021452357789
                         ],
                         [
-                            22.0,
-                            36.5
+                            21.686452203893737,
+                            36.73248127530894
                         ],
                         [
-                            22.0,
-                            37.0
+                            21.697159778419973,
+                            36.72593775754291
                         ],
                         [
-                            21.5,
-                            37.0
+                            21.706082757191837,
+                            36.721773700782705
                         ],
                         [
-                            21.5,
-                            36.5
+                            21.715600601215158,
+                            36.717014778771045
+                        ],
+                        [
+                            21.72452357998702,
+                            36.71047126100501
+                        ],
+                        [
+                            21.735231154513258,
+                            36.70571233899335
+                        ],
+                        [
+                            21.750102785799697,
+                            36.70035855173023
+                        ],
+                        [
+                            21.764974417086137,
+                            36.69619449497003
+                        ],
+                        [
+                            21.775681991612373,
+                            36.69322016871274
+                        ],
+                        [
+                            21.787579296641525,
+                            36.69203043820983
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570524/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/570524/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-09-03T12:56:17Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference",
             "modified": "2016-02-21T17:57:45Z",
@@ -106,95 +151,144 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-09-20T20:51:59Z",
+            "created": "2022-08-30T11:14:42Z",
             "creators": [
-                {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
                 {
                     "name": "G. Reger",
                     "username": null
+                },
+                {
+                    "name": "J. McK. Camp II",
+                    "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": null,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            21.5,
-                            36.5
+                            21.6757446293675,
+                            36.74021452357789
                         ],
                         [
-                            22.0,
-                            36.5
+                            21.686452203893737,
+                            36.73248127530894
                         ],
                         [
-                            22.0,
-                            37.0
+                            21.697159778419973,
+                            36.72593775754291
                         ],
                         [
-                            21.5,
-                            37.0
+                            21.706082757191837,
+                            36.721773700782705
                         ],
                         [
-                            21.5,
-                            36.5
+                            21.715600601215158,
+                            36.717014778771045
+                        ],
+                        [
+                            21.72452357998702,
+                            36.71047126100501
+                        ],
+                        [
+                            21.735231154513258,
+                            36.70571233899335
+                        ],
+                        [
+                            21.750102785799697,
+                            36.70035855173023
+                        ],
+                        [
+                            21.764974417086137,
+                            36.69619449497003
+                        ],
+                        [
+                            21.775681991612373,
+                            36.69322016871274
+                        ],
+                        [
+                            21.787579296641525,
+                            36.69203043820983
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:31:55Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 B4 Oinoussai Inss.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Oinoussai Inss.",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "58 B4 Oinoussai",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570524/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/570524/batlas-map-label-location"
         }
     ],
     "names": [
@@ -251,6 +345,11 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "update reference",
+                    "modified": "2022-09-03T12:56:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "added reference to primary source",
                     "modified": "2016-02-21T17:58:40Z",
                     "modifiedBy": "jbecker"
@@ -269,12 +368,12 @@
                 {
                     "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.34.12",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+                    "citationDetail": "4.34.12",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "Paus. 4.34.12",
+                    "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Paus. (Spiro: Perseus)",
                     "type": "http://purl.org/spar/cito/citesAsEvidence"
                 }
             ],
@@ -297,31 +396,31 @@
     "provenance": "Barrington Atlas: BAtlas 58 B4 Oinoussai Inss.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "58 B4 Oinoussai Inss.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 58 B4 Oinoussai Inss.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:4.34.12",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+            "citationDetail": "4.34.12",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Paus. 4.34.12",
+            "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Paus. (Spiro: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
     "reprPoint": [
-        21.75,
-        36.75
+        21.729765796101216,
+        36.71142440254107
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
