@@ -47,11 +47,11 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
 
 ## Technical Metadata
 
-Coordinate reference system and coordinate representation: WGS-84 signed decimal degrees of Longitude and Latitude
-File format: Comma-Separated Values (CSV)  
-Field delimiter: comma
-Text delimiters: double quotation marks, used only when necessary (e.g., when field contains a comma)  
-Text encoding: UTF-8 with Byte Order Marker (BOM)  
+ - Coordinate reference system and coordinate representation: WGS-84 signed decimal degrees of Longitude and Latitude
+ - File format: Comma-Separated Values (CSV)
+ - Field delimiter: comma
+ - Text delimiters: double quotation marks, used only when necessary (e.g., when field contains a comma)
+ - Text encoding: UTF-8 with Byte Order Marker (BOM)
 
 
 ## Field Definitions
