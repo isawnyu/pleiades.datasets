@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        27.0,
-        31.0,
-        28.0,
-        32.0
+        27.281446172955953,
+        31.391869360480314,
+        27.389116783469774,
+        31.3948436867376
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,6 +21,28 @@
         },
         {
             "homepage": null,
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
@@ -33,49 +55,67 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: None",
-    "details": "The Barrington Atlas Directory notes: Bates’ Is., Marsa Matruh",
+    "description": "An island located in the East Lagoon of Marsa Matruh.",
+    "details": "<p>The Barrington Atlas Directory notes: Bates’ Is., Marsa Matruh</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            27.0,
-                            31.0
+                            27.281446172955953,
+                            31.391869360480314
                         ],
                         [
-                            28.0,
-                            31.0
+                            27.296317804242392,
+                            31.393653956234687
                         ],
                         [
-                            28.0,
-                            32.0
+                            27.330225123575474,
+                            31.3948436867376
                         ],
                         [
-                            27.0,
-                            32.0
+                            27.34331215910754,
+                            31.3948436867376
                         ],
                         [
-                            27.0,
-                            31.0
+                            27.361752981902725,
+                            31.3948436867376
+                        ],
+                        [
+                            27.377219478440622,
+                            31.393653956234687
+                        ],
+                        [
+                            27.389116783469774,
+                            31.39305909098323
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "undetermined",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/716535/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 750 BC - 550 BC",
-                "title": "Undetermined location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/716535/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 750 BC - 550 BC",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add summary",
+            "modified": "2022-09-07T23:50:41Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update title, references",
+            "modified": "2022-09-07T23:48:39Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T08:04:58Z",
@@ -91,9 +131,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -106,127 +146,171 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2009-09-09T05:50:32Z",
+            "created": "2022-08-30T11:17:26Z",
             "creators": [
                 {
                     "name": "D.J. Mattingly",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": -550,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            27.0,
-                            31.0
+                            27.281446172955953,
+                            31.391869360480314
                         ],
                         [
-                            28.0,
-                            31.0
+                            27.296317804242392,
+                            31.393653956234687
                         ],
                         [
-                            28.0,
-                            32.0
+                            27.330225123575474,
+                            31.3948436867376
                         ],
                         [
-                            27.0,
-                            32.0
+                            27.34331215910754,
+                            31.3948436867376
                         ],
                         [
-                            27.0,
-                            31.0
+                            27.361752981902725,
+                            31.3948436867376
+                        ],
+                        [
+                            27.377219478440622,
+                            31.393653956234687
+                        ],
+                        [
+                            27.389116783469774,
+                            31.39305909098323
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:04:58Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 73 E2 Bates’ Is.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Bates' Is.",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "73 E2 Bates’",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -750,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/716535/undetermined"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/716535/batlas-map-label-location"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/labeled feature",
+        "https://pleiades.stoa.org/vocabularies/place-types/island",
         "https://pleiades.stoa.org/vocabularies/place-types/label"
     ],
     "placeTypes": [
-        "labeled feature",
+        "island",
         "label"
     ],
     "provenance": "Barrington Atlas: BAtlas 73 E2 Bates’ Is.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "73 E2 Bates’ Is.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 73 E2 Bates’ Is.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/w.html#White-1989",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R8X7RTR9",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "White 1989",
+            "formattedCitation": "<div class=\"csl-entry\">D. White. “Excavations on Bates’ Island, Marsa Matruh: Second Preliminary Report.” <i>Journal of the American Research Center in Egypt</i> 26 (1989): 87–114.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "White 1989",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.jstor.org/stable/40001090",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WFHDTK9K",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">White, Donald. “1985 Excavations on Bates’s Island, Marsa Matruh.” <i>Journal of the American Research Center in Egypt</i> 23 (1986): 51–84. https://doi.org/10.2307/40001090.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "White 1986",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        27.5,
-        31.5
+        27.335252410619276,
+        31.39411763519448
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Bates’ Is.",
+    "title": "Bates’ (island)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/716535"
 }
