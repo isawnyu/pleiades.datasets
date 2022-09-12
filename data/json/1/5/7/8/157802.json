@@ -69,6 +69,7 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/507729266",
         "https://pleiades.stoa.org/places/157871",
+        "https://pleiades.stoa.org/places/702770983",
         "https://pleiades.stoa.org/places/157837",
         "https://pleiades.stoa.org/places/158555"
     ],
@@ -139,7 +140,7 @@
                 "description": "The area where the archaeological remains of the Roman city have been excavated since the late nineteenth century.",
                 "link": "https://pleiades.stoa.org/places/157802/imagery-location-archaeological-remains",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 330 BC - AD 640",
+                "snippet": "Settlement, Archaeological-site; 330 BC - AD 640",
                 "title": "Imagery location of archaeological area"
             },
             "type": "Feature"
@@ -243,7 +244,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-digitalglobe-imagery-2012",
             "accuracy_value": 4.2,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -290,15 +291,15 @@
                 }
             ],
             "description": "The area where the archaeological remains of the Roman city have been excavated since the late nineteenth century.",
-            "details": "\r\n<p>In this area are the remains of the Roman theater and baths, the city walls including the so-called Porta Praetoria (an example of Scaean gates), some <em>insulae</em> and the <em>decumanus maximus</em>. Outside the city walls, in the area now occupied by the railway, several hundred burials have been excavated since the late 19th century by Girolamo Rossi, Piero Barocelli, Nino Lamboglia, Francisca Pallares and others more recently. The area is partly open to the public.</p>\r\n",
+            "details": "<p>In this area are the remains of the Roman theater and baths, the city walls including the so-called Porta Praetoria (an example of Scaean gates), some <em>insulae</em> and the <em>decumanus maximus</em>. Outside the city walls, in the area now occupied by the railway, several hundred burials have been excavated since the late 19th century by Girolamo Rossi, Piero Barocelli, Nino Lamboglia, Francisca Pallares and others more recently. The area is partly open to the public.</p>",
             "end": 640,
             "featureType": [
                 "settlement",
-                ""
+                "archaeological-site"
             ],
             "featureTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
@@ -308,6 +309,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "update",
+                    "modified": "2022-09-11T20:14:22Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2013-12-29T14:27:42Z",
@@ -340,7 +346,7 @@
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "provenance": "Pleiades",
             "references": [],
@@ -888,10 +894,12 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
         "settlement",
+        "archaeological-site",
         "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 16 E2 Alb(i)um Intimilium/Albintimilium",
