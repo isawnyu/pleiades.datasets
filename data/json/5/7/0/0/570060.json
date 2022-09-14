@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        21.5,
-        37.5,
-        22.0,
-        38.0
+        21.65242069573202,
+        37.69947685959937,
+        21.719045603895268,
+        37.78846870121748
     ],
     "connections": [],
     "connectsWith": [],
@@ -18,6 +18,28 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -38,48 +60,74 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 58 B2 Akroreia",
-    "details": "None",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            21.5,
-                            37.5
+                            21.65242069573202,
+                            37.69947685959937
                         ],
                         [
-                            22.0,
-                            37.5
+                            21.66574567736461,
+                            37.71708487104257
                         ],
                         [
-                            22.0,
-                            38.0
+                            21.67383584478449,
+                            37.73183752927878
                         ],
                         [
-                            21.5,
-                            38.0
+                            21.683829581008865,
+                            37.741831265503095
                         ],
                         [
-                            21.5,
-                            37.5
+                            21.690967964026356,
+                            37.75087321732542
+                        ],
+                        [
+                            21.697630454842795,
+                            37.75896338474513
+                        ],
+                        [
+                            21.707148298866116,
+                            37.771336581975504
+                        ],
+                        [
+                            21.716190250688214,
+                            37.78133031819999
+                        ],
+                        [
+                            21.719045603895268,
+                            37.78846870121748
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570060/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 750 BC - 330 BC",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/570060/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 750 BC - 330 BC",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update Xen. refs. with link. Xen. is using an ethnonym -  Ἀκρωρείων - so perhaps the Pleiades place is a region or district?",
+            "modified": "2022-09-13T19:19:15Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update",
+            "modified": "2022-09-13T19:17:11Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:25:01Z",
@@ -90,9 +138,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -111,87 +159,128 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-09-20T20:42:52Z",
+            "created": "2022-08-30T11:17:06Z",
             "creators": [
-                {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
                 {
                     "name": "G. Reger",
                     "username": null
+                },
+                {
+                    "name": "J. McK. Camp II",
+                    "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": -330,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            21.5,
-                            37.5
+                            21.65242069573202,
+                            37.69947685959937
                         ],
                         [
-                            22.0,
-                            37.5
+                            21.66574567736461,
+                            37.71708487104257
                         ],
                         [
-                            22.0,
-                            38.0
+                            21.67383584478449,
+                            37.73183752927878
                         ],
                         [
-                            21.5,
-                            38.0
+                            21.683829581008865,
+                            37.741831265503095
                         ],
                         [
-                            21.5,
-                            37.5
+                            21.690967964026356,
+                            37.75087321732542
+                        ],
+                        [
+                            21.697630454842795,
+                            37.75896338474513
+                        ],
+                        [
+                            21.707148298866116,
+                            37.771336581975504
+                        ],
+                        [
+                            21.716190250688214,
+                            37.78133031819999
+                        ],
+                        [
+                            21.719045603895268,
+                            37.78846870121748
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:25:01Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 B2 Akroreia",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Akroreia",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "58 B2 Akroreia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570060/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/570060/batlas-map-label-location"
         }
     ],
     "names": [
@@ -284,9 +373,9 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg001.perseus-eng1:3.2.30",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/x.html#Xen.",
+            "bibliographicURI": "",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "Xen., Hell. 3.2.30",
@@ -295,12 +384,12 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg001.perseus-eng1:4.2.16",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/4.html#4.2.16",
+            "bibliographicURI": "",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "4.2.16",
+            "formattedCitation": "Xen., Hell. 4.2.16",
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
@@ -318,8 +407,8 @@
         }
     ],
     "reprPoint": [
-        21.75,
-        37.75
+        21.685817408159338,
+        37.744028064343
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        5.5,
-        43.0,
-        6.0,
-        43.5
+        5.824846513112732,
+        43.150582073627845,
+        6.002802325601806,
+        43.188994616551724
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-06-22T18:43:13Z",
@@ -44,48 +60,81 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 16 A3 Camactulici?",
-    "details": "None",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            5.5,
-                            43.0
+                            5.824846513112732,
+                            43.150582073627845
                         ],
                         [
-                            6.0,
-                            43.0
+                            5.845904743014216,
+                            43.157720456645336
                         ],
                         [
-                            6.0,
-                            43.5
+                            5.856612317540453,
+                            43.16164656730501
                         ],
                         [
-                            5.5,
-                            43.5
+                            5.869818326122981,
+                            43.1666434354172
                         ],
                         [
-                            5.5,
-                            43.0
+                            5.883024334705283,
+                            43.17092646522764
+                        ],
+                        [
+                            5.893731909231519,
+                            43.17485257588737
+                        ],
+                        [
+                            5.906937917813877,
+                            43.17806484824513
+                        ],
+                        [
+                            5.916574734887433,
+                            43.1798494439995
+                        ],
+                        [
+                            5.924426956206617,
+                            43.181634039753874
+                        ],
+                        [
+                            5.948684795345457,
+                            43.18527334878081
+                        ],
+                        [
+                            5.973059063028927,
+                            43.18721002079735
+                        ],
+                        [
+                            6.002802325601806,
+                            43.188994616551724
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/157831/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/157831/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 330 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-09-13T19:13:01Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added references",
             "modified": "2015-03-17T02:38:33Z",
@@ -106,11 +155,11 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -127,21 +176,29 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-06-22T18:43:14Z",
+            "created": "2022-08-30T11:17:06Z",
             "creators": [
                 {
                     "name": "S. Loseby",
@@ -152,67 +209,107 @@
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            5.5,
-                            43.0
+                            5.824846513112732,
+                            43.150582073627845
                         ],
                         [
-                            6.0,
-                            43.0
+                            5.845904743014216,
+                            43.157720456645336
                         ],
                         [
-                            6.0,
-                            43.5
+                            5.856612317540453,
+                            43.16164656730501
                         ],
                         [
-                            5.5,
-                            43.5
+                            5.869818326122981,
+                            43.1666434354172
                         ],
                         [
-                            5.5,
-                            43.0
+                            5.883024334705283,
+                            43.17092646522764
+                        ],
+                        [
+                            5.893731909231519,
+                            43.17485257588737
+                        ],
+                        [
+                            5.906937917813877,
+                            43.17806484824513
+                        ],
+                        [
+                            5.916574734887433,
+                            43.1798494439995
+                        ],
+                        [
+                            5.924426956206617,
+                            43.181634039753874
+                        ],
+                        [
+                            5.948684795345457,
+                            43.18527334878081
+                        ],
+                        [
+                            5.973059063028927,
+                            43.18721002079735
+                        ],
+                        [
+                            6.002802325601806,
+                            43.188994616551724
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:31:43Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:10:14Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 16 A3 Camactulici?",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Camactulici?",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "16 A3 Camactulici?",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/157831/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/157831/batlas-map-label-location"
         }
     ],
     "names": [
@@ -306,53 +403,53 @@
     "provenance": "Barrington Atlas: BAtlas 16 A3 Camactulici?",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "16 A3 Camactulici?",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 16 A3 Camactulici?",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Barruol-1969",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/73HI5XF8",
+            "citationDetail": "211-12",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Barruol 1969, 211-12",
+            "formattedCitation": "<div class=\"csl-entry\">Barruol, Guy. <i>Les Peuples Préromains Du Sud-Est de La Gaule: Étude de Géographie Historique</i>. Revue Archéologique de Narbonnaise, Supplément 1. Paris: E. de Boccard, 1969.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Barruol 1969",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "https://de.wikisource.org/wiki/RE:Camactulici",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Camactulici",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE:Camactulici",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/230/1652-1655@1#230",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "3.34.8",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Plin. HN 3.34.8",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        5.75,
-        43.25
+        5.91264742234486,
+        43.17541253434801
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
