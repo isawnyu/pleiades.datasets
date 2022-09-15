@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.0,
-        32.0,
-        15.0,
-        33.0
+        14.1277248581099,
+        32.54157384437627,
+        14.35615311466961,
+        32.54692763163939
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,6 +21,28 @@
         },
         {
             "homepage": null,
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
@@ -34,48 +56,78 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 35 G2 Gadabitani?",
-    "details": "None",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            14.0,
-                            32.0
+                            14.1277248581099,
+                            32.54692763163939
                         ],
                         [
-                            15.0,
-                            32.0
+                            14.168175695209015,
+                            32.54454817063356
                         ],
                         [
-                            15.0,
-                            33.0
+                            14.191375440015861,
+                            32.54573790113648
                         ],
                         [
-                            14.0,
-                            33.0
+                            14.213385454319791,
+                            32.543953305382104
                         ],
                         [
-                            14.0,
-                            32.0
+                            14.235395468623722,
+                            32.54216870962773
+                        ],
+                        [
+                            14.258595213430567,
+                            32.54157384437627
+                        ],
+                        [
+                            14.272277114214091,
+                            32.54157384437627
+                        ],
+                        [
+                            14.288338476003446,
+                            32.54157384437627
+                        ],
+                        [
+                            14.308563894553004,
+                            32.54157384437627
+                        ],
+                        [
+                            14.35615311466961,
+                            32.543358440130646
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "undetermined",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/344356/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Undetermined location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/344356/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; AD 300 - AD 640",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Parnell 2016 42",
+            "modified": "2022-09-14T22:53:40Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "set place type = people, update references",
+            "modified": "2022-09-14T22:52:08Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T04:24:09Z",
@@ -86,11 +138,11 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -101,83 +153,128 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2009-09-08T19:43:27Z",
+            "created": "2022-08-30T11:17:36Z",
             "creators": [
                 {
                     "name": "D.J. Mattingly",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            14.0,
-                            32.0
+                            14.1277248581099,
+                            32.54692763163939
                         ],
                         [
-                            15.0,
-                            32.0
+                            14.168175695209015,
+                            32.54454817063356
                         ],
                         [
-                            15.0,
-                            33.0
+                            14.191375440015861,
+                            32.54573790113648
                         ],
                         [
-                            14.0,
-                            33.0
+                            14.213385454319791,
+                            32.543953305382104
                         ],
                         [
-                            14.0,
-                            32.0
+                            14.235395468623722,
+                            32.54216870962773
+                        ],
+                        [
+                            14.258595213430567,
+                            32.54157384437627
+                        ],
+                        [
+                            14.272277114214091,
+                            32.54157384437627
+                        ],
+                        [
+                            14.288338476003446,
+                            32.54157384437627
+                        ],
+                        [
+                            14.308563894553004,
+                            32.54157384437627
+                        ],
+                        [
+                            14.35615311466961,
+                            32.543358440130646
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:24:09Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 35 G2 Gadabitani?",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Gadabitani?",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "35 G2 Gadabitani?",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": 300,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/344356/undetermined"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/344356/batlas-map-label-location"
         }
     ],
     "names": [
@@ -241,52 +338,63 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/labeled feature",
-        "https://pleiades.stoa.org/vocabularies/place-types/label"
+        "https://pleiades.stoa.org/vocabularies/place-types/label",
+        "https://pleiades.stoa.org/vocabularies/place-types/people"
     ],
     "placeTypes": [
-        "labeled feature",
-        "label"
+        "label",
+        "people"
     ],
     "provenance": "Barrington Atlas: BAtlas 35 G2 Gadabitani?",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "35 G2 Gadabitani?",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 35 G2 Gadabitani?",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.worldcat.org/oclc/877994762",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3CMTW64K",
+            "citationDetail": "26",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Mattingly, D. J. <i>Tripolitania</i>. Ann Arbor: University of Michigan Press, 1994. https://www.worldcat.org/oclc/877994762.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Mattingly 1994",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://journals.openedition.org/encyclopedieberbere/1981?lang=en",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BHPQPEJB",
+            "citationDetail": "19 Gadabitani",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Camps, Gabriel, and Salem Chaker. <i>Encyclopédie Berbère</i>. Aix-en-Provence, France: Edisud; Institut de Recherches et d’Études sur le Monde Arabe et Musulman (IREMAM), 1984. https://journals.openedition.org/encyclopedieberbere/.</div>",
+            "otherIdentifier": "https://doi.org/10.4000/encyclopedieberbere.1981",
+            "shortTitle": "EncBerb",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Mattingly-1994-26",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AD533386",
+            "citationDetail": "42",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Mattingly 1994 26",
+            "formattedCitation": "<div class=\"csl-entry\">Parnell, David Alan. <i>Justinian’s Men: Careers and Relationships of Byzantine Army Officers, 518-610</i>. Springer, 2016.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/e.html#EncBerb-19-Gadabitani",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "EncBerb 19 Gadabitani",
-            "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Parnell 2016",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        14.5,
-        32.5
+        14.241897323252926,
+        32.543349544368056
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
