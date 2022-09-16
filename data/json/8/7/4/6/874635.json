@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        39.0,
-        39.0,
-        40.0,
-        40.0
+        39.87782424283625,
+        39.11579414055186,
+        40.12052926543094,
+        39.12007717036236
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,25 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-10-05T17:53:56Z",
@@ -52,48 +62,41 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 89 B1 Paline",
-    "details": "The Barrington Atlas Directory notes: district of lower Peri Su",
+    "details": "<p>The Barrington Atlas Directory notes: district of lower Peri Su</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            39.0,
-                            39.0
+                            39.87782424283625,
+                            39.11579414055186
                         ],
                         [
-                            40.0,
-                            39.0
-                        ],
-                        [
-                            40.0,
-                            40.0
-                        ],
-                        [
-                            39.0,
-                            40.0
-                        ],
-                        [
-                            39.0,
-                            39.0
+                            40.12052926543094,
+                            39.12007717036236
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/874635/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/874635/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; AD 300 - AD 640",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2022-09-15T23:35:14Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2013-10-05T19:30:59Z",
@@ -114,9 +117,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -129,21 +132,23 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-10-05T17:53:56Z",
+            "created": "2022-08-30T11:15:47Z",
             "creators": [
                 {
                     "name": "S.E. Kroll",
@@ -162,62 +167,67 @@
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            39.0,
-                            39.0
+                            39.87782424283625,
+                            39.11579414055186
                         ],
                         [
-                            40.0,
-                            39.0
-                        ],
-                        [
-                            40.0,
-                            40.0
-                        ],
-                        [
-                            39.0,
-                            40.0
-                        ],
-                        [
-                            39.0,
-                            39.0
+                            40.12052926543094,
+                            39.12007717036236
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:03:05Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 89 B1 Paline",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211263",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "89 B1 Paline",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": 300,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/874635/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/874635/batlas-map-label-location"
         }
     ],
     "names": [
@@ -314,14 +324,14 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/560304098",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/g.html#GCyp-962aG",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9SIDQ6K9",
+            "citationDetail": "962aG",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "GCyp 962aG",
+            "formattedCitation": "<div class=\"csl-entry\">Honigmann, Ernest, ed. <i>Georgius Cyprius, in Le Synekdèmos d’ Hieroklès et l’Opuscule géographique de Georges de Chypre</i>. Corpus bruxellense historiae byzantinae. Forma imperii byzantini 1. Brussels, 1939. http://www.worldcat.org/oclc/560304098.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "GCyp ...H",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -337,8 +347,8 @@
         }
     ],
     "reprPoint": [
-        39.5,
-        39.5
+        39.99917675413359,
+        39.11793565545711
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.72808,
-        40.6332345,
-        14.8564808,
-        40.672914
+        14.814316975791883,
+        40.49636399226131,
+        14.992300659027933,
+        40.67910659750902
     ],
     "connections": [
         {
@@ -54,15 +54,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-11-11T23:28:06Z",
@@ -80,36 +96,76 @@
                 "coordinates": [
                     [
                         [
-                            14.5,
-                            40.5
+                            14.814316975791883,
+                            40.67910659750902
                         ],
                         [
-                            15.0,
-                            40.5
+                            14.835732124844355,
+                            40.663402154870425
                         ],
                         [
-                            15.0,
-                            41.0
+                            14.849057106477119,
+                            40.652932526444886
                         ],
                         [
-                            14.5,
-                            41.0
+                            14.86095441150627,
+                            40.642462898019176
                         ],
                         [
-                            14.5,
-                            40.5
+                            14.875707069742248,
+                            40.629613808587806
+                        ],
+                        [
+                            14.888556159173845,
+                            40.617716503558654
+                        ],
+                        [
+                            14.901405248605386,
+                            40.60772276733411
+                        ],
+                        [
+                            14.913302553634537,
+                            40.59534957010379
+                        ],
+                        [
+                            14.925199858663689,
+                            40.58107280406881
+                        ],
+                        [
+                            14.936145379290451,
+                            40.56774782243622
+                        ],
+                        [
+                            14.944235546710331,
+                            40.55727819401051
+                        ],
+                        [
+                            14.952801606331263,
+                            40.547760349987186
+                        ],
+                        [
+                            14.96374712695797,
+                            40.533483583952204
+                        ],
+                        [
+                            14.974692647584902,
+                            40.51825503351478
+                        ],
+                        [
+                            14.992300659027933,
+                            40.49636399226131
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/433024/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/433024/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 330 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
@@ -175,9 +231,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -196,83 +252,148 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-11-11T23:28:07Z",
+            "created": "2022-08-30T11:19:03Z",
             "creators": [
                 {
                     "name": "N. Purcell",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            14.5,
-                            40.5
+                            14.814316975791883,
+                            40.67910659750902
                         ],
                         [
-                            15.0,
-                            40.5
+                            14.835732124844355,
+                            40.663402154870425
                         ],
                         [
-                            15.0,
-                            41.0
+                            14.849057106477119,
+                            40.652932526444886
                         ],
                         [
-                            14.5,
-                            41.0
+                            14.86095441150627,
+                            40.642462898019176
                         ],
                         [
-                            14.5,
-                            40.5
+                            14.875707069742248,
+                            40.629613808587806
+                        ],
+                        [
+                            14.888556159173845,
+                            40.617716503558654
+                        ],
+                        [
+                            14.901405248605386,
+                            40.60772276733411
+                        ],
+                        [
+                            14.913302553634537,
+                            40.59534957010379
+                        ],
+                        [
+                            14.925199858663689,
+                            40.58107280406881
+                        ],
+                        [
+                            14.936145379290451,
+                            40.56774782243622
+                        ],
+                        [
+                            14.944235546710331,
+                            40.55727819401051
+                        ],
+                        [
+                            14.952801606331263,
+                            40.547760349987186
+                        ],
+                        [
+                            14.96374712695797,
+                            40.533483583952204
+                        ],
+                        [
+                            14.974692647584902,
+                            40.51825503351478
+                        ],
+                        [
+                            14.992300659027933,
+                            40.49636399226131
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:01:45Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 44 G4 Picentinus Ager",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211397",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "44 G4 Picentinus",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/433024/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/433024/batlas-map-label-location"
         }
     ],
     "names": [
@@ -504,8 +625,8 @@
         }
     ],
     "reprPoint": [
-        14.7922804,
-        40.65307425
+        14.908433149199281,
+        40.59282822434739
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
