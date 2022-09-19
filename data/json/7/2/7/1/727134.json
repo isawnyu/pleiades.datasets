@@ -1,14 +1,18 @@
 {
     "@type": "Place",
     "bbox": [
-        30.5,
-        31.0,
-        31.0,
-        31.5
+        30.67843212294116,
+        31.151819419791423,
+        30.8503481806124,
+        31.15241428504288
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
         {
             "homepage": null,
             "name": "Sean Gillies",
@@ -17,13 +21,31 @@
         },
         {
             "homepage": null,
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
             "name": "Perry Scalfano",
             "uri": "https://pleiades.stoa.org/author/pscalfano",
             "username": "pscalfano"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -47,41 +69,70 @@
                 "coordinates": [
                     [
                         [
-                            30.5,
-                            31.0
+                            30.67843212294116,
+                            31.151819419791423
                         ],
                         [
-                            31.0,
-                            31.0
+                            30.70341646350238,
+                            31.15241428504288
                         ],
                         [
-                            31.0,
-                            31.5
+                            30.726021343057766,
+                            31.15241428504288
                         ],
                         [
-                            30.5,
-                            31.5
+                            30.736728917584003,
+                            31.15241428504288
                         ],
                         [
-                            30.5,
-                            31.0
+                            30.750410818367527,
+                            31.15241428504288
+                        ],
+                        [
+                            30.765282449653967,
+                            31.15241428504288
+                        ],
+                        [
+                            30.780154080940406,
+                            31.15241428504288
+                        ],
+                        [
+                            30.796810307981218,
+                            31.15241428504288
+                        ],
+                        [
+                            30.8110870740162,
+                            31.15241428504288
+                        ],
+                        [
+                            30.827148435805555,
+                            31.15241428504288
+                        ],
+                        [
+                            30.8503481806124,
+                            31.15241428504288
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "undetermined",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/727134/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Undetermined location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/727134/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 30 BC - AD 640",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references, place type. added BAtlas reference",
+            "modified": "2022-09-17T21:48:27Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Finding Nomes by their titles and setting feature types",
             "modified": "2012-03-20T21:47:44Z",
@@ -97,9 +148,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -118,83 +169,132 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2009-09-09T06:41:21Z",
+            "created": "2022-08-30T11:17:01Z",
             "creators": [
                 {
                     "name": "A. Bernand",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            30.5,
-                            31.0
+                            30.67843212294116,
+                            31.151819419791423
                         ],
                         [
-                            31.0,
-                            31.0
+                            30.70341646350238,
+                            31.15241428504288
                         ],
                         [
-                            31.0,
-                            31.5
+                            30.726021343057766,
+                            31.15241428504288
                         ],
                         [
-                            30.5,
-                            31.5
+                            30.736728917584003,
+                            31.15241428504288
                         ],
                         [
-                            30.5,
-                            31.0
+                            30.750410818367527,
+                            31.15241428504288
+                        ],
+                        [
+                            30.765282449653967,
+                            31.15241428504288
+                        ],
+                        [
+                            30.780154080940406,
+                            31.15241428504288
+                        ],
+                        [
+                            30.796810307981218,
+                            31.15241428504288
+                        ],
+                        [
+                            30.8110870740162,
+                            31.15241428504288
+                        ],
+                        [
+                            30.827148435805555,
+                            31.15241428504288
+                        ],
+                        [
+                            30.8503481806124,
+                            31.15241428504288
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:07:32Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "undetermined",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 74 D2 Kabasites Nomos",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Kabasites Nomos",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "74 D2 Kabasites",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/727134/undetermined"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/727134/batlas-map-label-location"
         }
     ],
     "names": [
@@ -264,11 +364,11 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/province",
+        "https://pleiades.stoa.org/vocabularies/place-types/nome-gr",
         "https://pleiades.stoa.org/vocabularies/place-types/label"
     ],
     "placeTypes": [
-        "province",
+        "nome-gr",
         "label"
     ],
     "provenance": "Barrington Atlas: BAtlas 74 D2 Kabasites Nomos",
@@ -277,17 +377,39 @@
             "accessURI": "https://en.wikipedia.org/wiki/Nome_(Egypt)",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-            "citationDetail": "Nome_(Egypt)",
+            "citationDetail": "Nome (Egypt)",
             "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Nome_(Egypt).",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeAlso"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "74 D2 Kabasites Nomos",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/3069",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 3069: Kabasites",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        30.75,
-        31.25
+        30.764387126054896,
+        31.152371049070553
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
