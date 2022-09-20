@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        35.329583,
-        31.800778,
-        35.329583,
-        31.800778
+        35.3358694,
+        31.7918566,
+        35.3367202,
+        31.7926375
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    35.329583,
-                    31.800778
+                    [
+                        35.3364239,
+                        31.7926375
+                    ],
+                    [
+                        35.3367202,
+                        31.7920635
+                    ],
+                    [
+                        35.3361658,
+                        31.7918566
+                    ],
+                    [
+                        35.3358694,
+                        31.7924307
+                    ],
+                    [
+                        35.3364239,
+                        31.7926375
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-6909",
+            "id": "osm-location-of-al-khan-al-ahmar",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/687898/darmc-location-6909",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/687898/osm-location-of-al-khan-al-ahmar",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 6909"
+                "snippet": "Archaeological-site",
+                "title": "OSM location of Al Khan Al Ahmar"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-09-19T11:52:44Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T20:12:45Z",
@@ -91,85 +114,93 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:36:47Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2022-09-18T00:30:28Z",
             "creators": [
                 {
-                    "name": "B. Isaac",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 6909",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": null,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    35.329583,
-                    31.800778
+                    [
+                        35.3364239,
+                        31.7926375
+                    ],
+                    [
+                        35.3367202,
+                        31.7920635
+                    ],
+                    [
+                        35.3361658,
+                        31.7918566
+                    ],
+                    [
+                        35.3358694,
+                        31.7924307
+                    ],
+                    [
+                        35.3364239,
+                        31.7926375
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:54:35Z",
-                    "modifiedBy": "admin"
+                    "comment": "added osm location",
+                    "modified": "2022-09-18T00:30:48Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:36:48Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-09-18T00:30:28Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-6909",
+            "id": "osm-location-of-al-khan-al-ahmar",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 6909",
+            "provenance": "OpenStreetMap (Way 808881333, version 1, osm:changeset=85848467, 2020-05-27T18:46:26Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/808881333",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "6909",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 808881333",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6909.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=808881333",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 6909",
-            "uri": "https://pleiades.stoa.org/places/687898/darmc-location-6909"
+            "start": null,
+            "title": "OSM location of Al Khan Al Ahmar",
+            "uri": "https://pleiades.stoa.org/places/687898/osm-location-of-al-khan-al-ahmar"
         }
     ],
     "names": [
@@ -274,11 +305,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "6909",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.329583,
-        31.800778
+        35.33629480639693,
+        31.792247076181464
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
