@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        60.0,
-        25.0,
-        65.0,
-        30.0
+        64.29774449687409,
+        25.38532187287518,
+        65.03537740868148,
+        25.462654355564666
     ],
     "connections": [],
     "connectsWith": [],
@@ -18,6 +18,22 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -41,41 +57,54 @@
                 "coordinates": [
                     [
                         [
-                            60.0,
-                            25.0
+                            64.29774449687409,
+                            25.38532187287518
                         ],
                         [
-                            65.0,
-                            25.0
+                            64.46430676728221,
+                            25.409116482933484
                         ],
                         [
-                            65.0,
-                            30.0
+                            64.58327981757373,
+                            25.42696244047721
                         ],
                         [
-                            60.0,
-                            30.0
+                            64.66061230026321,
+                            25.42696244047721
                         ],
                         [
-                            60.0,
-                            25.0
+                            64.76768804552557,
+                            25.44480839802094
+                        ],
+                        [
+                            64.88666109581709,
+                            25.44480839802094
+                        ],
+                        [
+                            65.03537740868148,
+                            25.462654355564666
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/59986/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/59986/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 330 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-09-21T02:06:27Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T07:02:33Z",
@@ -91,9 +120,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -112,83 +141,110 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-23T04:38:25Z",
+            "created": "2022-08-30T11:16:54Z",
             "creators": [
                 {
                     "name": "M.U. Erdosy",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            60.0,
-                            25.0
+                            64.29774449687409,
+                            25.38532187287518
                         ],
                         [
-                            65.0,
-                            25.0
+                            64.46430676728221,
+                            25.409116482933484
                         ],
                         [
-                            65.0,
-                            30.0
+                            64.58327981757373,
+                            25.42696244047721
                         ],
                         [
-                            60.0,
-                            30.0
+                            64.66061230026321,
+                            25.42696244047721
                         ],
                         [
-                            60.0,
-                            25.0
+                            64.76768804552557,
+                            25.44480839802094
+                        ],
+                        [
+                            64.88666109581709,
+                            25.44480839802094
+                        ],
+                        [
+                            65.03537740868148,
+                            25.462654355564666
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:02:33Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 6 A4 Pasirae",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211742",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "6 A4 Pasirae",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/59986/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/59986/batlas-map-label-location"
         }
     ],
     "names": [
@@ -429,47 +485,47 @@
     "provenance": "Barrington Atlas: BAtlas 6 A4 Pasirae",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "6 A4 Pasirae",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 6 A4 Pasirae",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/859590575",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KEVHDGF5",
+            "citationDetail": "129",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">André, Jacques, and Jean Filliozat. <i>Pline l’Ancien, Livre VI</i>. Paris: Les Belles Lettres, 1980. http://www.worldcat.org/oclc/859590575.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "André 1980",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/708296404",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MJR5SH8C",
+            "citationDetail": "279",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">André, Jacques, and Jean Filliozat. <i>L’Inde vue de Rome: textes latins de l’antiquité, relatifs à l’Inde</i>. Collection d’études anciennes 52. Paris: Les Belles Lettres, 1986. http://www.worldcat.org/oclc/708296404.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "André 1986",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#André-1980",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q4N2Z8P5",
+            "citationDetail": "37",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "André 1980, 129",
+            "formattedCitation": "<div class=\"csl-entry\">Casson, Lionel. <i>The Periplus maris Erythraei: text with introduction, translation, and commentary</i>. Princeton, NJ: Princeton University Press, 1989.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/1.html#1986",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "1986, 279",
-            "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#PME-37",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PME 37",
-            "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "PME (Casson)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -477,16 +533,16 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-6.21.4",
             "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "Ptol. 6.21.4",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
     "reprPoint": [
-        62.5,
-        27.5
+        64.66617287575589,
+        25.42833955120817
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
