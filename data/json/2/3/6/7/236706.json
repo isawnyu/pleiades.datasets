@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -8.6759486,
-        41.0244882,
-        -2.3586413,
-        42.012482
+        -4.876435689373693,
+        41.78932091998496,
+        -4.396974296698886,
+        41.80062335976265
     ],
     "connections": [
         {
@@ -56,15 +56,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-24T16:48:55Z",
@@ -75,48 +91,61 @@
         }
     ],
     "description": "The Vaccaei were a Celtic tribe of the Durius river valley.",
-    "details": "The Barrington Atlas Directory notes: S Burgos, S Palencia, Valladolid and NW Segovia provinces",
+    "details": "<p>The Barrington Atlas Directory notes: S Burgos, S Palencia, Valladolid and NW Segovia provinces</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            -5.0,
-                            41.0
+                            -4.876435689373693,
+                            41.80062335976265
                         ],
                         [
-                            -4.0,
-                            41.0
+                            -4.781852114391938,
+                            41.797649033505365
                         ],
                         [
-                            -4.0,
-                            42.0
+                            -4.705114496953911,
+                            41.79645930300245
                         ],
                         [
-                            -5.0,
-                            42.0
+                            -4.631351205773171,
+                            41.79407984199662
                         ],
                         [
-                            -5.0,
-                            41.0
+                            -4.56294170185555,
+                            41.79170038099079
+                        ],
+                        [
+                            -4.487988680171895,
+                            41.79170038099079
+                        ],
+                        [
+                            -4.396974296698886,
+                            41.78932091998496
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/236706/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/236706/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 330 BC - AD 640",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-09-23T02:46:54Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference to primary source",
             "modified": "2016-02-07T21:55:52Z",
@@ -147,9 +176,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -174,83 +203,116 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-09-24T16:48:55Z",
+            "created": "2022-08-30T11:16:23Z",
             "creators": [
                 {
                     "name": "E.W. Haley",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            -5.0,
-                            41.0
+                            -4.876435689373693,
+                            41.80062335976265
                         ],
                         [
-                            -4.0,
-                            41.0
+                            -4.781852114391938,
+                            41.797649033505365
                         ],
                         [
-                            -4.0,
-                            42.0
+                            -4.705114496953911,
+                            41.79645930300245
                         ],
                         [
-                            -5.0,
-                            42.0
+                            -4.631351205773171,
+                            41.79407984199662
                         ],
                         [
-                            -5.0,
-                            41.0
+                            -4.56294170185555,
+                            41.79170038099079
+                        ],
+                        [
+                            -4.487988680171895,
+                            41.79170038099079
+                        ],
+                        [
+                            -4.396974296698886,
+                            41.78932091998496
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:25:14Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 24 G3 Vaccaei",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211673",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "24 G3 Vaccaei",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/236706/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/236706/batlas-map-label-location"
         }
     ],
     "names": [
@@ -285,14 +347,22 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2010-09-24T16:48:55Z",
@@ -307,16 +377,33 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "ctype --> ethnic, add reference",
+                    "modified": "2022-09-23T02:48:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T03:25:14Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "vaccaei",
-            "language": "",
-            "nameType": "geographic",
+            "language": "la",
+            "nameType": "ethnic",
             "provenance": "Barrington Atlas: BAtlas 24 G3 Vaccaei",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/914/1/535/1290-1297",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MCDKGDL9",
+                    "citationDetail": "21.5.8.2",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Titus Livius. <i>Titi Livi Ab Urbe Condita</i>. 5 vols. Clarendon: Oxford U.P, 1908. https://latin.packhum.org/loc/914/1/0#0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Liv. (OCT: PHI)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Vaccaei",
             "start": -330,
@@ -359,6 +446,11 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "ctype --> ethnic",
+                    "modified": "2022-09-23T02:47:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Edited",
                     "modified": "2020-12-17T18:36:06Z",
                     "modifiedBy": "thomase"
@@ -376,7 +468,7 @@
             ],
             "id": "ouakkaioi",
             "language": "grc",
-            "nameType": "geographic",
+            "nameType": "ethnic",
             "provenance": "Pleiades",
             "references": [
                 {
@@ -410,36 +502,36 @@
     "provenance": "Barrington Atlas: BAtlas 24 G3 Vaccaei",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "24 G3 Vaccaei",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 24 G3 Vaccaei",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/31397775",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Caesaraugusta-230",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/H6EE4IV4",
+            "citationDetail": "230",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Caesaraugusta 230",
+            "formattedCitation": "<div class=\"csl-entry\">Fatás Cabeza, Guillermo, Adela Cepas, José Ignacio Reguera Cardiel, and José Manuel Abascal Palazón. <i>Tabula Imperii Romani : K30 Madrid : Caesaraugusta - Clunia : escala 1:1.000.000 : base geográfica, Instituto Geográfico Nacional</i>. Tabula Imperii Romani, K30. Madrid. Madrid: Ministerio de Cultura; Union académique internationale; Instituto Geográfico Nacional (Spain), 1993. http://www.worldcat.org/oclc/31397775.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Caesaraugusta",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/vaccaei-e1226660",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Vaccaei",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "New Pauly, Vaccaei",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -456,12 +548,12 @@
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:3.4.12",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "citationDetail": "3.4.12",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Strab. (Meineke: Perseus) 3.4.12",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Str. (Meineke: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
@@ -477,8 +569,8 @@
         }
     ],
     "reprPoint": [
-        -5.019608310652045,
-        41.81886276496153
+        -4.63671232200286,
+        41.7945172935111
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
