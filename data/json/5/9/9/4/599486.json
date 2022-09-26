@@ -3,10 +3,58 @@
     "bbox": [
         26.793495852670162,
         37.749036993612265,
-        26.823477061343738,
+        26.8372193,
         37.78568069310211
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/599926",
+            "contributors": [],
+            "created": "2022-09-23T01:13:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2022-09-23T01:13:59Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "samos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/443747/ampelos-oros.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "443747: Ámpelos Óros",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Samos (island)",
+            "uri": "https://pleiades.stoa.org/places/599486/samos-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/599926"
     ],
@@ -36,6 +84,12 @@
         {
             "name": "Richard Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -105,6 +159,24 @@
                 "location_precision": "precise",
                 "snippet": "Label",
                 "title": "BAtlas Map Label Location"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.8372193,
+                    37.7508369
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-oros-karvouni",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/599486/osm-location-of-oros-karvouni",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 2000 - AD 2099",
+                "title": "OSM location of Oros Karvouni"
             },
             "type": "Feature"
         }
@@ -261,6 +333,97 @@
             "start": null,
             "title": "BAtlas Map Label Location",
             "uri": "https://pleiades.stoa.org/places/599486/batlas-map-label-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2022-09-23T01:12:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "mountain"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "geometry": {
+                "coordinates": [
+                    26.8372193,
+                    37.7508369
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-09-23T13:59:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2022-09-23T01:12:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-09-23T01:12:26Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-oros-karvouni",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "provenance": "OpenStreetMap (Node 26863344, version 4, osm:changeset=87517232, 2020-07-03T20:33:22Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/26863344",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26863344",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=26863344",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of Oros Karvouni",
+            "uri": "https://pleiades.stoa.org/places/599486/osm-location-of-oros-karvouni"
         }
     ],
     "names": [
@@ -359,8 +522,8 @@
         }
     ],
     "reprPoint": [
-        26.808346599976637,
-        37.76729520970998
+        26.82278294998832,
+        37.75906605485499
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

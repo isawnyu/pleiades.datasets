@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        31.0,
-        38.0,
-        31.5,
-        38.5
+        31.279010211246543,
+        38.1085793997961,
+        31.44170585752005,
+        38.11125629342786
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,25 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2011-01-10T22:57:36Z",
@@ -44,48 +54,41 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 65 F1 Killanion Pedion/Cillanicus Tractus",
-    "details": "The Barrington Atlas Directory notes: Şarkıkaraağaç plain, N Lake Beyşehir",
+    "details": "<p>The Barrington Atlas Directory notes: Şarkıkaraağaç plain, N Lake Beyşehir</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            31.0,
-                            38.0
+                            31.279010211246543,
+                            38.11125629342786
                         ],
                         [
-                            31.5,
-                            38.0
-                        ],
-                        [
-                            31.5,
-                            38.5
-                        ],
-                        [
-                            31.0,
-                            38.5
-                        ],
-                        [
-                            31.0,
-                            38.0
+                            31.44170585752005,
+                            38.1085793997961
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/638921/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/638921/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 30 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-09-23T18:18:37Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2013-10-21T04:34:13Z",
@@ -106,9 +109,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -121,87 +124,94 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-01-10T22:57:37Z",
+            "created": "2022-08-30T11:16:33Z",
             "creators": [
-                {
-                    "name": "C. Foss",
-                    "username": null
-                },
                 {
                     "name": "S. Mitchell",
                     "username": null
+                },
+                {
+                    "name": "C. Foss",
+                    "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            31.0,
-                            38.0
+                            31.279010211246543,
+                            38.11125629342786
                         ],
                         [
-                            31.5,
-                            38.0
-                        ],
-                        [
-                            31.5,
-                            38.5
-                        ],
-                        [
-                            31.0,
-                            38.5
-                        ],
-                        [
-                            31.0,
-                            38.0
+                            31.44170585752005,
+                            38.1085793997961
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:29:08Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 65 F1 Killanion Pedion/Cillanicus Tractus",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211473",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "65 F1 Killanion",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/638921/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/638921/batlas-map-label-location"
         }
     ],
     "names": [
@@ -383,14 +393,22 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2011-01-10T22:57:37Z",
@@ -409,16 +427,33 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "reference",
+                    "modified": "2022-09-23T18:19:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T07:29:09Z",
                     "modifiedBy": "admin"
                 }
             ],
             "id": "civitas-cillanensium",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 65 F1 Killanion Pedion/Cillanicus Tractus",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.jstor.org/stable/498011",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TFLBH5GH",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Calder, W. M. “Inscriptions of Southern Galatia.” <i>American Journal of Archaeology</i> 36, no. 4 (1932): 452–64. https://doi.org/10.2307/498011.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Calder 1932",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "romanized": "Civitas Cillanensium",
             "start": -30,
@@ -438,53 +473,53 @@
     "provenance": "Barrington Atlas: BAtlas 65 F1 Killanion Pedion/Cillanicus Tractus",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "65 F1 Killanion Pedion/Cillanicus Tractus",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 65 F1 Killanion Pedion/Cillanicus Tractus",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#MAMA-7",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4HZBRPEC",
+            "citationDetail": "7, xiii",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "MAMA 7, xiii",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Monumenta Asiae Minoris Antiqua</i>. 8 vols. Manchester, 1928.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "MAMA",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Robert",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NWAP2HIE",
+            "citationDetail": "13, 88-94",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Robert, Hell. 13, 88-94",
+            "formattedCitation": "<div class=\"csl-entry\">Robert, Louis. <i>Hellenica : Recueil d’épigraphie de Numismatique et d’antiquités Grecques</i>. 13 vols. Paris: Librairie d’Amérique et d’Orient, Adrien-Maisonneuve, 1946.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Robert, Hell.",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#MAMA-8.348",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4HZBRPEC",
+            "citationDetail": "8.348, p. xv",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "MAMA 8.348, p. xv",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Monumenta Asiae Minoris Antiqua</i>. 8 vols. Manchester, 1928.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "MAMA",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        31.25,
-        38.25
+        31.360358034383296,
+        38.10991784661198
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

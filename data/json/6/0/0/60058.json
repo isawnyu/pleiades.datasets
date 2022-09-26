@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        66.947223,
-        39.4841385,
-        67.6229969,
-        39.656498
+        64.95801800182778,
+        38.84449132994092,
+        68.65807986589391,
+        39.05864282046565
     ],
     "connections": [],
     "connectsWith": [
@@ -36,15 +36,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-23T04:39:53Z",
@@ -62,41 +78,68 @@
                 "coordinates": [
                     [
                         [
-                            65.0,
-                            35.0
+                            64.95801800182778,
+                            38.84449132994092
                         ],
                         [
-                            70.0,
-                            35.0
+                            65.58262651585824,
+                            38.88018324502838
                         ],
                         [
-                            70.0,
-                            40.0
+                            66.11205658965548,
+                            38.91587516011583
                         ],
                         [
-                            65.0,
-                            40.0
+                            66.60579474836527,
+                            38.951567075203286
                         ],
                         [
-                            65.0,
-                            35.0
+                            67.04599503444388,
+                            38.97536168526159
+                        ],
+                        [
+                            67.49214397303706,
+                            38.99915629531989
+                        ],
+                        [
+                            68.00372808929058,
+                            39.02889955789277
+                        ],
+                        [
+                            68.65807986589391,
+                            39.05864282046565
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/60058/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/60058/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 550 BC - AD 640",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2022-09-24T01:24:24Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "remove duplicate ref.",
+            "modified": "2022-09-24T01:24:01Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2022-09-24T01:23:22Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2020-01-16T00:57:20Z",
@@ -127,9 +170,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -160,83 +203,120 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-09-23T04:39:54Z",
+            "created": "2022-08-30T11:16:18Z",
             "creators": [
                 {
                     "name": "M.U. Erdosy",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            65.0,
-                            35.0
+                            64.95801800182778,
+                            38.84449132994092
                         ],
                         [
-                            70.0,
-                            35.0
+                            65.58262651585824,
+                            38.88018324502838
                         ],
                         [
-                            70.0,
-                            40.0
+                            66.11205658965548,
+                            38.91587516011583
                         ],
                         [
-                            65.0,
-                            40.0
+                            66.60579474836527,
+                            38.951567075203286
                         ],
                         [
-                            65.0,
-                            35.0
+                            67.04599503444388,
+                            38.97536168526159
+                        ],
+                        [
+                            67.49214397303706,
+                            38.99915629531989
+                        ],
+                        [
+                            68.00372808929058,
+                            39.02889955789277
+                        ],
+                        [
+                            68.65807986589391,
+                            39.05864282046565
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:04:43Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 6 B2 Sogdiana",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211920",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "6 B2 Sogdiana",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/60058/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/60058/batlas-map-label-location"
         }
     ],
     "names": [
@@ -724,14 +804,14 @@
     "provenance": "Barrington Atlas: BAtlas 6 B2 Sogdiana",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "6 B2 Sogdiana",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 6 B2 Sogdiana",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -748,34 +828,23 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/c.html#Curtius-7.10.1",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Curtius 7.10.1",
-            "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/a.html#Arrian-3.28.9",
             "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "Arrian 3.28.9",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Sogdiana",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Sogdiana",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Sogdiana",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -792,12 +861,12 @@
         {
             "accessURI": "http://latin.packhum.org/loc/929/1/0#0",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QWWQR674",
+            "citationDetail": "1.13",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Mela 1.13",
+            "formattedCitation": "<div class=\"csl-entry\">Mela, Pomponius. <i>De chorographia libri tres</i>. Edited by Gunnar Ranstrand. Studia Graeca et Latina Gothoburgensia 28. Göteborg; Stockholm: Published by the Institute of Classical Studies of the University of Göteborg] ; Almqvist &amp; Wiksell [distributor], 1971. http://latin.packhum.org/loc/929/1/0.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Mela (Ranstrand: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
@@ -825,12 +894,12 @@
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:7.66",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXF7J4U2",
+            "citationDetail": "7.66",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Hdt. 7.66",
+            "formattedCitation": "<div class=\"csl-entry\">Herodotus. <i>Herodotus</i>. Edited by A. D Godley. 4 vols. Loeb Classical Library. London; New York: W. Heinemann; G.P. Putnam’s Sons, 1921. http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Hdt. (Godley: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
@@ -847,12 +916,12 @@
         {
             "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/sogdiana-e1116040",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Sogdiana",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "New Pauly, Sogdiana",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -869,12 +938,12 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DS%3Aentry+group%3D16%3Aentry%3Dsogdiana-geo",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "SOGDIANA",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), SOGDIANA",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -902,40 +971,40 @@
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/398/1701-1708",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "6.49.1",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Plin. HN (Mayhoff: PHI) 6.49.1",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/33215",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 33215: Sogdiana",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 33215",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
             "accessURI": "https://www.wikidata.org/wiki/Q486244",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q486244",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "Wikidata Q486244",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikidata",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        67.2834740423863,
-        39.571592379928035
+        66.80773721321128,
+        38.957105573714095
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
