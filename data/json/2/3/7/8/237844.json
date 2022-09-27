@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -7.0,
-        41.0,
-        -6.0,
-        42.0
+        -6.0759719,
+        41.9853991,
+        -6.0759719,
+        41.9853991
     ],
     "connections": [],
     "connectsWith": [],
@@ -24,6 +24,12 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-09-24T16:39:24Z",
@@ -39,38 +45,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -7.0,
-                            41.0
-                        ],
-                        [
-                            -6.0,
-                            41.0
-                        ],
-                        [
-                            -6.0,
-                            42.0
-                        ],
-                        [
-                            -7.0,
-                            42.0
-                        ],
-                        [
-                            -7.0,
-                            41.0
-                        ]
-                    ]
+                    -6.0759719,
+                    41.9853991
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-calzada-de-tera",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/237844/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/237844/osm-location-of-modern-calzada-de-tera",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of modern Calzada de Tera"
             },
             "type": "Feature"
         }
@@ -91,8 +77,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -100,95 +86,73 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T16:39:25Z",
+            "contributors": [],
+            "created": "2022-09-23T15:14:33Z",
             "creators": [
                 {
-                    "name": "E.W. Haley",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -7.0,
-                            41.0
-                        ],
-                        [
-                            -6.0,
-                            41.0
-                        ],
-                        [
-                            -6.0,
-                            42.0
-                        ],
-                        [
-                            -7.0,
-                            42.0
-                        ],
-                        [
-                            -7.0,
-                            41.0
-                        ]
-                    ]
+                    -6.0759719,
+                    41.9853991
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:25:35Z",
-                    "modifiedBy": "admin"
+                    "comment": "added osm location",
+                    "modified": "2022-09-23T15:14:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-09-23T15:14:33Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-calzada-de-tera",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 24 E3 18",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 349244050, version 6, osm:changeset=72396333, 2019-07-18T15:22:00Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/349244050",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 349244050",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=349244050",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/237844/batlas-location"
+            "start": 2000,
+            "title": "OSM location of modern Calzada de Tera",
+            "uri": "https://pleiades.stoa.org/places/237844/osm-location-of-modern-calzada-de-tera"
         }
     ],
     "names": [],
@@ -226,8 +190,8 @@
         }
     ],
     "reprPoint": [
-        -6.5,
-        41.5
+        -6.0759719,
+        41.9853991
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
