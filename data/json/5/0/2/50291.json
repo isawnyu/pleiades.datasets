@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        65.0,
-        20.0,
-        70.0,
-        25.0
+        69.72937989966624,
+        21.05535972743678,
+        71.82092612379108,
+        21.690675815993472
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,25 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-23T01:02:44Z",
@@ -40,48 +50,78 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 5 B2 Syrastrene",
-    "details": "The Barrington Atlas Directory notes: Saurāṣṭra, peninsular region of Gujarat Skt.: Saurāṣṭra",
+    "details": "<p>The Barrington Atlas Directory notes: Saurāṣṭra, peninsular region of Gujarat Skt.: Saurāṣṭra</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            65.0,
-                            20.0
+                            69.72937989966624,
+                            21.690675815993472
                         ],
                         [
-                            70.0,
-                            20.0
+                            69.95780815622595,
+                            21.455109176416272
                         ],
                         [
-                            70.0,
-                            25.0
+                            70.11485258261075,
+                            21.326618282101435
                         ],
                         [
-                            65.0,
-                            25.0
+                            70.34328083917046,
+                            21.183850621751617
                         ],
                         [
-                            65.0,
-                            20.0
+                            70.56457071271268,
+                            21.105328408559217
+                        ],
+                        [
+                            70.75730705418493,
+                            21.06249811045427
+                        ],
+                        [
+                            71.00001207677963,
+                            21.05535972743678
+                        ],
+                        [
+                            71.29982416351424,
+                            21.091051642524235
+                        ],
+                        [
+                            71.4925605049865,
+                            21.12674355761169
+                        ],
+                        [
+                            71.82092612379108,
+                            21.233819302874053
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/50291/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/50291/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 30 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "place type = region; add wikipedia",
+            "modified": "2022-09-27T20:30:51Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2022-09-27T20:29:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2019-05-12T19:55:44Z",
@@ -102,9 +142,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -117,83 +157,122 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-23T01:02:45Z",
+            "created": "2022-08-30T11:16:10Z",
             "creators": [
                 {
                     "name": "M.U. Erdosy",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            65.0,
-                            20.0
+                            69.72937989966624,
+                            21.690675815993472
                         ],
                         [
-                            70.0,
-                            20.0
+                            69.95780815622595,
+                            21.455109176416272
                         ],
                         [
-                            70.0,
-                            25.0
+                            70.11485258261075,
+                            21.326618282101435
                         ],
                         [
-                            65.0,
-                            25.0
+                            70.34328083917046,
+                            21.183850621751617
                         ],
                         [
-                            65.0,
-                            20.0
+                            70.56457071271268,
+                            21.105328408559217
+                        ],
+                        [
+                            70.75730705418493,
+                            21.06249811045427
+                        ],
+                        [
+                            71.00001207677963,
+                            21.05535972743678
+                        ],
+                        [
+                            71.29982416351424,
+                            21.091051642524235
+                        ],
+                        [
+                            71.4925605049865,
+                            21.12674355761169
+                        ],
+                        [
+                            71.82092612379108,
+                            21.233819302874053
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:46:58Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 5 B2 Syrastrene",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211832",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "5 B2 Syrastrene",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/50291/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/50291/batlas-map-label-location"
         }
     ],
     "names": [
@@ -379,33 +458,35 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/region",
         "https://pleiades.stoa.org/vocabularies/place-types/label"
     ],
     "placeTypes": [
+        "region",
         "label"
     ],
     "provenance": "Barrington Atlas: BAtlas 5 B2 Syrastrene",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "5 B2 Syrastrene",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 5 B2 Syrastrene",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#PME-41",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q4N2Z8P5",
+            "citationDetail": "41",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PME 41",
+            "formattedCitation": "<div class=\"csl-entry\">Casson, Lionel. <i>The Periplus maris Erythraei: text with introduction, translation, and commentary</i>. Princeton, NJ: Princeton University Press, 1989.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "PME (Casson)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -413,25 +494,25 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-7.1.2",
             "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "Ptol. 7.1.2, 55",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/483170811",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/l.html#Law-1976",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GZMFCN6X",
+            "citationDetail": "298",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Law 1976, 298",
+            "formattedCitation": "<div class=\"csl-entry\">Law, Bimala Churn. <i>Historical Geography of Ancient India</i>. Delhi: Ess Ess Publications, 1976. http://www.worldcat.org/oclc/483170811.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Law 1976",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:11.11.1",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
             "citationDetail": "11.11.1",
@@ -440,11 +521,22 @@
             "otherIdentifier": "",
             "shortTitle": "Str. (Meineke: Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Saraostus",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Saraostus",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        67.5,
-        22.5
+        70.71643056261146,
+        21.21847095452941
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

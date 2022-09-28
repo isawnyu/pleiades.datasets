@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.0,
-        37.0,
-        22.5,
-        37.5
+        22.22683943705482,
+        37.267131769166326,
+        22.29001412675956,
+        37.33530332698331
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-20T20:44:34Z",
@@ -44,48 +60,73 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 58 C3 Belminatis",
-    "details": "None",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            22.0,
-                            37.0
+                            22.22683943705482,
+                            37.33530332698331
                         ],
                         [
-                            22.5,
-                            37.0
+                            22.240759283939042,
+                            37.32388191415532
                         ],
                         [
-                            22.5,
-                            37.5
+                            22.246826909503852,
+                            37.31745736943958
                         ],
                         [
-                            22.0,
-                            37.5
+                            22.25325145421965,
+                            37.31138974387471
                         ],
                         [
-                            22.0,
-                            37.0
+                            22.259675998935222,
+                            37.3053221183099
+                        ],
+                        [
+                            22.26538670534933,
+                            37.29746989699066
+                        ],
+                        [
+                            22.27181125006507,
+                            37.29068843312399
+                        ],
+                        [
+                            22.276451199026496,
+                            37.28390696925743
+                        ],
+                        [
+                            22.281448067138683,
+                            37.27748242454163
+                        ],
+                        [
+                            22.29001412675956,
+                            37.267131769166326
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570152/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/570152/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 550 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-09-28T00:52:06Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added references",
             "modified": "2014-01-26T20:27:15Z",
@@ -101,9 +142,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -128,87 +169,132 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-09-20T20:44:35Z",
+            "created": "2022-08-30T11:15:57Z",
             "creators": [
-                {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
                 {
                     "name": "G. Reger",
                     "username": null
+                },
+                {
+                    "name": "J. McK. Camp II",
+                    "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            22.0,
-                            37.0
+                            22.22683943705482,
+                            37.33530332698331
                         ],
                         [
-                            22.5,
-                            37.0
+                            22.240759283939042,
+                            37.32388191415532
                         ],
                         [
-                            22.5,
-                            37.5
+                            22.246826909503852,
+                            37.31745736943958
                         ],
                         [
-                            22.0,
-                            37.5
+                            22.25325145421965,
+                            37.31138974387471
                         ],
                         [
-                            22.0,
-                            37.0
+                            22.259675998935222,
+                            37.3053221183099
+                        ],
+                        [
+                            22.26538670534933,
+                            37.29746989699066
+                        ],
+                        [
+                            22.27181125006507,
+                            37.29068843312399
+                        ],
+                        [
+                            22.276451199026496,
+                            37.28390696925743
+                        ],
+                        [
+                            22.281448067138683,
+                            37.27748242454163
+                        ],
+                        [
+                            22.29001412675956,
+                            37.267131769166326
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:26:01Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 C3 Belminatis",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Belminatis",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "58 C3 Belminatis",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570152/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/570152/batlas-map-label-location"
         }
     ],
     "names": [
@@ -430,6 +516,11 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "update",
+                    "modified": "2022-09-28T00:53:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "added reference",
                     "modified": "2014-01-26T20:30:25Z",
                     "modifiedBy": "jbecker"
@@ -453,12 +544,12 @@
                 {
                     "accessURI": "http://latin.packhum.org/loc/914/1/0#1415",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MCDKGDL9",
+                    "citationDetail": "38.34.8",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "Liv. 38.34.8",
+                    "formattedCitation": "<div class=\"csl-entry\">Titus Livius. <i>Titi Livi Ab Urbe Condita</i>. 5 vols. Clarendon: Oxford U.P, 1908. https://latin.packhum.org/loc/914/1/0#0.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Liv. (OCT: PHI)",
                     "type": "http://purl.org/spar/cito/citesAsEvidence"
                 }
             ],
@@ -718,53 +809,53 @@
     "provenance": "Barrington Atlas: BAtlas 58 C3 Belminatis",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "58 C3 Belminatis",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 58 C3 Belminatis",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://latin.packhum.org/loc/914/1/0#1415",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MCDKGDL9",
+            "citationDetail": "38.34.8",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Livy 38.34.8",
+            "formattedCitation": "<div class=\"csl-entry\">Titus Livius. <i>Titi Livi Ab Urbe Condita</i>. 5 vols. Clarendon: Oxford U.P, 1908. https://latin.packhum.org/loc/914/1/0#0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Liv. (OCT: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Pikoulas-1988",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2U4KAH8P",
+            "citationDetail": "115-18 (nn. 70-71)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Pikoulas 1988, 115-18 (nn. 70-71)",
+            "formattedCitation": "<div class=\"csl-entry\">I Pikoulas. <i>‛Η Νότια Μεγαλοπολιτική Χώρα (Ἀπὸ Τὸν 8ᾄ Πχ Ὡς Τὸν 4ᾄ Μχ Αἰώνα)</i>. Athens, 1988.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Pikoulas 1988",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=belemina-geo&highlight=belminatis",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "BELEMÍNA",
             "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
-            "formattedCitation": "Smith 1854 (Perseus), BELEMÍNA",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "http://purl.org/spar/cito/seeAlso"
         }
     ],
     "reprPoint": [
-        22.25,
-        37.25
+        22.2598575956529,
+        37.30258650472958
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
