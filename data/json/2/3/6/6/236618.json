@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -9.0,
-        42.0,
-        -8.0,
-        43.0
+        -9.003379502798055,
+        42.62739101212799,
+        -8.789827147763333,
+        42.784629903677455
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,25 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-24T16:46:56Z",
@@ -40,48 +50,81 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 24 C2 Praestamarci",
-    "details": "The Barrington Atlas Directory notes: Barbanza peninsula",
+    "details": "<p>The Barrington Atlas Directory notes: Barbanza peninsula</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            -9.0,
-                            42.0
+                            -9.003379502798055,
+                            42.62739101212799
                         ],
                         [
-                            -8.0,
-                            42.0
+                            -8.970469037124928,
+                            42.65298804098484
                         ],
                         [
-                            -8.0,
-                            43.0
+                            -8.950722757721053,
+                            42.665420883572494
                         ],
                         [
-                            -9.0,
-                            43.0
+                            -8.94048394617829,
+                            42.674928351433664
                         ],
                         [
-                            -9.0,
-                            42.0
+                            -8.92146901045595,
+                            42.69028656874775
+                        ],
+                        [
+                            -8.906110793141863,
+                            42.700525380290514
+                        ],
+                        [
+                            -8.892946606872613,
+                            42.713689566559765
+                        ],
+                        [
+                            -8.8695436090606,
+                            42.7283164401922
+                        ],
+                        [
+                            -8.856379422791349,
+                            42.74148062646145
+                        ],
+                        [
+                            -8.839558518113847,
+                            42.75391346904928
+                        ],
+                        [
+                            -8.817618207665134,
+                            42.767808999000124
+                        ],
+                        [
+                            -8.789827147763333,
+                            42.784629903677455
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/236618/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/236618/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 330 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-09-28T14:48:41Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2019-04-21T03:37:34Z",
@@ -102,9 +145,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -123,83 +166,130 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-24T16:46:56Z",
+            "created": "2022-08-30T11:15:54Z",
             "creators": [
                 {
                     "name": "E.W. Haley",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            -9.0,
-                            42.0
+                            -9.003379502798055,
+                            42.62739101212799
                         ],
                         [
-                            -8.0,
-                            42.0
+                            -8.970469037124928,
+                            42.65298804098484
                         ],
                         [
-                            -8.0,
-                            43.0
+                            -8.950722757721053,
+                            42.665420883572494
                         ],
                         [
-                            -9.0,
-                            43.0
+                            -8.94048394617829,
+                            42.674928351433664
                         ],
                         [
-                            -9.0,
-                            42.0
+                            -8.92146901045595,
+                            42.69028656874775
+                        ],
+                        [
+                            -8.906110793141863,
+                            42.700525380290514
+                        ],
+                        [
+                            -8.892946606872613,
+                            42.713689566559765
+                        ],
+                        [
+                            -8.8695436090606,
+                            42.7283164401922
+                        ],
+                        [
+                            -8.856379422791349,
+                            42.74148062646145
+                        ],
+                        [
+                            -8.839558518113847,
+                            42.75391346904928
+                        ],
+                        [
+                            -8.817618207665134,
+                            42.767808999000124
+                        ],
+                        [
+                            -8.789827147763333,
+                            42.784629903677455
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:24:16Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 24 C2 Praestamarci",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211871",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "24 C2 Praestamarci",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/236618/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/236618/batlas-map-label-location"
         }
     ],
     "names": [
@@ -258,6 +348,11 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "ctype ethnic",
+                    "modified": "2022-09-28T14:47:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Edited",
                     "modified": "2019-04-21T03:38:50Z",
                     "modifiedBy": "jbecker"
@@ -275,7 +370,7 @@
             ],
             "id": "praestamarci",
             "language": "la",
-            "nameType": "geographic",
+            "nameType": "ethnic",
             "provenance": "Barrington Atlas: BAtlas 24 C2 Praestamarci",
             "references": [
                 {
@@ -309,31 +404,42 @@
     "provenance": "Barrington Atlas: BAtlas 24 C2 Praestamarci",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "24 C2 Praestamarci",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 24 C2 Praestamarci",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/29332628",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Conimbriga-89",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MUWQD6UC",
+            "citationDetail": "89",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Conimbriga 89",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Porto: Conimbriga - Bracara - Lucus - Asturica</i>. Tabula Imperii Romani K29. Madrid: Ministerio de Cultura; Consejo Superior de Investigaciones Científicas (Spain); Comité Español de la Tabula Imperii Romani, 1993. http://www.worldcat.org/oclc/29332628.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Conimbriga",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Celtici_Praestamarici",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Celtici Praestamarici",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        -8.5,
-        42.5
+        -8.897747308375815,
+        42.707679947525484
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

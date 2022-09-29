@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        15.0,
-        37.0,
-        15.5,
-        37.5
+        15.25880450027851,
+        37.09358173765054,
+        15.29170087781108,
+        37.09375192161477
     ],
     "connections": [
         {
@@ -38,7 +38,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/462492"
+        "https://pleiades.stoa.org/places/462492",
+        "https://pleiades.stoa.org/places/462204"
     ],
     "contributors": [
         {
@@ -53,15 +54,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-11-11T15:09:04Z",
@@ -71,7 +88,7 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 47 G4 Epipolai",
+    "description": "A substantial plateau that is roughly triangular in shape and extends to the north and west of Syracuse.",
     "details": "<p>The Barrington Atlas Directory notes: plateau NW Siracusa</p>",
     "features": [
         {
@@ -79,41 +96,34 @@
                 "coordinates": [
                     [
                         [
-                            15.0,
-                            37.0
+                            15.25880450027851,
+                            37.09375192161477
                         ],
                         [
-                            15.5,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.0
+                            15.29170087781108,
+                            37.09358173765054
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "npauly-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/462198/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline of label \"Epipolae\" in map \"Syracusae (8th cent. BC -3rd/4th cents. AD)\" accompanying NPauly \"Syracusae\" article.",
+                "link": "https://pleiades.stoa.org/places/462198/npauly-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Plain",
+                "title": "NPauly Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary",
+            "modified": "2022-09-28T19:13:27Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2020-01-13T02:09:19Z",
@@ -149,110 +159,88 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/npauly-syracusae-map",
+            "accuracy_value": 10.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T15:09:05Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2022-09-28T21:51:18Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Centerline of label \"Epipolae\" in map \"Syracusae (8th cent. BC -3rd/4th cents. AD)\" accompanying NPauly \"Syracusae\" article.",
             "details": "",
-            "end": 300,
+            "end": null,
             "featureType": [
-                "unknown"
+                "plain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/plain"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            15.0,
-                            37.0
+                            15.25880450027851,
+                            37.09375192161477
                         ],
                         [
-                            15.5,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.0
+                            15.29170087781108,
+                            37.09358173765054
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:20:22Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2022-09-28T21:56:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2022-09-28T21:53:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-09-28T21:51:19Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "npauly-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/plain"
             ],
-            "provenance": "Barrington Atlas: BAtlas 47 G4 Epipolai",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e12225440",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+                    "citationDetail": "Syracusae, see first map labeled \"Syracusae (8th cent. BC -3rd/4th cents. AD)\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "New Pauly",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/462198/batlas-location"
+            "start": null,
+            "title": "NPauly Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/462198/npauly-map-label-location"
         }
     ],
     "names": [
@@ -341,10 +329,12 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/plain",
         "https://pleiades.stoa.org/vocabularies/place-types/plateau",
         "https://pleiades.stoa.org/vocabularies/place-types/label"
     ],
     "placeTypes": [
+        "plain",
         "plateau",
         "label"
     ],
@@ -418,8 +408,8 @@
         }
     ],
     "reprPoint": [
-        15.25,
-        37.25
+        15.275252689044795,
+        37.09366682963265
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

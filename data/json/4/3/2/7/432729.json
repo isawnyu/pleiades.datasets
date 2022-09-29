@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.0,
-        41.0,
-        13.5,
-        41.5
+        13.3062491804493,
+        41.30401213965695,
+        13.413324925711663,
+        41.320192474496594
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2017-12-01T18:51:34Z",
@@ -47,41 +63,58 @@
                 "coordinates": [
                     [
                         [
-                            13.0,
-                            41.0
+                            13.3062491804493,
+                            41.320192474496594
                         ],
                         [
-                            13.5,
-                            41.0
+                            13.324808976294719,
+                            41.31495766028371
                         ],
                         [
-                            13.5,
-                            41.5
+                            13.340513418933142,
+                            41.31067463047327
                         ],
                         [
-                            13.0,
-                            41.5
+                            13.353362508364683,
+                            41.30829516946744
                         ],
                         [
-                            13.0,
-                            41.0
+                            13.368115166600887,
+                            41.30686749286383
+                        ],
+                        [
+                            13.383343717038088,
+                            41.304963924059166
+                        ],
+                        [
+                            13.400475836280066,
+                            41.304963924059166
+                        ],
+                        [
+                            13.413324925711663,
+                            41.30401213965695
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/432729/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/432729/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 330 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-09-28T20:06:47Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "PleiadesRefBot cleaned up 15 references: BAtlas, Nissen I, Smith 1854 (Perseus), Varro Men. (Bucheler: PHI), Hor. Carm. (Klingner: PHI), Wikipedia (English), Str. Geog. (Meineke: Perseus), New Pauly, CIL 6, Plin. NH (Mayhoff: PHI), Wikidata, RE, Plin. NH (Mayhoff: PHI), Plin. NH (Mayhoff: PHI), Vitruvius Arch. (Krohn: PHI)",
             "modified": "2017-12-01T18:51:36Z",
@@ -127,9 +160,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -148,83 +181,120 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-11-11T23:23:43Z",
+            "created": "2022-08-30T11:15:58Z",
             "creators": [
                 {
                     "name": "N. Purcell",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            13.0,
-                            41.0
+                            13.3062491804493,
+                            41.320192474496594
                         ],
                         [
-                            13.5,
-                            41.0
+                            13.324808976294719,
+                            41.31495766028371
                         ],
                         [
-                            13.5,
-                            41.5
+                            13.340513418933142,
+                            41.31067463047327
                         ],
                         [
-                            13.0,
-                            41.5
+                            13.353362508364683,
+                            41.30829516946744
                         ],
                         [
-                            13.0,
-                            41.0
+                            13.368115166600887,
+                            41.30686749286383
+                        ],
+                        [
+                            13.383343717038088,
+                            41.304963924059166
+                        ],
+                        [
+                            13.400475836280066,
+                            41.304963924059166
+                        ],
+                        [
+                            13.413324925711663,
+                            41.30401213965695
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:59:26Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 44 D3 Caecubus Ager",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211645",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "44 D3 Caecubus",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/432729/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/432729/batlas-map-label-location"
         }
     ],
     "names": [
@@ -459,12 +529,12 @@
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:5.3.6",
             "alternateURI": "",
-            "bibliographicURI": "http://data.perseus.org/catalog/urn:cts:greekLit:tlg0099.tlg001",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
             "citationDetail": "5.3.6",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "<div>Strabo, Geography 5.3.6. Digital version in Perseus Digital Library online: A. Meineke (ed.), <i>Strabonis Geographica: recognovit Augugtus Meineke.</i>, Lipsiae, 1877.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "Str. Geog. (Meineke: Perseus)",
+            "shortTitle": "Str. (Meineke: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
@@ -492,24 +562,24 @@
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/1041/815-821",
             "alternateURI": "",
-            "bibliographicURI": "http://data.perseus.org/catalog/urn:cts:latinLit:phi0978.phi001",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
             "citationDetail": "14.61.4",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "<div>Pliny, Natural History 14.61.4. Digital version in the Packard Humanities Institute Latin Texts online: K.F.T. Mayhoff (ed.), <i>Naturalis Historiae</i>, Bibliotheca scriptorum Graecorum et Romanorum Teubneriana, Lipsiae, 1906–1967.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "Plin. NH (Mayhoff: PHI)",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "https://www.wikidata.org/wiki/Q34486509",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/BCQIKDKS",
-            "citationDetail": "Q34486509",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationDetail": "Q34486509: Caecubus ager",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div><i>Wikidata: the free knowledge base that anyone can edit</i>, 2014. See: Q34486509.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
             "accessURI": "https://de.wikisource.org/wiki/RE:Caecubus_ager",
@@ -525,40 +595,40 @@
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/195/243-249",
             "alternateURI": "",
-            "bibliographicURI": "http://data.perseus.org/catalog/urn:cts:latinLit:phi0978.phi001",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
             "citationDetail": "2.209.4",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "<div>Pliny, Natural History 2.209.4. Digital version in the Packard Humanities Institute Latin Texts online: K.F.T. Mayhoff (ed.), <i>Naturalis Historiae</i>, Bibliotheca scriptorum Graecorum et Romanorum Teubneriana, Lipsiae, 1906–1967.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": "",
-            "shortTitle": "Plin. NH (Mayhoff: PHI)",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/1038/2973-2979",
             "alternateURI": "",
-            "bibliographicURI": "http://data.perseus.org/catalog/urn:cts:latinLit:phi0978.phi001",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
             "citationDetail": "14.52.1",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "<div>Pliny, Natural History 14.52.1. Digital version in the Packard Humanities Institute Latin Texts online: K.F.T. Mayhoff (ed.), <i>Naturalis Historiae</i>, Bibliotheca scriptorum Graecorum et Romanorum Teubneriana, Lipsiae, 1906–1967.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": "",
-            "shortTitle": "Plin. NH (Mayhoff: PHI)",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://latin.packhum.org/loc/1056/1/116/485-491",
             "alternateURI": "",
-            "bibliographicURI": "http://data.perseus.org/catalog/urn:cts:latinLit:phi1056.phi001",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AD4MK7K",
             "citationDetail": "8.3.12.9",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "<div>Vitruvius, On Architecture 8.3.12.9. Digital version in the Packard Humanities Institute Latin Texts online: F. Krohn (ed.), <i>Vitruvii De architectura libri decem</i>, Leipzig, 1912.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Vitruvius Pollio, Marcus. <i>Vitruvii De architectura libri decem</i>. Edited by F Krohn. Leipzig: Teubner, 1912.</div>",
             "otherIdentifier": "",
-            "shortTitle": "Vitruvius Arch. (Krohn: PHI)",
+            "shortTitle": "Vitruvius, Arch. (Krohn: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
     "reprPoint": [
-        13.25,
-        41.25
+        13.359356961297685,
+        41.30935082458727
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
