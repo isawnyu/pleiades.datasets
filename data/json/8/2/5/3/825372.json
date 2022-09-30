@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        40.0,
-        47.0,
-        41.0,
-        48.0
+        40.214238102529805,
+        47.42846889230049,
+        41.67046823809795,
+        47.62834361679023
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,14 +14,10 @@
             "username": null
         },
         {
-            "name": "Diane Braund",
-            "username": null
-        },
-        {
             "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -30,10 +26,30 @@
             "username": "thomase"
         },
         {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "name": "Diane Braund",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         }
     ],
     "created": "2010-10-04T18:40:44Z",
@@ -51,41 +67,62 @@
                 "coordinates": [
                     [
                         [
-                            40.0,
-                            47.0
+                            40.214238102529805,
+                            47.42846889230049
                         ],
                         [
-                            41.0,
-                            47.0
+                            40.41411282701955,
+                            47.504611644487056
                         ],
                         [
-                            41.0,
-                            48.0
+                            40.56830190019747,
+                            47.550297295799
                         ],
                         [
-                            40.0,
-                            48.0
+                            40.7339123862032,
+                            47.582657965478234
                         ],
                         [
-                            40.0,
-                            47.0
+                            40.89571573459966,
+                            47.60930792874359
+                        ],
+                        [
+                            41.07465120223816,
+                            47.62834361679023
+                        ],
+                        [
+                            41.25549023868126,
+                            47.62834361679023
+                        ],
+                        [
+                            41.436329275124365,
+                            47.62834361679023
+                        ],
+                        [
+                            41.67046823809795,
+                            47.61692220396225
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/825372/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/825372/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 330 BC - AD 300",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2022-09-30T02:30:22Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "reference",
             "modified": "2018-04-10T03:18:41Z",
@@ -111,9 +148,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -132,87 +169,124 @@
             ],
             "contributors": [
                 {
-                    "name": "Diane Braund",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-10-04T18:40:45Z",
+            "created": "2022-08-30T11:14:44Z",
             "creators": [
                 {
                     "name": "David Braund",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            40.0,
-                            47.0
+                            40.214238102529805,
+                            47.42846889230049
                         ],
                         [
-                            41.0,
-                            47.0
+                            40.41411282701955,
+                            47.504611644487056
                         ],
                         [
-                            41.0,
-                            48.0
+                            40.56830190019747,
+                            47.550297295799
                         ],
                         [
-                            40.0,
-                            48.0
+                            40.7339123862032,
+                            47.582657965478234
                         ],
                         [
-                            40.0,
-                            47.0
+                            40.89571573459966,
+                            47.60930792874359
+                        ],
+                        [
+                            41.07465120223816,
+                            47.62834361679023
+                        ],
+                        [
+                            41.25549023868126,
+                            47.62834361679023
+                        ],
+                        [
+                            41.436329275124365,
+                            47.62834361679023
+                        ],
+                        [
+                            41.67046823809795,
+                            47.61692220396225
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:39:03Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 84 F1 Satarchae",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Satarchae",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "84 F1 Satarchae",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/825372/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/825372/batlas-map-label-location"
         }
     ],
     "names": [
@@ -301,36 +375,36 @@
     "provenance": "Barrington Atlas: BAtlas 84 F1 Satarchae",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "84 F1 Satarchae",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 84 F1 Satarchae",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://latin.packhum.org/loc/929/1/0",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Mela-2.3",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Mela 2.3",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QWWQR674",
+            "citationDetail": "2.3",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Mela, Pomponius. <i>De chorographia libri tres</i>. Edited by Gunnar Ranstrand. Studia Graeca et Latina Gothoburgensia 28. Göteborg; Stockholm: Published by the Institute of Classical Studies of the University of Göteborg] ; Almqvist &amp; Wiksell [distributor], 1971. http://latin.packhum.org/loc/929/1/0.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "shortTitle": "Mela (Ranstrand: PHI)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/0#384",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "6.22.6",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Plin. HN 6.22.6",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
@@ -346,8 +420,8 @@
         }
     ],
     "reprPoint": [
-        40.5,
-        47.5
+        40.933746128995914,
+        47.581406640675006
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
