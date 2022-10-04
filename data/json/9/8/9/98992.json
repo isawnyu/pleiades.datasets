@@ -106,11 +106,11 @@
             },
             "id": "location-of-kalkriese-archaeoloigcal-area",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/98992/location-of-kalkriese-archaeoloigcal-area",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 30 BC - AD 300",
-                "title": "location of Kalkriese archaeoloigcal area"
+                "snippet": "Archaeological-site; 30 BC - AD 300",
+                "title": "OSM location of Varusschlacht im Osnabrücker Land - Museum und Park Kalkriese"
             },
             "type": "Feature"
         }
@@ -245,7 +245,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -266,16 +266,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "settlement",
-                ""
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
@@ -285,6 +283,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "update title, summary, place type",
+                    "modified": "2022-10-03T21:28:50Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "added location",
                     "modified": "2013-07-21T13:10:28Z",
@@ -301,8 +304,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "provenance": "OpenStreetMap (Way 92080385, version 4, osm:changeset=16260429, 2013-05-24T04:57:30Z)",
             "references": [
@@ -320,16 +322,18 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "location of Kalkriese archaeoloigcal area",
+            "title": "OSM location of Varusschlacht im Osnabrücker Land - Museum und Park Kalkriese",
             "uri": "https://pleiades.stoa.org/places/98992/location-of-kalkriese-archaeoloigcal-area"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 10 E4 Kalkriese",
     "references": [
