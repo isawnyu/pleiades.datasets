@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.0,
-        44.0,
-        34.0,
-        45.0
+        33.66441659225467,
+        44.620058624389344,
+        34.015981955866096,
+        44.76282628473916
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,14 +14,36 @@
             "username": null
         },
         {
-            "name": "Diane Braund",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "name": "Diane Braund",
+            "username": null
         },
         {
             "homepage": null,
@@ -45,41 +67,62 @@
                 "coordinates": [
                     [
                         [
-                            33.0,
-                            44.0
+                            33.66441659225467,
+                            44.76282628473916
                         ],
                         [
-                            34.0,
-                            44.0
+                            33.72509284790334,
+                            44.744980327195435
                         ],
                         [
-                            34.0,
-                            45.0
+                            33.753646379973304,
+                            44.72891896540608
                         ],
                         [
-                            33.0,
-                            45.0
+                            33.79647667807825,
+                            44.70928841210798
                         ],
                         [
-                            33.0,
-                            44.0
+                            33.83573778467445,
+                            44.693227050318626
+                        ],
+                        [
+                            33.86786050825316,
+                            44.678950284283644
+                        ],
+                        [
+                            33.90890621060373,
+                            44.66110432673992
+                        ],
+                        [
+                            33.95352110446305,
+                            44.64861215645931
+                        ],
+                        [
+                            34.015981955866096,
+                            44.620058624389344
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/226793/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/226793/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 750 BC - AD 640",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update Hind 1990, add place type = peninsula",
+            "modified": "2022-10-05T14:49:30Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T03:19:14Z",
@@ -90,9 +133,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -129,87 +172,124 @@
             ],
             "contributors": [
                 {
-                    "name": "Diane Braund",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-09-23T19:15:32Z",
+            "created": "2022-08-30T11:16:42Z",
             "creators": [
                 {
                     "name": "David Braund",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            33.0,
-                            44.0
+                            33.66441659225467,
+                            44.76282628473916
                         ],
                         [
-                            34.0,
-                            44.0
+                            33.72509284790334,
+                            44.744980327195435
                         ],
                         [
-                            34.0,
-                            45.0
+                            33.753646379973304,
+                            44.72891896540608
                         ],
                         [
-                            33.0,
-                            45.0
+                            33.79647667807825,
+                            44.70928841210798
                         ],
                         [
-                            33.0,
-                            44.0
+                            33.83573778467445,
+                            44.693227050318626
+                        ],
+                        [
+                            33.86786050825316,
+                            44.678950284283644
+                        ],
+                        [
+                            33.90890621060373,
+                            44.66110432673992
+                        ],
+                        [
+                            33.95352110446305,
+                            44.64861215645931
+                        ],
+                        [
+                            34.015981955866096,
+                            44.620058624389344
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:19:15Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 23 G4 Tracheia Chersonesos",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Tracheia Chersonesos",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "23 G4 Tracheia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/226793/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/226793/batlas-map-label-location"
         }
     ],
     "names": [
@@ -301,9 +381,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/peninsula",
         "https://pleiades.stoa.org/vocabularies/place-types/label"
     ],
     "placeTypes": [
+        "peninsula",
         "label"
     ],
     "provenance": "Barrington Atlas: BAtlas 23 G4 Tracheia Chersonesos",
@@ -322,18 +404,18 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/h.html#Hind-1990",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/G6XX2UMU",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Hind 1990",
+            "formattedCitation": "<div class=\"csl-entry\">Hind, J.G.F. “Herodotus’ Geography of Skythia: The Rivers and the ‘Rugged Peninsula.’” In <i>Prichernomor’ye VII-V vv. Do n.e.: Pis’mennye Istochniki i Arkheologiya</i>, edited by O.D. Lordkipanidze, 127–39. Tbilisi, 1990.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Hind 1990",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        33.5,
-        44.5
+        33.840503346441565,
+        44.69248649724365
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
