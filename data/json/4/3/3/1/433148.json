@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.600275,
-        41.413173,
-        14.600275,
-        41.413173
+        14.6006871,
+        41.4308541,
+        14.6015129,
+        41.4312856
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,54 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.600275,
-                    41.413173
+                    [
+                        14.6009039,
+                        41.4312856
+                    ],
+                    [
+                        14.6006871,
+                        41.4310847
+                    ],
+                    [
+                        14.6009905,
+                        41.4308541
+                    ],
+                    [
+                        14.601273,
+                        41.4309086
+                    ],
+                    [
+                        14.6015129,
+                        41.4309549
+                    ],
+                    [
+                        14.601433,
+                        41.4312523
+                    ],
+                    [
+                        14.6009039,
+                        41.4312856
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-6123",
+            "id": "location-of-sanctuary",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/433148/darmc-location-6123",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/433148/location-of-sanctuary",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "DARMC location 6123"
+                "snippet": "Sanctuary; 550 BC - 30 BC",
+                "title": "OSM location of San Pietro di Cantoni"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-10-07T22:50:43Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2016-12-27T13:39:06Z",
@@ -101,9 +132,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -122,65 +153,131 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-01-21T23:06:32Z",
+            "created": "2014-02-22T15:29:41Z",
             "creators": [
                 {
-                    "name": "N. Purcell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 6123",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "sanctuary"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
             "geometry": {
                 "coordinates": [
-                    14.600275,
-                    41.413173
+                    [
+                        14.6009039,
+                        41.4312856
+                    ],
+                    [
+                        14.6006871,
+                        41.4310847
+                    ],
+                    [
+                        14.6009905,
+                        41.4308541
+                    ],
+                    [
+                        14.601273,
+                        41.4309086
+                    ],
+                    [
+                        14.6015129,
+                        41.4309549
+                    ],
+                    [
+                        14.601433,
+                        41.4312523
+                    ],
+                    [
+                        14.6009039,
+                        41.4312856
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:04:30Z",
-                    "modifiedBy": "admin"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-10-07T22:49:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2019-02-16T02:44:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-06-30T15:14:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2014-03-26T23:42:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-02-22T15:30:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-02-22T15:29:44Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-6123",
+            "id": "location-of-sanctuary",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
-            "provenance": "DARMC OBJECTID: 6123",
+            "provenance": "OpenStreetMap (Way 194070407, version 5, osm:changeset=112043723, 2021-10-03T17:58:03Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/194070407",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "6123",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 194070407",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6123.",
+                    "formattedCitation": "osm:way=194070407",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://it.wikipedia.org/wiki/Saepinum",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Saepinum",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Saepinum.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 6123",
-            "uri": "https://pleiades.stoa.org/places/433148/darmc-location-6123"
+            "title": "OSM location of San Pietro di Cantoni",
+            "uri": "https://pleiades.stoa.org/places/433148/location-of-sanctuary"
         }
     ],
     "names": [],
@@ -226,11 +323,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "6123",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        14.600275,
-        41.413173
+        14.60112066918464,
+        41.43108146327606
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
