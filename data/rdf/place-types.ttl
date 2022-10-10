@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2022/10/02 06:47:32.638000 GMT-4
+# Date: 2022/10/09 06:47:33.352629 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1003
+# Triple count: 1008
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -661,6 +661,12 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "odeon"@en;
     skos:scopeNote "An odeon as defined by the Getty Art and Architecture Thesaurus: Buildings or other roofed structures used for musical performances."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/pagus> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/pagus>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "pagus"@en;
+    skos:scopeNote "A rural district in the Roman world including scattered hamlets or villages that can be referred to as vici. Alternatively, pagus can be construed as a fortified center in such a district."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/palace> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/palace>,
