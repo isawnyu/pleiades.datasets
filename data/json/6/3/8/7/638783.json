@@ -1,13 +1,87 @@
 {
     "@type": "Place",
     "bbox": [
-        30.2819,
-        38.055289,
-        30.2819,
-        38.055289
+        30.2769782,
+        38.0751225,
+        30.2769782,
+        38.0751225
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/638759",
+            "contributors": [],
+            "created": "2022-10-10T19:17:27Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-10-10T19:17:27Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "aporidos-come",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Aporidos Come",
+            "uri": "https://pleiades.stoa.org/places/638783/aporidos-come"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/638784",
+            "contributors": [],
+            "created": "2022-10-10T19:17:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-10-10T19:17:57Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "aulutrene-2018aulocrene2019-lake",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Aulutrene/‘Aulocrene’ (lake)",
+            "uri": "https://pleiades.stoa.org/places/638783/aulutrene-2018aulocrene2019-lake"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/638759",
+        "https://pleiades.stoa.org/places/638784"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -36,7 +110,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2011-01-10T22:54:39Z",
+    "created": "2022-10-07T15:12:59Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -47,29 +121,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 65 D1 Aulutrena",
+    "description": "A Roman castellum, located adjacent to the ancient settlement of Aporidos Come and the Aulutrene lake (modern Çapalı/Karakuyu in Turkey's Afyonkarahisar province). An initial (temporary?) camp on/near the location may have been established as early as the second century BC; however, archaeological and epigraphic evidence point to a small, stone-built installation with associated garrison, possibly during the Severan period that was later expanded in Byzantine times. The stone structure, at the modern town of Eldere, was heavily quarried and built over by the 1980s.",
     "details": "<p>The Barrington Atlas Directory notes: Eldere</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    30.2819,
-                    38.055289
+                    30.2769782,
+                    38.0751225
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-7160",
+            "id": "osm-location-of-modern-eldere",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/638783/darmc-location-7160",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/638783/osm-location-of-modern-eldere",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 7160"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location of modern Eldere"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-10-10T20:31:26Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary; added Christol 1987",
+            "modified": "2022-10-10T20:19:11Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2022-09-07T14:37:44Z",
@@ -110,95 +194,104 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:41:22Z",
+            "contributors": [],
+            "created": "2022-10-10T20:20:43Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 7160",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    30.2819,
-                    38.055289
+                    30.2769782,
+                    38.0751225
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:25:46Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-10-10T20:29:37Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:41:22Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-10-10T20:20:43Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-7160",
+            "id": "osm-location-of-modern-eldere",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 7160",
+            "provenance": "OpenStreetMap (Node 2311652432, version 3, osm:changeset=115307070, 2021-12-23T17:14:25Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2311652432",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7160",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2311652432",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7160.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=2311652432",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NINT7Z97",
+                    "citationDetail": "pages 33-43",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Christol, Michel, and Thomas Drew-Bear. <i>Un Castellum Romain Près d’Apamée de Phrygie</i>. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1987.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Christol 1987",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XV46GXUG",
+                    "citationDetail": "pages 69-78",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Christol, M., and T. Drew-Bear. “Inscriptions Militaires d’Aulutrene et d’Apamée de Phrygie.” In <i>La Hiérarchie (Rangordnung) de l’armée Romaine Sous Le Haut-Empire: Actes Du Congrès de Lyon, 15-18 Septembre 1994, Université de Lyon III, Centre d’Etudes Romaines et Gallo-Romaines</i>, 57–92, 1995.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Christol 1995",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 7160",
-            "uri": "https://pleiades.stoa.org/places/638783/darmc-location-7160"
+            "start": 2000,
+            "title": "OSM Location of modern Eldere",
+            "uri": "https://pleiades.stoa.org/places/638783/osm-location-of-modern-eldere"
         }
     ],
     "names": [
@@ -272,10 +365,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "fort-2"
+        "fort-2",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 65 D1 Aulutrena",
     "references": [
@@ -311,11 +406,33 @@
             "otherIdentifier": "",
             "shortTitle": "vici.org",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NINT7Z97",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Christol, Michel, and Thomas Drew-Bear. <i>Un Castellum Romain Près d’Apamée de Phrygie</i>. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 1987.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Christol 1987",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7160",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        30.2819,
-        38.055289
+        30.2769782,
+        38.0751225
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
