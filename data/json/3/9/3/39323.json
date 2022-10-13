@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        45.0,
-        15.0,
-        50.0,
-        20.0
+        45.15,
+        19.783,
+        45.1502063,
+        19.7836359
     ],
     "connections": [],
     "connectsWith": [],
@@ -18,6 +18,12 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jérémie Schiettecatte",
+            "uri": "https://pleiades.stoa.org/author/jschiettecatte",
+            "username": "jschiettecatte"
         },
         {
             "homepage": null,
@@ -45,38 +51,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            20.0
-                        ],
-                        [
-                            45.0,
-                            20.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ]
-                    ]
+                    45.15,
+                    19.783
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "gps-location-of-qaryat-al-faw",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39323/batlas-location",
-                "location_precision": "rough",
+                "description": "Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/39323/gps-location-of-qaryat-al-faw",
+                "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "title": "GPS location of Qaryat al-Faw"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.1502063,
+                    19.7836359
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-qaryat-al-faw",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/39323/osm-location-of-qaryat-al-faw",
+                "location_precision": "precise",
+                "snippet": "Settlement, ; 140 BC - AD 640",
+                "title": "OSM location of Qaryat al Fāw"
             },
             "type": "Feature"
         }
@@ -97,9 +101,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-handheld-gps",
+            "accuracy_value": 15.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -112,83 +116,144 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-22T22:04:15Z",
+            "created": "2022-10-12T21:03:43Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jérémie Schiettecatte",
+                    "uri": "https://pleiades.stoa.org/author/jschiettecatte",
+                    "username": "jschiettecatte"
                 }
             ],
-            "description": "",
+            "description": "Dates after BAtlas.",
             "details": "",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            20.0
-                        ],
-                        [
-                            45.0,
-                            20.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ]
-                    ]
+                    45.15,
+                    19.783
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:38:20Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-10-12T21:03:44Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "gps-location-of-qaryat-al-faw",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -30,
+            "title": "GPS location of Qaryat al-Faw",
+            "uri": "https://pleiades.stoa.org/places/39323/gps-location-of-qaryat-al-faw"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-middle-east"
+                }
+            ],
+            "contributors": [],
+            "created": "2014-01-25T18:39:08Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "\r\n<p>Capital of the&nbsp;<a title=\"Kindah\" href=\"http://en.wikipedia.org/wiki/Kindah\">Kindah</a>&nbsp;Kingdom from the first century BC to the fourth century AD.</p>\r\n",
+            "end": 640,
+            "featureType": [
+                "settlement",
+                ""
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
+            ],
+            "geometry": {
+                "coordinates": [
+                    45.1502063,
+                    19.7836359
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "added location",
+                    "modified": "2014-01-25T18:40:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-01-25T18:39:11Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-qaryat-al-faw",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 C2 Cariati",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1236412001, version 2, osm:changeset=20198208, 2014-01-25T18:38:42Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1236412001",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1236412001",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1236412001",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Ancient_towns_in_Saudi_Arabia",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "citationDetail": "Ancient towns in Saudi Arabia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Ancient towns in Saudi Arabia.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39323/batlas-location"
+            "start": -140,
+            "title": "OSM location of Qaryat al Fāw",
+            "uri": "https://pleiades.stoa.org/places/39323/osm-location-of-qaryat-al-faw"
         }
     ],
     "names": [
@@ -724,8 +789,8 @@
         }
     ],
     "reprPoint": [
-        47.5,
-        17.5
+        45.15010315,
+        19.78331795
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

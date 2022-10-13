@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        20.0,
-        39.0,
-        20.5,
-        39.5
+        20.1110548,
+        39.3617124,
+        20.1110548,
+        39.3617124
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,38 +45,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.0,
-                            39.0
-                        ],
-                        [
-                            20.5,
-                            39.0
-                        ],
-                        [
-                            20.5,
-                            39.5
-                        ],
-                        [
-                            20.0,
-                            39.5
-                        ],
-                        [
-                            20.0,
-                            39.0
-                        ]
-                    ]
+                    20.1110548,
+                    39.3617124
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-cape-asprokavos",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/530970/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/530970/osm-location-of-cape-asprokavos",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "OSM location of Cape Asprokavos"
             },
             "type": "Feature"
         }
@@ -102,98 +82,82 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-06-24T13:47:36Z",
+            "contributors": [],
+            "created": "2022-10-12T00:37:21Z",
             "creators": [
                 {
-                    "name": "W.M. Murray",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.0,
-                            39.0
-                        ],
-                        [
-                            20.5,
-                            39.0
-                        ],
-                        [
-                            20.5,
-                            39.5
-                        ],
-                        [
-                            20.0,
-                            39.5
-                        ],
-                        [
-                            20.0,
-                            39.0
-                        ]
-                    ]
+                    20.1110548,
+                    39.3617124
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:00:34Z",
-                    "modifiedBy": "admin"
+                    "comment": "added osm location",
+                    "modified": "2022-10-12T00:37:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-10-12T00:37:21Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-cape-asprokavos",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 54 B3 Kynos Kephale? Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1421250693, version 3, osm:changeset=113935625, 2021-11-18T09:33:23Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1421250693",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1421250693",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1421250693",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": 300,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/530970/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Cape Asprokavos",
+            "uri": "https://pleiades.stoa.org/places/530970/osm-location-of-cape-asprokavos"
         }
     ],
     "names": [
@@ -288,8 +252,8 @@
         }
     ],
     "reprPoint": [
-        20.25,
-        39.25
+        20.1110548,
+        39.3617124
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -6,13 +6,66 @@
         25.567634813591212,
         41.98451607980934
     ],
-    "connections": [],
-    "connectsWith": [],
-    "contributors": [
+    "connections": [
         {
-            "name": "Richard Talbert",
-            "username": null
-        },
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/501592",
+            "contributors": [],
+            "created": "2022-10-12T15:02:38Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2022-10-12T15:02:40Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "rhodope-mountain",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://latin.packhum.org/loc/978/1/0",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "4.41.2",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Rhodope (mountain)",
+            "uri": "https://pleiades.stoa.org/places/216760/rhodope-mountain"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/501592"
+    ],
+    "contributors": [
         {
             "name": "R. Talbert",
             "username": null
@@ -31,6 +84,16 @@
         },
         {
             "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
@@ -43,7 +106,7 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 22 B7 Celaletae Minores",
+    "description": "Celaletae Minores, an ancient Thracian tribe that settled in the Rhodope mountains.",
     "details": "The Barrington Atlas Directory notes: BUL",
     "features": [
         {
@@ -74,6 +137,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary, references, place type = people",
+            "modified": "2022-10-12T15:01:35Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T03:10:09Z",
@@ -251,36 +319,58 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/labeled feature",
-        "https://pleiades.stoa.org/vocabularies/place-types/label"
+        "https://pleiades.stoa.org/vocabularies/place-types/label",
+        "https://pleiades.stoa.org/vocabularies/place-types/people"
     ],
     "placeTypes": [
-        "labeled feature",
-        "label"
+        "label",
+        "people"
     ],
     "provenance": "Barrington Atlas: BAtlas 22 B7 Celaletae Minores",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "22 B7 Celaletae Minores",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 22 B7 Celaletae Minores",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Thrake-3",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Thrake 3",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Thrake 3",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KRW4GEX4",
+            "citationDetail": "85",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Bačić, Jacques. <i>Red Sea--Black Russia: Prolegomena to the History of North Central Eurasia in Antiquity and the Middle Ages</i>. East European Monographs, 1995.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Bačić 1995",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://latin.packhum.org/loc/978/1/288/644-657",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "4.41.2",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
     "reprPoint": [
