@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         13.422732,
-        42.7752864,
-        15.885196,
+        43.326764,
+        13.422732,
         43.326764
     ],
     "connections": [
@@ -11,26 +11,51 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/1004",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:01:11Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
-            "history": [],
+            "history": [
+                {
+                    "comment": "ctype, add reference",
+                    "modified": "2022-10-17T00:25:22Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
             "id": "1004",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "615",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "(H)Adriaticum/Superum Mare",
@@ -73,7 +98,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 42 unlocated Flosis fl.",
-    "details": "The Barrington Atlas Directory notes: flows into Adriatic",
+    "details": "<p>The Barrington Atlas Directory notes: flows into Adriatic</p>",
     "features": [
         {
             "geometry": null,
@@ -89,6 +114,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2022-10-17T00:24:50Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added cnxn",
             "modified": "2015-09-20T05:49:23Z",
@@ -248,31 +278,31 @@
     "provenance": "Barrington Atlas: BAtlas 42 Flosis fl.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "42 Flosis fl.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 42 Flosis fl.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/i.html#ItMiller-389",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "389",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "ItMiller 389",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "ItMiller",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        14.653964,
-        43.0510252
+        13.422732,
+        43.326764
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
