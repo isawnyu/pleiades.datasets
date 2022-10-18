@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        8.875849,
-        38.902691,
-        8.875849,
-        38.902691
+        8.8903613,
+        38.8981891,
+        8.8903613,
+        38.8981891
     ],
     "connections": [
         {
@@ -89,23 +89,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    8.875849,
-                    38.902691
+                    8.8903613,
+                    38.8981891
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-19655",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/471894/darmc-location-19655",
+                "description": "Representative location of the archaeological site of Bithia based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/471894/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "DARMC location 19655"
+                "snippet": "Station; 30 BC - AD 300",
+                "title": "OSM location of Bithia"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-10-17T23:13:32Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added topostext",
             "modified": "2021-09-26T21:27:56Z",
@@ -156,30 +161,12 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -187,72 +174,74 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:45:37Z",
+            "contributors": [],
+            "created": "2014-12-27T20:28:30Z",
             "creators": [
                 {
-                    "name": "S.L. Dyson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 19655",
+            "description": "Representative location of the archaeological site of Bithia based on OpenStreetMap.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "station"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
             "geometry": {
                 "coordinates": [
-                    8.875849,
-                    38.902691
+                    8.8903613,
+                    38.8981891
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:26:19Z",
-                    "modifiedBy": "admin"
+                    "comment": "Edited",
+                    "modified": "2017-01-02T13:59:30Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:45:38Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-12-27T20:29:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-12-27T20:28:34Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-19655",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
-            "provenance": "DARMC OBJECTID: 19655",
+            "provenance": "OpenStreetMap (Node 1805890001, version 1, osm:changeset=12054603, 2012-06-29T09:42:07Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1805890001",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19655",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1805890001",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19655.",
+                    "formattedCitation": "osm:node=1805890001",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 19655",
-            "uri": "https://pleiades.stoa.org/places/471894/darmc-location-19655"
+            "start": -30,
+            "title": "OSM location of Bithia",
+            "uri": "https://pleiades.stoa.org/places/471894/osm-location"
         }
     ],
     "names": [
@@ -439,11 +428,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "19655",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        8.875849,
-        38.902691
+        8.8903613,
+        38.8981891
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.5,
-        41.0,
-        23.0,
-        41.5
+        22.78905649050921,
+        41.23742665899891,
+        23.075543595611236,
+        41.27073911308054
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,6 +21,28 @@
         },
         {
             "homepage": null,
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
@@ -33,7 +55,7 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 50 C2 Parorbelia",
+    "description": "Parorbelia, a district of Macedonia according to Strabo.",
     "details": "The Barrington Atlas Directory notes: upper plain of R. Strymon",
     "features": [
         {
@@ -41,41 +63,66 @@
                 "coordinates": [
                     [
                         [
-                            22.5,
-                            41.0
+                            22.78905649050921,
+                            41.267883759873655
                         ],
                         [
-                            23.0,
-                            41.0
+                            22.833790357418934,
+                            41.27073911308054
                         ],
                         [
-                            23.0,
-                            41.5
+                            22.86615102709817,
+                            41.26978732867826
                         ],
                         [
-                            22.5,
-                            41.5
+                            22.893752774765744,
+                            41.26978732867826
                         ],
                         [
-                            22.5,
-                            41.0
+                            22.923258091238097,
+                            41.26598019106888
+                        ],
+                        [
+                            22.953715192112668,
+                            41.263124837861994
+                        ],
+                        [
+                            22.985124077389685,
+                            41.256462347045556
+                        ],
+                        [
+                            23.007015118643324,
+                            41.25360699383867
+                        ],
+                        [
+                            23.03842400392034,
+                            41.24789628742462
+                        ],
+                        [
+                            23.075543595611236,
+                            41.23742665899891
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/491684/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/491684/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; 330 BC - AD 640",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary, references",
+            "modified": "2022-10-17T23:48:13Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T05:35:59Z",
@@ -91,9 +138,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -118,83 +165,128 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-06-24T10:28:35Z",
+            "created": "2022-08-30T11:17:54Z",
             "creators": [
                 {
                     "name": "E.N. Borza",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            22.5,
-                            41.0
+                            22.78905649050921,
+                            41.267883759873655
                         ],
                         [
-                            23.0,
-                            41.0
+                            22.833790357418934,
+                            41.27073911308054
                         ],
                         [
-                            23.0,
-                            41.5
+                            22.86615102709817,
+                            41.26978732867826
                         ],
                         [
-                            22.5,
-                            41.5
+                            22.893752774765744,
+                            41.26978732867826
                         ],
                         [
-                            22.5,
-                            41.0
+                            22.923258091238097,
+                            41.26598019106888
+                        ],
+                        [
+                            22.953715192112668,
+                            41.263124837861994
+                        ],
+                        [
+                            22.985124077389685,
+                            41.256462347045556
+                        ],
+                        [
+                            23.007015118643324,
+                            41.25360699383867
+                        ],
+                        [
+                            23.03842400392034,
+                            41.24789628742462
+                        ],
+                        [
+                            23.075543595611236,
+                            41.23742665899891
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:35:59Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 50 C2 Parorbelia",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "Parorbelia",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "50 C2 Parorbelia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/491684/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/491684/batlas-map-label-location"
         }
     ],
     "names": [
@@ -270,39 +362,52 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/district",
         "https://pleiades.stoa.org/vocabularies/place-types/label"
     ],
     "placeTypes": [
+        "district",
         "label"
     ],
     "provenance": "Barrington Atlas: BAtlas 50 C2 Parorbelia",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "50 C2 Parorbelia",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 50 C2 Parorbelia",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Papazoglou-1988",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FVWQ2MGN",
+            "citationDetail": "346-48",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Papazoglou 1988, 346-48",
+            "formattedCitation": "<div class=\"csl-entry\">Papazoglou, Fanoula. <i>Les Villes de Macédoine à l’époque Romaine</i>. Bulletin de Correspondance Hellénique, Supplément 16. Paris: Diffusion de Boccard, 1988.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Papazoglou 1988",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:7.fragments",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "citationDetail": "7.fragments",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Str. (Meineke: Perseus)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
     "reprPoint": [
-        22.75,
-        41.25
+        22.93315488107781,
+        41.26108140060851
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

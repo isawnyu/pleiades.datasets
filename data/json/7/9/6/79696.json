@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        0.130381,
-        52.503581,
-        0.130381,
-        52.503581
+        0.1286014,
+        52.5141152,
+        0.1353525,
+        52.5186168
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,23 +53,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.130381,
-                    52.503581
+                    [
+                        0.1336519,
+                        52.5141152
+                    ],
+                    [
+                        0.1353525,
+                        52.5176488
+                    ],
+                    [
+                        0.1328827,
+                        52.5183541
+                    ],
+                    [
+                        0.1323407,
+                        52.5186168
+                    ],
+                    [
+                        0.1295375,
+                        52.5180796
+                    ],
+                    [
+                        0.1289581,
+                        52.5166042
+                    ],
+                    [
+                        0.1296877,
+                        52.5164736
+                    ],
+                    [
+                        0.1286014,
+                        52.5147289
+                    ],
+                    [
+                        0.1336519,
+                        52.5141152
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-3564",
+            "id": "osm-location-of-stonea-iron-age-camp",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/79696/darmc-location-3564",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/79696/osm-location-of-stonea-iron-age-camp",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 3564"
+                "snippet": "Settlement",
+                "title": "OSM location of Stonea Iron Age Camp"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-10-17T15:14:53Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2022-06-27T01:26:22Z",
@@ -105,91 +144,109 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:41:49Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2022-06-27T01:28:02Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 3564",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": null,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    0.130381,
-                    52.503581
+                    [
+                        0.1336519,
+                        52.5141152
+                    ],
+                    [
+                        0.1353525,
+                        52.5176488
+                    ],
+                    [
+                        0.1328827,
+                        52.5183541
+                    ],
+                    [
+                        0.1323407,
+                        52.5186168
+                    ],
+                    [
+                        0.1295375,
+                        52.5180796
+                    ],
+                    [
+                        0.1289581,
+                        52.5166042
+                    ],
+                    [
+                        0.1296877,
+                        52.5164736
+                    ],
+                    [
+                        0.1286014,
+                        52.5147289
+                    ],
+                    [
+                        0.1336519,
+                        52.5141152
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:34:03Z",
-                    "modifiedBy": "admin"
+                    "comment": "added OSM location",
+                    "modified": "2022-06-27T01:28:24Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:41:50Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-06-27T01:28:02Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-3564",
+            "id": "osm-location-of-stonea-iron-age-camp",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 3564",
+            "provenance": "OpenStreetMap (Way 331498246, version 4, osm:changeset=122885295, 2022-06-27T01:27:25Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/331498246",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "3564",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 331498246",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 3564.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=331498246",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 3564",
-            "uri": "https://pleiades.stoa.org/places/79696/darmc-location-3564"
+            "start": null,
+            "title": "OSM location of Stonea Iron Age Camp",
+            "uri": "https://pleiades.stoa.org/places/79696/osm-location-of-stonea-iron-age-camp"
         }
     ],
     "names": [],
@@ -255,11 +312,22 @@
             "otherIdentifier": "",
             "shortTitle": "HEListing",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3564",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        0.130381,
-        52.503581
+        0.1317905455574006,
+        52.516337673695325
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
