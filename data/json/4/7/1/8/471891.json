@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        9.0,
-        39.0,
-        10.0,
-        40.0
+        9.001008551775794,
+        39.90547314576289,
+        9.30581750662265,
+        39.90832849896989
     ],
     "connections": [],
     "connectsWith": [],
@@ -21,15 +21,31 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Michael Heubel",
+            "uri": "https://pleiades.stoa.org/author/mheubel",
+            "username": "mheubel"
+        },
+        {
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne",
+            "username": "rmhorne"
         },
         {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "name": "Richard Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-11-11T20:20:39Z",
@@ -47,41 +63,74 @@
                 "coordinates": [
                     [
                         [
-                            9.0,
-                            39.0
+                            9.001008551775794,
+                            39.90690082236639
                         ],
                         [
-                            10.0,
-                            39.0
+                            9.04169733497549,
+                            39.90618698406464
                         ],
                         [
-                            10.0,
-                            40.0
+                            9.067395513838457,
+                            39.90761466066814
                         ],
                         [
-                            9.0,
-                            40.0
+                            9.093093692701425,
+                            39.90690082236639
                         ],
                         [
-                            9.0,
-                            39.0
+                            9.116650356659145,
+                            39.90761466066814
+                        ],
+                        [
+                            9.145203888729107,
+                            39.90690082236639
+                        ],
+                        [
+                            9.167332876083329,
+                            39.90832849896989
+                        ],
+                        [
+                            9.188748025135801,
+                            39.90832849896989
+                        ],
+                        [
+                            9.21373236569702,
+                            39.90761466066814
+                        ],
+                        [
+                            9.23728902965474,
+                            39.90547314576289
+                        ],
+                        [
+                            9.270125591535198,
+                            39.90761466066814
+                        ],
+                        [
+                            9.30581750662265,
+                            39.90761466066814
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-map-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/471891/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+                "link": "https://pleiades.stoa.org/places/471891/batlas-map-label-location",
+                "location_precision": "precise",
+                "snippet": "Label; AD 300 - AD 640",
+                "title": "BAtlas Map Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added references",
+            "modified": "2022-10-19T02:39:24Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2019-06-09T03:55:56Z",
@@ -107,9 +156,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -122,83 +171,136 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
+                    "homepage": null,
+                    "name": "Ryan Horne",
+                    "uri": "https://pleiades.stoa.org/author/rmhorne",
+                    "username": "rmhorne"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Richard Talbert",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Michael Heubel",
+                    "uri": "https://pleiades.stoa.org/author/mheubel",
+                    "username": "mheubel"
                 }
             ],
-            "created": "2010-11-11T20:20:40Z",
+            "created": "2022-08-30T11:16:52Z",
             "creators": [
                 {
                     "name": "S.L. Dyson",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "label"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            9.0,
-                            39.0
+                            9.001008551775794,
+                            39.90690082236639
                         ],
                         [
-                            10.0,
-                            39.0
+                            9.04169733497549,
+                            39.90618698406464
                         ],
                         [
-                            10.0,
-                            40.0
+                            9.067395513838457,
+                            39.90761466066814
                         ],
                         [
-                            9.0,
-                            40.0
+                            9.093093692701425,
+                            39.90690082236639
                         ],
                         [
-                            9.0,
-                            39.0
+                            9.116650356659145,
+                            39.90761466066814
+                        ],
+                        [
+                            9.145203888729107,
+                            39.90690082236639
+                        ],
+                        [
+                            9.167332876083329,
+                            39.90832849896989
+                        ],
+                        [
+                            9.188748025135801,
+                            39.90832849896989
+                        ],
+                        [
+                            9.21373236569702,
+                            39.90761466066814
+                        ],
+                        [
+                            9.23728902965474,
+                            39.90547314576289
+                        ],
+                        [
+                            9.270125591535198,
+                            39.90761466066814
+                        ],
+                        [
+                            9.30581750662265,
+                            39.90761466066814
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:26:16Z",
-                    "modifiedBy": "admin"
-                }
-            ],
-            "id": "batlas-location",
+            "history": [],
+            "id": "batlas-map-label-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/label"
             ],
-            "provenance": "Barrington Atlas: BAtlas 48 B3 Barbarikinoi",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://github.com/AWMC/geodata/blob/a289d378b75eba8c9b640f0248763e3cbf9d2583/Cultural-Data/regional_name_linework/regional_names_linework.geojson",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/AKGKQTM5",
+                    "citationDetail": "211244",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">AWMC Geodata: Regional Name Linework. Geojson. Chapel Hill: Ancient World Mapping Center, University of North Carolina at Chapel Hill, June 20, 2016. Github.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AWMC Geodata: Regional Name Linework",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "48 B3 Barbarikinoi",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": 300,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/471891/batlas-location"
+            "title": "BAtlas Map Label Location",
+            "uri": "https://pleiades.stoa.org/places/471891/batlas-map-label-location"
         }
     ],
     "names": [
@@ -297,11 +399,33 @@
             "otherIdentifier": "",
             "shortTitle": "Mastino 1993",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://bmcr.brynmawr.edu/2020/2020.04.49/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6ZD5JLVF",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Pasieka, Paul P. “Review of: Change and Resilience: The Occupation of Mediterranean Islands in Late Antiquity.” <i>Bryn Mawr Classical Review</i>. Accessed October 19, 2022. https://bmcr.brynmawr.edu/2020/2020.04.49/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "BMCR 2020.04.49",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2171120",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/X9X9X4GW",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Cau Ontiveros, Miguel Angel, and Catalina Mas Florit, eds. <i>Change and Resilience: The Occupation of Mediterranean Islands in Late Antiquity</i>. Joukowsky Institute Publication. Oxford: Oxbow Books, 2019. https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=2171120.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Cau Ontiveros 2019",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        9.5,
-        39.5
+        9.153440637594278,
+        39.90720141881095
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
