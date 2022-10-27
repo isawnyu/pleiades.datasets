@@ -1,20 +1,83 @@
 {
     "@type": "Place",
     "bbox": [
-        32.771816,
-        25.969275,
-        32.771816,
-        25.969275
+        32.8152734,
+        25.995669,
+        32.8174299,
+        25.9971251
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/786010",
+            "contributors": [],
+            "created": "2022-06-22T15:56:16Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Zachary Rosalinsky",
+                    "uri": "https://pleiades.stoa.org/author/zrosalinsky",
+                    "username": "zrosalinsky"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-06-22T15:56:17Z",
+                    "modifiedBy": "zrosalinsky"
+                }
+            ],
+            "id": "coptos",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/769443047",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S5BIW36B",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pantalacci, Laure, and Claude Traunecker. <i>Le Temple d’El-Qalʻa</i>. Le Caire: Institut français d’archéologie orientale du Caire, 1990. http://www.worldcat.org/oclc/769443047.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Pantalacci 1990",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Coptos",
+            "uri": "https://pleiades.stoa.org/places/786093/coptos"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/786010"
+    ],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,12 +85,30 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Zachary Rosalinsky",
+            "uri": "https://pleiades.stoa.org/author/zrosalinsky",
+            "username": "zrosalinsky"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2009-10-12T10:34:11Z",
+    "created": "2022-06-22T15:53:53Z",
     "creators": [
         {
-            "name": "J. Keenan",
+            "name": "T. Wilfong",
             "username": null
         },
         {
@@ -35,33 +116,61 @@
             "username": null
         },
         {
-            "name": "T. Wilfong",
+            "name": "J. Keenan",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 80 B1 Qala",
-    "details": "The Barrington Atlas Directory notes: Qala",
+    "description": "This temple is located at the modern Egyptian village of El-Qala, which is near Coptos (modern Qift). It was built likely under Augustus, expanded by Caligula and Claudius, and survived into the Coptic period.",
+    "details": "<p>The Barrington Atlas Directory notes: Qala</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    32.771816,
-                    25.969275
+                    [
+                        32.8170973,
+                        25.9971251
+                    ],
+                    [
+                        32.8152734,
+                        25.9967731
+                    ],
+                    [
+                        32.8155201,
+                        25.995669
+                    ],
+                    [
+                        32.8174299,
+                        25.9960017
+                    ],
+                    [
+                        32.8170973,
+                        25.9971251
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-26118",
+            "id": "temple-of-min-and-isis",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/786093/darmc-location-26118",
+                "description": "Polygon based on OpenStreetMap representing the Temple of Min and Isis after Pantalacci 1990.",
+                "link": "https://pleiades.stoa.org/places/786093/temple-of-min-and-isis",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 26118"
+                "snippet": "Temple-2; 30 BC - AD 640",
+                "title": "OSM location of Temple of Min and Isis"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC = related",
+            "modified": "2022-10-26T03:39:31Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Initial revision; Edited; Edited; updated Connections, Locations; summary",
+            "modified": "2022-10-26T03:38:08Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2022-06-22T15:53:53Z",
@@ -92,136 +201,240 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:57:58Z",
+            "contributors": [],
+            "created": "2022-06-22T15:59:08Z",
             "creators": [
                 {
-                    "name": "J. Keenan",
-                    "username": null
-                },
-                {
-                    "name": "S.E. Sidebotham",
-                    "username": null
-                },
-                {
-                    "name": "T. Wilfong",
-                    "username": null
+                    "homepage": null,
+                    "name": "Zachary Rosalinsky",
+                    "uri": "https://pleiades.stoa.org/author/zrosalinsky",
+                    "username": "zrosalinsky"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 26118",
-            "end": 300,
+            "description": "Polygon based on OpenStreetMap representing the Temple of Min and Isis after Pantalacci 1990.",
+            "details": "",
+            "end": 640,
             "featureType": [
-                "unknown"
+                "temple-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    32.771816,
-                    25.969275
+                    [
+                        32.8170973,
+                        25.9971251
+                    ],
+                    [
+                        32.8152734,
+                        25.9967731
+                    ],
+                    [
+                        32.8155201,
+                        25.995669
+                    ],
+                    [
+                        32.8174299,
+                        25.9960017
+                    ],
+                    [
+                        32.8170973,
+                        25.9971251
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:26:14Z",
-                    "modifiedBy": "admin"
+                    "comment": "Initial revision",
+                    "modified": "2022-06-22T16:00:31Z",
+                    "modifiedBy": "zrosalinsky"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:57:59Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-06-22T15:59:08Z",
+                    "modifiedBy": "zrosalinsky"
                 }
             ],
-            "id": "darmc-location-26118",
+            "id": "temple-of-min-and-isis",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "DARMC OBJECTID: 26118",
+            "provenance": "OpenStreetMap (Way 1072344636, version 1, osm:changeset=122717883, 2022-06-22T15:45:08Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1072344636",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "26118",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1072344636",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 26118.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1072344636",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/769443047",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S5BIW36B",
+                    "citationDetail": "pages 1 and 7",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pantalacci, Laure, and Claude Traunecker. <i>Le Temple d’El-Qalʻa</i>. Le Caire: Institut français d’archéologie orientale du Caire, 1990. http://www.worldcat.org/oclc/769443047.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Pantalacci 1990",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Temple of Min and Isis",
+            "uri": "https://pleiades.stoa.org/places/786093/temple-of-min-and-isis"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2022-06-22T17:12:12Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-06-22T17:12:12Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "qala",
+            "language": "ar",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "page 1174",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Qift#Temple_of_Claudius_at_El-Qala",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Qift see \"Temple of Claudius at El-Qala\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 26118",
-            "uri": "https://pleiades.stoa.org/places/786093/darmc-location-26118"
+            "romanized": "Qala",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/786093/qala"
         }
     ],
-    "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/temple"
+        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
     ],
     "placeTypes": [
-        "temple"
+        "temple-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 80 B1 Qala",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "80 B1 Qala",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 80 B1 Qala",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/769443047",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Pantalacci-1990",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S5BIW36B",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Pantalacci 1990",
+            "formattedCitation": "<div class=\"csl-entry\">Pantalacci, Laure, and Claude Traunecker. <i>Le Temple d’El-Qalʻa</i>. Le Caire: Institut français d’archéologie orientale du Caire, 1990. http://www.worldcat.org/oclc/769443047.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Pantalacci 1990",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "26118",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        32.771816,
-        25.969275
+        32.816338262551966,
+        25.99638595906476
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -230,7 +443,7 @@
         "dare:ancient=0",
         "dare:feature=temple"
     ],
-    "title": "Qala",
+    "title": "Temple of Min and Isis",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/786093"
 }
