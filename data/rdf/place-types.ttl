@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2022/10/30 06:47:31.442292 GMT-4
+# Date: 2022/11/06 06:47:32.193298 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1008
+# Triple count: 1014
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -724,6 +724,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "plateau"@en;
     skos:scopeNote "an area of relatively level high ground, as described at https://en.wikipedia.org/wiki/Plateau."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/platform> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/platform>,
+        <http://vocab.getty.edu/aat/300375665>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "platform"@en;
+    skos:scopeNote "A platform as defined by the Getty Art and Architecture Thesaurus: Flat surfaces, blocks, or floors, generally raised above the adjoining floor"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/plaza> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/plaza>;
