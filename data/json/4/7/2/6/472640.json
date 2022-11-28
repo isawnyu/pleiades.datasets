@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        9.0,
-        39.0,
-        10.0,
-        40.0
+        9.0665413,
+        39.4044213,
+        9.0666674,
+        39.4046513
     ],
     "connections": [
         {
@@ -80,56 +80,52 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-11T20:19:33Z",
+    "created": "2022-11-26T17:52:23Z",
     "creators": [
         {
             "name": "S.L. Dyson",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 48 B3 unnamed bridge (NW Ussana)",
-    "details": "The Barrington Atlas Directory notes: NW Ussana",
+    "description": "A Roman bridge located northwest of modern Ussana in Sardinia.",
+    "details": "<p>The Barrington Atlas Directory notes: NW Ussana</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            9.0,
-                            39.0
-                        ],
-                        [
-                            10.0,
-                            39.0
-                        ],
-                        [
-                            10.0,
-                            40.0
-                        ],
-                        [
-                            9.0,
-                            40.0
-                        ],
-                        [
-                            9.0,
-                            39.0
-                        ]
+                        9.0665413,
+                        39.4046513
+                    ],
+                    [
+                        9.0666674,
+                        39.4044213
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/472640/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/472640/osm-location",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location: Ponte Romano, Ussana "
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; cleaned up references",
+            "modified": "2022-11-26T21:41:18Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-11-26T17:52:23Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added cnxn",
             "modified": "2014-12-26T16:22:39Z",
@@ -165,8 +161,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -176,108 +172,104 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-11T20:19:33Z",
+            "created": "2014-05-31T16:26:50Z",
             "creators": [
                 {
-                    "name": "S.L. Dyson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            9.0,
-                            39.0
-                        ],
-                        [
-                            10.0,
-                            39.0
-                        ],
-                        [
-                            10.0,
-                            40.0
-                        ],
-                        [
-                            9.0,
-                            40.0
-                        ],
-                        [
-                            9.0,
-                            39.0
-                        ]
+                        9.0665413,
+                        39.4046513
+                    ],
+                    [
+                        9.0666674,
+                        39.4044213
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:29:09Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2022-11-26T17:51:54Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2010-11-12T12:26:46Z",
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-11-26T17:51:44Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-11T20:27:06Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-05-31T16:27:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-05-31T16:27:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-31T16:26:52Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-11T20:19:33Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-05-31T16:26:52Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 48 B3",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 285507626, version 2, osm:changeset=24507593, 2014-08-03T01:00:01Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/285507626",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 285507626",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=285507626",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/472640/batlas-location"
+            "title": "OSM location: Ponte Romano, Ussana ",
+            "uri": "https://pleiades.stoa.org/places/472640/osm-location"
         }
     ],
     "names": [],
@@ -290,36 +282,36 @@
     "provenance": "Barrington Atlas: BAtlas 48 B3",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "48 B3",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 48 B3",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Rowland-1981",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4JK8IPQW",
+            "citationDetail": "146",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Rowland 1981, 146",
+            "formattedCitation": "<div class=\"csl-entry\">Rowland, Robert J. <i>I Ritrovamenti Romani in Sardegna</i>. Studia Archaeologica (Erma Di Bretschneider) 28. Roma: L’Erma di Bretschneider, 1981.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Rowland 1981",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        9.5,
-        39.5
+        9.06660435,
+        39.404536300000004
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Unnamed Roman bridge",
+    "title": "Ussana Roman bridge",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/472640"
 }
