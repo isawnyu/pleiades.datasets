@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.571454,
-        51.884337,
-        -0.571454,
-        51.884337
+        -0.563949,
+        51.8771729,
+        -0.563949,
+        51.8771729
     ],
     "connections": [],
     "connectsWith": [],
@@ -47,29 +47,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 8 G3 Totternhoe",
+    "description": "This Roman courtyard villa that yielded ceramics dating to the 4th century CE was located on what is now Church Farm in Totternhoe (Central Bedfordshire, England). The survey and excavations were published in the 1950s; the site was backfilled after excavation and the villa's remains are no longer visible.",
     "details": "<p>The Barrington Atlas Directory notes: Totternhoe</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    -0.571454,
-                    51.884337
+                    -0.563949,
+                    51.8771729
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21132",
+            "id": "osm-location-of-site-of-roman-villa",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/79720/darmc-location-21132",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/79720/osm-location-of-site-of-roman-villa",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 21132"
+                "snippet": "Villa; AD 43 - AD 410",
+                "title": "OSM location of Site of Roman Villa"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location; title; summary",
+            "modified": "2022-11-30T13:23:00Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add wikipedia Totternhoe Roman villa",
             "modified": "2022-11-30T03:40:13Z",
@@ -125,106 +130,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notvisible",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:50:57Z",
+            "contributors": [],
+            "created": "2022-11-30T03:42:02Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 21132",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    -0.571454,
-                    51.884337
+                    -0.563949,
+                    51.8771729
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:34:18Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-21T13:41:17Z",
+                    "modified": "2022-11-30T13:17:42Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T05:50:58Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2022-11-30T03:42:44Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:50:58Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2022-11-30T03:42:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-11-30T03:42:02Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T05:50:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2022-11-30T03:42:02Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21132",
+            "id": "osm-location-of-site-of-roman-villa",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "DARMC OBJECTID: 21132",
+            "provenance": "OpenStreetMap (Node 7354957980, version 1, osm:changeset=82932961, 2020-04-01T15:54:17Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/7354957980",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21132",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 7354957980",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21132.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=7354957980",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 21132",
-            "uri": "https://pleiades.stoa.org/places/79720/darmc-location-21132"
+            "start": 43,
+            "title": "OSM location of Site of Roman Villa",
+            "uri": "https://pleiades.stoa.org/places/79720/osm-location-of-site-of-roman-villa"
         }
     ],
     "names": [],
@@ -279,11 +275,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21132",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        -0.571454,
-        51.884337
+        -0.563949,
+        51.8771729
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -292,7 +299,7 @@
         "dare:ancient=0",
         "dare:feature=villa"
     ],
-    "title": "Totternhoe",
+    "title": "Totternhoe Roman Villa",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/79720"
 }
