@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "abuts",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/abuts",
             "connectsTo": "https://pleiades.stoa.org/places/255976",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:51:38Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "abuts",
+                    "modified": "2022-12-01T19:26:53Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:51:39Z",
@@ -59,28 +71,6 @@
     "contributors": [
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
-        },
-        {
-            "homepage": null,
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
@@ -90,17 +80,39 @@
             "username": null
         },
         {
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
             "name": "R. Warner",
             "username": null
         },
         {
             "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         }
     ],
-    "created": "2018-06-07T23:53:37Z",
+    "created": "2022-12-01T19:39:56Z",
     "creators": [
         {
             "name": "Jr.",
@@ -115,8 +127,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 26 C4 (Iulia) Myrtilis",
-    "details": "The Barrington Atlas Directory notes: Mértola POR",
+    "description": "An ancient settlement at modern Mértola (Portugal) on the west bank of the Guadiana river (ancient Anas). The town is mentioned in Roman sources, but most of the monumental archaeology dates to the Muslim period or later (including a number of large piers previously misidentified as a Roman bridge).",
+    "details": "<p>The Barrington Atlas Directory notes: Mértola POR</p>",
     "features": [
         {
             "geometry": {
@@ -149,13 +161,23 @@
                 "description": "Representative point location, village precision",
                 "link": "https://pleiades.stoa.org/places/256234/dare-location",
                 "location_precision": "precise",
-                "snippet": "Settlement; 330 BC - AD 640",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
                 "title": "DARE Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; cleaned up references",
+            "modified": "2022-12-02T03:33:35Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-12-01T19:39:55Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T23:53:41Z",
@@ -341,30 +363,31 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
             "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2012-10-23T17:34:17Z",
             "creators": [
                 {
@@ -376,12 +399,12 @@
             ],
             "description": "Representative point location, village precision",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "settlement"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -391,6 +414,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "associated modern",
+                    "modified": "2022-12-01T19:25:58Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2012-10-23T17:34:18Z",
@@ -414,10 +442,10 @@
             ],
             "id": "dare-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
@@ -434,7 +462,7 @@
                 }
             ],
             "review_state": "published",
-            "start": -330,
+            "start": 2000,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/256234/dare-location"
         }
@@ -658,45 +686,47 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
         "https://pleiades.stoa.org/vocabularies/place-types/bridge"
     ],
     "placeTypes": [
         "settlement",
+        "settlement-modern",
         "bridge"
     ],
     "provenance": "Barrington Atlas: BAtlas 26 C4 (Iulia) Myrtilis",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "26 C4 (Iulia) Myrtilis",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 26 C4 (Iulia) Myrtilis",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/37821577",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#Alarcão-1988-II.3",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9FFZTKE2",
+            "citationDetail": "II.3, 201-203",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Alarcão 1988 II.3, 201-203",
+            "formattedCitation": "<div class=\"csl-entry\">Alarcão, Jorge de. <i>Roman Portugal</i>. 2 in 4 vols. Warminster: Aris &amp; Phillips, 1988. http://www.worldcat.org/oclc/37821577.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Alarcão 1988",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/36156421",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Emerita-114",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PCC822HP",
+            "citationDetail": "114",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Emerita 114",
+            "formattedCitation": "<div class=\"csl-entry\">Alarcão, Jorge de, Adela Cepas, José Ignacio Reguera Cardiel, Angela Alonso Sánchez, and Union académique internationale, eds. <i>Tabula Imperii Romani. Hoja J-29 : Lisboa : Emerita, Scallabis, Pax Iulia, Gades: sobre la base cartográfica del mapa a escala 1:1000000 del IGN</i>. Tabula Imperii Romani, J-29. Madrid: Consejo Superior de Investigaciones Cientificas : Ministerio de Obras Públicas, Transportes y Medio Ambiente, Instituto Geográfico Nacional : Ministerio de Cultura, 1995. http://www.worldcat.org/oclc/36156421.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Emerita",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -713,12 +743,12 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=myrtilis",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "MYRTILIS (Mértola) Alentejo, Portugal",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), MYRTILIS (Mértola) Alentejo, Portugal",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {

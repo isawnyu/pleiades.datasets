@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        35.5189087,
-        31.7597753,
-        35.6309601,
-        33.1864496
+        35.5347479,
+        32.1025915,
+        35.5355144,
+        32.102845
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "crosses",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/crosses",
             "connectsTo": "https://pleiades.stoa.org/places/687932",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:38:11Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "crosses",
+                    "modified": "2022-12-01T17:24:56Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:38:12Z",
@@ -80,56 +92,52 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-09-17T12:31:11Z",
+    "created": "2022-12-01T17:17:03Z",
     "creators": [
         {
             "name": "B. Isaac",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 70 H1 unnamed bridge (Jisr Damiya, over R. Jordan, between Neapolis and Philadelpheia)",
+    "description": "Sited at an ancient crossing-point over the river Jordan, between Neapolis and Philadelpheia, a Roman-era bridge is thought to have been one of many. The modern bridge and its antecedents are often referred to as the \"Damia Bridge\".",
     "details": "<p>The Barrington Atlas Directory notes: Jisr Damiya, over R. Jordan, between Neapolis and Philadelpheia</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            35.5,
-                            32.0
-                        ],
-                        [
-                            36.0,
-                            32.0
-                        ],
-                        [
-                            36.0,
-                            32.5
-                        ],
-                        [
-                            35.5,
-                            32.5
-                        ],
-                        [
-                            35.5,
-                            32.0
-                        ]
+                        35.5347479,
+                        32.1025915
+                    ],
+                    [
+                        35.5355144,
+                        32.102845
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "undetermined",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/689324/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Undetermined location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/689324/osm-location",
+                "location_precision": "precise",
+                "snippet": "Bridge; AD 1900 - AD 2099",
+                "title": "OSM location of modern Damia Bridge"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; wikipedia; added modern Names",
+            "modified": "2022-12-02T03:33:51Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2022-12-01T17:17:02Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2022-09-19T00:12:25Z",
@@ -170,8 +178,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -179,113 +187,491 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2009-09-17T12:31:11Z",
+            "created": "2014-07-16T16:18:34Z",
             "creators": [
                 {
-                    "name": "B. Isaac",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            35.5,
-                            32.0
-                        ],
-                        [
-                            36.0,
-                            32.0
-                        ],
-                        [
-                            36.0,
-                            32.5
-                        ],
-                        [
-                            35.5,
-                            32.5
-                        ],
-                        [
-                            35.5,
-                            32.0
-                        ]
+                        35.5347479,
+                        32.1025915
+                    ],
+                    [
+                        35.5355144,
+                        32.102845
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:56:29Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2009-09-17T13:47:28Z",
+                    "modified": "2022-12-01T17:16:39Z",
                     "modifiedBy": "thomase"
                 },
                 {
+                    "comment": "associated modern; dates; title",
+                    "modified": "2022-12-01T17:16:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-12-01T17:12:18Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "title",
+                    "modified": "2018-05-09T19:55:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Submit for review",
-                    "modified": "2009-09-17T13:03:55Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2015-05-16T04:30:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2015-05-16T04:29:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-07-16T16:18:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-07-16T16:18:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2009-09-17T12:31:11Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-07-16T16:18:36Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 70 H1",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 175190497, version 9, osm:changeset=91502029, 2020-09-25T10:32:22Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/175190497",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 175190497",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=175190497",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/689324/undetermined"
+            "start": 1900,
+            "title": "OSM location of modern Damia Bridge",
+            "uri": "https://pleiades.stoa.org/places/689324/osm-location"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2022-12-01T17:27:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2022-12-02T03:34:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2022-12-01T19:17:23Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-12-01T17:27:44Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2022-12-01T17:27:44Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "jisr-damiya",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 1081 see \"Bridges: H1 Jisr Damiya\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Jisr Damiya",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/689324/jisr-damiya"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "جسر الدامية",
+            "contributors": [],
+            "created": "2022-12-01T18:21:40Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2022-12-02T03:34:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2022-12-01T19:17:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-12-01T18:21:41Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2022-12-01T18:21:40Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "jisr-ed-damiye",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Jisr_ed-Damiye",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Jisr ed-Damiye",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Jisr ed-Damiye",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/689324/jisr-ed-damiye"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Damiyah Bridge",
+            "contributors": [],
+            "created": "2022-12-01T18:22:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2022-12-02T03:34:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2022-12-01T19:17:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-12-01T18:22:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2022-12-01T18:22:48Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "damiyah-bridge",
+            "language": "en",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Jisr_ed-Damiye",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Jisr ed-Damiya",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Damiyah Bridge",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/689324/damiyah-bridge"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Prince Muhammad Bridge",
+            "contributors": [],
+            "created": "2022-12-01T18:23:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2022-12-02T03:34:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2022-12-01T19:17:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-12-01T18:23:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2022-12-01T18:23:49Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "prince-muhammad-bridge",
+            "language": "en",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Jisr_ed-Damiye",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Jisr ed-Damiya",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Prince Muhammad Bridge",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/689324/prince-muhammad-bridge"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "גשר אדם",
+            "contributors": [],
+            "created": "2022-12-01T18:24:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2022-12-02T03:34:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2022-12-01T19:17:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2022-12-01T18:24:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2022-12-01T18:24:53Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "gesher-adam",
+            "language": "he",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Jisr_ed-Damiye",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Jisr ed-Damiya",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Gesher Adam",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/689324/gesher-adam"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/bridge"
     ],
@@ -315,16 +701,27 @@
             "otherIdentifier": "",
             "shortTitle": "Fischer 1996",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Jisr ed-Damiye",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        35.57327634444316,
-        32.451638636597984
+        35.53513115,
+        32.10271825
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Unnamed bridge",
+    "title": "Damiya Roman Bridge",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/689324"
 }
