@@ -589,7 +589,7 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/570752/osm-location-of-modern-trikeri-island",
                 "location_precision": "precise",
-                "snippet": "Island",
+                "snippet": "Island; AD 1700 - AD 2100",
                 "title": "OSM Location of modern Trikeri island"
             },
             "type": "Feature"
@@ -651,8 +651,22 @@
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2021-04-01T16:54:13Z",
             "creators": [
                 {
@@ -664,7 +678,7 @@
             ],
             "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
                 "island"
             ],
@@ -1144,6 +1158,11 @@
             },
             "history": [
                 {
+                    "comment": "ctype to associated modern",
+                    "modified": "2022-12-11T02:45:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2021-04-01T18:17:42Z",
                     "modifiedBy": "jbecker"
@@ -1171,7 +1190,7 @@
             ],
             "id": "osm-location-of-modern-trikeri-island",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/island"
@@ -1191,7 +1210,7 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
+            "start": 1700,
             "title": "OSM Location of modern Trikeri island",
             "uri": "https://pleiades.stoa.org/places/570752/osm-location-of-modern-trikeri-island"
         }
@@ -1234,6 +1253,11 @@
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "Baseline created",
+                    "modified": "2022-12-11T02:46:32Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:34:08Z",
@@ -1311,7 +1335,7 @@
         }
     ],
     "reprPoint": [
-        23.281089994369218,
+        23.28108999436922,
         37.26785516823647
     ],
     "review_state": "published",
