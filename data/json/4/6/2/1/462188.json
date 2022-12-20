@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.462829,
-        37.310327,
-        13.462829,
-        37.310327
+        13.487604,
+        37.2896103,
+        13.4878884,
+        37.2900126
     ],
     "connections": [
         {
@@ -97,23 +97,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.462829,
-                    37.310327
+                    [
+                        13.4876322,
+                        37.2900126
+                    ],
+                    [
+                        13.487604,
+                        37.2896221
+                    ],
+                    [
+                        13.4878723,
+                        37.2896103
+                    ],
+                    [
+                        13.4878884,
+                        37.2900104
+                    ],
+                    [
+                        13.4876322,
+                        37.2900126
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-7731",
+            "id": "osm-location",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/462188/darmc-location-7731",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/462188/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 7731"
+                "snippet": "Villa; 30 BC - AD 640",
+                "title": "OSM location of Villa Romana di Realmonte"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2022-12-19T19:23:42Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "summary",
             "modified": "2020-03-16T15:22:38Z",
@@ -164,8 +187,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -173,91 +196,134 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-09T19:52:53Z",
+            "created": "2014-05-08T02:26:08Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 7731",
-            "end": 300,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 640,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    13.462829,
-                    37.310327
+                    [
+                        13.4876322,
+                        37.2900126
+                    ],
+                    [
+                        13.487604,
+                        37.2896221
+                    ],
+                    [
+                        13.4878723,
+                        37.2896103
+                    ],
+                    [
+                        13.4878884,
+                        37.2900104
+                    ],
+                    [
+                        13.4876322,
+                        37.2900126
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:20:17Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:01:10Z",
+                    "modified": "2022-12-19T19:23:07Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T19:52:54Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "reimported full Way geometry and updated provenance",
+                    "modified": "2022-12-19T19:23:04Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:52:54Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "title",
+                    "modified": "2020-03-16T15:21:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2014-05-08T02:27:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-05-08T02:27:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-08T02:26:11Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:52:53Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-05-08T02:26:10Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-7731",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "DARMC OBJECTID: 7731",
+            "provenance": "OpenStreetMap (Way 280172114, version 3, osm:changeset=67471455, 2019-02-22T16:10:11Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/280172114",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7731",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 280172114",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7731.",
+                    "formattedCitation": "osm:way=280172114",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://it.wikipedia.org/wiki/Villa_romana_di_Realmonte",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Villa romana di Realmonte",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Villa romana di Realmonte.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 7731",
-            "uri": "https://pleiades.stoa.org/places/462188/darmc-location-7731"
+            "title": "OSM location of Villa Romana di Realmonte",
+            "uri": "https://pleiades.stoa.org/places/462188/osm-location"
         }
     ],
     "names": [],
@@ -312,11 +378,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7731",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.462829,
-        37.310327
+        13.48775000811946,
+        37.28981197249039
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
