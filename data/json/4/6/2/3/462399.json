@@ -3,8 +3,8 @@
     "bbox": [
         14.182945,
         37.189779,
-        14.182945,
-        37.189779
+        14.1834889,
+        37.1903541
     ],
     "connections": [
         {
@@ -96,14 +96,14 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-11T15:13:01Z",
+    "created": "2022-12-20T21:33:09Z",
     "creators": [
         {
             "name": "R.J.A. Wilson",
             "username": null
         }
     ],
-    "description": "Omphake? was an ancient Sikanian center that came into conflict with the Greek colony of Gela.",
+    "description": "Omphake was an ancient Sikanian center that came into conflict with the Greek colony of Gela. It is probably to be identified with modern Butera on the island of Sicily.",
     "details": "<p>The Barrington Atlas Directory notes: Butera</p>",
     "features": [
         {
@@ -116,16 +116,39 @@
             },
             "id": "darmc-location-18714",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/462399/darmc-location-18714",
                 "location_precision": "precise",
                 "snippet": "Unknown; 750 BC - AD 300",
                 "title": "DARMC location 18714"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.1834889,
+                    37.1903541
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-modern-butera-sicily",
+            "properties": {
+                "description": "Center of modern village based on OpenStreetMap. Scholars associate modern Butera with the ancient Omphake.",
+                "link": "https://pleiades.stoa.org/places/462399/osm-location-of-modern-butera-sicily",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of modern Butera, Sicily"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2022-12-21T00:34:10Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "updates",
             "modified": "2021-12-08T03:48:42Z",
@@ -199,8 +222,8 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "accuracy_value": 10.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -223,8 +246,24 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
+                    "name": "DARMC",
                     "username": null
+                },
+                {
+                    "name": "R. Talbert",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2011-03-09T23:24:27Z",
@@ -234,15 +273,11 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 18714",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     14.182945,
@@ -251,6 +286,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2022-12-20T21:34:33Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:22:36Z",
@@ -281,9 +321,7 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "locationTypeURI": [],
             "provenance": "DARMC OBJECTID: 18714",
             "references": [
                 {
@@ -302,13 +340,107 @@
             "start": -750,
             "title": "DARMC location 18714",
             "uri": "https://pleiades.stoa.org/places/462399/darmc-location-18714"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [],
+            "created": "2017-10-15T03:45:08Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Center of modern village based on OpenStreetMap. Scholars associate modern Butera with the ancient Omphake.",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    14.1834889,
+                    37.1903541
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2022-12-20T21:33:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2017-10-15T03:46:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2017-10-15T03:46:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2017-10-15T03:45:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2017-10-15T03:45:08Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-modern-butera-sicily",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 67254043, version 5, osm:changeset=46761867, 2017-03-11T12:57:00Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/67254043",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 67254043",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=67254043",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 1700,
+            "title": "OSM location of modern Butera, Sicily",
+            "uri": "https://pleiades.stoa.org/places/462399/osm-location-of-modern-butera-sicily"
         }
     ],
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -365,6 +497,11 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "certain",
+                    "modified": "2022-12-20T21:34:46Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "references",
                     "modified": "2017-10-15T03:42:49Z",
@@ -560,8 +697,8 @@
         }
     ],
     "reprPoint": [
-        14.182945,
-        37.189779
+        14.18321695,
+        37.19006655
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -570,7 +707,7 @@
         "dare:feature=settlement",
         "dare:major=0"
     ],
-    "title": "Omphake?",
+    "title": "Omphake",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/462399"
 }
