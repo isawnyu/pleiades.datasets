@@ -56,7 +56,14 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/550693"
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        }
+    ],
     "created": "2013-07-31T20:15:35Z",
     "creators": [
         {
@@ -79,16 +86,21 @@
             },
             "id": "location-of-poliochne",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/422676686/location-of-poliochne",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 3000 BC - 1000 BC",
-                "title": "location of Poliochne"
+                "snippet": "Settlement; 3000 BC - 1000 BC",
+                "title": "OSM location of Poliochne"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata, topostext",
+            "modified": "2022-12-24T15:18:12Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2013-09-16T22:34:41Z",
@@ -143,16 +155,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": -1000,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -162,6 +172,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "update title, summary",
+                    "modified": "2022-12-24T15:16:52Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-09-16T22:34:56Z",
@@ -193,8 +208,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "OpenStreetMap (Node 1366589563, version 1, osm:changeset=8767948, 2011-07-19T12:28:43Z)",
             "references": [
@@ -212,7 +226,7 @@
             ],
             "review_state": "published",
             "start": -3000,
-            "title": "location of Poliochne",
+            "title": "OSM location of Poliochne",
             "uri": "https://pleiades.stoa.org/places/422676686/location-of-poliochne"
         }
     ],
@@ -235,6 +249,28 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/399253XPol",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Poliochni exc. (Lemnos)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1542545",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q1542545: Poliochne",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
