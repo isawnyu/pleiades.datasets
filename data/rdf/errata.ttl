@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2023/01/01 06:48:2.760849 US/Eastern
+# Date: 2023/01/08 06:48:1.948062 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4224
+# Triple count: 4298
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -95,6 +95,11 @@
     rdfs:comment "This place resource is a duplicate for http://pleiades.stoa.org/places/462122 and was erroneously created and published. It has been withdrawn and moved to errata.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/215496319> .
 
+<https://pleiades.stoa.org/errata/220817271%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Duplicate: Sanctuary of Zeus Panhellenios (Aegina)";
+    rdfs:comment "This place resource has been moved to errata because it is a duplicate for https://pleiades.stoa.org/places/580139.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/220817271> .
+
 <https://pleiades.stoa.org/errata/252998%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn: Untikesken";
     rdfs:comment "This place resource has been withdrawn in favor of a name resource attached to the place resource for the Indigetes (246440), an Iberian people localized in and around Ampurias. ";
@@ -109,6 +114,11 @@
     rdfs:label "Duplicate: Achaia";
     rdfs:comment "A duplicate place resource that has been withdrawn from the gazetteer. See instead \"Achaia (settlement)\" (pleiades:60403).";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/30202> .
+
+<https://pleiades.stoa.org/errata/349338482%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "duplicate: Ekklesiasterion";
+    rdfs:comment "This place resource has been moved to Errata because it is a duplicate for https://pleiades.stoa.org/places/966917974";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/349338482> .
 
 <https://pleiades.stoa.org/errata/404%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Not Found";
@@ -1285,6 +1295,39 @@
     pleiades:end_date 640;
     pleiades:start_date -30 .
 
+<https://pleiades.stoa.org/errata/220817271> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Paus. (Spiro: Perseus) 1.44.9",
+        "Paus. (Spiro: Perseus) 2.20.3",
+        "ToposText Zeus Panhellenios (Aegina) 5 Oros - Ζεύς Πανελλήνιος";
+    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "This place resource has been moved to errata because it is a duplicate for https://pleiades.stoa.org/places/580139.";
+    dcterms:modified "2023-01-03T11:47:51-05:00";
+    dcterms:subject "Oracle",
+        "Temple",
+        "Zeus";
+    dcterms:title "Duplicate: Sanctuary of Zeus Panhellenios (Aegina)";
+    cito:citesAsEvidence <http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.44.9>,
+        <http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.20.3>;
+    cito:citesForInformation <https://topostext.org/place/377235SPan>;
+    owl:sameAs <http://pleiades.stoa.org/errata/220817271>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/sanctuary>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/220817271/osm-location-of-sanctuary-of-zeus-pan-hellenios> .
+
+<https://pleiades.stoa.org/errata/220817271/osm-location-of-sanctuary-of-zeus-pan-hellenios> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "OSM Node 8494874194";
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2023-01-03T11:47:51-05:00";
+    dcterms:title "OSM location of Sanctuary of Zeus (Pan)Hellenios";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/node/8494874194>;
+    owl:sameAs <http://pleiades.stoa.org/errata/220817271/osm-location-of-sanctuary-of-zeus-pan-hellenios>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 8494874194, version 1, osm:changeset=100590578, 2021-03-07T20:17:24Z)" ] .
+
 <https://pleiades.stoa.org/errata/252998> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "";
@@ -1430,6 +1473,39 @@
     pleiades:during <https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican>,
         <https://pleiades.stoa.org/vocabularies/time-periods/roman>;
     pleiades:end_date 300;
+    pleiades:start_date -330 .
+
+<https://pleiades.stoa.org/errata/349338482> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Wikipedia (Italian) Ekklesiasterion di Morgantina",
+        "Wikipedia (Italian) Morgantina";
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:description "This place resource has been moved to Errata because it is a duplicate for https://pleiades.stoa.org/places/966917974";
+    dcterms:modified "2023-01-03T11:56:52-05:00";
+    dcterms:subject "extant remains";
+    dcterms:title "duplicate: Ekklesiasterion";
+    cito:citesForInformation <https://it.wikipedia.org/wiki/Ekklesiasterion_di_Morgantina>,
+        <https://it.wikipedia.org/wiki/Morgantina>;
+    owl:sameAs <http://pleiades.stoa.org/errata/349338482>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/ekklesiasterion>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/349338482/location-of-ekklesiasterion> .
+
+<https://pleiades.stoa.org/errata/349338482/location-of-ekklesiasterion> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "OSM Node 1720486169",
+        "Wikipedia (Italian) Morgantina";
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2023-01-03T11:56:52-05:00";
+    dcterms:title "OSM location of Ekklesiasterion";
+    cito:citesAsDataSource <http://www.openstreetmap.org/browse/node/1720486169>;
+    cito:citesForInformation <https://it.wikipedia.org/wiki/Morgantina>;
+    owl:sameAs <http://pleiades.stoa.org/errata/349338482/location-of-ekklesiasterion>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 1720486169, version 1, osm:changeset=11332158, 2012-04-17T12:32:31Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican>;
+    pleiades:end_date -30;
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/404> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -2081,11 +2157,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -2104,11 +2180,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87%23A4>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -2122,11 +2198,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
