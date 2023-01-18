@@ -1,12 +1,63 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.405216,
-        51.085822,
+        -0.4060552,
+        51.085293,
         -0.405216,
         51.085822
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/79723",
+            "contributors": [],
+            "created": "2023-01-16T22:55:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-01-17T16:13:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-01-16T22:56:29Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2023-01-16T22:55:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-01-16T22:55:47Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "trisanton-river",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Trisanton (river)",
+            "uri": "https://pleiades.stoa.org/places/79290/trisanton-river"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/79723"
     ],
@@ -67,6 +118,24 @@
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
                 "title": "DARMC location 19954"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.4060552,
+                    51.085293
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-roman-station",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/79290/osm-location-of-roman-station",
+                "location_precision": "precise",
+                "snippet": "Station; AD 43 - AD 410",
+                "title": "OSM location of Roman Station"
             },
             "type": "Feature"
         }
@@ -227,6 +296,100 @@
             "start": -30,
             "title": "DARMC location 19954",
             "uri": "https://pleiades.stoa.org/places/79290/darmc-location-19954"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-01-16T22:53:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
+            "featureType": [
+                "station"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -0.4060552,
+                    51.085293
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-01-17T16:13:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-01-16T22:54:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-01-16T22:54:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-01-16T22:53:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-01-16T22:53:44Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-roman-station",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
+            ],
+            "provenance": "OpenStreetMap (Node 8905672765, version 2, osm:changeset=129791299, 2022-12-06T17:28:48Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/8905672765",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 8905672765",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=8905672765",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 43,
+            "title": "OSM location of Roman Station",
+            "uri": "https://pleiades.stoa.org/places/79290/osm-location-of-roman-station"
         }
     ],
     "names": [],
@@ -308,8 +471,8 @@
         }
     ],
     "reprPoint": [
-        -0.405216,
-        51.085822
+        -0.4056356,
+        51.0855575
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
