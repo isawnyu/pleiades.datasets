@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.188717,
-        51.989642,
-        -0.188717,
-        51.989642
+        -0.1809379,
+        51.9897381,
+        -0.1809379,
+        51.9897381
     ],
     "connections": [],
     "connectsWith": [
@@ -49,29 +49,39 @@
             "username": null
         }
     ],
-    "description": "A pre-Romano and Romano-British settlement was located at Baldock along the Icknield Way.",
+    "description": "A pre-Roman and Romano-British settlement was located at Baldock along the Icknield Way.",
     "details": "<p>The Barrington Atlas Directory notes: Baldock</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    -0.188717,
-                    51.989642
+                    -0.1809379,
+                    51.9897381
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20019",
+            "id": "osm-location-of-roman-settlement",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/79311/darmc-location-20019",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/79311/osm-location-of-roman-settlement",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 20019"
+                "snippet": "Settlement; AD 43 - AD 410",
+                "title": "OSM location of Roman Settlement"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "typo",
+            "modified": "2023-01-24T00:50:31Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-01-23T22:22:52Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "summary",
             "modified": "2023-01-22T18:08:14Z",
@@ -127,106 +137,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notvisible",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:45:45Z",
+            "contributors": [],
+            "created": "2023-01-22T03:25:35Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 20019",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    -0.188717,
-                    51.989642
+                    -0.1809379,
+                    51.9897381
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:29:35Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-21T13:41:51Z",
+                    "modified": "2023-01-23T22:22:00Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T05:45:45Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-01-22T03:26:01Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:45:45Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2023-01-22T03:25:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-01-22T03:25:35Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T05:45:45Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-01-22T03:25:35Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20019",
+            "id": "osm-location-of-roman-settlement",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 20019",
+            "provenance": "OpenStreetMap (Node 21042301, version 2, osm:changeset=10516985, 2012-01-27T22:17:52Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/21042301",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20019",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 21042301",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20019.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=21042301",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 20019",
-            "uri": "https://pleiades.stoa.org/places/79311/darmc-location-20019"
+            "start": 43,
+            "title": "OSM location of Roman Settlement",
+            "uri": "https://pleiades.stoa.org/places/79311/osm-location-of-roman-settlement"
         }
     ],
     "names": [],
@@ -292,11 +293,22 @@
             "otherIdentifier": "",
             "shortTitle": "Stead 1986",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20019",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        -0.188717,
-        51.989642
+        -0.1809379,
+        51.9897381
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
