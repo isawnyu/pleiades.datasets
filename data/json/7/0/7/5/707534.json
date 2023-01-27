@@ -2,9 +2,9 @@
     "@type": "Place",
     "bbox": [
         33.6292872,
-        34.920211,
-        33.632745,
-        34.929597
+        34.9201,
+        33.6329,
+        34.9237193
     ],
     "connections": [
         {
@@ -131,7 +131,8 @@
         "https://pleiades.stoa.org/places/707498",
         "https://pleiades.stoa.org/places/319430829",
         "https://pleiades.stoa.org/places/709709",
-        "https://pleiades.stoa.org/places/395214998"
+        "https://pleiades.stoa.org/places/395214998",
+        "https://pleiades.stoa.org/places/7796058"
     ],
     "contributors": [
         {
@@ -160,6 +161,12 @@
         },
         {
             "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson",
+            "username": "cjohansson"
+        },
+        {
+            "homepage": null,
             "name": "Jamie Novotny",
             "uri": "https://pleiades.stoa.org/author/jnovotny",
             "username": "jnovotny"
@@ -183,6 +190,12 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg",
+            "username": "rrattenborg"
         }
     ],
     "created": "2018-06-07T20:40:31Z",
@@ -195,24 +208,6 @@
     "description": "Kition was an ancient city founded on the southern coast of Cyprus in the thirteenth century B.C.",
     "details": "<p>The Barrington Atlas Directory notes: Larnaka</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    33.629471,
-                    34.929597
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-13198",
-            "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/707534/darmc-location-13198",
-                "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 13198"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -278,9 +273,32 @@
                 "title": "OSM location of Kathari site"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    33.6329,
+                    34.9201
+                ],
+                "type": "Point"
+            },
+            "id": "cigs-location-of-kition",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/707534/cigs-location-of-kition",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site",
+                "title": "CIGS location of Kition"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-01-26T16:45:38Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2020-08-05T16:10:43Z",
@@ -354,127 +372,6 @@
     ],
     "id": "707534",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:31:35Z",
-            "creators": [
-                {
-                    "name": "D. Rupp",
-                    "username": null
-                }
-            ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 13198",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    33.629471,
-                    34.929597
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:02:36Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T05:07:20Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T21:31:36Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:31:36Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-03-09T21:31:35Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-13198",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 13198",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "13198",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 13198.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 13198",
-            "uri": "https://pleiades.stoa.org/places/707534/darmc-location-13198"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
@@ -714,6 +611,121 @@
             "start": -1400,
             "title": "OSM location of Kathari site",
             "uri": "https://pleiades.stoa.org/places/707534/ancient-kition"
+        },
+        {
+            "@type": "Location",
+            "accuracy": null,
+            "accuracy_value": null,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-01-26T15:27:45Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</p>",
+            "end": null,
+            "featureType": [
+                "archaeological-site"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "geometry": {
+                "coordinates": [
+                    33.6329,
+                    34.9201
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-01-26T16:44:11Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-01-26T15:38:11Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-01-26T15:37:13Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-01-26T15:27:47Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-01-26T15:27:45Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "cigs-location-of-kition",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/428815782",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SHPA4R98",
+                    "citationDetail": "pages 167-168",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Salvini, Mirjo, Neda Parmegiani, and Roberto Dan. <i>Corpus dei testi urartei</i>. 3 vols. Documenta Asiana 8. Roma: CNR : Istituto di studi sulle civiltà dell’Egeo e del Vicino Oriente, 2008. http://www.worldcat.org/oclc/428815782.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Salvini 2008",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Kition",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Kition",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, Kition.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://el.wikipedia.org/wiki/Κίτιο",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BUR4V79V",
+                    "citationDetail": "Κίτιο",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Βικιπαίδεια: την ελεύθερη εγκυκλοπαίδεια που γράφουμε συμμετοχικά</i>. Wikimedia Foundation, 2001. https://el.wikipedia.org.</div>, Κίτιο.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Greek)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "CIGS location of Kition",
+            "uri": "https://pleiades.stoa.org/places/707534/cigs-location-of-kition"
         }
     ],
     "names": [
@@ -1031,14 +1043,109 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/707534/qartihadasti"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "attested": "Κίτιον",
+            "contributors": [],
+            "created": "2023-01-26T15:37:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Romanization according to the ALA-LC specifications for Greek (2010) (https://www.loc.gov/catdir/cpso/roman.html).</p>",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-01-26T16:43:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-01-26T15:37:58Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-01-26T15:37:11Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-01-26T15:37:10Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "kition-2",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/428815782",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SHPA4R98",
+                    "citationDetail": "pages 167-168",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Salvini, Mirjo, Neda Parmegiani, and Roberto Dan. <i>Corpus dei testi urartei</i>. 3 vols. Documenta Asiana 8. Roma: CNR : Istituto di studi sulle civiltà dell’Egeo e del Vicino Oriente, 2008. http://www.worldcat.org/oclc/428815782.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Salvini 2008",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Kition",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Kition",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, Kition.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://el.wikipedia.org/wiki/Κίτιο",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BUR4V79V",
+                    "citationDetail": "Κίτιο",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Βικιπαίδεια: την ελεύθερη εγκυκλοπαίδεια που γράφουμε συμμετοχικά</i>. Wikimedia Foundation, 2001. https://el.wikipedia.org.</div>, Κίτιο.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Greek)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Kition, Kition-Bamboula",
+            "start": null,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/707534/kition-2"
         }
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
         "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
     ],
     "placeTypes": [
         "settlement",
+        "archaeological-site",
         "temple-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 72 D3 Kition",
@@ -1141,11 +1248,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "13198",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        33.63083841224878,
-        34.92434777058366
+        33.631981412248784,
+        34.92118210391698
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
