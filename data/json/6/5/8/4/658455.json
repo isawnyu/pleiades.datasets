@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        37.359985,
-        37.153671,
-        37.359985,
-        37.153671
+        37.3442143,
+        37.127264,
+        37.3462955,
+        37.1283769
     ],
     "connections": [
         {
@@ -96,11 +96,62 @@
             "start": null,
             "title": "Untitled",
             "uri": "https://pleiades.stoa.org/places/658455/661402"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/647277379",
+            "contributors": [],
+            "created": "2023-02-01T21:35:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-01T23:00:53Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-01T21:35:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2023-02-01T21:35:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-01T21:35:49Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "duluk-baba-tepesi",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Dülük Baba Tepesi",
+            "uri": "https://pleiades.stoa.org/places/658455/duluk-baba-tepesi"
         }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/661388",
-        "https://pleiades.stoa.org/places/661402"
+        "https://pleiades.stoa.org/places/661402",
+        "https://pleiades.stoa.org/places/647277379"
     ],
     "contributors": [
         {
@@ -179,23 +230,72 @@
         {
             "geometry": {
                 "coordinates": [
-                    37.359985,
-                    37.153671
+                    [
+                        37.3461397,
+                        37.1282775
+                    ],
+                    [
+                        37.3462955,
+                        37.1278254
+                    ],
+                    [
+                        37.3448499,
+                        37.127264
+                    ],
+                    [
+                        37.3442766,
+                        37.127274
+                    ],
+                    [
+                        37.3442143,
+                        37.1276118
+                    ],
+                    [
+                        37.3446318,
+                        37.1277261
+                    ],
+                    [
+                        37.3447439,
+                        37.1281186
+                    ],
+                    [
+                        37.3458656,
+                        37.1283769
+                    ],
+                    [
+                        37.3461397,
+                        37.1282775
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-965",
+            "id": "osm-location-of-doliche",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/658455/darmc-location-965",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/658455/osm-location-of-doliche",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 965"
+                "snippet": "Archaeological-site; 30 BC - AD 640",
+                "title": "OSM location of Doliche"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2023-02-01T23:00:46Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Blömer 2022",
+            "modified": "2023-02-01T03:55:03Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2023-02-01T03:47:01Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "ctype ref TM GEO ID",
             "modified": "2019-12-18T01:08:21Z",
@@ -281,8 +381,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -300,96 +400,123 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-01T03:18:21Z",
+            "contributors": [],
+            "created": "2023-02-01T03:50:19Z",
             "creators": [
                 {
-                    "name": "P.-L. Gatier",
-                    "username": null
-                },
-                {
-                    "name": "T. Sinclair",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 965",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    37.359985,
-                    37.153671
+                    [
+                        37.3461397,
+                        37.1282775
+                    ],
+                    [
+                        37.3462955,
+                        37.1278254
+                    ],
+                    [
+                        37.3448499,
+                        37.127264
+                    ],
+                    [
+                        37.3442766,
+                        37.127274
+                    ],
+                    [
+                        37.3442143,
+                        37.1276118
+                    ],
+                    [
+                        37.3446318,
+                        37.1277261
+                    ],
+                    [
+                        37.3447439,
+                        37.1281186
+                    ],
+                    [
+                        37.3458656,
+                        37.1283769
+                    ],
+                    [
+                        37.3461397,
+                        37.1282775
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:38:18Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Batch updates from Current Archaeology in Turkey summarized at http://pleiades.stoa.org/Members/thomase/cat-2-pleiades-2011-05-27. Reviewer: Tom Elliott",
-                    "modified": "2011-07-06T20:37:14Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-01T13:48:13Z",
+                    "modified": "2023-02-01T23:00:05Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-01T03:18:23Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-02-01T21:36:21Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-01T03:18:22Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2023-02-01T21:36:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-02-01T03:50:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-02-01T03:50:19Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-01T03:18:22Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-02-01T03:50:19Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-965",
+            "id": "osm-location-of-doliche",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 965",
+            "provenance": "OpenStreetMap (Way 466308695, version 2, osm:changeset=68459067, 2019-03-24T01:31:59Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/466308695",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "965",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 466308695",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 965.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=466308695",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 965",
-            "uri": "https://pleiades.stoa.org/places/658455/darmc-location-965"
+            "title": "OSM location of Doliche",
+            "uri": "https://pleiades.stoa.org/places/658455/osm-location-of-doliche"
         }
     ],
     "names": [
@@ -592,33 +719,35 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 67 E2 Doliche",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "67 E2 Doliche",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 67 E2 Doliche",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/c.html#Cumont-1917-173-202",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VRF2WW4F",
+            "citationDetail": "173-202",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Cumont 1917 173-202",
+            "formattedCitation": "<div class=\"csl-entry\">Cumont, Franz Valery Marie. <i>Études Syriennes</i>. Paris: A. Picard, 1917.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Cumont 1917",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -635,23 +764,23 @@
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2572.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "10B1 (Talbert 2572)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "TP 10B1 (Talbert 2572)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/16706",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 16706: ",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM Geo ID, 16706",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
@@ -686,11 +815,33 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GHC6GXT",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Blömer, Michael, and Margherita Facella. <i>Dülük Baba Tepesi II: Inscriptions and Sculptures from the Sanctuary of Jupiter Dolichenus</i>. Asia Minor Studien. Bonn: Dr. Rudolf Habelt GmbH, 2022.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Blömer 2022",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "965",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        37.359985,
-        37.153671
+        37.34523457771263,
+        37.12779225749377
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
