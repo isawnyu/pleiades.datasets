@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2023/02/05 06:48:2.431311 US/Eastern
+# Date: 2023/02/12 06:48:2.828827 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4298
+# Triple count: 4303
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -131,7 +131,8 @@
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/427224440> .
 
 <https://pleiades.stoa.org/errata/550420%23this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Aisepos fl.";
+    rdfs:label "Aisepos (river)";
+    spatial:C <https://pleiades.stoa.org/places/511141%23this>;
     rdfs:comment "An ancient place, cited: BAtlas 56 E2 Aisepos fl.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/550420> .
 
@@ -1592,7 +1593,9 @@
 <https://pleiades.stoa.org/errata/550420> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/56%23E2>;
-    dcterms:bibliographicCitation "";
+    dcterms:bibliographicCitation "BAtlas 56 E2 Aisepos fl.",
+        "RE Aisepos 1",
+        "Wikipedia (German) Gönen Çayı";
     dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -1602,10 +1605,12 @@
         <http://viaf.org/viaf/5046666>,
         <http://viaf.org/viaf/91669326>;
     dcterms:description "An ancient place, cited: BAtlas 56 E2 Aisepos fl.";
-    dcterms:modified "2015-01-20T15:09:21-05:00";
-    dcterms:title "Aisepos fl.";
-    cito:citesForInformation <http://atlantides.org/bibliography/r.html%23RE-Aisepos-1>,
-        <http://openlibrary.org/works/OL8327792W>;
+    dcterms:modified "2023-02-10T21:01:14-05:00";
+    dcterms:title "Aisepos (river)";
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://de.wikipedia.org/wiki/G%25C3%25B6nen_%25C3%2587ay%25C4%25B1>,
+        <https://www.zotero.org/groups/pleiades/items/HSGNAEBR>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/511141>;
     owl:sameAs <http://pleiades.stoa.org/errata/550420>;
     skos:altLabel "Aisepos";
     skos:inScheme <https://pleiades.stoa.org/places>;
@@ -2157,11 +2162,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -2180,11 +2185,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87%23A4>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -2198,11 +2203,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
