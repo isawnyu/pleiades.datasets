@@ -10,7 +10,14 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
             "connectionType": "on",
             "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/707498",
@@ -20,6 +27,12 @@
                     "name": "Jeffrey Becker",
                     "uri": "https://pleiades.stoa.org/author/jbecker",
                     "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2016-07-13T13:32:43Z",
@@ -33,8 +46,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 2100,
             "history": [
+                {
+                    "comment": "modern",
+                    "modified": "2023-02-21T22:03:59Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "reference",
                     "modified": "2023-02-19T02:03:39Z",
@@ -72,14 +90,13 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
+            "start": 1700,
             "title": "Cyprus (island)",
             "uri": "https://pleiades.stoa.org/places/751079112/707498"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/707498",
-        "https://pleiades.stoa.org/places/707548"
+        "https://pleiades.stoa.org/places/707498"
     ],
     "contributors": [
         {
@@ -87,6 +104,12 @@
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2014-02-01T15:49:06Z",
@@ -98,7 +121,7 @@
             "username": "jbecker"
         }
     ],
-    "description": "A rock shelter thought to be the oldest Cypriot settlement, with evidence for human activity already in the Epipalaeolithic.",
+    "description": "A rock shelter thought to be ancient Cypriot settlement or game processing center, with evidence for human activity already in the Epipalaeolithic.",
     "details": "",
     "features": [
         {
@@ -121,6 +144,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2023-02-21T22:14:38Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added Simmons 2019; corrected short title for Ammerman 2005",
+            "modified": "2023-02-21T22:03:35Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-02-19T02:03:19Z",
@@ -334,6 +367,78 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/751079112/aetokremnos"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Vulture Cliff",
+            "contributors": [],
+            "created": "2023-02-21T22:13:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-21T22:13:55Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-21T22:13:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-02-21T22:13:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-21T22:13:49Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "vulture-cliff",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.jstor.org/stable/40025089",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/F7U6XQ35",
+                    "citationDetail": "page 533",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Ammerman, Albert J., and Jay Stratton Noller. “New Light on Aetokremnos.” <i>World Archaeology</i> 37, no. 4 (2005): 533–43. https://doi.org/10.1080/00438240500404359.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ammerman 2005",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Vulture Cliff",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/751079112/vulture-cliff"
         }
     ],
     "placeTypeURIs": [
@@ -363,7 +468,7 @@
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Ammerman, Albert J., and Jay Stratton Noller. “New Light on Aetokremnos.” <i>World Archaeology</i> 37, no. 4 (2005): 533–43. https://www.jstor.org/stable/40025089.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "Ammerman and Noller 2005",
+            "shortTitle": "Ammerman 2005",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -398,6 +503,17 @@
             "otherIdentifier": "",
             "shortTitle": "TGN",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "http://books.openedition.org/editionscnrs/28503",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FNGSHU8I",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Alan, Simmons, and Mandel Rolfe D. “Site Formation Processes at Akrotiri Aetokremnos, Cyprus: Why Is the Site so Controversial?” In <i>Géoarchéologie Des Îles de La Méditerranée</i>, edited by Matthieu Ghilardi, 57–72. CNRS Alpha. Paris: CNRS Éditions, 2019. http://books.openedition.org/editionscnrs/28503.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Simmons 2019",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [

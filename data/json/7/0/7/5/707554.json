@@ -10,24 +10,43 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
             "connectsTo": "https://pleiades.stoa.org/places/707498",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:38:42Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 2100,
             "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-02-21T21:09:52Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:38:42Z",
@@ -48,13 +67,77 @@
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": 1700,
             "title": "Cyprus (island)",
             "uri": "https://pleiades.stoa.org/places/707554/707498"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/325705845",
+            "contributors": [],
+            "created": "2023-02-21T21:10:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-21T21:11:00Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-21T21:10:56Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-02-21T21:10:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-21T21:10:47Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "unnamed-island-southern-akrotiri-peninsula-cyprus",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -330,
+            "title": "Unnamed island (southern Akrotiri peninsula, Cyprus)",
+            "uri": "https://pleiades.stoa.org/places/707554/unnamed-island-southern-akrotiri-peninsula-cyprus"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/707498"
+        "https://pleiades.stoa.org/places/707498",
+        "https://pleiades.stoa.org/places/325705845"
     ],
     "contributors": [
         {
