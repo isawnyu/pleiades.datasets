@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -6.0,
-        34.5,
-        -5.5,
-        35.0
+        -5.921506397798346,
+        34.93957061902201,
+        -5.902997923881314,
+        34.95720051879202
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,38 +49,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -6.0,
-                            34.5
-                        ],
-                        [
-                            -5.5,
-                            34.5
-                        ],
-                        [
-                            -5.5,
-                            35.0
-                        ],
-                        [
-                            -6.0,
-                            35.0
-                        ],
-                        [
-                            -6.0,
-                            34.5
-                        ]
-                    ]
+                    -5.921506397798346,
+                    34.93957061902201
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "batlas-point-location-south-cluster",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/277848/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Digitized in QGIS from BAtlas map 28, georectified against VMAP0. Dates from corresponding entry in BAtldir.",
+                "link": "https://pleiades.stoa.org/places/277848/batlas-point-location-south-cluster",
+                "location_precision": "precise",
+                "snippet": "Settlement; 30 BC - AD 300",
+                "title": "BAtlas Point Location (south cluster)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.902997923881314,
+                    34.95720051879202
+                ],
+                "type": "Point"
+            },
+            "id": "batlas-point-location-north-cluster",
+            "properties": {
+                "description": "Digitized in QGIS from BAtlas map 28, georectified against VMAP0. Dates from corresponding entry in BAtldir.",
+                "link": "https://pleiades.stoa.org/places/277848/batlas-point-location-north-cluster",
+                "location_precision": "precise",
+                "snippet": "Settlement; 30 BC - AD 300",
+                "title": "BAtlas Point Location (north cluster)"
             },
             "type": "Feature"
         }
@@ -131,9 +129,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -144,104 +142,168 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T20:05:08Z",
+            "contributors": [],
+            "created": "2023-02-22T02:32:13Z",
             "creators": [
                 {
-                    "name": "M. Euzennat",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Digitized in QGIS from BAtlas map 28, georectified against VMAP0. Dates from corresponding entry in BAtldir.",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            -6.0,
-                            34.5
-                        ],
-                        [
-                            -5.5,
-                            34.5
-                        ],
-                        [
-                            -5.5,
-                            35.0
-                        ],
-                        [
-                            -6.0,
-                            35.0
-                        ],
-                        [
-                            -6.0,
-                            34.5
-                        ]
-                    ]
+                    -5.921506397798346,
+                    34.93957061902201
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:58:38Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-24T20:35:54Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-02-22T21:40:54Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-24T20:06:15Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-02-22T02:34:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-02-22T02:33:08Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-24T20:05:08Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-02-22T02:32:13Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-point-location-south-cluster",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "Barrington Atlas: BAtlas 28 C4",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "28 C4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/277848/batlas-location"
+            "title": "BAtlas Point Location (south cluster)",
+            "uri": "https://pleiades.stoa.org/places/277848/batlas-point-location-south-cluster"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-02-22T02:31:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Digitized in QGIS from BAtlas map 28, georectified against VMAP0. Dates from corresponding entry in BAtldir.",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -5.902997923881314,
+                    34.95720051879202
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-22T21:40:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-22T02:34:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-02-22T02:31:22Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-22T02:31:21Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "batlas-point-location-north-cluster",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "28 C4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "BAtlas Point Location (north cluster)",
+            "uri": "https://pleiades.stoa.org/places/277848/batlas-point-location-north-cluster"
         }
     ],
     "names": [],
@@ -277,8 +339,8 @@
         }
     ],
     "reprPoint": [
-        -5.75,
-        34.75
+        -5.91225216083983,
+        34.948385568907014
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
