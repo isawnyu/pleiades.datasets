@@ -82,7 +82,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/149888636/osm-location-of-macellum",
                 "location_precision": "precise",
-                "snippet": "Architecturalcomplex, ; 30 BC - AD 300",
+                "snippet": "Architecturalcomplex; 30 BC - AD 300",
                 "title": "OSM location of macellum"
             },
             "type": "Feature"
@@ -134,8 +134,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -161,12 +161,10 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "architecturalcomplex",
-                ""
+                "architecturalcomplex"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
             ],
             "geometry": {
                 "coordinates": [
@@ -176,6 +174,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment to location resource",
+                    "modified": "2023-02-23T20:56:15Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-08-01T16:41:15Z",
@@ -212,8 +215,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
             ],
             "provenance": "OpenStreetMap (Way 113738466, version 6, osm:changeset=13235985, 2012-09-24T16:44:56Z)",
             "references": [

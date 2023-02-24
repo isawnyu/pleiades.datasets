@@ -82,7 +82,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/470606135/location-of-circus",
                 "location_precision": "precise",
-                "snippet": "Circus, ; 30 BC - AD 640",
+                "snippet": "Circus; 30 BC - AD 640",
                 "title": "OSM location of Cirque de Carthage"
             },
             "type": "Feature"
@@ -114,8 +114,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -141,12 +141,10 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "circus",
-                ""
+                "circus"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/circus",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/circus"
             ],
             "geometry": {
                 "coordinates": [
@@ -156,6 +154,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "add Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T03:48:54Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-04-13T22:23:39Z",
@@ -192,8 +195,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/circus",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/circus"
             ],
             "provenance": "OpenStreetMap (Node 2719375012, version 1, osm:changeset=21119518, 2014-03-15T16:03:34Z)",
             "references": [

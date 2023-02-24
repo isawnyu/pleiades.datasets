@@ -113,7 +113,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/462122/location-of-tellaro-roman-villa",
                 "location_precision": "precise",
-                "snippet": "Villa, ; 30 BC - AD 640",
+                "snippet": "Villa; 30 BC - AD 640",
                 "title": "OSM location of Tellaro Roman villa"
             },
             "type": "Feature"
@@ -210,8 +210,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -250,12 +250,10 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "villa",
-                ""
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/villa",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
@@ -265,6 +263,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T03:26:29Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "archaeological remains",
                     "modified": "2016-07-01T01:11:57Z",
@@ -301,8 +304,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/villa",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "provenance": "OpenStreetMap (Node 804069894, version 1, osm:changeset=5152684, 2010-07-06T18:02:21Z)",
             "references": [

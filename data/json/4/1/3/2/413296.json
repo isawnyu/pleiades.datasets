@@ -7,7 +7,9 @@
         42.871756
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/643273747"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -56,7 +58,7 @@
             },
             "id": "osm-location-of-san-casciano-dei-bagni",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/413296/osm-location-of-san-casciano-dei-bagni",
                 "location_precision": "precise",
                 "snippet": "Settlement-modern; AD 2000 - AD 2099",
@@ -134,8 +136,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -157,7 +159,7 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 2099,
             "featureType": [
@@ -174,6 +176,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T03:50:28Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2022-08-07T11:30:58Z",

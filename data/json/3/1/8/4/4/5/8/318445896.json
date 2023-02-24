@@ -87,7 +87,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/318445896/osm-location-of-mura-timoleontee",
                 "location_precision": "precise",
-                "snippet": "Wall-2, ; 330 BC - 30 BC",
+                "snippet": "Wall-2; 330 BC - 30 BC",
                 "title": "OSM location of Mura Timoleontee"
             },
             "type": "Feature"
@@ -129,8 +129,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -156,12 +156,10 @@
             "details": "",
             "end": -30,
             "featureType": [
-                "wall-2",
-                ""
+                "wall-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/wall-2",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/wall-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -171,6 +169,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "add Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T02:40:36Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2017-10-27T21:52:03Z",
@@ -189,12 +192,10 @@
             ],
             "id": "osm-location-of-mura-timoleontee",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/wall-2",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/wall-2"
             ],
             "provenance": "OpenStreetMap (Way 183542872, version 4, osm:changeset=22507711, 2014-05-23T15:51:45Z)",
             "references": [
@@ -223,13 +224,13 @@
                 {
                     "accessURI": "http://www.geonames.org/8063308/greek-fortifications-of-capo-soprano.html",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "GeoNames 8063308",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "8063308: Greek Fortifications of Capo Soprano",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "http://purl.org/spar/cito/seeFurther"
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsRelated"
                 }
             ],
             "review_state": "published",

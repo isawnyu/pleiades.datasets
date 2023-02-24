@@ -83,7 +83,7 @@
                 "description": "Representative point derived from an OpenStreetMap way.",
                 "link": "https://pleiades.stoa.org/places/413077/location-of-cetamura-del-chianti",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 750 BC - AD 1453",
+                "snippet": "Settlement; 750 BC - AD 1453",
                 "title": "OSM location of Cetamura del Chianti"
             },
             "type": "Feature"
@@ -263,8 +263,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -327,12 +327,10 @@
             "details": "",
             "end": 1453,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -342,6 +340,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T02:53:02Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-08-26T15:15:52Z",
@@ -385,12 +388,10 @@
             ],
             "id": "location-of-cetamura-del-chianti",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "OpenStreetMap (Way 113402660, version 2, osm:changeset=19346387, 2013-12-08T19:16:02Z)",
             "references": [

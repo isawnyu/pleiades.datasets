@@ -82,7 +82,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/289697636/osm-location-of-necropoli-delle-pianacce",
                 "location_precision": "precise",
-                "snippet": "Cemetery, ; 750 BC - 330 BC",
+                "snippet": "Cemetery; 750 BC - 330 BC",
                 "title": "OSM location of Necropoli delle Pianacce"
             },
             "type": "Feature"
@@ -119,8 +119,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -152,12 +152,10 @@
             "details": "",
             "end": -330,
             "featureType": [
-                "cemetery",
-                ""
+                "cemetery"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "geometry": {
                 "coordinates": [
@@ -167,6 +165,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T05:03:22Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-04-13T22:28:31Z",
@@ -198,8 +201,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "provenance": "OpenStreetMap (Node 767312997, version 2, osm:changeset=24212971, 2014-07-18T03:32:11Z)",
             "references": [

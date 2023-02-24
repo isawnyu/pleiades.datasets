@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -1.2152302,
+        -1.2162932,
         52.407157,
         -1.214105,
-        52.4090507
+        52.4100647
     ],
     "connections": [
         {
@@ -119,17 +119,39 @@
         {
             "geometry": {
                 "coordinates": [
-                    -1.2152302,
-                    52.4090507
+                    [
+                        -1.215787,
+                        52.4100647
+                    ],
+                    [
+                        -1.2162932,
+                        52.4096213
+                    ],
+                    [
+                        -1.2152302,
+                        52.4090507
+                    ],
+                    [
+                        -1.2148106,
+                        52.4093559
+                    ],
+                    [
+                        -1.2152502,
+                        52.4097637
+                    ],
+                    [
+                        -1.215787,
+                        52.4100647
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "location-of-tripontium",
             "properties": {
                 "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/79722/location-of-tripontium",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 30 BC - AD 640",
+                "snippet": "Settlement; 30 BC - AD 640",
                 "title": "OSM location of Tripontium"
             },
             "type": "Feature"
@@ -293,8 +315,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -312,7 +334,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-12-08T15:50:18Z",
             "creators": [
                 {
@@ -326,21 +355,46 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    -1.2152302,
-                    52.4090507
+                    [
+                        -1.215787,
+                        52.4100647
+                    ],
+                    [
+                        -1.2162932,
+                        52.4096213
+                    ],
+                    [
+                        -1.2152302,
+                        52.4090507
+                    ],
+                    [
+                        -1.2148106,
+                        52.4093559
+                    ],
+                    [
+                        -1.2152502,
+                        52.4097637
+                    ],
+                    [
+                        -1.215787,
+                        52.4100647
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "reimported full Way geometry and updated provenance and accuracy assessment",
+                    "modified": "2023-02-23T19:20:45Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2018-07-13T19:21:46Z",
@@ -377,8 +431,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "OpenStreetMap (Way 250784847, version 1, osm:changeset=19342788, 2013-12-08T15:49:56Z)",
             "references": [
@@ -583,8 +636,8 @@
         }
     ],
     "reprPoint": [
-        -1.2146675999999998,
-        52.40810385
+        -1.2148246686237982,
+        52.40835199389431
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

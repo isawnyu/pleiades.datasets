@@ -163,7 +163,7 @@
                 "description": "Representative location based on an OpenStreetMap node. Dates after BAtlas.",
                 "link": "https://pleiades.stoa.org/places/501495/location-of-lion-of-amphipolis",
                 "location_precision": "precise",
-                "snippet": "Monument, ; 550 BC - 330 BC",
+                "snippet": "Monument; 550 BC - 330 BC",
                 "title": "OSM location of Lion of Amphipolis"
             },
             "type": "Feature"
@@ -235,8 +235,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "restored",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -269,12 +269,10 @@
             "details": "",
             "end": -330,
             "featureType": [
-                "monument",
-                ""
+                "monument"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/monument",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/monument"
             ],
             "geometry": {
                 "coordinates": [
@@ -284,6 +282,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "add Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T05:20:50Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-07-25T20:46:42Z",
@@ -327,12 +330,10 @@
             ],
             "id": "location-of-lion-of-amphipolis",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/monument",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/monument"
             ],
             "provenance": "OpenStreetMap (Node 1735126253, version 1, osm:changeset=11449074, 2012-04-29T12:10:23Z)",
             "references": [

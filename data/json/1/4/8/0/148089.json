@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "communicates",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/communicates",
             "connectsTo": "https://pleiades.stoa.org/places/1043",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:32:25Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "communicates with",
+                    "modified": "2023-02-24T10:58:06Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:32:25Z",
@@ -101,18 +113,23 @@
                 ],
                 "type": "Point"
             },
-            "id": "location-of-gallicum-mare",
+            "id": "osm-location-of-gallicum-mare",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/148089/location-of-gallicum-mare",
+                "link": "https://pleiades.stoa.org/places/148089/osm-location-of-gallicum-mare",
                 "location_precision": "precise",
                 "snippet": "Water-open, ; AD 1700 - AD 2100",
-                "title": "location of Gallicum Mare"
+                "title": "OSM location of Gallicum Mare"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-02-24T04:27:26Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "references",
             "modified": "2017-10-11T18:53:09Z",
@@ -221,7 +238,7 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-gallicum-mare",
+            "id": "osm-location-of-gallicum-mare",
             "locationType": [
                 "representative"
             ],
@@ -256,8 +273,8 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Gallicum Mare",
-            "uri": "https://pleiades.stoa.org/places/148089/location-of-gallicum-mare"
+            "title": "OSM location of Gallicum Mare",
+            "uri": "https://pleiades.stoa.org/places/148089/osm-location-of-gallicum-mare"
         }
     ],
     "names": [
@@ -331,6 +348,84 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/148089/gallicum-mare"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Gallicus sinus",
+            "contributors": [],
+            "created": "2023-02-24T04:34:27Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-24T10:55:23Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-24T04:35:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "name",
+                    "modified": "2023-02-24T04:34:28Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-24T04:34:27Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "gallicus-sinus",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/914/1/812/2151-2159#812",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MCDKGDL9",
+                    "citationDetail": "26.19",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Titus Livius. <i>Titi Livi Ab Urbe Condita</i>. 5 vols. Clarendon: Oxford U.P, 1908. https://latin.packhum.org/loc/914/1/0#0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Liv. (OCT: PHI)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Gallicus sinus",
+            "start": -330,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/148089/gallicus-sinus"
         }
     ],
     "placeTypeURIs": [
@@ -342,14 +437,14 @@
     "provenance": "Barrington Atlas: BAtlas 15 C3 Gallicum Mare",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "15 C3 Gallicum Mare",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 15 C3 Gallicum Mare",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -377,12 +472,12 @@
         {
             "accessURI": "http://latin.packhum.org/loc/914/1/812/2151-2159",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MCDKGDL9",
+            "citationDetail": "26.19.11.4",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Liv. 26.19.11.4",
+            "formattedCitation": "<div class=\"csl-entry\">Titus Livius. <i>Titi Livi Ab Urbe Condita</i>. 5 vols. Clarendon: Oxford U.P, 1908. https://latin.packhum.org/loc/914/1/0#0.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Liv. (OCT: PHI)",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],

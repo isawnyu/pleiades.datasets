@@ -113,7 +113,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/570444075/osm-location-of-roman-amphitheater",
                 "location_precision": "precise",
-                "snippet": "Amphitheatre, ; 30 BC - AD 300",
+                "snippet": "Amphitheatre; 30 BC - AD 300",
                 "title": "OSM location of Roman amphitheater"
             },
             "type": "Feature"
@@ -170,8 +170,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -197,12 +197,10 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "amphitheatre",
-                ""
+                "amphitheatre"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
             ],
             "geometry": {
                 "coordinates": [
@@ -212,6 +210,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T03:57:24Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2019-09-05T11:00:56Z",
@@ -233,8 +236,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/amphitheatre"
             ],
             "provenance": "OpenStreetMap (Way 260840146, version 2, osm:changeset=22931207, 2014-06-14T19:02:07Z)",
             "references": [

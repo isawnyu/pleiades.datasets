@@ -94,7 +94,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/470606136/location-of-dermech-basilica",
                 "location_precision": "precise",
-                "snippet": "Church, ; AD 640 - AD 1453",
+                "snippet": "Basilica; AD 640 - AD 1453",
                 "title": "OSM location of Dermech basilica"
             },
             "type": "Feature"
@@ -131,8 +131,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -158,12 +158,10 @@
             "details": "",
             "end": 1453,
             "featureType": [
-                "church",
-                ""
+                "basilica"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/basilica"
             ],
             "geometry": {
                 "coordinates": [
@@ -173,6 +171,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "ctype, add Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T05:02:16Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-04-16T21:02:17Z",
@@ -204,8 +207,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/basilica"
             ],
             "provenance": "OpenStreetMap (Way 93164404, version 4, osm:changeset=21119878, 2014-03-15T16:24:27Z)",
             "references": [
@@ -251,9 +253,11 @@
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/basilica",
         "https://pleiades.stoa.org/vocabularies/place-types/church"
     ],
     "placeTypes": [
+        "basilica",
         "church"
     ],
     "provenance": "Pleiades",

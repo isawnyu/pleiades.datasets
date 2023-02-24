@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.5113,
-        41.5803,
-        12.5113,
-        41.5803
+        12.5101454,
+        41.5794104,
+        12.51219,
+        41.5807145
     ],
     "connections": [
         {
@@ -147,8 +147,56 @@
                 "description": "position determined via Google Earth 2013.",
                 "link": "https://pleiades.stoa.org/places/438710/location-of-castrum-inui",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 750 BC - AD 300",
-                "title": "location of Castrum Inui"
+                "snippet": "Settlement; 750 BC - AD 300",
+                "title": "Imagery location of Castrum Inui"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        12.51219,
+                        41.5796712
+                    ],
+                    [
+                        12.5119754,
+                        41.5794104
+                    ],
+                    [
+                        12.5107698,
+                        41.5794765
+                    ],
+                    [
+                        12.5101454,
+                        41.5800285
+                    ],
+                    [
+                        12.5108328,
+                        41.5804737
+                    ],
+                    [
+                        12.5109454,
+                        41.5804818
+                    ],
+                    [
+                        12.5112673,
+                        41.5807145
+                    ],
+                    [
+                        12.51219,
+                        41.5796712
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-castrum-inui",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/438710/osm-location-of-castrum-inui",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site",
+                "title": "OSM location of Castrum Inui"
             },
             "type": "Feature"
         }
@@ -219,8 +267,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2013",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -264,12 +312,10 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -279,6 +325,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Google Earth and Partners Imagery 2013",
+                    "modified": "2023-02-24T04:37:14Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2014-02-18T04:04:16Z",
@@ -315,15 +366,131 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": -750,
-            "title": "location of Castrum Inui",
+            "title": "Imagery location of Castrum Inui",
             "uri": "https://pleiades.stoa.org/places/438710/location-of-castrum-inui"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-02-24T04:38:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "archaeological-site"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        12.51219,
+                        41.5796712
+                    ],
+                    [
+                        12.5119754,
+                        41.5794104
+                    ],
+                    [
+                        12.5107698,
+                        41.5794765
+                    ],
+                    [
+                        12.5101454,
+                        41.5800285
+                    ],
+                    [
+                        12.5108328,
+                        41.5804737
+                    ],
+                    [
+                        12.5109454,
+                        41.5804818
+                    ],
+                    [
+                        12.5112673,
+                        41.5807145
+                    ],
+                    [
+                        12.51219,
+                        41.5796712
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-24T10:58:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-24T04:38:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-02-24T04:38:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-02-24T04:38:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-24T04:38:14Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-castrum-inui",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "OpenStreetMap (Way 229737282, version 2, osm:changeset=18220884, 2013-10-06T21:37:31Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/229737282",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 229737282",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=229737282",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "OSM location of Castrum Inui",
+            "uri": "https://pleiades.stoa.org/places/438710/osm-location-of-castrum-inui"
         }
     ],
     "names": [
@@ -588,10 +755,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 44 Castrum Invi",
     "references": [
@@ -751,8 +920,8 @@
         }
     ],
     "reprPoint": [
-        12.5113,
-        41.5803
+        12.511247018617775,
+        41.58012376857975
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
