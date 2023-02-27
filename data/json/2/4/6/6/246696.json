@@ -223,7 +223,7 @@
                 "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/246696/location-of-torre-dels-escipions",
                 "location_precision": "precise",
-                "snippet": "Tomb, ; 30 BC - AD 300",
+                "snippet": "Tomb; 30 BC - AD 300",
                 "title": "OSM location of Torre dels Escipions"
             },
             "type": "Feature"
@@ -401,8 +401,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -428,12 +428,10 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "tomb",
-                ""
+                "tomb"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "geometry": {
                 "coordinates": [
@@ -443,6 +441,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T20:36:19Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-12-02T12:22:56Z",
@@ -464,8 +467,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "provenance": "OpenStreetMap (Way 231765604, version 2, osm:changeset=17145976, 2013-07-29T22:44:57Z)",
             "references": [

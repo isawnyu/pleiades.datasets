@@ -128,7 +128,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/466414611/location-of-arco-felice-vecchio",
                 "location_precision": "precise",
-                "snippet": "City-gate, ; 30 BC - AD 300",
+                "snippet": "City-gate; 30 BC - AD 300",
                 "title": "OSM location of Arco Felice Vecchio"
             },
             "type": "Feature"
@@ -165,8 +165,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -192,12 +192,10 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "city-gate",
-                ""
+                "city-gate"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/city-gate",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
             ],
             "geometry": {
                 "coordinates": [
@@ -207,6 +205,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T21:20:14Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-08-01T16:40:42Z",
@@ -253,8 +256,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/city-gate",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
             ],
             "provenance": "OpenStreetMap (Node 1039278077, version 4, osm:changeset=11220925, 2012-04-08T05:45:26Z)",
             "references": [

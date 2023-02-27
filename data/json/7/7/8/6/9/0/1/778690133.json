@@ -324,13 +324,13 @@
                 ],
                 "type": "LineString"
             },
-            "id": "walls",
+            "id": "imagery-location-walls",
             "properties": {
                 "description": "Approximate linear extent of the ancient city walls",
-                "link": "https://pleiades.stoa.org/places/778690133/walls",
+                "link": "https://pleiades.stoa.org/places/778690133/imagery-location-walls",
                 "location_precision": "precise",
                 "snippet": "City-wall",
-                "title": "Walls"
+                "title": "Imagery Location of Walls"
             },
             "type": "Feature"
         }
@@ -371,8 +371,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -646,6 +646,11 @@
             },
             "history": [
                 {
+                    "comment": "added missing accuracy assessment",
+                    "modified": "2023-02-24T11:30:26Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Edited",
                     "modified": "2018-05-09T18:56:02Z",
                     "modifiedBy": "jbecker"
@@ -716,7 +721,7 @@
                     "modifiedBy": "thomase"
                 }
             ],
-            "id": "walls",
+            "id": "imagery-location-walls",
             "locationType": [
                 "representative"
             ],
@@ -727,8 +732,8 @@
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Walls",
-            "uri": "https://pleiades.stoa.org/places/778690133/walls"
+            "title": "Imagery Location of Walls",
+            "uri": "https://pleiades.stoa.org/places/778690133/imagery-location-walls"
         }
     ],
     "names": [],
@@ -754,7 +759,7 @@
     ],
     "reprPoint": [
         28.723713540884564,
-        37.70843375937556
+        37.708433759375566
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

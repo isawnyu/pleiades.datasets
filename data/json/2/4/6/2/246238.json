@@ -182,10 +182,10 @@
             },
             "id": "location-of-arc-de-bera",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/246238/location-of-arc-de-bera",
                 "location_precision": "precise",
-                "snippet": "Arch, ; 30 BC - AD 300",
+                "snippet": "Arch; 30 BC - AD 300",
                 "title": "OSM location of Arc de Berà"
             },
             "type": "Feature"
@@ -377,8 +377,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -400,16 +400,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "arch",
-                ""
+                "arch"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/arch",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
             "geometry": {
                 "coordinates": [
@@ -419,6 +417,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T22:26:24Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-07-01T20:05:23Z",
@@ -465,8 +468,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/arch",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
             "provenance": "OpenStreetMap (Node 408208945, version 2, osm:changeset=9722628, 2011-11-02T16:03:46Z)",
             "references": [

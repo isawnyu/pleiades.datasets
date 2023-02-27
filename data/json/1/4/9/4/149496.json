@@ -246,7 +246,7 @@
                 "description": "About 275 meters long",
                 "link": "https://pleiades.stoa.org/places/149496/present-day-span-of-bridge",
                 "location_precision": "precise",
-                "snippet": "Aqueduct, Bridge, ; 30 BC - AD 640",
+                "snippet": "Aqueduct, Bridge; 30 BC - AD 640",
                 "title": "Present day span of bridge"
             },
             "type": "Feature"
@@ -418,8 +418,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -437,7 +437,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2012-11-06T22:14:43Z",
             "creators": [
                 {
@@ -452,13 +459,11 @@
             "end": 640,
             "featureType": [
                 "aqueduct",
-                "bridge",
-                ""
+                "bridge"
             ],
             "featureTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
@@ -474,6 +479,11 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T15:02:08Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2012-11-06T22:19:27Z",
@@ -511,8 +521,7 @@
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "provenance": "OpenStreetMap Way: Pont du Gard (143771287) (version 2, changeset 13126682, Sun, 16 Sep 2012 07:20:47 +0000)",
             "references": [

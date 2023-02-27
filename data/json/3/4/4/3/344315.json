@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        9.498044,
-        33.503703,
-        9.498044,
-        33.503703
+        9.49779,
+        33.5034372,
+        9.4984766,
+        33.5039963
     ],
     "connections": [],
     "connectsWith": [],
@@ -50,7 +50,7 @@
         }
     ],
     "description": "Bezereos is the site of a Roman fort along the Limes Tripolitanus.",
-    "details": "The Barrington Atlas Directory notes: Sidi Mohammed ben Aissa TUN",
+    "details": "<p>The Barrington Atlas Directory notes: Sidi Mohammed ben Aissa TUN</p>",
     "features": [
         {
             "geometry": {
@@ -65,13 +65,71 @@
                 "description": "Coordinates after GeoHack.",
                 "link": "https://pleiades.stoa.org/places/344315/bezereos-1",
                 "location_precision": "precise",
-                "snippet": "Fort, ",
-                "title": "location of Bezereos"
+                "snippet": "Fort-2; 30 BC - AD 640",
+                "title": "Imagery location of Bezereos"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        9.4979589,
+                        33.5039963
+                    ],
+                    [
+                        9.49779,
+                        33.503473
+                    ],
+                    [
+                        9.4982137,
+                        33.5034417
+                    ],
+                    [
+                        9.4982996,
+                        33.5034372
+                    ],
+                    [
+                        9.4984766,
+                        33.5039292
+                    ],
+                    [
+                        9.498439,
+                        33.5039449
+                    ],
+                    [
+                        9.4982111,
+                        33.5039673
+                    ],
+                    [
+                        9.4979589,
+                        33.5039963
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-bir-rhezen",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/344315/osm-location-of-bir-rhezen",
+                "location_precision": "precise",
+                "snippet": "Fort-2; 30 BC - AD 640",
+                "title": "OSM location of Bir Rhezen"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 7356 = related",
+            "modified": "2023-02-24T22:16:13Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2023-02-24T22:10:34Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference",
             "modified": "2014-03-15T04:00:43Z",
@@ -137,12 +195,25 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
             "contributors": [
                 {
                     "homepage": null,
@@ -161,15 +232,13 @@
                 }
             ],
             "description": "Coordinates after GeoHack.",
-            "details": "\r\n<p>The fort measures 50 × 65 m.</p>\r\n",
-            "end": null,
+            "details": "<p>The fort measures 50 × 65 m.</p>",
+            "end": 640,
             "featureType": [
-                "fort",
-                ""
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -179,6 +248,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "edit title, set type = fort, add temporal info, update references, add Generic GeoHack Accuracy Assessment",
+                    "modified": "2023-02-24T22:15:36Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-08-01T18:48:49Z",
@@ -210,8 +284,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -249,14 +322,14 @@
                     "type": "http://purl.org/spar/cito/seeFurther"
                 },
                 {
-                    "accessURI": "",
+                    "accessURI": "https://www.worldcat.org/oclc/877994762",
                     "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/848973926",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3CMTW64K",
+                    "citationDetail": "84–85",
                     "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Mattingly D. J. 1995. Tripolitania. London: Batsford. pp. 84–85",
+                    "formattedCitation": "<div class=\"csl-entry\">Mattingly, D. J. <i>Tripolitania</i>. Ann Arbor: University of Michigan Press, 1994. https://www.worldcat.org/oclc/877994762.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Mattingly 1994",
                     "type": "http://purl.org/spar/cito/seeFurther"
                 },
                 {
@@ -283,9 +356,139 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "location of Bezereos",
+            "start": -30,
+            "title": "Imagery location of Bezereos",
             "uri": "https://pleiades.stoa.org/places/344315/bezereos-1"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-02-24T22:11:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "fort-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        9.4979589,
+                        33.5039963
+                    ],
+                    [
+                        9.49779,
+                        33.503473
+                    ],
+                    [
+                        9.4982137,
+                        33.5034417
+                    ],
+                    [
+                        9.4982996,
+                        33.5034372
+                    ],
+                    [
+                        9.4984766,
+                        33.5039292
+                    ],
+                    [
+                        9.498439,
+                        33.5039449
+                    ],
+                    [
+                        9.4982111,
+                        33.5039673
+                    ],
+                    [
+                        9.4979589,
+                        33.5039963
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-27T09:18:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-24T22:12:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-02-24T22:12:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-02-24T22:11:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-24T22:11:50Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-bir-rhezen",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "provenance": "OpenStreetMap (Way 266256502, version 1, osm:changeset=21110649, 2014-03-15T03:54:02Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/266256502",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 266256502",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=266256502",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Bir Rhezen",
+            "uri": "https://pleiades.stoa.org/places/344315/osm-location-of-bir-rhezen"
         }
     ],
     "names": [
@@ -484,44 +687,44 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 35 B1 Bezereos",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "35 B1 Bezereos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 35 B1 Bezereos",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://encyclopedieberbere.revues.org/2788",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BHPQPEJB",
+            "citationDetail": "10 Bezereos § Vezereos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "EncBerb 10 Bezereos § Vezereos",
+            "formattedCitation": "<div class=\"csl-entry\">Camps, Gabriel, and Salem Chaker. <i>Encyclopédie Berbère</i>. Aix-en-Provence, France: Edisud; Institut de Recherches et d’Études sur le Monde Arabe et Musulman (IREMAM), 1984. https://journals.openedition.org/encyclopedieberbere/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "EncBerb",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.worldcat.org/oclc/877994762",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Mattingly-1994",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3CMTW64K",
+            "citationDetail": "100",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Mattingly 1994, 100",
+            "formattedCitation": "<div class=\"csl-entry\">Mattingly, D. J. <i>Tripolitania</i>. Ann Arbor: University of Michigan Press, 1994. https://www.worldcat.org/oclc/877994762.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Mattingly 1994",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -534,11 +737,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (German)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7356",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        9.498044,
-        33.503703
+        9.498086401671777,
+        33.50370733939178
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

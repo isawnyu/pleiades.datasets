@@ -116,7 +116,7 @@
                 "description": "Representative location of archaeological site based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/570033/location-of-ayia-irini",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 10000 BC - 1000 BC",
+                "snippet": "Settlement; 10000 BC - 1000 BC",
                 "title": "OSM location of Ayia Irini"
             },
             "type": "Feature"
@@ -183,8 +183,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -228,12 +228,10 @@
             "details": "",
             "end": -1000,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -243,6 +241,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-25T01:40:29Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2018-10-01T10:27:21Z",
@@ -264,8 +267,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "OpenStreetMap (Way 231978870, version 1, osm:changeset=17174192, 2013-08-01T03:28:55Z)",
             "references": [

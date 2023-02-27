@@ -222,7 +222,7 @@
                 "description": "Representative point derived from Google Maps",
                 "link": "https://pleiades.stoa.org/places/599241518/representative-center-point-of-triopion",
                 "location_precision": "precise",
-                "snippet": "Unknown, Sanctuary; 550 BC - 330 BC",
+                "snippet": "Sanctuary; 550 BC - 330 BC",
                 "title": "Representative center point of Triopion"
             },
             "type": "Feature"
@@ -336,8 +336,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -349,7 +349,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2019-07-16T22:00:21Z",
             "creators": [
                 {
@@ -363,11 +370,9 @@
             "details": "",
             "end": -330,
             "featureType": [
-                "unknown",
                 "sanctuary"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
                 "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
             "geometry": {
@@ -378,6 +383,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Google Earth and Partners Imagery 2016 and following",
+                    "modified": "2023-02-24T20:35:38Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2019-08-02T20:22:40Z",
@@ -404,7 +414,6 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
                 "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
             "provenance": "Pleiades",

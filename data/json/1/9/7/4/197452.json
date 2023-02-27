@@ -90,11 +90,11 @@
             },
             "id": "location-of-ponte-navata",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/197452/location-of-ponte-navata",
                 "location_precision": "precise",
-                "snippet": "Fort, ; AD 300 - AD 640",
-                "title": "location of Ponte Navata"
+                "snippet": "Fort; AD 300 - AD 640",
+                "title": "OSM location of Ponte Navata"
             },
             "type": "Feature"
         }
@@ -265,8 +265,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -294,16 +294,14 @@
                     "username": "holgerj"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 640,
             "featureType": [
-                "fort",
-                ""
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
@@ -313,6 +311,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T20:54:00Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-08-01T21:00:50Z",
@@ -339,8 +342,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "provenance": "OpenStreetMap (Way 165624810, version 3, osm:changeset=12162790, 2012-07-09T18:04:18Z)",
             "references": [
@@ -358,7 +360,7 @@
             ],
             "review_state": "published",
             "start": 300,
-            "title": "location of Ponte Navata",
+            "title": "OSM location of Ponte Navata",
             "uri": "https://pleiades.stoa.org/places/197452/location-of-ponte-navata"
         }
     ],

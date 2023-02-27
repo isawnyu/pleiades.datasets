@@ -123,7 +123,7 @@
                 "description": "",
                 "link": "https://pleiades.stoa.org/places/151622036/osm-location-of-bar-hill-forth-bathhouse",
                 "location_precision": "precise",
-                "snippet": "Unknown",
+                "snippet": "Bath",
                 "title": "OSM Location of Bar Hill Fort Bathhouse"
             },
             "type": "Feature"
@@ -170,13 +170,19 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "homepage": null,
                     "name": "Thomas Landvatter",
@@ -199,10 +205,10 @@
             "details": "",
             "end": null,
             "featureType": [
-                "unknown"
+                "bath"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
             ],
             "geometry": {
                 "coordinates": [
@@ -212,6 +218,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added place type = bath",
+                    "modified": "2023-02-26T04:22:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-26T04:09:32Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2022-09-08T00:09:11Z",
@@ -253,7 +269,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
             ],
             "provenance": "Pleiades",
             "references": [

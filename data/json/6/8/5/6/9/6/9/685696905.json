@@ -62,6 +62,18 @@
             "name": "Katelin McCullough",
             "uri": "https://pleiades.stoa.org/author/kmccullough",
             "username": "kmccullough"
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2018-03-23T19:10:05Z",
@@ -73,7 +85,7 @@
             "username": "thomase"
         }
     ],
-    "description": "",
+    "description": "The Civil Basilica at Aphrodisias was a three-aisled public hall measuring approximately 145 by 30 meters. It opened off the southwest corner of the South Agora.It dates to the late first century CE.",
     "details": "",
     "features": [
         {
@@ -114,13 +126,18 @@
                 "description": "",
                 "link": "https://pleiades.stoa.org/places/685696905/basilica",
                 "location_precision": "precise",
-                "snippet": "Unknown",
+                "snippet": "Basilica; 30 BC - AD 300",
                 "title": "Basilica"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add summary, two references (Stinson)",
+            "modified": "2023-02-26T03:39:39Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "check in of working copy",
             "modified": "2018-05-09T19:05:59Z",
@@ -156,13 +173,33 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
             "created": "2010-08-27T21:31:12Z",
             "creators": [
                 {
@@ -174,12 +211,12 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "basilica"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/basilica"
             ],
             "geometry": {
                 "coordinates": [
@@ -214,6 +251,11 @@
                 "type": "Polygon"
             },
             "history": [
+                {
+                    "comment": "Google Earth and Partners Imagery 2016 and following",
+                    "modified": "2023-02-26T03:40:22Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T07:25:13Z",
@@ -285,12 +327,12 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/basilica"
             ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Basilica",
             "uri": "https://pleiades.stoa.org/places/685696905/basilica"
         }
@@ -313,6 +355,28 @@
             "formattedCitation": "Smith, R.R.R., et al. Aphrodisias Excavations. University of Oxford. 2017.",
             "otherIdentifier": "",
             "shortTitle": "Aphrodisias Excavations",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3MHZ2FIZ",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Stinson, Philip. “Imitation and Adaptation in Architectural Design: Two Roman Basilicas at Ephesus and Aphrodisias.” In <i>Neue Zeiten - Neue Sitten</i>, 91–100. Wien: Phoibos, 2007.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Stinson 2007",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7X5PULHB",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Stinson, Philip. “Local Meanings of the Civil Basilica at Aphrodisias: Image, Text, and Monument.” In <i>Basiliques et Agoras de Grèce et d’Asie Mineure</i>, 107–26. Bordeaux: Ausonius Éd, 2012.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Stinson 2012",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],

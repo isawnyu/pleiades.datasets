@@ -101,7 +101,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/634585139/location-of-tophet",
                 "location_precision": "precise",
-                "snippet": "Cemetery, ; 750 BC - 30 BC",
+                "snippet": "Cemetery; 750 BC - 30 BC",
                 "title": "OSM location of Tophet de Salammbô"
             },
             "type": "Feature"
@@ -143,8 +143,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -189,12 +189,10 @@
             "details": "",
             "end": -30,
             "featureType": [
-                "cemetery",
-                ""
+                "cemetery"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "geometry": {
                 "coordinates": [
@@ -204,6 +202,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T20:34:01Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-09-25T02:33:22Z",
@@ -237,12 +240,10 @@
             ],
             "id": "location-of-tophet",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "provenance": "OpenStreetMap (Way 131384754, version 3, osm:changeset=15326117, 2013-03-11T10:38:17Z)",
             "references": [

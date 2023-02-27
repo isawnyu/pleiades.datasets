@@ -70,14 +70,6 @@
     ],
     "contributors": [
         {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
@@ -96,10 +88,6 @@
             "username": "jbecker"
         },
         {
-            "name": "Diane Braund",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Carolin Johansson",
             "uri": "https://pleiades.stoa.org/author/cjohansson",
@@ -110,6 +98,18 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "name": "Diane Braund",
+            "username": null
         },
         {
             "homepage": null,
@@ -156,11 +156,11 @@
             },
             "id": "location-of-argishtikhinili",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/863745/location-of-argishtikhinili",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 900 BC - 600 BC",
-                "title": "location of Argishtikhinili"
+                "snippet": "Archaeological-site; 900 BC - 600 BC",
+                "title": "OSM location of Argishtikhinili"
             },
             "type": "Feature"
         },
@@ -352,8 +352,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -375,16 +375,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": -600,
             "featureType": [
-                "fort",
-                ""
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
@@ -394,6 +392,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "edit title, summary, add Generic OSM Accuracy Assessment, edit place type",
+                    "modified": "2023-02-26T00:35:00Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-07-12T18:19:15Z",
@@ -435,8 +438,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "provenance": "OpenStreetMap (Way 183430453, version 2, osm:changeset=13297342, 2012-09-29T14:30:58Z)",
             "references": [
@@ -454,7 +456,7 @@
             ],
             "review_state": "published",
             "start": -900,
-            "title": "location of Argishtikhinili",
+            "title": "OSM location of Argishtikhinili",
             "uri": "https://pleiades.stoa.org/places/863745/location-of-argishtikhinili"
         },
         {
@@ -739,13 +741,11 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
         "settlement",
-        "archaeological-site",
-        "fort"
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 88 C4 Armaouira",
     "references": [

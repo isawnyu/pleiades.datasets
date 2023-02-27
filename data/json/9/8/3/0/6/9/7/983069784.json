@@ -199,10 +199,10 @@
             },
             "id": "osm-location-of-odeon-at-messene",
             "properties": {
-                "description": "",
+                "description": "Representative location following data derived from OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/983069784/osm-location-of-odeon-at-messene",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - 30 BC",
+                "snippet": "Odeon; 330 BC - 30 BC",
                 "title": "OSM Location of Odeon at Messene"
             },
             "type": "Feature"
@@ -249,8 +249,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -263,6 +263,12 @@
                 }
             ],
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "homepage": null,
                     "name": "Thomas Landvatter",
@@ -281,14 +287,14 @@
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Representative location following data derived from OpenStreetMap",
             "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "odeon"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/odeon"
             ],
             "geometry": {
                 "coordinates": [
@@ -321,6 +327,11 @@
             },
             "history": [
                 {
+                    "comment": "edit summary, add place type, add Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T14:11:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2022-09-11T02:59:05Z",
                     "modifiedBy": "jbecker"
@@ -346,7 +357,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/odeon"
             ],
             "provenance": "Pleiades",
             "references": [

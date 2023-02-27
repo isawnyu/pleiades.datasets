@@ -95,7 +95,7 @@
                 "description": "Representative location based on a node derived from OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/830186656/location-of-tomb-of-theron",
                 "location_precision": "precise",
-                "snippet": "Tomb, ; 550 BC - 330 BC",
+                "snippet": "Tomb; 550 BC - 330 BC",
                 "title": "OSM location of so-called \"Tomb of Theron\""
             },
             "type": "Feature"
@@ -137,8 +137,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -164,12 +164,10 @@
             "details": "<p>Theron was tyrant of Agrigento from 489 to 472 BC.</p>",
             "end": -330,
             "featureType": [
-                "tomb",
-                ""
+                "tomb"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "geometry": {
                 "coordinates": [
@@ -179,6 +177,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T20:36:54Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-12-16T10:35:08Z",
@@ -227,12 +230,10 @@
             ],
             "id": "location-of-tomb-of-theron",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "provenance": "OpenStreetMap (Node 918324634, version 1, osm:changeset=5819962, 2010-09-19T13:47:03Z)",
             "references": [

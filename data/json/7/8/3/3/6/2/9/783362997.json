@@ -133,11 +133,11 @@
             },
             "id": "osm-location-of-the-deir",
             "properties": {
-                "description": "",
+                "description": "Representative location based on coordinates derived from OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/783362997/osm-location-of-the-deir",
                 "location_precision": "precise",
                 "snippet": "Unknown",
-                "title": "OSM Location of the Deir"
+                "title": "OSM Location of Monastery (Ad Deir)"
             },
             "type": "Feature"
         }
@@ -178,13 +178,20 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2022-09-07T17:48:08Z",
             "creators": [
                 {
@@ -194,7 +201,7 @@
                     "username": "tlandvatter"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on coordinates derived from OpenStreetMap",
             "details": "",
             "end": null,
             "featureType": [
@@ -229,6 +236,11 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment, edit title, summary",
+                    "modified": "2023-02-25T20:15:27Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2022-09-07T18:18:30Z",
@@ -273,7 +285,7 @@
             ],
             "review_state": "published",
             "start": null,
-            "title": "OSM Location of the Deir",
+            "title": "OSM Location of Monastery (Ad Deir)",
             "uri": "https://pleiades.stoa.org/places/783362997/osm-location-of-the-deir"
         }
     ],

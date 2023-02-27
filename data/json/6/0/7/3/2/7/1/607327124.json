@@ -31,11 +31,11 @@
             },
             "id": "location-of-castro-do-zambujal",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/607327124/location-of-castro-do-zambujal",
                 "location_precision": "precise",
-                "snippet": "Settlement, ",
-                "title": "location of Castro do Zambujal"
+                "snippet": "Settlement",
+                "title": "OSM location of Castro do Zambujal"
             },
             "type": "Feature"
         }
@@ -66,8 +66,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -82,16 +82,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": null,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -101,6 +99,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2023-02-24T15:32:54Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-05-18T21:36:14Z",
@@ -127,8 +130,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "OpenStreetMap (Way 233364888, version 2, osm:changeset=18865967, 2013-11-13T00:05:18Z)",
             "references": [
@@ -146,7 +148,7 @@
             ],
             "review_state": "published",
             "start": null,
-            "title": "location of Castro do Zambujal",
+            "title": "OSM location of Castro do Zambujal",
             "uri": "https://pleiades.stoa.org/places/607327124/location-of-castro-do-zambujal"
         }
     ],
