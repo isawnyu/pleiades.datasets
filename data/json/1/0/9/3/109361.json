@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        6.5162051,
-        49.668682,
-        6.5162051,
-        49.668682
+        6.5159035,
+        49.6684814,
+        6.5164695,
+        49.6688907
     ],
     "connections": [],
     "connectsWith": [
@@ -61,23 +61,54 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.5162051,
-                    49.668682
+                    [
+                        6.5164192,
+                        49.6684814
+                    ],
+                    [
+                        6.5159035,
+                        49.6685799
+                    ],
+                    [
+                        6.5160186,
+                        49.6688907
+                    ],
+                    [
+                        6.5164221,
+                        49.6688276
+                    ],
+                    [
+                        6.5163704,
+                        49.6686387
+                    ],
+                    [
+                        6.5164695,
+                        49.6686241
+                    ],
+                    [
+                        6.5164192,
+                        49.6684814
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "archaeological-site-of-roman-vicus",
+            "id": "osm-location-of-rapmische-straaensiedlung",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/109361/archaeological-site-of-roman-vicus",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/109361/osm-location-of-rapmische-straaensiedlung",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Archaeological site of Roman vicus at Tawern"
+                "snippet": "Archaeological-site; 30 BC - AD 640",
+                "title": "OSM location of Römische Straßensiedlung"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "placetype += station",
+            "modified": "2023-02-28T10:23:56Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "DARMC 6764",
             "modified": "2018-12-30T21:23:50Z",
@@ -158,9 +189,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -178,86 +209,109 @@
                 }
             ],
             "contributors": [],
-            "created": "2012-01-10T15:46:26Z",
+            "created": "2023-02-28T01:12:55Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    6.5162051,
-                    49.668682
+                    [
+                        6.5164192,
+                        49.6684814
+                    ],
+                    [
+                        6.5159035,
+                        49.6685799
+                    ],
+                    [
+                        6.5160186,
+                        49.6688907
+                    ],
+                    [
+                        6.5164221,
+                        49.6688276
+                    ],
+                    [
+                        6.5163704,
+                        49.6686387
+                    ],
+                    [
+                        6.5164695,
+                        49.6686241
+                    ],
+                    [
+                        6.5164192,
+                        49.6684814
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:13:22Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:46:45Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2012-01-12T14:52:56Z",
+                    "modified": "2023-02-28T10:22:55Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2012-01-12T14:52:56Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-02-28T01:13:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2023-02-28T01:13:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-02-28T01:12:55Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2012-01-12T14:52:55Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2012-01-12T14:49:31Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2012-01-10T15:48:51Z",
-                    "modifiedBy": "jahlfeldt"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2012-01-10T15:46:27Z",
-                    "modifiedBy": "jahlfeldt"
+                    "modified": "2023-02-28T01:12:55Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "archaeological-site-of-roman-vicus",
+            "id": "osm-location-of-rapmische-straaensiedlung",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Pleiades",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 490962596, version 4, osm:changeset=132104861, 2023-02-05T11:12:18Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/490962596",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 490962596",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=490962596",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Archaeological site of Roman vicus at Tawern",
-            "uri": "https://pleiades.stoa.org/places/109361/archaeological-site-of-roman-vicus"
+            "title": "OSM location of Römische Straßensiedlung",
+            "uri": "https://pleiades.stoa.org/places/109361/osm-location-of-rapmische-straaensiedlung"
         }
     ],
     "names": [
@@ -367,11 +421,15 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
         "sanctuary",
-        "settlement"
+        "station",
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 11 G3 Tabernae",
     "references": [
@@ -454,8 +512,8 @@
         }
     ],
     "reprPoint": [
-        6.5162051,
-        49.668682
+        6.516203657902315,
+        49.66867963136308
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

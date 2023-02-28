@@ -11,8 +11,8 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "at",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectionType": "succeeds",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/succeeds",
             "connectsTo": "https://pleiades.stoa.org/places/334636",
             "contributors": [],
             "created": "2018-06-22T00:18:34Z",
@@ -28,6 +28,11 @@
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2023-02-28T01:29:23Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2018-06-22T00:18:35Z",
@@ -56,7 +61,14 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/334636"
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        }
+    ],
     "created": "2018-06-22T00:18:15Z",
     "creators": [
         {
@@ -89,6 +101,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "title; place type",
+            "modified": "2023-02-28T10:18:52Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "vici.org 11801: Timgad, Byzantine Fortress",
+            "modified": "2023-02-28T01:32:28Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "wikidata Q87745203: Byzantine Fort of Timgad",
             "modified": "2021-10-10T16:07:51Z",
@@ -243,9 +265,11 @@
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
         "fort"
     ],
     "provenance": "Pleiades",
@@ -293,6 +317,17 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://vici.org/vici/11801/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "11801: Timgad, Byzantine Fortress",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
@@ -302,7 +337,7 @@
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Byzantine fortress",
+    "title": "Byzantine fortress at Timgad",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/114562501"
 }
