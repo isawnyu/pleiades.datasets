@@ -204,7 +204,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/776167/osm-location-of-deir-el-muna-ra",
                 "location_precision": "precise",
-                "snippet": "Fort; 30 BC - AD 300",
+                "snippet": "Fort-2; 30 BC - AD 300",
                 "title": "OSM location of  Deir el-Munīra"
             },
             "type": "Feature"
@@ -261,8 +261,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -295,10 +295,10 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "fort"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -383,6 +383,11 @@
             },
             "history": [
                 {
+                    "comment": "Generic OSM Accuracy Assessment, ctype",
+                    "modified": "2023-03-01T00:58:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2017-01-10T16:55:06Z",
                     "modifiedBy": "jbecker"
@@ -403,7 +408,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Way 464779756, version 1, osm:changeset=45033278, 2017-01-09T18:36:03Z)",
             "references": [
@@ -649,10 +654,12 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
         "cemetery",
         "fort"
     ],
@@ -715,7 +722,7 @@
         }
     ],
     "reprPoint": [
-        30.730463459119083,
+        30.73046345911909,
         25.59674886219001
     ],
     "review_state": "published",

@@ -127,7 +127,7 @@
                 "description": "",
                 "link": "https://pleiades.stoa.org/places/38314636/hadrianic-baths",
                 "location_precision": "precise",
-                "snippet": "Bath",
+                "snippet": "Bath; 30 BC - AD 300",
                 "title": "Hadrianic Baths"
             },
             "type": "Feature"
@@ -184,12 +184,19 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
             "contributors": [
                 {
                     "homepage": null,
@@ -215,7 +222,7 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "featureType": [
                 "bath"
             ],
@@ -255,6 +262,11 @@
                 "type": "Polygon"
             },
             "history": [
+                {
+                    "comment": "Google Earth and Partners Imagery 2016 and following",
+                    "modified": "2023-03-01T02:37:52Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "added feature type",
                     "modified": "2018-05-09T18:58:05Z",
@@ -336,7 +348,7 @@
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Hadrianic Baths",
             "uri": "https://pleiades.stoa.org/places/38314636/hadrianic-baths"
         }

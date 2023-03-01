@@ -149,7 +149,7 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/707511/location-of-yeronisos",
                 "location_precision": "precise",
-                "snippet": "Island, ; AD 1700 - AD 2100",
+                "snippet": "Island; AD 1700 - AD 2100",
                 "title": "OSM location of Yeronisos (island)"
             },
             "type": "Feature"
@@ -311,8 +311,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -338,12 +338,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "island",
-                ""
+                "island"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/island",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
             "geometry": {
                 "coordinates": [
@@ -353,6 +351,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-01T02:19:43Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-12-13T12:09:46Z",
@@ -381,12 +384,10 @@
             ],
             "id": "location-of-yeronisos",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/island",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
             "provenance": "OpenStreetMap (Node 246515447, version 4, osm:changeset=20311736, 2014-02-01T05:38:30Z)",
             "references": [
@@ -685,8 +686,8 @@
         }
     ],
     "reprPoint": [
-        32.311513,
-        34.899649
+        32.3114839,
+        34.89951935
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

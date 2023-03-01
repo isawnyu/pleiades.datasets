@@ -1,20 +1,85 @@
 {
     "@type": "Place",
     "bbox": [
-        10.854449,
-        33.727598,
-        10.854449,
-        33.727598
+        10.838071,
+        33.73354,
+        10.838071,
+        33.73354
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/344440",
+            "contributors": [],
+            "created": "2023-02-28T15:09:33Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-28T20:51:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-28T15:09:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-02-28T15:09:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-28T15:09:33Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "meninx-lotophagitis-girba",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "31 C1 Guellala",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Meninx/Lotophagitis/Girba",
+            "uri": "https://pleiades.stoa.org/places/344386/meninx-lotophagitis-girba"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/344440"
+    ],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,38 +87,65 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2009-09-08T19:43:50Z",
+    "created": "2023-02-28T15:14:49Z",
     "creators": [
         {
             "name": "D.J. Mattingly",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 35 C1 Guellala",
-    "details": "The Barrington Atlas Directory notes: Guellala, TUN",
+    "description": "Henchir el Khaway is located on the southwest coast of the island of Djerba, in the northwest outskirts of modern Tunisian village of Guellala. The settlement here was founded at least as early as the fifth century BCE. Its longevity and development are attested by archaeological evidence (both terrestrial and maritime/submerged) dating well into late antiquity.",
+    "details": "<p>The Barrington Atlas Directory notes: Guellala, TUN</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    10.854449,
-                    33.727598
+                    10.838071,
+                    33.73354
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-12622",
+            "id": "imagery-location-centerpoint-of-ancient-site",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/344386/darmc-location-12622",
+                "description": "Centerpoint of ancient site after Ben Tahar 2019 Figure 1 (page 73). Dates after Ben Tahar 2019.",
+                "link": "https://pleiades.stoa.org/places/344386/imagery-location-centerpoint-of-ancient-site",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - AD 640",
-                "title": "DARMC location 12622"
+                "snippet": "Settlement; 500 BC - AD 640",
+                "title": "Imagery Location: Centerpoint of ancient site"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add DARMC 12622 as related to maintain alignment of resources.",
+            "modified": "2023-02-28T20:51:30Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added Dhia-Belhouchet 2022; cleaned up references; added wikidata; summary; place type += production center; added Ben Tahar 2019; summary; title; better locations and more accurate modern names",
+            "modified": "2023-02-28T20:50:08Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2023-02-28T15:14:49Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:47:52Z",
@@ -109,8 +201,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -118,8 +210,8 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "fifth-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fifth-bce"
                 },
                 {
                     "confidence": "confident",
@@ -134,150 +226,360 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "late-antique",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:16:19Z",
+            "contributors": [],
+            "created": "2023-02-28T15:54:17Z",
             "creators": [
                 {
-                    "name": "D.J. Mattingly",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 12622",
+            "description": "Centerpoint of ancient site after Ben Tahar 2019 Figure 1 (page 73). Dates after Ben Tahar 2019.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    10.854449,
-                    33.727598
+                    10.838071,
+                    33.73354
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:24:27Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:06:30Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-02-28T20:50:20Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T21:16:20Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-02-28T16:10:52Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:16:20Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2023-02-28T15:55:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-02-28T15:54:18Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T21:16:19Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-02-28T15:54:17Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-12622",
+            "id": "imagery-location-centerpoint-of-ancient-site",
             "locationType": [
-                "representative"
+                "central_point"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 12622",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://journals.openedition.org/antafr/1159",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12622",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JCH7BB6I",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Ben Tahar, Sami. “Le site antique de Guellala (Jerba) de la prospection à l’étude archéologique.” <i>Antiquités africaines. L’Afrique du Nord de la protohistoire à la conquête arabe</i>, no. 55 (December 31, 2019): 71–95. https://doi.org/10.4000/antafr.1159.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ben Tahar 2019",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -500,
+            "title": "Imagery Location: Centerpoint of ancient site",
+            "uri": "https://pleiades.stoa.org/places/344386/imagery-location-centerpoint-of-ancient-site"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Guellala",
+            "contributors": [],
+            "created": "2023-02-28T16:01:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-28T20:51:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-28T16:10:53Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-02-28T16:01:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-28T16:01:30Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "guellala",
+            "language": "fr",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "35 C1 Guellala",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12622.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://journals.openedition.org/antafr/1159",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JCH7BB6I",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Ben Tahar, Sami. “Le site antique de Guellala (Jerba) de la prospection à l’étude archéologique.” <i>Antiquités africaines. L’Afrique du Nord de la protohistoire à la conquête arabe</i>, no. 55 (December 31, 2019): 71–95. https://doi.org/10.4000/antafr.1159.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ben Tahar 2019",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Guellala",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/344386/guellala"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "هنشيرالخاوي",
+            "contributors": [],
+            "created": "2023-02-28T16:08:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-02-28T20:51:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-02-28T16:10:53Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-02-28T16:09:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-02-28T16:08:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-02-28T16:08:06Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "henchir-el-khaway",
+            "language": "ar",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://journals.openedition.org/antafr/1159",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JCH7BB6I",
+                    "citationDetail": "page 71 and note 3",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Ben Tahar, Sami. “Le site antique de Guellala (Jerba) de la prospection à l’étude archéologique.” <i>Antiquités africaines. L’Afrique du Nord de la protohistoire à la conquête arabe</i>, no. 55 (December 31, 2019): 71–95. https://doi.org/10.4000/antafr.1159.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ben Tahar 2019",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -550,
-            "title": "DARMC location 12622",
-            "uri": "https://pleiades.stoa.org/places/344386/darmc-location-12622"
+            "romanized": "Henchir el Khaway, El Khaway (Henchir), Henchir el Khawi, Hanchir el Khawi",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/344386/henchir-el-khaway"
         }
     ],
-    "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/production",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
+        "production",
         "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 35 C1 Guellala",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "35 C1 Guellala",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 35 C1 Guellala",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#Toutain-1903-285",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FF7VMXWK",
+            "citationDetail": "285",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Toutain 1903 285",
+            "formattedCitation": "<div class=\"csl-entry\">Toutain, J. “Notes et Documents Sur Les Voies Stratégiques et Sur 1’occupation Militaire Du Sud-Tunisien à l’époque Romaine.” <i>Bulletin Archéologique Du Comité Des Travaux Historiques et Scientifiques</i>, 1903, 272–409.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Toutain 1903",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/d.html#Desanges-1980-432-33",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T5K2EH42",
+            "citationDetail": "432-33",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Desanges, J. <i>Pline l’Ancien. Histoire Naturelle, Livre V, 1re Partie: 1-46 (Géographie : L’Afrique Du Nord)</i>. Collection Budé. Paris: Les Belles Lettres, 1980.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Desanges 1980",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://revues.imist.ma/index.php/BAM/article/view/33869",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PNBVRFZN",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Desanges 1980 432-33",
+            "formattedCitation": "<div class=\"csl-entry\">Dhia-Belhouchet, Wafa Ben. “Importance, réemploi et valorisation des dépôts anthropiques de murex dans quelques importants sites archéologiques de la Tunisie.” <i>Bulletin d’Archéologie Marocaine</i> 27, no. 0 (January 31, 2022): 337–45. https://doi.org/10.34874/IMIST.PRSM/bam-v27.33869.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Dhia-Belhouchet 2022",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q2713148",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Guellala (Q2713148)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://journals.openedition.org/antafr/1159",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JCH7BB6I",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Ben Tahar, Sami. “Le site antique de Guellala (Jerba) de la prospection à l’étude archéologique.” <i>Antiquités africaines. L’Afrique du Nord de la protohistoire à la conquête arabe</i>, no. 55 (December 31, 2019): 71–95. https://doi.org/10.4000/antafr.1159.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Ben Tahar 2019",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12622",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        10.854449,
-        33.727598
+        10.838071,
+        33.73354
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
-    "title": "Guellala",
+    "title": "Henchir el Khaway",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/344386"
 }

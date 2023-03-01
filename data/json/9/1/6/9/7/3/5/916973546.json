@@ -159,7 +159,7 @@
                 "description": "verified in Google Earth 2013.",
                 "link": "https://pleiades.stoa.org/places/916973546/location-of-mausoleum-of-romulus",
                 "location_precision": "precise",
-                "snippet": "Tomb, ; AD 300 - AD 640",
+                "snippet": "Tomb; AD 300 - AD 640",
                 "title": "Imagery location of Mausoleum of Romulus"
             },
             "type": "Feature"
@@ -221,8 +221,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -248,12 +248,10 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "tomb",
-                ""
+                "tomb"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "geometry": {
                 "coordinates": [
@@ -263,6 +261,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic GeoHack Accuracy Assessment",
+                    "modified": "2023-03-01T03:16:51Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-08-03T20:35:47Z",
@@ -291,15 +294,25 @@
             ],
             "id": "location-of-mausoleum-of-romulus",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://geohack.toolforge.org/geohack.php?pagename=Mausoleum_of_Maxentius&params=41_51_0_N_12_31_12_E_type:landmark",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "GeoHack - Mausoleum of Maxentius",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": 300,
             "title": "Imagery location of Mausoleum of Romulus",

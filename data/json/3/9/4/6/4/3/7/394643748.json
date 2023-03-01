@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.6289841,
-        45.7459065,
-        -0.6289841,
-        45.7459065
+        -0.6290473,
+        45.7458407,
+        -0.6289923,
+        45.7459687
     ],
     "connections": [
         {
@@ -56,7 +56,14 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/138458"
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        }
+    ],
     "created": "2018-11-11T14:14:27Z",
     "creators": [
         {
@@ -72,18 +79,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.6289841,
-                    45.7459065
+                    [
+                        -0.6290473,
+                        45.7459679
+                    ],
+                    [
+                        -0.6289966,
+                        45.7459687
+                    ],
+                    [
+                        -0.6289923,
+                        45.7458416
+                    ],
+                    [
+                        -0.6290431,
+                        45.7458407
+                    ],
+                    [
+                        -0.6290473,
+                        45.7459679
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "location-of-arch-of-germanicus",
+            "id": "osm-location-of-arch-of-germanicus",
             "properties": {
-                "description": "Representative location based on OSM coordinates.",
-                "link": "https://pleiades.stoa.org/places/394643748/location-of-arch-of-germanicus",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/394643748/osm-location-of-arch-of-germanicus",
                 "location_precision": "precise",
                 "snippet": "Arch; 30 BC - AD 300",
-                "title": "OSM location of Arch of Germanicus"
+                "title": "OSM Location of Arch of Germanicus"
             },
             "type": "Feature"
         }
@@ -124,9 +149,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "substantive",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "restored",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -138,16 +163,22 @@
                 }
             ],
             "contributors": [],
-            "created": "2013-03-12T20:00:20Z",
+            "created": "2023-02-28T23:02:23Z",
             "creators": [
                 {
                     "homepage": null,
                     "name": "Jeffrey Becker",
                     "uri": "https://pleiades.stoa.org/author/jbecker",
                     "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "Representative location based on OSM coordinates.",
+            "description": "Location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
@@ -158,74 +189,86 @@
             ],
             "geometry": {
                 "coordinates": [
-                    -0.6289841,
-                    45.7459065
+                    [
+                        -0.6290473,
+                        45.7459679
+                    ],
+                    [
+                        -0.6289966,
+                        45.7459687
+                    ],
+                    [
+                        -0.6289923,
+                        45.7458416
+                    ],
+                    [
+                        -0.6290431,
+                        45.7458407
+                    ],
+                    [
+                        -0.6290473,
+                        45.7459679
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
                     "comment": "Edited",
-                    "modified": "2018-11-11T14:16:02Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2023-02-28T23:03:21Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Publish externally",
-                    "modified": "2013-03-13T07:10:40Z",
+                    "modified": "2023-02-28T23:03:02Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2013-03-12T20:02:27Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2023-02-28T23:02:58Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "added location",
-                    "modified": "2013-03-12T20:00:28Z",
-                    "modifiedBy": "jbecker"
+                    "comment": "Initial revision",
+                    "modified": "2023-02-28T23:02:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-02-28T23:02:23Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2013-03-12T20:00:22Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2023-02-28T23:02:23Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "location-of-arch-of-germanicus",
+            "id": "osm-location-of-arch-of-germanicus",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
-            "provenance": "Pleiades",
+            "provenance": "OpenStreetMap (Way 205345902, version 12, osm:changeset=96746760, 2020-12-31T18:04:22Z)",
             "references": [
                 {
-                    "accessURI": "https://en.wikipedia.org/wiki/Arch_of_Germanicus",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Arch of Germanicus",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Arch of Germanicus.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "http://purl.org/spar/cito/seeFurther"
-                },
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/528668620",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/205345902",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Node 528668620",
+                    "citationDetail": "Way 205345902",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "OSM Node: L'Arc de Germanicus (528668620)",
-                    "otherIdentifier": " ",
+                    "formattedCitation": "osm:way=205345902",
+                    "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "OSM location of Arch of Germanicus",
-            "uri": "https://pleiades.stoa.org/places/394643748/location-of-arch-of-germanicus"
+            "title": "OSM Location of Arch of Germanicus",
+            "uri": "https://pleiades.stoa.org/places/394643748/osm-location-of-arch-of-germanicus"
         }
     ],
     "names": [],
@@ -272,8 +315,8 @@
         }
     ],
     "reprPoint": [
-        -0.6289841,
-        45.7459065
+        -0.6290198312796632,
+        45.74590470672774
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
