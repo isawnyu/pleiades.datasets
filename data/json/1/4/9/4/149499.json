@@ -146,11 +146,11 @@
             },
             "id": "location-of-pont-flavien",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/149499/location-of-pont-flavien",
                 "location_precision": "precise",
-                "snippet": "Bridge, ; 30 BC - AD 300",
-                "title": "location of Pont Flavien"
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Pont Flavien"
             },
             "type": "Feature"
         }
@@ -412,8 +412,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -435,16 +435,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "bridge",
-                ""
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
@@ -454,6 +452,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-02T01:13:06Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-10-20T03:20:25Z",
@@ -490,8 +493,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "provenance": "OpenStreetMap (Way 87508757, version 3, osm:changeset=12623563, 2012-08-05T17:29:36Z)",
             "references": [
@@ -509,7 +511,7 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "location of Pont Flavien",
+            "title": "OSM location of Pont Flavien",
             "uri": "https://pleiades.stoa.org/places/149499/location-of-pont-flavien"
         }
     ],

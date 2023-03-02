@@ -188,8 +188,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-pastscape-coordinates",
+            "accuracy_value": 200.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -208,6 +208,12 @@
                 }
             ],
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "homepage": null,
                     "name": "Sean Gillies",
@@ -273,6 +279,11 @@
             },
             "history": [
                 {
+                    "comment": "Generic Pastscape Coordinates",
+                    "modified": "2023-03-02T01:12:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T09:53:52Z",
                     "modifiedBy": "admin"
@@ -337,9 +348,11 @@
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tower-single",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "tower-single",
         "fort"
     ],
     "provenance": "Pleiades",

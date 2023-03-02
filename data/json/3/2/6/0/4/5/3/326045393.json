@@ -65,6 +65,12 @@
         },
         {
             "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
@@ -120,7 +126,7 @@
                 "description": "",
                 "link": "https://pleiades.stoa.org/places/326045393/north-agora",
                 "location_precision": "precise",
-                "snippet": "Unknown",
+                "snippet": "Agora",
                 "title": "North Agora"
             },
             "type": "Feature"
@@ -172,13 +178,26 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
             "created": "2010-08-27T21:38:12Z",
             "creators": [
                 {
@@ -192,10 +211,10 @@
             "details": "",
             "end": null,
             "featureType": [
-                "unknown"
+                "agora"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
             ],
             "geometry": {
                 "coordinates": [
@@ -230,6 +249,11 @@
                 "type": "Polygon"
             },
             "history": [
+                {
+                    "comment": "Google Earth and Partners Imagery 2016 and following",
+                    "modified": "2023-03-01T21:06:50Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T07:25:14Z",
@@ -301,7 +325,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
             ],
             "provenance": "Pleiades",
             "references": [],
@@ -313,10 +337,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/plaza"
+        "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+        "https://pleiades.stoa.org/vocabularies/place-types/agora"
     ],
     "placeTypes": [
-        "plaza"
+        "plaza",
+        "agora"
     ],
     "provenance": "Pleiades",
     "references": [

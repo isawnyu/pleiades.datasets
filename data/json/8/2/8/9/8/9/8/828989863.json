@@ -99,10 +99,10 @@
             },
             "id": "osm-location-of-sanctuary-of-aphodite-paphia",
             "properties": {
-                "description": "",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/828989863/osm-location-of-sanctuary-of-aphodite-paphia",
                 "location_precision": "precise",
-                "snippet": "Unknown, Sanctuary",
+                "snippet": "Sanctuary",
                 "title": "OSM Location of Sanctuary of Aphodite Paphia"
             },
             "type": "Feature"
@@ -154,13 +154,19 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "homepage": null,
                     "name": "Thomas Landvatter",
@@ -179,15 +185,13 @@
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": null,
             "featureType": [
-                "unknown",
                 "sanctuary"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
                 "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
             "geometry": {
@@ -198,6 +202,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "summary, Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-02T02:40:30Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-01-26T18:13:28Z",
@@ -224,7 +233,6 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
                 "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
             "provenance": "Pleiades",

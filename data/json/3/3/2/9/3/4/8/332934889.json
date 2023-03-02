@@ -148,7 +148,7 @@
                 "description": "",
                 "link": "https://pleiades.stoa.org/places/332934889/osm-location-of-monumental-mid-republican-building-complex",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - 30 BC",
+                "snippet": "Architecturalcomplex; 330 BC - 30 BC",
                 "title": "OSM Location of Monumental Mid-Republican Building Complex"
             },
             "type": "Feature"
@@ -185,8 +185,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -199,6 +199,12 @@
                 }
             ],
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "homepage": null,
                     "name": "Thomas Landvatter",
@@ -221,10 +227,10 @@
             "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "architecturalcomplex"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
             ],
             "geometry": {
                 "coordinates": [
@@ -261,6 +267,11 @@
             },
             "history": [
                 {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-02T00:52:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2022-09-09T13:53:54Z",
                     "modifiedBy": "jbecker"
@@ -286,7 +297,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -392,10 +403,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/building"
+        "https://pleiades.stoa.org/vocabularies/place-types/building",
+        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
     ],
     "placeTypes": [
-        "building"
+        "building",
+        "architecturalcomplex"
     ],
     "provenance": "Pleiades",
     "references": [

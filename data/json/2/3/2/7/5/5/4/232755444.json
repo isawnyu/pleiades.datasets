@@ -92,10 +92,10 @@
             },
             "id": "osm-location",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/232755444/osm-location",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 800 BC - AD 100",
+                "snippet": "Fort-2; 800 BC - AD 100",
                 "title": "OSM location of Maiden Castle"
             },
             "type": "Feature"
@@ -187,8 +187,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -210,16 +210,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 100,
             "featureType": [
-                "fort",
-                ""
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -229,6 +227,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-01T18:58:06Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-09-09T13:09:18Z",
@@ -257,12 +260,10 @@
             ],
             "id": "osm-location",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Way 146411874, version 3, osm:changeset=17645663, 2013-09-02T23:28:02Z)",
             "references": [
@@ -522,9 +523,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
         "fort"
     ],
     "provenance": "Pleiades",

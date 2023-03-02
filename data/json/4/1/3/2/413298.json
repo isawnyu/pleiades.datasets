@@ -79,7 +79,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/413298/location-of-acropolis-of-san-giovenale",
                 "location_precision": "precise",
-                "snippet": "Settlement; 750 BC - 330 BC",
+                "snippet": "Settlement, Acropolis; 750 BC - 330 BC",
                 "title": "OSM location of acropolis of San Giovenale"
             },
             "type": "Feature"
@@ -250,8 +250,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -283,10 +283,12 @@
             "details": "",
             "end": -330,
             "featureType": [
-                "settlement"
+                "settlement",
+                "acropolis"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/acropolis"
             ],
             "geometry": {
                 "coordinates": [
@@ -296,6 +298,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-02T02:39:38Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-02-12T12:26:06Z",
@@ -317,7 +324,8 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/acropolis"
             ],
             "provenance": "OpenStreetMap (Node 1459871635, version 2, osm:changeset=16396260, 2013-06-02T18:59:56Z)",
             "references": [
@@ -352,10 +360,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/acropolis"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "acropolis"
     ],
     "provenance": "Barrington Atlas: BAtlas 42 C4 S. Giovenale",
     "references": [
@@ -504,8 +514,8 @@
         }
     ],
     "reprPoint": [
-        12.000081,
-        42.224544
+        12.00074285,
+        42.224811
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

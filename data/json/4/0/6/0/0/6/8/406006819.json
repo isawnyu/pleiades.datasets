@@ -38,10 +38,10 @@
             },
             "id": "osm-location-of-villa-gallo-romaine",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/406006819/osm-location-of-villa-gallo-romaine",
                 "location_precision": "precise",
-                "snippet": "Unknown",
+                "snippet": "Villa",
                 "title": "OSM location of Villa gallo-romaine"
             },
             "type": "Feature"
@@ -83,8 +83,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -99,14 +99,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": null,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
@@ -116,6 +116,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-02T02:37:18Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2022-01-28T15:31:31Z",
@@ -137,7 +142,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "provenance": "OpenStreetMap (Node 2425513778, version 1, osm:changeset=17426843, 2013-08-20T13:46:15Z)",
             "references": [

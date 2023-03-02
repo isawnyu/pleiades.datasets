@@ -95,7 +95,7 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/272290638/osm-location-of-scarborough-castle",
                 "location_precision": "precise",
-                "snippet": "Fort, ; AD 640 - AD 2100",
+                "snippet": "Fort; AD 640 - AD 2100",
                 "title": "OSM location of Scarborough Castle"
             },
             "type": "Feature"
@@ -137,8 +137,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -167,15 +167,13 @@
                 }
             ],
             "description": "Location based on OpenStreetMap",
-            "details": "\r\n<p>Now ruined, the edifice of&nbsp;Scarborough Castle began as a twelfth century wooden fortress. The site of the castle, however, was in use in the Iron Age when a hillfort was located on the site and again during the Roman period.</p>\r\n",
+            "details": "<p>Now ruined, the edifice of Scarborough Castle began as a twelfth century wooden fortress. The site of the castle, however, was in use in the Iron Age when a hillfort was located on the site and again during the Roman period.</p>",
             "end": 2100,
             "featureType": [
-                "fort",
-                ""
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
@@ -185,6 +183,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-02T02:43:57Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2018-05-05T19:14:02Z",
@@ -206,8 +209,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "provenance": "OpenStreetMap (Way 148829580, version 4, osm:changeset=12774485, 2012-08-18T16:02:11Z)",
             "references": [

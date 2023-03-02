@@ -104,7 +104,7 @@
             },
             "id": "osm-location-of-pontezzu",
             "properties": {
-                "description": "",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/257120882/osm-location-of-pontezzu",
                 "location_precision": "precise",
                 "snippet": "Bridge; 30 BC - AD 300",
@@ -169,8 +169,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -183,6 +183,12 @@
                 }
             ],
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "homepage": null,
                     "name": "Thomas Landvatter",
@@ -201,7 +207,7 @@
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
@@ -228,6 +234,11 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-02T01:14:57Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2022-09-09T15:06:17Z",

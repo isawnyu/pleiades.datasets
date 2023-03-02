@@ -86,10 +86,10 @@
             },
             "id": "osm-location-of-roman-theater",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/697765430/osm-location-of-roman-theater",
                 "location_precision": "precise",
-                "snippet": "Theatre, ; 30 BC - AD 640",
+                "snippet": "Theatre; 30 BC - AD 640",
                 "title": "OSM location of Roman theater"
             },
             "type": "Feature"
@@ -141,8 +141,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -164,16 +164,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 640,
             "featureType": [
-                "theatre",
-                ""
+                "theatre"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre"
             ],
             "geometry": {
                 "coordinates": [
@@ -183,6 +181,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-02T02:29:32Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-06-19T16:42:31Z",
@@ -204,8 +207,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/theatre",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre"
             ],
             "provenance": "OpenStreetMap (Way 209622851, version 1, osm:changeset=15343560, 2013-03-12T18:34:23Z)",
             "references": [

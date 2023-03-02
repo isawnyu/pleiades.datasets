@@ -38,10 +38,10 @@
             },
             "id": "osm-location-of-santuario-della-madonna-dei",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/824715367/osm-location-of-santuario-della-madonna-dei",
                 "location_precision": "precise",
-                "snippet": "Church; AD 640 - AD 2100",
+                "snippet": "Church-2; AD 640 - AD 2100",
                 "title": "OSM location of Santuario Della Madonna Dei Lattani"
             },
             "type": "Feature"
@@ -83,8 +83,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -112,14 +112,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 2100,
             "featureType": [
-                "church"
+                "church-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -129,6 +129,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment, ctype",
+                    "modified": "2023-03-02T02:43:21Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2018-10-05T10:53:10Z",
@@ -155,7 +160,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "provenance": "OpenStreetMap (Way 343130330, version 1, osm:changeset=30829437, 2015-05-06T04:33:11Z)",
             "references": [
@@ -179,12 +184,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
-        "https://pleiades.stoa.org/vocabularies/place-types/church"
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
     ],
     "placeTypes": [
-        "sanctuary",
-        "church"
+        "church-2",
+        "sanctuary"
     ],
     "provenance": "Pleiades",
     "references": [

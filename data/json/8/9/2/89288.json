@@ -117,7 +117,7 @@
                 "description": "",
                 "link": "https://pleiades.stoa.org/places/89288/centerpoint-of-the-ancient-site",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 30 BC - AD 640",
+                "snippet": "Fort; 30 BC - AD 640",
                 "title": "Centerpoint of the ancient site"
             },
             "type": "Feature"
@@ -242,8 +242,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-pastscape-coordinates",
+            "accuracy_value": 200.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -288,12 +288,10 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "fort",
-                ""
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
@@ -303,6 +301,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic Pastscape Coordinates",
+                    "modified": "2023-03-02T02:45:21Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-09-10T20:58:44Z",
@@ -345,12 +348,9 @@
                 }
             ],
             "id": "centerpoint-of-the-ancient-site",
-            "locationType": [
-                ""
-            ],
+            "locationType": [],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -710,10 +710,12 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/wall-2",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
         "wall-2",
         "fort"
     ],
