@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.333333,
-        41.166667,
-        14.333333,
-        41.166667
+        14.3188858,
+        41.1845076,
+        14.3204767,
+        41.1853166
     ],
     "connections": [],
     "connectsWith": [],
@@ -31,18 +31,52 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.333333,
-                    41.166667
+                    [
+                        14.3189411,
+                        41.1851803
+                    ],
+                    [
+                        14.3198363,
+                        41.1853166
+                    ],
+                    [
+                        14.320141,
+                        41.1852692
+                    ],
+                    [
+                        14.3203925,
+                        41.1851499
+                    ],
+                    [
+                        14.3204767,
+                        41.184967
+                    ],
+                    [
+                        14.3194253,
+                        41.1845076
+                    ],
+                    [
+                        14.3190752,
+                        41.1847866
+                    ],
+                    [
+                        14.3188858,
+                        41.1848201
+                    ],
+                    [
+                        14.3189411,
+                        41.1851803
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "location-of-piana-di-monte-verna",
+            "id": "osm-location",
             "properties": {
-                "description": "Coordinates following GeoHack",
-                "link": "https://pleiades.stoa.org/places/262148219/location-of-piana-di-monte-verna",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/262148219/osm-location",
                 "location_precision": "precise",
-                "snippet": "Settlement-modern; AD 1700 - AD 2100",
-                "title": "Imagery location of Piana di Monte Verna"
+                "snippet": "Fort-2, Archaeological-site; 330 BC - AD 300",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
@@ -98,21 +132,27 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
-            "created": "2012-12-23T22:50:27Z",
+            "created": "2023-03-02T00:56:54Z",
             "creators": [
                 {
                     "homepage": null,
@@ -121,79 +161,111 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Coordinates following GeoHack",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 2100,
+            "end": 300,
             "featureType": [
-                "settlement-modern"
+                "fort-2",
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    14.333333,
-                    41.166667
+                    [
+                        14.3189411,
+                        41.1851803
+                    ],
+                    [
+                        14.3198363,
+                        41.1853166
+                    ],
+                    [
+                        14.320141,
+                        41.1852692
+                    ],
+                    [
+                        14.3203925,
+                        41.1851499
+                    ],
+                    [
+                        14.3204767,
+                        41.184967
+                    ],
+                    [
+                        14.3194253,
+                        41.1845076
+                    ],
+                    [
+                        14.3190752,
+                        41.1847866
+                    ],
+                    [
+                        14.3188858,
+                        41.1848201
+                    ],
+                    [
+                        14.3189411,
+                        41.1851803
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "change type to associated modern, add Data Source reference to GeoHack, add summary, change time period to 'modern'",
-                    "modified": "2023-03-02T00:59:57Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2013-11-19T15:00:20Z",
+                    "modified": "2023-03-02T17:09:01Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2013-07-31T15:38:55Z",
+                    "modified": "2023-03-02T00:57:46Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2013-01-20T22:21:27Z",
+                    "comment": "added OSM location",
+                    "modified": "2023-03-02T00:57:32Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "added location",
-                    "modified": "2012-12-23T22:50:29Z",
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-03-02T00:56:54Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2012-12-23T22:50:28Z",
+                    "modified": "2023-03-02T00:56:54Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-piana-di-monte-verna",
+            "id": "osm-location",
             "locationType": [
-                "associated_modern"
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Pleiades",
+            "provenance": "OpenStreetMap (Way 843237648, version 1, osm:changeset=90260167, 2020-09-01T18:33:27Z)",
             "references": [
                 {
-                    "accessURI": "https://geohack.toolforge.org/geohack.php?pagename=Piana_di_Monte_Verna&params=41_10_N_14_20_E_type:city(2,488)_region:IT",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/843237648",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
+                    "citationDetail": "Way 843237648",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "GeoHack - Piana di Monte Verna",
+                    "formattedCitation": "osm:way=843237648",
                     "otherIdentifier": "",
-                    "shortTitle": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 1700,
-            "title": "Imagery location of Piana di Monte Verna",
-            "uri": "https://pleiades.stoa.org/places/262148219/location-of-piana-di-monte-verna"
+            "start": -330,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/262148219/osm-location"
         }
     ],
     "names": [
@@ -330,8 +402,8 @@
         }
     ],
     "reprPoint": [
-        14.333333,
-        41.166667
+        14.3196413390244,
+        41.184970937519104
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

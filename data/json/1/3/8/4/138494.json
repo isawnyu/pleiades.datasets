@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        1.806194,
-        47.534798,
-        1.806194,
-        47.534798
+        1.8062609,
+        47.5344879,
+        1.8062609,
+        47.5344879
     ],
     "connections": [],
     "connectsWith": [],
@@ -55,18 +55,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    1.806194,
-                    47.534798
+                    1.8062609,
+                    47.5344879
                 ],
                 "type": "Point"
             },
-            "id": "center-point-of-commune-neung-sur-beuvron",
+            "id": "osm-location-of-neung-sur-beuvron",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/138494/center-point-of-commune-neung-sur-beuvron",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/138494/osm-location-of-neung-sur-beuvron",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "Center point of commune Neung-sur-Beuvron"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Neung-sur-Beuvron"
             },
             "type": "Feature"
         }
@@ -127,83 +127,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
             "contributors": [],
-            "created": "2011-10-29T09:18:22Z",
+            "created": "2023-03-01T21:02:03Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    1.806194,
-                    47.534798
+                    1.8062609,
+                    47.5344879
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:24:42Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:01:32Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-11-01T20:07:50Z",
+                    "modified": "2023-03-02T16:28:13Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-10-29T09:18:34Z",
-                    "modifiedBy": "jahlfeldt"
+                    "modified": "2023-03-01T21:02:51Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Initial revision",
-                    "modified": "2011-10-29T09:18:24Z",
-                    "modifiedBy": "jahlfeldt"
+                    "comment": "added OSM location",
+                    "modified": "2023-03-01T21:02:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-03-01T21:02:03Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-10-29T09:18:22Z",
-                    "modifiedBy": "jahlfeldt"
+                    "modified": "2023-03-01T21:02:03Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "center-point-of-commune-neung-sur-beuvron",
+            "id": "osm-location-of-neung-sur-beuvron",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Pleiades",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1760249646, version 9, osm:changeset=128160557, 2022-10-28T08:15:03Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1760249646",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1760249646",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1760249646",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Center point of commune Neung-sur-Beuvron",
-            "uri": "https://pleiades.stoa.org/places/138494/center-point-of-commune-neung-sur-beuvron"
+            "start": 2000,
+            "title": "OSM location of Neung-sur-Beuvron",
+            "uri": "https://pleiades.stoa.org/places/138494/osm-location-of-neung-sur-beuvron"
         }
     ],
     "names": [
@@ -380,8 +394,8 @@
         }
     ],
     "reprPoint": [
-        1.806194,
-        47.534798
+        1.8062609,
+        47.5344879
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

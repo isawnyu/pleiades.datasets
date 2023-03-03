@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        28.72295826282607,
-        37.70607637763953,
-        28.72295826282607,
-        37.70607637763953
+        28.7228862,
+        37.7060742,
+        28.7232029,
+        37.7062633
     ],
     "connections": [
         {
@@ -56,8 +56,15 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/638753"
     ],
-    "contributors": [],
-    "created": "2018-01-12T00:03:21Z",
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        }
+    ],
+    "created": "2023-03-02T15:16:29Z",
     "creators": [
         {
             "homepage": null,
@@ -66,30 +73,67 @@
             "username": "thomase"
         }
     ],
-    "description": "",
-    "details": "",
+    "description": "The Roman Tetrakionion at Aphrodisias has been identified as a Martyrion. Its date of construction is uncertain, ranging from as early as the late second century CE to as late as the 5th-6th century CE.",
+    "details": "<p><a class=\"external-link\" href=\"https://www.zotero.org/groups/2533/items/M6PQZBRK\" target=\"_self\" title=\"\">Boyer 1995</a> summarizes three possible scenarios for dating the monument (pages 31-39): \"Imperial-Late Second Early Third Century AD,\" \"Tetrarchic-Late Third Early Fourth Century AD,\" or \"Late Antique-Fifth or Sixth Century AD.\" He expresses a hesitant preference for the early date. Most of the inscriptions from the structure were not published until 2004 or later (see now <a class=\"external-link\" href=\"https://insaph.kcl.ac.uk/insaph/iaph2007/inscriptions/toc/location/Martyrion.html\" target=\"_self\" title=\"\">IAph 2007 \"Locations: 7. Martyrion\"</a>), and these can be read to argue for one of the latter options. Most of these inscriptions are fragmentary, were found in clear conditions of reuse (some for construction of the building), and date (letter forms) to between the first and second or first-to-fourth centuries. According to C. Roueché (<a class=\"external-link\" href=\"https://insaph.kcl.ac.uk/insaph/iaph2007/iAph070016.html\" target=\"_self\" title=\"\">IAph 2007 7.16</a><span> and</span><span> </span><a class=\"external-link\" href=\"https://insaph.kcl.ac.uk/ala2004/narrative/sec-VII.html#VII.17\" target=\"_self\" title=\"\">ALA 2004 VII.17</a>), four recut column capitals inscribed with crosses are thought to have been re-used from one or more unidentified, earlier churches. Their installation in the martyrion probably does not predate the fifth or sixth century, given they were also inscribed with roughly datable monograms. They therefore provide a <em>terminus post quem</em> for at least a refurbishment or embellishment, if not the entire program, of the building.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    28.72295826282607,
-                    37.70607637763953,
-                    0.0
+                    [
+                        28.7228862,
+                        37.7062453
+                    ],
+                    [
+                        28.7231878,
+                        37.7062633
+                    ],
+                    [
+                        28.7232029,
+                        37.7060922
+                    ],
+                    [
+                        28.7228995,
+                        37.7060742
+                    ],
+                    [
+                        28.7228862,
+                        37.7062453
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "martyrion",
+            "id": "osm-location-of-church",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/46120818/martyrion",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/46120818/osm-location-of-church",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "Martyrion"
+                "snippet": "Church-2; AD 100 - AD 599",
+                "title": "OSM location of Church"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary and details regarding date",
+            "modified": "2023-03-02T16:59:51Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2023-03-02T15:16:29Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up Boyer 1995 reference",
+            "modified": "2023-03-02T14:40:12Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "place type, vici.org reference; update summary, references; updated Locations",
+            "modified": "2023-03-02T14:39:37Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2023-03-01T16:48:13Z",
@@ -120,15 +164,44 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [],
-            "created": "2010-08-27T21:25:16Z",
-            "creators": [
+            "attestations": [
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "second-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/second-ce"
+                },
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "third-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/third-ce"
+                },
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "fourth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fourth-ce"
+                },
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "fifth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fifth-ce"
+                },
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "sixth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/sixth-ce"
+                }
+            ],
+            "contributors": [
                 {
                     "homepage": null,
                     "name": "Tom Elliott",
@@ -136,117 +209,156 @@
                     "username": "thomase"
                 }
             ],
-            "description": "",
-            "details": "",
-            "end": null,
+            "created": "2023-03-01T16:58:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "<p>The Roman Tetrakionion at Ancient Aphrodisias</p>",
+            "end": 599,
             "featureType": [
-                "unknown"
+                "church-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "geometry": {
                 "coordinates": [
-                    28.72295826282607,
-                    37.70607637763953,
-                    0.0
+                    [
+                        28.7228862,
+                        37.7062453
+                    ],
+                    [
+                        28.7231878,
+                        37.7062633
+                    ],
+                    [
+                        28.7232029,
+                        37.7060922
+                    ],
+                    [
+                        28.7228995,
+                        37.7060742
+                    ],
+                    [
+                        28.7228862,
+                        37.7062453
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:25:13Z",
-                    "modifiedBy": "admin"
+                    "comment": "substantive; dates (see argument and references in place details)",
+                    "modified": "2023-03-02T15:40:20Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Publish externally",
-                    "modified": "2011-12-19T20:27:58Z",
+                    "modified": "2023-03-02T14:39:43Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-12-19T20:27:58Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-03-01T17:01:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-03-01T16:58:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-03-01T16:58:02Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-12-19T20:27:56Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-05-12T19:55:22Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-05-12T19:54:47Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-05-12T19:52:00Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-01-10T23:06:14Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-01-10T18:41:32Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Retract",
-                    "modified": "2011-01-10T18:32:02Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2010-08-27T21:41:38Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-08-27T21:40:23Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2010-08-27T21:25:17Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-03-01T16:58:02Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "martyrion",
+            "id": "osm-location-of-church",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
-            "provenance": "Pleiades",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 303400146, version 2, osm:changeset=105700560, 2021-06-01T21:57:48Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/303400146",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 303400146",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=303400146",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Martyrion",
-            "uri": "https://pleiades.stoa.org/places/46120818/martyrion"
+            "start": 100,
+            "title": "OSM location of Church",
+            "uri": "https://pleiades.stoa.org/places/46120818/osm-location-of-church"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
     ],
     "placeTypes": [
-        "unknown"
+        "church-2",
+        "sanctuary"
     ],
     "provenance": "Pleiades",
-    "references": [],
+    "references": [
+        {
+            "accessURI": "https://vici.org/vici/24263/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "24263: Aphrodisias in Caria, Martyrion",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1328&context=hp_theses",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M6PQZBRK",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Boyer, John Edward. “The Roman Tetrakionion at Ancient Aphrodisias: An Analysis, Documentation, and Reconstruction Program.” Masters Thesis, University of Pennsylvania, 1995. https://repository.upenn.edu/hp_theses/449.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Boyer 1995",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://insaph.kcl.ac.uk/insaph/iaph2007/inscriptions/toc/location/Martyrion.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ATIBTGGG",
+            "citationDetail": "Locations: 7. Martyrion",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Reynolds, Joyce, Charlotte Roueché, and Gabriel Bodard. <i>Inscriptions of Aphrodisias 2007</i>. London: Centre for Computing in the Humanities, King’s College, 2007. http://insaph.kcl.ac.uk/iaph2007/index.html.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "IAph 2007",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        }
+    ],
     "reprPoint": [
-        28.72295826282607,
-        37.70607637763953
+        28.723044137152407,
+        37.70616858950915
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

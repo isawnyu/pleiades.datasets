@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        4.424809,
-        49.599239,
-        4.424809,
-        49.599239
+        4.4236039,
+        49.5998941,
+        4.4236039,
+        49.5998941
     ],
     "connections": [],
     "connectsWith": [],
@@ -55,18 +55,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    4.424809,
-                    49.599239
+                    4.4236039,
+                    49.5998941
                 ],
                 "type": "Point"
             },
-            "id": "center-point-of-commune-novion-porcien",
+            "id": "osm-location-of-modern-village-of-novion-porcien",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/109219/center-point-of-commune-novion-porcien",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/109219/osm-location-of-modern-village-of-novion-porcien",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "Center point of commune Novion-Porcien"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of modern village of Novion-Porcien"
             },
             "type": "Feature"
         }
@@ -127,83 +127,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
             "contributors": [],
-            "created": "2011-10-29T11:07:47Z",
+            "created": "2023-03-01T21:00:01Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    4.424809,
-                    49.599239
+                    4.4236039,
+                    49.5998941
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:12:11Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:45:07Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-11-01T19:44:22Z",
+                    "modified": "2023-03-02T16:27:53Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-10-29T11:07:58Z",
-                    "modifiedBy": "jahlfeldt"
+                    "modified": "2023-03-01T21:00:32Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Initial revision",
-                    "modified": "2011-10-29T11:07:49Z",
-                    "modifiedBy": "jahlfeldt"
+                    "comment": "added OSM location",
+                    "modified": "2023-03-01T21:00:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-03-01T21:00:01Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-10-29T11:07:48Z",
-                    "modifiedBy": "jahlfeldt"
+                    "modified": "2023-03-01T21:00:01Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "center-point-of-commune-novion-porcien",
+            "id": "osm-location-of-modern-village-of-novion-porcien",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Pleiades",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 385166151, version 28, osm:changeset=127431315, 2022-10-12T18:36:20Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/385166151",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 385166151",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=385166151",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Center point of commune Novion-Porcien",
-            "uri": "https://pleiades.stoa.org/places/109219/center-point-of-commune-novion-porcien"
+            "start": 2000,
+            "title": "OSM location of modern village of Novion-Porcien",
+            "uri": "https://pleiades.stoa.org/places/109219/osm-location-of-modern-village-of-novion-porcien"
         }
     ],
     "names": [
@@ -225,14 +239,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Noviomagvs",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -240,16 +250,28 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2009-11-02T15:54:56Z",
+            "created": "2023-03-01T20:57:12Z",
             "creators": [
                 {
-                    "name": "C. Haselgrove",
+                    "name": "J. Kunow",
                     "username": null
                 },
                 {
-                    "name": "J. Kunow",
+                    "name": "C. Haselgrove",
                     "username": null
                 }
             ],
@@ -257,6 +279,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "Latin name, TP reference",
+                    "modified": "2023-03-02T16:27:41Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T02:12:11Z",
@@ -284,10 +311,22 @@
                 }
             ],
             "id": "noviomagus",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 11 E3 Noviomagus",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace614.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "1A5 (Talbert 614)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Noviomagus",
             "start": -30,
@@ -352,8 +391,8 @@
         }
     ],
     "reprPoint": [
-        4.424809,
-        49.599239
+        4.4236039,
+        49.5998941
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
