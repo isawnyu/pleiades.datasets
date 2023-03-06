@@ -1,15 +1,14 @@
 {
     "@type": "Place",
     "bbox": [
-        1.771454,
-        49.120178,
-        1.771454,
-        49.120178
+        1.7710257,
+        49.1203993,
+        1.7710257,
+        49.1203993
     ],
     "connections": [],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/114789",
-        "https://pleiades.stoa.org/places/copy_of_114789"
+        "https://pleiades.stoa.org/places/114789"
     ],
     "contributors": [
         {
@@ -22,15 +21,15 @@
         },
         {
             "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
         },
         {
             "homepage": null,
@@ -48,11 +47,11 @@
     "created": "2009-11-02T15:51:20Z",
     "creators": [
         {
-            "name": "J. Kunow",
+            "name": "C. Haselgrove",
             "username": null
         },
         {
-            "name": "C. Haselgrove",
+            "name": "J. Kunow",
             "username": null
         }
     ],
@@ -62,23 +61,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    1.771454,
-                    49.120178
+                    1.7710257,
+                    49.1203993
                 ],
                 "type": "Point"
             },
-            "id": "archaeological-site-les-vaux-de-la-celle",
+            "id": "osm-location-of-vestiges-gallo-romains",
             "properties": {
-                "description": "The site Les Vaux de la Celle is located in the commune Genainville, département Val-d'Oise.",
-                "link": "https://pleiades.stoa.org/places/109004/archaeological-site-les-vaux-de-la-celle",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/109004/osm-location-of-vestiges-gallo-romains",
                 "location_precision": "precise",
-                "snippet": "Sanctuary, ; 30 BC - AD 640",
-                "title": "Archaeological site Les Vaux de la Celle"
+                "snippet": "Archaeological-site; 30 BC - AD 300",
+                "title": "OSM location of Vestiges gallo-romains"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "references",
+            "modified": "2023-03-04T05:26:12Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2016-07-29T11:49:13Z",
@@ -144,8 +148,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -155,15 +159,11 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2023-03-04T03:10:25Z",
+            "creators": [
                 {
                     "homepage": null,
                     "name": "Jeffrey Becker",
@@ -171,94 +171,79 @@
                     "username": "jbecker"
                 }
             ],
-            "created": "2012-03-19T12:20:01Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "The site Les Vaux de la Celle is located in the commune Genainville, département Val-d'Oise.",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "sanctuary",
-                ""
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    1.771454,
-                    49.120178
+                    1.7710257,
+                    49.1203993
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Edited",
-                    "modified": "2016-07-29T11:50:03Z",
+                    "action": "Publish externally",
+                    "modified": "2023-03-05T10:55:28Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-03-04T05:20:59Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2012-06-11T22:50:45Z",
-                    "modifiedBy": "thomase"
+                    "comment": "Edited",
+                    "modified": "2023-03-04T05:20:36Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2012-06-11T22:50:45Z",
-                    "modifiedBy": "thomase"
+                    "comment": "added osm location",
+                    "modified": "2023-03-04T03:10:32Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "action": "Create",
-                    "modified": "2012-06-11T22:50:44Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2012-03-22T21:37:01Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2012-03-22T21:35:56Z",
-                    "modifiedBy": "thomase"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-03-04T03:10:25Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2012-03-22T21:35:47Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2012-03-19T12:24:53Z",
-                    "modifiedBy": "jahlfeldt"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2012-03-19T12:20:02Z",
-                    "modifiedBy": "jahlfeldt"
+                    "modified": "2023-03-04T03:10:25Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "archaeological-site-les-vaux-de-la-celle",
+            "id": "osm-location-of-vestiges-gallo-romains",
             "locationType": [
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Pleiades",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1607081983, version 3, osm:changeset=46329740, 2017-02-23T08:19:49Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1607081983",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1607081983",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1607081983",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Archaeological site Les Vaux de la Celle",
-            "uri": "https://pleiades.stoa.org/places/109004/archaeological-site-les-vaux-de-la-celle"
+            "title": "OSM location of Vestiges gallo-romains",
+            "uri": "https://pleiades.stoa.org/places/109004/osm-location-of-vestiges-gallo-romains"
         }
     ],
     "names": [
@@ -348,50 +333,85 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "sanctuary"
+        "sanctuary",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 11 B3 Génainville",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "11 B3 Génainville",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 11 B3 Génainville",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/31791156",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9ZDRBZ28",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Mitard 1993",
+            "formattedCitation": "<div class=\"csl-entry\">Mitard, Pierre-Henri. <i>Le sanctuaire gallo-romain des Vaux-de-la-Celle a Genainville (Val-d’Oise)</i>. Guiry-en-Vexin: Centre de recherches archeologiques du Vexin francais, 1993.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Mitard 1993",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/185700208",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Petit-1994",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PB7E33G2",
+            "citationDetail": "221",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Petit 1994, 221",
+            "formattedCitation": "<div class=\"csl-entry\">Petit, Jean-Paul, ed. <i>Atlas des agglomérations secondaires de la Gaule Belgique et des Germanies</i>. Paris: Ed. Errance, 1994. http://www.worldcat.org/oclc/185700208.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Petit 1994",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.pop.culture.gouv.fr/notice/merimee/PA00080069",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KQ7A48AA",
+            "citationDetail": "PA00080069: Vestiges gallo-romains des Vaux-de-la-Celle",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Mérimée</i>. Ministére de la Culture (France), 2014. http://www.culture.gouv.fr/Espace-documentation/Bases-de-donnees/Merimee-consultable-depuis-le-moteur-Collections.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Mérimée",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://monumentum.fr/vestiges-gallo-romains-des-vaux-de-la-celle-pa00080069.html",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "monumentum.fr: Vestiges gallo-romains des Vaux-de-la-Celle à Genainville",
             "otherIdentifier": "",
             "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://commons.wikimedia.org/wiki/Category:Vestiges_gallo-romains_de_Genainville",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/L8RBW985",
+            "citationDetail": "Category:Vestiges gallo-romains de Genainville",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Wikimedia Commons. “Wikimedia Commons.” Media file repository, 2004. https://commons.wikimedia.org/wiki/Main_Page.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikimedia Commons",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        1.771454,
-        49.120178
+        1.7710257,
+        49.1203993
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

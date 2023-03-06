@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        30.594006,
-        24.524831,
-        30.601166,
-        24.696005
+        30.5991431,
+        24.6947125,
+        30.6021897,
+        24.6975286
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "in",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/in",
             "connectsTo": "https://pleiades.stoa.org/places/776173",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T14:03:22Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located in",
+                    "modified": "2023-03-04T14:27:11Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:03:22Z",
@@ -54,7 +66,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/776173"
+        "https://pleiades.stoa.org/places/776173",
+        "https://pleiades.stoa.org/places/160004729"
     ],
     "contributors": [
         {
@@ -62,6 +75,12 @@
             "name": "Bruno Bazzani",
             "uri": "https://pleiades.stoa.org/author/bazzani",
             "username": "bazzani"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -86,46 +105,51 @@
         }
     ],
     "description": "The ancient settlement of Shams el-Din in Egypt's Kharga Oasis, which contains a necropolis and 4th century AD church.",
-    "details": "\r\n<p>Reference:</p>\r\n<p>Vivian, Cassandra.&nbsp;<em>The Western Desert of Egypt,</em>&nbsp;Cairo: The American University in Cairo Press, 2000. pp. 84.</p>\r\n",
+    "details": "<p>Reference:</p>\r\n<p>Vivian, Cassandra. <em>The Western Desert of Egypt,</em> Cairo: The American University in Cairo Press, 2000. pp. 84.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    30.594006,
-                    24.524831
+                    [
+                        30.6021897,
+                        24.697503
+                    ],
+                    [
+                        30.6021608,
+                        24.6947125
+                    ],
+                    [
+                        30.5991431,
+                        24.694738
+                    ],
+                    [
+                        30.5991716,
+                        24.6975286
+                    ],
+                    [
+                        30.6021897,
+                        24.697503
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "shams-el-din",
+            "id": "osm-location-of-ain-shams-el-din",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/894410373/shams-el-din",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/894410373/osm-location-of-ain-shams-el-din",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "Shams el-Din"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    30.601166,
-                    24.696005
-                ],
-                "type": "Point"
-            },
-            "id": "church",
-            "properties": {
-                "description": "The church, well visible in Google Earth, is in the SW sector of the archaeological area",
-                "link": "https://pleiades.stoa.org/places/894410373/church",
-                "location_precision": "precise",
-                "snippet": "Church, ; AD 300 - AD 640",
-                "title": "Church"
+                "snippet": "Archaeological-site",
+                "title": "OSM location of Ain Shams el-Din"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-03-04T01:59:48Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added connection to Oasis and Vivian as a properly formatted reference.",
             "modified": "2013-03-13T11:43:10Z",
@@ -211,278 +235,149 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/cassandra-vivians-the-western-desert-of-egypt-2000",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "contributors": [],
-            "created": "2010-09-14T19:08:46Z",
+            "created": "2023-03-04T02:03:50Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Nate Nagy",
-                    "uri": "https://pleiades.stoa.org/author/nnagy",
-                    "username": "nnagy"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
-            "details": "\r\n<div id=\"archetypes-fieldname-text\" class=\"field ArchetypesField-TextField\">\r\n<div id=\"parent-fieldname-text\">\r\n<div id=\"archetypes-fieldname-text\" class=\"field ArchetypesField-TextField\">\r\n<div id=\"parent-fieldname-text\">\r\n<p><strong><span class=\"Apple-style-span\">\r\n</span></strong></p>\r\n<strong>\r\n<p>These coordinates were taken from Cassandra Vivian's book \"The Western Desert of Egypt,\" Cairo: The American University in Cairo Press, 2000.&nbsp;</p>\r\n<p>Reference:</p>\r\n<p>Vivian, Cassandra.&nbsp;<em>The Western Desert of Egypt,</em>&nbsp;Cairo: The American University in Cairo Press, 2000. pp. 84.</p>\r\n</strong>\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": null,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    30.594006,
-                    24.524831
+                    [
+                        30.6021897,
+                        24.697503
+                    ],
+                    [
+                        30.6021608,
+                        24.6947125
+                    ],
+                    [
+                        30.5991431,
+                        24.694738
+                    ],
+                    [
+                        30.5991716,
+                        24.6975286
+                    ],
+                    [
+                        30.6021897,
+                        24.697503
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:25:23Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-12-03T11:25:33Z",
+                    "modified": "2023-03-04T14:26:30Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-23T20:21:03Z",
-                    "modifiedBy": "nnagy"
+                    "modified": "2023-03-04T02:04:13Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "",
-                    "modified": "2010-11-23T20:20:14Z",
-                    "modifiedBy": "nnagy"
+                    "comment": "added osm location",
+                    "modified": "2023-03-04T02:04:06Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "",
-                    "modified": "2010-11-19T18:09:22Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "action": "Retract",
-                    "modified": "2010-11-19T17:53:31Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-11-19T17:53:21Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "comment": "",
-                    "modified": "2010-11-19T17:52:35Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "comment": "",
-                    "modified": "2010-11-18T22:08:46Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "action": "Retract",
-                    "modified": "2010-11-18T22:08:02Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-10-06T21:00:42Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "comment": "linked to accuracy assessment document and cleaned up details",
-                    "modified": "2010-10-06T19:13:58Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "action": "Send back",
-                    "modified": "2010-10-06T18:58:20Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-09-17T16:13:38Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "comment": "",
-                    "modified": "2010-09-17T15:47:47Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "action": "Retract",
-                    "modified": "2010-09-14T19:12:52Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-09-14T19:11:30Z",
-                    "modifiedBy": "nnagy"
-                },
-                {
-                    "comment": "",
-                    "modified": "2010-09-14T19:08:46Z",
-                    "modifiedBy": "nnagy"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-03-04T02:03:50Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-14T19:08:46Z",
-                    "modifiedBy": "nnagy"
+                    "modified": "2023-03-04T02:03:50Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "shams-el-din",
+            "id": "osm-location-of-ain-shams-el-din",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Pleiades",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 1151099454, version 1, osm:changeset=133275256, 2023-03-04T02:03:20Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1151099454",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1151099454",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1151099454",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": null,
-            "title": "Shams el-Din",
-            "uri": "https://pleiades.stoa.org/places/894410373/shams-el-din"
-        },
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-03-06T16:50:43Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Bruno Bazzani",
-                    "uri": "https://pleiades.stoa.org/author/bazzani",
-                    "username": "bazzani"
-                }
-            ],
-            "description": "The church, well visible in Google Earth, is in the SW sector of the archaeological area",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "church",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    30.601166,
-                    24.696005
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2013-03-13T11:34:23Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2013-03-06T19:37:47Z",
-                    "modifiedBy": "bazzani"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-03-06T19:37:05Z",
-                    "modifiedBy": "bazzani"
-                },
-                {
-                    "action": "Retract",
-                    "modified": "2013-03-06T19:20:03Z",
-                    "modifiedBy": "bazzani"
-                },
-                {
-                    "comment": "Baseline created",
-                    "modified": "2013-03-06T16:51:44Z",
-                    "modifiedBy": "bazzani"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2013-03-06T16:51:32Z",
-                    "modifiedBy": "bazzani"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2013-03-06T16:50:50Z",
-                    "modifiedBy": "bazzani"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2013-03-06T16:50:45Z",
-                    "modifiedBy": "bazzani"
-                }
-            ],
-            "id": "church",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "Pleiades",
-            "references": [],
-            "review_state": "published",
-            "start": 300,
-            "title": "Church",
-            "uri": "https://pleiades.stoa.org/places/894410373/church"
+            "title": "OSM location of Ain Shams el-Din",
+            "uri": "https://pleiades.stoa.org/places/894410373/osm-location-of-ain-shams-el-din"
         }
     ],
     "names": [],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
         "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
-        "https://pleiades.stoa.org/vocabularies/place-types/church"
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
         "settlement",
         "cemetery",
-        "church"
+        "archaeological-site"
     ],
     "provenance": "Pleiades",
     "references": [
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/45646753",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ATTPQUPE",
+            "citationDetail": "84",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Vivian 2000, 84",
+            "formattedCitation": "<div class=\"csl-entry\">Vivian, Cassandra. <i>The Western Desert of Egypt: An Explorer’s Handbook</i>. Cairo: American University in Cairo Press, 2000.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Vivian 2000",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://commons.wikimedia.org/wiki/Category:Ain_Shams_el-Din",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/L8RBW985",
+            "citationDetail": "Category:Ain Shams el-Din",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Wikimedia Commons. “Wikimedia Commons.” Media file repository, 2004. https://commons.wikimedia.org/wiki/Main_Page.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikimedia Commons",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        30.597586,
-        24.610418
+        30.600666288041417,
+        24.696120573246212
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

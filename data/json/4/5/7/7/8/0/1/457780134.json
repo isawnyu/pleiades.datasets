@@ -135,7 +135,7 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/457780134/osm-location-of-arch-of-hadrian",
                 "location_precision": "precise",
-                "snippet": "Arch, ; 30 BC - AD 300",
+                "snippet": "Arch; 30 BC - AD 300",
                 "title": "OSM location of Arch of Hadrian"
             },
             "type": "Feature"
@@ -187,8 +187,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -214,12 +214,10 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "arch",
-                ""
+                "arch"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/arch",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
             "geometry": {
                 "coordinates": [
@@ -229,6 +227,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-04T02:10:32Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-06-12T13:36:13Z",
@@ -255,8 +258,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/arch",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
             "provenance": "OpenStreetMap (Node 2952905907, version 1, osm:changeset=24009510, 2014-07-07T18:47:22Z)",
             "references": [

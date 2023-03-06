@@ -113,7 +113,7 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/413079/location-of-lake",
                 "location_precision": "precise",
-                "snippet": "Lake, ; AD 1700 - AD 2100",
+                "snippet": "Lake; AD 1700 - AD 2100",
                 "title": "OSM location of Lago degli Idoli"
             },
             "type": "Feature"
@@ -220,8 +220,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -244,15 +244,13 @@
                 }
             ],
             "description": "Location based on OpenStreetMap",
-            "details": "\r\n<p>A small lake located on the slopes of Monte Falterona that was used as a votive depository in antiquity.</p>\r\n",
+            "details": "<p>A small lake located on the slopes of Monte Falterona that was used as a votive depository in antiquity.</p>",
             "end": 2100,
             "featureType": [
-                "lake",
-                ""
+                "lake"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/lake",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/lake"
             ],
             "geometry": {
                 "coordinates": [
@@ -262,6 +260,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-04T03:09:07Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-12-03T12:26:02Z",
@@ -298,8 +301,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/lake",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/lake"
             ],
             "provenance": "OpenStreetMap (Way 200048126, version 1, osm:changeset=14566303, 2013-01-07T19:06:55Z)",
             "references": [
