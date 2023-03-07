@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        25.133333,
+        25.1332843,
         35.333333,
         25.133333,
-        35.333333
+        35.33908
     ],
     "connections": [
         {
@@ -77,6 +77,12 @@
         },
         {
             "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson",
+            "username": "cjohansson"
+        },
+        {
+            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
@@ -98,6 +104,12 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg",
+            "username": "rrattenborg"
         }
     ],
     "created": "2018-06-08T10:00:13Z",
@@ -129,6 +141,24 @@
                 "location_precision": "precise",
                 "snippet": "Settlement-modern, ; AD 1700 - AD 2100",
                 "title": "centerpoint of modern Heraklion"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.1332843,
+                    35.33908
+                ],
+                "type": "Point"
+            },
+            "id": "erakleio",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/589802/erakleio",
+                "location_precision": "precise",
+                "snippet": "Unknown",
+                "title": "OSM location of Ηράκλειο"
             },
             "type": "Feature"
         }
@@ -347,6 +377,99 @@
             "start": 1700,
             "title": "centerpoint of modern Heraklion",
             "uri": "https://pleiades.stoa.org/places/589802/modern-city-center"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-03-06T11:40:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "unknown"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
+            "geometry": {
+                "coordinates": [
+                    25.1332843,
+                    35.33908
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-03-06T21:43:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-03-06T12:33:06Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-03-06T12:27:17Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-03-06T11:40:11Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-03-06T11:40:10Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "erakleio",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
+            "provenance": "OpenStreetMap (Node 29438069, version 60, osm:changeset=133130133, 2023-02-28T14:00:41Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/29438069",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 29438069",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=29438069",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "OSM location of Ηράκλειο",
+            "uri": "https://pleiades.stoa.org/places/589802/erakleio"
         }
     ],
     "names": [
@@ -829,12 +952,14 @@
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
         "https://pleiades.stoa.org/vocabularies/place-types/port",
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
         "settlement",
         "port",
-        "settlement-modern"
+        "settlement-modern",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 D2 Herakleion",
     "references": [
@@ -895,8 +1020,8 @@
         }
     ],
     "reprPoint": [
-        25.133333,
-        35.333333
+        25.13330865,
+        35.3362065
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
