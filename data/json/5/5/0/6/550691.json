@@ -70,26 +70,26 @@
     ],
     "contributors": [
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         },
         {
             "homepage": null,
             "name": "Ryan Horne",
             "uri": "https://pleiades.stoa.org/author/rmhorne",
             "username": "rmhorne"
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -135,7 +135,7 @@
                 "description": "Representative location based on GeoNames.",
                 "link": "https://pleiades.stoa.org/places/550691/baba-burnu",
                 "location_precision": "precise",
-                "snippet": "Cape, ; AD 1700 - AD 2100",
+                "snippet": "Cape; AD 1700 - AD 2100",
                 "title": "GeoNames location of Baba Burnu"
             },
             "type": "Feature"
@@ -153,13 +153,18 @@
                 "description": "Representative point location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/550691/location-of-cape-baba",
                 "location_precision": "precise",
-                "snippet": "Cape, ; AD 1700 - AD 2100",
+                "snippet": "Cape; AD 1700 - AD 2100",
                 "title": "OSM location of Cape Baba"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-03-08T13:49:25Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-08T00:53:08Z",
@@ -227,7 +232,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
             "accuracy_value": 30.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -239,6 +244,12 @@
                 }
             ],
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "homepage": null,
                     "name": "Tom Elliott",
@@ -259,12 +270,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "cape",
-                ""
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
@@ -274,6 +283,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2023-03-08T13:46:44Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "description",
                     "modified": "2016-06-14T02:46:34Z",
@@ -310,8 +324,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "provenance": "geonames: 322623",
             "references": [
@@ -334,9 +347,9 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -368,12 +381,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "cape",
-                ""
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
@@ -383,6 +394,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Generic OSM Accuracy Assessment",
+                    "modified": "2023-03-08T13:46:10Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "title and description",
                     "modified": "2016-06-14T02:46:11Z",
@@ -416,11 +432,10 @@
             ],
             "id": "location-of-cape-baba",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "provenance": "OpenStreetMap (Node 1581231888, version 6, osm:changeset=19110968, 2013-11-25T14:51:57Z)",
             "references": [
@@ -654,25 +669,25 @@
     "provenance": "Barrington Atlas: BAtlas 56 C3 Lekton Pr.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "56 C3 Lekton Pr.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 56 C3 Lekton Pr.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Lekton-Pr.",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Lekton Pr.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Lekton Pr.",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -689,12 +704,12 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DL%3Aentry+group%3D4%3Aentry%3Dlectum-geo",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "LECTUM",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), LECTUM",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -702,32 +717,32 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "Hom. Il. 14.294",
             "otherIdentifier": " ",
             "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Hdt.%209.114&lang=original",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Hdt. 9.114",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXF7J4U2",
+            "citationDetail": "9.114",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Herodotus. <i>Herodotus</i>. Edited by A. D Godley. 4 vols. Loeb Classical Library. London; New York: W. Heinemann; G.P. Putnam’s Sons, 1921. http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "shortTitle": "Hdt. (Godley: Perseus)",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/366/1203-1222",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "5.123.4",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Plin. HN (Mayhoff: PHI) 5.123.4",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {

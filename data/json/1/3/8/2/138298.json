@@ -4,7 +4,7 @@
         -1.556977,
         47.215319,
         -1.550204,
-        47.218385
+        47.2186371
     ],
     "connections": [
         {
@@ -136,7 +136,7 @@
             },
             "id": "darmc-location-3184",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/138298/darmc-location-3184",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
@@ -159,6 +159,24 @@
                 "location_precision": "precise",
                 "snippet": "Settlement; 330 BC - AD 640",
                 "title": "DARE Location"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.5541362,
+                    47.2186371
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-modern-nantes",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/138298/osm-location-of-modern-nantes",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of modern Nantes"
             },
             "type": "Feature"
         }
@@ -239,8 +257,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -266,22 +284,38 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
+                    "name": "DARMC",
                     "username": null
+                },
+                {
+                    "name": "R. Talbert",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2011-03-09T18:56:34Z",
             "creators": [
                 {
-                    "name": "R.W. Mathisen",
+                    "name": "H.S. Sivan",
                     "username": null
                 },
                 {
-                    "name": "H.S. Sivan",
+                    "name": "R.W. Mathisen",
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 3184",
             "end": 640,
             "featureType": [
@@ -298,6 +332,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added PAA for Barrington Atlas data at 1:1 million scale",
+                    "modified": "2023-03-08T21:59:47Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T02:22:49Z",
@@ -465,6 +504,100 @@
             "start": -330,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/138298/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-03-08T18:49:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -1.5541362,
+                    47.2186371
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-03-08T21:58:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-03-08T18:49:29Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-03-08T18:49:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-03-08T18:49:06Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-03-08T18:49:06Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-modern-nantes",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 26686548, version 57, osm:changeset=79581360, 2020-01-14T20:27:19Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/26686548",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26686548",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=26686548",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of modern Nantes",
+            "uri": "https://pleiades.stoa.org/places/138298/osm-location-of-modern-nantes"
         }
     ],
     "names": [
@@ -858,11 +991,13 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/port"
+        "https://pleiades.stoa.org/vocabularies/place-types/port",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
         "settlement",
-        "port"
+        "port",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 14 D1 Civitas Namnetum/Kondeouinkon?",
     "references": [
@@ -956,8 +1091,8 @@
         }
     ],
     "reprPoint": [
-        -1.5535904999999999,
-        47.216852
+        -1.5537724,
+        47.217447033333336
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
