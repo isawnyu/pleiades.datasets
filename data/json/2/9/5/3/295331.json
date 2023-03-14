@@ -6,8 +6,97 @@
         3.244319,
         36.808485
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "route_next",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/route_next",
+            "connectsTo": "https://pleiades.stoa.org/places/295333",
+            "contributors": [],
+            "created": "2023-03-13T19:45:35Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "ItAnt 16.1-2 (page 2): Rusguniae colonia m.p. XV Rusubbicari",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-03-13T22:18:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-03-13T19:49:22Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-03-13T19:46:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-03-13T19:46:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-03-13T19:45:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-03-13T19:45:35Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "rusubbicari-matidiae",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/936644063",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+                    "citationDetail": "16.1-2 (page 2)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ItAnt (Cuntz)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Rusubbicari Matidiae",
+            "uri": "https://pleiades.stoa.org/places/295331/rusubbicari-matidiae"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/295333",
+        "https://pleiades.stoa.org/places/295276"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -54,7 +143,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 30 F3 Rusguniae",
-    "details": "The Barrington Atlas Directory notes: Tementfoust, formerly Cap Matifou",
+    "details": "<p>The Barrington Atlas Directory notes: Tementfoust, formerly Cap Matifou</p>",
     "features": [
         {
             "geometry": {
@@ -66,7 +155,7 @@
             },
             "id": "darmc-location-14539",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/295331/darmc-location-14539",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 640",
@@ -94,6 +183,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-03-13T22:17:25Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2015-09-02T13:08:37Z",
@@ -187,7 +281,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 14539",
             "end": 640,
             "featureType": [
@@ -476,6 +570,11 @@
             "end": 2100,
             "history": [
                 {
+                    "comment": "ctype to assoc mod",
+                    "modified": "2023-03-13T22:17:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2015-09-02T13:04:23Z",
                     "modifiedBy": "thomase"
@@ -498,7 +597,7 @@
             ],
             "id": "tamentfoust",
             "language": "arq",
-            "nameType": "geographic",
+            "nameType": "associated_modern",
             "provenance": "Pleiades",
             "references": [
                 {
@@ -530,47 +629,47 @@
     "provenance": "Barrington Atlas: BAtlas 30 F3 Rusguniae",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "30 F3 Rusguniae",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 30 F3 Rusguniae",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&viewer=picture",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+            "citationDetail": "5.36",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AAA",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-5.36",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/V6XKRR7W",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "AAA 5.36",
+            "formattedCitation": "<div class=\"csl-entry\">P. Salama. “La Colonie de Rusguniae d’après Les Inscriptions.” <i>Revue Africaine</i> 99 (1955): 5–52.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Salama-1955",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Salama 1955",
-            "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Salama 1955c; Salama 1955",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=rusguniae",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "RUSGUNIAE (Tametfoust) Algeria",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), RUSGUNIAE (Tametfoust) Algeria",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
