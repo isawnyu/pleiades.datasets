@@ -7,7 +7,9 @@
         36.260331
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/835084120"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -47,8 +49,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 31 D4 Mopth(i?)",
-    "details": "<p>The Barrington Atlas Directory notes: Mons</p>",
+    "description": "An ancient settlement and fort known in the 19th and 20th centuries as Henchir el-Ksar. It is located at the eastern foot of the Guellal-ta-Attar where lies the confluence of the Oued Safsaf and the Oued Ghriba (in the modern Algerian municipality of Beni Fouda, Sétif Province). It was on the main ancient route linking Sitifis and Cuicul.",
+    "details": "<p>The Barrington Atlas Directory notes: Mons. See additional discussion and sources at <a class=\"external-link\" href=\"../835084120\" target=\"_self\" title=\"\">P835084120 Mons</a>.</p>",
     "features": [
         {
             "geometry": {
@@ -70,6 +72,21 @@
         }
     ],
     "history": [
+        {
+            "comment": "removed TP reference as it is part of a questionable identification; see the new name Mopti Mvnicipivm",
+            "modified": "2023-03-14T15:11:50Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary; details",
+            "modified": "2023-03-14T14:49:34Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary",
+            "modified": "2023-03-14T14:47:30Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add DARMC location 13797 as related",
             "modified": "2023-03-14T02:27:24Z",
@@ -231,8 +248,8 @@
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -247,7 +264,7 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Mopth[...]",
             "contributors": [
                 {
                     "name": "R. Warner",
@@ -258,17 +275,19 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-10T18:41:09Z",
+            "created": "2023-03-14T14:50:56Z",
             "creators": [
                 {
                     "name": "E.W.B. Fentress",
@@ -279,6 +298,16 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "In the case of this name, BAtlas did not follow its own guidelines for indicating a fragmentary/restored name and instead used typography that the Pleiades import interpreted as association uncertainty. This update corrects the resulting errors, adding/changing the evidence references, attested form, and romanized forms, as well as the language, certainty, and fragmentary flags.",
+                    "modified": "2023-03-14T15:36:55Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2023-03-14T14:50:55Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:05:01Z",
@@ -301,99 +330,50 @@
                 }
             ],
             "id": "mopthi",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 31 D4 Mopth(i?)",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.persee.fr/doc/mefr_0223-4874_1949_num_61_1_8509",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TZ8UPUER",
+                    "citationDetail": "pages 56-58",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Galand, L. “Mons, Mopth... et Mopti: fouilles et topographie africaines.” <i>Mélanges d’archéologie et d’histoire</i> 61, no. 1 (1949): 35–91. https://doi.org/10.3406/mefr.1949.8509.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Galand 1949",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "accessURI": "https://edh.ub.uni-heidelberg.de/edh/inschrift/HD021865",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PY3AZV8F",
+                    "citationDetail": "HD021865",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Alföldy, Géza, and Christian Witschel, eds. <i>Epigraphic Database Heidelberg</i>. Heidelberg: Heidelberg Academy of Sciences and Humanities, 1997. http://edh-www.adw.uni-heidelberg.de/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "EDH",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "accessURI": "https://db.edcs.eu/epigr/epi_url.php?s_sprache=en&p_edcs_id=EDCS-15000102",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/YG2BW6GH",
+                    "citationDetail": "EDCS-15000102",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Clauss, Manfred, Anne Kolb, Wolfgang A. Slaby, and Barbara Woitas, eds. <i>Epigraphik-Datenbank  Clauss / Slaby</i>. Eichstätt: Universität Eichstätt-Ingolstadt, n.d. http://www.manfredclauss.de/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "EDCS",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
-            "romanized": "Mopthi",
+            "romanized": "Mopth(i?), Mopthi",
             "start": -30,
             "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
+            "transcriptionCompleteness": "reconstructable",
             "uri": "https://pleiades.stoa.org/places/305110/mopthi"
-        },
-        {
-            "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "attested": "",
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-10T18:41:10Z",
-            "creators": [
-                {
-                    "name": "E.W.B. Fentress",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 640,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:05:01Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2010-11-10T20:21:41Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-11-10T18:47:06Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2010-11-10T18:41:10Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "mopth",
-            "language": "",
-            "nameType": "geographic",
-            "provenance": "Barrington Atlas: BAtlas 31 D4 Mopth(i?)",
-            "references": [],
-            "review_state": "published",
-            "romanized": "Mopth",
-            "start": -30,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/305110/mopth"
         },
         {
             "@type": "Name",
@@ -471,6 +451,89 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/305110/el-ksar"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident-inferred",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Mopti Municipium",
+            "contributors": [],
+            "created": "2023-03-14T15:10:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-03-14T15:37:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-03-14T15:11:00Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-03-14T15:10:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-03-14T15:10:53Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "mopti-municipium",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace94.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "Mopti Mvnicipivm",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "accessURI": "https://www.persee.fr/doc/mefr_0223-4874_1949_num_61_1_8509",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TZ8UPUER",
+                    "citationDetail": "pages 74 and 84-87",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Galand, L. “Mons, Mopth... et Mopti: fouilles et topographie africaines.” <i>Mélanges d’archéologie et d’histoire</i> 61, no. 1 (1949): 35–91. https://doi.org/10.3406/mefr.1949.8509.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Galand 1949",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Mopti Municipium",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/305110/mopti-municipium"
         }
     ],
     "placeTypeURIs": [
@@ -504,17 +567,6 @@
             "otherIdentifier": "",
             "shortTitle": "Galand 1949",
             "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace94.html",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
-            "citationDetail": "1C4 (Talbert 94)",
-            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
-            "otherIdentifier": "",
-            "shortTitle": "TP (Talbert: CUP)",
-            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/18880",
