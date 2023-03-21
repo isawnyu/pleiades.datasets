@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.37719,
-        27.230174,
-        33.37719,
-        27.230174
+        33.3818282,
+        27.2383776,
+        33.38215,
+        27.2387711
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,28 +44,77 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 78 C3 Wadi Belih",
-    "details": "The Barrington Atlas Directory notes: Wadi Belih",
+    "details": "<p>The Barrington Atlas Directory notes: Wadi Belih</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    33.37719,
-                    27.230174
+                    [
+                        33.3821044,
+                        27.2387711
+                    ],
+                    [
+                        33.3818282,
+                        27.2387353
+                    ],
+                    [
+                        33.3818738,
+                        27.2384754
+                    ],
+                    [
+                        33.3820132,
+                        27.2384897
+                    ],
+                    [
+                        33.3820266,
+                        27.2383776
+                    ],
+                    [
+                        33.3820669,
+                        27.23838
+                    ],
+                    [
+                        33.3820615,
+                        27.2384825
+                    ],
+                    [
+                        33.38215,
+                        27.2384921
+                    ],
+                    [
+                        33.3821044,
+                        27.2387711
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-22637",
+            "id": "wadi-belih",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/766424/darmc-location-22637",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/766424/wadi-belih",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 22637"
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM location of Wadi Belih"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "fort",
+            "modified": "2023-03-20T23:02:55Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up references",
+            "modified": "2023-03-20T23:02:32Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-03-20T23:01:39Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:26:06Z",
@@ -106,8 +155,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -121,124 +170,181 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-10T01:17:16Z",
+            "created": "2014-03-09T01:13:00Z",
             "creators": [
                 {
-                    "name": "S.E. Sidebotham",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22637",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    33.37719,
-                    27.230174
+                    [
+                        33.3821044,
+                        27.2387711
+                    ],
+                    [
+                        33.3818282,
+                        27.2387353
+                    ],
+                    [
+                        33.3818738,
+                        27.2384754
+                    ],
+                    [
+                        33.3820132,
+                        27.2384897
+                    ],
+                    [
+                        33.3820266,
+                        27.2383776
+                    ],
+                    [
+                        33.3820669,
+                        27.23838
+                    ],
+                    [
+                        33.3820615,
+                        27.2384825
+                    ],
+                    [
+                        33.38215,
+                        27.2384921
+                    ],
+                    [
+                        33.3821044,
+                        27.2387711
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:22:41Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:19:19Z",
+                    "modified": "2023-03-20T23:00:52Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-10T01:17:18Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2023-03-20T23:00:45Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:17:18Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "update",
+                    "modified": "2023-03-19T21:47:28Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2014-03-09T01:13:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-03-09T01:13:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-09T01:13:02Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T01:17:17Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-03-09T01:13:02Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-22637",
+            "id": "wadi-belih",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 22637",
+            "provenance": "OpenStreetMap (Way 265139930, version 2, osm:changeset=133910485, 2023-03-20T18:22:37Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/265139930",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22637",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 265139930",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22637.",
+                    "formattedCitation": "osm:way=265139930",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 22637",
-            "uri": "https://pleiades.stoa.org/places/766424/darmc-location-22637"
+            "title": "OSM location of Wadi Belih",
+            "uri": "https://pleiades.stoa.org/places/766424/wadi-belih"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort-2",
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 78 C3 Wadi Belih",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "78 C3 Wadi Belih",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 78 C3 Wadi Belih",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Sidebotham-1991-576-78",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5NGA4JA5",
+            "citationDetail": "576-78",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Sidebotham 1991 576-78",
+            "formattedCitation": "<div class=\"csl-entry\">S.E. Sidebotham, R.E. Zitterkopf, and J.A. Riley. “Survey of the ’Abu Sha’ar-Nile Road.” <i>American Journal of Archaeology: The Journal of the Archaeological Institute of America</i> 95 (1991): 571–622.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Sidebotham 1991",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22637",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        33.37719,
-        27.230174
+        33.38199960100073,
+        27.238585872073063
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
