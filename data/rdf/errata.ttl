@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2023/03/19 06:48:3.845720 GMT-4
+# Date: 2023/03/26 06:48:1.944170 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4303
+# Triple count: 4353
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -200,6 +200,11 @@
     rdfs:label "Deir Abu Matta";
     rdfs:comment "The 5th or 6th century Christian Basilica at Deir Abu Matta, located in Egypt's Dakhleh Oasis.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/756300529> .
+
+<https://pleiades.stoa.org/errata/785993%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Duplicate: Bir el-Hammamat";
+    rdfs:comment "Duplicate for Hammamat.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/785993> .
 
 <https://pleiades.stoa.org/errata/814692%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Kh., see Khirbet";
@@ -2050,6 +2055,52 @@
     owl:sameAs <http://pleiades.stoa.org/errata/756300529/deir-abu-matta>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ] .
 
+<https://pleiades.stoa.org/errata/785993> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "";
+    dcterms:contributor <http://darmc.harvard.edu>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "Bir el-Hammamat";
+    dcterms:creator <http://viaf.org/viaf/48822584>,
+        <http://viaf.org/viaf/7512162>,
+        <https://pleiades.stoa.org/author/keenan-j>;
+    dcterms:description "Duplicate for Hammamat.";
+    dcterms:modified "2023-03-20T18:49:28-04:00";
+    dcterms:subject "dare:ancient=0",
+        "dare:feature=manmade",
+        "dare:major=0";
+    dcterms:title "Duplicate: Bir el-Hammamat";
+    cito:citesForInformation <http://atlantides.org/bibliography/b.html%23Barron-1902-252>,
+        <http://openlibrary.org/works/OL8327792W>;
+    owl:sameAs <http://pleiades.stoa.org/errata/785993>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 80 D2 Bir el-Hammamat" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/well>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/785993/darmc-location-33525> .
+
+<https://pleiades.stoa.org/errata/785993/darmc-location-33525> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "DARMC 33525";
+    dcterms:contributor <http://darmc.harvard.edu>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/48822584>,
+        <http://viaf.org/viaf/7512162>,
+        <https://pleiades.stoa.org/author/keenan-j>;
+    dcterms:description "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.";
+    dcterms:modified "2012-02-14T23:24:58-04:00";
+    dcterms:title "DARMC location 33525";
+    cito:citesAsDataSource <https://darmc.harvard.edu/>;
+    owl:sameAs <http://pleiades.stoa.org/errata/785993/darmc-location-33525>;
+    prov:wasDerivedFrom [ rdfs:label "DARMC OBJECTID: 33525" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican>,
+        <https://pleiades.stoa.org/vocabularies/time-periods/late-antique>,
+        <https://pleiades.stoa.org/vocabularies/time-periods/roman>;
+    pleiades:end_date 640;
+    pleiades:start_date -330 .
+
 <https://pleiades.stoa.org/errata/814692> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "";
@@ -2162,11 +2213,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -2185,11 +2236,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87%23A4>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -2203,11 +2254,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
