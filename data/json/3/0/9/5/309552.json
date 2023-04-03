@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        5.0,
-        36.5,
-        5.5,
-        37.0
+        5.084042,
+        36.754913,
+        5.084042,
+        36.754913
     ],
     "connections": [],
     "connectsWith": [
@@ -52,48 +52,38 @@
         }
     ],
     "description": "An aqueduct tunnel, near Saldae, sometimes referred to as the Nonius Datus tunnel.",
-    "details": "The Barrington Atlas Directory notes: near Saldae",
+    "details": "<p>The Barrington Atlas Directory notes: near Saldae</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            5.0,
-                            36.5
-                        ],
-                        [
-                            5.5,
-                            36.5
-                        ],
-                        [
-                            5.5,
-                            37.0
-                        ],
-                        [
-                            5.0,
-                            37.0
-                        ],
-                        [
-                            5.0,
-                            36.5
-                        ]
-                    ]
+                    5.084042,
+                    36.754913
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "vici-org-location-of-nonius-datus-tunnel",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/309552/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "link": "https://pleiades.stoa.org/places/309552/vici-org-location-of-nonius-datus-tunnel",
+                "location_precision": "precise",
+                "snippet": "Aqueduct, Tunnel; 30 BC - AD 300",
+                "title": "vici.org location of Nonius Datus Tunnel"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Wazer 2021",
+            "modified": "2023-03-31T18:21:53Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2023-03-31T18:21:23Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "changed plaintext to username for sbond as contributor",
             "modified": "2013-09-19T13:57:21Z",
@@ -149,11 +139,11 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/vici-org-25m",
+            "accuracy_value": 25.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -162,150 +152,120 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-10T18:38:49Z",
+            "contributors": [],
+            "created": "2023-03-31T18:23:41Z",
             "creators": [
                 {
-                    "name": "E.W.B. Fentress",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "description": "",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "aqueduct",
+                "tunnel"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+                "https://pleiades.stoa.org/vocabularies/place-types/tunnel"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            5.0,
-                            36.5
-                        ],
-                        [
-                            5.5,
-                            36.5
-                        ],
-                        [
-                            5.5,
-                            37.0
-                        ],
-                        [
-                            5.0,
-                            37.0
-                        ],
-                        [
-                            5.0,
-                            36.5
-                        ]
-                    ]
+                    5.084042,
+                    36.754913
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:06:04Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2023-03-31T20:10:28Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-08-17T14:31:07Z",
-                    "modifiedBy": "thomase"
+                    "comment": "+=tunnel",
+                    "modified": "2023-03-31T19:00:13Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-17T14:29:33Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-03-31T18:23:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add vici.org location",
+                    "modified": "2023-03-31T18:23:42Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-17T14:15:27Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2010-11-10T20:21:27Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-11-10T18:46:53Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2010-11-10T18:38:49Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-03-31T18:23:41Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "vici-org-location-of-nonius-datus-tunnel",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+                "https://pleiades.stoa.org/vocabularies/place-types/tunnel"
             ],
-            "provenance": "Barrington Atlas: BAtlas 31 C3 (west of Saldae)",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://vici.org/vici/31261/",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+                    "citationDetail": "31261: Nonius Datus Tunnel",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "vici.org",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/309552/batlas-location"
+            "title": "vici.org location of Nonius Datus Tunnel",
+            "uri": "https://pleiades.stoa.org/places/309552/vici-org-location-of-nonius-datus-tunnel"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/tunnel"
+        "https://pleiades.stoa.org/vocabularies/place-types/tunnel",
+        "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
     ],
     "placeTypes": [
-        "tunnel"
+        "tunnel",
+        "aqueduct"
     ],
     "provenance": "Barrington Atlas: BAtlas 31 C3 (west of Saldae)",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "31 C3 (west of Saldae)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 31 C3 (west of Saldae)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&viewer=picture",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-7.8",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+            "citationDetail": "7.8",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "AAA 7.8",
+            "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "AAA",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -333,18 +293,40 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JCY8WN8B",
+            "citationDetail": "VIII, 2728",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Corpus inscriptionum latinarum</i>. Berolini: Apud G. Reimerum, 1862.</div>",
+            "otherIdentifier": " ",
+            "shortTitle": "CIL",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://vici.org/vici/31261/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "31261: Nonius Datus Tunnel",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://daily.jstor.org/fixing-the-aqueduct-from-hell/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/G9ZXU5VY",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "CIL VIII, 2728",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "formattedCitation": "<div class=\"csl-entry\">Wazer, Caroline. “Fixing the Aqueduct from Hell.” <i>JSTOR Daily</i> (blog), July 2, 2021. https://daily.jstor.org/fixing-the-aqueduct-from-hell/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wazer 2021",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        5.25,
-        36.75
+        5.084042,
+        36.754913
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

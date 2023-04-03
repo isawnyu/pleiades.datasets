@@ -48,7 +48,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 1 G3 Siculum/Ausonium Mare",
-    "details": "None",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": {
@@ -90,6 +90,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-04-03T02:18:21Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added references",
             "modified": "2015-04-27T14:39:49Z",
@@ -341,15 +346,22 @@
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "attested": "",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Ausonium mare",
             "contributors": [
                 {
-                    "name": "R. Talbert",
+                    "name": "Brian Z. Lund",
                     "username": null
                 },
                 {
-                    "name": "Mary E. Downs",
+                    "name": "R. Talbert",
                     "username": null
                 },
                 {
@@ -357,18 +369,20 @@
                     "username": null
                 },
                 {
-                    "name": "Brian Z. Lund",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Mary E. Downs",
                     "username": null
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2010-06-24T14:11:33Z",
@@ -382,8 +396,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "history": [
+                {
+                    "comment": "reference added",
+                    "modified": "2023-04-03T02:19:41Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T02:20:00Z",
@@ -411,13 +430,25 @@
                 }
             ],
             "id": "ausonium-mare",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 1 G3 Siculum/Ausonium Mare",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/1017/4/8/1240-1253#8",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Sen. Medea 408",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
             "review_state": "published",
             "romanized": "Ausonium Mare",
-            "start": null,
+            "start": -30,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/1282/ausonium-mare"
@@ -432,25 +463,25 @@
     "provenance": "Barrington Atlas: BAtlas 1 G3 Siculum/Ausonium Mare",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "1 G3 Siculum/Ausonium Mare",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 1 G3 Siculum/Ausonium Mare",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Burr-54-59",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/F38WN2BD",
+            "citationDetail": "54-59",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Burr 54-59",
+            "formattedCitation": "<div class=\"csl-entry\">Burr, Viktor. <i>Nostrum Mare. Ursprung Und Geschichte Der Namen Des Mittelmeeres Und Seiner Teilmeere Im Altertum</i>. Stuttgart, 1932.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Burr 1932",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -478,23 +509,23 @@
         {
             "accessURI": "http://de.wikisource.org/wiki/RE:Ausonium_mare",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Ausonium mare",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE:Ausonium mare",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://latin.packhum.org/loc/978/1/241/1870-1878",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "3.75.4",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Plin. HN 3.75.4",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],

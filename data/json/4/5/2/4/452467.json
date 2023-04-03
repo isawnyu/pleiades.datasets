@@ -59,13 +59,18 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/452467/location-of-Tauri-a-num-2018Vaticanum2019-Pr",
                 "location_precision": "precise",
-                "snippet": "Cape, ; AD 1700 - AD 2100",
-                "title": "location of Capo Vaticano"
+                "snippet": "Cape, Lighthouse; AD 1700 - AD 2100",
+                "title": "OSM location of Faro Capo Vaticano"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-04-03T00:01:38Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T05:15:49Z",
@@ -103,7 +108,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -129,11 +134,11 @@
             "end": 2100,
             "featureType": [
                 "cape",
-                ""
+                "lighthouse"
             ],
             "featureTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
             ],
             "geometry": {
                 "coordinates": [
@@ -143,6 +148,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "update",
+                    "modified": "2023-04-03T00:02:49Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "edited title",
                     "modified": "2014-02-07T19:17:17Z",
@@ -180,7 +190,7 @@
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/cape",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
             ],
             "provenance": "OpenStreetMap (Node 1511519712, version 3, osm:changeset=16674413, 2013-06-23T19:10:57Z)",
             "references": [
@@ -209,7 +219,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Capo Vaticano",
+            "title": "OSM location of Faro Capo Vaticano",
             "uri": "https://pleiades.stoa.org/places/452467/location-of-Tauri-a-num-2018Vaticanum2019-Pr"
         }
     ],
@@ -426,33 +436,35 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/cape"
+        "https://pleiades.stoa.org/vocabularies/place-types/cape",
+        "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
     ],
     "placeTypes": [
-        "cape"
+        "cape",
+        "lighthouse"
     ],
     "provenance": "Barrington Atlas: BAtlas 46 C4 Tauri(a)num/‘Vaticanum’ Pr.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "46 C4 Tauri(a)num/‘Vaticanum’ Pr.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 46 C4 Tauri(a)num/‘Vaticanum’ Pr.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-IV",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
+            "citationDetail": "IV, 442-43",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BTCGI IV, 442-43",
+            "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "BTCGI",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
