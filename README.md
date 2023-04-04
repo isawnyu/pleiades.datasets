@@ -4,6 +4,8 @@ Please report problems and make feature requests via [the main _Pleiades_ Gazett
 
 [![License: CC BY 3.0](https://licensebuttons.net/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/) Content is governed by the copyrights of the individual contributors responsible for its creation. Some rights are reserved. All content is distributed under the terms of a [Creative Commons Attribution license (cc-by)](https://creativecommons.org/licenses/by/3.0/).
 
+__Please share notices of data reuse with the _Pleiades_ community via email to pleiades.admin@nyu.edu. These reports help us to justify continued funding and operation of the gazetteer and to prioritize updates and improvements.__
+
 ## Version 3.0 - 4 April 2023
 
 What's new since 2.3 (12 October 2020):
@@ -13,6 +15,8 @@ What's new since 2.3 (12 October 2020):
 - `data/changelogs/`: Monthly changelogs in HTML format since 2009.
 - `data/data_quality`: Some metrics.
 - `gis`: CSV files tested in [QGIS](https://www.qgis.org/en/site/) (likely better than the original CSV package, which is now deprecated, for most use cases).
+
+We encourage use and citation of numbered releases for scholarly work that will be published in static form.
 
 ## Overview
 
