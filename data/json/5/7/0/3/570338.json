@@ -1,12 +1,80 @@
 {
     "@type": "Place",
     "bbox": [
-        24.0,
-        37.5,
-        24.5,
-        38.0
+        24.392812,
+        37.661885,
+        24.392812,
+        37.661885
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/570348",
+            "contributors": [],
+            "created": "2019-01-21T19:04:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-04-03T18:00:25Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "reference, change type to located on",
+                    "modified": "2023-03-31T15:02:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2019-01-21T19:04:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-01-21T19:04:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2019-01-21T19:04:06Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "keos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CRVB72BK",
+                    "citationDetail": "49",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Manthos, K. <i>’Αρχαιολογία Καὶ Ἰστορία Τῆς Νήσου Κέας, LG Mendone (Ed)</i>. Vourkariane, 1991.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Manthos 1991",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Keos (island)",
+            "uri": "https://pleiades.stoa.org/places/570338/keos-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/570348"
     ],
@@ -51,38 +119,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            24.0,
-                            37.5
-                        ],
-                        [
-                            24.5,
-                            37.5
-                        ],
-                        [
-                            24.5,
-                            38.0
-                        ],
-                        [
-                            24.0,
-                            38.0
-                        ],
-                        [
-                            24.0,
-                            37.5
-                        ]
-                    ]
+                    24.392812,
+                    37.661885
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "batlas-location-of-kastri",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570338/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location determined via digitized version of BAtlas 58. Dates after BAltDir.",
+                "link": "https://pleiades.stoa.org/places/570338/batlas-location-of-kastri",
+                "location_precision": "precise",
+                "snippet": "Settlement; 550 BC - AD 300",
+                "title": "BAtlas Location of Kastri"
             },
             "type": "Feature"
         }
@@ -123,8 +171,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -148,112 +196,75 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-20T20:48:18Z",
+            "contributors": [],
+            "created": "2023-04-03T17:59:59Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location determined via digitized version of BAtlas 58. Dates after BAltDir.",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            24.0,
-                            37.5
-                        ],
-                        [
-                            24.5,
-                            37.5
-                        ],
-                        [
-                            24.5,
-                            38.0
-                        ],
-                        [
-                            24.0,
-                            38.0
-                        ],
-                        [
-                            24.0,
-                            37.5
-                        ]
-                    ]
+                    24.392812,
+                    37.661885
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:30:07Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T18:38:06Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-04-03T20:39:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-20T22:18:56Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-04-03T18:00:09Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-04-03T18:00:01Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-20T20:48:18Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-04-03T17:59:59Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-location-of-kastri",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 G2 Kastri",
+            "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570338/batlas-location"
+            "title": "BAtlas Location of Kastri",
+            "uri": "https://pleiades.stoa.org/places/570338/batlas-location-of-kastri"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 58 G2 Kastri",
     "references": [
@@ -281,8 +292,8 @@
         }
     ],
     "reprPoint": [
-        24.25,
-        37.75
+        24.392812,
+        37.661885
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
