@@ -14,7 +14,8 @@ What's new since 2.3 (12 October 2020):
 - `data/bibliography/zotero.csv`: The complete bibliographic library cited in references throughout the dataset.
 - `data/changelogs/`: Monthly changelogs in HTML format since 2009.
 - `data/data_quality`: Some metrics.
-- `gis`: CSV files tested in [QGIS](https://www.qgis.org/en/site/) (likely better than the original CSV package, which is now deprecated, for most use cases).
+- `data/gis`: CSV files tested in [QGIS](https://www.qgis.org/en/site/) (likely better than the original CSV package, which is now deprecated, for most use cases).
+- Deprecation of legacy CSV export in `data/csv`. The new `data/gis` package is likely better for your purposes.
 
 We encourage use and citation of numbered releases for scholarly work that will be published in static form.
 
@@ -58,6 +59,8 @@ In order to avoid performance problems on operating systems that cannot handle l
 NB: Ryan Baumann has created a script that converts the _Pleiades_ CSV files (q.v.) into GeoJSON files for redistribution, together with a handy JSON index of names. These can be found at https://github.com/ryanfb/pleiades-geojson.
 
 ### GIS Package (in CSV format)
+
+__directory: /data/gis/__
 
 A collection of CSV files derived from data in the _Pleiades_ gazetteer of ancient places. This collection is intended to facilitate use of _Pleiades_ data in geographic information systems software. Files have been tested for use in QGIS. See further `data/gis/README.md`.
 
