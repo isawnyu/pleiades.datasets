@@ -4,6 +4,16 @@ Please report problems and make feature requests via [the main Pleiades Gazettee
 
 [![License: CC BY 3.0](https://licensebuttons.net/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/) Content is governed by the copyrights of the individual contributors responsible for its creation. Some rights are reserved. All content is distributed under the terms of a [Creative Commons Attribution license (cc-by)](https://creativecommons.org/licenses/by/3.0/).
 
+## Version 3.0 - 4 April 2023
+
+What's new since 2.3 (12 October 2020):
+
+- 2,655 new and 10,222 updated place resources (see `data/changelogs/release.html` for details)
+- `data/changelogs/`: Monthly changelogs in HTML format since 2009.
+- `data/csv/zotero.csv`: The complete bibliographic library cited in references throughout the dataset.
+- `data/data_quality`: Some metrics.
+- `gis`: CSV files tested in [QGIS](https://www.qgis.org/en/site/) (likely better than the original CSV package for most use cases).
+
 ## Overview
 
 This is a package of data derived from the _Pleiades_ gazetteer of ancient places. It is used for archival and redistribution purposes and is likely to be __less up-to-date than the live data at https://pleiades.stoa.org.__
