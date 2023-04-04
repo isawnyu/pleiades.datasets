@@ -22,20 +22,9 @@ We encourage use and citation of numbered releases for scholarly work that will 
 
 This is a package of data derived from the _Pleiades_ gazetteer of ancient places. It is used for archival and redistribution purposes and is likely to be __less up-to-date than the live data at https://pleiades.stoa.org.__
 
-_Pleiades_ is a community-built gazetteer and graph of ancient places. It
-publishes authoritative information about ancient places and spaces,
-providing unique services for finding, displaying, and reusing that
-information under open license. It publishes not just for individual human
-users, but also for search engines and for the widening array of
-computational research and visualization tools that support humanities
-teaching and research.
+_Pleiades_ is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research.
 
-_Pleiades_ is a continuously published scholarly reference work for the 21st
-century. We embrace the new paradigm of citizen humanities, encouraging
-contributions from any knowledgeable person and doing so in a context of
-pervasive peer review. _Pleiades_ welcomes your contribution, no matter how
-small, and we have a number of useful tasks suitable for volunteers of every
-interest.
+_Pleiades_ is a continuously published scholarly reference work for the 21st century. We embrace the new paradigm of citizen humanities, encouraging contributions from any knowledgeable person and doing so in a context of pervasive peer review. _Pleiades_ welcomes your contribution, no matter how small, and we have a number of useful tasks suitable for volunteers of every interest.
 
 ## Access and Archiving
 
@@ -44,6 +33,7 @@ The latest versions of this package can be had by fork or download from the `mai
  - zenodo.org using the DOI https://doi.org/10.5281/zenodo.1193921
  - archive.nyu.edu using the URI http://hdl.handle.net/2451/34305
  - archive.org ([search for "Pleiades Datasets"](https://archive.org/search?query=Pleiades+Datasets&sort=creator&and%5B%5D=subject%3A%22ancient+geography%22))
+
 ## Credits
 
 _Pleiades_ is brought to you by:
@@ -75,19 +65,9 @@ A collection of CSV files derived from data in the _Pleiades_ gazetteer of ancie
 
 __directory: /data/rdf/__
 
-The __summary__ data for all places, errata, authors, place types, and time periods
-is available for download in Turtle (Terse RDF Triple Language) via
-http://atlantides.org/downloads/pleiades/rdf/pleiades-latest.tar.gz. This is a
-gzip-compressed, TAR archive. Previous RDF dumps are also available at
-http://atlantides.org/downloads/pleiades/rdf/. RDF dumps are updated weekly on
-Sundays. We periodically download, decompress, and unarchive these files. 
+The __summary__ data for all places, errata, authors, place types, and time periods is available for download in Turtle (Terse RDF Triple Language) via http://atlantides.org/downloads/pleiades/rdf/pleiades-latest.tar.gz. This is a gzip-compressed, TAR archive. Previous RDF dumps are also available at http://atlantides.org/downloads/pleiades/rdf/. RDF dumps are updated weekly on Sundays. We periodically download, decompress, and unarchive these files. 
 
-NB: RDF serializations of data for individual places — in both Turtle and
-RDF/XML syntax — can be had from links on the place pages, such as
-http://pleiades.stoa.org/places/579885/turtle for Athens, or by a negotiated
-request for the resource http://pleiades.stoa.org/places/579885#this. Please
-see the README in https://github.com/isawnyu/pleiades-rdf for a description of
-the RDF and the vocabularies and ontologies used.
+NB: RDF serializations of data for individual places — in both Turtle and RDF/XML syntax — can be had from links on the place pages, such as http://pleiades.stoa.org/places/579885/turtle for Athens, or by a negotiated request for the resource http://pleiades.stoa.org/places/579885#this. Please see the README in https://github.com/isawnyu/pleiades-rdf for a description of the RDF and the vocabularies and ontologies used.
 
 ### NEW: Changelogs
 
@@ -123,8 +103,7 @@ __directory: /data/csv/__
 
 **Try the data in `/data/gis/` first. It may be easier to use and more complete for your use case.**
 
-Each morning, tables __summarizing__ the published locations, names, and places are written to compressed CSV files at
-http://atlantides.org/downloads/pleiades/dumps/. We periodically download these files, decompress them, and incorporate them into this distribution package.
+Each morning, tables __summarizing__ the published locations, names, and places are written to compressed CSV files at http://atlantides.org/downloads/pleiades/dumps/. We periodically download these files, decompress them, and incorporate them into this distribution package.
 
 We also periodically export to CSV the contents of [the _Pleiades_ Zotero Library](https://www.zotero.org/groups/2533/pleiades?), which is used for all reference citations in the gazetteer, for incorporation into this package. 
 
