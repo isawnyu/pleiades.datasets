@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        5.0745852,
-        44.2388162,
-        5.0745852,
-        44.2388162
+        5.0745976,
+        44.2388461,
+        5.0747265,
+        44.2389776
     ],
     "connections": [],
     "connectsWith": [],
@@ -45,23 +45,39 @@
         {
             "geometry": {
                 "coordinates": [
-                    5.0745852,
-                    44.2388162
+                    [
+                        5.0745976,
+                        44.2388461
+                    ],
+                    [
+                        5.0747265,
+                        44.2389776
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "location-of-roman-bridge",
+            "id": "osm-location-of-roman-bridge",
             "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/149498/location-of-roman-bridge",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/149498/osm-location-of-roman-bridge",
                 "location_precision": "precise",
-                "snippet": "Bridge, ; 30 BC - AD 300",
-                "title": "location of Roman bridge"
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Pont Romain"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2023-04-04T22:01:19Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2023-04-04T22:00:17Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T02:31:08Z",
@@ -110,8 +126,15 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
-            "created": "2013-09-07T03:34:49Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2023-04-04T20:58:04Z",
             "creators": [
                 {
                     "homepage": null,
@@ -120,25 +143,44 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "bridge",
-                ""
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    5.0745852,
-                    44.2388162
+                    [
+                        5.0745976,
+                        44.2388461
+                    ],
+                    [
+                        5.0747265,
+                        44.2389776
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "update title, summary",
+                    "modified": "2023-04-04T22:01:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-04T21:35:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2023-04-04T20:58:04Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-09-13T13:44:26Z",
@@ -165,15 +207,14 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-roman-bridge",
+            "id": "osm-location-of-roman-bridge",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "OpenStreetMap (Way 33823837, version 7, osm:changeset=16712708, 2013-06-26T12:49:25Z)",
+            "provenance": "OpenStreetMap (Way 33823837, version 15, osm:changeset=132802291, 2023-02-20T17:55:17Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/33823837",
@@ -200,8 +241,8 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "location of Roman bridge",
-            "uri": "https://pleiades.stoa.org/places/149498/location-of-roman-bridge"
+            "title": "OSM location of Pont Romain",
+            "uri": "https://pleiades.stoa.org/places/149498/osm-location-of-roman-bridge"
         }
     ],
     "names": [],
@@ -214,31 +255,31 @@
     "provenance": "Barrington Atlas: BAtlas 15 E1",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "15 E1",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 15 E1",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/g.html#Gazzola-1963",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DD6QDJ75",
+            "citationDetail": "128-29",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Gazzola 1963, 128-29",
+            "formattedCitation": "<div class=\"csl-entry\">Gazzola, Piero. <i>Ponti romani</i>. 2 vols. Firenze: L. S. Olschki, 1963.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Gazzola 1968",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        5.0745852,
-        44.2388162
+        5.07466205,
+        44.23891185
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
