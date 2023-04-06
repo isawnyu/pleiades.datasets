@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.240529,
-        44.1355528,
-        12.2418207,
-        44.136482
+        12.241165,
+        44.1345598,
+        12.2424262,
+        44.1355528
     ],
     "connections": [
         {
@@ -54,7 +54,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/393490"
+        "https://pleiades.stoa.org/places/393490",
+        "https://pleiades.stoa.org/places/396392"
     ],
     "contributors": [
         {
@@ -111,28 +112,72 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.240529,
-                    44.136482
+                    [
+                        12.241165,
+                        44.1349725
+                    ],
+                    [
+                        12.2413451,
+                        44.1353307
+                    ],
+                    [
+                        12.241452,
+                        44.1353056
+                    ],
+                    [
+                        12.2415693,
+                        44.1355025
+                    ],
+                    [
+                        12.2418207,
+                        44.1355528
+                    ],
+                    [
+                        12.2421538,
+                        44.1354816
+                    ],
+                    [
+                        12.2421706,
+                        44.1353475
+                    ],
+                    [
+                        12.2424262,
+                        44.1353433
+                    ],
+                    [
+                        12.24229,
+                        44.1351066
+                    ],
+                    [
+                        12.2422418,
+                        44.1351087
+                    ],
+                    [
+                        12.2422167,
+                        44.1350605
+                    ],
+                    [
+                        12.2422607,
+                        44.1350332
+                    ],
+                    [
+                        12.242128,
+                        44.1348732
+                    ],
+                    [
+                        12.2420072,
+                        44.1347274
+                    ],
+                    [
+                        12.2416657,
+                        44.1345598
+                    ],
+                    [
+                        12.241165,
+                        44.1349725
+                    ]
                 ],
-                "type": "Point"
-            },
-            "id": "darmc-location-18269",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/393397/darmc-location-18269",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 18269"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    12.2418207,
-                    44.1355528
-                ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "osm-location-of-archaeological-area-colle-garampo",
             "properties": {
@@ -146,6 +191,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-04-05T21:25:16Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added topostext",
             "modified": "2020-11-15T16:50:47Z",
@@ -216,117 +266,6 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:15:05Z",
-            "creators": [
-                {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "R. Peretto",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18269",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.240529,
-                    44.136482
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:39:03Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T05:12:15Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T23:15:06Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:15:06Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-03-09T23:15:05Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-18269",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 18269",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18269",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18269.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 18269",
-            "uri": "https://pleiades.stoa.org/places/393397/darmc-location-18269"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
@@ -369,12 +308,79 @@
             ],
             "geometry": {
                 "coordinates": [
-                    12.2418207,
-                    44.1355528
+                    [
+                        12.241165,
+                        44.1349725
+                    ],
+                    [
+                        12.2413451,
+                        44.1353307
+                    ],
+                    [
+                        12.241452,
+                        44.1353056
+                    ],
+                    [
+                        12.2415693,
+                        44.1355025
+                    ],
+                    [
+                        12.2418207,
+                        44.1355528
+                    ],
+                    [
+                        12.2421538,
+                        44.1354816
+                    ],
+                    [
+                        12.2421706,
+                        44.1353475
+                    ],
+                    [
+                        12.2424262,
+                        44.1353433
+                    ],
+                    [
+                        12.24229,
+                        44.1351066
+                    ],
+                    [
+                        12.2422418,
+                        44.1351087
+                    ],
+                    [
+                        12.2422167,
+                        44.1350605
+                    ],
+                    [
+                        12.2422607,
+                        44.1350332
+                    ],
+                    [
+                        12.242128,
+                        44.1348732
+                    ],
+                    [
+                        12.2420072,
+                        44.1347274
+                    ],
+                    [
+                        12.2416657,
+                        44.1345598
+                    ],
+                    [
+                        12.241165,
+                        44.1349725
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-05T21:22:37Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2018-07-12T21:21:00Z",
@@ -419,7 +425,7 @@
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement",
                 "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "OpenStreetMap (Way 70184540, version 2, osm:changeset=11109122, 2012-03-26T18:41:44Z)",
+            "provenance": "OpenStreetMap (Way 70184540, version 4, osm:changeset=86594637, 2020-06-13T09:47:06Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/70184540",
@@ -681,11 +687,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18269",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.24117485,
-        44.1360174
+        12.241800611469225,
+        44.13510690240956
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
