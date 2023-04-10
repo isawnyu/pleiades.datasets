@@ -3,8 +3,8 @@
     "bbox": [
         14.620649,
         41.495165,
-        14.6400306,
-        41.5017874
+        14.6401196,
+        41.5017697
     ],
     "connections": [],
     "connectsWith": [],
@@ -67,23 +67,54 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.6400306,
-                    41.5017874
+                    [
+                        14.6400414,
+                        41.5017697
+                    ],
+                    [
+                        14.6401196,
+                        41.5017278
+                    ],
+                    [
+                        14.640072,
+                        41.501678
+                    ],
+                    [
+                        14.6401096,
+                        41.5016578
+                    ],
+                    [
+                        14.6400007,
+                        41.5015439
+                    ],
+                    [
+                        14.6398849,
+                        41.501606
+                    ],
+                    [
+                        14.6400414,
+                        41.5017697
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "osm-location-of-santa-maria-di-monteverde",
             "properties": {
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/432970/osm-location-of-santa-maria-di-monteverde",
                 "location_precision": "precise",
-                "snippet": "Church, ; AD 300 - AD 640",
+                "snippet": "Church-2; AD 1000 - AD 1099",
                 "title": "OSM location of Santa Maria di Monteverde"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-04-07T21:49:32Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2017-02-20T16:03:16Z",
@@ -246,11 +277,18 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "eleventh-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/eleventh-ce"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2014-11-19T14:52:26Z",
             "creators": [
                 {
@@ -262,23 +300,57 @@
             ],
             "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 1099,
             "featureType": [
-                "church",
-                ""
+                "church-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "geometry": {
                 "coordinates": [
-                    14.6400306,
-                    41.5017874
+                    [
+                        14.6400414,
+                        41.5017697
+                    ],
+                    [
+                        14.6401196,
+                        41.5017278
+                    ],
+                    [
+                        14.640072,
+                        41.501678
+                    ],
+                    [
+                        14.6401096,
+                        41.5016578
+                    ],
+                    [
+                        14.6400007,
+                        41.5015439
+                    ],
+                    [
+                        14.6398849,
+                        41.501606
+                    ],
+                    [
+                        14.6400414,
+                        41.5017697
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "church; 11C",
+                    "modified": "2023-04-07T21:48:41Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-07T21:47:53Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-12-17T18:37:55Z",
@@ -310,10 +382,9 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
-            "provenance": "OpenStreetMap (Way 299794609, version 5, osm:changeset=26887996, 2014-11-19T14:51:19Z)",
+            "provenance": "OpenStreetMap (Way 299794609, version 8, osm:changeset=67306175, 2019-02-18T08:37:47Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/299794609",
@@ -328,7 +399,7 @@
                 }
             ],
             "review_state": "published",
-            "start": 300,
+            "start": 1000,
             "title": "OSM location of Santa Maria di Monteverde",
             "uri": "https://pleiades.stoa.org/places/432970/osm-location-of-santa-maria-di-monteverde"
         }
@@ -480,12 +551,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/church"
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "settlement",
-        "church"
+        "church-2",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 44 G2 Monteverde",
     "references": [
@@ -543,11 +614,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7078",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        14.6400306,
-        41.5017874
+        14.630331797334723,
+        41.49841038814854
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

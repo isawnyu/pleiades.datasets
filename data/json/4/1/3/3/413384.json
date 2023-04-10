@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.054846,
-        42.651732,
-        13.054846,
-        42.651732
+        13.0548181,
+        42.6504899,
+        13.055328,
+        42.6508616
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,51 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.054846,
-                    42.651732
+                    [
+                        13.0550187,
+                        42.6508616
+                    ],
+                    [
+                        13.0548181,
+                        42.650707
+                    ],
+                    [
+                        13.0551274,
+                        42.6504899
+                    ],
+                    [
+                        13.055328,
+                        42.6506444
+                    ],
+                    [
+                        13.0550187,
+                        42.6508616
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-20678",
+            "id": "location-of-villa-san-silvestro-roman-temple",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/413384/darmc-location-20678",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/413384/location-of-villa-san-silvestro-roman-temple",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 20678"
+                "snippet": "Temple-2, ; 330 BC - AD 300",
+                "title": "OSM location of Villa San Silvestro Roman temple"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-04-09T10:06:25Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update references",
+            "modified": "2023-04-09T03:11:45Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "references",
             "modified": "2018-01-01T21:32:50Z",
@@ -161,8 +189,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -180,87 +208,137 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:18:49Z",
+            "contributors": [],
+            "created": "2013-11-03T15:04:25Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 20678",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "temple-2",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    13.054846,
-                    42.651732
+                    [
+                        13.0550187,
+                        42.6508616
+                    ],
+                    [
+                        13.0548181,
+                        42.650707
+                    ],
+                    [
+                        13.0551274,
+                        42.6504899
+                    ],
+                    [
+                        13.055328,
+                        42.6506444
+                    ],
+                    [
+                        13.0550187,
+                        42.6508616
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:52:45Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:15:03Z",
+                    "modified": "2023-04-09T10:05:33Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-10T00:18:50Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-09T03:11:51Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:18:50Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2016-07-29T16:31:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-04-28T16:27:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2015-12-13T05:43:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2013-11-03T15:07:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-11-03T15:06:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-11-03T15:04:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T00:18:49Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2013-11-03T15:04:27Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20678",
+            "id": "location-of-villa-san-silvestro-roman-temple",
             "locationType": [
-                "representative"
+                "representative",
+                ""
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 20678",
+            "provenance": "OpenStreetMap (Way 244567501, version 16, osm:changeset=46743062, 2017-03-10T16:34:08Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/244567501",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20678",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 244567501",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20678.",
+                    "formattedCitation": "osm:way=244567501",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://it.wikipedia.org/wiki/Tempio_romano_di_Villa_San_Silvestro",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
+                    "citationDetail": "Tempio romano di Villa San Silvestro",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Tempio romano di Villa San Silvestro.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 20678",
-            "uri": "https://pleiades.stoa.org/places/413384/darmc-location-20678"
+            "title": "OSM location of Villa San Silvestro Roman temple",
+            "uri": "https://pleiades.stoa.org/places/413384/location-of-villa-san-silvestro-roman-temple"
         }
     ],
     "names": [],
@@ -275,14 +353,14 @@
     "provenance": "Barrington Atlas: BAtlas 42 E3 Villa S. Silvestro",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "42 E3 Villa S. Silvestro",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 42 E3 Villa S. Silvestro",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -321,29 +399,40 @@
         {
             "accessURI": "http://www.trismegistos.org/place/46083",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 46083: Villa San Silvestro",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 46083",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
             "accessURI": "https://www.wikidata.org/wiki/Q16612742",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikidata Q16612742",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q16612742: Roman temple of  Villa San Silvestro",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20678",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.054846,
-        42.651732
+        13.055073047088438,
+        42.650675733767095
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
