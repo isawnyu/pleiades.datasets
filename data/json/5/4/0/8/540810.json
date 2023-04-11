@@ -1,12 +1,87 @@
 {
     "@type": "Place",
     "bbox": [
-        23.593248,
-        39.201475,
-        23.593248,
-        39.201475
+        23.6040076,
+        39.2015851,
+        23.6040076,
+        39.2015851
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/541024",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Brady Kiesling",
+                    "uri": "https://pleiades.stoa.org/author/bkiesling",
+                    "username": "bkiesling"
+                }
+            ],
+            "created": "2019-04-26T15:16:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-04-10T10:40:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "cnxn type, reference",
+                    "modified": "2023-04-09T20:06:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2020-07-05T22:57:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-04-26T15:16:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2019-04-26T15:16:03Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "peparethus-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://topostext.org/place/392236FHel",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Helleniko tower (Skopelos)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Peparethus (island)",
+            "uri": "https://pleiades.stoa.org/places/540810/peparethus-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/541024"
     ],
@@ -65,23 +140,33 @@
         {
             "geometry": {
                 "coordinates": [
-                    23.593248,
-                    39.201475
+                    23.6040076,
+                    39.2015851
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-2462",
+            "id": "osm-location-of-helleniko",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/540810/darmc-location-2462",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/540810/osm-location-of-helleniko",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "DARMC location 2462"
+                "snippet": "Tower-defensive; 550 BC - 30 BC",
+                "title": "OSM location of Helleniko"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "place type -> tower (defensive)",
+            "modified": "2023-04-10T10:40:55Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-04-10T10:40:11Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference iDAI",
             "modified": "2022-06-01T17:16:16Z",
@@ -137,120 +222,111 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "classical",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "hellenistic-republican",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:49:56Z",
+            "contributors": [],
+            "created": "2023-04-09T20:04:52Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 2462",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "tower-defensive"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
             "geometry": {
                 "coordinates": [
-                    23.593248,
-                    39.201475
+                    23.6040076,
+                    39.2015851
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:06:12Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:56:00Z",
+                    "modified": "2023-04-10T10:39:19Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T18:49:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-04-09T20:05:19Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:49:57Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2023-04-09T20:05:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-04-09T20:04:53Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T18:49:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-04-09T20:04:52Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-2462",
+            "id": "osm-location-of-helleniko",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
-            "provenance": "DARMC OBJECTID: 2462",
+            "provenance": "OpenStreetMap (Node 10797693528, version 1, osm:changeset=134702486, 2023-04-09T20:04:25Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/10797693528",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "2462",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 10797693528",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 2462.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=10797693528",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 2462",
-            "uri": "https://pleiades.stoa.org/places/540810/darmc-location-2462"
+            "title": "OSM location of Helleniko",
+            "uri": "https://pleiades.stoa.org/places/540810/osm-location-of-helleniko"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
     ],
     "placeTypes": [
-        "tower-defensive",
-        "fort"
+        "tower-defensive"
     ],
     "provenance": "Barrington Atlas: BAtlas 55 F2 Helleniko",
     "references": [
@@ -297,11 +373,22 @@
             "otherIdentifier": "",
             "shortTitle": "iDAI.gazetteer",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "2462",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.593248,
-        39.201475
+        23.6040076,
+        39.2015851
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

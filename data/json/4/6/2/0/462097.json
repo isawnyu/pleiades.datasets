@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         14.5956489,
-        38.0128274,
-        14.5974572,
+        38.0324655,
+        14.5956489,
         38.0324655
     ],
     "connections": [
@@ -113,27 +113,9 @@
             "username": null
         }
     ],
-    "description": "An ancient place in Sicily, cited: BAtlas 47 F2 Apollonia",
+    "description": "An ancient settlement in the modern S. Fratello commune in northern Sicily.",
     "details": "<p>The Barrington Atlas Directory notes: S. Fratello (contra Manni 1981, 145)</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    14.5974572,
-                    38.0128274
-                ],
-                "type": "Point"
-            },
-            "id": "dare-location",
-            "properties": {
-                "description": "Representative point location, village precision",
-                "link": "https://pleiades.stoa.org/places/462097/dare-location",
-                "location_precision": "precise",
-                "snippet": "Settlement; 330 BC - AD 300",
-                "title": "DARE Location"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -154,6 +136,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; removed 'unknown' from place type",
+            "modified": "2023-04-10T21:59:49Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-04-10T04:18:10Z",
@@ -239,101 +226,6 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [],
-            "created": "2012-10-20T21:24:47Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "Representative point location, village precision",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "settlement"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "geometry": {
-                "coordinates": [
-                    14.5974572,
-                    38.0128274
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2012-10-20T21:24:48Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2012-10-20T21:24:48Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-                    "modified": "2012-10-20T21:24:48Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2012-10-20T21:24:47Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "dare-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
-            "references": [
-                {
-                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "http://purl.org/spar/cito/cites"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "DARE Location",
-            "uri": "https://pleiades.stoa.org/places/462097/dare-location"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
@@ -376,6 +268,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2023-04-10T21:56:28Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Reimported full node geometry and updated provenance",
                     "modified": "2023-04-10T04:18:32Z",
@@ -537,13 +434,25 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-roman-early-empire"
                 }
             ],
-            "attested": "",
+            "attested": "Nolonia",
             "contributors": [
                 {
                     "homepage": null,
                     "name": "Jonathan Prag",
                     "uri": "https://pleiades.stoa.org/author/jprag",
                     "username": "jprag"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2015-09-29T17:04:57Z",
@@ -559,6 +468,11 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "removed question mark",
+                    "modified": "2023-04-10T22:00:42Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-02-08T22:04:16Z",
@@ -644,7 +558,7 @@
                 }
             ],
             "review_state": "published",
-            "romanized": "Nolonia?",
+            "romanized": "Nolonia",
             "start": -330,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
@@ -669,6 +583,18 @@
                     "name": "Jonathan Prag",
                     "uri": "https://pleiades.stoa.org/author/jprag",
                     "username": "jprag"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2015-09-29T17:13:02Z",
@@ -681,9 +607,14 @@
                 }
             ],
             "description": "",
-            "details": "\r\n<p>Apollonia is listed as \"San Fratello\" in the <em>BTCGI</em>. The identification, also supported by the <em>Barrington Atlas</em>, is contradicted by Manni (1981), who suggests Pòllina as a more likely location.</p>\r\n",
+            "details": "<p>Apollonia is listed as \"San Fratello\" in the <em>BTCGI</em>. The identification, also supported by the <em>Barrington Atlas</em>, is contradicted by Manni (1981), who suggests Pòllina as a more likely location.</p>",
             "end": 2100,
             "history": [
+                {
+                    "comment": "associated modern",
+                    "modified": "2023-04-10T22:00:11Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-02-07T04:58:26Z",
@@ -722,7 +653,7 @@
             ],
             "id": "san-fratello",
             "language": "it",
-            "nameType": "geographic",
+            "nameType": "associated_modern",
             "provenance": "Pleiades",
             "references": [
                 {
@@ -1035,8 +966,8 @@
         }
     ],
     "reprPoint": [
-        14.59655305,
-        38.022646449999996
+        14.5956489,
+        38.0324655
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
