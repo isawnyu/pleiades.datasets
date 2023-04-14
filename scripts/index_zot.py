@@ -40,10 +40,34 @@ POSITIONAL_ARGUMENTS = [
 ]
 
 
+def extract_zotkeys(obj: dict) -> list:
+    global zotshorts_d
+    zotkeys = set()
+    for ref in obj["references"]:
+        buri = ref["bibliographicURI"]
+        if "zotero.org" in buri:
+            zotkey = [p for p in buri.split("/") if p][-1]
+            if RX_ZOTKEY.match(zotkey) is None:
+                continue
+            zotkeys.add(zotkey)
+        else:
+            st = ref["shortTitle"]
+            if st:
+                try:
+                    zotkey = zotshorts_d[st]
+                except KeyError:
+                    continue
+                else:
+                    zotkeys.add(zotkey)
+    return zotkeys
+
+
 def main(**kwargs):
     """
     main function
     """
+    global zotshorts_d
+
     # get biblio
     csv_content = get_csv(kwargs["zotero"])["content"]
     zotkeys_d = {r["Key"]: r for r in csv_content}
@@ -52,6 +76,7 @@ def main(**kwargs):
         for r in csv_content
         if r["Short Title"].strip()
     }
+
     # crawl json
     path = Path(kwargs["json"])
     works2places = dict()
@@ -61,30 +86,20 @@ def main(**kwargs):
                 with open(p, "r", encoding="utf-8") as fp:
                     j = json.load(fp)
                 del fp
-                for ref in j["references"]:
-                    buri = ref["bibliographicURI"]
-                    if "zotero.org" in buri:
-                        zotkey = [p for p in buri.split("/") if p][-1]
-                        if RX_ZOTKEY.match(zotkey) is None:
-                            continue
-                        try:
-                            works2places[zotkey]
-                        except KeyError:
-                            works2places[zotkey] = set()
-                        works2places[zotkey].add(j["uri"])
-                    else:
-                        st = ref["shortTitle"]
-                        if st:
-                            try:
-                                zotkey = zotshorts_d[st]
-                            except KeyError:
-                                continue
-                            else:
-                                try:
-                                    works2places[zotkey]
-                                except KeyError:
-                                    works2places[zotkey] = set()
-                                works2places[zotkey].add(j["uri"])
+                zotkeys = extract_zotkeys(j)
+                for k in ["locations", "names", "connections"]:
+                    for obj in j[k]:
+                        zotkeys.update(extract_zotkeys(obj))
+                if zotkeys:
+                    slug = [p for p in j["uri"].split("/") if p][-1]
+                else:
+                    continue
+                for zotkey in zotkeys:
+                    try:
+                        works2places[zotkey]
+                    except KeyError:
+                        works2places[zotkey] = set()
+                    works2places[zotkey].add(slug)
     from pprint import pprint
 
     pprint(works2places, indent=4)
