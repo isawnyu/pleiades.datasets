@@ -87,6 +87,8 @@ def main(**kwargs):
     # crawl json
     path = Path(kwargs["json"])
     works2places = dict()
+    bad_zotkeys = dict()
+    bad_pids_by_zotkeys = dict()
     for p in path.rglob("*"):
         if p.is_file():
             if p.suffix == ".json":
@@ -103,6 +105,19 @@ def main(**kwargs):
                     continue
                 for zotkey in zotkeys:
                     try:
+                        zotkeys_d[zotkey]
+                    except KeyError:
+                        try:
+                            bad_zotkeys[zotkey]
+                        except KeyError:
+                            bad_zotkeys[zotkey] = 0
+                        bad_zotkeys[zotkey] += 1
+                        try:
+                            bad_pids_by_zotkeys[zotkey]
+                        except KeyError:
+                            bad_pids_by_zotkeys[zotkey] = set()
+                        bad_pids_by_zotkeys[zotkey].add(slug)
+                    try:
                         works2places[zotkey]
                     except KeyError:
                         works2places[zotkey] = set()
@@ -112,6 +127,11 @@ def main(**kwargs):
         works2places, ensure_ascii=False, indent=4, sort_keys=True, cls=SetEncoder
     )
     print(outj)
+    logger.error(type(bad_zotkeys))
+    for badk, count in sorted(bad_zotkeys.items(), key=lambda x: x[1], reverse=True):
+        logger.error(
+            f"Bad Zotkey: '{badk}': {count}\t: pids: {', '.join(bad_pids_by_zotkeys[badk])}"
+        )
 
 
 if __name__ == "__main__":
