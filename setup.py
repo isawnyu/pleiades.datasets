@@ -21,6 +21,7 @@ setuptools.setup(
     install_requires=[
         "airtight",
         "beautifulsoup4",
+        "encoded_csv",
         "lxml",
         "python-dateutil",
         "requests",
