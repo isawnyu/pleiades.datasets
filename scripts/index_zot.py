@@ -10,7 +10,7 @@ from pathlib import Path
 import re
 
 logger = logging.getLogger(__name__)
-RX_ZOTKEY = re.compile(r"^[A-Z0-0]{8}$")
+RX_ZOTKEY = re.compile(r"^[A-Z0-9]{8}$")
 
 DEFAULT_LOG_LEVEL = logging.WARNING
 DEFAULT_JSON_PATH = "data/json/"
@@ -38,6 +38,13 @@ OPTIONAL_ARGUMENTS = [
 POSITIONAL_ARGUMENTS = [
     # each row is a list with 3 elements: name, type, help
 ]
+
+
+class SetEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, set):
+            return sorted(list(obj), key=lambda x: int(x))
+        return json.JSONEncoder.default(self, obj)
 
 
 def extract_zotkeys(obj: dict) -> list:
@@ -100,9 +107,11 @@ def main(**kwargs):
                     except KeyError:
                         works2places[zotkey] = set()
                     works2places[zotkey].add(slug)
-    from pprint import pprint
 
-    pprint(works2places, indent=4)
+    outj = json.dumps(
+        works2places, ensure_ascii=False, indent=4, sort_keys=True, cls=SetEncoder
+    )
+    print(outj)
 
 
 if __name__ == "__main__":
