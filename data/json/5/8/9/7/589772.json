@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         24.663544,
-        35.328097,
-        24.684822,
+        35.3283465,
+        24.6774108,
         35.33867
     ],
     "connections": [
@@ -58,20 +58,18 @@
     ],
     "contributors": [
         {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -81,19 +79,21 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "homepage": null,
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-07T21:36:13Z",
@@ -108,26 +108,8 @@
         }
     ],
     "description": "Eleutherna was an ancient polis on Crete, some 25 km from Rethymno.",
-    "details": "The Barrington Atlas Directory notes: Prines",
+    "details": "<p>The Barrington Atlas Directory notes: Prines</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    24.684822,
-                    35.328097
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-12322",
-            "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/589772/darmc-location-12322",
-                "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 12322"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -167,10 +149,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    24.6748743,
-                    35.3330915
+                    [
+                        24.6749109,
+                        35.3330773
+                    ],
+                    [
+                        24.6745276,
+                        35.3328651
+                    ],
+                    [
+                        24.6748437,
+                        35.3323359
+                    ],
+                    [
+                        24.6752979,
+                        35.3324176
+                    ],
+                    [
+                        24.6749109,
+                        35.3330773
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "location-of-archaeological-area-acropolis",
             "properties": {
@@ -185,10 +185,72 @@
         {
             "geometry": {
                 "coordinates": [
-                    24.6764782,
-                    35.333144
+                    [
+                        24.6765712,
+                        35.3330173
+                    ],
+                    [
+                        24.6763816,
+                        35.3333173
+                    ],
+                    [
+                        24.6761153,
+                        35.3332323
+                    ],
+                    [
+                        24.6760328,
+                        35.3331437
+                    ],
+                    [
+                        24.6761963,
+                        35.3327965
+                    ],
+                    [
+                        24.6763715,
+                        35.3324812
+                    ],
+                    [
+                        24.67659,
+                        35.3322592
+                    ],
+                    [
+                        24.6768115,
+                        35.3321789
+                    ],
+                    [
+                        24.6768622,
+                        35.3323053
+                    ],
+                    [
+                        24.6769143,
+                        35.3324116
+                    ],
+                    [
+                        24.6769809,
+                        35.3324423
+                    ],
+                    [
+                        24.6772689,
+                        35.3324423
+                    ],
+                    [
+                        24.6774108,
+                        35.3326076
+                    ],
+                    [
+                        24.6770026,
+                        35.3329571
+                    ],
+                    [
+                        24.6767001,
+                        35.3329359
+                    ],
+                    [
+                        24.6765712,
+                        35.3330173
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "location-of-archaeological-area",
             "properties": {
@@ -202,6 +264,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-04-14T22:29:39Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T21:36:17Z",
@@ -260,131 +327,6 @@
     ],
     "id": "589772",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:08:07Z",
-            "creators": [
-                {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 12322",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    24.684822,
-                    35.328097
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:48:04Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T05:06:01Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T21:08:08Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:08:08Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-03-09T21:08:07Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-12322",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 12322",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12322",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12322.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 12322",
-            "uri": "https://pleiades.stoa.org/places/589772/darmc-location-12322"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
@@ -639,12 +581,35 @@
             ],
             "geometry": {
                 "coordinates": [
-                    24.6748743,
-                    35.3330915
+                    [
+                        24.6749109,
+                        35.3330773
+                    ],
+                    [
+                        24.6745276,
+                        35.3328651
+                    ],
+                    [
+                        24.6748437,
+                        35.3323359
+                    ],
+                    [
+                        24.6752979,
+                        35.3324176
+                    ],
+                    [
+                        24.6749109,
+                        35.3330773
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-14T22:28:13Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-08-01T12:03:58Z",
@@ -685,7 +650,7 @@
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement",
                 "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "OpenStreetMap (Way 239699196, version 1, osm:changeset=18070930, 2013-09-28T03:02:29Z)",
+            "provenance": "OpenStreetMap (Way 239699196, version 5, osm:changeset=132108562, 2023-02-05T13:15:06Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/239699196",
@@ -742,12 +707,79 @@
             ],
             "geometry": {
                 "coordinates": [
-                    24.6764782,
-                    35.333144
+                    [
+                        24.6765712,
+                        35.3330173
+                    ],
+                    [
+                        24.6763816,
+                        35.3333173
+                    ],
+                    [
+                        24.6761153,
+                        35.3332323
+                    ],
+                    [
+                        24.6760328,
+                        35.3331437
+                    ],
+                    [
+                        24.6761963,
+                        35.3327965
+                    ],
+                    [
+                        24.6763715,
+                        35.3324812
+                    ],
+                    [
+                        24.67659,
+                        35.3322592
+                    ],
+                    [
+                        24.6768115,
+                        35.3321789
+                    ],
+                    [
+                        24.6768622,
+                        35.3323053
+                    ],
+                    [
+                        24.6769143,
+                        35.3324116
+                    ],
+                    [
+                        24.6769809,
+                        35.3324423
+                    ],
+                    [
+                        24.6772689,
+                        35.3324423
+                    ],
+                    [
+                        24.6774108,
+                        35.3326076
+                    ],
+                    [
+                        24.6770026,
+                        35.3329571
+                    ],
+                    [
+                        24.6767001,
+                        35.3329359
+                    ],
+                    [
+                        24.6765712,
+                        35.3330173
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-14T22:28:02Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-08-02T10:40:07Z",
@@ -788,7 +820,7 @@
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement",
                 "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "OpenStreetMap (Way 239699197, version 1, osm:changeset=18070930, 2013-09-28T03:02:29Z)",
+            "provenance": "OpenStreetMap (Way 239699197, version 4, osm:changeset=118146489, 2022-03-06T04:17:10Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/239699197",
@@ -1105,11 +1137,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12322",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        24.67524836,
-        35.3322698
+        24.672913305271805,
+        35.333109485012
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

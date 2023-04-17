@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        25.5197332,
-        36.9959235,
-        25.521314,
-        36.997267
+        25.5197844,
+        36.9956167,
+        25.520263,
+        36.9959801
     ],
     "connections": [
         {
@@ -107,28 +107,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    25.521314,
-                    36.997267
+                    [
+                        25.5197844,
+                        36.9959536
+                    ],
+                    [
+                        25.5198157,
+                        36.9956167
+                    ],
+                    [
+                        25.520263,
+                        36.9956432
+                    ],
+                    [
+                        25.5202317,
+                        36.9959801
+                    ],
+                    [
+                        25.5197844,
+                        36.9959536
+                    ]
                 ],
-                "type": "Point"
-            },
-            "id": "darmc-location-8215",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/599913/darmc-location-8215",
-                "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 8215"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    25.5197332,
-                    36.9959235
-                ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "osm-location",
             "properties": {
@@ -142,6 +142,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-04-14T22:31:54Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added topostext",
             "modified": "2021-03-01T01:36:06Z",
@@ -192,113 +197,6 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-02-25T20:30:45Z",
-            "creators": [
-                {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 8215",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    25.521314,
-                    36.997267
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:03:13Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-02-25T20:50:26Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-02-25T20:30:46Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-02-25T20:30:46Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-02-25T20:30:45Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-8215",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 8215",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "8215",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 8215.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 8215",
-            "uri": "https://pleiades.stoa.org/places/599913/darmc-location-8215"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
@@ -333,12 +231,35 @@
             ],
             "geometry": {
                 "coordinates": [
-                    25.5197332,
-                    36.9959235
+                    [
+                        25.5197844,
+                        36.9959536
+                    ],
+                    [
+                        25.5198157,
+                        36.9956167
+                    ],
+                    [
+                        25.520263,
+                        36.9956432
+                    ],
+                    [
+                        25.5202317,
+                        36.9959801
+                    ],
+                    [
+                        25.5197844,
+                        36.9959536
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-14T22:31:29Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "ctype",
                     "modified": "2021-03-01T01:36:29Z",
@@ -382,7 +303,7 @@
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/tower-single"
             ],
-            "provenance": "OpenStreetMap (Way 285774726, version 1, osm:changeset=22679275, 2014-06-01T18:21:54Z)",
+            "provenance": "OpenStreetMap (Way 285774726, version 3, osm:changeset=132668456, 2023-02-17T10:32:00Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/285774726",
@@ -476,11 +397,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12322",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.5205236,
-        36.99659525
+        25.520023699999996,
+        36.99579839999999
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

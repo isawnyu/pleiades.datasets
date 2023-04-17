@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        38.1626193,
-        37.4457156,
-        38.1632872,
-        37.4461437
+        38.1628339,
+        37.445805,
+        38.1635554,
+        37.4463012
     ],
     "connections": [],
     "connectsWith": [],
@@ -61,28 +61,16 @@
         {
             "geometry": {
                 "coordinates": [
-                    38.1626193,
-                    37.4457156
+                    [
+                        38.1628339,
+                        37.445805
+                    ],
+                    [
+                        38.1635554,
+                        37.4463012
+                    ]
                 ],
-                "type": "Point"
-            },
-            "id": "osm-location",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/659884/osm-location",
-                "location_precision": "precise",
-                "snippet": "Bridge, ; 30 BC - AD 640",
-                "title": "OSM location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    38.1632872,
-                    37.4461437
-                ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "osm-location-2",
             "properties": {
@@ -165,103 +153,6 @@
                 }
             ],
             "contributors": [],
-            "created": "2015-02-26T18:00:08Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "bridge",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    38.1626193,
-                    37.4457156
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2021-11-30T21:10:08Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2015-02-26T18:04:47Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2015-02-26T18:00:50Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2015-02-26T18:00:12Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2015-02-26T18:00:10Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "osm-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/bridge",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Way 330393589, version 1, osm:changeset=29119552, 2015-02-26T17:59:47Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/330393589",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Way 330393589",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:way=330393589",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "OSM location",
-            "uri": "https://pleiades.stoa.org/places/659884/osm-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman-early-empire-late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
-                }
-            ],
-            "contributors": [],
             "created": "2015-02-26T18:01:25Z",
             "creators": [
                 {
@@ -284,12 +175,23 @@
             ],
             "geometry": {
                 "coordinates": [
-                    38.1632872,
-                    37.4461437
+                    [
+                        38.1628339,
+                        37.445805
+                    ],
+                    [
+                        38.1635554,
+                        37.4463012
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-14T22:50:07Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-11-30T21:10:08Z",
@@ -324,7 +226,7 @@
                 "https://pleiades.stoa.org/vocabularies/place-types/bridge",
                 "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "OpenStreetMap (Way 330393590, version 1, osm:changeset=29119552, 2015-02-26T17:59:47Z)",
+            "provenance": "OpenStreetMap (Way 330393590, version 4, osm:changeset=119084121, 2022-03-29T18:42:46Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/330393590",
@@ -477,8 +379,8 @@
         }
     ],
     "reprPoint": [
-        38.16295325,
-        37.44592965
+        38.16319465,
+        37.4460531
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
