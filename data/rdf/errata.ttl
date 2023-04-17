@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2023/04/09 06:48:5.333556 GMT-4
+# Date: 2023/04/16 06:48:2.326192 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4353
+# Triple count: 4354
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -389,8 +389,6 @@
 <http://atlantides.org/capgrids/101%23J2-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[15.0, 45.0], [15.0, 50.0], [10.0, 50.0], [10.0, 45.0], [15.0, 45.0]]]}";
     osgeo:asWKT "POLYGON ((15.0000000000000000 45.0000000000000000, 15.0000000000000000 50.0000000000000000, 10.0000000000000000 50.0000000000000000, 10.0000000000000000 45.0000000000000000, 15.0000000000000000 45.0000000000000000))" .
-
-<http://atlantides.org/capgrids/101%23J4> osgeo:extent <http://atlantides.org/capgrids/101%23J4-extent> .
 
 <http://atlantides.org/capgrids/101%23J4-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[15.0, 35.0], [15.0, 40.0], [10.0, 40.0], [10.0, 35.0], [15.0, 35.0]]]}";
@@ -2213,11 +2211,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -2236,11 +2234,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87%23A4>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -2254,11 +2252,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -2933,6 +2931,7 @@
 
 <https://pleiades.stoa.org/errata/991353> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
+    osspatial:within <http://atlantides.org/capgrids/101%23J4>;
     dcterms:bibliographicCitation "";
     dcterms:contributor <http://viaf.org/viaf/51858528>,
         <http://viaf.org/viaf/59162760>,
@@ -4409,6 +4408,8 @@
 <http://atlantides.org/capgrids/101%23F3> osgeo:extent <http://atlantides.org/capgrids/101%23F3-extent> .
 
 <http://atlantides.org/capgrids/101%23J2> osgeo:extent <http://atlantides.org/capgrids/101%23J2-extent> .
+
+<http://atlantides.org/capgrids/101%23J4> osgeo:extent <http://atlantides.org/capgrids/101%23J4-extent> .
 
 <http://atlantides.org/capgrids/101%23K3> osgeo:extent <http://atlantides.org/capgrids/101%23K3-extent> .
 
