@@ -1,17 +1,25 @@
 {
     "@type": "Place",
     "bbox": [
-        22.583623,
-        40.467472,
-        22.583623,
-        40.467472
+        22.5809086,
+        40.4652964,
+        22.5843954,
+        40.4696632
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/335229933"
+    ],
     "contributors": [
         {
             "name": "DARMC",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Gabriel Mckee",
+            "uri": "https://pleiades.stoa.org/author/gmckee",
+            "username": "gmckee"
         },
         {
             "name": "R. Talbert",
@@ -25,15 +33,15 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2021-11-11T18:52:52Z",
@@ -43,47 +51,88 @@
             "username": null
         }
     ],
-    "description": "An ancient settlement in Macedonian Pieria on a hilltop named Koryphi, near modern Nea Agathoupolis in the Pydna-Kalindros municipality in Pieria, Greece.",
+    "description": "An ancient settlement in Macedonian Pieria on a hilltop named Koryphi, near modern Nea Agathoupolis in the Pydna-Kalindros municipality in Pieria, Greece. The site was occupied from the Late Neolithic period (ca. 4000 BCE) through 354 BCE, when it was destroyed by the armies of Philip II. It was succeeded by a new settlement approximately 1km to the northwest; known as Macedonian Methone, this later settlement was occupied in the Hellenistic and Roman periods.",
     "details": "<p>The Barrington Atlas Directory notes: N Nea Agathoupolis</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    22.583623,
-                    40.467472
+                    [
+                        22.5809086,
+                        40.4679655
+                    ],
+                    [
+                        22.5811017,
+                        40.4684389
+                    ],
+                    [
+                        22.5816059,
+                        40.4691572
+                    ],
+                    [
+                        22.58196,
+                        40.4696632
+                    ],
+                    [
+                        22.5825608,
+                        40.4693776
+                    ],
+                    [
+                        22.5830543,
+                        40.4691164
+                    ],
+                    [
+                        22.5843954,
+                        40.4687981
+                    ],
+                    [
+                        22.5840307,
+                        40.465876
+                    ],
+                    [
+                        22.5839019,
+                        40.4652964
+                    ],
+                    [
+                        22.5828612,
+                        40.465427
+                    ],
+                    [
+                        22.5822497,
+                        40.4659249
+                    ],
+                    [
+                        22.5815201,
+                        40.4661535
+                    ],
+                    [
+                        22.5810158,
+                        40.4669371
+                    ],
+                    [
+                        22.5809086,
+                        40.4679655
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "imagery-location-of-excavated-agora-on-east-hill",
+            "id": "ancient-methone",
             "properties": {
-                "description": "Location and dates after Morris 2020.",
-                "link": "https://pleiades.stoa.org/places/491663/imagery-location-of-excavated-agora-on-east-hill",
+                "description": "Polygon representing the surveyed extent of Ancient Methone, derived from an OpenStreetMap Way after Morris 2022.",
+                "link": "https://pleiades.stoa.org/places/491663/ancient-methone",
                 "location_precision": "precise",
-                "snippet": "Agora; 750 BC - 330 BC",
-                "title": "Imagery Location of Excavated \"agora\" on East Hill"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    22.583623,
-                    40.467472
-                ],
-                "type": "Point"
-            },
-            "id": "copy_of_imagery-location-of-excavated-area-west-hill",
-            "properties": {
-                "description": "Location and dates after Morris 2020.",
-                "link": "https://pleiades.stoa.org/places/491663/copy_of_imagery-location-of-excavated-area-west-hill",
-                "location_precision": "precise",
-                "snippet": "Unknown; 850 BC - 330 BC",
-                "title": "Imagery Location of Excavated Area at West Hill"
+                "snippet": "Settlement; 4000 BC - 1 BC",
+                "title": "OSM location of Ancient Methone"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2023-04-18T17:46:00Z",
+            "modifiedBy": "gmckee"
+        },
         {
             "comment": "DARMC 24085",
             "modified": "2021-11-12T04:23:37Z",
@@ -149,8 +198,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
-            "accuracy_value": 5.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -158,118 +207,45 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                    "timePeriod": "4th-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/4th-millenium-bce"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                }
-            ],
-            "contributors": [],
-            "created": "2021-11-12T00:19:37Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                }
-            ],
-            "description": "Location and dates after Morris 2020.",
-            "details": "",
-            "end": -330,
-            "featureType": [
-                "agora"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/agora"
-            ],
-            "geometry": {
-                "coordinates": [
-                    22.583623,
-                    40.467472
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2021-11-12T04:22:04Z",
-                    "modifiedBy": "jbecker"
+                    "timePeriod": "early-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-helladic"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2021-11-12T00:32:45Z",
-                    "modifiedBy": "thomase"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "middle-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-helladic"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2021-11-12T00:32:35Z",
-                    "modifiedBy": "thomase"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-helladic"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2021-11-12T00:32:13Z",
-                    "modifiedBy": "thomase"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2021-11-12T00:24:53Z",
-                    "modifiedBy": "thomase"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "1st-millennium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/1st-millennium-bce"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2021-11-12T00:22:00Z",
-                    "modifiedBy": "thomase"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "early-geometric",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/early-geometric"
                 },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2021-11-12T00:19:37Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2021-11-12T00:19:37Z",
-                    "modifiedBy": "thomase"
-                }
-            ],
-            "id": "imagery-location-of-excavated-agora-on-east-hill",
-            "locationType": [
-                "central_point"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/agora"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "https://www.jstor.org/stable/10.2972/hesperia.89.4.0659",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TC62AJIK",
-                    "citationDetail": "pages 661-663 and Figure 5",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "<div class=\"csl-entry\">Morris, Sarah, John K. Papadopoulos, Matthaios Bessios, Athena Athanassiadou, and Konstantinos Noulas. “The Ancient Methone Archaeological Project: A Preliminary Report on Fieldwork, 2014–2017.” <i>Hesperia: The Journal of the American School of Classical Studies at Athens</i> 89, no. 4 (2020): 659–723. https://www.jstor.org/stable/10.2972/hesperia.89.4.0659.</div>",
-                    "otherIdentifier": "",
-                    "shortTitle": "Morris 2020",
-                    "type": "http://purl.org/spar/cito/seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": -750,
-            "title": "Imagery Location of Excavated \"agora\" on East Hill",
-            "uri": "https://pleiades.stoa.org/places/491663/imagery-location-of-excavated-agora-on-east-hill"
-        },
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "substantive",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -290,77 +266,153 @@
                 }
             ],
             "contributors": [],
-            "created": "2021-11-12T00:25:37Z",
+            "created": "2023-04-18T17:57:52Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
                 }
             ],
-            "description": "Location and dates after Morris 2020.",
+            "description": "Polygon representing the surveyed extent of Ancient Methone, derived from an OpenStreetMap Way after Morris 2022.",
             "details": "",
-            "end": -330,
-            "featureType": [],
-            "featureTypeURI": [],
+            "end": -1,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
             "geometry": {
                 "coordinates": [
-                    22.583623,
-                    40.467472
+                    [
+                        22.5809086,
+                        40.4679655
+                    ],
+                    [
+                        22.5811017,
+                        40.4684389
+                    ],
+                    [
+                        22.5816059,
+                        40.4691572
+                    ],
+                    [
+                        22.58196,
+                        40.4696632
+                    ],
+                    [
+                        22.5825608,
+                        40.4693776
+                    ],
+                    [
+                        22.5830543,
+                        40.4691164
+                    ],
+                    [
+                        22.5843954,
+                        40.4687981
+                    ],
+                    [
+                        22.5840307,
+                        40.465876
+                    ],
+                    [
+                        22.5839019,
+                        40.4652964
+                    ],
+                    [
+                        22.5828612,
+                        40.465427
+                    ],
+                    [
+                        22.5822497,
+                        40.4659249
+                    ],
+                    [
+                        22.5815201,
+                        40.4661535
+                    ],
+                    [
+                        22.5810158,
+                        40.4669371
+                    ],
+                    [
+                        22.5809086,
+                        40.4679655
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2021-11-12T04:21:48Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2023-04-18T20:47:27Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-04-18T18:02:22Z",
+                    "modifiedBy": "gmckee"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2021-11-12T00:35:19Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-04-18T18:01:56Z",
+                    "modifiedBy": "gmckee"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2021-11-12T00:35:14Z",
-                    "modifiedBy": "thomase"
+                    "comment": "Initial revision",
+                    "modified": "2023-04-18T18:01:42Z",
+                    "modifiedBy": "gmckee"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2021-11-12T00:29:02Z",
-                    "modifiedBy": "thomase"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-04-18T17:57:52Z",
+                    "modifiedBy": "gmckee"
                 },
                 {
                     "action": "Create",
-                    "modified": "2021-11-12T00:25:37Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-04-18T17:57:52Z",
+                    "modifiedBy": "gmckee"
                 }
             ],
-            "id": "copy_of_imagery-location-of-excavated-area-west-hill",
+            "id": "ancient-methone",
             "locationType": [
-                "central_point"
+                "representative"
             ],
-            "locationTypeURI": [],
-            "provenance": "Pleiades",
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Way 1163684103, version 1, osm:changeset=135070874, 2023-04-18T17:54:40Z)",
             "references": [
                 {
-                    "accessURI": "https://www.jstor.org/stable/10.2972/hesperia.89.4.0659",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1163684103",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TC62AJIK",
-                    "citationDetail": "pages 661-667 and Figures 6-8",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "<div class=\"csl-entry\">Morris, Sarah, John K. Papadopoulos, Matthaios Bessios, Athena Athanassiadou, and Konstantinos Noulas. “The Ancient Methone Archaeological Project: A Preliminary Report on Fieldwork, 2014–2017.” <i>Hesperia: The Journal of the American School of Classical Studies at Athens</i> 89, no. 4 (2020): 659–723. https://www.jstor.org/stable/10.2972/hesperia.89.4.0659.</div>",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1163684103",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1163684103",
                     "otherIdentifier": "",
-                    "shortTitle": "Morris 2020",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://worldcat.org/oclc/1341844536",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4E7VDZZ2",
+                    "citationDetail": "pages 4-6, 20",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Morris, Sarah P., and John K. Papadopoulos, eds. <i>Ancient Methone, 2003-2013: Excavations by Matthaios Bessios, Athena Athanassiadou, and Konstantinos Noulas</i>. 2 vols. Monumenta Archaeologica 49. Los Angeles, California: The Cotsen Institute of Archaeology Press, 2022. https://worldcat.org/oclc/1341844536.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Morris 2022",
                     "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -850,
-            "title": "Imagery Location of Excavated Area at West Hill",
-            "uri": "https://pleiades.stoa.org/places/491663/copy_of_imagery-location-of-excavated-area-west-hill"
+            "start": -4000,
+            "title": "OSM location of Ancient Methone",
+            "uri": "https://pleiades.stoa.org/places/491663/ancient-methone"
         }
     ],
     "names": [
@@ -564,11 +616,22 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://worldcat.org/oclc/1341844536",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4E7VDZZ2",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Morris, Sarah P., and John K. Papadopoulos, eds. <i>Ancient Methone, 2003-2013: Excavations by Matthaios Bessios, Athena Athanassiadou, and Konstantinos Noulas</i>. 2 vols. Monumenta Archaeologica 49. Los Angeles, California: The Cotsen Institute of Archaeology Press, 2022. https://worldcat.org/oclc/1341844536.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Morris 2022",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        22.583623,
-        40.467472
+        22.58274874041291,
+        40.46747261426768
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
