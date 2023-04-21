@@ -2,9 +2,9 @@
     "@type": "Place",
     "bbox": [
         35.962699,
-        33.891824,
-        35.963634,
-        33.894878
+        33.894878,
+        35.9632293,
+        33.8954953
     ],
     "connections": [],
     "connectsWith": [],
@@ -54,26 +54,8 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 69 C2 Nihata",
-    "details": "The Barrington Atlas Directory notes: Niha LEB",
+    "details": "<p>The Barrington Atlas Directory notes: Niha LEB</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    35.963634,
-                    33.891824
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-13927",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/678308/darmc-location-13927",
-                "location_precision": "precise",
-                "snippet": "Settlement, ; 30 BC - AD 300",
-                "title": "DARMC location 13927"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -91,9 +73,55 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        35.9629469,
+                        33.8954525
+                    ],
+                    [
+                        35.9631005,
+                        33.8954953
+                    ],
+                    [
+                        35.9632293,
+                        33.8952185
+                    ],
+                    [
+                        35.9630738,
+                        33.8951679
+                    ],
+                    [
+                        35.9629469,
+                        33.8954525
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "location-of-roman-temple",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/678308/location-of-roman-temple",
+                "location_precision": "precise",
+                "snippet": "Temple-2; 30 BC - AD 300",
+                "title": "OSM location of Lower Small Temple of Niha"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-04-20T15:06:38Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-04-20T11:13:18Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2014-01-20T23:22:44Z",
@@ -137,131 +165,6 @@
     ],
     "id": "678308",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                },
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                }
-            ],
-            "created": "2011-03-09T21:53:03Z",
-            "creators": [
-                {
-                    "name": "E.M. Meyers",
-                    "username": null
-                },
-                {
-                    "name": "J.P. Brown",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 13927",
-            "end": 300,
-            "featureType": [
-                "settlement",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    35.963634,
-                    33.891824
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2014-01-20T23:25:35Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:50:57Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T05:08:24Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T21:53:04Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:53:04Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-03-09T21:53:03Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-13927",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "DARMC OBJECTID: 13927",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "13927",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 13927.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 13927",
-            "uri": "https://pleiades.stoa.org/places/678308/darmc-location-13927"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
@@ -350,6 +253,133 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/678308/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2014-01-20T23:24:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "temple-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        35.9629469,
+                        33.8954525
+                    ],
+                    [
+                        35.9631005,
+                        33.8954953
+                    ],
+                    [
+                        35.9632293,
+                        33.8952185
+                    ],
+                    [
+                        35.9630738,
+                        33.8951679
+                    ],
+                    [
+                        35.9629469,
+                        33.8954525
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-04-20T11:07:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-20T03:36:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "edit title, summary",
+                    "modified": "2023-04-20T03:36:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2016-08-27T03:20:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-08-27T03:20:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-01-20T23:24:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-01-20T23:24:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2014-01-20T23:24:39Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "location-of-roman-temple",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+            ],
+            "provenance": "OpenStreetMap (Way 257565852, version 7, osm:changeset=132089050, 2023-02-04T20:10:23Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/257565852",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 257565852",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=257565852",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Lower Small Temple of Niha",
+            "uri": "https://pleiades.stoa.org/places/678308/location-of-roman-temple"
         }
     ],
     "names": [
@@ -442,25 +472,25 @@
     "provenance": "Barrington Atlas: BAtlas 69 C2 Nihata",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "69 C2 Nihata",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 69 C2 Nihata",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Rey-Coquais-1987-198-207",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T3K4Q2N8",
+            "citationDetail": "198-207",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Rey-Coquais 1987 198-207",
+            "formattedCitation": "<div class=\"csl-entry\">Rey-Coquais, J. P. “Des montagnes au désert. Baetocécé, le Pagus Augustus de Niha, La Ghouta à l’Est de Damas.” In <i>Sociétés urbaines, sociétés rurales dans l’Asie Mineure et la Syrie hellénistiques et romaines. Actes du Colloque, Strasbourg novembre 1985</i>, 191–216, Taf, n.d.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Rey-Coquais 1987",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -473,11 +503,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "13927",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.9631665,
-        33.893350999999996
+        35.96289319162172,
+        33.89510539243262
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
