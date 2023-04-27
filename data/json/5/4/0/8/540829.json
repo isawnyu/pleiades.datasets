@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        21.616415,
-        38.345792,
-        21.63333,
-        38.3521586
+        21.6313226,
+        38.354052,
+        21.6313226,
+        38.354052
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
             "connectsTo": "https://pleiades.stoa.org/places/540591",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:43:26Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2023-04-24T13:19:48Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:43:26Z",
@@ -94,7 +106,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-11-23T00:38:12Z",
+    "created": "2023-04-24T10:37:05Z",
     "creators": [
         {
             "name": "J. Fossey",
@@ -105,65 +117,49 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 55 B4 (Hypo)Chalkis",
-    "details": "The Barrington Atlas Directory notes: Kato Vasiliki",
+    "description": "An ancient settlement on the Aetolian coast. The archaeological site of Chalkis is located immediately east of modern Kato Vasiliki in Western Greece.",
+    "details": "<p>The Barrington Atlas Directory notes: Kato Vasiliki</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    21.616415,
-                    38.345792
+                    21.6313226,
+                    38.354052
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-12826",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/540829/darmc-location-12826",
-                "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 12826"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    21.6256144,
-                    38.3521586
-                ],
-                "type": "Point"
-            },
-            "id": "39a3c43c9-3923b13c33b93bb3b93ba",
+            "id": "osm-location-iiii-i-i-issi-i-ioiui-i",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/540829/39a3c43c9-3923b13c33b93bb3b93ba",
+                "link": "https://pleiades.stoa.org/places/540829/osm-location-iiii-i-i-issi-i-ioiui-i",
                 "location_precision": "precise",
-                "snippet": "Settlement; AD 1700 - AD 2100",
-                "title": "OSM location of modern Κάτω Βασιλική"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    21.63333,
-                    38.35
-                ],
-                "type": "Point"
-            },
-            "id": "kato-vasiliki",
-            "properties": {
-                "description": "Representative location based on Geonames.",
-                "link": "https://pleiades.stoa.org/places/540829/kato-vasiliki",
-                "location_precision": "precise",
-                "snippet": "Settlement; AD 1700 - AD 2100",
-                "title": "GeoNames location of Káto Vasilikí"
+                "snippet": "Settlement; 750 BC - AD 640",
+                "title": "OSM Location: Αρχαία Χαλκεία"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata reference",
+            "modified": "2023-04-24T13:31:59Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "darmc, geonames references",
+            "modified": "2023-04-24T13:19:24Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; cleaned up references; added Topostext, iDAI Gazetteer, Chronique",
+            "modified": "2023-04-24T12:54:34Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2023-04-24T10:37:04Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "connection",
             "modified": "2013-05-31T14:11:41Z",
@@ -214,9 +210,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -241,218 +237,19 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "late-antique",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:21:14Z",
+            "contributors": [],
+            "created": "2023-04-24T10:28:44Z",
             "creators": [
-                {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 12826",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    21.616415,
-                    38.345792
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:06:25Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T05:06:50Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T21:21:16Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:21:15Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-03-09T21:21:15Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-12826",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 12826",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12826",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12826.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 12826",
-            "uri": "https://pleiades.stoa.org/places/540829/darmc-location-12826"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "accuracy_value": 20.0,
-            "archaeologicalRemains": "notapplicable",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
-                }
-            ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "created": "2013-04-22T19:38:00Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Ryan Horne",
-                    "uri": "https://pleiades.stoa.org/author/rmhorne",
-                    "username": "rmhorne"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": 2100,
-            "featureType": [
-                "settlement"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "geometry": {
-                "coordinates": [
-                    21.6256144,
-                    38.3521586
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Edited",
-                    "modified": "2018-02-15T03:40:27Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2013-05-31T14:12:21Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2013-04-22T19:38:37Z",
-                    "modifiedBy": "rmhorne"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2013-04-22T19:38:26Z",
-                    "modifiedBy": "rmhorne"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-04-22T19:38:02Z",
-                    "modifiedBy": "rmhorne"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2013-04-22T19:38:02Z",
-                    "modifiedBy": "rmhorne"
-                }
-            ],
-            "id": "39a3c43c9-3923b13c33b93bb3b93ba",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "provenance": "OpenStreetMap (Node 1067738404, version 2, osm:changeset=10209798, 2011-12-26T18:51:44Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/1067738404",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 1067738404",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=1067738404",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": 1700,
-            "title": "OSM location of modern Κάτω Βασιλική",
-            "uri": "https://pleiades.stoa.org/places/540829/39a3c43c9-3923b13c33b93bb3b93ba"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
-            "accuracy_value": 30.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
-                }
-            ],
-            "contributors": [
                 {
                     "homepage": null,
                     "name": "Tom Elliott",
@@ -460,18 +257,9 @@
                     "username": "thomase"
                 }
             ],
-            "created": "2013-04-22T19:40:19Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Ryan Horne",
-                    "uri": "https://pleiades.stoa.org/author/rmhorne",
-                    "username": "rmhorne"
-                }
-            ],
-            "description": "Representative location based on Geonames.",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 2100,
+            "end": 640,
             "featureType": [
                 "settlement"
             ],
@@ -480,78 +268,63 @@
             ],
             "geometry": {
                 "coordinates": [
-                    21.63333,
-                    38.35
+                    21.6313226,
+                    38.354052
                 ],
                 "type": "Point"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2018-02-15T03:39:53Z",
+                    "modified": "2023-04-24T12:54:49Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2017-09-13T06:39:25Z",
-                    "modifiedBy": "rmhorne"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2017-09-13T06:38:54Z",
-                    "modifiedBy": "rmhorne"
-                },
-                {
-                    "action": "Send back",
-                    "modified": "2013-11-25T19:42:31Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-26T13:37:34Z",
+                    "modified": "2023-04-24T10:30:54Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2013-04-22T19:40:42Z",
-                    "modifiedBy": "rmhorne"
+                    "comment": "Initial revision",
+                    "modified": "2023-04-24T10:30:26Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "Initial revision",
-                    "modified": "2013-04-22T19:40:26Z",
-                    "modifiedBy": "rmhorne"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-04-24T10:28:44Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2013-04-22T19:40:21Z",
-                    "modifiedBy": "rmhorne"
+                    "modified": "2023-04-24T10:28:44Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "kato-vasiliki",
+            "id": "osm-location-iiii-i-i-issi-i-ioiui-i",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "GeoNames.org 260460: Káto Vasilikí",
+            "provenance": "OpenStreetMap (Node 8520733914, version 1, osm:changeset=101049401, 2021-03-15T11:54:37Z)",
             "references": [
                 {
-                    "accessURI": "http://www.geonames.org/260460/kato-vasiliki.html",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/8520733914",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
+                    "citationDetail": "Node 8520733914",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "GeoNames.org 260460: Káto Vasilikí",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "formattedCitation": "osm:node=8520733914",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 1700,
-            "title": "GeoNames location of Káto Vasilikí",
-            "uri": "https://pleiades.stoa.org/places/540829/kato-vasiliki"
+            "start": -750,
+            "title": "OSM Location: Αρχαία Χαλκεία",
+            "uri": "https://pleiades.stoa.org/places/540829/osm-location-iiii-i-i-issi-i-ioiui-i"
         }
     ],
     "names": [
@@ -763,42 +536,108 @@
     "provenance": "Barrington Atlas: BAtlas 55 B4 (Hypo)Chalkis",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "55 B4 (Hypo)Chalkis",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 55 B4 (Hypo)Chalkis",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/1128360109",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Bommeljé-1987",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8EID42AP",
+            "citationDetail": "112",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Bommeljé 1987, 112",
+            "formattedCitation": "<div class=\"csl-entry\">Bommeljé, Sebastiaan, and Peter K Doorn. <i>Aetolia and the Aetolians: Towards the Interdisciplinary Study of a Greek Region</i>. Studia Aetolica 1. Utrecht: Parnassus Press, 1987. http://www.worldcat.org/oclc/1128360109.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Bommeljé 1987",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e231230",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/n.html#NPauly-Chalkis-2",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Chalcis [2] Port town on the Aetolian coast",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "NPauly Chalkis 2",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/384216UHyp",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Chalkis/Hypochalkis (Aitolia) 19 Kato Vasiliki - Υποχαλκίς",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2361786",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2361786: Hypochalkis",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=23892",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponyme - 23892: Vasiliki, Kato Vasiliki",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Chronique en ligne",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "http://www.geonames.org/260460/kato-vasiliki.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "260460: Káto Vasilikí",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "GeoNames",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12826",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q16540233",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q16540233: Chalcis (Aetolia)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        21.625119800000004,
-        38.34931686666667
+        21.6313226,
+        38.354052
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
