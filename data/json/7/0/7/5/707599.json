@@ -1,12 +1,75 @@
 {
     "@type": "Place",
     "bbox": [
-        33.556471,
-        34.847194,
-        33.556471,
-        34.847194
+        33.5708432,
+        34.8474683,
+        33.5711303,
+        34.8477061
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/707498",
+            "contributors": [],
+            "created": "2023-04-26T19:12:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-04-27T12:53:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-04-26T19:13:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2023-04-26T19:12:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-04-26T19:12:57Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "cyprus-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Panagia tis Angeloktistis",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Cyprus (island)",
+            "uri": "https://pleiades.stoa.org/places/707599/cyprus-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/707498"
     ],
@@ -46,28 +109,67 @@
         }
     ],
     "description": "The church of Panagia tis Angeloktistis or Panagia Angeloktisti is a Byzantine church located in the village of Kiti, Cyprus. Its origins lies in the fifth and sixth centuries. It was listed as a tentative UNESCO World Heritage site in 2015.",
-    "details": "The Barrington Atlas Directory notes: Panagia Angeloktistos, SW Larnaka",
+    "details": "<p>The Barrington Atlas Directory notes: Panagia Angeloktistos, SW Larnaka</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    33.556471,
-                    34.847194
+                    [
+                        33.5708432,
+                        34.8476241
+                    ],
+                    [
+                        33.5708711,
+                        34.8475096
+                    ],
+                    [
+                        33.5709632,
+                        34.8475247
+                    ],
+                    [
+                        33.5709769,
+                        34.8474683
+                    ],
+                    [
+                        33.5711303,
+                        34.8474934
+                    ],
+                    [
+                        33.5710785,
+                        34.8477061
+                    ],
+                    [
+                        33.5709905,
+                        34.8476916
+                    ],
+                    [
+                        33.5710007,
+                        34.8476499
+                    ],
+                    [
+                        33.5708432,
+                        34.8476241
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-5282",
+            "id": "osm-location-of-panagia-tis-angeloktistis",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/707599/darmc-location-5282",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/707599/osm-location-of-panagia-tis-angeloktistis",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 5282"
+                "snippet": "Church-2",
+                "title": "OSM location of Panagia tis Angeloktistis"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-04-27T12:53:43Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "summary, references",
             "modified": "2023-04-26T19:12:07Z",
@@ -113,100 +215,124 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:15:19Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-04-26T19:07:53Z",
             "creators": [
                 {
-                    "name": "D. Rupp",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 5282",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": null,
             "featureType": [
-                "unknown"
+                "church-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "geometry": {
                 "coordinates": [
-                    33.556471,
-                    34.847194
+                    [
+                        33.5708432,
+                        34.8476241
+                    ],
+                    [
+                        33.5708711,
+                        34.8475096
+                    ],
+                    [
+                        33.5709632,
+                        34.8475247
+                    ],
+                    [
+                        33.5709769,
+                        34.8474683
+                    ],
+                    [
+                        33.5711303,
+                        34.8474934
+                    ],
+                    [
+                        33.5710785,
+                        34.8477061
+                    ],
+                    [
+                        33.5709905,
+                        34.8476916
+                    ],
+                    [
+                        33.5710007,
+                        34.8476499
+                    ],
+                    [
+                        33.5708432,
+                        34.8476241
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:03:24Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:58:20Z",
+                    "modified": "2023-04-27T12:53:07Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T19:15:20Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-04-26T19:08:32Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:15:20Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2023-04-26T19:08:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-04-26T19:07:53Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:15:19Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-04-26T19:07:53Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-5282",
+            "id": "osm-location-of-panagia-tis-angeloktistis",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
-            "provenance": "DARMC OBJECTID: 5282",
+            "provenance": "OpenStreetMap (Way 149466626, version 8, osm:changeset=123181990, 2022-07-04T09:52:49Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/149466626",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "5282",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 149466626",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 5282.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=149466626",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 5282",
-            "uri": "https://pleiades.stoa.org/places/707599/darmc-location-5282"
+            "start": null,
+            "title": "OSM location of Panagia tis Angeloktistis",
+            "uri": "https://pleiades.stoa.org/places/707599/osm-location-of-panagia-tis-angeloktistis"
         }
     ],
     "names": [],
@@ -250,11 +376,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "5282",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        33.556471,
-        34.847194
+        33.57099498794262,
+        34.84758025950485
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
