@@ -1,13 +1,107 @@
 {
     "@type": "Place",
     "bbox": [
-        8.0,
-        42.0,
-        9.0,
-        43.0
+        8.54,
+        42.37,
+        8.54,
+        42.37
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/472063",
+            "contributors": [],
+            "created": "2016-07-13T13:53:59Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2016-07-13T13:53:59Z",
+                    "modifiedBy": "admin"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2016-07-13T13:53:59Z",
+                    "modifiedBy": "admin"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2016-07-13T13:53:59Z",
+                    "modifiedBy": "admin"
+                }
+            ],
+            "id": "472063",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Corsica/Kyrnos (island)",
+            "uri": "https://pleiades.stoa.org/places/472105/472063"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/472127",
+            "contributors": [],
+            "created": "2016-07-13T13:53:59Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2016-07-13T13:53:59Z",
+                    "modifiedBy": "admin"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2016-07-13T13:53:59Z",
+                    "modifiedBy": "admin"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2016-07-13T13:53:59Z",
+                    "modifiedBy": "admin"
+                }
+            ],
+            "id": "472127",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Sardoum Mare",
+            "uri": "https://pleiades.stoa.org/places/472105/472127"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/472063",
+        "https://pleiades.stoa.org/places/472127"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -39,49 +133,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 48 C2 Ouiriballon Akron",
-    "details": "The Barrington Atlas Directory notes: Capa Ribellata",
+    "description": "A promontory of northwest Corsica that extends westward and is capped by the Île de Gargalo. It is bounded on the south by the Golfe de Girolata and on the north by the Golfe d'Elbo. Today, the entire promontory is set aside as the Réserve Naturelle de Scandola (a UNESCO Natural World Heritage Site).",
+    "details": "<p>The Barrington Atlas Directory notes: Capa Ribellata</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            8.0,
-                            42.0
-                        ],
-                        [
-                            9.0,
-                            42.0
-                        ],
-                        [
-                            9.0,
-                            43.0
-                        ],
-                        [
-                            8.0,
-                            43.0
-                        ],
-                        [
-                            8.0,
-                            42.0
-                        ]
-                    ]
+                    8.54,
+                    42.37
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-ile-de-gargalo",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/472105/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Modern island at the western end of the promontory. ",
+                "link": "https://pleiades.stoa.org/places/472105/location-of-ile-de-gargalo",
+                "location_precision": "precise",
+                "snippet": "Island, ",
+                "title": "Location of Île de Gargalo"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Jehasse 1976",
+            "modified": "2023-04-29T20:27:30Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Initial revision; Edited; updated Connections, Locations",
+            "modified": "2023-04-29T20:25:25Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference",
             "modified": "2016-07-05T03:04:08Z",
@@ -127,114 +211,76 @@
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T20:24:49Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2012-12-06T20:40:57Z",
             "creators": [
                 {
-                    "name": "S.L. Dyson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Modern island at the western end of the promontory. ",
             "details": "",
-            "end": 300,
+            "end": null,
             "featureType": [
-                "unknown"
+                "island",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            8.0,
-                            42.0
-                        ],
-                        [
-                            9.0,
-                            42.0
-                        ],
-                        [
-                            9.0,
-                            43.0
-                        ],
-                        [
-                            8.0,
-                            43.0
-                        ],
-                        [
-                            8.0,
-                            42.0
-                        ]
-                    ]
+                    8.54,
+                    42.37
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:28:40Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-12T12:26:36Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-04-29T20:26:40Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-11T20:26:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-04-29T20:25:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2012-12-06T20:41:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2012-12-06T20:40:59Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-11T20:24:49Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2012-12-06T20:40:57Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-ile-de-gargalo",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Barrington Atlas: BAtlas 48 C2 Ouiriballon Akron",
+            "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/472105/batlas-location"
+            "start": null,
+            "title": "Location of Île de Gargalo",
+            "uri": "https://pleiades.stoa.org/places/472105/location-of-ile-de-gargalo"
         }
     ],
     "names": [
@@ -319,10 +365,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/cape"
+        "https://pleiades.stoa.org/vocabularies/place-types/cape",
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
     ],
     "placeTypes": [
-        "cape"
+        "cape",
+        "island"
     ],
     "provenance": "Barrington Atlas: BAtlas 48 C2 Ouiriballon Akron",
     "references": [
@@ -340,29 +388,18 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/j.html#Jehasse-1976",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WHM64IWF",
+            "citationDetail": "149",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Jehasse 1976, 149",
+            "formattedCitation": "<div class=\"csl-entry\">Jehasse, J. “La Corse Antique d’après Ptolémée.” <i>Archeologia Corsa</i> 1 (1976): 143–70.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
-        {
-            "accessURI": "https://en.wikipedia.org/wiki/Scandola_Nature_Reserve",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-            "citationDetail": "Scandola Nature Reserve",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Scandola Nature Reserve.",
-            "otherIdentifier": " ",
-            "shortTitle": "Wikipedia (English)",
+            "shortTitle": "Jehasse 1976",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        8.5,
-        42.5
+        8.54,
+        42.37
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
