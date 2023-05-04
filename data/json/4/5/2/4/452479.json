@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        15.935507,
-        38.645087,
-        15.935507,
-        38.645087
+        15.9353844,
+        38.6448576,
+        15.9357675,
+        38.6451643
     ],
     "connections": [],
     "connectsWith": [],
@@ -48,28 +48,67 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 46 C4 Torre Galli",
-    "details": "The Barrington Atlas Directory notes: Torre Galli",
+    "details": "<p>The Barrington Atlas Directory notes: Torre Galli</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    15.935507,
-                    38.645087
+                    [
+                        15.9354452,
+                        38.6450817
+                    ],
+                    [
+                        15.9353844,
+                        38.6450323
+                    ],
+                    [
+                        15.9356047,
+                        38.6448671
+                    ],
+                    [
+                        15.9356321,
+                        38.6448894
+                    ],
+                    [
+                        15.9356744,
+                        38.6448576
+                    ],
+                    [
+                        15.9357675,
+                        38.6449334
+                    ],
+                    [
+                        15.9354596,
+                        38.6451643
+                    ],
+                    [
+                        15.9353998,
+                        38.6451158
+                    ],
+                    [
+                        15.9354452,
+                        38.6450817
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-18950",
+            "id": "torre-gallo",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/452479/darmc-location-18950",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/452479/torre-gallo",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 550 BC",
-                "title": "DARMC location 18950"
+                "snippet": "Tower-defensive; 750 BC - 550 BC",
+                "title": "OSM location of Torre Gallo, Drapia"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-03T18:29:56Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2017-01-05T15:59:35Z",
@@ -115,8 +154,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -128,91 +167,133 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:30:39Z",
+            "contributors": [],
+            "created": "2014-02-07T19:10:32Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18950",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": -550,
             "featureType": [
-                "unknown"
+                "tower-defensive"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
             "geometry": {
                 "coordinates": [
-                    15.935507,
-                    38.645087
+                    [
+                        15.9354452,
+                        38.6450817
+                    ],
+                    [
+                        15.9353844,
+                        38.6450323
+                    ],
+                    [
+                        15.9356047,
+                        38.6448671
+                    ],
+                    [
+                        15.9356321,
+                        38.6448894
+                    ],
+                    [
+                        15.9356744,
+                        38.6448576
+                    ],
+                    [
+                        15.9357675,
+                        38.6449334
+                    ],
+                    [
+                        15.9354596,
+                        38.6451643
+                    ],
+                    [
+                        15.9353998,
+                        38.6451158
+                    ],
+                    [
+                        15.9354452,
+                        38.6450817
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:15:58Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:12:58Z",
+                    "modified": "2023-05-03T18:29:17Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T23:30:40Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "change deprecated feature type",
+                    "modified": "2023-04-29T20:09:04Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:30:40Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-29T20:08:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2020-12-06T22:02:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2020-12-06T04:29:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-02-07T19:11:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-02-07T19:10:33Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T23:30:39Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-02-07T19:10:33Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18950",
+            "id": "torre-gallo",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
-            "provenance": "DARMC OBJECTID: 18950",
+            "provenance": "OpenStreetMap (Way 260502792, version 2, osm:changeset=56555939, 2018-02-21T17:23:41Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/260502792",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18950",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 260502792",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18950.",
+                    "formattedCitation": "osm:way=260502792",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 18950",
-            "uri": "https://pleiades.stoa.org/places/452479/darmc-location-18950"
+            "title": "OSM location of Torre Gallo, Drapia",
+            "uri": "https://pleiades.stoa.org/places/452479/torre-gallo"
         }
     ],
     "names": [],
@@ -258,11 +339,22 @@
             "otherIdentifier": "",
             "shortTitle": "Guzzo 1982",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18950",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        15.935507,
-        38.645087
+        15.935559716078279,
+        38.64500209510714
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

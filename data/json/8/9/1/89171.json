@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -4.407491,
-        55.925182,
-        -4.407491,
-        55.925182
+        -4.4106059,
+        55.9231188,
+        -4.4092541,
+        55.9238642
     ],
     "connections": [
         {
@@ -101,23 +101,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    -4.407491,
-                    55.925182
+                    [
+                        -4.4099783,
+                        55.9238642
+                    ],
+                    [
+                        -4.4106059,
+                        55.9235155
+                    ],
+                    [
+                        -4.4098817,
+                        55.9231188
+                    ],
+                    [
+                        -4.4092541,
+                        55.9235246
+                    ],
+                    [
+                        -4.4099783,
+                        55.9238642
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-19110",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/89171/darmc-location-19110",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/89171/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 19110"
+                "snippet": "Fort, ; 30 BC - AD 300",
+                "title": "OSM location of Duntocher Roman fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-03T20:03:16Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "wikidata Q81318308: Duntocher Roman fort",
             "modified": "2021-04-09T14:19:14Z",
@@ -193,9 +216,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -206,87 +229,116 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:43:59Z",
+            "contributors": [],
+            "created": "2014-07-07T19:00:58Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 19110",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fort",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    -4.407491,
-                    55.925182
+                    [
+                        -4.4099783,
+                        55.9238642
+                    ],
+                    [
+                        -4.4106059,
+                        55.9235155
+                    ],
+                    [
+                        -4.4098817,
+                        55.9231188
+                    ],
+                    [
+                        -4.4092541,
+                        55.9235246
+                    ],
+                    [
+                        -4.4099783,
+                        55.9238642
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:18:13Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-21T13:42:02Z",
+                    "modified": "2023-05-03T20:02:51Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-01-21T05:44:00Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-29T20:44:10Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:44:00Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2016-09-10T17:24:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2014-07-07T19:01:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-07-07T19:01:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-07-07T19:01:03Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T05:43:59Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-07-07T19:01:00Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-19110",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "representative",
+                ""
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 19110",
+            "provenance": "OpenStreetMap (Way 291793340, version 2, osm:changeset=80757361, 2020-02-09T16:45:12Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/291793340",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19110",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 291793340",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19110.",
+                    "formattedCitation": "osm:way=291793340",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 19110",
-            "uri": "https://pleiades.stoa.org/places/89171/darmc-location-19110"
+            "title": "OSM location of Duntocher Roman fort",
+            "uri": "https://pleiades.stoa.org/places/89171/osm-location"
         }
     ],
     "names": [],
@@ -398,11 +450,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "19110",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        -4.407491,
-        55.925182
+        -4.409929181382963,
+        55.92350244580256
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

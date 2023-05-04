@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        29.368962,
-        36.711624,
-        29.368962,
-        36.711624
+        29.361827,
+        36.6933009,
+        29.3622883,
+        36.6933568
     ],
     "connections": [
         {
@@ -101,23 +101,52 @@
         {
             "geometry": {
                 "coordinates": [
-                    29.368962,
-                    36.711624
+                    29.361944,
+                    36.693333
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-14630",
+            "id": "location-of-kemer-bridge",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/640244/darmc-location-14630",
+                "description": "Coordinates after GeoHack.",
+                "link": "https://pleiades.stoa.org/places/640244/location-of-kemer-bridge",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 14630"
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "Imagery location of Kemer bridge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        29.361827,
+                        36.6933009
+                    ],
+                    [
+                        29.3622883,
+                        36.6933568
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-kemer-bridge",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/640244/osm-location-of-kemer-bridge",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Kemer bridge"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-03T19:48:13Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updated reference",
             "modified": "2020-02-16T00:52:22Z",
@@ -173,104 +202,197 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-04T21:23:13Z",
+            "contributors": [],
+            "created": "2013-06-19T03:51:58Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 14630",
-            "end": 640,
+            "description": "Coordinates after GeoHack.",
+            "details": "",
+            "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    29.368962,
-                    36.711624
+                    29.361944,
+                    36.693333
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:32:24Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-04T21:30:27Z",
+                    "modified": "2023-05-03T19:47:40Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-08-04T21:23:14Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2018-12-17T22:47:07Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-04T21:23:14Z",
-                    "modifiedBy": "sgillies"
+                    "action": "Submit for review",
+                    "modified": "2013-08-17T01:23:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-06-19T03:52:02Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-04T21:23:13Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2013-06-19T03:52:00Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-14630",
+            "id": "location-of-kemer-bridge",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "DARMC OBJECTID: 14630",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://toolserver.org/~geohack/geohack.php?pagename=Bridge_near_Kemer&params=36_41_36_N_29_21_43_E_type:landmark_region:TR",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "14630",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 14630.",
+                    "formattedCitation": "GeoHack - Bridge near Kemer",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 14630",
-            "uri": "https://pleiades.stoa.org/places/640244/darmc-location-14630"
+            "start": -30,
+            "title": "Imagery location of Kemer bridge",
+            "uri": "https://pleiades.stoa.org/places/640244/location-of-kemer-bridge"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-04-29T20:24:33Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "bridge"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        29.361827,
+                        36.6933009
+                    ],
+                    [
+                        29.3622883,
+                        36.6933568
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-03T19:47:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-04-29T20:24:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-04-29T20:24:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-04-29T20:24:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-04-29T20:24:33Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-kemer-bridge",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+            ],
+            "provenance": "OpenStreetMap (Way 257359184, version 1, osm:changeset=20094223, 2014-01-19T22:08:07Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/257359184",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 257359184",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=257359184",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Kemer bridge",
+            "uri": "https://pleiades.stoa.org/places/640244/osm-location-of-kemer-bridge"
         }
     ],
     "names": [],
@@ -314,11 +436,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "14630",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        29.368962,
-        36.711624
+        29.362000825000003,
+        36.693330925
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

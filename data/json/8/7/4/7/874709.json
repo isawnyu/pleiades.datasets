@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        44.474844,
-        39.12821,
-        44.474844,
-        39.12821
+        44.5436989,
+        39.0919427,
+        44.5450742,
+        39.0926377
     ],
     "connections": [],
     "connectsWith": [],
@@ -61,23 +61,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    44.474844,
-                    39.12821
+                    [
+                        44.5436989,
+                        39.092538
+                    ],
+                    [
+                        44.5449986,
+                        39.0926377
+                    ],
+                    [
+                        44.5450742,
+                        39.0921949
+                    ],
+                    [
+                        44.5442581,
+                        39.0921128
+                    ],
+                    [
+                        44.5442392,
+                        39.0919427
+                    ],
+                    [
+                        44.5438198,
+                        39.0920072
+                    ],
+                    [
+                        44.5437518,
+                        39.0920542
+                    ],
+                    [
+                        44.5436989,
+                        39.092538
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-22899",
+            "id": "osm-location-of-saint-thaddeus-monastery",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/874709/darmc-location-22899",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/874709/osm-location-of-saint-thaddeus-monastery",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 22899"
+                "snippet": "Abbey; AD 1700 - AD 2100",
+                "title": "OSM location of Saint Thaddeus Monastery"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-03T19:41:04Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "uwhs cleanup",
             "modified": "2020-07-09T18:42:01Z",
@@ -133,8 +168,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -142,103 +177,133 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:26:13Z",
+            "contributors": [],
+            "created": "2018-12-30T22:35:51Z",
             "creators": [
                 {
-                    "name": "S.E. Kroll",
-                    "username": null
-                },
-                {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
-                },
-                {
-                    "name": "T. Sinclair",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22899",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "abbey"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/abbey"
             ],
             "geometry": {
                 "coordinates": [
-                    44.474844,
-                    39.12821
+                    [
+                        44.5436989,
+                        39.092538
+                    ],
+                    [
+                        44.5449986,
+                        39.0926377
+                    ],
+                    [
+                        44.5450742,
+                        39.0921949
+                    ],
+                    [
+                        44.5442581,
+                        39.0921128
+                    ],
+                    [
+                        44.5442392,
+                        39.0919427
+                    ],
+                    [
+                        44.5438198,
+                        39.0920072
+                    ],
+                    [
+                        44.5437518,
+                        39.0920542
+                    ],
+                    [
+                        44.5436989,
+                        39.092538
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:04:09Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:19:40Z",
+                    "modified": "2023-05-03T19:40:37Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-10T01:26:15Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-04-29T20:18:34Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:26:15Z",
-                    "modifiedBy": "sgillies"
+                    "action": "Submit for review",
+                    "modified": "2019-04-12T22:03:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2019-04-12T22:03:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2018-12-30T22:37:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2018-12-30T22:37:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-12-30T22:35:52Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T01:26:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2018-12-30T22:35:51Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-22899",
+            "id": "osm-location-of-saint-thaddeus-monastery",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/abbey"
             ],
-            "provenance": "DARMC OBJECTID: 22899",
+            "provenance": "OpenStreetMap (Way 238740637, version 9, osm:changeset=63928737, 2018-10-27T13:53:05Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/238740637",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22899",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 238740637",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22899.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=238740637",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 22899",
-            "uri": "https://pleiades.stoa.org/places/874709/darmc-location-22899"
+            "start": 1700,
+            "title": "OSM location of Saint Thaddeus Monastery",
+            "uri": "https://pleiades.stoa.org/places/874709/osm-location-of-saint-thaddeus-monastery"
         }
     ],
     "names": [
@@ -381,11 +446,22 @@
             "otherIdentifier": "",
             "shortTitle": "WHL",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22899",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        44.474844,
-        39.12821
+        44.54436659555359,
+        39.09232646048947
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
