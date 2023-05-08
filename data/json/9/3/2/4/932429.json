@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        50.513888,
-        26.211111,
-        50.513888,
-        26.211111
+        50.5137,
+        26.2151,
+        50.5137,
+        26.2151
     ],
     "connections": [],
     "connectsWith": [],
@@ -25,15 +25,27 @@
         },
         {
             "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson",
+            "username": "cjohansson"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg",
+            "username": "rrattenborg"
         }
     ],
     "created": "2010-10-06T16:35:16Z",
@@ -44,28 +56,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 95 C3 al-Hajjar",
-    "details": "The Barrington Atlas Directory notes: al-Hajjar, BAH",
+    "details": "<p>The Barrington Atlas Directory notes: al-Hajjar, BAH</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    50.513888,
-                    26.211111
+                    50.5137,
+                    26.2151
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-22202",
+            "id": "cigs-location-of-al-hajar",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/932429/darmc-location-22202",
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/932429/cigs-location-of-al-hajar",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 22202"
+                "snippet": "Archaeological-site",
+                "title": "CIGS location of Al-Ḥajar"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-05T21:22:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2021-06-20T03:01:36Z",
@@ -111,109 +128,217 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-05-02T10:22:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</p>",
+            "end": null,
+            "featureType": [
+                "archaeological-site"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "geometry": {
+                "coordinates": [
+                    50.5137,
+                    26.2151
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-05T21:21:58Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-05-04T11:39:08Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-05-02T10:22:35Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-05-02T10:22:34Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "cigs-location-of-al-hajar",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://onlinelibrary-wiley-com.ezproxy.its.uu.se/doi/pdfdirect/10.1111/j.1600-0471.2008.00291.x",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4QLKGKRR",
+                    "citationDetail": "page 110",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Potts, D. T. “The Deacon and the Dove: On Some Early Christian (?) Grave Stelae from al-Maqsha and Shakhura (Bahrain).” <i>Arabian Archaeology and Epigraphy</i> 9 (2008): 109–19. https://doi.org/10.1111/j.1600-0471.2008.00291.x.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Potts 2008",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://www.jcic-heritage.jp/wp-content/uploads/2015/04/2012Report_Bahrain_eg.pdf",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DZNEEA9J",
+                    "citationDetail": "pages 2, 4, figure 2",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">“Survey Report on the Protection of Cultural Heritage in Bahrain.” Japan Consortium on International Cooperation in Cultural Heritage, 2011. https://www.jcic-heritage.jp/wp-content/uploads/2015/04/2012Report_Bahrain_eg.pdf.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Harada 2011",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://www.researchgate.net/publication/326477096_L'archeologie_du_royaume_de_Bahrein_aujourd'hui_entre_avancees_et_inquietudes",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/98D6RCVK",
+                    "citationDetail": "page 120, figure 1",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Lombard, Pierre. “L’archéologie du royaume de Bahreïn aujourd’hui, entre avancées et inquiétudes.” <i>Routes de l’Orient, Hors-série</i> 2 (2016): 117–38. https://www.researchgate.net/publication/326477096_L’archeologie_du_royaume_de_Bahrein_aujourd’hui_entre_avancees_et_inquietudes.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Lombard 2016",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "CIGS location of Al-Ḥajar",
+            "uri": "https://pleiades.stoa.org/places/932429/cigs-location-of-al-hajar"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:03:52Z",
+            "attested": " الحجر",
+            "contributors": [],
+            "created": "2023-05-02T10:28:25Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
-                }
-            ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22202",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    50.513888,
-                    26.211111
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:43:38Z",
-                    "modifiedBy": "admin"
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
                 },
                 {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Romanization according to the ALA-LC specifications for Arabic (2012) (https://www.loc.gov/catdir/cpso/roman.html).</p>",
+            "end": 2100,
+            "history": [
+                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:18:43Z",
+                    "modified": "2023-05-05T21:21:59Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T01:03:54Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-02T10:28:57Z",
+                    "modifiedBy": "cjohansson"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:03:53Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2023-05-02T10:28:26Z",
+                    "modifiedBy": "cjohansson"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T01:03:52Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-02T10:28:25Z",
+                    "modifiedBy": "cjohansson"
                 }
             ],
-            "id": "darmc-location-22202",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 22202",
+            "id": "al-hajar",
+            "language": "ar",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://onlinelibrary-wiley-com.ezproxy.its.uu.se/doi/pdfdirect/10.1111/j.1600-0471.2008.00291.x",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22202",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22202.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4QLKGKRR",
+                    "citationDetail": "page 110",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Potts, D. T. “The Deacon and the Dove: On Some Early Christian (?) Grave Stelae from al-Maqsha and Shakhura (Bahrain).” <i>Arabian Archaeology and Epigraphy</i> 9 (2008): 109–19. https://doi.org/10.1111/j.1600-0471.2008.00291.x.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Potts 2008",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://www.jcic-heritage.jp/wp-content/uploads/2015/04/2012Report_Bahrain_eg.pdf",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DZNEEA9J",
+                    "citationDetail": "pages 2, 4, figure 2",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">“Survey Report on the Protection of Cultural Heritage in Bahrain.” Japan Consortium on International Cooperation in Cultural Heritage, 2011. https://www.jcic-heritage.jp/wp-content/uploads/2015/04/2012Report_Bahrain_eg.pdf.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Harada 2011",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://www.researchgate.net/publication/326477096_L'archeologie_du_royaume_de_Bahrein_aujourd'hui_entre_avancees_et_inquietudes",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/98D6RCVK",
+                    "citationDetail": "page 120, figure 1",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Lombard, Pierre. “L’archéologie du royaume de Bahreïn aujourd’hui, entre avancées et inquiétudes.” <i>Routes de l’Orient, Hors-série</i> 2 (2016): 117–38. https://www.researchgate.net/publication/326477096_L’archeologie_du_royaume_de_Bahrein_aujourd’hui_entre_avancees_et_inquietudes.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Lombard 2016",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 22202",
-            "uri": "https://pleiades.stoa.org/places/932429/darmc-location-22202"
+            "romanized": "Al-Ḥajar",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/932429/al-hajar"
         }
     ],
-    "names": [],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
         "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
@@ -245,11 +370,22 @@
             "otherIdentifier": "",
             "shortTitle": "Herling 1993",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22202",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        50.513888,
-        26.211111
+        50.5137,
+        26.2151
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
