@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.574221,
-        43.759137,
-        -0.574221,
-        43.759137
+        -0.608208,
+        43.7577847,
+        -0.6066897,
+        43.75863
     ],
     "connections": [],
     "connectsWith": [],
@@ -59,18 +59,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.574221,
-                    43.759137
+                    [
+                        -0.6080978,
+                        43.75863
+                    ],
+                    [
+                        -0.608208,
+                        43.7579691
+                    ],
+                    [
+                        -0.60694,
+                        43.7577847
+                    ],
+                    [
+                        -0.6066897,
+                        43.7584377
+                    ],
+                    [
+                        -0.6080978,
+                        43.75863
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "center-of-batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "The center of the commune noted in the Barrington Atlas directory",
-                "link": "https://pleiades.stoa.org/places/249911/center-of-batlas-location",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/249911/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Center point of location"
+                "snippet": "Villa, ; 30 BC - AD 640",
+                "title": "OSM location of Villa Gallo-Romaine du Gleyzia"
             },
             "type": "Feature"
         }
@@ -136,130 +154,129 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/cartes-ign",
-            "accuracy_value": 16.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2011-11-11T06:29:09Z",
+            "contributors": [],
+            "created": "2014-05-04T04:57:08Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "The center of the commune noted in the Barrington Atlas directory",
-            "details": "Glezia, Saint-Sever. INSEE Code: 40282",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "villa",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    -0.574221,
-                    43.759137
+                    [
+                        -0.6080978,
+                        43.75863
+                    ],
+                    [
+                        -0.608208,
+                        43.7579691
+                    ],
+                    [
+                        -0.60694,
+                        43.7577847
+                    ],
+                    [
+                        -0.6066897,
+                        43.7584377
+                    ],
+                    [
+                        -0.6080978,
+                        43.75863
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:36:10Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2023-05-09T15:28:07Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-11-11T06:52:58Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-05-08T23:09:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-10-01T03:49:19Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-11-11T06:29:10Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-05-04T04:57:50Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Johan Åhlfeldt (Regnum Francorum Online) in November 2011.",
-                    "modified": "2011-11-11T06:29:09Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-05-04T04:57:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-04T04:57:13Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-11-11T06:29:09Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-05-04T04:57:11Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "center-of-batlas-location",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "representative",
+                ""
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "Pleiades",
+            "provenance": "OpenStreetMap (Way 116121089, version 6, osm:changeset=132102665, 2023-02-05T09:57:38Z)",
             "references": [
                 {
-                    "accessURI": "",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/116121089",
                     "alternateURI": "",
-                    "bibliographicURI": "http://atlantides.org/bibliography/b.html#BAtlas-25-E2-5",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "BAtlas 25 E2 5",
-                    "otherIdentifier": "",
-                    "shortTitle": "",
-                    "type": "http://purl.org/spar/cito/cites"
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 116121089",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=116121089",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Center point of location",
-            "uri": "https://pleiades.stoa.org/places/249911/center-of-batlas-location"
+            "title": "OSM location of Villa Gallo-Romaine du Gleyzia",
+            "uri": "https://pleiades.stoa.org/places/249911/osm-location"
         }
     ],
     "names": [],
@@ -317,8 +334,8 @@
         }
     ],
     "reprPoint": [
-        -0.574221,
-        43.759137
+        -0.6074759653803308,
+        43.7582159774619
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
