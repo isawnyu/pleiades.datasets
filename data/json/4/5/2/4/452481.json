@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        17.276944,
-        39.885,
-        17.276944,
-        39.885
+        16.7547991,
+        39.6109262,
+        16.7598752,
+        39.6241239
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/442621",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:47:39Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype flows into",
+                    "modified": "2023-05-10T14:10:59Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:47:39Z",
@@ -98,37 +110,147 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            16.5,
-                            39.5
-                        ],
-                        [
-                            17.0,
-                            39.5
-                        ],
-                        [
-                            17.0,
-                            40.0
-                        ],
-                        [
-                            16.5,
-                            40.0
-                        ],
-                        [
-                            16.5,
-                            39.5
-                        ]
+                        16.7547991,
+                        39.6237618
+                    ],
+                    [
+                        16.754966,
+                        39.6228951
+                    ],
+                    [
+                        16.7548205,
+                        39.6215063
+                    ],
+                    [
+                        16.7551494,
+                        39.6200834
+                    ],
+                    [
+                        16.7554468,
+                        39.6189431
+                    ],
+                    [
+                        16.7555986,
+                        39.6181828
+                    ],
+                    [
+                        16.7558517,
+                        39.6170084
+                    ],
+                    [
+                        16.7560857,
+                        39.6161897
+                    ],
+                    [
+                        16.7564274,
+                        39.6148543
+                    ],
+                    [
+                        16.7566172,
+                        39.6138406
+                    ],
+                    [
+                        16.7572055,
+                        39.6116426
+                    ],
+                    [
+                        16.7574269,
+                        39.6109262
+                    ],
+                    [
+                        16.7598752,
+                        39.6110334
+                    ],
+                    [
+                        16.7596665,
+                        39.6122128
+                    ],
+                    [
+                        16.7595146,
+                        39.6129975
+                    ],
+                    [
+                        16.7590971,
+                        39.6146789
+                    ],
+                    [
+                        16.7585847,
+                        39.6164431
+                    ],
+                    [
+                        16.7582936,
+                        39.6176955
+                    ],
+                    [
+                        16.7578824,
+                        39.6191526
+                    ],
+                    [
+                        16.7575851,
+                        39.6205074
+                    ],
+                    [
+                        16.7572055,
+                        39.6219741
+                    ],
+                    [
+                        16.7569305,
+                        39.6233612
+                    ],
+                    [
+                        16.756502,
+                        39.6235262
+                    ],
+                    [
+                        16.7566375,
+                        39.6238356
+                    ],
+                    [
+                        16.7561865,
+                        39.623508
+                    ],
+                    [
+                        16.7560212,
+                        39.6237147
+                    ],
+                    [
+                        16.7559473,
+                        39.6239251
+                    ],
+                    [
+                        16.7557874,
+                        39.6241239
+                    ],
+                    [
+                        16.7555867,
+                        39.6239902
+                    ],
+                    [
+                        16.7553964,
+                        39.623954
+                    ],
+                    [
+                        16.7552318,
+                        39.624019
+                    ],
+                    [
+                        16.7549376,
+                        39.6237205
+                    ],
+                    [
+                        16.7547991,
+                        39.6237618
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/452481/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/452481/osm-location",
+                "location_precision": "precise",
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM location of Torrente Trionto"
             },
             "type": "Feature"
         }
@@ -174,110 +296,249 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-10-04T18:07:32Z",
+            "created": "2015-01-15T18:15:00Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap.",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            16.5,
-                            39.5
-                        ],
-                        [
-                            17.0,
-                            39.5
-                        ],
-                        [
-                            17.0,
-                            40.0
-                        ],
-                        [
-                            16.5,
-                            40.0
-                        ],
-                        [
-                            16.5,
-                            39.5
-                        ]
+                        16.7547991,
+                        39.6237618
+                    ],
+                    [
+                        16.754966,
+                        39.6228951
+                    ],
+                    [
+                        16.7548205,
+                        39.6215063
+                    ],
+                    [
+                        16.7551494,
+                        39.6200834
+                    ],
+                    [
+                        16.7554468,
+                        39.6189431
+                    ],
+                    [
+                        16.7555986,
+                        39.6181828
+                    ],
+                    [
+                        16.7558517,
+                        39.6170084
+                    ],
+                    [
+                        16.7560857,
+                        39.6161897
+                    ],
+                    [
+                        16.7564274,
+                        39.6148543
+                    ],
+                    [
+                        16.7566172,
+                        39.6138406
+                    ],
+                    [
+                        16.7572055,
+                        39.6116426
+                    ],
+                    [
+                        16.7574269,
+                        39.6109262
+                    ],
+                    [
+                        16.7598752,
+                        39.6110334
+                    ],
+                    [
+                        16.7596665,
+                        39.6122128
+                    ],
+                    [
+                        16.7595146,
+                        39.6129975
+                    ],
+                    [
+                        16.7590971,
+                        39.6146789
+                    ],
+                    [
+                        16.7585847,
+                        39.6164431
+                    ],
+                    [
+                        16.7582936,
+                        39.6176955
+                    ],
+                    [
+                        16.7578824,
+                        39.6191526
+                    ],
+                    [
+                        16.7575851,
+                        39.6205074
+                    ],
+                    [
+                        16.7572055,
+                        39.6219741
+                    ],
+                    [
+                        16.7569305,
+                        39.6233612
+                    ],
+                    [
+                        16.756502,
+                        39.6235262
+                    ],
+                    [
+                        16.7566375,
+                        39.6238356
+                    ],
+                    [
+                        16.7561865,
+                        39.623508
+                    ],
+                    [
+                        16.7560212,
+                        39.6237147
+                    ],
+                    [
+                        16.7559473,
+                        39.6239251
+                    ],
+                    [
+                        16.7557874,
+                        39.6241239
+                    ],
+                    [
+                        16.7555867,
+                        39.6239902
+                    ],
+                    [
+                        16.7553964,
+                        39.623954
+                    ],
+                    [
+                        16.7552318,
+                        39.624019
+                    ],
+                    [
+                        16.7549376,
+                        39.6237205
+                    ],
+                    [
+                        16.7547991,
+                        39.6237618
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:15:59Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-10-04T18:22:14Z",
+                    "modified": "2023-05-10T15:37:21Z",
                     "modifiedBy": "thomase"
                 },
                 {
+                    "comment": "Edited",
+                    "modified": "2023-05-10T15:37:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-05-10T14:10:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Submit for review",
-                    "modified": "2010-10-04T18:12:44Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2016-02-25T03:42:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-02-25T03:40:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2015-01-15T18:15:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-01-15T18:15:05Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-10-04T18:07:32Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2015-01-15T18:15:02Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "provenance": "Barrington Atlas: BAtlas 46 E2 Traeis fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 88582909, version 8, osm:changeset=111397709, 2021-09-19T08:00:31Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/88582909",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 88582909",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=88582909",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/452481/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Torrente Trionto",
+            "uri": "https://pleiades.stoa.org/places/452481/osm-location"
         }
     ],
     "names": [
@@ -395,8 +656,8 @@
         }
     ],
     "reprPoint": [
-        17.276944,
-        39.885
+        16.757121957136732,
+        39.61744675449751
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
