@@ -1,20 +1,20 @@
 {
     "@type": "Place",
     "bbox": [
-        26.0,
-        40.0,
-        26.5,
-        40.5
+        26.380892,
+        40.14415,
+        26.3811003,
+        40.14425
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "G. Reger",
             "username": null
         },
         {
-            "name": "G. Reger",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -36,56 +36,64 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-06-24T10:42:29Z",
+    "created": "2023-05-17T13:34:35Z",
     "creators": [
         {
             "name": "E.N. Borza",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 51 G4 Kynossema? Pr.",
-    "details": "The Barrington Atlas Directory notes: Kilitbahir TKY",
+    "description": "An cape mentioned in ancient sources. It is probably to be identified with the modern Kilitbahir, which protrudes from the east coast of the Gallipoli peninsula into the Dardanelles.",
+    "details": "<p>The Barrington Atlas Directory notes: Kilitbahir TKY</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            40.0
-                        ],
-                        [
-                            26.5,
-                            40.0
-                        ],
-                        [
-                            26.5,
-                            40.5
-                        ],
-                        [
-                            26.0,
-                            40.5
-                        ],
-                        [
-                            26.0,
-                            40.0
-                        ]
-                    ]
+                    26.3811003,
+                    40.14415
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/501487/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/501487/osm-location",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "OSM location"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.380892,
+                    40.14425
+                ],
+                "type": "Point"
+            },
+            "id": "imagery-location-of-kynossema-pr",
+            "properties": {
+                "description": "verified in Google Earth 2013 on the basis of BAtlas location",
+                "link": "https://pleiades.stoa.org/places/501487/imagery-location-of-kynossema-pr",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 1700 - AD 2100",
+                "title": "Imagery location of Kynossema? Pr."
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2023-05-17T13:35:44Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2023-05-17T13:34:35Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2013-08-17T15:31:28Z",
@@ -126,130 +134,214 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
             "contributors": [
                 {
-                    "name": "G. Reger",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-06-24T10:42:29Z",
+            "created": "2023-05-17T13:18:03Z",
             "creators": [
                 {
-                    "name": "E.N. Borza",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            40.0
-                        ],
-                        [
-                            26.5,
-                            40.0
-                        ],
-                        [
-                            26.5,
-                            40.5
-                        ],
-                        [
-                            26.0,
-                            40.5
-                        ],
-                        [
-                            26.0,
-                            40.0
-                        ]
-                    ]
+                    26.3811003,
+                    40.14415
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:42:27Z",
-                    "modifiedBy": "admin"
+                    "comment": "associated modern; less certain",
+                    "modified": "2023-05-17T13:36:26Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Publish externally",
-                    "modified": "2010-06-24T13:29:58Z",
+                    "modified": "2023-05-17T13:33:58Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-06-24T10:55:26Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-17T13:18:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-05-17T13:18:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-05-17T13:18:03Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-06-24T10:42:30Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-17T13:18:03Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 51 G4 Kynossema? Pr.",
+            "provenance": "OpenStreetMap (Node 1579295183, version 2, osm:changeset=33370799, 2015-08-16T14:44:19Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1579295183",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1579295183",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1579295183",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/501487/osm-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2013-01-11T18:27:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "verified in Google Earth 2013 on the basis of BAtlas location",
+            "details": "",
+            "end": 2100,
+            "featureType": [
+                "cape"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
+            ],
+            "geometry": {
+                "coordinates": [
+                    26.380892,
+                    40.14425
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "associated modern; less certain",
+                    "modified": "2023-05-17T13:36:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-17T13:34:18Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2013-01-11T18:28:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-01-11T18:27:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2013-01-11T18:27:15Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "imagery-location-of-kynossema-pr",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
+            ],
+            "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/501487/batlas-location"
+            "start": 1700,
+            "title": "Imagery location of Kynossema? Pr.",
+            "uri": "https://pleiades.stoa.org/places/501487/imagery-location-of-kynossema-pr"
         }
     ],
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "attested": "",
             "contributors": [
-                {
-                    "name": "G. Reger",
-                    "username": null
-                },
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
@@ -257,6 +349,12 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2010-06-24T10:42:29Z",
@@ -270,6 +368,16 @@
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "certain",
+                    "modified": "2023-05-17T13:37:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "removed BATlas abbreviation; language = grc",
+                    "modified": "2023-05-17T13:37:13Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:42:28Z",
@@ -291,17 +399,17 @@
                     "modifiedBy": "sgillies"
                 }
             ],
-            "id": "Kynossema-Pr",
-            "language": "",
+            "id": "kynossema",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 51 G4 Kynossema? Pr.",
             "references": [],
             "review_state": "published",
-            "romanized": "Kynossema Pr.",
+            "romanized": "Kynossema",
             "start": null,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/501487/Kynossema-Pr"
+            "uri": "https://pleiades.stoa.org/places/501487/kynossema"
         }
     ],
     "placeTypeURIs": [
@@ -358,13 +466,13 @@
         }
     ],
     "reprPoint": [
-        26.25,
-        40.25
+        26.38099615,
+        40.1442
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Kynossema? Pr.",
+    "title": "Kynossema (promontory)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/501487"
 }

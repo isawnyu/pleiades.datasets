@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        44.80519,
-        33.130959,
-        44.80519,
-        33.130959
+        44.807,
+        33.1337,
+        44.807,
+        33.1337
     ],
     "connections": [],
     "connectsWith": [],
@@ -25,15 +25,27 @@
         },
         {
             "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson",
+            "username": "cjohansson"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg",
+            "username": "rrattenborg"
         }
     ],
     "created": "2010-10-05T20:37:53Z",
@@ -48,28 +60,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 91 F4 Tulul Abu Jawan",
-    "details": "The Barrington Atlas Directory notes: Tulul Abu Jawan",
+    "details": "<p>The Barrington Atlas Directory notes: Tulul Abu Jawan</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    44.80519,
-                    33.130959
+                    44.807,
+                    33.1337
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-22478",
+            "id": "cigs-location-of-tulul-abu-jawan",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/894161/darmc-location-22478",
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/894161/cigs-location-of-tulul-abu-jawan",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - AD 640",
-                "title": "DARMC location 22478"
+                "snippet": "Archaeological-site",
+                "title": "CIGS location of Tulūl Abū Jāwan"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-17T13:31:32Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2018-11-19T13:24:29Z",
@@ -115,130 +132,180 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-05-17T13:05:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</p>",
+            "end": null,
+            "featureType": [
+                "archaeological-site"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "geometry": {
+                "coordinates": [
+                    44.807,
+                    33.1337
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-17T13:31:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-05-17T13:06:20Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-05-17T13:05:57Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-05-17T13:05:57Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "cigs-location-of-tulul-abu-jawan",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://oi.uchicago.edu/research/publications/misc/land-behind-baghdad-history-settlement-diyala-plains",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AMT5W2FV",
+                    "citationDetail": "page 160",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Adams, Robert McCormick. <i>Land behind Baghdad: A History of Settlement on the Diyala Plains</i>. Chicago: University of Chicago Press, 1965. https://oi.uchicago.edu/research/publications/misc/land-behind-baghdad-history-settlement-diyala-plains.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Adams 1965",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "CIGS location of Tulūl Abū Jāwan",
+            "uri": "https://pleiades.stoa.org/places/894161/cigs-location-of-tulul-abu-jawan"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:11:10Z",
+            "attested": "تلول أبو جاون",
+            "contributors": [],
+            "created": "2023-05-17T13:10:05Z",
             "creators": [
                 {
-                    "name": "M. Roaf",
-                    "username": null
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
                 },
                 {
-                    "name": "St J. Simpson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22478",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    44.80519,
-                    33.130959
-                ],
-                "type": "Point"
-            },
+            "description": "",
+            "details": "<p>Romanization according to the ALA-LC specifications for Arabic (2012) (https://www.loc.gov/catdir/cpso/roman.html).</p>",
+            "end": 2100,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:24:55Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:19:03Z",
+                    "modified": "2023-05-17T13:31:09Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T01:11:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-17T13:10:31Z",
+                    "modifiedBy": "cjohansson"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:11:12Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2023-05-17T13:10:06Z",
+                    "modifiedBy": "cjohansson"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T01:11:11Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-17T13:10:05Z",
+                    "modifiedBy": "cjohansson"
                 }
             ],
-            "id": "darmc-location-22478",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 22478",
+            "id": "tulul-abu-jawan",
+            "language": "ar",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://oi.uchicago.edu/research/publications/misc/land-behind-baghdad-history-settlement-diyala-plains",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22478",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22478.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AMT5W2FV",
+                    "citationDetail": "page 160",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Adams, Robert McCormick. <i>Land behind Baghdad: A History of Settlement on the Diyala Plains</i>. Chicago: University of Chicago Press, 1965. https://oi.uchicago.edu/research/publications/misc/land-behind-baghdad-history-settlement-diyala-plains.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Adams 1965",
+                    "type": "http://purl.org/spar/cito/seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -550,
-            "title": "DARMC location 22478",
-            "uri": "https://pleiades.stoa.org/places/894161/darmc-location-22478"
+            "romanized": "Tulūl Abū Jāwan",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/894161/tulul-abu-jawan"
         }
     ],
-    "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 91 F4 Tulul Abu Jawan",
     "references": [
@@ -263,11 +330,22 @@
             "otherIdentifier": "",
             "shortTitle": "Adams 1965",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22478",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        44.80519,
-        33.130959
+        44.807,
+        33.1337
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
