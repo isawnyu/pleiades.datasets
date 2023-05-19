@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        0.585694,
-        43.647434,
-        0.585694,
-        43.647434
+        0.5850507,
+        43.6463558,
+        0.5850507,
+        43.6463558
     ],
     "connections": [
         {
@@ -56,23 +56,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "capital",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/capital",
             "connectsTo": "https://pleiades.stoa.org/places/246210",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:02:34Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype to capital of",
+                    "modified": "2023-05-18T13:58:36Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:02:34Z",
@@ -104,20 +116,18 @@
     ],
     "contributors": [
         {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -127,19 +137,21 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "homepage": null,
             "name": "Johan Åhlfeldt",
             "uri": "https://pleiades.stoa.org/author/jahlfeldt",
             "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-07T23:19:15Z",
@@ -163,23 +175,38 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.585694,
-                    43.647434
+                    0.5850507,
+                    43.6463558
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-12323",
+            "id": "osm-location-of-auch",
             "properties": {
-                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/246379/darmc-location-12323",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/246379/osm-location-of-auch",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 12323"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Auch"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-18T14:53:02Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update references",
+            "modified": "2023-05-18T14:10:36Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "reference cleanup",
+            "modified": "2023-05-18T14:07:26Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T23:19:18Z",
@@ -255,8 +282,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -264,105 +291,88 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-04T23:26:41Z",
+            "contributors": [],
+            "created": "2023-05-18T13:59:38Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 12323",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    0.585694,
-                    43.647434
+                    0.5850507,
+                    43.6463558
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:31:54Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-04T23:36:20Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-18T14:52:36Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-04T23:26:42Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-18T14:00:05Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-04T23:26:42Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2023-05-18T14:00:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-05-18T13:59:38Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-04T23:26:41Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-18T13:59:38Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-12323",
+            "id": "osm-location-of-auch",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 12323",
+            "provenance": "OpenStreetMap (Node 391064866, version 30, osm:changeset=128608655, 2022-11-07T18:01:23Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/391064866",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12323",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 391064866",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12323.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=391064866",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 12323",
-            "uri": "https://pleiades.stoa.org/places/246379/darmc-location-12323"
+            "start": 2000,
+            "title": "OSM location of Auch",
+            "uri": "https://pleiades.stoa.org/places/246379/osm-location-of-auch"
         }
     ],
     "names": [
@@ -764,55 +774,57 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 25 F2 Elimberrum",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "25 F2 Elimberrum",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 25 F2 Elimberrum",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/28708086",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/v.html#Villes-30-36",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NX8RPUPS",
+            "citationDetail": "30-36",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Villes 30-36",
+            "formattedCitation": "<div class=\"csl-entry\">Maurin, Louis, ed. <i>Villes et agglomérations urbaines antiques du Sud-Ouest de la Gaule : histoire et archéologie : deuxième colloque Aquitania, Bordeaux, 13-15 septembre 1990</i>. Paris: Centre national de la recherche scientifique, 1990. http://www.worldcat.org/oclc/28708086.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Villes",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://worldcat.org/title/30445864",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/c.html#CAG-32.14",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UZ66NT5T",
+            "citationDetail": "14",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "CAG 32.14",
+            "formattedCitation": "<div class=\"csl-entry\">Lapart, Jacques, Catherine Petit, Michel Provost, and J. Leclant. <i>Carte archéologique de la Gaule 32 Le Gers</i>. Paris: Ed. de l’Académie des Inscriptions et Belles-Lettres : Ministère de l’Education Nationale et de la Culture : Association pour les fouilles archéologiques nationales (AFAN), 1993. https://worldcat.org/title/30445864.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "CAG 32",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/936644063",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/i.html#ItAnt-462.6",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+            "citationDetail": "462.6",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "ItAnt 462.6",
+            "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "ItAnt (Cuntz)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -829,23 +841,23 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=auch",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "AUCH Gers, France",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), AUCH Gers, France",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace753.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "1B1 (Talbert 753)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "TP 1B1 (Talbert 753)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
@@ -862,23 +874,23 @@
         {
             "accessURI": "http://www.trismegistos.org/place/22702",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 22702: Elimberrum (Auch)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 22702",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "http://purl.org/spar/cito/citesAsRelated"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DA%3Aentry+group%3D21%3Aentry%3Daugusta-auscorum-geo",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "AUGUSTA AUSCORUM",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), AUGUSTA AUSCORUM",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -891,11 +903,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12323",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        0.585694,
-        43.647434
+        0.5850507,
+        43.6463558
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

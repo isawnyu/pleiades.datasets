@@ -2,9 +2,9 @@
     "@type": "Place",
     "bbox": [
         22.665433,
-        38.578584,
-        22.681203,
-        38.584865
+        38.584865,
+        22.6686,
+        38.5855
     ],
     "connections": [
         {
@@ -111,7 +111,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2018-06-07T19:46:07Z",
+    "created": "2023-05-18T21:30:24Z",
     "creators": [
         {
             "name": "J. Fossey",
@@ -122,9 +122,27 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 55 D3 Tithorea/Neon",
-    "details": "The Barrington Atlas Directory notes: Velitsa/Ano Tithorea",
+    "description": "An ancient city on the southern edge of the Kephissos plain. Known in modern times as Velitsa, the Greek village overlying the ancient site changed its name to Tithorea in the 1920s.",
+    "details": "<p>The Barrington Atlas Directory notes: Velitsa/Ano Tithorea</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    22.6686,
+                    38.5855
+                ],
+                "type": "Point"
+            },
+            "id": "topostext-location",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/541152/topostext-location",
+                "location_precision": "precise",
+                "snippet": "Unknown",
+                "title": "ToposText Location"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -142,27 +160,19 @@
                 "title": "DARMC location 57"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    22.681203,
-                    38.578584
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-15197",
-            "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/541152/darmc-location-15197",
-                "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - AD 640",
-                "title": "DARMC location 15197"
-            },
-            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 15197",
+            "modified": "2023-05-18T23:51:20Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; added MANTO reference; added associated modern names and location",
+            "modified": "2023-05-18T23:49:54Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "updates. add two Paus. refs.",
             "modified": "2022-01-16T20:16:42Z",
@@ -221,6 +231,82 @@
     ],
     "id": "541152",
     "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/topostext-high-confidence",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-05-18T21:35:39Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "featureType": [],
+            "featureTypeURI": [],
+            "geometry": {
+                "coordinates": [
+                    22.6686,
+                    38.5855
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-18T23:50:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-05-18T21:52:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-05-18T21:35:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-05-18T21:35:39Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "topostext-location",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://topostext.org/place/386227UTit",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "386227UTit: Tithorea (Phokis) 66 Velitsa/Ano Tithorea - Τιθορέα",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "ToposText Location",
+            "uri": "https://pleiades.stoa.org/places/541152/topostext-location"
+        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
@@ -339,128 +425,202 @@
             "start": -550,
             "title": "DARMC location 57",
             "uri": "https://pleiades.stoa.org/places/541152/darmc-location-57"
-        },
+        }
+    ],
+    "names": [
         {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T22:31:08Z",
+            "attested": "Τιθορέα",
+            "contributors": [],
+            "created": "2023-05-18T21:42:11Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 15197",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    22.681203,
-                    38.578584
-                ],
-                "type": "Point"
-            },
+            "description": "",
+            "details": "",
+            "end": 2099,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:10:53Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:52:56Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-05-18T23:51:50Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T22:31:09Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-18T21:52:49Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T22:31:09Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2023-05-18T21:47:05Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-05-18T21:42:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-05-18T21:42:11Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T22:31:08Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-18T21:42:11Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-15197",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 15197",
+            "id": "tithorea",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.geonames.org/252841/tithorea.html",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15197",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "252841: Tithoréa",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15197.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://www.eetaa.gr/metaboles/dkmet_details.php?id=1188",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GT9S6D8K",
+                    "citationDetail": "1188",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Διοικητικές Μεταβολές Δήμων και Κοινοτήτων</i>. Ελληνική Εταιρία Τοπικής Ανάπτυξης και Αυτοδιοίκησης. Accessed January 16, 2022. https://www.eetaa.gr/metaboles/dk_metaboles.php.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "DMDK",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Tithorea, Tithoréa",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/541152/tithorea"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident-inferred",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                }
+            ],
+            "attested": "Βελίτσα",
+            "contributors": [],
+            "created": "2023-05-18T21:50:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-18T23:51:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-05-18T21:52:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-05-18T21:50:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-05-18T21:50:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-05-18T21:50:20Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "velitsa",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.eetaa.gr/metaboles/dkmet_details.php?id=1188",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GT9S6D8K",
+                    "citationDetail": "1188",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Διοικητικές Μεταβολές Δήμων και Κοινοτήτων</i>. Ελληνική Εταιρία Τοπικής Ανάπτυξης και Αυτοδιοίκησης. Accessed January 16, 2022. https://www.eetaa.gr/metaboles/dk_metaboles.php.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "DMDK",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 830 see \"Tithorea/Neon\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -550,
-            "title": "DARMC location 15197",
-            "uri": "https://pleiades.stoa.org/places/541152/darmc-location-15197"
-        }
-    ],
-    "names": [
+            "romanized": "Velitsa",
+            "start": 1800,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/541152/velitsa"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -512,15 +672,13 @@
                     "username": "sgillies"
                 }
             ],
-            "created": "2010-11-23T00:44:18Z",
+            "created": "2023-05-18T21:42:11Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
@@ -749,11 +907,33 @@
             "otherIdentifier": "",
             "shortTitle": "Paus. (Spiro: Perseus)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://resource.manto.unh.edu/10153163",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "citationDetail": "10153163: Tithorea (Phocis)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Greta Hawes, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "MANTO",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15197",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        22.673318000000002,
-        38.5817245
+        22.667016500000003,
+        38.5851825
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
