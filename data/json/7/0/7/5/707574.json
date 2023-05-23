@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        32.436032,
-        35.037245,
-        32.436032,
-        35.037245
+        32.4254347,
+        35.0389664,
+        32.4254347,
+        35.0389664
     ],
     "connections": [
         {
@@ -128,23 +128,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    32.436032,
-                    35.037245
+                    32.4254347,
+                    35.0389664
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-13640",
+            "id": "osm-location-of-marion-ruins",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/707574/darmc-location-13640",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/707574/osm-location-of-marion-ruins",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 330 BC",
-                "title": "DARMC location 13640"
+                "snippet": "Archaeological-site",
+                "title": "OSM location of Marion Ruins"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-22T16:31:36Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Smith 1997",
             "modified": "2023-02-19T01:42:27Z",
@@ -220,106 +225,95 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:44:24Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-02-18T16:55:20Z",
             "creators": [
                 {
-                    "name": "D. Rupp",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 13640",
-            "end": -330,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": null,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    32.436032,
-                    35.037245
+                    32.4254347,
+                    35.0389664
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:03:04Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:07:59Z",
+                    "modified": "2023-05-22T16:31:10Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T21:44:26Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-20T03:58:49Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:44:26Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2023-05-20T03:58:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-02-18T16:55:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-02-18T16:55:21Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T21:44:25Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-02-18T16:55:20Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-13640",
+            "id": "osm-location-of-marion-ruins",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 13640",
+            "provenance": "OpenStreetMap (Node 300064473, version 1, osm:changeset=700698, 2008-09-26T18:18:27Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/300064473",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "13640",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 300064473",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 13640.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=300064473",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 13640",
-            "uri": "https://pleiades.stoa.org/places/707574/darmc-location-13640"
+            "start": null,
+            "title": "OSM location of Marion Ruins",
+            "uri": "https://pleiades.stoa.org/places/707574/osm-location-of-marion-ruins"
         }
     ],
     "names": [
@@ -619,11 +613,22 @@
             "otherIdentifier": "",
             "shortTitle": "Smith 1997",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "13640",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        32.436032,
-        35.037245
+        32.4254347,
+        35.0389664
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
