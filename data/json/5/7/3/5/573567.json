@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        22.7205452,
+        37.7826102,
+        22.7205452,
+        37.7826102
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -27,7 +32,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-20T20:41:52Z",
+    "created": "2023-05-23T17:55:37Z",
     "creators": [
         {
             "name": "G. Reger",
@@ -38,23 +43,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 58 unlocated Tretos",
+    "description": "From Hesiod onward, Greek writers locate the Nemean lion in a cave or ravine in this mountain and explain the mountain's name (\"perforated\") from being split by the ravine. Wiseman (in PECS, whence ToposText) identifies the Tretos as \"the mountain on the W side of the main road between Kleonaia-Corinthia and Argolis\" and the ravine as the modern Dervenakia pass. Camp in BAtlas silently suppresses this view, and mentioning \"Tretos\" only in a list of \"unlocated\" features in the map-by-map directory where we cites only Pausanias and glosses: \"Corinthia-Argolis: pass, road\".",
     "details": "<p>The Barrington Atlas Directory notes: Corinthia-Argolis: pass, road</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    22.7205452,
+                    37.7826102
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-dervenakia",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/573567/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/573567/osm-location-of-dervenakia",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Dervenakia"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type -= unlocated; Pausanias reference -> evidence; added BAtlDir reference; removed BAtlas reference, since this feature does not appear on the map",
+            "modified": "2023-05-24T00:10:17Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2023-05-23T17:55:37Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-05-22T01:55:54Z",
@@ -105,84 +126,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-20T20:41:53Z",
+            "contributors": [],
+            "created": "2023-05-22T01:56:30Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    22.7205452,
+                    37.7826102
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:39:36Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T18:37:18Z",
+                    "modified": "2023-05-23T18:07:53Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-20T22:17:56Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-22T01:57:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-05-22T01:56:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-05-22T01:56:30Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-20T20:41:53Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-22T01:56:30Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-dervenakia",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 Tretos",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 353897129, version 10, osm:changeset=125766971, 2022-09-04T10:34:05Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/353897129",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 353897129",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=353897129",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/573567/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Dervenakia",
+            "uri": "https://pleiades.stoa.org/places/573567/osm-location-of-dervenakia"
         }
     ],
     "names": [
@@ -258,38 +292,27 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
         "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+        "https://pleiades.stoa.org/vocabularies/place-types/pass"
     ],
     "placeTypes": [
-        "unlocated",
         "mountain",
-        "settlement-modern"
+        "settlement-modern",
+        "pass"
     ],
     "provenance": "Barrington Atlas: BAtlas 58 Tretos",
     "references": [
-        {
-            "accessURI": "http://www.worldcat.org/oclc/43970336",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "58 Tretos",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
-            "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
-            "type": "http://purl.org/spar/cito/seeFurther"
-        },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Paus.%202.15.2&lang=original",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
             "citationDetail": "2.15.2-4",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Paus. (Spiro: Perseus)",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DT%3Aentry+group%3D6%3Aentry%3Dtretos",
@@ -323,9 +346,23 @@
             "otherIdentifier": "",
             "shortTitle": "MANTO",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 902 see \"Tretos\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "BAtlDir",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        22.7205452,
+        37.7826102
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],

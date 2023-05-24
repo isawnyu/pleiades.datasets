@@ -1,7 +1,85 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
+    "bbox": [
+        25.22232,
+        37.59637,
+        25.22232,
+        37.59637
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/590074",
+            "contributors": [],
+            "created": "2019-06-29T14:03:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-23T17:24:36Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "ctype",
+                    "modified": "2023-05-21T18:23:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2019-06-30T03:43:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2019-06-30T03:43:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-06-29T14:03:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2019-06-29T14:03:14Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "tenos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Donacea",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Donacea",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Tenos (island)",
+            "uri": "https://pleiades.stoa.org/places/589764/tenos-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/590074"
     ],
@@ -44,14 +122,20 @@
     "details": "<p>The Barrington Atlas Directory notes: Leibada, on Tenos</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    25.22232,
+                    37.59637
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-livada",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589764/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "Barrington Atlas location"
+                "description": "Coordinates following GeoNames.",
+                "link": "https://pleiades.stoa.org/places/589764/geonames-location-livada",
+                "location_precision": "precise",
+                "snippet": "Valley; AD 1700 - AD 2100",
+                "title": "GeoNames location of Liváda"
             },
             "type": "Feature"
         }
@@ -97,91 +181,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:19:03Z",
+            "contributors": [],
+            "created": "2019-06-30T03:41:05Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Coordinates following GeoNames.",
             "details": "",
-            "end": -30,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "valley"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/valley"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    25.22232,
+                    37.59637
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:48:00Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:03:54Z",
+                    "modified": "2023-05-23T17:14:15Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:58:10Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2019-07-01T13:38:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2019-06-30T03:41:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added GeoNames location",
+                    "modified": "2019-06-30T03:41:08Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:19:03Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2019-06-30T03:41:05Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "geonames-location-livada",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/valley"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 B4 Donakea?",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/8139158/livada.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "8139158",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589764/batlas-location"
+            "start": 1700,
+            "title": "GeoNames location of Liváda",
+            "uri": "https://pleiades.stoa.org/places/589764/geonames-location-livada"
         }
     ],
     "names": [
@@ -309,7 +399,10 @@
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        25.22232,
+        37.59637
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
