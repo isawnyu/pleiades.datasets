@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.705379,
-        41.467448,
-        -0.705379,
-        41.467448
+        -0.7074317,
+        41.4666749,
+        -0.7074317,
+        41.4666749
     ],
     "connections": [],
     "connectsWith": [],
@@ -57,23 +57,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.705379,
-                    41.467448
+                    -0.7074317,
+                    41.4666749
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20446",
+            "id": "location-of-mediana-de-aragon",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/246304/darmc-location-20446",
+                "description": "Representative modern location of Mediana de Aragón based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/246304/location-of-mediana-de-aragon",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "DARMC location 20446"
+                "snippet": "Settlement-modern, ; AD 1700 - AD 2100",
+                "title": "OSM location of Mediana de Aragón"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-25T16:04:55Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2021-09-26T15:14:19Z",
@@ -124,120 +129,111 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-04T23:32:42Z",
+            "contributors": [],
+            "created": "2013-12-19T02:42:54Z",
             "creators": [
                 {
-                    "name": "S.J. Keay",
-                    "username": null
-                },
-                {
-                    "name": "R.W. Mathisen",
-                    "username": null
-                },
-                {
-                    "name": "H.S. Sivan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 20446",
-            "end": 300,
+            "description": "Representative modern location of Mediana de Aragón based on OpenStreetMap.",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "settlement-modern",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    -0.705379,
-                    41.467448
+                    -0.7074317,
+                    41.4666749
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:31:03Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2023-05-25T16:03:55Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-03-04T23:37:19Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2023-05-24T20:33:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2016-10-01T03:45:45Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-04T23:32:43Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2013-12-19T02:47:28Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-04T23:32:43Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2013-12-19T02:43:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-12-19T02:43:00Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-04T23:32:42Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2013-12-19T02:42:56Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20446",
+            "id": "location-of-mediana-de-aragon",
             "locationType": [
-                "representative"
+                "associated_modern",
+                ""
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 20446",
+            "provenance": "OpenStreetMap (Node 1446994049, version 13, osm:changeset=135053188, 2023-04-18T10:38:08Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/node/1446994049",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20446",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1446994049",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20446.",
+                    "formattedCitation": "osm:node=1446994049",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 20446",
-            "uri": "https://pleiades.stoa.org/places/246304/darmc-location-20446"
+            "start": 1700,
+            "title": "OSM location of Mediana de Aragón",
+            "uri": "https://pleiades.stoa.org/places/246304/location-of-mediana-de-aragon"
         }
     ],
     "names": [],
@@ -294,11 +290,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Spanish)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20446",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        -0.705379,
-        41.467448
+        -0.7074317,
+        41.4666749
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

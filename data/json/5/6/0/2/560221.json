@@ -4,7 +4,7 @@
         22.5226845,
         35.2755765,
         29.353497,
-        41.0572437
+        42.6106123
     ],
     "connections": [
         {
@@ -56,23 +56,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "communicates",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/communicates",
             "connectsTo": "https://pleiades.stoa.org/places/1043",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:34:39Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "communicates with",
+                    "modified": "2023-05-25T20:26:14Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:34:39Z",
@@ -96,11 +108,74 @@
             "start": null,
             "title": "Internum Mare",
             "uri": "https://pleiades.stoa.org/places/560221/1043"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "less-certain",
+            "attestations": [],
+            "connectionType": "bounds",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/bounds",
+            "connectsTo": "https://pleiades.stoa.org/places/550759",
+            "contributors": [],
+            "created": "2023-05-25T20:27:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-25T20:36:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-05-25T20:27:32Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-05-25T20:27:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-05-25T20:27:02Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "mysia-region",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://dx.doi.org/10.1163/1574-9347_bnp_e814750",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+                    "citationDetail": "Mysia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "New Pauly",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Mysia (region)",
+            "uri": "https://pleiades.stoa.org/places/560221/mysia-region"
         }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/579888",
         "https://pleiades.stoa.org/places/1043",
+        "https://pleiades.stoa.org/places/550759",
         "https://pleiades.stoa.org/places/589761",
         "https://pleiades.stoa.org/places/589892",
         "https://pleiades.stoa.org/places/491682",
@@ -792,8 +867,8 @@
         }
     ],
     "reprPoint": [
-        25.101548763616083,
-        38.91611478156715
+        25.05897927968135,
+        38.99199673843375
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
