@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2023/05/21 06:48:4.412972 GMT-4
+# Date: 2023/05/28 06:48:2.556431 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4354
+# Triple count: 4352
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -131,9 +131,8 @@
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/427224440> .
 
 <https://pleiades.stoa.org/errata/550420%23this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Aisepos (river)";
-    spatial:C <https://pleiades.stoa.org/places/511141%23this>;
-    rdfs:comment "An ancient place, cited: BAtlas 56 E2 Aisepos fl.";
+    rdfs:label "Erratum: Aisepos (river)";
+    rdfs:comment "Duplicate for P511141";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/550420> .
 
 <https://pleiades.stoa.org/errata/554597372%23this> a <http://geovocab.org/spatial#Feature>;
@@ -325,8 +324,8 @@
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/991380> .
 
 <https://pleiades.stoa.org/errata/991382%23this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Hellespontus";
-    rdfs:comment "An ancient place, cited: BAtlas 101 M4 Hellespontus";
+    rdfs:label "Hellespontus (province)";
+    rdfs:comment "A late Roman province in the diocese of Asiana.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/991382> .
 
 <https://pleiades.stoa.org/errata/991391%23this> a <http://geovocab.org/spatial#Feature>;
@@ -1607,13 +1606,12 @@
     dcterms:creator <http://viaf.org/viaf/39409558>,
         <http://viaf.org/viaf/5046666>,
         <http://viaf.org/viaf/91669326>;
-    dcterms:description "An ancient place, cited: BAtlas 56 E2 Aisepos fl.";
-    dcterms:modified "2023-02-10T22:01:14-04:00";
-    dcterms:title "Aisepos (river)";
+    dcterms:description "Duplicate for P511141";
+    dcterms:modified "2023-05-25T16:10:31-04:00";
+    dcterms:title "Erratum: Aisepos (river)";
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <https://de.wikipedia.org/wiki/G%25C3%25B6nen_%25C3%2587ay%25C4%25B1>,
         <https://www.zotero.org/groups/pleiades/items/HSGNAEBR>;
-    rdfs:seeAlso <https://pleiades.stoa.org/places/511141>;
     owl:sameAs <http://pleiades.stoa.org/errata/550420>;
     skos:altLabel "Aisepos";
     skos:inScheme <https://pleiades.stoa.org/places>;
@@ -3656,15 +3654,15 @@
         <http://viaf.org/viaf/91669326>,
         <http://viaf.org/viaf/92609475>,
         <http://viaf.org/viaf/94888878>;
-    dcterms:description "An ancient place, cited: BAtlas 101 M4 Hellespontus";
-    dcterms:modified "2012-07-20T13:30:33-04:00";
-    dcterms:title "Hellespontus";
+    dcterms:description "A late Roman province in the diocese of Asiana.";
+    dcterms:modified "2023-05-25T14:22:28-04:00";
+    dcterms:title "Hellespontus (province)";
     cito:citesForInformation <http://openlibrary.org/works/OL8327792W>;
     owl:sameAs <http://pleiades.stoa.org/errata/991382>;
     skos:altLabel "Hellespontus";
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ];
-    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/province>;
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/province-2>;
     pleiades:hasLocation <https://pleiades.stoa.org/errata/991382/batlas-location>;
     pleiades:hasName <https://pleiades.stoa.org/errata/991382/hellespontus> .
 
