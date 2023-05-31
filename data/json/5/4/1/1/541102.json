@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.036561,
-        38.181242,
-        23.036561,
-        38.181242
+        23.0516979,
+        38.1892347,
+        23.0540118,
+        38.1905049
     ],
     "connections": [
         {
@@ -128,23 +128,54 @@
         {
             "geometry": {
                 "coordinates": [
-                    23.036561,
-                    38.181242
+                    [
+                        23.0516979,
+                        38.1904134
+                    ],
+                    [
+                        23.0530262,
+                        38.1905049
+                    ],
+                    [
+                        23.0540118,
+                        38.1899852
+                    ],
+                    [
+                        23.0538159,
+                        38.1895041
+                    ],
+                    [
+                        23.052812,
+                        38.1892347
+                    ],
+                    [
+                        23.0519856,
+                        38.1895763
+                    ],
+                    [
+                        23.0516979,
+                        38.1904134
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-24104",
+            "id": "osm-location-of-iioiiii-i-i-iii1-2-iiii-i-ii1-2",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/541102/darmc-location-24104",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/541102/osm-location-of-iioiiii-i-i-iii1-2-iiii-i-ii1-2",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 24104"
+                "snippet": "Acropolis; 750 BC - AD 640",
+                "title": "OSM location of Ακρόπολη των Αρχαίων Σιφών"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-05-30T18:08:39Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add Pliny",
             "modified": "2023-05-27T01:44:44Z",
@@ -195,8 +226,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -232,91 +263,110 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:56:00Z",
+            "contributors": [],
+            "created": "2023-05-27T01:24:04Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 24104",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "acropolis"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/acropolis"
             ],
             "geometry": {
                 "coordinates": [
-                    23.036561,
-                    38.181242
+                    [
+                        23.0516979,
+                        38.1904134
+                    ],
+                    [
+                        23.0530262,
+                        38.1905049
+                    ],
+                    [
+                        23.0540118,
+                        38.1899852
+                    ],
+                    [
+                        23.0538159,
+                        38.1895041
+                    ],
+                    [
+                        23.052812,
+                        38.1892347
+                    ],
+                    [
+                        23.0519856,
+                        38.1895763
+                    ],
+                    [
+                        23.0516979,
+                        38.1904134
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:10:07Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:20:54Z",
+                    "modified": "2023-05-30T18:08:05Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T01:56:01Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-27T01:24:47Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:56:01Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2023-05-27T01:24:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-05-27T01:24:04Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T01:56:00Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-05-27T01:24:04Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-24104",
+            "id": "osm-location-of-iioiiii-i-i-iii1-2-iiii-i-ii1-2",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/acropolis"
             ],
-            "provenance": "DARMC OBJECTID: 24104",
+            "provenance": "OpenStreetMap (Way 280940037, version 1, osm:changeset=22262165, 2014-05-11T02:52:13Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/280940037",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "24104",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 280940037",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24104.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=280940037",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 24104",
-            "uri": "https://pleiades.stoa.org/places/541102/darmc-location-24104"
+            "title": "OSM location of Ακρόπολη των Αρχαίων Σιφών",
+            "uri": "https://pleiades.stoa.org/places/541102/osm-location-of-iioiiii-i-i-iii1-2-iiii-i-ii1-2"
         }
     ],
     "names": [
@@ -356,18 +406,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Σῖφαι",
             "contributors": [
-                {
-                    "name": "G. Reger",
-                    "username": null
-                },
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
@@ -375,9 +421,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-23T00:43:26Z",
+            "created": "2023-05-27T01:40:27Z",
             "creators": [
                 {
                     "name": "J. Fossey",
@@ -392,6 +450,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2023-05-30T18:09:36Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Baseline created",
                     "modified": "2023-05-27T01:40:27Z",
@@ -419,10 +482,22 @@
                 }
             ],
             "id": "siphai",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 55 E4 Siphai/Tipha",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://archive.org/details/bub_gb_sZs-AAAAcAAJ",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/25I8PUYK",
+                    "citationDetail": "S573.1 Siphai: Σῖφαι",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Stephanos Byzantinioi, and August Meineke. <i>Ethnikōn: a geographical lexicon on ancient cities, peoples, tribes and toponyms (Stephani Byzantinii Ethnicorum quae supersunt ex recensione Augusti Meinekii)</i>. Chicago, Ill.: Ares Publishers, 1992. https://archive.org/details/bub_gb_sZs-AAAAcAAJ.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "StByz (Meineke; archive.org)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Siphai",
             "start": -750,
@@ -466,18 +541,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Τίφα",
             "contributors": [
-                {
-                    "name": "G. Reger",
-                    "username": null
-                },
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
@@ -485,9 +556,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-23T00:43:27Z",
+            "created": "2023-05-27T01:27:25Z",
             "creators": [
                 {
                     "name": "J. Fossey",
@@ -502,6 +585,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "Greek name, reference",
+                    "modified": "2023-05-30T18:09:45Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Baseline created",
                     "modified": "2023-05-27T01:27:24Z",
@@ -534,10 +622,22 @@
                 }
             ],
             "id": "tipha",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 55 E4 Siphai/Tipha",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.32.4",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+                    "citationDetail": "9.32.4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Paus. (Spiro: Perseus)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Tipha",
             "start": -750,
@@ -599,11 +699,22 @@
             "otherIdentifier": "",
             "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "24104",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.036561,
-        38.181242
+        23.052821414442118,
+        38.18992394483485
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
