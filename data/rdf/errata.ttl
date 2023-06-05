@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2023/05/28 06:48:2.556431 GMT-4
+# Date: 2023/06/04 06:48:4.249295 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4352
+# Triple count: 4420
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -151,6 +151,11 @@
     rdfs:label "Erroneous Duplicate: Ladon (river)";
     rdfs:comment "Duplicate for Ladon/Selleis (river) : https://pleiades.stoa.org/places/570409";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/570408> .
+
+<https://pleiades.stoa.org/errata/573401%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Oinoe/Boinoa";
+    rdfs:comment "Duplicate for https://pleiades.stoa.org/places/573145";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/573401> .
 
 <https://pleiades.stoa.org/errata/592169143%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Mortuary Temple of Ramesses III";
@@ -1755,6 +1760,70 @@
     owl:sameAs <http://pleiades.stoa.org/errata/570408/ladon>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ];
     pleiades:nameRomanized "Ladon" .
+
+<https://pleiades.stoa.org/errata/573401> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "",
+        "Str. (Meineke: Perseus) 8.3.5";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "Elis: city";
+    dcterms:creator <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59102736>;
+    dcterms:description "Duplicate for https://pleiades.stoa.org/places/573145";
+    dcterms:modified "2023-06-02T13:53:06-04:00";
+    dcterms:title "Withdrawn: Oinoe/Boinoa";
+    cito:citesForInformation <http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8.3.5>,
+        <http://openlibrary.org/works/OL8327792W>;
+    owl:sameAs <http://pleiades.stoa.org/errata/573401>;
+    skos:altLabel "Boinoa",
+        "Oinoe";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/settlement>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/573401/batlas-location>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/573401/boinoa>,
+        <https://pleiades.stoa.org/errata/573401/oinoe> .
+
+<https://pleiades.stoa.org/errata/573401/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59102736>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T21:37:49-04:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/573401/batlas-location>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ] .
+
+<https://pleiades.stoa.org/errata/573401/boinoa> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59102736>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T21:37:49-04:00";
+    dcterms:title "Boinoa";
+    owl:sameAs <http://pleiades.stoa.org/errata/573401/boinoa>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ];
+    pleiades:nameRomanized "Boinoa" .
+
+<https://pleiades.stoa.org/errata/573401/oinoe> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59102736>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T21:37:49-04:00";
+    dcterms:title "Oinoe";
+    owl:sameAs <http://pleiades.stoa.org/errata/573401/oinoe>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ];
+    pleiades:nameRomanized "Oinoe" .
 
 <https://pleiades.stoa.org/errata/592169143> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
