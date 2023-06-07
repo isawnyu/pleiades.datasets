@@ -1,8 +1,73 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "less-certain",
+            "attestations": [],
+            "connectionType": "same_as",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/same_as",
+            "connectsTo": "https://pleiades.stoa.org/places/570676",
+            "contributors": [],
+            "created": "2023-06-06T19:26:24Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-06-06T19:39:44Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-06-06T19:27:07Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-06-06T19:26:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-06-06T19:26:24Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "skollis-mountain",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8.3.10",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "8.3.10",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Skollis (mountain)",
+            "uri": "https://pleiades.stoa.org/places/573404/skollis-mountain"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/570676"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -27,7 +92,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-20T20:37:58Z",
+    "created": "2023-06-06T19:19:25Z",
     "creators": [
         {
             "name": "G. Reger",
@@ -38,23 +103,15 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 58 unlocated Olenia Petra",
-    "details": "The Barrington Atlas Directory notes: in Elis, same as Skollis M.?",
-    "features": [
-        {
-            "geometry": null,
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/573404/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "description": "An ancient mountain or outcrop in Elis mentioned by Homer, Pausanias, and others. Strabo tentatively identifies it with mount Skollis (modern Santomeri).",
+    "details": "<p>The Barrington Atlas Directory notes: in Elis, same as Skollis M.?</p>",
+    "features": [],
     "history": [
+        {
+            "comment": "summary; place type += mountain; cleaned up references",
+            "modified": "2023-06-06T19:27:00Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2020-01-29T05:43:31Z",
@@ -92,103 +149,17 @@
         }
     ],
     "id": "573404",
-    "locations": [
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-20T20:37:59Z",
-            "creators": [
-                {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:37:52Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2010-09-22T18:36:50Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-09-20T22:17:20Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2010-09-20T20:37:59Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 58 Olenia Petra",
-            "references": [],
-            "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/573404/batlas-location"
-        }
-    ],
+    "locations": [],
     "names": [
         {
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "attested": "",
+            "attested": "Ὠλενίη πἐτρη",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -196,16 +167,22 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-20T20:37:58Z",
+            "created": "2023-06-06T19:27:52Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
-                    "name": "G. Reger",
+                    "name": "J. McK. Camp II",
                     "username": null
                 }
             ],
@@ -213,6 +190,16 @@
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "greek; orthography; evidence",
+                    "modified": "2023-06-06T19:39:55Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2023-06-06T19:27:52Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:37:52Z",
@@ -235,10 +222,44 @@
                 }
             ],
             "id": "olenia-petra",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 58 Olenia Petra",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8.3.10",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "8.3.10",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:2.615-2.652",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MTUPQA3P",
+                    "citationDetail": "Il. 2.617",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Homer. <i>Homeri Opera</i>. Edited by Thomas W Allen. Editio altera. 5 vols. Oxonii; New York: E Typographeo Clarendoniano; Oxford University Press, 1920. http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0012.tlg001.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Hom. (Allen 1920; Perseus)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:11.737-11.779",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MTUPQA3P",
+                    "citationDetail": "Il. 11.757",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Homer. <i>Homeri Opera</i>. Edited by Thomas W Allen. Editio altera. 5 vols. Oxonii; New York: E Typographeo Clarendoniano; Oxford University Press, 1920. http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0012.tlg001.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Hom. (Allen 1920; Perseus)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Olenia Petra",
             "start": null,
@@ -248,22 +269,24 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/mountain"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "mountain"
     ],
     "provenance": "Barrington Atlas: BAtlas 58 Olenia Petra",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "58 Olenia Petra",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 58 Olenia Petra",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -271,22 +294,22 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
             "citationDetail": "8.3.10",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
             "otherIdentifier": "",
             "shortTitle": "Str. (Meineke: Perseus)",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         },
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.20.16",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
             "citationDetail": "6.20.16",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1.</div>",
             "otherIdentifier": "",
             "shortTitle": "Paus. (Spiro: Perseus)",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
         }
     ],
     "reprPoint": null,

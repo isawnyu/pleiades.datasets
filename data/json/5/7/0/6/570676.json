@@ -3,11 +3,13 @@
     "bbox": [
         21.577,
         37.968,
-        21.577,
-        37.968
+        21.57947,
+        37.96864
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/573522"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -43,8 +45,8 @@
             "username": null
         }
     ],
-    "description": "Skollis.",
-    "details": "The Barrington Atlas Directory notes: Skollis",
+    "description": "A mountain that Strabo reports as lying on the border of Elis and Achaea in the Peloponnese, identified with the modern Santameri/Santomeri/Santameriotiko (also now often called by its ancient name).",
+    "details": "<p>The Barrington Atlas Directory notes: Skollis</p>",
     "features": [
         {
             "geometry": {
@@ -54,18 +56,46 @@
                 ],
                 "type": "Point"
             },
-            "id": "location-of-skollis-m",
+            "id": "imagery-location-of-skollis-m",
             "properties": {
                 "description": "verified in Google Earth 2013.",
-                "link": "https://pleiades.stoa.org/places/570676/location-of-skollis-m",
+                "link": "https://pleiades.stoa.org/places/570676/imagery-location-of-skollis-m",
                 "location_precision": "precise",
-                "snippet": "Mountain, ; AD 1700 - AD 2100",
-                "title": "location of Skollis M."
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "Imagery location of Skollis M."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.57947,
+                    37.96864
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-of-santomeri",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/570676/geonames-location-of-santomeri",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 2000 - AD 2099",
+                "title": "Geonames location of Santomeri"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added RE reference",
+            "modified": "2023-06-06T19:18:45Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "title; summary; cleaned up references",
+            "modified": "2023-06-06T19:17:19Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
             "modified": "2021-03-01T22:40:39Z",
@@ -113,7 +143,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "accuracy_value": 5.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -124,7 +154,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-01-30T19:37:40Z",
             "creators": [
                 {
@@ -138,12 +175,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "mountain",
-                ""
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
@@ -153,6 +188,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "associated modern",
+                    "modified": "2023-06-06T19:12:38Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-04-06T19:54:09Z",
@@ -179,13 +219,12 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-skollis-m",
+            "id": "imagery-location-of-skollis-m",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -203,8 +242,107 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Skollis M.",
-            "uri": "https://pleiades.stoa.org/places/570676/location-of-skollis-m"
+            "title": "Imagery location of Skollis M.",
+            "uri": "https://pleiades.stoa.org/places/570676/imagery-location-of-skollis-m"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-05-26T20:47:05Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "mountain"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "geometry": {
+                "coordinates": [
+                    21.57947,
+                    37.96864
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "certain",
+                    "modified": "2023-06-06T19:11:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-27T00:22:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-05-26T20:53:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-05-26T20:47:44Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-05-26T20:47:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-05-26T20:47:05Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "geonames-location-of-santomeri",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/253585/santomeri.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "253585: Santoméri",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "Geonames location of Santomeri",
+            "uri": "https://pleiades.stoa.org/places/570676/geonames-location-of-santomeri"
         }
     ],
     "names": [
@@ -213,14 +351,10 @@
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "attested": "",
+            "attested": "Σκόλλις",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -228,16 +362,22 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-20T20:55:00Z",
+            "created": "2023-06-06T19:12:58Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
-                    "name": "G. Reger",
+                    "name": "J. McK. Camp II",
                     "username": null
                 }
             ],
@@ -245,6 +385,16 @@
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "greek; evidence",
+                    "modified": "2023-06-06T19:39:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2023-06-06T19:12:58Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
                     "modified": "2021-03-01T22:40:40Z",
@@ -272,16 +422,122 @@
                 }
             ],
             "id": "Skollis-M",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 58 B2 Skollis M.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8.3.10",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "8.3.10",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Skollis",
             "start": null,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/570676/Skollis-M"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Σαντομέρι",
+            "contributors": [],
+            "created": "2023-05-26T20:52:15Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "comment": "certain",
+                    "modified": "2023-06-06T19:12:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-05-27T00:22:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-05-26T20:53:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-05-26T20:52:15Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-05-26T20:52:15Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "santomeri",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://elexikon.ch/RE/IIIA,1_565.png",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+                    "citationDetail": "Skollis",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "RE",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://www.geonames.org/253585/santomeri.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "253585: Santoméri",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Santomeri, Santoméri",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/570676/santomeri"
         }
     ],
     "placeTypeURIs": [
@@ -293,14 +549,14 @@
     "provenance": "Barrington Atlas: BAtlas 58 B2 Skollis M.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "58 B2 Skollis M.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 58 B2 Skollis M.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -324,11 +580,22 @@
             "otherIdentifier": "",
             "shortTitle": "Str. (Meineke: Perseus)",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://elexikon.ch/RE/IIIA,1_565.png",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Skollis",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RE",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        21.577,
-        37.968
+        21.578235,
+        37.968320000000006
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

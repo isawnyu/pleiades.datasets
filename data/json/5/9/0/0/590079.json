@@ -1,12 +1,63 @@
 {
     "@type": "Place",
     "bbox": [
-        26.0,
-        34.5,
-        26.5,
-        35.0
+        27.805503,
+        36.268497,
+        27.805503,
+        36.268497
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/590031",
+            "contributors": [],
+            "created": "2020-07-07T15:59:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-06-06T16:42:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2020-07-07T15:59:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-07-07T15:59:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2020-07-07T15:59:31Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "rhodos-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Rhodos (island)",
+            "uri": "https://pleiades.stoa.org/places/590079/rhodos-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/590031"
     ],
@@ -34,7 +85,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:26:30Z",
+    "created": "2023-06-05T20:08:22Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -45,49 +96,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 F3 Thoantion Pr.",
-    "details": "None",
+    "description": "An ancient promontory on the island of Rhodes, placed by Strabo opposite the island Chalke and the Sporades in general.",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            34.5
-                        ]
-                    ]
+                    27.805503,
+                    36.268497
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/590079/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "link": "https://pleiades.stoa.org/places/590079/batlas-point-location",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added Pauly link and cleaned up references; summary",
+            "modified": "2023-06-06T16:34:52Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2023-06-05T20:08:21Z",
@@ -128,110 +164,92 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-22T19:26:30Z",
+            "contributors": [],
+            "created": "2023-06-05T20:07:56Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            34.5
-                        ]
-                    ]
+                    27.805503,
+                    36.268497
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:51:26Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:04:47Z",
+                    "modified": "2023-06-06T16:34:59Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:59:01Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-05T20:08:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-06-05T20:07:57Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:26:30Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-05T20:07:56Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 F3 Thoantion Pr.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "60 F3",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/590079/batlas-location"
+            "start": 2000,
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/590079/batlas-point-location"
         }
     ],
     "names": [
@@ -315,25 +333,25 @@
     "provenance": "Barrington Atlas: BAtlas 60 F3 Thoantion Pr.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 F3 Thoantion Pr.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 60 F3 Thoantion Pr.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://elexikon.ch/RE/SV_749",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Suppl.-5-Rhodos",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Suppl. 5 Rhodos, col. 750",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Suppl. 5 Rhodos, cols. 750",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -349,13 +367,13 @@
         }
     ],
     "reprPoint": [
-        26.25,
-        34.75
+        27.805503,
+        36.268497
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Thoantion Pr.",
+    "title": "Thoantion (promontory)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/590079"
 }
