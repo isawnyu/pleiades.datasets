@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        24.393796,
-        36.709481,
-        24.393796,
-        36.709481
+        24.3918219,
+        36.7099574,
+        24.3918219,
+        36.7099574
     ],
     "connections": [
         {
@@ -101,23 +101,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    24.393796,
-                    36.709481
+                    24.3918219,
+                    36.7099574
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-12337",
+            "id": "osm-location-of-modern-hamlet-of-empourios",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/570224/darmc-location-12337",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/570224/osm-location-of-modern-hamlet-of-empourios",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 12337"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of modern hamlet of Empourios"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-06-07T19:35:18Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-06-07T01:31:18Z",
@@ -168,8 +173,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -177,101 +182,88 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-25T18:26:53Z",
+            "contributors": [],
+            "created": "2023-06-07T01:28:36Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 12337",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    24.393796,
-                    36.709481
+                    24.3918219,
+                    36.7099574
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:26:49Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-25T19:01:21Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-07T19:34:53Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-25T18:26:54Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-07T01:29:08Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-25T18:26:54Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2023-06-07T01:29:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-06-07T01:28:37Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-25T18:26:53Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-07T01:28:36Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-12337",
+            "id": "osm-location-of-modern-hamlet-of-empourios",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 12337",
+            "provenance": "OpenStreetMap (Node 1840260984, version 5, osm:changeset=87517232, 2020-07-03T20:33:22Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1840260984",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12337",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1840260984",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12337.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=1840260984",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 12337",
-            "uri": "https://pleiades.stoa.org/places/570224/darmc-location-12337"
+            "start": 2000,
+            "title": "OSM location of modern hamlet of Empourios",
+            "uri": "https://pleiades.stoa.org/places/570224/osm-location-of-modern-hamlet-of-empourios"
         }
     ],
     "names": [],
@@ -317,11 +309,22 @@
             "otherIdentifier": "",
             "shortTitle": "Photos-Jones 1999",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12337",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        24.393796,
-        36.709481
+        24.3918219,
+        36.7099574
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
