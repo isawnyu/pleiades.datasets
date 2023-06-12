@@ -119,8 +119,8 @@
                 "description": "Site of a Neolithic and Hittite settlement. Coordinates after GeoHack.",
                 "link": "https://pleiades.stoa.org/places/991964195/alacahoeyuk",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 10000 BC - 850 BC",
-                "title": "location of Alaca Höyük"
+                "snippet": "Settlement; 10000 BC - 850 BC",
+                "title": "GeoHack location of Alaca Höyük"
             },
             "type": "Feature"
         },
@@ -134,11 +134,11 @@
             },
             "id": "imagery-location-of-alaca-hoyuk",
             "properties": {
-                "description": "Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.",
+                "description": "",
                 "link": "https://pleiades.stoa.org/places/991964195/imagery-location-of-alaca-hoyuk",
                 "location_precision": "precise",
                 "snippet": "Archaeological-site, Settlement",
-                "title": "Imagery location of Alaça Höyuk"
+                "title": "CIGS location of Alaça Höyuk"
             },
             "type": "Feature"
         }
@@ -199,8 +199,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
-            "accuracy_value": 5.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -238,12 +238,10 @@
             "details": "",
             "end": -850,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -253,6 +251,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "update PAA, title",
+                    "modified": "2023-06-09T02:17:43Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2013-12-13T02:26:03Z",
@@ -304,8 +307,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -323,7 +325,7 @@
             ],
             "review_state": "published",
             "start": -10000,
-            "title": "location of Alaca Höyük",
+            "title": "GeoHack location of Alaca Höyük",
             "uri": "https://pleiades.stoa.org/places/991964195/alacahoeyuk"
         },
         {
@@ -335,7 +337,7 @@
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "contributors": [],
-            "created": "2021-11-08T12:37:21Z",
+            "created": "2023-06-08T14:03:29Z",
             "creators": [
                 {
                     "homepage": null,
@@ -350,8 +352,8 @@
                     "username": "rrattenborg"
                 }
             ],
-            "description": "Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.",
-            "details": "",
+            "description": "",
+            "details": "<p>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</p>",
             "end": null,
             "featureType": [
                 "archaeological-site",
@@ -369,6 +371,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Standardized title",
+                    "modified": "2023-06-09T02:18:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2023-06-08T14:03:29Z",
+                    "modifiedBy": "cjohansson"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-11-09T14:49:23Z",
@@ -430,7 +442,7 @@
             ],
             "review_state": "published",
             "start": null,
-            "title": "Imagery location of Alaça Höyuk",
+            "title": "CIGS location of Alaça Höyuk",
             "uri": "https://pleiades.stoa.org/places/991964195/imagery-location-of-alaca-hoyuk"
         }
     ],
