@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        26.04645,
-        37.600612,
-        26.04645,
-        37.600612
+        26.046128,
+        37.5988531,
+        26.046128,
+        37.5988531
     ],
     "connections": [
         {
@@ -101,23 +101,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    26.04645,
-                    37.600612
+                    26.046128,
+                    37.5988531
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-23463",
+            "id": "osm-location-of-proespera",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/599908/darmc-location-23463",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/599908/osm-location-of-proespera",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 330 BC",
-                "title": "DARMC location 23463"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Proespera"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-06-12T15:44:24Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2017-02-18T19:21:27Z",
@@ -168,8 +173,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -177,95 +182,88 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-02-25T20:34:50Z",
+            "contributors": [],
+            "created": "2023-06-12T00:34:15Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 23463",
-            "end": -330,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    26.04645,
-                    37.600612
+                    26.046128,
+                    37.5988531
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:03:11Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-02-25T20:50:44Z",
+                    "modified": "2023-06-12T15:43:55Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-02-25T20:34:51Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-12T00:34:52Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-02-25T20:34:51Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add osm location",
+                    "modified": "2023-06-12T00:34:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-06-12T00:34:15Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-02-25T20:34:50Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-12T00:34:15Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-23463",
+            "id": "osm-location-of-proespera",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 23463",
+            "provenance": "OpenStreetMap (Node 1616928454, version 4, osm:changeset=126062291, 2022-09-11T19:27:27Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1616928454",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "23463",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1616928454",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 23463.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=1616928454",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -550,
-            "title": "DARMC location 23463",
-            "uri": "https://pleiades.stoa.org/places/599908/darmc-location-23463"
+            "start": 2000,
+            "title": "OSM location of Proespera",
+            "uri": "https://pleiades.stoa.org/places/599908/osm-location-of-proespera"
         }
     ],
     "names": [],
@@ -300,11 +298,22 @@
             "otherIdentifier": "",
             "shortTitle": "Zapheiropoulos 1970",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "23463",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        26.04645,
-        37.600612
+        26.046128,
+        37.5988531
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
