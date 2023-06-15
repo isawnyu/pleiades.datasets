@@ -1,12 +1,80 @@
 {
     "@type": "Place",
     "bbox": [
-        25.289738,
-        37.122502,
-        25.289738,
-        37.122502
+        25.289927,
+        37.1251996,
+        25.289927,
+        37.1251996
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/599868",
+            "contributors": [],
+            "created": "2023-06-14T02:12:16Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-06-14T17:11:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-06-14T02:14:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "reference",
+                    "modified": "2023-06-14T02:14:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2023-06-14T02:12:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-06-14T02:12:16Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "paros-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/W4XK9BKM",
+                    "citationDetail": "95-96",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">D. Schilardi. “Paros, Report II: The 1973 Campaign.” <i>JFA</i> 2 (1975): 83–96.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Schilardi 1975",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Paros (island)",
+            "uri": "https://pleiades.stoa.org/places/599882/paros-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/599868"
     ],
@@ -44,7 +112,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-10-15T09:10:17Z",
+    "created": "2023-06-14T17:14:01Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -55,29 +123,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 61 A3 Philitzi",
-    "details": "The Barrington Atlas Directory notes: Philitzi, on Paros GRE",
+    "description": "An ancient settlement, likely dating from Geometric to Classical times, has been identified on the modern islet of Filitzi, which was attached to Paros in antiquity.",
+    "details": "<p>The Barrington Atlas Directory notes: Philitzi, on Paros GRE</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    25.289738,
-                    37.122502
+                    25.289927,
+                    37.1251996
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-14245",
+            "id": "osm-location-of-filitzi-islet",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/599882/darmc-location-14245",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/599882/osm-location-of-filitzi-islet",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 550 BC",
-                "title": "DARMC location 14245"
+                "snippet": "Island; AD 2000 - AD 2099",
+                "title": "OSM location of Filitzi (islet)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary",
+            "modified": "2023-06-15T00:42:03Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-06-14T17:13:38Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references. add topostext",
             "modified": "2023-06-14T02:13:56Z",
@@ -123,8 +201,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -132,95 +210,100 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-02-25T20:33:23Z",
+            "created": "2023-06-14T02:15:55Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 14245",
-            "end": -550,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "island"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
             "geometry": {
                 "coordinates": [
-                    25.289738,
-                    37.122502
+                    25.289927,
+                    37.1251996
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:02:53Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2023-06-14T17:12:54Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-02-25T20:50:37Z",
+                    "comment": "Edited",
+                    "modified": "2023-06-14T17:12:49Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-02-25T20:33:24Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-14T02:16:18Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-02-25T20:33:24Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2023-06-14T02:16:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-06-14T02:15:55Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-02-25T20:33:23Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-14T02:15:55Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-14245",
+            "id": "osm-location-of-filitzi-islet",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
             ],
-            "provenance": "DARMC OBJECTID: 14245",
+            "provenance": "OpenStreetMap (Node 4861746616, version 4, osm:changeset=59198479, 2018-05-23T05:25:10Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/4861746616",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "14245",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4861746616",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 14245.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=4861746616",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 14245",
-            "uri": "https://pleiades.stoa.org/places/599882/darmc-location-14245"
+            "start": 2000,
+            "title": "OSM location of Filitzi (islet)",
+            "uri": "https://pleiades.stoa.org/places/599882/osm-location-of-filitzi-islet"
         }
     ],
     "names": [],
@@ -266,11 +349,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "14245",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.289738,
-        37.122502
+        25.289927,
+        37.1251996
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
