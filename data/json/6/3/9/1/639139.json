@@ -30,6 +30,51 @@
             "history": [
                 {
                     "action": "Publish externally",
+                    "modified": "2016-07-13T13:54:56Z",
+                    "modifiedBy": "admin"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2016-07-13T13:54:56Z",
+                    "modifiedBy": "admin"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2016-07-13T13:54:55Z",
+                    "modifiedBy": "admin"
+                }
+            ],
+            "id": "639116",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Solymos (mountain)",
+            "uri": "https://pleiades.stoa.org/places/639139/639116"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectsTo": "https://pleiades.stoa.org/places/639116",
+            "contributors": [],
+            "created": "2016-07-13T13:36:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin",
+                    "username": "admin"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
                     "modified": "2016-07-13T13:36:01Z",
                     "modifiedBy": "admin"
                 },
@@ -49,11 +94,12 @@
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Solymos M.",
+            "title": "Solymos (mountain)",
             "uri": "https://pleiades.stoa.org/places/639139/639116"
         }
     ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/639116",
         "https://pleiades.stoa.org/places/639116",
         "https://pleiades.stoa.org/places/71922376"
     ],
@@ -65,6 +111,12 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -91,7 +143,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2011-01-10T23:02:45Z",
+    "created": "2016-06-06T15:23:41Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -103,7 +155,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 65 D4 Termessos",
-    "details": "The Barrington Atlas Directory notes: Güllük Dağ",
+    "details": "<p>The Barrington Atlas Directory notes: Güllük Dağ</p>",
     "features": [
         {
             "geometry": {
@@ -115,7 +167,7 @@
             },
             "id": "darmc-location-1455",
             "properties": {
-                "description": "TIB point location",
+                "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/639139/darmc-location-1455",
                 "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 640",
@@ -133,7 +185,7 @@
             },
             "id": "darmc-location-6306",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/639139/darmc-location-6306",
                 "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 640",
@@ -161,6 +213,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add tm geo id, topostext; updated Connections",
+            "modified": "2023-06-19T02:57:58Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added connection",
             "modified": "2013-02-26T22:06:16Z",
@@ -264,7 +321,7 @@
                     "username": null
                 }
             ],
-            "description": "TIB point location",
+            "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 1455",
             "end": 640,
             "featureType": [
@@ -383,7 +440,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 6306",
             "end": 640,
             "featureType": [
@@ -624,6 +681,11 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "Baseline created",
+                    "modified": "2023-06-19T04:08:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T07:31:58Z",
                     "modifiedBy": "admin"
@@ -658,10 +720,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 65 D4 Termessos",
     "references": [
@@ -685,6 +749,28 @@
             "formattedCitation": "RE Termessos 2",
             "otherIdentifier": "",
             "shortTitle": "",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/2319",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 2319: Termessos (Güllük Dağ)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/370305PTer",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Termessos (Pisidia)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
             "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],

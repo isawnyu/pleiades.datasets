@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.590173,
-        41.924375,
-        13.590173,
-        41.924375
+        13.5967268,
+        41.9142069,
+        13.6084826,
+        41.9229246
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,28 +44,61 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 44 E2 Amplero",
-    "details": "The Barrington Atlas Directory notes: Amplero",
+    "details": "<p>The Barrington Atlas Directory notes: Amplero</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    13.590173,
-                    41.924375
+                    [
+                        13.5997279,
+                        41.9229246
+                    ],
+                    [
+                        13.6084826,
+                        41.9217112
+                    ],
+                    [
+                        13.6054786,
+                        41.9142069
+                    ],
+                    [
+                        13.5967268,
+                        41.91617
+                    ],
+                    [
+                        13.5997279,
+                        41.9229246
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-18187",
+            "id": "osm-location-of-sito-archeologico-amplero-la",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/432672/darmc-location-18187",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/432672/osm-location-of-sito-archeologico-amplero-la",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 18187"
+                "snippet": "Archaeological-site; 330 BC - AD 300",
+                "title": "OSM location of Sito Archeologico Amplero/La Giostra"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add Letta 1975 reference",
+            "modified": "2023-06-16T17:06:54Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "add Arachne Collelongo, (Amplero) L'Aquila (Provinz), Italien, Europa",
+            "modified": "2023-06-16T17:04:51Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-06-16T15:53:15Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-06-15T22:09:45Z",
@@ -111,9 +144,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -130,82 +163,102 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:09:14Z",
+            "contributors": [],
+            "created": "2023-06-15T22:05:07Z",
             "creators": [
                 {
-                    "name": "N. Purcell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18187",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    13.590173,
-                    41.924375
+                    [
+                        13.5997279,
+                        41.9229246
+                    ],
+                    [
+                        13.6084826,
+                        41.9217112
+                    ],
+                    [
+                        13.6054786,
+                        41.9142069
+                    ],
+                    [
+                        13.5967268,
+                        41.91617
+                    ],
+                    [
+                        13.5997279,
+                        41.9229246
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:59:04Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-21T23:23:26Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-16T15:52:36Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T23:09:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-15T22:05:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-06-15T22:05:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-06-15T22:05:08Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T23:09:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-15T22:05:07Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18187",
+            "id": "osm-location-of-sito-archeologico-amplero-la",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 18187",
+            "provenance": "OpenStreetMap (Way 1174012215, version 1, osm:changeset=136264169, 2023-05-18T16:43:11Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1174012215",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18187",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1174012215",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18187.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1174012215",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 18187",
-            "uri": "https://pleiades.stoa.org/places/432672/darmc-location-18187"
+            "title": "OSM location of Sito Archeologico Amplero/La Giostra",
+            "uri": "https://pleiades.stoa.org/places/432672/osm-location-of-sito-archeologico-amplero-la"
         }
     ],
     "names": [],
@@ -251,11 +304,44 @@
             "otherIdentifier": "",
             "shortTitle": "vici.org",
             "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18187",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://arachne.dainst.org/entity/4305705",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "citationDetail": "Collelongo, (Amplero) L'Aquila (Provinz), Italien, Europa",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arachne",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.jstor.org/stable/24180507",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LZNJYA2N",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Letta, Cesare. “Scavi Nella Zona Di Amplero (collelongo) Relazione Preliminare 1969-1971.” <i>Studi Classici e Orientali</i> 24 (1975): 49–67. https://www.jstor.org/stable/24180507.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Letta 1975",
+            "type": "http://purl.org/spar/cito/seeFurther"
         }
     ],
     "reprPoint": [
-        13.590173,
-        41.924375
+        13.602689060792647,
+        41.91872264727849
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

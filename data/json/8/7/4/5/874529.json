@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        42.866666,
-        39.233333,
-        42.866666,
-        39.233333
+        42.8612338,
+        39.2332,
+        42.864,
+        39.2334202
     ],
     "connections": [],
     "connectsWith": [],
@@ -25,15 +25,27 @@
         },
         {
             "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson",
+            "username": "cjohansson"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg",
+            "username": "rrattenborg"
         }
     ],
     "created": "2010-10-05T17:51:50Z",
@@ -56,28 +68,56 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 89 E1 ‘Isumbo’/Patansana/Zombis",
-    "details": "The Barrington Atlas Directory notes: Patnos?",
+    "details": "<p>The Barrington Atlas Directory notes: Patnos?</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    42.866666,
-                    39.233333
+                    42.8612338,
+                    39.2334202
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21469",
+            "id": "patnos-1",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/874529/darmc-location-21469",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/874529/patnos-1",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 21469"
+                "snippet": "Unknown",
+                "title": "OSM location of Patnos"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.864,
+                    39.2332
+                ],
+                "type": "Point"
+            },
+            "id": "cigs-location-of-patnos",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/874529/cigs-location-of-patnos",
+                "location_precision": "precise",
+                "snippet": "Findspot",
+                "title": "CIGS location of Patnos"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-06-18T13:50:30Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-06-16T15:57:46Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2015-02-20T15:35:10Z",
@@ -128,47 +168,31 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:39:15Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-06-16T08:31:12Z",
             "creators": [
                 {
-                    "name": "S.E. Kroll",
-                    "username": null
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
                 },
                 {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
-                },
-                {
-                    "name": "T. Sinclair",
-                    "username": null
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21469",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": null,
             "featureType": [
                 "unknown"
             ],
@@ -177,63 +201,210 @@
             ],
             "geometry": {
                 "coordinates": [
-                    42.866666,
-                    39.233333
+                    42.8612338,
+                    39.2334202
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:01:51Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:15:50Z",
+                    "modified": "2023-06-16T15:57:16Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T00:39:17Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-16T08:34:42Z",
+                    "modifiedBy": "cjohansson"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:39:17Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2023-06-16T08:31:35Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-06-16T08:31:13Z",
+                    "modifiedBy": "cjohansson"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T00:39:16Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-06-16T08:31:12Z",
+                    "modifiedBy": "cjohansson"
                 }
             ],
-            "id": "darmc-location-21469",
+            "id": "patnos-1",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "provenance": "DARMC OBJECTID: 21469",
+            "provenance": "OpenStreetMap (Node 127600285, version 11, osm:changeset=123958310, 2022-07-22T23:06:23Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/127600285",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21469",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 127600285",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21469.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=127600285",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "http://purl.org/spar/cito/citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 21469",
-            "uri": "https://pleiades.stoa.org/places/874529/darmc-location-21469"
+            "start": null,
+            "title": "OSM location of Patnos",
+            "uri": "https://pleiades.stoa.org/places/874529/patnos-1"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-06-16T08:41:29Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "findspot"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/findspot"
+            ],
+            "geometry": {
+                "coordinates": [
+                    42.864,
+                    39.2332
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-06-16T15:57:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-06-16T08:47:35Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-06-16T08:47:30Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Retract",
+                    "modified": "2023-06-16T08:47:20Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-06-16T08:42:00Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-06-16T08:41:29Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-06-16T08:41:29Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "cigs-location-of-patnos",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/findspot"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/428815782",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SHPA4R98",
+                    "citationDetail": "volume 1, page 115, 144, 216, 228, 239, 447",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Salvini, Mirjo, Neda Parmegiani, and Roberto Dan. <i>Corpus dei testi urartei</i>. 3 vols. Documenta Asiana 8. Roma: CNR : Istituto di studi sulle civiltà dell’Egeo e del Vicino Oriente, 2008. http://www.worldcat.org/oclc/428815782.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Salvini 2008",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WKUYD6UX",
+                    "citationDetail": "page 31",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Salvini, Mirjo. <i>Corpus dei testi urartei. Volume IV, Volume IV,</i>. Roma; [Paris: CNR, Istituto di studi sulle civiltà dell’Egeo e del vicino oriente ; [Diff. de Boccard, 2012.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Salvini 2012",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Patnos",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Patnos",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, Patnos.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://tr.wikipedia.org/wiki/Patnos",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RXT4VCZC",
+                    "citationDetail": "Patnos",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Vikipedi, bedava ansiklopedi</i>. Wikimedia Foundation, 2001. https://tr.wikipedia.org.</div>, Patnos.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Turkish)",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q509324",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q509324",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>, Q509324.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "CIGS location of Patnos",
+            "uri": "https://pleiades.stoa.org/places/874529/cigs-location-of-patnos"
         }
     ],
     "names": [
@@ -504,36 +675,36 @@
     "provenance": "Barrington Atlas: BAtlas 89 E1 ‘Isumbo’/Patansana/Zombis",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "89 E1 ‘Isumbo’/Patansana/Zombis",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 89 E1 ‘Isumbo’/Patansana/Zombis",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/d.html#Dillemann-1962",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9ZK7WNAA",
+            "citationDetail": "162",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Dillemann 1962, 162",
+            "formattedCitation": "<div class=\"csl-entry\">Dillemann, Louis. <i>Haute Mésopotamie Orientale et Pays Adjacents: Contribution a La Géographie Historique de La Région, Du Ve s. Avant l’ére Chrétienneau VIe s. de Cette Ére</i>. Bibliothèque Archéologique et Historique, t. 72. Paris: P. Geuthner; Institut français d’archéologie de Beyrouth, 1962.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Dillemann 1962",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Sinclair-1996",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WZH2I4CM",
+            "citationDetail": "VII.3",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Sinclair 1996, VII.3",
+            "formattedCitation": "<div class=\"csl-entry\">T.A. Sinclair. “The Site of Tigranocerta. II.” <i>Revue Des Études Arméniennes</i> 26 (97 1996): 51–118.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Sinclair 1996",
             "type": "http://purl.org/spar/cito/seeFurther"
         },
         {
@@ -561,18 +732,29 @@
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2501.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "10B5 (Talbert 2501)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "TP 10B5 (Talbert 2501)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21469",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        42.866666,
-        39.233333
+        42.8626169,
+        39.2333101
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

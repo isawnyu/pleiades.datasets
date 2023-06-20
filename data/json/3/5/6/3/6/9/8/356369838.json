@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         42.4464815,
-        36.2540345,
-        42.4530927,
+        33.1455,
+        44.2185,
         36.2597652
     ],
     "connections": [],
@@ -14,6 +14,18 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson",
+            "username": "cjohansson"
+        },
+        {
+            "homepage": null,
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg",
+            "username": "rrattenborg"
         }
     ],
     "created": "2017-06-26T14:47:19Z",
@@ -127,9 +139,32 @@
                 "title": "OSM location of Tell al-Rimah"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.2185,
+                    33.1455
+                ],
+                "type": "Point"
+            },
+            "id": "cigs-location-of-tall-al-rimah",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/356369838/cigs-location-of-tall-al-rimah",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site",
+                "title": "CIGS location of Tall al-Rimah"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add TGN 7032687: Tell al-Rimah (archaeological site)",
+            "modified": "2023-06-19T15:10:33Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2017-06-26T18:02:25Z",
@@ -314,6 +349,11 @@
             },
             "history": [
                 {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-06-19T15:06:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2017-06-26T18:02:25Z",
                     "modifiedBy": "jbecker"
@@ -351,7 +391,7 @@
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "OpenStreetMap (Way 499377166, version 1, osm:changeset=49406655, 2017-06-09T19:58:07Z)",
+            "provenance": "OpenStreetMap (Way 499377166, version 3, osm:changeset=74487072, 2019-09-15T02:29:46Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/499377166",
@@ -369,6 +409,121 @@
             "start": -2950,
             "title": "OSM location of Tell al-Rimah",
             "uri": "https://pleiades.stoa.org/places/356369838/tell-al-rimah"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-06-19T11:16:39Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</p>\r\n<p>Note that the reference to Adams 1972 number 53 and Iraq significant site 001 seems to be wrong.</p>",
+            "end": null,
+            "featureType": [
+                "archaeological-site"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "geometry": {
+                "coordinates": [
+                    44.2185,
+                    33.1455
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-06-19T15:07:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-06-19T11:18:02Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2023-06-19T11:17:54Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-06-19T11:16:40Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-06-19T11:16:39Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "cigs-location-of-tall-al-rimah",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.jstor.org/stable/4200307",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BQI8SPZY",
+                    "citationDetail": "page 251 map 1, 252",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Anonymous. “Excavations in Iraq 1987-88.” <i>Iraq</i> 51 (1989): 249–65. https://www.jstor.org/stable/4200307.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Anonymous 1989",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/1124054611",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TREY63HB",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Van Lerberghe, Karel, and Gabriella Voet Hameeuw, Hendrik. <i>A Late Old Babylonian Temple Archive from Dur-Abiesuh</i>. Cornell University Studies in Assyriology and Sumerology (CUSAS), Vol. 8. Bethesda, Md.: CDL Press, 2009. http://www.worldcat.org/oclc/1124054611.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Van Lerberghe 2009",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/W9DSR7QD",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Hameeuw, H., E. Gorris, and J. Tavernier. “Written on Mud: Some More Brick Inscriptions from Mesopotamia.” <i>Akkadica</i> 136, no. 1 (2015): 89–101.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Hameeuw 2015",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "CIGS location of Tall al-Rimah",
+            "uri": "https://pleiades.stoa.org/places/356369838/cigs-location-of-tall-al-rimah"
         }
     ],
     "names": [
@@ -672,10 +827,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -755,11 +912,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "http://purl.org/spar/cito/seeAlso"
+        },
+        {
+            "accessURI": "http://vocab.getty.edu/page/tgn/7032687",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "citationDetail": "7032687: Tell al-Rimah (archaeological site)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TGN",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
         }
     ],
     "reprPoint": [
-        42.45005690893836,
-        36.25699082981374
+        43.33427845446918,
+        34.701245414906865
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
