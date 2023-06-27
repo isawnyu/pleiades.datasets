@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        31.8350476,
+        31.8345,
         30.7998239,
         31.8350476,
-        30.7998239
+        30.8017
     ],
     "connections": [
         {
@@ -68,7 +68,7 @@
                     "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Wikipedia (English)",
-                    "type": "http://purl.org/spar/cito/seeFurther"
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
@@ -83,9 +83,27 @@
     "contributors": [
         {
             "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson",
+            "username": "cjohansson"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg",
+            "username": "rrattenborg"
         }
     ],
     "created": "2022-06-29T19:27:31Z",
@@ -115,6 +133,24 @@
                 "location_precision": "precise",
                 "snippet": "Settlement; 1548 BC - 1086 BC",
                 "title": "OSM location of Pi-Ramesses"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    31.8345,
+                    30.8017
+                ],
+                "type": "Point"
+            },
+            "id": "cigs-location-of-qantir",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/905314398/cigs-location-of-qantir",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern",
+                "title": "CIGS location of Qantīr"
             },
             "type": "Feature"
         }
@@ -191,6 +227,11 @@
             },
             "history": [
                 {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2023-06-20T13:33:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2022-07-01T16:13:22Z",
                     "modifiedBy": "thomase"
@@ -234,7 +275,7 @@
                     "formattedCitation": "osm:node=9856434565",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                    "type": "citesAsDataSource"
                 },
                 {
                     "accessURI": "http://www.worldcat.org/oclc/470366096",
@@ -245,7 +286,7 @@
                     "formattedCitation": "<div class=\"csl-entry\">Uphill, E. P. <i>The Temples of Per Ramesses</i>. Warminster: Aris &amp; Phillips, 1984. http://www.worldcat.org/oclc/470366096.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Uphill 1984",
-                    "type": "http://purl.org/spar/cito/seeFurther"
+                    "type": "seeFurther"
                 },
                 {
                     "accessURI": "http://www.wikidata.org/entity/Q937930",
@@ -256,21 +297,295 @@
                     "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "Wikidata",
-                    "type": "http://purl.org/spar/cito/seeFurther"
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -1548,
             "title": "OSM location of Pi-Ramesses",
             "uri": "https://pleiades.stoa.org/places/905314398/pi-ramesses"
+        },
+        {
+            "@type": "Location",
+            "accuracy": null,
+            "accuracy_value": null,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2023-06-20T12:13:52Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</p>",
+            "end": null,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    31.8345,
+                    30.8017
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-06-20T19:39:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "update references",
+                    "modified": "2023-06-20T13:35:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "changed location type to associated modern",
+                    "modified": "2023-06-20T13:34:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-06-20T12:14:32Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-06-20T12:13:54Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-06-20T12:13:52Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "cigs-location-of-qantir",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4AHI8USV",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pusch, Edgar B., and Stefan Jakob. “Der Zipfel Des Diplomatischen Archivs Ramses’ II.” <i>Ägypten Und Levante / Egypt and the Levant</i> 13 (2003): 143–53.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Pusch and Jakob 2003",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://qantir-piramesse.de/home/",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8BVCULPG",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">“Qantir-Piramesse,” October 6, 2020. https://qantir-piramesse.de/home/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Qantir-Piramesse",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Pi-Ramesses",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Pi-Ramesses",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, Pi-Ramesses.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://ar.wikipedia.org/wiki/بر-رمسيس",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GIR336Y",
+                    "citationDetail": "بر-رمسيس",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>الموسوعة الحرة التي يستطيع الجميع تحريرها: ويكيبيديا</i>. Wikimedia Foundation, 2001. https://ar.wikipedia.org.</div>, بر-رمسيس.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Arabic)",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://www.wikidata.org/",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q937930",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>, Q937930.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "citesAsRelated"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "CIGS location of Qantīr",
+            "uri": "https://pleiades.stoa.org/places/905314398/cigs-location-of-qantir"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "قنتير",
+            "contributors": [],
+            "created": "2023-06-20T12:13:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Romanization according to the ALA-LC specifications for Arabic (2012) (https://www.loc.gov/catdir/cpso/roman.html).</p>",
+            "end": 2100,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-06-20T19:39:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-06-20T12:14:52Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-06-20T12:13:49Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-06-20T12:13:48Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "qantir",
+            "language": "ar",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4AHI8USV",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pusch, Edgar B., and Stefan Jakob. “Der Zipfel Des Diplomatischen Archivs Ramses’ II.” <i>Ägypten Und Levante / Egypt and the Levant</i> 13 (2003): 143–53.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Pusch and Jakob 2003",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://qantir-piramesse.de/home/",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8BVCULPG",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">“Qantir-Piramesse,” October 6, 2020. https://qantir-piramesse.de/home/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Qantir-Piramesse",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/Pi-Ramesses",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Pi-Ramesses",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, Pi-Ramesses.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://ar.wikipedia.org/wiki/بر-رمسيس",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GIR336Y",
+                    "citationDetail": "بر-رمسيس",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>الموسوعة الحرة التي يستطيع الجميع تحريرها: ويكيبيديا</i>. Wikimedia Foundation, 2001. https://ar.wikipedia.org.</div>, بر-رمسيس.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Arabic)",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q937930",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q937930",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>, Q937930.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Qantīr",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/905314398/qantir"
+        }
+    ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -283,7 +598,7 @@
             "formattedCitation": "<div class=\"csl-entry\">Uphill, E. P. <i>The Temples of Per Ramesses</i>. Warminster: Aris &amp; Phillips, 1984. http://www.worldcat.org/oclc/470366096.</div>",
             "otherIdentifier": "",
             "shortTitle": "Uphill 1984",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "seeFurther"
         },
         {
             "accessURI": "https://en.wikipedia.org/w/index.php?title=Pi-Ramesses&oldid=1086958604",
@@ -294,7 +609,7 @@
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "seeFurther"
         },
         {
             "accessURI": "http://www.wikidata.org/entity/Q937930",
@@ -305,12 +620,12 @@
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        31.8350476,
-        30.7998239
+        31.8347738,
+        30.800761950000002
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

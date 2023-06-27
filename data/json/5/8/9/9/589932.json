@@ -10,10 +10,18 @@
     "connectsWith": [],
     "contributors": [
         {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -23,13 +31,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-07T20:51:36Z",
@@ -66,6 +76,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-06-25T15:21:56Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T20:51:38Z",
@@ -219,7 +234,7 @@
                     "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 10144.",
                     "otherIdentifier": " ",
                     "shortTitle": "DARMC",
-                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
@@ -320,34 +335,36 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 E2 Milatos",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 E2 Milatos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 60 E2 Milatos",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "shortTitle": "BAtlas",
+            "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Miletos-4",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Miletos 4",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Miletos 4",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "shortTitle": "RE",
+            "type": "seeFurther"
         },
         {
             "accessURI": "https://topostext.org/place/353256PMil",
@@ -358,7 +375,7 @@
             "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
-            "type": "http://purl.org/spar/cito/seeFurther"
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
@@ -369,8 +386,8 @@
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
     "title": "Milatos",
     "type": "FeatureCollection",
