@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.25337,
-        41.216267,
-        14.25337,
-        41.216267
+        14.2596475,
+        41.2272584,
+        14.2622212,
+        41.2288541
     ],
     "connections": [],
     "connectsWith": [
@@ -57,23 +57,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.25337,
-                    41.216267
+                    [
+                        14.2596475,
+                        41.2276799
+                    ],
+                    [
+                        14.2604598,
+                        41.2288541
+                    ],
+                    [
+                        14.2622212,
+                        41.2279216
+                    ],
+                    [
+                        14.2609489,
+                        41.2272584
+                    ],
+                    [
+                        14.2596475,
+                        41.2276799
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-18963",
+            "id": "osm-location-of-trebula-baliensis",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/433164/darmc-location-18963",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/433164/osm-location-of-trebula-baliensis",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 18963"
+                "snippet": "Settlement; 330 BC - AD 300",
+                "title": "OSM location of Trebula Baliensis"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-06-28T13:57:14Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2021-07-23T20:52:41Z",
@@ -194,9 +217,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -213,82 +236,107 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:12:40Z",
+            "contributors": [],
+            "created": "2019-03-28T12:16:32Z",
             "creators": [
                 {
-                    "name": "N. Purcell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18963",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    14.25337,
-                    41.216267
+                    [
+                        14.2596475,
+                        41.2276799
+                    ],
+                    [
+                        14.2604598,
+                        41.2288541
+                    ],
+                    [
+                        14.2622212,
+                        41.2279216
+                    ],
+                    [
+                        14.2609489,
+                        41.2272584
+                    ],
+                    [
+                        14.2596475,
+                        41.2276799
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:04:36Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2023-06-28T13:56:43Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-01-21T23:23:07Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-06-24T23:28:34Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T23:12:41Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2019-04-13T15:06:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2019-03-28T12:17:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2019-03-28T12:16:32Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T23:12:40Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2019-03-28T12:16:32Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18963",
+            "id": "osm-location-of-trebula-baliensis",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 18963",
+            "provenance": "OpenStreetMap (Way 474678335, version 2, osm:changeset=68623241, 2019-03-28T12:15:08Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/474678335",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18963",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 474678335",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18963.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=474678335",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 18963",
-            "uri": "https://pleiades.stoa.org/places/433164/darmc-location-18963"
+            "title": "OSM location of Trebula Baliensis",
+            "uri": "https://pleiades.stoa.org/places/433164/osm-location-of-trebula-baliensis"
         }
     ],
     "names": [
@@ -671,11 +719,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18963",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        14.25337,
-        41.216267
+        14.260872550913389,
+        41.22797425420218
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

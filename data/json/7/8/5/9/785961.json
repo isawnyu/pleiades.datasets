@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        34.939736,
-        24.398183,
-        34.939736,
-        24.398183
+        34.926252,
+        24.4205116,
+        34.9265859,
+        24.4207681
     ],
     "connections": [],
     "connectsWith": [],
@@ -57,23 +57,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    34.939736,
-                    24.398183
+                    [
+                        34.9265229,
+                        24.4207681
+                    ],
+                    [
+                        34.926252,
+                        24.4206801
+                    ],
+                    [
+                        34.9263123,
+                        24.4205116
+                    ],
+                    [
+                        34.9265859,
+                        24.4206032
+                    ],
+                    [
+                        34.9265229,
+                        24.4207681
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-6999",
+            "id": "abu-hegilig-north",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/785961/darmc-location-6999",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/785961/abu-hegilig-north",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 6999"
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM location of Abu Hegilig North"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-06-28T18:05:16Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:26:55Z",
@@ -114,108 +137,136 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:38:12Z",
+            "contributors": [],
+            "created": "2014-03-08T05:03:32Z",
             "creators": [
                 {
-                    "name": "J. Keenan",
-                    "username": null
-                },
-                {
-                    "name": "S.E. Sidebotham",
-                    "username": null
-                },
-                {
-                    "name": "T. Wilfong",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 6999",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    34.939736,
-                    24.398183
+                    [
+                        34.9265229,
+                        24.4207681
+                    ],
+                    [
+                        34.926252,
+                        24.4206801
+                    ],
+                    [
+                        34.9263123,
+                        24.4205116
+                    ],
+                    [
+                        34.9265859,
+                        24.4206032
+                    ],
+                    [
+                        34.9265229,
+                        24.4207681
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:24:31Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:00:03Z",
+                    "modified": "2023-06-28T18:04:49Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T19:38:13Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "update",
+                    "modified": "2023-06-26T22:33:40Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:38:13Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-06-26T22:21:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2014-03-08T05:04:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-03-08T05:04:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-08T05:03:35Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:38:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-03-08T05:03:34Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-6999",
+            "id": "abu-hegilig-north",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 6999",
+            "provenance": "OpenStreetMap (Way 264998629, version 1, osm:changeset=20981872, 2014-03-08T05:02:58Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/264998629",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "6999",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 264998629",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6999.",
+                    "formattedCitation": "osm:way=264998629",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://vici.org/vici/7758",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "vici.org, 7758",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 6999",
-            "uri": "https://pleiades.stoa.org/places/785961/darmc-location-6999"
+            "title": "OSM location of Abu Hegilig North",
+            "uri": "https://pleiades.stoa.org/places/785961/abu-hegilig-north"
         }
     ],
     "names": [],
@@ -250,11 +301,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "6999",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        34.939736,
-        24.398183
+        34.926418039954676,
+        24.420640300782647
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
