@@ -3,8 +3,8 @@
     "bbox": [
         5.983316,
         36.39996,
-        5.983316,
-        36.39996
+        5.989584,
+        36.419617
     ],
     "connections": [],
     "connectsWith": [],
@@ -40,16 +40,34 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-11-10T18:40:36Z",
+    "created": "2023-07-10T16:40:19Z",
     "creators": [
         {
             "name": "E.W.B. Fentress",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 31 D4 Fons Camerata?",
-    "details": "The Barrington Atlas Directory notes: Hammam des Beni Guecha",
+    "description": "The so-called Hammam Beni Guecha is a ruined Roman spa located just north and east of the modern Algerian village of Chouara Torche (Beni Guecha municipality). The site may be associated with a road station recorded on the Peutinger Map: Fons Carmerata.",
+    "details": "<p>The Barrington Atlas Directory notes: Hammam des Beni Guecha</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    5.989584,
+                    36.419617
+                ],
+                "type": "Point"
+            },
+            "id": "imagery-location-of-hammam-beni-guecha",
+            "properties": {
+                "description": "Site determined with reference to multiple sources listed in references (OSM appears to be incorrect).",
+                "link": "https://pleiades.stoa.org/places/305079/imagery-location-of-hammam-beni-guecha",
+                "location_precision": "precise",
+                "snippet": "Ruin; 30 BC - AD 300",
+                "title": "Imagery Location of Hammam Beni Guecha"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -60,7 +78,7 @@
             },
             "id": "darmc-location-9814",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/305079/darmc-location-9814",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
@@ -70,6 +88,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; place type; added PPCA reference; provided precise AAA link; added imagery location after PPCA",
+            "modified": "2023-07-10T20:22:11Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2023-07-10T16:40:19Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add TP reference",
             "modified": "2023-07-08T03:34:20Z",
@@ -115,6 +143,83 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-07-10T16:56:04Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Site determined with reference to multiple sources listed in references (OSM appears to be incorrect).",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "ruin"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
+            ],
+            "geometry": {
+                "coordinates": [
+                    5.989584,
+                    36.419617
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-07-10T20:22:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-07-10T18:51:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-07-10T16:56:05Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-07-10T16:56:04Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "imagery-location-of-hammam-beni-guecha",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
+            ],
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": -30,
+            "title": "Imagery Location of Hammam Beni Guecha",
+            "uri": "https://pleiades.stoa.org/places/305079/imagery-location-of-hammam-beni-guecha"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "accuracy_value": 10.0,
             "archaeologicalRemains": "unknown",
@@ -147,7 +252,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 9814",
             "end": 640,
             "featureType": [
@@ -236,7 +341,7 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Fons Camerata",
             "contributors": [
                 {
                     "name": "R. Warner",
@@ -247,17 +352,25 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-10T18:40:36Z",
+            "created": "2023-07-08T03:34:35Z",
             "creators": [
                 {
                     "name": "E.W.B. Fentress",
@@ -268,6 +381,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "name",
+                    "modified": "2023-07-10T16:31:30Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:04:42Z",
@@ -290,10 +408,22 @@
                 }
             ],
             "id": "fons-camerata",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 31 D4 Fons Camerata?",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace101.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "2C1 (Talbert 101)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Fons Camerata",
             "start": -30,
@@ -303,10 +433,14 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/station"
+        "https://pleiades.stoa.org/vocabularies/place-types/ruin",
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
+        "https://pleiades.stoa.org/vocabularies/place-types/bath"
     ],
     "placeTypes": [
-        "station"
+        "ruin",
+        "station",
+        "bath"
     ],
     "provenance": "Barrington Atlas: BAtlas 31 D4 Fons Camerata?",
     "references": [
@@ -322,7 +456,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&viewer=picture",
+            "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=198&viewer=picture&o=bookmark&n=0&q=",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
             "citationDetail": "17.10",
@@ -364,11 +498,22 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://cartes.patrimoineculturelalgerien.org/fr/lieu/43-mila/1430",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JHRDVDJB",
+            "citationDetail": "Hammam Beni Guecha",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Portail Du Patrimoine Culturel Algerien - بوابة التراث الثقافي الجزائري</i>. Ministry of Culture and Art, Republic of Algeria, 2016. https://www.patrimoineculturelalgerien.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "PPCA",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        5.983316,
-        36.39996
+        5.98645,
+        36.409788500000005
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -377,7 +522,7 @@
         "dare:major=0",
         "dare:feature=station"
     ],
-    "title": "Fons Camerata?",
+    "title": "Hammam Beni Guecha",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/305079"
 }
