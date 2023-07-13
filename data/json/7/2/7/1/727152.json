@@ -26,14 +26,14 @@
             "username": "bkiesling"
         },
         {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -55,7 +55,7 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 74 G3 Magdolos",
+    "description": "An ancient site in the Sinai that was the location of a series of successive fortresses from the Persian through the Roman periods. It may be identifiable with the Greek name Magdolos and/or the Hebrew name Migdol. There is also some speculation that much earlier textual evidence for a fortification of Ramses III should be tied to this site as well.",
     "details": "<p>The Barrington Atlas Directory notes: Tell el-Heir?</p>",
     "features": [
         {
@@ -133,13 +133,28 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/727152/osm-location-of-grenzfestung-des-ramses-iii",
                 "location_precision": "precise",
-                "snippet": "Fort; 1548 BC - 1086 BC",
+                "snippet": "Fort-2; 1548 BC - 1086 BC",
                 "title": "OSM location of Grenzfestung des Ramses III"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added HANE-EC reference",
+            "modified": "2023-07-12T22:08:29Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary",
+            "modified": "2023-07-12T22:01:42Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added Defernez 2023",
+            "modified": "2023-07-12T21:50:58Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2022-04-23T00:14:01Z",
@@ -228,7 +243,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/new-kingdom-egypt"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2018-11-09T15:45:03Z",
             "creators": [
                 {
@@ -242,10 +264,10 @@
             "details": "",
             "end": -1086,
             "featureType": [
-                "fort"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -318,6 +340,11 @@
             },
             "history": [
                 {
+                    "comment": "fort",
+                    "modified": "2023-07-12T22:02:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2022-04-22T10:55:55Z",
                     "modifiedBy": "thomase"
@@ -348,7 +375,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Way 642623327, version 1, osm:changeset=64328688, 2018-11-09T15:44:35Z)",
             "references": [
@@ -373,8 +400,8 @@
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -443,6 +470,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "BAtldir uses question mark",
+                    "modified": "2023-07-12T22:02:06Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "added reference",
                     "modified": "2017-01-04T04:00:16Z",
@@ -685,12 +717,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "settlement",
-        "fort"
+        "fort-2",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 74 G3 Magdolos",
     "references": [
@@ -803,6 +835,28 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://journals.openedition.org/baefe/9011",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VET9H3YI",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Defernez, Catherine, Pascale Ballet, Aline Banaszak, Sépideh Qahéri, and Mitchka Shahryari. “Tell el-Herr (2022).” <i>Bulletin archéologique des Écoles françaises à l’étranger</i>, June 1, 2023. https://doi.org/10.4000/baefe.9011.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Defernez 2023",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://ancientneareast.tripod.com/Herr.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S5EZHB89",
+            "citationDetail": "Ancient Tell Herr in NW Sinai (Egypt)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">McDonald, Mark Alan. “The History of the Ancient Near East Electronic Compendium,” prior to 2001. https://ancientneareast.tripod.com/index.html.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "HANE-EC",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
@@ -816,7 +870,7 @@
         "dare:feature=settlement",
         "dare:major=0"
     ],
-    "title": "Magdolos",
+    "title": "Tell el-Heir",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/727152"
 }
