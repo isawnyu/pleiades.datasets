@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        8.831793,
-        35.94384,
-        8.831793,
-        35.94384
+        8.7847151,
+        35.8731277,
+        8.786861,
+        35.87461
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,23 +53,120 @@
         {
             "geometry": {
                 "coordinates": [
-                    8.831793,
-                    35.94384
+                    [
+                        8.7856377,
+                        35.87461
+                    ],
+                    [
+                        8.7854232,
+                        35.8743883
+                    ],
+                    [
+                        8.7852837,
+                        35.8744753
+                    ],
+                    [
+                        8.7847902,
+                        35.8740623
+                    ],
+                    [
+                        8.7848814,
+                        35.8739536
+                    ],
+                    [
+                        8.7847151,
+                        35.8738276
+                    ],
+                    [
+                        8.7847848,
+                        35.8737059
+                    ],
+                    [
+                        8.7849565,
+                        35.8735755
+                    ],
+                    [
+                        8.7850906,
+                        35.8734668
+                    ],
+                    [
+                        8.7852032,
+                        35.8733625
+                    ],
+                    [
+                        8.7853159,
+                        35.8732234
+                    ],
+                    [
+                        8.7854554,
+                        35.8731277
+                    ],
+                    [
+                        8.7856485,
+                        35.873332
+                    ],
+                    [
+                        8.7858094,
+                        35.8734842
+                    ],
+                    [
+                        8.7861313,
+                        35.8738493
+                    ],
+                    [
+                        8.7860454,
+                        35.8740058
+                    ],
+                    [
+                        8.7861098,
+                        35.8741623
+                    ],
+                    [
+                        8.7861474,
+                        35.8743492
+                    ],
+                    [
+                        8.7856377,
+                        35.87461
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-althiburos-henchir-medeina",
+            "properties": {
+                "description": "Representativ location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/324664/osm-location-of-althiburos-henchir-medeina",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site; 30 BC - AD 640",
+                "title": "OSM location of Althiburos (Henchir Medeina)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.786861,
+                    35.873444
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-1095",
+            "id": "imagery-location-of-althiburos",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/324664/darmc-location-1095",
+                "description": "coordinates after GeoHack.",
+                "link": "https://pleiades.stoa.org/places/324664/imagery-location-of-althiburos",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 330 BC - AD 640",
-                "title": "DARMC location 1095"
+                "snippet": "Settlement, ; 30 BC - AD 640",
+                "title": "Imagery location of Althiburos"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-07-14T13:30:59Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-03-25T23:47:43Z",
@@ -140,18 +237,12 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -165,27 +256,9 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                },
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                },
+            "contributors": [],
+            "created": "2023-07-14T02:33:07Z",
+            "creators": [
                 {
                     "homepage": null,
                     "name": "Jeffrey Becker",
@@ -193,15 +266,182 @@
                     "username": "jbecker"
                 }
             ],
-            "created": "2011-03-09T18:38:52Z",
-            "creators": [
+            "description": "Representativ location based on OpenStreetMap",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "archaeological-site"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        8.7856377,
+                        35.87461
+                    ],
+                    [
+                        8.7854232,
+                        35.8743883
+                    ],
+                    [
+                        8.7852837,
+                        35.8744753
+                    ],
+                    [
+                        8.7847902,
+                        35.8740623
+                    ],
+                    [
+                        8.7848814,
+                        35.8739536
+                    ],
+                    [
+                        8.7847151,
+                        35.8738276
+                    ],
+                    [
+                        8.7847848,
+                        35.8737059
+                    ],
+                    [
+                        8.7849565,
+                        35.8735755
+                    ],
+                    [
+                        8.7850906,
+                        35.8734668
+                    ],
+                    [
+                        8.7852032,
+                        35.8733625
+                    ],
+                    [
+                        8.7853159,
+                        35.8732234
+                    ],
+                    [
+                        8.7854554,
+                        35.8731277
+                    ],
+                    [
+                        8.7856485,
+                        35.873332
+                    ],
+                    [
+                        8.7858094,
+                        35.8734842
+                    ],
+                    [
+                        8.7861313,
+                        35.8738493
+                    ],
+                    [
+                        8.7860454,
+                        35.8740058
+                    ],
+                    [
+                        8.7861098,
+                        35.8741623
+                    ],
+                    [
+                        8.7861474,
+                        35.8743492
+                    ],
+                    [
+                        8.7856377,
+                        35.87461
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
                 {
-                    "name": "R.B. Hitchner",
-                    "username": null
+                    "action": "Publish externally",
+                    "modified": "2023-07-14T13:28:14Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-07-14T02:33:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-07-14T02:33:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-07-14T02:33:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-07-14T02:33:07Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 1095",
+            "id": "osm-location-of-althiburos-henchir-medeina",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "OpenStreetMap (Way 266259236, version 2, osm:changeset=138485902, 2023-07-14T02:32:36Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/266259236",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 266259236",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=266259236",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Althiburos (Henchir Medeina)",
+            "uri": "https://pleiades.stoa.org/places/324664/osm-location-of-althiburos-henchir-medeina"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2013-12-28T18:07:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "coordinates after GeoHack.",
+            "details": "",
             "end": 640,
             "featureType": [
                 "settlement",
@@ -213,44 +453,34 @@
             ],
             "geometry": {
                 "coordinates": [
-                    8.831793,
-                    35.94384
+                    8.786861,
+                    35.873444
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Edited",
-                    "modified": "2013-12-28T18:01:16Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:15:27Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:54:27Z",
+                    "modified": "2023-07-14T13:28:15Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T18:38:53Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2013-12-28T18:14:06Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:38:53Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2013-12-28T18:08:02Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T18:38:53Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2013-12-28T18:07:53Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-1095",
+            "id": "imagery-location-of-althiburos",
             "locationType": [
                 "representative"
             ],
@@ -258,24 +488,24 @@
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement",
                 "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 1095",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://tools.wmflabs.org/geohack/geohack.php?pagename=Althiburos&language=fr&params=35.87344444_N_8.78686111_E_type:landmark",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "1095",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 1095.",
+                    "formattedCitation": "GeoHack - Althiburos",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 1095",
-            "uri": "https://pleiades.stoa.org/places/324664/darmc-location-1095"
+            "start": -30,
+            "title": "Imagery location of Althiburos",
+            "uri": "https://pleiades.stoa.org/places/324664/imagery-location-of-althiburos"
         }
     ],
     "names": [
@@ -477,11 +707,22 @@
             "otherIdentifier": " ",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "1095",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        8.831793,
-        35.94384
+        8.786164031268349,
+        35.87368310319975
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
