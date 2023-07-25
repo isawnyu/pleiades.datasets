@@ -40,15 +40,15 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-09-28T05:01:51Z",
+    "created": "2023-07-22T12:34:24Z",
     "creators": [
         {
             "name": "R.B. Hitchner",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 32 C3 Saltus Philomusianus",
-    "details": "The Barrington Atlas Directory notes: N Bordj Hallal",
+    "description": "Saltus Philomusianus was a sizable imperial estate located between Bulla Regia and Chimtou. Roman soldiers of legio III Augusta seem to have garrisoned a praesidium in the estate ca. 52-57 CE.",
+    "details": "<p>The Barrington Atlas Directory notes: N Bordj Hallal</p>",
     "features": [
         {
             "geometry": {
@@ -60,7 +60,7 @@
             },
             "id": "darmc-location-17582",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/315141/darmc-location-17582",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
@@ -70,6 +70,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary, references; Fenwick 2022",
+            "modified": "2023-07-24T18:01:10Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add TM GEO ID 43501: Saltus Philomusianus",
             "modified": "2023-07-20T01:48:51Z",
@@ -141,7 +146,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 17582",
             "end": 300,
             "featureType": [
@@ -220,11 +225,11 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-ce"
                 }
             ],
-            "attested": "",
+            "attested": "saltus Philomusianus",
             "contributors": [
                 {
                     "name": "R. Warner",
@@ -235,27 +240,40 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-09-28T05:01:51Z",
+            "created": "2023-07-22T12:44:16Z",
             "creators": [
                 {
                     "name": "R.B. Hitchner",
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "The toponym Saltus Philomusianus appears in this Latin inscription (ILS 2305) in the ablative case.",
             "details": "",
-            "end": 300,
+            "end": 99,
             "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-07-24T18:00:55Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:12:16Z",
@@ -278,23 +296,37 @@
                 }
             ],
             "id": "saltus-philomusianus",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 32 C3 Saltus Philomusianus",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015002968256&view=1up&seq=475",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NIZB6YAK",
+                    "citationDetail": "2305",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Dessau, Hermann. <i>Inscriptiones latinae selectae</i>. Zürich: Weidmann, 1997.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ILS",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Saltus Philomusianus",
-            "start": -30,
+            "start": 1,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/315141/saltus-philomusianus"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+        "https://pleiades.stoa.org/vocabularies/place-types/villa",
+        "https://pleiades.stoa.org/vocabularies/place-types/estate"
     ],
     "placeTypes": [
-        "villa"
+        "villa",
+        "estate"
     ],
     "provenance": "Barrington Atlas: BAtlas 32 C3 Saltus Philomusianus",
     "references": [
@@ -330,6 +362,72 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TLYELBYY",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Khanoussi, M. “Le saltus Philomusianus et les carrières de marbre numidique.” In <i>Mitteilungen des Deutschen Archäologischen Instituts. Römische Abteilung, 104.1997</i>, 375–77, 1997.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Khanoussi 1997",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://journals.openedition.org/encyclopedieberbere/458?lang=en",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S9ZYQY3U",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kherbouche, F. “Marbre numidique.” <i>Encyclopédie berbère</i>, no. 30 (December 29, 2010): 4589–94. https://doi.org/10.4000/encyclopedieberbere.458.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Kherbouche 2010",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JCY8WN8B",
+            "citationDetail": "VIII, 14603",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Corpus inscriptionum latinarum</i>. Berolini: Apud G. Reimerum, 1862.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CIL",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NIZB6YAK",
+            "citationDetail": "2305",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Dessau, Hermann. <i>Inscriptiones latinae selectae</i>. Zürich: Weidmann, 1997.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ILS",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JZQCVW2M",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Mann, J. C. “The Evidence for Legionary Recruitment and Veteran Settlement during the Principate.” In <i>Legionary Recruitment and Veteran Settlement During the Principate</i>. Routledge, 1983.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Mann 1983",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/core/journals/libyan-studies/article/urban-transformation-in-the-central-medjerda-valley-northwest-tunisia-in-late-antiquity-and-the-middle-ages-a-regional-approach/73CC0A98FF842B6D2F10B5BB374CAAF5",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5LKLFEGD",
+            "citationDetail": "144",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Fenwick, Corisande, Andrew Dufton, Stefan Ardeleanu, Moheddine Chaouali, Heike Möller, Julia Pagels, and Philipp von Rummel. “Urban Transformation in the Central Medjerda Valley (North-West Tunisia) in Late Antiquity and the Middle Ages: A Regional Approach.” <i>Libyan Studies</i> 53 (November 2022): 142–60. https://doi.org/10.1017/lis.2022.17.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Fenwick 2022",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
