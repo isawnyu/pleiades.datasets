@@ -27,7 +27,7 @@ _Pleiades_ is a continuously published scholarly reference work for the 21st cen
 The latest versions of this package can be had by fork or download from the `main` branch at https://github.com/isawnyu/pleiades-datasets. [Numbered releases](https://github.com/isawnyu/pleiades-datasets/releases) are created periodically at GitHub. These are archived at:
 
  - zenodo.org using the DOI https://doi.org/10.5281/zenodo.1193921
- - archive.nyu.edu using the URI http://hdl.handle.net/2451/34305
+ - archive.nyu.edu using the URI http://hdl.handle.net/2451/69536
  - archive.org ([search for "Pleiades Datasets"](https://archive.org/search?query=Pleiades+Datasets&sort=creator&and%5B%5D=subject%3A%22ancient+geography%22))
 
 ## Credits
