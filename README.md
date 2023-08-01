@@ -4,20 +4,15 @@ Please report problems and make feature requests via [the main _Pleiades_ Gazett
 
 [![License: CC BY 3.0](https://licensebuttons.net/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/) Content is governed by the copyrights of the individual contributors responsible for its creation. Some rights are reserved. All content is distributed under the terms of a [Creative Commons Attribution license (cc-by)](https://creativecommons.org/licenses/by/3.0/).
 
+We encourage use and citation of numbered releases for scholarly work that will be published in static form.
+
 __Please share notices of data reuse with the _Pleiades_ community via email to pleiades.admin@nyu.edu. These reports help us to justify continued funding and operation of the gazetteer and to prioritize updates and improvements.__
 
-## Version 3.0 - 4 April 2023
+## Version 3.1 - 1 August 2023
 
-What's new since 2.3 (12 October 2020):
+What's new since 3.0 (4 April 2023):
 
-- 2,655 new and 10,222 updated place resources (see `data/changelogs/release.html` for details)
-- `data/bibliography/zotero.csv`: The complete bibliographic library cited in references throughout the dataset.
-- `data/changelogs/`: Monthly changelogs in HTML format since 2009.
-- `data/data_quality`: Some metrics.
-- `data/gis`: CSV files tested in [QGIS](https://www.qgis.org/en/site/) (likely better than the original CSV package, which is now deprecated, for most use cases).
-- Deprecation of legacy CSV export in `data/csv`. The new `data/gis` package is likely better for your purposes.
-
-We encourage use and citation of numbered releases for scholarly work that will be published in static form.
+- 359 new and 2,380 updated place resources (see `data/changelogs/release.html` for details)
 
 ## Overview
 
@@ -72,13 +67,13 @@ The __summary__ data for all places, errata, authors, place types, and time peri
 
 NB: RDF serializations of data for individual places — in both Turtle and RDF/XML syntax — can be had from links on the place pages, such as http://pleiades.stoa.org/places/579885/turtle for Athens, or by a negotiated request for the resource http://pleiades.stoa.org/places/579885#this. Please see the README in https://github.com/isawnyu/pleiades-rdf for a description of the RDF and the vocabularies and ontologies used.
 
-### NEW: Changelogs
+### Changelogs
 
 __directory: /data/changelogs/__
 
 Monthly listings, in HTML files, of new and updated place resources since 2009. The listings include: place titles and summaries, links to the live resources on the Pleiades website using canonical URIs, and information about the creators and contributors of each resource, with a special entry for the authors of the referenced changes (includes change summary notes). 
 
-### NEW: Data Quality Metrics
+### Data Quality Metrics
 
 __directory: /data/data_quality/__
 
