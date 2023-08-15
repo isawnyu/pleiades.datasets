@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        35.253362,
-        31.520435,
-        35.253362,
-        31.520435
+        35.2519258,
+        31.5274162,
+        35.2519258,
+        31.5274162
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    35.253362,
-                    31.520435
+                    35.2519258,
+                    31.5274162
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-15228",
+            "id": "osm-location-of-khirbet-monastery",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/687943/darmc-location-15228",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/687943/osm-location-of-khirbet-monastery",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 15228"
+                "snippet": "Archaeological-site, Monastery; AD 300 - AD 640",
+                "title": "OSM location of Khirbet monastery"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-08-14T15:45:49Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "summary",
             "modified": "2023-08-13T13:46:35Z",
@@ -121,8 +126,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -134,87 +139,92 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-17T22:12:18Z",
+            "contributors": [],
+            "created": "2023-08-13T13:36:27Z",
             "creators": [
                 {
-                    "name": "B. Isaac",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 15228",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site",
+                "monastery"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/monastery"
             ],
             "geometry": {
                 "coordinates": [
-                    35.253362,
-                    31.520435
+                    35.2519258,
+                    31.5274162
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:55:12Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-17T22:12:19Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-08-14T15:45:18Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-17T22:12:19Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-08-13T13:37:41Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-17T22:12:19Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2023-08-13T13:37:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-08-13T13:36:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-08-13T13:36:28Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-17T22:12:18Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-08-13T13:36:27Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-15228",
+            "id": "osm-location-of-khirbet-monastery",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/monastery"
             ],
-            "provenance": "DARMC OBJECTID: 15228",
+            "provenance": "OpenStreetMap (Node 11110974940, version 1, osm:changeset=139807307, 2023-08-13T02:37:33Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/11110974940",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15228",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 11110974940",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15228.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=11110974940",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 15228",
-            "uri": "https://pleiades.stoa.org/places/687943/darmc-location-15228"
+            "title": "OSM location of Khirbet monastery",
+            "uri": "https://pleiades.stoa.org/places/687943/osm-location-of-khirbet-monastery"
         }
     ],
     "names": [],
@@ -284,11 +294,22 @@
             "otherIdentifier": "",
             "shortTitle": "vici.org",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15228",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.253362,
-        31.520435
+        35.2519258,
+        31.5274162
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
