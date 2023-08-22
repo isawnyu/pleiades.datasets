@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        25.629044,
+        25.6261738,
         35.256232,
         25.629044,
-        35.256232
+        35.2581262
     ],
     "connections": [
         {
@@ -62,10 +62,6 @@
             "username": null
         },
         {
-            "name": "rconsoli",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
@@ -74,12 +70,6 @@
         {
             "name": "R. Talbert",
             "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -92,9 +82,25 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras",
+            "username": "cbouras"
+        },
+        {
+            "name": "rconsoli",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         }
     ],
-    "created": "2018-06-08T11:49:02Z",
+    "created": "2023-08-21T11:00:16Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -116,18 +122,46 @@
                 ],
                 "type": "Point"
             },
-            "id": "centerpoint-of-visible-remains-of-dreros-approx.",
+            "id": "imagery-location-centerpoint-of-visible-remains-of-dreros-approx.",
             "properties": {
                 "description": "Surveyed by eye in Google Earth on September 27, 2012 at an eye altitude of 4395 feet. Dates after BAtlas.",
-                "link": "https://pleiades.stoa.org/places/589767/centerpoint-of-visible-remains-of-dreros-approx.",
+                "link": "https://pleiades.stoa.org/places/589767/imagery-location-centerpoint-of-visible-remains-of-dreros-approx.",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 750 BC - AD 300",
-                "title": "Centerpoint of visible remains of Dreros (approx.)"
+                "snippet": "Settlement; 750 BC - AD 300",
+                "title": "Imagery Location: Centerpoint of visible remains of Dreros (approx.)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.6261738,
+                    35.2581262
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-dreros",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/589767/osm-location-dreros",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site",
+                "title": "OSM Location: Dreros"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references; added Chronique reference provided by cbouras",
+            "modified": "2023-08-21T16:30:32Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2023-08-21T11:00:14Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added Farnoux 2022",
             "modified": "2023-02-28T14:25:43Z",
@@ -253,12 +287,10 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "settlement",
-                ""
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -268,6 +300,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "central point",
+                    "modified": "2023-08-21T16:31:38Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2012-09-28T14:35:36Z",
@@ -299,13 +336,12 @@
                     "modifiedBy": "thomase"
                 }
             ],
-            "id": "centerpoint-of-visible-remains-of-dreros-approx.",
+            "id": "imagery-location-centerpoint-of-visible-remains-of-dreros-approx.",
             "locationType": [
-                "representative"
+                "central_point"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -323,8 +359,95 @@
             ],
             "review_state": "published",
             "start": -750,
-            "title": "Centerpoint of visible remains of Dreros (approx.)",
-            "uri": "https://pleiades.stoa.org/places/589767/centerpoint-of-visible-remains-of-dreros-approx."
+            "title": "Imagery Location: Centerpoint of visible remains of Dreros (approx.)",
+            "uri": "https://pleiades.stoa.org/places/589767/imagery-location-centerpoint-of-visible-remains-of-dreros-approx."
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-08-21T16:32:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "archaeological-site"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "geometry": {
+                "coordinates": [
+                    25.6261738,
+                    35.2581262
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-08-21T19:41:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-08-21T16:32:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-08-21T16:32:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-08-21T16:32:00Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-08-21T16:32:00Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-dreros",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "OpenStreetMap (Node 1318805738, version 5, osm:changeset=115797870, 2022-01-05T13:27:53Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1318805738",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1318805738",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1318805738",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "OSM Location: Dreros",
+            "uri": "https://pleiades.stoa.org/places/589767/osm-location-dreros"
         }
     ],
     "names": [
@@ -522,22 +645,24 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 E2 Dreros",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 E2 Dreros",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 60 E2 Dreros",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -554,10 +679,10 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Dreros",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Dreros",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Dreros.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
@@ -565,12 +690,12 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DD%3Aentry+group%3D3%3Aentry%3Ddreros",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "DREROS Crete",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), DREROS Crete",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
         },
         {
@@ -587,43 +712,43 @@
         {
             "accessURI": "https://www.wikidata.org/wiki/Q5306985",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikidata Q5306985",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": " Dreros (Q5306985) ",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         },
         {
             "accessURI": "http://referenceworks.brillonline.com/entries/brill-s-new-pauly/drerus-e12221370?s.num=4&s.f.s2_parent=s.f.book.brill-s-new-pauly&s.q=dreros",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Drerus",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "New Pauly, Drerus",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.trismegistos.org/place/33282",
+            "accessURI": "https://www.trismegistos.org/place/33282",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 33282: Dreros",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 33282",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "citesAsRelated"
         },
         {
             "accessURI": "https://topostext.org/place/353256PDre",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
             "citationDetail": "Dreros (Lasithi)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
@@ -638,11 +763,22 @@
             "otherIdentifier": "",
             "shortTitle": "Farnoux 2022",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=70012",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponyme 70012: Dréros",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Chronique en ligne",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.629044,
-        35.256232
+        25.6276089,
+        35.2571791
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
