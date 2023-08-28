@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2023/08/20 06:47:30.918295 GMT-4
+# Date: 2023/08/27 06:47:31.254964 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1032
+# Triple count: 1038
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -969,6 +969,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "stoa"@en;
     skos:scopeNote "A rectangular building with an open colonnade along one long side."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/strait> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/strait>,
+        <https://vocab.getty.edu/aat/300266559>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "strait"@en;
+    skos:scopeNote "A strait as defined by the Getty Art and Architecture Thesaurus: A narrow waterway, usually narrower and less extensive than a sound, connecting two larger bodies of water."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/street> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/street>,
