@@ -318,10 +318,31 @@ class JSON2CSV:
         del fp
 
     def _convert_connection(self, connection_source: dict, place_source: dict):
-        result = {
-            k: self.connection_schema[k](connection_source, place_source) or ""
-            for k in self.connection_keys
-        }
+        try:
+            result = {
+                k: self.connection_schema[k](connection_source, place_source) or ""
+                for k in self.connection_keys
+            }
+        except KeyError as err:
+            result = dict()
+            for k in self.connection_keys:
+                try:
+                    connection_source["connectsTo"]
+                except KeyError:
+                    logger = logging.getLogger("derivatives._convert_connection")
+                    logger.warning(
+                        "\n".join(
+                            [
+                                "BAD CONNECTION: " + str(err),
+                                f"place_id: {place_source['id']}"
+                                f"{pformat(connection_source, indent=4)}",
+                            ]
+                        )
+                    )
+                else:
+                    result[k] = (
+                        self.connection_schema[k](connection_source, place_source) or ""
+                    )
         return result
 
     def _convert_location(
