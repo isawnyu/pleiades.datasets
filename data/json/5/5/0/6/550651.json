@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        26.7705581,
-        38.361435,
-        26.784922,
-        38.374254
+        26.7829255,
+        38.3671564,
+        26.7919241,
+        38.3778644
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
             "connectsTo": "https://pleiades.stoa.org/places/735295266",
-            "contributors": [],
-            "created": "2016-07-13T13:41:35Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2016-07-13T14:04:27Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "Hill 2019; part of (administrative)",
+                    "modified": "2023-08-29T15:28:38Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:04:27Z",
@@ -46,18 +58,91 @@
             ],
             "id": "735295266",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://archaeopresspublishing.com/ojs/index.php/JGA/article/view/476",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KQRVXWEX",
+                    "citationDetail": "page 98 figure 1",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Hill, David. “The Formation and Development of Political Territory and Borders in Ionia from the Archaic to the Hellenistic Periods: A GIS Analysis of Regional Space.” <i>Journal of Greek Archaeology</i> 4 (January 1, 2019): 96–129. https://doi.org/10.32028/jga.v4i.476.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Hill 2019",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Ionian League",
             "uri": "https://pleiades.stoa.org/places/550651/735295266"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/550597",
+            "contributors": [],
+            "created": "2023-08-29T15:29:15Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-08-29T19:50:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-08-29T15:50:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-08-29T15:29:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-08-29T15:29:15Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ionia-region",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://archaeopresspublishing.com/ojs/index.php/JGA/article/view/476",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KQRVXWEX",
+                    "citationDetail": "page 98 figure 1",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Hill, David. “The Formation and Development of Political Territory and Borders in Ionia from the Archaic to the Hellenistic Periods: A GIS Analysis of Regional Space.” <i>Journal of Greek Archaeology</i> 4 (January 1, 2019): 96–129. https://doi.org/10.32028/jga.v4i.476.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Hill 2019",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Ionia (region)",
+            "uri": "https://pleiades.stoa.org/places/550651/ionia-region"
         }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/735295266",
+        "https://pleiades.stoa.org/places/550597",
         "https://pleiades.stoa.org/places/867631585",
-        "https://pleiades.stoa.org/places/278163592",
-        "https://pleiades.stoa.org/places/867631586",
         "https://pleiades.stoa.org/places/550650"
     ],
     "contributors": [
@@ -68,8 +153,10 @@
             "username": "cobbp"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         },
         {
             "homepage": null,
@@ -90,10 +177,8 @@
             "username": "bkiesling"
         },
         {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -108,7 +193,7 @@
             "username": "rmhorne"
         }
     ],
-    "created": "2018-06-08T09:54:25Z",
+    "created": "2023-08-29T15:23:12Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -125,8 +210,340 @@
     ],
     "description": "A town in Lydia that, according to Pausanias, moved from an initial, mainland site thought by scholars to have been southwest of modern Urla Iskelesi to an island in the Bay of Smyrna (modern Klazümen). This place resource represents the later city; see also \"Klazomenai (earlier).\"",
     "details": "<p>The Barrington Atlas Directory notes: Klazümen</p>",
-    "features": [],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.7830935,
+                            38.3671692
+                        ],
+                        [
+                            26.7831141,
+                            38.3671564
+                        ],
+                        [
+                            26.7836604,
+                            38.3675043
+                        ],
+                        [
+                            26.7837148,
+                            38.3674713
+                        ],
+                        [
+                            26.7837394,
+                            38.3674897
+                        ],
+                        [
+                            26.783701,
+                            38.3675211
+                        ],
+                        [
+                            26.7839231,
+                            38.3677496
+                        ],
+                        [
+                            26.7845034,
+                            38.3681145
+                        ],
+                        [
+                            26.7848302,
+                            38.368279
+                        ],
+                        [
+                            26.7855409,
+                            38.3689951
+                        ],
+                        [
+                            26.7870938,
+                            38.3706765
+                        ],
+                        [
+                            26.7875679,
+                            38.3711253
+                        ],
+                        [
+                            26.7878411,
+                            38.3718046
+                        ],
+                        [
+                            26.7880688,
+                            38.3728224
+                        ]
+                    ],
+                    [
+                        [
+                            26.7830187,
+                            38.3672157
+                        ],
+                        [
+                            26.7830935,
+                            38.3671692
+                        ]
+                    ],
+                    [
+                        [
+                            26.7858952,
+                            38.3740193
+                        ],
+                        [
+                            26.7859204,
+                            38.3740136
+                        ],
+                        [
+                            26.785955,
+                            38.3739494
+                        ],
+                        [
+                            26.7860162,
+                            38.3738453
+                        ],
+                        [
+                            26.785931,
+                            38.3736569
+                        ],
+                        [
+                            26.7856604,
+                            38.3731584
+                        ],
+                        [
+                            26.7839448,
+                            38.3716589
+                        ],
+                        [
+                            26.7832206,
+                            38.3710972
+                        ],
+                        [
+                            26.7830734,
+                            38.3709537
+                        ],
+                        [
+                            26.7831235,
+                            38.3699753
+                        ],
+                        [
+                            26.7829255,
+                            38.3695474
+                        ],
+                        [
+                            26.7833306,
+                            38.3680686
+                        ],
+                        [
+                            26.7831778,
+                            38.3678833
+                        ],
+                        [
+                            26.7832575,
+                            38.3678125
+                        ],
+                        [
+                            26.7830583,
+                            38.3675604
+                        ],
+                        [
+                            26.7829786,
+                            38.3673855
+                        ],
+                        [
+                            26.78296,
+                            38.3672522
+                        ],
+                        [
+                            26.7830187,
+                            38.3672157
+                        ]
+                    ],
+                    [
+                        [
+                            26.7880688,
+                            38.3728224
+                        ],
+                        [
+                            26.7882924,
+                            38.37318
+                        ],
+                        [
+                            26.7884087,
+                            38.3738322
+                        ],
+                        [
+                            26.7885608,
+                            38.3741618
+                        ],
+                        [
+                            26.7892674,
+                            38.3746106
+                        ],
+                        [
+                            26.7897952,
+                            38.3747509
+                        ],
+                        [
+                            26.790475,
+                            38.3748841
+                        ],
+                        [
+                            26.7910654,
+                            38.3750735
+                        ],
+                        [
+                            26.7915305,
+                            38.3751015
+                        ],
+                        [
+                            26.7919241,
+                            38.3752488
+                        ],
+                        [
+                            26.7918525,
+                            38.3755152
+                        ],
+                        [
+                            26.7915484,
+                            38.3756415
+                        ],
+                        [
+                            26.7910207,
+                            38.3760762
+                        ],
+                        [
+                            26.7902872,
+                            38.3764759
+                        ],
+                        [
+                            26.7900457,
+                            38.3767564
+                        ],
+                        [
+                            26.7895626,
+                            38.377065
+                        ],
+                        [
+                            26.7894642,
+                            38.3775138
+                        ],
+                        [
+                            26.7892943,
+                            38.3777101
+                        ],
+                        [
+                            26.7888918,
+                            38.3778013
+                        ],
+                        [
+                            26.7884177,
+                            38.3778644
+                        ],
+                        [
+                            26.7879257,
+                            38.3777241
+                        ],
+                        [
+                            26.7877557,
+                            38.3778293
+                        ],
+                        [
+                            26.7872459,
+                            38.3777171
+                        ],
+                        [
+                            26.7867271,
+                            38.3772964
+                        ],
+                        [
+                            26.7863872,
+                            38.3771702
+                        ],
+                        [
+                            26.7857252,
+                            38.3768266
+                        ],
+                        [
+                            26.7857252,
+                            38.3764269
+                        ],
+                        [
+                            26.7853048,
+                            38.3757116
+                        ],
+                        [
+                            26.7850007,
+                            38.3750945
+                        ],
+                        [
+                            26.7847771,
+                            38.3749472
+                        ],
+                        [
+                            26.7848576,
+                            38.3746807
+                        ],
+                        [
+                            26.7851438,
+                            38.3749823
+                        ],
+                        [
+                            26.785439,
+                            38.374835
+                        ],
+                        [
+                            26.7857342,
+                            38.3745124
+                        ],
+                        [
+                            26.7857897,
+                            38.3743631
+                        ],
+                        [
+                            26.7858504,
+                            38.3742546
+                        ],
+                        [
+                            26.7858652,
+                            38.3741123
+                        ],
+                        [
+                            26.7858682,
+                            38.3741029
+                        ],
+                        [
+                            26.7858952,
+                            38.3740193
+                        ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            },
+            "id": "osm-location-modern-karantina-island",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/550651/osm-location-modern-karantina-island",
+                "location_precision": "precise",
+                "snippet": "Island; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Karantina Island"
+            },
+            "type": "Feature"
+        }
+    ],
     "history": [
+        {
+            "comment": "summary",
+            "modified": "2023-08-29T15:49:37Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2023-08-29T15:43:55Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up references; added wayback link for CAT; removed Smith (outdated)",
+            "modified": "2023-08-29T15:42:44Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updates",
             "modified": "2020-12-06T16:09:51Z",
@@ -204,7 +621,400 @@
         }
     ],
     "id": "550651",
-    "locations": [],
+    "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-08-29T15:52:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "island"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            26.7830935,
+                            38.3671692
+                        ],
+                        [
+                            26.7831141,
+                            38.3671564
+                        ],
+                        [
+                            26.7836604,
+                            38.3675043
+                        ],
+                        [
+                            26.7837148,
+                            38.3674713
+                        ],
+                        [
+                            26.7837394,
+                            38.3674897
+                        ],
+                        [
+                            26.783701,
+                            38.3675211
+                        ],
+                        [
+                            26.7839231,
+                            38.3677496
+                        ],
+                        [
+                            26.7845034,
+                            38.3681145
+                        ],
+                        [
+                            26.7848302,
+                            38.368279
+                        ],
+                        [
+                            26.7855409,
+                            38.3689951
+                        ],
+                        [
+                            26.7870938,
+                            38.3706765
+                        ],
+                        [
+                            26.7875679,
+                            38.3711253
+                        ],
+                        [
+                            26.7878411,
+                            38.3718046
+                        ],
+                        [
+                            26.7880688,
+                            38.3728224
+                        ]
+                    ],
+                    [
+                        [
+                            26.7830187,
+                            38.3672157
+                        ],
+                        [
+                            26.7830935,
+                            38.3671692
+                        ]
+                    ],
+                    [
+                        [
+                            26.7858952,
+                            38.3740193
+                        ],
+                        [
+                            26.7859204,
+                            38.3740136
+                        ],
+                        [
+                            26.785955,
+                            38.3739494
+                        ],
+                        [
+                            26.7860162,
+                            38.3738453
+                        ],
+                        [
+                            26.785931,
+                            38.3736569
+                        ],
+                        [
+                            26.7856604,
+                            38.3731584
+                        ],
+                        [
+                            26.7839448,
+                            38.3716589
+                        ],
+                        [
+                            26.7832206,
+                            38.3710972
+                        ],
+                        [
+                            26.7830734,
+                            38.3709537
+                        ],
+                        [
+                            26.7831235,
+                            38.3699753
+                        ],
+                        [
+                            26.7829255,
+                            38.3695474
+                        ],
+                        [
+                            26.7833306,
+                            38.3680686
+                        ],
+                        [
+                            26.7831778,
+                            38.3678833
+                        ],
+                        [
+                            26.7832575,
+                            38.3678125
+                        ],
+                        [
+                            26.7830583,
+                            38.3675604
+                        ],
+                        [
+                            26.7829786,
+                            38.3673855
+                        ],
+                        [
+                            26.78296,
+                            38.3672522
+                        ],
+                        [
+                            26.7830187,
+                            38.3672157
+                        ]
+                    ],
+                    [
+                        [
+                            26.7880688,
+                            38.3728224
+                        ],
+                        [
+                            26.7882924,
+                            38.37318
+                        ],
+                        [
+                            26.7884087,
+                            38.3738322
+                        ],
+                        [
+                            26.7885608,
+                            38.3741618
+                        ],
+                        [
+                            26.7892674,
+                            38.3746106
+                        ],
+                        [
+                            26.7897952,
+                            38.3747509
+                        ],
+                        [
+                            26.790475,
+                            38.3748841
+                        ],
+                        [
+                            26.7910654,
+                            38.3750735
+                        ],
+                        [
+                            26.7915305,
+                            38.3751015
+                        ],
+                        [
+                            26.7919241,
+                            38.3752488
+                        ],
+                        [
+                            26.7918525,
+                            38.3755152
+                        ],
+                        [
+                            26.7915484,
+                            38.3756415
+                        ],
+                        [
+                            26.7910207,
+                            38.3760762
+                        ],
+                        [
+                            26.7902872,
+                            38.3764759
+                        ],
+                        [
+                            26.7900457,
+                            38.3767564
+                        ],
+                        [
+                            26.7895626,
+                            38.377065
+                        ],
+                        [
+                            26.7894642,
+                            38.3775138
+                        ],
+                        [
+                            26.7892943,
+                            38.3777101
+                        ],
+                        [
+                            26.7888918,
+                            38.3778013
+                        ],
+                        [
+                            26.7884177,
+                            38.3778644
+                        ],
+                        [
+                            26.7879257,
+                            38.3777241
+                        ],
+                        [
+                            26.7877557,
+                            38.3778293
+                        ],
+                        [
+                            26.7872459,
+                            38.3777171
+                        ],
+                        [
+                            26.7867271,
+                            38.3772964
+                        ],
+                        [
+                            26.7863872,
+                            38.3771702
+                        ],
+                        [
+                            26.7857252,
+                            38.3768266
+                        ],
+                        [
+                            26.7857252,
+                            38.3764269
+                        ],
+                        [
+                            26.7853048,
+                            38.3757116
+                        ],
+                        [
+                            26.7850007,
+                            38.3750945
+                        ],
+                        [
+                            26.7847771,
+                            38.3749472
+                        ],
+                        [
+                            26.7848576,
+                            38.3746807
+                        ],
+                        [
+                            26.7851438,
+                            38.3749823
+                        ],
+                        [
+                            26.785439,
+                            38.374835
+                        ],
+                        [
+                            26.7857342,
+                            38.3745124
+                        ],
+                        [
+                            26.7857897,
+                            38.3743631
+                        ],
+                        [
+                            26.7858504,
+                            38.3742546
+                        ],
+                        [
+                            26.7858652,
+                            38.3741123
+                        ],
+                        [
+                            26.7858682,
+                            38.3741029
+                        ],
+                        [
+                            26.7858952,
+                            38.3740193
+                        ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-08-29T19:50:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-08-29T15:52:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-08-29T15:52:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-08-29T15:52:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-08-29T15:52:06Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-modern-karantina-island",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/island"
+            ],
+            "provenance": "OpenStreetMap (Relation 12462062, version 2, osm:changeset=132599823, 2023-02-15T20:19:54Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/12462062",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Relation 12462062",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:relation=12462062",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: modern Karantina Island",
+            "uri": "https://pleiades.stoa.org/places/550651/osm-location-modern-karantina-island"
+        }
+    ],
     "names": [
         {
             "@type": "Name",
@@ -384,10 +1194,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/island"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "island"
     ],
     "provenance": "Barrington Atlas: BAtlas 56 D5 Klazomenai",
     "references": [
@@ -414,37 +1226,26 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.une.edu.au/cat/sites/clazomenae.php",
+            "accessURI": "https://web.archive.org/web/20110831082526/http://www.une.edu.au/cat/sites/clazomenae.php",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XNCTMYVR",
+            "citationDetail": "Clazomenae (İzmir)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "CAT, Clazomenae",
+            "formattedCitation": "<div class=\"csl-entry\">Grave, Peter, and Lisa Kealhofer, eds. <i>Current Archaeology in Turkey. Tütkiye’de Yapilan Arkeolojik Arastirmalar</i>. Armidale, Australia: University of New England, 2010. https://web.archive.org/web/20130601034401/http://www.une.edu.au:80/cat/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "CAT",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.trismegistos.org/place/34304",
+            "accessURI": "https://www.trismegistos.org/place/34304",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
-            "citationDetail": "GEO ID 34304: Klazomenai",
+            "citationDetail": "Geo 34304: Klazomenai",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
-        },
-        {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DC%3Aentry+group%3D17%3Aentry%3Dclazomenae-geo",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
-            "citationDetail": "CLAZÓMENAE",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
-            "otherIdentifier": "",
-            "shortTitle": "Smith 1854 (Perseus)",
-            "type": "seeFurther"
         },
         {
             "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/clazomenae-e614600",
@@ -460,10 +1261,10 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Klazomenai",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Klazomenai",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Klazomenai.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
@@ -482,18 +1283,18 @@
         {
             "accessURI": "https://topostext.org/place/384268PKla",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
             "citationDetail": "Klazomenai (Ionia)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        26.772471000000003,
-        38.3614655
+        26.786619843401766,
+        38.37304775054337
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
