@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        24.330211,
-        37.560259,
-        24.330211,
-        37.560259
+        24.3304584,
+        37.5610651,
+        24.3304584,
+        37.5610651
     ],
     "connections": [
         {
@@ -54,24 +54,25 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/570348"
+        "https://pleiades.stoa.org/places/570348",
+        "https://pleiades.stoa.org/places/372021190",
+        "https://pleiades.stoa.org/places/804115670",
+        "https://pleiades.stoa.org/places/372021189"
     ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
         {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -81,13 +82,15 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2018-06-08T12:00:39Z",
@@ -102,28 +105,63 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 58 G2 Karthaia",
-    "details": "The Barrington Atlas Directory notes: Poles, on Keos",
+    "details": "<p>The Barrington Atlas Directory notes: Poles, on Keos</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    24.330211,
-                    37.560259
+                    24.3304584,
+                    37.5610651
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-24058",
+            "id": "osm-location-of-kea-karthaia",
             "properties": {
-                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/570333/darmc-location-24058",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/570333/osm-location-of-kea-karthaia",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 24058"
+                "snippet": "Archaeological-site, Settlement; 750 BC - AD 640",
+                "title": "OSM location of Kea Karthaia"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location; adjusted Chronique citation",
+            "modified": "2023-09-03T21:32:50Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "add Chronique en ligne 5103: KARTHAIA",
+            "modified": "2023-09-03T15:21:30Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "add vici.org 11123: Kartheia",
+            "modified": "2023-09-03T15:19:26Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "add arachne reference",
+            "modified": "2023-09-03T15:18:16Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "add Arachne",
+            "modified": "2023-09-03T14:53:19Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "add wikipedia",
+            "modified": "2023-09-03T14:44:05Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2023-09-03T14:41:19Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-08T12:00:42Z",
@@ -174,8 +212,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -211,91 +249,92 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-25T18:30:28Z",
+            "contributors": [],
+            "created": "2023-09-03T14:44:51Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 24058",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site",
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    24.330211,
-                    37.560259
+                    24.3304584,
+                    37.5610651
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:30:02Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-25T19:01:04Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-03T21:31:13Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-25T18:30:29Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-03T14:50:35Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-25T18:30:29Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2023-09-03T14:50:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2023-09-03T14:45:06Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-09-03T14:44:51Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-25T18:30:28Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-03T14:44:51Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-24058",
+            "id": "osm-location-of-kea-karthaia",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 24058",
+            "provenance": "OpenStreetMap (Node 6549745254, version 2, osm:changeset=140762133, 2023-09-03T14:43:11Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/6549745254",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "24058",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 6549745254",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24058.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=6549745254",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 24058",
-            "uri": "https://pleiades.stoa.org/places/570333/darmc-location-24058"
+            "title": "OSM location of Kea Karthaia",
+            "uri": "https://pleiades.stoa.org/places/570333/osm-location-of-kea-karthaia"
         }
     ],
     "names": [
@@ -402,33 +441,35 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 58 G2 Karthaia",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "58 G2 Karthaia",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 58 G2 Karthaia",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Mendone-1985",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DAC7B7KK",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Mendone 1985",
+            "formattedCitation": "<div class=\"csl-entry\">Mendone, L.G. “’Αρχαιολογίκες Ἔρευνες Στήν Κέα· Ἀρχαία Καρθαία.” <i>Arkhaiognosia</i> 4 (86 1985): 149–84.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Mendone 1985",
             "type": "seeFurther"
         },
         {
@@ -441,17 +482,84 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Carthaea",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Carthaea",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://arachne.dainst.org/entity/1906",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "citationDetail": "Karthaia Kea, Griechenland",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arachne",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://arachne.dainst.org/entity/1398611",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "citationDetail": "Polygonale Mauer Kea, (Κέως / Keos), Kea-Kythnos (Regionalbezirk)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arachne",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://vici.org/vici/11123/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "11123: Kartheia",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=report&id=5103",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Report 5103: KARTHAIA",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Chronique en ligne",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "24058",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        24.330211,
-        37.560259
+        24.3304584,
+        37.5610651
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:ancient=1",
         "dare:feature=settlement",
+        "polygonal masonry",
         "dare:major=0"
     ],
     "title": "Karthaia",
