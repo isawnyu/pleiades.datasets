@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        21.9548081,
-        37.4068124,
-        21.9579836,
-        37.4160907
+        21.4166667,
+        37.5,
+        21.4166667,
+        37.5
     ],
     "connections": [],
     "connectsWith": [
@@ -58,38 +58,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.0,
-                            37.5
-                        ],
-                        [
-                            21.5,
-                            37.5
-                        ],
-                        [
-                            21.5,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            37.5
-                        ]
-                    ]
+                    21.4166667,
+                    37.5
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-gulf-of-kyparissia",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570185/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/570185/osm-location-of-gulf-of-kyparissia",
+                "location_precision": "precise",
+                "snippet": "Water-open; AD 2000 - AD 2099",
+                "title": "OSM location of Gulf of Kyparissia"
             },
             "type": "Feature"
         }
@@ -135,110 +115,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-20T20:45:15Z",
+            "contributors": [],
+            "created": "2023-09-03T22:04:14Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "water-open"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            21.0,
-                            37.5
-                        ],
-                        [
-                            21.5,
-                            37.5
-                        ],
-                        [
-                            21.5,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            37.5
-                        ]
-                    ]
+                    21.4166667,
+                    37.5
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:26:25Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T18:37:44Z",
+                    "modified": "2023-09-05T20:17:01Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-20T22:18:28Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-03T22:05:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location; retract BAtlas footprint",
+                    "modified": "2023-09-03T22:04:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-09-03T22:04:14Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-20T20:45:15Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-03T22:04:14Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-gulf-of-kyparissia",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 A2 Cyparissius Sinus",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 4801401332, version 9, osm:changeset=140205998, 2023-08-22T02:05:10Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/4801401332",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4801401332",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=4801401332",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570185/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Gulf of Kyparissia",
+            "uri": "https://pleiades.stoa.org/places/570185/osm-location-of-gulf-of-kyparissia"
         }
     ],
     "names": [
@@ -247,14 +214,10 @@
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "attested": "",
+            "attested": "Cyparissius sinus",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -262,16 +225,28 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-09-20T20:45:14Z",
+            "created": "2023-09-03T22:10:12Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
-                    "name": "G. Reger",
+                    "name": "J. McK. Camp II",
                     "username": null
                 }
             ],
@@ -279,6 +254,11 @@
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "add Latin name, add Pliny reference",
+                    "modified": "2023-09-05T20:17:16Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:26:26Z",
@@ -301,10 +281,22 @@
                 }
             ],
             "id": "cyparissius-sinus",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 58 A2 Cyparissius Sinus",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/277/1225-1236",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "4.15.1",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Cyparissius Sinus",
             "start": null,
@@ -378,8 +370,8 @@
         }
     ],
     "reprPoint": [
-        21.95629730648706,
-        37.41184468872808
+        21.4166667,
+        37.5
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
