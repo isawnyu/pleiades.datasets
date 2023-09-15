@@ -1,7 +1,63 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
+    "bbox": [
+        24.5062056,
+        37.1556994,
+        24.5062056,
+        37.1556994
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/590044",
+            "contributors": [],
+            "created": "2023-09-09T00:24:39Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-09-13T13:34:53Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-09-09T00:24:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2023-09-09T00:24:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-09-09T00:24:39Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "seriphos-island",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Seriphos (island)",
+            "uri": "https://pleiades.stoa.org/places/590043/seriphos-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/590044"
     ],
@@ -35,7 +91,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:25:36Z",
+    "created": "2023-09-13T13:35:04Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -46,23 +102,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 C4 Seriphos",
-    "details": "The Barrington Atlas Directory notes: Seriphos",
+    "description": "An ancient settlement on the island of Seriphos. Modern Seriphos town, also known as Chora.",
+    "details": "<p>The Barrington Atlas Directory notes: Seriphos</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    24.5062056,
+                    37.1556994
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-modern-ipsiii1ii-i-issiii",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/590043/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/590043/osm-location-of-modern-ipsiii1ii-i-issiii",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1900 - AD 2099",
+                "title": "OSM Location of modern Σέριφος (Χώρα)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; place type = settlement; added RE link; added Chronique reference; added iDAI gazetteer reference provided by bkiesling; added Wikidata reference; added associated modern location, which supersedes BAtlas grid square location currently published on baseline",
+            "modified": "2023-09-13T22:34:11Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add topostext",
             "modified": "2023-09-09T00:24:15Z",
@@ -98,8 +165,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -107,106 +174,94 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:25:37Z",
+            "contributors": [],
+            "created": "2023-09-13T13:41:57Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    24.5062056,
+                    37.1556994
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:51:02Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:04:41Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-09-13T22:34:37Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:58:55Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-13T15:00:10Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-09-13T13:42:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-09-13T13:41:58Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:25:37Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-13T13:41:57Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-ipsiii1ii-i-issiii",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 C4 Seriphos",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 281594760, version 19, osm:changeset=140205998, 2023-08-22T02:05:10Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/281594760",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 281594760",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=281594760",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/590043/batlas-location"
+            "start": 1900,
+            "title": "OSM Location of modern Σέριφος (Χώρα)",
+            "uri": "https://pleiades.stoa.org/places/590043/osm-location-of-modern-ipsiii1ii-i-issiii"
         }
     ],
     "names": [
@@ -313,10 +368,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 C4 Seriphos",
     "references": [
@@ -332,7 +389,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://elexikon.ch/RE/IIA,2_1733.png",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
             "citationDetail": "Seriphos 2",
@@ -352,13 +409,49 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=32",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponyme 32: Seriphos, Serifos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Chronique en ligne",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2362421",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2362421: Seriphos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q65244370",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Serifos (Q65244370)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        24.5062056,
+        37.1556994
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Seriphos",
+    "title": "Seriphos (settlement)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/590043"
 }
