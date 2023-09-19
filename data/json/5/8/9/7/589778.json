@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        25.0923259,
+        36.6696467,
+        25.0924553,
+        36.6697443
+    ],
     "connections": [],
     "connectsWith": [
         "https://pleiades.stoa.org/places/590047"
@@ -44,14 +49,38 @@
     "details": "<p>The Barrington Atlas Directory notes: Episkopi, on Sikinos</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    [
+                        25.0923259,
+                        36.6697023
+                    ],
+                    [
+                        25.0924245,
+                        36.6697443
+                    ],
+                    [
+                        25.0924553,
+                        36.6696838
+                    ],
+                    [
+                        25.0923552,
+                        36.6696467
+                    ],
+                    [
+                        25.0923259,
+                        36.6697023
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-episkopi",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589778/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/589778/osm-location-of-episkopi",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site",
+                "title": "OSM location of Episkopi"
             },
             "type": "Feature"
         }
@@ -97,91 +126,108 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:19:20Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-09-17T23:34:07Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": null,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    [
+                        25.0923259,
+                        36.6697023
+                    ],
+                    [
+                        25.0924245,
+                        36.6697443
+                    ],
+                    [
+                        25.0924553,
+                        36.6696838
+                    ],
+                    [
+                        25.0923552,
+                        36.6696467
+                    ],
+                    [
+                        25.0923259,
+                        36.6697023
+                    ]
+                ],
+                "type": "LineString"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:48:08Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:03:56Z",
+                    "modified": "2023-09-18T16:25:17Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:58:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-17T23:34:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-09-17T23:34:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-09-17T23:34:07Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:19:21Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-17T23:34:07Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-episkopi",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 D5 Episkopi",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 504259635, version 4, osm:changeset=138539769, 2023-07-15T10:49:33Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/504259635",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 504259635",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=504259635",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589778/batlas-location"
+            "start": null,
+            "title": "OSM location of Episkopi",
+            "uri": "https://pleiades.stoa.org/places/589778/osm-location-of-episkopi"
         }
     ],
     "names": [],
@@ -216,7 +262,10 @@
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        25.09239093329024,
+        36.66969459947272
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
