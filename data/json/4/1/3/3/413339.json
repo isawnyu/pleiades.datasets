@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.243968,
-        43.460874,
-        12.243968,
-        43.460874
+        12.2403118,
+        43.4574214,
+        12.2403118,
+        43.4574214
     ],
     "connections": [
         {
@@ -51,6 +51,68 @@
             "start": null,
             "title": "Tiberis (river)",
             "uri": "https://pleiades.stoa.org/places/413339/423080"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "member",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/member",
+            "connectsTo": "https://pleiades.stoa.org/places/943743265",
+            "contributors": [],
+            "created": "2023-09-18T23:30:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-09-19T13:07:03Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-09-18T23:30:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn, PECS ref.",
+                    "modified": "2023-09-18T23:30:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-09-18T23:30:11Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "tribus-clustumina",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DT%3Aentry+group%3D4%3Aentry%3Dtifernum-tiberinum",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+                    "citationDetail": "TIFERNUM TIBERINUM (Città di Castello) Umbria, Italy",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "PECS (Perseus)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "tribus Clustumina",
+            "uri": "https://pleiades.stoa.org/places/413339/tribus-clustumina"
         }
     ],
     "connectsWith": [
@@ -98,23 +160,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.243968,
-                    43.460874
+                    12.2403118,
+                    43.4574214
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-18944",
+            "id": "osm-location-of-citta-di-castello",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/413339/darmc-location-18944",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/413339/osm-location-of-citta-di-castello",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 18944"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Città di Castello"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-09-19T13:06:57Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-09-18T23:27:15Z",
@@ -210,8 +277,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -219,103 +286,88 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:30:34Z",
+            "contributors": [],
+            "created": "2023-09-18T23:27:56Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18944",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    12.243968,
-                    43.460874
+                    12.2403118,
+                    43.4574214
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:52:17Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:12:58Z",
+                    "modified": "2023-09-19T13:06:19Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T23:30:35Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-18T23:28:19Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:30:35Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2023-09-18T23:28:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-09-18T23:27:56Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T23:30:34Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-18T23:27:56Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18944",
+            "id": "osm-location-of-citta-di-castello",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 18944",
+            "provenance": "OpenStreetMap (Node 68507547, version 14, osm:changeset=61738078, 2018-08-17T08:27:57Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/68507547",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18944",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 68507547",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18944.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=68507547",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 18944",
-            "uri": "https://pleiades.stoa.org/places/413339/darmc-location-18944"
+            "start": 2000,
+            "title": "OSM location of Città di Castello",
+            "uri": "https://pleiades.stoa.org/places/413339/osm-location-of-citta-di-castello"
         }
     ],
     "names": [
@@ -579,11 +631,22 @@
             "otherIdentifier": "",
             "shortTitle": "Dominici 2022",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18944",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.243968,
-        43.460874
+        12.2403118,
+        43.4574214
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
