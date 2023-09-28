@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        26.0732143,
-        37.6305806,
-        26.0732143,
-        37.6305806
+        26.319589,
+        37.635589,
+        26.319589,
+        37.635589
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/599667",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:49:13Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located on",
+                    "modified": "2023-09-27T17:00:47Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:49:14Z",
@@ -63,6 +75,12 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
@@ -92,48 +110,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 61 C2 Therma/Asklepieis",
-    "details": "The Barrington Atlas Directory notes: on Ikaria GRE",
+    "details": "<p>The Barrington Atlas Directory notes: on Ikaria GRE</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            38.0
-                        ],
-                        [
-                            26.0,
-                            38.0
-                        ],
-                        [
-                            26.0,
-                            37.5
-                        ]
-                    ]
+                    26.319589,
+                    37.635589
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "imagery-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/599976/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "Undetermined location"
+                "description": "Coordinates following GeoHack",
+                "link": "https://pleiades.stoa.org/places/599976/imagery-location",
+                "location_precision": "precise",
+                "snippet": "Settlement",
+                "title": "Imagery location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add topostext, tm geo id, wikidata",
+            "modified": "2023-09-27T16:27:51Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added cnxn",
             "modified": "2016-05-09T15:19:24Z",
@@ -169,135 +172,90 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-15T09:11:52Z",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-09-27T16:30:30Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Coordinates following GeoHack",
             "details": "",
-            "end": 300,
+            "end": null,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            38.0
-                        ],
-                        [
-                            26.0,
-                            38.0
-                        ],
-                        [
-                            26.0,
-                            37.5
-                        ]
-                    ]
+                    26.319589,
+                    37.635589
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:03:54Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2009-10-15T18:03:23Z",
+                    "modified": "2023-09-27T17:00:56Z",
                     "modifiedBy": "thomase"
                 },
                 {
+                    "comment": "Edited",
+                    "modified": "2023-09-27T16:31:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Submit for review",
-                    "modified": "2009-10-15T09:18:49Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-27T16:30:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add imagery location",
+                    "modified": "2023-09-27T16:30:31Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2009-10-15T09:11:52Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-27T16:30:30Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "imagery-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "Barrington Atlas: BAtlas 61 C2 Therma/Asklepieis",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q65040312",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q65040312: Therma",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -750,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599976/undetermined"
+            "start": null,
+            "title": "Imagery location",
+            "uri": "https://pleiades.stoa.org/places/599976/imagery-location"
         }
     ],
     "names": [
@@ -483,25 +441,25 @@
     "provenance": "Barrington Atlas: BAtlas 61 C2 Therma/Asklepieis",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "61 C2 Therma/Asklepieis",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 61 C2 Therma/Asklepieis",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Robert",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TU7GB7XB",
+            "citationDetail": "I, 549-68",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Robert, OMS I, 549-68",
+            "formattedCitation": "<div class=\"csl-entry\">Robert, L. <i>Opera Minora Selecta</i>. 7 vols. Amsterdam, 1969.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Robert, OMS",
             "type": "seeFurther"
         },
         {
@@ -509,16 +467,49 @@
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "Wikimapia Αρχαίες Θέρμαι",
             "otherIdentifier": " ",
             "shortTitle": "",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/376263PThe",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Therma/Asklepieis (Ikaria)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/54120",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 54120: Therma",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q65040312",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Q65040312: Therma",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        26.0732143,
-        37.6305806
+        26.319589,
+        37.635589
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
