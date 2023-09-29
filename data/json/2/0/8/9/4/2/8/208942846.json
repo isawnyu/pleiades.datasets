@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        12.513656,
-        42.523448,
-        12.5146128,
-        42.5248179
+        12.5143695,
+        42.5248178,
+        12.5146669,
+        42.5252602
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/856514595",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:45:02Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2023-09-28T14:38:22Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:45:02Z",
@@ -46,7 +58,19 @@
             ],
             "id": "856514595",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Bridge_of_Augustus_(Narni)",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Bridge of Augustus (Narni)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Via Flaminia",
@@ -109,28 +133,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.513656,
-                    42.523448
+                    [
+                        12.5144594,
+                        42.5252602
+                    ],
+                    [
+                        12.5145479,
+                        42.5250818
+                    ],
+                    [
+                        12.5146669,
+                        42.524842
+                    ],
+                    [
+                        12.514577,
+                        42.5248178
+                    ],
+                    [
+                        12.5144491,
+                        42.5250755
+                    ],
+                    [
+                        12.5143695,
+                        42.5252359
+                    ],
+                    [
+                        12.5144594,
+                        42.5252602
+                    ]
                 ],
-                "type": "Point"
-            },
-            "id": "darmc-location-27736",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/208942846/darmc-location-27736",
-                "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 27736"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    12.5146128,
-                    42.5248179
-                ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "location-of-roman-bridge",
             "properties": {
@@ -144,6 +176,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add DARMC 27736",
+            "modified": "2023-09-28T14:37:01Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "reference update",
             "modified": "2020-08-16T15:01:50Z",
@@ -214,123 +251,6 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2011-08-12T23:29:19Z",
-            "creators": [
-                {
-                    "name": "W.V. Harris",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 27736",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    12.513656,
-                    42.523448
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:02:14Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-08-12T23:29:20Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-08-12T23:29:20Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations.",
-                    "modified": "2011-08-12T23:29:19Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-08-12T23:29:19Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-27736",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 27736",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "27736",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 27736.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 27736",
-            "uri": "https://pleiades.stoa.org/places/208942846/darmc-location-27736"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
@@ -372,12 +292,43 @@
             ],
             "geometry": {
                 "coordinates": [
-                    12.5146128,
-                    42.5248179
+                    [
+                        12.5144594,
+                        42.5252602
+                    ],
+                    [
+                        12.5145479,
+                        42.5250818
+                    ],
+                    [
+                        12.5146669,
+                        42.524842
+                    ],
+                    [
+                        12.514577,
+                        42.5248178
+                    ],
+                    [
+                        12.5144491,
+                        42.5250755
+                    ],
+                    [
+                        12.5143695,
+                        42.5252359
+                    ],
+                    [
+                        12.5144594,
+                        42.5252602
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-09-28T14:35:28Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "edited title",
                     "modified": "2020-08-16T15:02:18Z",
@@ -419,7 +370,7 @@
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "OpenStreetMap (Way 101088334, version 3, osm:changeset=18215343, 2013-10-06T16:18:50Z)",
+            "provenance": "OpenStreetMap (Way 101088334, version 12, osm:changeset=110479459, 2021-08-30T20:35:22Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/101088334",
@@ -608,11 +559,33 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "27736",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Bridge_of_Augustus_(Narni)",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Bridge of Augustus (Narni)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        12.5141344,
-        42.52413295
+        12.51451819736712,
+        42.52503897893899
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
