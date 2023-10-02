@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.764809,
-        38.155958,
-        14.764809,
-        38.155958
+        14.7658707,
+        38.1534169,
+        14.7663329,
+        38.1537638
     ],
     "connections": [
         {
@@ -114,23 +114,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.764809,
-                    38.155958
+                    [
+                        14.7658707,
+                        38.1536429
+                    ],
+                    [
+                        14.7662229,
+                        38.1534169
+                    ],
+                    [
+                        14.7663329,
+                        38.1535229
+                    ],
+                    [
+                        14.7662846,
+                        38.1535539
+                    ],
+                    [
+                        14.7663001,
+                        38.1535688
+                    ],
+                    [
+                        14.7659962,
+                        38.1537638
+                    ],
+                    [
+                        14.7658707,
+                        38.1536429
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-7691",
+            "id": "osm-location-of-terme-di-bagnoli",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/462108/darmc-location-7691",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/462108/osm-location-of-terme-di-bagnoli",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 7691"
+                "snippet": "Bath; 30 BC - AD 300",
+                "title": "OSM location of Terme di Bagnoli"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-09-29T18:09:05Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "fixed BAtlas reference",
+            "modified": "2023-09-29T18:08:40Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up references",
+            "modified": "2023-09-29T18:08:17Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added wikidata Q38250966: Villa Romana Bagnoli",
             "modified": "2020-10-14T19:28:31Z",
@@ -186,9 +227,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -197,115 +238,134 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:51:52Z",
+            "contributors": [],
+            "created": "2023-09-29T12:58:15Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 7691",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
             "featureType": [
-                "unknown"
+                "bath"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
             ],
             "geometry": {
                 "coordinates": [
-                    14.764809,
-                    38.155958
+                    [
+                        14.7658707,
+                        38.1536429
+                    ],
+                    [
+                        14.7662229,
+                        38.1534169
+                    ],
+                    [
+                        14.7663329,
+                        38.1535229
+                    ],
+                    [
+                        14.7662846,
+                        38.1535539
+                    ],
+                    [
+                        14.7663001,
+                        38.1535688
+                    ],
+                    [
+                        14.7659962,
+                        38.1537638
+                    ],
+                    [
+                        14.7658707,
+                        38.1536429
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:19:26Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:01:06Z",
+                    "modified": "2023-09-29T18:07:26Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T19:51:54Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-29T12:58:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:51:54Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2023-09-29T12:58:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-09-29T12:58:17Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:51:53Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-09-29T12:58:15Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-7691",
+            "id": "osm-location-of-terme-di-bagnoli",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bath"
             ],
-            "provenance": "DARMC OBJECTID: 7691",
+            "provenance": "OpenStreetMap (Way 367073198, version 5, osm:changeset=106016822, 2021-06-08T07:47:07Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/367073198",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7691",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 367073198",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7691.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=367073198",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 7691",
-            "uri": "https://pleiades.stoa.org/places/462108/darmc-location-7691"
+            "title": "OSM location of Terme di Bagnoli",
+            "uri": "https://pleiades.stoa.org/places/462108/osm-location-of-terme-di-bagnoli"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+        "https://pleiades.stoa.org/vocabularies/place-types/villa",
+        "https://pleiades.stoa.org/vocabularies/place-types/bath"
     ],
     "placeTypes": [
-        "villa"
+        "villa",
+        "bath"
     ],
     "provenance": "Barrington Atlas: BAtlas 47 F2 Bagnoli di S. Gregorio",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "47 F2 Bagnoli di S. Gregorio",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 47 F2 Bagnoli di S. Gregorio",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -347,7 +407,7 @@
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
             "citationDetail": "35402",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Lund, Sweden: Department of Archaeology and Ancient History, Lund University, Sweden, 2015. http://dare.ht.lu.se/.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Gothenburg, Sweden: Centre for Digital Humanities University of Gothenburg, Sweden, 2012. https://imperium.ahlfeldt.se/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARE",
             "type": "citesAsRelated"
@@ -362,11 +422,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7691",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        14.764809,
-        38.155958
+        14.766107922985267,
+        38.153590192939745
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
