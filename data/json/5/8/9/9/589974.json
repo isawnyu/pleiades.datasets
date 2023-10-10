@@ -60,18 +60,23 @@
                 ],
                 "type": "Point"
             },
-            "id": "panormos-osm",
+            "id": "osm-location-of-panormos",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/589974/panormos-osm",
+                "link": "https://pleiades.stoa.org/places/589974/osm-location-of-panormos",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; AD 1700 - AD 2100",
-                "title": "location of Panormos"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of Panormos"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2023-10-06T21:26:28Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2021-06-23T15:14:37Z",
@@ -114,7 +119,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -131,6 +136,12 @@
                     "name": "Jeffrey Becker",
                     "uri": "https://pleiades.stoa.org/author/jbecker",
                     "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2013-05-02T16:17:21Z",
@@ -146,12 +157,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "settlement",
-                ""
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -161,6 +170,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "associated modern",
+                    "modified": "2023-10-06T21:26:14Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-07-16T22:02:46Z",
@@ -192,13 +206,12 @@
                     "modifiedBy": "rmhorne"
                 }
             ],
-            "id": "panormos-osm",
+            "id": "osm-location-of-panormos",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "provenance": "OpenStreetMap (Node 960188412, version 2, osm:changeset=7788163, 2011-04-06T19:17:06Z)",
             "references": [
@@ -216,8 +229,8 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Panormos",
-            "uri": "https://pleiades.stoa.org/places/589974/panormos-osm"
+            "title": "OSM location of Panormos",
+            "uri": "https://pleiades.stoa.org/places/589974/osm-location-of-panormos"
         }
     ],
     "names": [
@@ -383,10 +396,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 C2 Panormos/Aulopotamos?",
     "references": [
