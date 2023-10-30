@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2023/10/22 06:47:32.156380 GMT-4
+# Date: 2023/10/29 06:47:31.665026 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1038
+# Triple count: 1044
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -483,6 +483,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "gymnasium, gymnasion"@en;
     skos:scopeNote "A gymnasium as defined by the Getty Art and Architecture Thesaurus term 300007297: Buildings designed and equipped for indoor, or, in antiquity, indoor and outdoor, sports, exercise, or physical education and training and usually including changing rooms and bath or shower facilites; in ancient Greece, often combined with educational facilities; generally larger than \"palaestrae.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/harbor> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/harbor>,
+        <https://vocab.getty.edu/aat/300008678>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "harbor"@en;
+    skos:scopeNote "A harbor as defined by the Getty Art and Architecture Thesaurus: Well-sheltered inlets of water affording protection from wind and sea and sufficient depth to allow anchorage for vessels."@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/hill> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/hill>;
