@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        35.720469,
-        32.362071,
-        35.720469,
-        32.362071
+        35.7219788,
+        32.3619328,
+        35.7231244,
+        32.3627006
     ],
     "connections": [],
     "connectsWith": [],
@@ -48,28 +48,67 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 69 C5 Thesbe",
-    "details": "The Barrington Atlas Directory notes: Khan Mar Elyas JOR",
+    "details": "<p>The Barrington Atlas Directory notes: Khan Mar Elyas JOR</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    35.720469,
-                    32.362071
+                    [
+                        35.7220649,
+                        32.3621141
+                    ],
+                    [
+                        35.7221835,
+                        32.3623625
+                    ],
+                    [
+                        35.7219788,
+                        32.362475
+                    ],
+                    [
+                        35.7220714,
+                        32.3625928
+                    ],
+                    [
+                        35.7225422,
+                        32.3627006
+                    ],
+                    [
+                        35.7231244,
+                        32.3624926
+                    ],
+                    [
+                        35.7228919,
+                        32.3620016
+                    ],
+                    [
+                        35.7225939,
+                        32.3619328
+                    ],
+                    [
+                        35.7220649,
+                        32.3621141
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-15132",
+            "id": "osm-location-of-tell-mar-elias",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/678429/darmc-location-15132",
+                "description": "Representative location based on OpenStreetMap, dates following Barrington Atlas",
+                "link": "https://pleiades.stoa.org/places/678429/osm-location-of-tell-mar-elias",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 15132"
+                "snippet": "Archaeological-site; AD 300 - AD 640",
+                "title": "OSM location of Tell Mar Elias"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-10-30T17:38:57Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-10-28T13:43:27Z",
@@ -115,8 +154,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -128,91 +167,123 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T22:29:00Z",
+            "contributors": [],
+            "created": "2023-10-28T13:44:29Z",
             "creators": [
                 {
-                    "name": "J.P. Brown",
-                    "username": null
-                },
-                {
-                    "name": "E.M. Meyers",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 15132",
+            "description": "Representative location based on OpenStreetMap, dates following Barrington Atlas",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    35.720469,
-                    32.362071
+                    [
+                        35.7220649,
+                        32.3621141
+                    ],
+                    [
+                        35.7221835,
+                        32.3623625
+                    ],
+                    [
+                        35.7219788,
+                        32.362475
+                    ],
+                    [
+                        35.7220714,
+                        32.3625928
+                    ],
+                    [
+                        35.7225422,
+                        32.3627006
+                    ],
+                    [
+                        35.7231244,
+                        32.3624926
+                    ],
+                    [
+                        35.7228919,
+                        32.3620016
+                    ],
+                    [
+                        35.7225939,
+                        32.3619328
+                    ],
+                    [
+                        35.7220649,
+                        32.3621141
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:52:19Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:10:10Z",
+                    "modified": "2023-10-30T17:38:33Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T22:29:02Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-10-28T15:06:04Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T22:29:02Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2023-10-28T15:05:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2023-10-28T13:44:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-10-28T13:44:29Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T22:29:00Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-10-28T13:44:29Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-15132",
+            "id": "osm-location-of-tell-mar-elias",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 15132",
+            "provenance": "OpenStreetMap (Way 1056469266, version 5, osm:changeset=138538408, 2023-07-15T10:14:29Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1056469266",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15132",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1056469266",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15132.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1056469266",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 15132",
-            "uri": "https://pleiades.stoa.org/places/678429/darmc-location-15132"
+            "title": "OSM location of Tell Mar Elias",
+            "uri": "https://pleiades.stoa.org/places/678429/osm-location-of-tell-mar-elias"
         }
     ],
     "names": [
@@ -336,11 +407,22 @@
             "otherIdentifier": "",
             "shortTitle": "Abel 1933",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15132",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.720469,
-        32.362071
+        35.72253006740284,
+        32.36233517800342
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
