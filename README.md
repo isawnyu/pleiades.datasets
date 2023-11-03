@@ -8,11 +8,16 @@ We encourage use and citation of numbered releases for scholarly work that will 
 
 __Please share notices of data reuse with the _Pleiades_ community via email to pleiades.admin@nyu.edu. These reports help us to justify continued funding and operation of the gazetteer and to prioritize updates and improvements.__
 
-## Version 3.1 - 1 August 2023
+## Version 3.2 - 3 November 2023
 
-What's new since 3.0 (4 April 2023):
+40,418 place resources
 
-- 359 new and 2,380 updated place resources (see `data/changelogs/release.html` for details)
+What's new since 3.1 (1 August 2023):
+
+- 108 new and 1,629 updated place resources reflecting work by Erin Walcek Averett, Jeffrey Becker, Catherine Bouras, Anne Chen, Niels Christoffersen, Peter Cobb, Tom Elliott, Jonathan Fu, Greta Hawes, Carolin Johansson, Noah Kaye, Brady Kiesling, Thomas Landvatter, Stanisław Ludwiński, Ingrid Luo, Stephan Maurer, Colin McCaffrey, Gabriel McKee, David Meadows, Gabriel Moss, John Muccigrosso, Gifford Quinn, Rune Rattenborg, Enrico Regazzoni, Rosemary Selth, R. Scott Smith, Richard Talbert, Georgios Tsolakis, and Scott Vanderbilt (see `data/changelogs/release.html` for details).
+- Included experimental JSON index of links extracted from _Pleiades_ place resources to "toponym" entries in Veronique Chankowski et al. [_Chronique Des Fouilles En Ligne = Archaeology in Greece Online._](https://chronique.efa.gr/?kroute=homepage) Athens: Ecole française d’Athènes and British School at Athens, 2018, together with links to the associated _Chronique_ archaeological reports. See `data/indexes/pids2chronique.json`.
+
+
 
 ## Overview
 
