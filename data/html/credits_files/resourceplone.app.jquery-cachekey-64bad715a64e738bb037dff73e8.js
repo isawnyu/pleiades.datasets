@@ -31,7 +31,7 @@ function getContentArea(){var node=jQuery('#region-content,#content');return nod
 
 /* - plone_javascript_variables.js - */
 // https://pleiades.stoa.org/portal_javascripts/plone_javascript_variables.js?original=1
-var portal_url='https://pleiades.stoa.org';var base_url='https://pleiades.stoa.org/places/570340';var form_modified_message='Your form has not been saved. All changes you have made will be lost.';var form_resubmit_message='You already clicked the submit button. Do you really want to submit this form again?';var external_links_open_new_window='False';var mark_special_links='false';var ajax_noresponse_message='No response from server. Please try again later.';
+var portal_url='https://pleiades.stoa.org';var base_url='https://pleiades.stoa.org/places/413332';var form_modified_message='Your form has not been saved. All changes you have made will be lost.';var form_resubmit_message='You already clicked the submit button. Do you really want to submit this form again?';var external_links_open_new_window='False';var mark_special_links='false';var ajax_noresponse_message='No response from server. Please try again later.';
 
 /* - modernizr.js - */
 // https://pleiades.stoa.org/portal_javascripts/modernizr.js?original=1
