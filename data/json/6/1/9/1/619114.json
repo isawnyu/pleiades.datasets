@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         34.16499,
-        38.12686,
-        34.16499,
+        38.1265274,
+        34.1651126,
         38.12686
     ],
     "connections": [
@@ -72,6 +72,12 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2009-10-19T09:55:08Z",
@@ -82,8 +88,26 @@
         }
     ],
     "description": "Mount Hasan, Hasan Dağı in Turkish, is an inactive stratovolcano and the second highest peak in Anatolia.",
-    "details": "The Barrington Atlas Directory notes: Hasan Dağ",
+    "details": "<p>The Barrington Atlas Directory notes: Hasan Dağ</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    34.1651126,
+                    38.1265274
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-hasan-daaa",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/619114/osm-location-of-hasan-daaa",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 2000 - AD 2099",
+                "title": "OSM location of Hasan Dağı"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -92,18 +116,23 @@
                 ],
                 "type": "Point"
             },
-            "id": "summit",
+            "id": "geonames-location-summit",
             "properties": {
                 "description": "Summit of the mountain",
-                "link": "https://pleiades.stoa.org/places/619114/summit",
+                "link": "https://pleiades.stoa.org/places/619114/geonames-location-summit",
                 "location_precision": "precise",
-                "snippet": "Mountain, ",
-                "title": "Hasan Dağı Summit"
+                "snippet": "Mountain",
+                "title": "Geonames Location: Hasan Dağı Summit"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2023-11-05T03:22:28Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add refs, a connections, new title and description",
             "modified": "2013-01-24T19:42:46Z",
@@ -144,13 +173,114 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-11-05T03:24:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "mountain"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "geometry": {
+                "coordinates": [
+                    34.1651126,
+                    38.1265274
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-11-06T11:16:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-11-05T03:24:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-11-05T03:24:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-11-05T03:24:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-11-05T03:24:14Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-hasan-daaa",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "provenance": "OpenStreetMap (Node 244313497, version 24, osm:changeset=140207753, 2023-08-22T03:54:56Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/244313497",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 244313497",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=244313497",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of Hasan Dağı",
+            "uri": "https://pleiades.stoa.org/places/619114/osm-location-of-hasan-daaa"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
             "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2013-01-24T19:35:30Z",
             "creators": [
                 {
@@ -164,12 +294,10 @@
             "details": "",
             "end": null,
             "featureType": [
-                "mountain",
-                ""
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
@@ -179,6 +307,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "update reference",
+                    "modified": "2023-11-05T03:23:29Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-01-24T19:38:11Z",
@@ -200,32 +333,31 @@
                     "modifiedBy": "sgillies"
                 }
             ],
-            "id": "summit",
+            "id": "geonames-location-summit",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "provenance": "GeoNames GeoNameId: 312495",
             "references": [
                 {
                     "accessURI": "http://www.geonames.org/312495/hasan-dagi.html",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Geonames, Hasan Dağı",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "312495: Hasan Dağı",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": null,
-            "title": "Hasan Dağı Summit",
-            "uri": "https://pleiades.stoa.org/places/619114/summit"
+            "title": "Geonames Location: Hasan Dağı Summit",
+            "uri": "https://pleiades.stoa.org/places/619114/geonames-location-summit"
         }
     ],
     "names": [
@@ -458,36 +590,36 @@
     "provenance": "Barrington Atlas: BAtlas 63 E4 Arg(ai)os M.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "63 E4 Arg(ai)os M.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 63 E4 Arg(ai)os M.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Argos-6",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Argos 6",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Argos 6",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIB-Kappadokien-136-38",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIV7H5RQ",
+            "citationDetail": "136-38, 149",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIB Kappadokien 136-38, 149",
+            "formattedCitation": "<div class=\"csl-entry\">Hild, F., and M. Restle. <i>Kappadokien (Kappadokia, Charsianon, Sebasteia Und Lykandos)</i>. Tabula Imperii Byzantini 2, 1981.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIB Kappadokien",
             "type": "seeFurther"
         },
         {
@@ -504,18 +636,18 @@
         {
             "accessURI": "http://www.geonames.org/312495/hasan-dagi.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "312495: Hasan Dağı",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "geonames:312495",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "GeoNames",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        34.16499,
-        38.12686
+        34.1650513,
+        38.126693700000004
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

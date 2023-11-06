@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        28.09352,
-        44.77792,
-        28.09352,
-        44.77792
+        28.0605488,
+        44.7221688,
+        28.0633235,
+        44.7237908
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,54 @@
         {
             "geometry": {
                 "coordinates": [
-                    28.09352,
-                    44.77792
+                    [
+                        28.0609699,
+                        44.7221688
+                    ],
+                    [
+                        28.0620175,
+                        44.7222392
+                    ],
+                    [
+                        28.0630616,
+                        44.7230339
+                    ],
+                    [
+                        28.0633235,
+                        44.7236072
+                    ],
+                    [
+                        28.0615327,
+                        44.7237908
+                    ],
+                    [
+                        28.0605488,
+                        44.7232954
+                    ],
+                    [
+                        28.0609699,
+                        44.7221688
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-23910",
+            "id": "osm-location-of-cetatea-cius",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/216770/darmc-location-23910",
+                "description": "Representative location based on OpenStreetMap, chronology following Barrington Atlas.",
+                "link": "https://pleiades.stoa.org/places/216770/osm-location-of-cetatea-cius",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 23910"
+                "snippet": "Fort-2; 30 BC - AD 640",
+                "title": "OSM location of Cetatea Cius"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-11-03T17:30:13Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "reference",
             "modified": "2023-10-31T23:40:37Z",
@@ -121,8 +152,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -140,87 +171,110 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:48:52Z",
+            "contributors": [],
+            "created": "2023-10-31T23:39:27Z",
             "creators": [
                 {
-                    "name": "A.G. Poulter",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 23910",
+            "description": "Representative location based on OpenStreetMap, chronology following Barrington Atlas.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    28.09352,
-                    44.77792
+                    [
+                        28.0609699,
+                        44.7221688
+                    ],
+                    [
+                        28.0620175,
+                        44.7222392
+                    ],
+                    [
+                        28.0630616,
+                        44.7230339
+                    ],
+                    [
+                        28.0633235,
+                        44.7236072
+                    ],
+                    [
+                        28.0615327,
+                        44.7237908
+                    ],
+                    [
+                        28.0605488,
+                        44.7232954
+                    ],
+                    [
+                        28.0609699,
+                        44.7221688
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:10:13Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:20:37Z",
+                    "modified": "2023-11-03T17:29:31Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T01:48:54Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-10-31T23:40:00Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:48:53Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2023-10-31T23:39:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-10-31T23:39:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T01:48:52Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-10-31T23:39:27Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-23910",
+            "id": "osm-location-of-cetatea-cius",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 23910",
+            "provenance": "OpenStreetMap (Way 1179710613, version 1, osm:changeset=136969157, 2023-06-05T11:56:06Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1179710613",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "23910",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1179710613",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 23910.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1179710613",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 23910",
-            "uri": "https://pleiades.stoa.org/places/216770/darmc-location-23910"
+            "title": "OSM location of Cetatea Cius",
+            "uri": "https://pleiades.stoa.org/places/216770/osm-location-of-cetatea-cius"
         }
     ],
     "names": [
@@ -359,11 +413,22 @@
             "otherIdentifier": "",
             "shortTitle": "vici.org",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "23910",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        28.09352,
-        44.77792
+        28.061880203939072,
+        44.72305971113969
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
