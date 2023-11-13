@@ -1,7 +1,87 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
+    "bbox": [
+        25.226361,
+        37.5817598,
+        25.226361,
+        37.5817598
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/590074",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2019-06-29T14:03:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-11-10T13:50:43Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "BAtlas reference",
+                    "modified": "2023-11-10T13:50:38Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2019-07-01T19:01:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-06-29T14:03:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2019-06-29T14:03:31Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "tenos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "60 B4",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Tenos (island)",
+            "uri": "https://pleiades.stoa.org/places/589798/tenos-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/590074"
     ],
@@ -21,9 +101,15 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:19:48Z",
+    "created": "2023-11-10T13:54:52Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -34,23 +120,39 @@
             "username": null
         }
     ],
-    "description": "A mountain on Tenos.",
-    "details": "The Barrington Atlas Directory notes: on Tenos",
+    "description": "A mountain on Tenos (modern Tziknias/Tsiknias)",
+    "details": "<p>The Barrington Atlas Directory notes: on Tenos</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    25.226361,
+                    37.5817598
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-modern-i-ii1ioi1-2i1i-i",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589798/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/589798/osm-location-modern-i-ii1ioi1-2i1i-i",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Τσικνιάς"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; cleaned up BAtlas reference; added RE reference; added Wikidata reference; added Geonames reference; added associated modern Name",
+            "modified": "2023-11-11T00:51:47Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2023-11-10T13:54:51Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
             "modified": "2021-03-01T22:40:55Z",
@@ -91,87 +193,189 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-22T19:19:48Z",
+            "contributors": [],
+            "created": "2023-11-10T14:00:17Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "mountain"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "geometry": {
+                "coordinates": [
+                    25.226361,
+                    37.5817598
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-11-11T00:52:42Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "name": "G. Reger",
-                    "username": null
+                    "action": "Submit for review",
+                    "modified": "2023-11-10T14:00:51Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-11-10T14:00:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-11-10T14:00:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-11-10T14:00:17Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-modern-i-ii1ioi1-2i1i-i",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "provenance": "OpenStreetMap (Node 26864087, version 5, osm:changeset=49217230, 2017-06-03T10:28:19Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/26864087",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26864087",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=26864087",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: modern Τσικνιάς",
+            "uri": "https://pleiades.stoa.org/places/589798/osm-location-modern-i-ii1ioi1-2i1i-i"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Τσικνιάς Όρος",
+            "contributors": [],
+            "created": "2023-11-10T14:04:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
+            "end": 2099,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:48:21Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:04:01Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2023-11-11T00:52:02Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:58:16Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-11-10T14:05:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-11-10T14:04:04Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:19:48Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-11-10T14:04:03Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
+            "id": "tsiknias-oros",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/252477/tsiknias-oros.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "252477: Tsikniás Óros",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://de.wikisource.org/wiki/RE:Gyras",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+                    "citationDetail": "Gyras",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "RE",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 60 B4 Gyras M.",
-            "references": [],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589798/batlas-location"
-        }
-    ],
-    "names": [
+            "romanized": "Tsiknias Oros, Tsikniás Óros",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/589798/tsiknias-oros"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -257,14 +461,14 @@
     "provenance": "Barrington Atlas: BAtlas 60 B4 Gyras M.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 60 B4 Gyras M.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -277,9 +481,45 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://de.wikisource.org/wiki/RE:Gyras",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Gyras",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RE",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q24888232",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Tsiknias Oros (Q24888232)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.geonames.org/252477/tsiknias-oros.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "252477: Tsikniás Óros",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "GeoNames",
+            "type": "citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        25.226361,
+        37.5817598
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
