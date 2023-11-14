@@ -1,8 +1,8 @@
 {
     "@type": "Place",
     "bbox": [
-        -2.262478,
-        57.002713,
+        -2.263626,
+        57.002128,
         -2.262478,
         57.002713
     ],
@@ -14,6 +14,12 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2013-01-15T21:43:22Z",
@@ -31,18 +37,36 @@
         {
             "geometry": {
                 "coordinates": [
+                    -2.263626,
+                    57.002128
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-raedykes-roman-camp",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/85858145/osm-location-of-raedykes-roman-camp",
+                "location_precision": "precise",
+                "snippet": "Military-installation-or-camp-temporary; AD 43 - AD 410",
+                "title": "OSM location of Raedykes Roman camp"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -2.262478,
                     57.002713
                 ],
                 "type": "Point"
             },
-            "id": "centerpoint-of-the-camp-approx",
+            "id": "imagery-centerpoint-of-the-camp-approx",
             "properties": {
                 "description": "Centerpoint of the camp as recorded by ground surveying and excavation",
-                "link": "https://pleiades.stoa.org/places/85858145/centerpoint-of-the-camp-approx",
+                "link": "https://pleiades.stoa.org/places/85858145/imagery-centerpoint-of-the-camp-approx",
                 "location_precision": "precise",
                 "snippet": "Military-installation-or-camp-temporary, ; 30 BC - AD 300",
-                "title": "Centerpoint of the camp (approx)"
+                "title": "Imagery Centerpoint of the camp (approx)"
             },
             "type": "Feature"
         }
@@ -98,6 +122,100 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-11-11T03:17:56Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
+            "featureType": [
+                "military-installation-or-camp-temporary"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/military-installation-or-camp-temporary"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -2.263626,
+                    57.002128
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-11-13T21:28:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-11-11T03:18:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2023-11-11T03:18:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-11-11T03:17:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-11-11T03:17:56Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-raedykes-roman-camp",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/military-installation-or-camp-temporary"
+            ],
+            "provenance": "OpenStreetMap (Node 2569792669, version 2, osm:changeset=52344266, 2017-09-25T05:17:20Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2569792669",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2569792669",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2569792669",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 43,
+            "title": "OSM location of Raedykes Roman camp",
+            "uri": "https://pleiades.stoa.org/places/85858145/osm-location-of-raedykes-roman-camp"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
@@ -111,7 +229,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-01-15T21:47:06Z",
             "creators": [
                 {
@@ -166,7 +291,7 @@
                     "modifiedBy": "sarcanon"
                 }
             ],
-            "id": "centerpoint-of-the-camp-approx",
+            "id": "imagery-centerpoint-of-the-camp-approx",
             "locationType": [
                 "representative"
             ],
@@ -201,8 +326,8 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Centerpoint of the camp (approx)",
-            "uri": "https://pleiades.stoa.org/places/85858145/centerpoint-of-the-camp-approx"
+            "title": "Imagery Centerpoint of the camp (approx)",
+            "uri": "https://pleiades.stoa.org/places/85858145/imagery-centerpoint-of-the-camp-approx"
         }
     ],
     "names": [],
@@ -260,8 +385,8 @@
         }
     ],
     "reprPoint": [
-        -2.262478,
-        57.002713
+        -2.263052,
+        57.0024205
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
