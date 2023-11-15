@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        11.470575,
-        44.443622,
-        11.470575,
-        44.443622
+        11.504168,
+        44.4341692,
+        11.5049382,
+        44.4347361
     ],
     "connections": [
         {
@@ -105,23 +105,54 @@
         {
             "geometry": {
                 "coordinates": [
-                    11.470575,
-                    44.443622
+                    [
+                        11.5044699,
+                        44.4347361
+                    ],
+                    [
+                        11.504168,
+                        44.4343619
+                    ],
+                    [
+                        11.5046363,
+                        44.4341692
+                    ],
+                    [
+                        11.5046722,
+                        44.4342137
+                    ],
+                    [
+                        11.5049382,
+                        44.4345434
+                    ],
+                    [
+                        11.5045003,
+                        44.4347236
+                    ],
+                    [
+                        11.5044699,
+                        44.4347361
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-18350",
+            "id": "osm-location-of-claterna",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/393405/darmc-location-18350",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/393405/osm-location-of-claterna",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 18350"
+                "snippet": "Archaeological-site; 30 BC - AD 640",
+                "title": "OSM location of Claterna"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-11-14T16:46:24Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add TGN 7015585: Ozzano (inhabited place)",
             "modified": "2023-11-14T05:14:45Z",
@@ -217,8 +248,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -236,95 +267,110 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:16:57Z",
+            "contributors": [],
+            "created": "2023-11-14T05:11:33Z",
             "creators": [
                 {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "R. Peretto",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18350",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    11.470575,
-                    44.443622
+                    [
+                        11.5044699,
+                        44.4347361
+                    ],
+                    [
+                        11.504168,
+                        44.4343619
+                    ],
+                    [
+                        11.5046363,
+                        44.4341692
+                    ],
+                    [
+                        11.5046722,
+                        44.4342137
+                    ],
+                    [
+                        11.5049382,
+                        44.4345434
+                    ],
+                    [
+                        11.5045003,
+                        44.4347236
+                    ],
+                    [
+                        11.5044699,
+                        44.4347361
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:39:08Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:12:20Z",
+                    "modified": "2023-11-14T16:45:58Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T23:16:59Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-11-14T05:13:25Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:16:58Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2023-11-14T05:11:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-11-14T05:11:34Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T23:16:58Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-11-14T05:11:33Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18350",
+            "id": "osm-location-of-claterna",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 18350",
+            "provenance": "OpenStreetMap (Way 377446917, version 4, osm:changeset=138161828, 2023-07-05T19:58:50Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/377446917",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18350",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 377446917",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18350.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=377446917",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 18350",
-            "uri": "https://pleiades.stoa.org/places/393405/darmc-location-18350"
+            "title": "OSM location of Claterna",
+            "uri": "https://pleiades.stoa.org/places/393405/osm-location-of-claterna"
         }
     ],
     "names": [
@@ -593,11 +639,22 @@
             "otherIdentifier": "",
             "shortTitle": "TGN",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18350",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        11.470575,
-        44.443622
+        11.504553100265474,
+        44.43445265113665
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
