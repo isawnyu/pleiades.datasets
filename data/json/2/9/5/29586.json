@@ -48,15 +48,15 @@
             "username": null
         }
     ],
-    "created": "2010-09-22T21:55:50Z",
+    "created": "2023-11-15T18:11:47Z",
     "creators": [
         {
             "name": "M. Roaf",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 3 G4 Harmozeia/Armuzia",
-    "details": "The Barrington Atlas Directory notes: IRN",
+    "description": "A flat coastal area of ancient Carmania, located on the east coast of the Strait of Hormuz in modern Iran, and inhabited likely in a settlement near the modern Minab river. The area was visited and noted by Nearchus's expedition during the reign of Alexander the Great.",
+    "details": "<p>The Barrington Atlas Directory notes: IRN</p>",
     "features": [
         {
             "geometry": {
@@ -68,7 +68,7 @@
             },
             "id": "darmc-location-19779",
             "properties": {
-                "description": "5M scale point location",
+                "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/29586/darmc-location-19779",
                 "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 640",
@@ -78,6 +78,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; place types += coast/shore, region; added EncIran and Boucharlat 1981 references",
+            "modified": "2023-11-16T00:37:45Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added RE link",
+            "modified": "2023-11-15T17:36:35Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-11-13T23:47:41Z",
@@ -167,7 +177,7 @@
                     "username": null
                 }
             ],
-            "description": "5M scale point location",
+            "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 19779",
             "end": 640,
             "featureType": [
@@ -371,8 +381,28 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Armuzia",
             "contributors": [
+                {
+                    "name": "Brian Z. Lund",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "name": "M. Joann McDaniel",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "name": "R. Talbert",
                     "username": null
@@ -382,25 +412,13 @@
                     "username": null
                 },
                 {
-                    "name": "M. Joann McDaniel",
-                    "username": null
-                },
-                {
-                    "name": "Brian Z. Lund",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-22T21:55:50Z",
+            "created": "2023-11-15T02:42:25Z",
             "creators": [
                 {
                     "name": "M. Roaf",
@@ -411,6 +429,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "add Latin name, add Pliny reference",
+                    "modified": "2023-11-15T14:37:58Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:02:29Z",
@@ -438,10 +461,22 @@
                 }
             ],
             "id": "armuzia",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 3 G4 Harmozeia/Armuzia",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/413/223-248",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "6.107.4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Armuzia",
             "start": -550,
@@ -559,10 +594,14 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/region",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/coast"
     ],
     "placeTypes": [
-        "settlement"
+        "region",
+        "settlement",
+        "coast"
     ],
     "provenance": "Barrington Atlas: BAtlas 3 G4 Harmozeia/Armuzia",
     "references": [
@@ -578,7 +617,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://elexikon.ch/RE/VII,2_2389.png",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
             "citationDetail": "Harmozeia",
@@ -598,6 +637,28 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://iranicaonline.org/articles/hormuz-i",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MGQ4IGT7",
+            "citationDetail": "HORMUZ i. PRE-ISLAMIC PERIOD",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Yar-Shater, Ehsan. <i>Encyclopædia Iranica (Online)</i>. New York: Columbia University, 2010. http://www.iranicaonline.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "EncIran (online)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.jstor.org/stable/41222985",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MTEPUWJI",
+            "citationDetail": "pages 67-68",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Boucharlat, R., and J.-F. Salles. “The History and Archaeology of the Gulf from the Fifth Century B.c. to the Seventh Century A.d.: A Review of the Evidence.” In <i>Proceedings of the Fourteenth Seminar for Arabian Studies Held at Oriel College, Oxford on 22nd - 24th July 1980</i>, 11:65–94, 1981. https://www.jstor.org/stable/41222985.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Boucharlat 1981",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
