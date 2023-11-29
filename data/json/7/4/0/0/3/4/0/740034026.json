@@ -11,6 +11,56 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/300583267",
+            "contributors": [],
+            "created": "2023-11-28T22:31:39Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-11-29T01:23:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-11-28T22:32:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-11-28T22:31:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-11-28T22:31:39Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "theatrum-marcelli",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Theatrum Marcelli",
+            "uri": "https://pleiades.stoa.org/places/740034026/theatrum-marcelli"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
             "connectionType": "connection",
             "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
             "connectsTo": "https://pleiades.stoa.org/places/423025",
@@ -54,15 +104,10 @@
         }
     ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/300583267",
         "https://pleiades.stoa.org/places/423025"
     ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
-        },
         {
             "homepage": null,
             "name": "Sean Gillies",
@@ -71,12 +116,24 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "homepage": null,
+            "name": "Elizabeth Robinson",
+            "uri": "https://pleiades.stoa.org/author/erobinson",
+            "username": "erobinson"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
         }
     ],
-    "created": "2018-06-07T21:17:03Z",
+    "created": "2023-11-28T22:24:49Z",
     "creators": [
         {
             "homepage": null,
@@ -154,6 +211,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references; added Hölscher 2023, Wikidata, iDAI.gazetteer, and vici.org references; added \"near\" Connection",
+            "modified": "2023-11-29T01:23:28Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add Orlin 2015 and Viscogliosi 2023",
             "modified": "2023-11-06T14:14:38Z",
@@ -464,10 +526,10 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Temple_of_Apollo_Sosianus",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Temple of Apollo Sosianus",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Temple of Apollo Sosianus.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
@@ -486,10 +548,10 @@
         {
             "accessURI": "https://topostext.org/place/419125SApo",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
             "citationDetail": "Apollo Sosianus T. (Rome)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
             "otherIdentifier": "http://atlantides.org/bibliography/",
             "shortTitle": "ToposText",
             "type": "seeFurther"
@@ -515,6 +577,50 @@
             "otherIdentifier": "",
             "shortTitle": "Viscogliosi 2023",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://publications.dainst.org/journals/aa/article/view/4167",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WBPNMIE7",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hölscher, Tonio. “Der Tempel des Apollo in circo in Rom und seine Bauherren.” <i>Archäologischer Anzeiger</i>, November 15, 2023, 1-29 (§). https://doi.org/10.34780/d3i4-6gaj.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Hölscher 2023",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2093747",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2093747: Tempel des Apollo Sosianus",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q582353",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Temple of Apollo Sosianus (Q582353)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://vici.org/vici/15038/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "15038: Temple of Apollo Medicus Sosianus",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
