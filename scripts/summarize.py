@@ -1,0 +1,151 @@
+"""
+Summarize recent commits
+"""
+
+from airtight.cli import configure_commandline
+from datetime import date
+import logging
+from pprint import pprint
+import requests
+import requests_cache
+
+logger = logging.getLogger(__name__)
+
+today = date.today()
+
+
+DEFAULT_LOG_LEVEL = logging.WARNING
+OPTIONAL_ARGUMENTS = [
+    [
+        "-l",
+        "--loglevel",
+        "NOTSET",
+        "desired logging level ("
+        + "case-insensitive string: DEBUG, INFO, WARNING, or ERROR",
+        False,
+    ],
+    ["-v", "--verbose", False, "verbose output (logging level == INFO)", False],
+    [
+        "-w",
+        "--veryverbose",
+        False,
+        "very verbose output (logging level == DEBUG)",
+        False,
+    ],
+    ["-d", "--date", today.isoformat(), "date of commits", False],
+]
+POSITIONAL_ARGUMENTS = [
+    # each row is a list with 3 elements: name, type, help
+]
+
+
+def get_pd_commits(recent):
+    commits = dict()
+    for c in recent:
+        try:
+            commits[c["commit"]["message"]]
+        except KeyError:
+            commits[c["commit"]["message"]] = {
+                "sha": c["sha"],
+                "url": c["url"],
+                "datestamp": c["commit"]["author"]["date"],
+            }
+        else:
+            raise RuntimeError("commit collision")
+    components = {
+        "csv": "legacy csv",
+        "json": "json",
+        "rdf/ttl": "rdf/ttl",
+        "gis package": "gis package",
+        "data quality": "data quality",
+        "bibliography": "bibliography",
+        "indexes": "indexes",
+    }
+    json_sha = None
+    msg = list()
+    for k, v in components.items():
+        success = False
+        full_k = f"updated {k}"
+        try:
+            c = commits[full_k]
+        except KeyError:
+            if k == "data quality":
+                try:
+                    c = commits[f"updated data_quality"]
+                except KeyError:
+                    pass
+                else:
+                    success = True
+        else:
+            success = True
+        if success:
+            if k == "json":
+                json_sha = c["sha"]
+            short_sha = c["sha"][:8]
+            msg.append(f"{short_sha} - updated {v}")
+        else:
+            msg.append(f"no change: {k}")
+    return (json_sha, "\n".join(msg))
+
+
+def get_json_changes(url):
+    r = requests.get(url)
+    j = r.json()
+    files = {
+        f["filename"]: {"status": f["status"], "url": f["raw_url"]} for f in j["files"]
+    }
+    new_count = len([f for f in files.values() if f["status"] == "added"])
+    updated_count = len([f for f in files.values() if f["status"] == "modified"])
+    if new_count and updated_count:
+        msg = f"{new_count} new and {updated_count} updated place"
+    elif new_count:
+        msg = f"{new_count} new place"
+    elif updated_count:
+        msg = f"{updated_count} updated place"
+    total = new_count + updated_count
+    if total > 1:
+        msg += "s"
+    msg += "."
+    return msg
+
+
+def main(**kwargs):
+    """
+    main function
+    """
+    # logger = logging.getLogger(sys._getframe().f_code.co_name)
+    commit_url = "https://api.github.com/repos/isawnyu/pleiades.datasets/commits"
+    r = requests.get(commit_url)
+    j = r.json()
+    recent = [c for c in j if c["commit"]["author"]["date"].startswith(kwargs["date"])]
+
+    json_sha, commit_summary = get_pd_commits(recent)
+    count_summary = get_json_changes("/".join((commit_url, json_sha)))
+
+    print(f"Export Updates {kwargs['date']}:\nPleiades gazetteer of ancient places\n")
+    print(count_summary)
+    print("\n1. Downloads: https://pleiades.stoa.org/downloads\n")
+    print("2. pleiades.datasets: https://github.com/isawnyu/pleiades.datasets:\n")
+    print('"main" branch:\n')
+    print(commit_summary)
+    print("\n3. pleiades-geojson: https://github.com/ryanfb/pleiades-geo\n")
+
+    commit_url = "https://api.github.com/repos/ryanfb/pleiades-geojson/commits"
+    r = requests.get(commit_url)
+    j = r.json()
+    recent = [c for c in j if c["commit"]["author"]["date"].startswith(kwargs["date"])]
+    if recent:
+        c = recent[0]
+        short_sha = c["sha"][:8]
+        msg = f"{short_sha} - {c['commit']['message']}"
+    else:
+        msg = f"no change"
+    print(msg)
+
+
+if __name__ == "__main__":
+    main(
+        **configure_commandline(
+            OPTIONAL_ARGUMENTS, POSITIONAL_ARGUMENTS, DEFAULT_LOG_LEVEL
+        )
+    )
