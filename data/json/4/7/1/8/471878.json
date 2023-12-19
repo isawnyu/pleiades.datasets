@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        8.0,
-        40.0,
-        9.0,
-        41.0
+        8.818027,
+        40.126752,
+        8.818027,
+        40.126752
     ],
     "connections": [
         {
@@ -93,38 +93,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            8.0,
-                            40.0
-                        ],
-                        [
-                            9.0,
-                            40.0
-                        ],
-                        [
-                            9.0,
-                            41.0
-                        ],
-                        [
-                            8.0,
-                            41.0
-                        ],
-                        [
-                            8.0,
-                            40.0
-                        ]
-                    ]
+                    8.818027,
+                    40.126752
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-abbasanta",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/471878/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/471878/osm-location-of-abbasanta",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Abbasanta"
             },
             "type": "Feature"
         }
@@ -175,8 +155,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -184,110 +164,100 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-11T20:20:24Z",
+            "created": "2023-12-17T15:53:36Z",
             "creators": [
                 {
-                    "name": "S.L. Dyson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            8.0,
-                            40.0
-                        ],
-                        [
-                            9.0,
-                            40.0
-                        ],
-                        [
-                            9.0,
-                            41.0
-                        ],
-                        [
-                            8.0,
-                            41.0
-                        ],
-                        [
-                            8.0,
-                            40.0
-                        ]
-                    ]
+                    8.818027,
+                    40.126752
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:26:08Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2023-12-18T21:43:56Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2010-11-12T12:26:54Z",
+                    "comment": "Edited",
+                    "modified": "2023-12-18T21:43:49Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-11T20:27:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-12-17T15:54:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-12-17T15:53:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-12-17T15:53:36Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-11T20:20:24Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-12-17T15:53:36Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-abbasanta",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 48 A2 Ad Medias",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 72992859, version 42, osm:changeset=143875216, 2023-11-10T18:40:09Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/72992859",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 72992859",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=72992859",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/471878/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Abbasanta",
+            "uri": "https://pleiades.stoa.org/places/471878/osm-location-of-abbasanta"
         }
     ],
     "names": [
@@ -414,8 +384,8 @@
         }
     ],
     "reprPoint": [
-        8.5,
-        40.5
+        8.818027,
+        40.126752
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

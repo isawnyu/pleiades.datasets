@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        9.10218,
-        40.71914,
-        9.10218,
-        40.71914
+        9.0369533,
+        40.7040678,
+        9.0404831,
+        40.7067233
     ],
     "connections": [
         {
@@ -97,23 +97,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    9.10218,
-                    40.71914
+                    [
+                        9.0404831,
+                        40.7064305
+                    ],
+                    [
+                        9.0390615,
+                        40.7067233
+                    ],
+                    [
+                        9.0376399,
+                        40.7053447
+                    ],
+                    [
+                        9.0369533,
+                        40.7047307
+                    ],
+                    [
+                        9.0376399,
+                        40.7040678
+                    ],
+                    [
+                        9.0385358,
+                        40.7043606
+                    ],
+                    [
+                        9.0394424,
+                        40.7045843
+                    ],
+                    [
+                        9.0398125,
+                        40.7047103
+                    ],
+                    [
+                        9.0404831,
+                        40.7064305
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-20454",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/471964/darmc-location-20454",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/471964/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 20454"
+                "snippet": "Settlement; 30 BC - AD 640",
+                "title": "OSM location of Luguidunec"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2023-12-18T21:48:02Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-12-18T03:25:36Z",
@@ -169,8 +208,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -178,97 +217,132 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:13:14Z",
+            "contributors": [],
+            "created": "2014-12-23T21:17:10Z",
             "creators": [
                 {
-                    "name": "S.L. Dyson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 20454",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    9.10218,
-                    40.71914
+                    [
+                        9.0404831,
+                        40.7064305
+                    ],
+                    [
+                        9.0390615,
+                        40.7067233
+                    ],
+                    [
+                        9.0376399,
+                        40.7053447
+                    ],
+                    [
+                        9.0369533,
+                        40.7047307
+                    ],
+                    [
+                        9.0376399,
+                        40.7040678
+                    ],
+                    [
+                        9.0385358,
+                        40.7043606
+                    ],
+                    [
+                        9.0394424,
+                        40.7045843
+                    ],
+                    [
+                        9.0398125,
+                        40.7047103
+                    ],
+                    [
+                        9.0404831,
+                        40.7064305
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:27:07Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:14:49Z",
+                    "modified": "2023-12-18T21:47:36Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-10T00:13:15Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-12-18T03:24:44Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:13:15Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "modify title, summary",
+                    "modified": "2020-08-17T00:25:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2014-12-23T21:17:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-12-23T21:17:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-12-23T21:17:13Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T00:13:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-12-23T21:17:12Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20454",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 20454",
+            "provenance": "OpenStreetMap (Way 318626376, version 2, osm:changeset=58581596, 2018-05-01T11:29:24Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/318626376",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20454",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 318626376",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20454.",
+                    "formattedCitation": "osm:way=318626376",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 20454",
-            "uri": "https://pleiades.stoa.org/places/471964/darmc-location-20454"
+            "title": "OSM location of Luguidunec",
+            "uri": "https://pleiades.stoa.org/places/471964/osm-location"
         }
     ],
     "names": [
@@ -487,11 +561,22 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20454",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        9.10218,
-        40.71914
+        9.038802036408944,
+        40.70536936727994
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
