@@ -1,20 +1,16 @@
 {
     "@type": "Place",
     "bbox": [
-        22.574579,
+        22.5,
         39.37552,
         22.574579,
-        39.37552
+        39.383333
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
         {
             "name": "DARMC",
-            "username": null
-        },
-        {
-            "name": "R. Talbert",
             "username": null
         },
         {
@@ -36,17 +32,27 @@
             "username": "jbecker"
         },
         {
-            "name": "G. Reger",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras",
+            "username": "cbouras"
+        },
+        {
+            "name": "G. Reger",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         }
     ],
-    "created": "2010-11-23T00:43:32Z",
+    "created": "2023-12-19T20:07:50Z",
     "creators": [
         {
             "name": "J. Fossey",
@@ -57,9 +63,27 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 55 D2 Skotoussa",
+    "description": "An ancient settlement, abandoned by Pausanias' day.",
     "details": "<p>The Barrington Atlas Directory notes: Ag. Triada/Souphli</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    22.5,
+                    39.383333
+                ],
+                "type": "Point"
+            },
+            "id": "cfl-ago-location",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/541107/cfl-ago-location",
+                "location_precision": "precise",
+                "snippet": "Unknown",
+                "title": "CFL/AGO Location"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -70,7 +94,7 @@
             },
             "id": "darmc-location-5680",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/541107/darmc-location-5680",
                 "location_precision": "precise",
                 "snippet": "Unknown; 750 BC - 30 BC",
@@ -80,6 +104,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "added CFL/AGO reference provided by cbouras; summary; added CFL/AGO Location (retain DARMC location as the site is not visible nor well located)",
+            "modified": "2023-12-19T21:45:27Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "reference x 2",
             "modified": "2023-10-18T14:12:15Z",
@@ -145,6 +174,82 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/cfl-ago-toponym-coordinates",
+            "accuracy_value": 100.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2023-12-19T20:17:42Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "featureType": [],
+            "featureTypeURI": [],
+            "geometry": {
+                "coordinates": [
+                    22.5,
+                    39.383333
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-12-19T21:45:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-12-19T20:21:53Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-12-19T20:17:43Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-12-19T20:17:42Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "cfl-ago-location",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=12344",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+                    "citationDetail": "Toponym 12344: Skotoussa,Kolaxizi, Kolaxuz",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "CFL/AGO",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "CFL/AGO Location",
+            "uri": "https://pleiades.stoa.org/places/541107/cfl-ago-location"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
             "accuracy_value": 10000.0,
             "archaeologicalRemains": "unknown",
@@ -187,7 +292,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 5680",
             "end": -30,
             "featureType": [
@@ -599,11 +704,22 @@
             "otherIdentifier": "",
             "shortTitle": "MANTO",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=12344",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponym 12344: Skotoussa, Kolaxizi, Kolaxuz",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        22.574579,
-        39.37552
+        22.5372895,
+        39.3794265
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
