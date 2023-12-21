@@ -3,8 +3,8 @@
     "bbox": [
         23.570797,
         38.487562,
-        23.570797,
-        38.487562
+        23.573961,
+        38.489071
     ],
     "connections": [],
     "connectsWith": [],
@@ -12,6 +12,12 @@
         {
             "name": "DARMC",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras",
+            "username": "cbouras"
         },
         {
             "name": "R. Talbert",
@@ -40,7 +46,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-11-23T00:36:14Z",
+    "created": "2023-12-20T14:40:55Z",
     "creators": [
         {
             "name": "J. Fossey",
@@ -51,9 +57,27 @@
             "username": null
         }
     ],
-    "description": "Theopompus mentions Chalia as a town of Boeotia. It is also attested epigraphically and may have been a member of the Boeotian league.",
+    "description": "Theopompus mentions Chalia as a town of Boeotia. It is also attested epigraphically and may have been a member of the Boeotian league. Fossey locates the city in the vicinity of the church of Agios Minas in modern Drosia. Archaeological finds in the area indicate human activity from as early as the Bronze Age.",
     "details": "<p>The Barrington Atlas Directory notes: Ag. Minas</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    23.573961,
+                    38.489071
+                ],
+                "type": "Point"
+            },
+            "id": "imagery-location-agios-minas",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/540705/imagery-location-agios-minas",
+                "location_precision": "precise",
+                "snippet": "Church-2; AD 2000 - AD 2099",
+                "title": "Imagery Location: Agios Minas"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -64,7 +88,7 @@
             },
             "id": "darmc-location-11976",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/540705/darmc-location-11976",
                 "location_precision": "precise",
                 "snippet": "Unknown; 750 BC - AD 300",
@@ -74,6 +98,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references; added CFL/AGO and GeoNames references provided by cbouras; summary; added ToposText reference; added Associated modern names; added associated modern location, which supersedes currently published DARMC location",
+            "modified": "2023-12-20T17:53:28Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "summary, Smith 1854",
             "modified": "2021-03-18T14:50:10Z",
@@ -124,6 +153,83 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2023-12-20T14:56:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "church-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    23.573961,
+                    38.489071
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-12-20T17:53:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-12-20T15:00:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-12-20T14:56:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-12-20T14:56:11Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "imagery-location-agios-minas",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
+            ],
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": 2000,
+            "title": "Imagery Location: Agios Minas",
+            "uri": "https://pleiades.stoa.org/places/540705/imagery-location-agios-minas"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
             "accuracy_value": 10000.0,
             "archaeologicalRemains": "unknown",
@@ -172,7 +278,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 11976",
             "end": 300,
             "featureType": [
@@ -243,6 +349,167 @@
         }
     ],
     "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Δροσιά",
+            "contributors": [],
+            "created": "2023-12-20T14:47:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-12-20T18:03:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-12-20T15:00:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-12-20T14:47:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-12-20T14:47:32Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "drosia",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/262869/dhrosia.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "262869: Dhrosiá",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://referenceworks.brillonline.com/entries/brill-s-new-pauly/chalia-e231130",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+                    "citationDetail": "Chalia",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "New Pauly",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Drosia, Dhrosiá",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/540705/drosia"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2023-12-20T14:50:22Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2023-12-20T18:03:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2023-12-20T15:00:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2023-12-20T14:50:23Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2023-12-20T14:50:22Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ag-minas",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 821 see \"Chalia\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ag. Minas",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/540705/ag-minas"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -344,9 +611,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
+        "church-2",
         "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 55 F4 Chalia",
@@ -374,17 +643,6 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SCT4S8PW",
-            "citationDetail": "Chalia",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Cancik, Hubert, Helmuth Schneider, and Manfred Landfester, eds. <i>Der Neue Pauly: Enzyklopädie Der Antike</i>. Stuttgart: J.B. Metzler, 1996.</div>",
-            "otherIdentifier": "",
-            "shortTitle": "NPauly",
-            "type": "seeFurther"
-        },
-        {
             "accessURI": "https://referenceworks.brillonline.com/entries/brill-s-new-pauly/chalia-e231130",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
@@ -405,11 +663,44 @@
             "otherIdentifier": "",
             "shortTitle": "Smith 1854 (Perseus)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=47706",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponym 47706: Drosia, Chalia",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.geonames.org/262869/dhrosia.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "262869: Dhrosiá",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "GeoNames",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/385236UCha",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Chalia (Euboea) 2 Ag. Minas - Χαλία",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.570797,
-        38.487562
+        23.572378999999998,
+        38.488316499999996
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
