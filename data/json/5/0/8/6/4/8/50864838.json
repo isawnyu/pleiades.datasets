@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         12.5322096,
-        41.9337149,
-        12.5322096,
+        41.9334875,
+        12.532761,
         41.9337149
     ],
     "connections": [
@@ -130,10 +130,16 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.5322096,
-                    41.9337149
+                    [
+                        12.5322096,
+                        41.9337149
+                    ],
+                    [
+                        12.532761,
+                        41.9334875
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "location-of-roman-bridge",
             "properties": {
@@ -147,6 +153,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata",
+            "modified": "2024-01-01T00:46:37Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2021-10-10T12:33:47Z",
@@ -211,12 +222,23 @@
             ],
             "geometry": {
                 "coordinates": [
-                    12.5322096,
-                    41.9337149
+                    [
+                        12.5322096,
+                        41.9337149
+                    ],
+                    [
+                        12.532761,
+                        41.9334875
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-01-01T00:45:36Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-10-10T12:33:47Z",
@@ -255,7 +277,7 @@
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "OpenStreetMap (Way 23184997, version 9, osm:changeset=20721734, 2014-02-22T20:47:36Z)",
+            "provenance": "OpenStreetMap (Way 23184997, version 12, osm:changeset=131304399, 2023-01-15T16:12:33Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/23184997",
@@ -316,11 +338,22 @@
             "otherIdentifier": "",
             "shortTitle": "O'Connor 1993",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1351222",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Ponte Nomentano (Q1351222)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.5322096,
-        41.9337149
+        12.532485300000001,
+        41.9336012
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
