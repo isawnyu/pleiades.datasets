@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.900331,
-        42.126496,
-        13.900331,
-        42.126496
+        13.8991205,
+        42.1241046,
+        13.9000481,
+        42.1245264
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.900331,
-                    42.126496
+                    [
+                        13.8993087,
+                        42.1245264
+                    ],
+                    [
+                        13.8991205,
+                        42.1242908
+                    ],
+                    [
+                        13.8997127,
+                        42.1241046
+                    ],
+                    [
+                        13.9000481,
+                        42.1242908
+                    ],
+                    [
+                        13.8993087,
+                        42.1245264
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-18358",
+            "id": "osm-location",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/413098/darmc-location-18358",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/413098/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 330 BC",
-                "title": "DARMC location 18358"
+                "snippet": "Archaeological-site, Fortified-settlement; 550 BC - 330 BC",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-01-05T16:55:42Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-01-05T00:30:10Z",
@@ -126,9 +149,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -139,87 +162,105 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:17:12Z",
+            "contributors": [],
+            "created": "2024-01-05T00:31:39Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18358",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": -330,
             "featureType": [
-                "unknown"
+                "archaeological-site",
+                "fortified-settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/fortified-settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    13.900331,
-                    42.126496
+                    [
+                        13.8993087,
+                        42.1245264
+                    ],
+                    [
+                        13.8991205,
+                        42.1242908
+                    ],
+                    [
+                        13.8997127,
+                        42.1241046
+                    ],
+                    [
+                        13.9000481,
+                        42.1242908
+                    ],
+                    [
+                        13.8993087,
+                        42.1245264
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:47:52Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:12:20Z",
+                    "modified": "2024-01-05T16:55:17Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T23:17:13Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-01-05T00:32:12Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:17:13Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2024-01-05T00:32:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-01-05T00:31:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T23:17:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-01-05T00:31:39Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18358",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/fortified-settlement"
             ],
-            "provenance": "DARMC OBJECTID: 18358",
+            "provenance": "OpenStreetMap (Way 686718821, version 1, osm:changeset=69711203, 2019-04-29T20:26:13Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/686718821",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18358",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 686718821",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18358.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=686718821",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 18358",
-            "uri": "https://pleiades.stoa.org/places/413098/darmc-location-18358"
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/413098/osm-location"
         }
     ],
     "names": [],
@@ -267,11 +308,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18358",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.900331,
-        42.126496
+        13.899570384868616,
+        42.12430685582852
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
