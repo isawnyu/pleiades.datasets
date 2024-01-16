@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        32.510642,
-        25.515471,
-        32.510642,
-        25.515471
+        32.531244,
+        25.5832,
+        32.5332,
+        25.583701
     ],
     "connections": [],
     "connectsWith": [
@@ -41,6 +41,12 @@
         },
         {
             "homepage": null,
+            "name": "Carolin Johansson",
+            "uri": "https://pleiades.stoa.org/author/cjohansson",
+            "username": "cjohansson"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
@@ -60,6 +66,12 @@
         {
             "name": "Mark Depauw",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Rune Rattenborg",
+            "uri": "https://pleiades.stoa.org/author/rrattenborg",
+            "username": "rrattenborg"
         }
     ],
     "created": "2018-06-08T11:46:52Z",
@@ -83,23 +95,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    32.510642,
-                    25.515471
+                    32.5332,
+                    25.5832
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-15227",
+            "id": "cigs-location-of-tud",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/786132/darmc-location-15227",
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/786132/cigs-location-of-tud",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 15227"
+                "snippet": "Archaeological-site, Findspot",
+                "title": "CIGS location of Ṭūd"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.531244,
+                    25.583701
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/786132/osm-location",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of طود"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-01-12T15:11:14Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "TGN",
             "modified": "2024-01-10T15:05:23Z",
@@ -175,132 +210,259 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2024-01-10T09:39:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Centre point location extracted from polygon drawn around entire site as identified on Google Earth base imagery in QGIS 3.x.</p>",
+            "end": null,
+            "featureType": [
+                "archaeological-site",
+                "findspot"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/findspot"
+            ],
+            "geometry": {
+                "coordinates": [
+                    32.5332,
+                    25.5832
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-01-12T15:10:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-01-12T15:10:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Send back",
+                    "modified": "2024-01-12T15:10:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-01-10T09:40:23Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-01-10T09:39:11Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-01-10T09:39:10Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "cigs-location-of-tud",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/findspot"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.ifao.egnet.net/archeologie/tod/",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AEXU5EUY",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">IFAO. “*Tôd.” Institut français d’archéologie orientale - Le Caire. Accessed February 11, 2020. https://www.ifao.egnet.net/archeologie/tod/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "IFAO 2020",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/El-Tod",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "El-Tod",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, El-Tod.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://ar.wikipedia.org/wiki/الطود_(الأقصر)",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GIR336Y",
+                    "citationDetail": "الطود_(الأقصر)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>الموسوعة الحرة التي يستطيع الجميع تحريرها: ويكيبيديا</i>. Wikimedia Foundation, 2001. https://ar.wikipedia.org.</div>, الطود_(الأقصر).",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Arabic)",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q287731",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q287731",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>, Q287731.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "CIGS location of Ṭūd",
+            "uri": "https://pleiades.stoa.org/places/786132/cigs-location-of-tud"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2011-03-09T22:32:12Z",
+            "created": "2024-01-10T09:27:42Z",
             "creators": [
                 {
-                    "name": "J. Keenan",
-                    "username": null
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
                 },
                 {
-                    "name": "S.E. Sidebotham",
-                    "username": null
-                },
-                {
-                    "name": "T. Wilfong",
-                    "username": null
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 15227",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    32.510642,
-                    25.515471
+                    32.531244,
+                    25.583701
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:26:39Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:10:18Z",
+                    "modified": "2024-01-12T15:10:46Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T22:32:13Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-01-12T15:10:39Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T22:32:13Z",
-                    "modifiedBy": "sgillies"
+                    "action": "Send back",
+                    "modified": "2024-01-12T15:10:32Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "update",
+                    "modified": "2024-01-10T14:00:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-01-10T09:28:25Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-01-10T09:28:03Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-01-10T09:27:42Z",
+                    "modifiedBy": "cjohansson"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T22:32:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-01-10T09:27:42Z",
+                    "modifiedBy": "cjohansson"
                 }
             ],
-            "id": "darmc-location-15227",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 15227",
+            "provenance": "OpenStreetMap (Node 768808943, version 4, osm:changeset=95576955, 2020-12-09T21:50:38Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/768808943",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15227",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 768808943",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15227.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=768808943",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 15227",
-            "uri": "https://pleiades.stoa.org/places/786132/darmc-location-15227"
+            "start": 2000,
+            "title": "OSM location of طود",
+            "uri": "https://pleiades.stoa.org/places/786132/osm-location"
         }
     ],
     "names": [
@@ -535,6 +697,127 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/786132/tod"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "attested": "طود",
+            "contributors": [],
+            "created": "2024-01-10T09:39:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Carolin Johansson",
+                    "uri": "https://pleiades.stoa.org/author/cjohansson",
+                    "username": "cjohansson"
+                },
+                {
+                    "homepage": null,
+                    "name": "Rune Rattenborg",
+                    "uri": "https://pleiades.stoa.org/author/rrattenborg",
+                    "username": "rrattenborg"
+                }
+            ],
+            "description": "",
+            "details": "<p>Romanization according to the ALA-LC specifications forArabic (2012) (https://www.loc.gov/catdir/cpso/roman.html).</p>",
+            "end": 2100,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-01-12T15:10:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-01-12T15:10:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Send back",
+                    "modified": "2024-01-12T15:10:32Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-01-10T09:40:30Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-01-10T09:39:51Z",
+                    "modifiedBy": "cjohansson"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-01-10T09:39:49Z",
+                    "modifiedBy": "cjohansson"
+                }
+            ],
+            "id": "tud",
+            "language": "ar",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.ifao.egnet.net/archeologie/tod/",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AEXU5EUY",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">IFAO. “*Tôd.” Institut français d’archéologie orientale - Le Caire. Accessed February 11, 2020. https://www.ifao.egnet.net/archeologie/tod/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "IFAO 2020",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/El-Tod",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "El-Tod",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>, El-Tod.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://ar.wikipedia.org/wiki/الطود_(الأقصر)",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GIR336Y",
+                    "citationDetail": "الطود_(الأقصر)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>الموسوعة الحرة التي يستطيع الجميع تحريرها: ويكيبيديا</i>. Wikimedia Foundation, 2001. https://ar.wikipedia.org.</div>, الطود_(الأقصر).",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Arabic)",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q287731",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Q287731",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>, Q287731.",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ṭūd",
+            "start": 1700,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/786132/tud"
         }
     ],
     "placeTypeURIs": [
@@ -660,11 +943,22 @@
             "otherIdentifier": "",
             "shortTitle": "TGN",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15227",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        32.510642,
-        25.515471
+        32.532222000000004,
+        25.5834505
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
