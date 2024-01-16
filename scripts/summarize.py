@@ -128,7 +128,7 @@ def main(**kwargs):
     print("2. pleiades.datasets: https://github.com/isawnyu/pleiades.datasets:\n")
     print('"main" branch:\n')
     print(commit_summary)
-    print("\n3. pleiades-geojson: https://github.com/ryanfb/pleiades-geo\n")
+    print("\n3. pleiades-geojson: https://github.com/ryanfb/pleiades-geojson:\n")
 
     commit_url = "https://api.github.com/repos/ryanfb/pleiades-geojson/commits"
     r = requests.get(commit_url)
