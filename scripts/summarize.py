@@ -76,6 +76,11 @@ def get_pd_commits(recent):
                     pass
                 else:
                     success = True
+            if not success:
+                goofy_k = [ak for ak in commits.keys() if k in ak]
+                if len(goofy_k) == 1:
+                    c = commits[goofy_k[0]]
+                    success = True
         else:
             success = True
         if success:
