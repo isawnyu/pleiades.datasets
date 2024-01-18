@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        14.139,
-        40.827,
-        14.139,
-        40.827
+        14.10963,
+        40.8447189,
+        14.10963,
+        40.8447189
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
             "connectsTo": "https://pleiades.stoa.org/places/432744",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:42:13Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-01-17T22:55:53Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:42:13Z",
@@ -87,29 +99,34 @@
             "username": null
         }
     ],
-    "description": "An eruptive volcanic vent in the Phlegraean Fields.",
+    "description": "An eruptive volcanic vent in the Phlegraean Fields. Modern Monte Gauro (also known as Monte Barbaro).",
     "details": "<p>The Barrington Atlas Directory notes: Monte Barbaro</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    14.139,
-                    40.827
+                    14.10963,
+                    40.8447189
                 ],
                 "type": "Point"
             },
-            "id": "location-of-gaurus-m",
+            "id": "osm-location-of-monte-gauro",
             "properties": {
-                "description": "coordinates after GeoHack, verified in Google Earth 2013.",
-                "link": "https://pleiades.stoa.org/places/432861/location-of-gaurus-m",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/432861/osm-location-of-monte-gauro",
                 "location_precision": "precise",
-                "snippet": "Mountain, ; AD 1700 - AD 2100",
-                "title": "location of Mount Barbaro"
+                "snippet": "Volcano; AD 2000 - AD 2099",
+                "title": "OSM location of Monte Gauro"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2024-01-17T22:51:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add wikidata, updates",
             "modified": "2022-02-07T03:42:44Z",
@@ -175,21 +192,21 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
-            "accuracy_value": 5.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [],
-            "created": "2013-02-01T00:34:26Z",
+            "created": "2024-01-08T16:39:14Z",
             "creators": [
                 {
                     "homepage": null,
@@ -198,82 +215,74 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "coordinates after GeoHack, verified in Google Earth 2013.",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 2100,
+            "end": 2099,
             "featureType": [
-                "mountain",
-                ""
+                "volcano"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/volcano"
             ],
             "geometry": {
                 "coordinates": [
-                    14.139,
-                    40.827
+                    14.10963,
+                    40.8447189
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Edited",
-                    "modified": "2014-02-04T14:14:52Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2013-04-06T20:20:29Z",
+                    "modified": "2024-01-17T22:50:33Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "edited reference to cite Wikipedia",
-                    "modified": "2013-02-01T22:48:20Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Submit for review",
-                    "modified": "2013-02-01T00:34:42Z",
+                    "modified": "2024-01-08T16:39:44Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "added location",
-                    "modified": "2013-02-01T00:34:30Z",
+                    "comment": "supersedes previously published location.",
+                    "modified": "2024-01-08T16:39:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-01-08T16:39:14Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2013-02-01T00:34:27Z",
+                    "modified": "2024-01-08T16:39:14Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-gaurus-m",
+            "id": "osm-location-of-monte-gauro",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/volcano"
             ],
-            "provenance": "Pleiades",
+            "provenance": "OpenStreetMap (Node 2422613005, version 4, osm:changeset=112972158, 2021-10-26T02:18:26Z)",
             "references": [
                 {
-                    "accessURI": "https://en.wikipedia.org/wiki/Mount_Barbaro",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2422613005",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Mount Barbaro",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Mount Barbaro.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "cites"
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2422613005",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2422613005",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 1700,
-            "title": "location of Mount Barbaro",
-            "uri": "https://pleiades.stoa.org/places/432861/location-of-gaurus-m"
+            "start": 2000,
+            "title": "OSM location of Monte Gauro",
+            "uri": "https://pleiades.stoa.org/places/432861/osm-location-of-monte-gauro"
         }
     ],
     "names": [
@@ -476,13 +485,13 @@
         }
     ],
     "reprPoint": [
-        14.139,
-        40.827
+        14.10963,
+        40.8447189
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Gaurus M.",
+    "title": "Gaurus (mount)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/432861"
 }

@@ -1,9 +1,90 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
+    "bbox": [
+        13.977647128515969,
+        42.201053367686086,
+        14.227490534128151,
+        42.38879284104621
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "fourth-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fourth-bce"
+                }
+            ],
+            "connectionType": "dependent",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/dependent",
+            "connectsTo": "https://pleiades.stoa.org/places/413190",
+            "contributors": [],
+            "created": "2024-01-17T21:53:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -301,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-01-17T21:54:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-01-17T21:54:05Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-01-17T21:53:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-01-17T21:53:41Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "marrucini",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2:19.105.5",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/I5ZBYD5J",
+                    "citationDetail": "19.105.5",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Diodorus. <i>Diodori Bibliotheca historica</i>. Edited by Ludwig August Dindorf, Immanuel Bekker, Friedrich Vogel, and Curt Theodor Fischer. 5 vols. Lipsiae: In aedibus B.G. Teubneri, 1888. http://data.perseus.org/texts/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "DiodSic (Vogel; Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": -400,
+            "title": "Marrucini",
+            "uri": "https://pleiades.stoa.org/places/416845/marrucini"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/438812"
+        "https://pleiades.stoa.org/places/413190"
     ],
     "contributors": [
         {
@@ -29,30 +110,22 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-12T15:23:13Z",
+    "created": "2024-01-17T21:14:56Z",
     "creators": [
         {
             "name": "W.V. Harris",
             "username": null
         }
     ],
-    "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
-    "details": "The Barrington Atlas Directory notes: town among Marrucini",
-    "features": [
-        {
-            "geometry": null,
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/416845/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "description": "Mentioned only by Diodorus, Pollition is described as \"a city of the Marroukinoi\" against which Rome conducted military operations ca. 312 BCE. The Marrucini were an Italic tribe centered around Teate in the Abruzzo, but the precise location of Poliltion cannot be determined today.",
+    "details": "<p>The Barrington Atlas Directory notes: town among Marrucini</p>",
+    "features": [],
     "history": [
+        {
+            "comment": "summary; added Tataranni 2004; cleaned up Diodorus reference; replaced pro forma BAtlas reference with precise BAtlDir references for both map 42 and 44; added RE reference; added Thayer note reference",
+            "modified": "2024-01-17T21:47:26Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-01-06T19:44:44Z",
@@ -95,93 +168,80 @@
         }
     ],
     "id": "416845",
-    "locations": [
+    "locations": [],
+    "names": [
         {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-12T15:23:14Z",
+            "attested": "Pollitium",
+            "contributors": [],
+            "created": "2024-01-17T21:35:07Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Unattested Latinization of the Greek used by Diodorus found in some modern scholarly work, e.g., Tataranni 2004.",
             "details": "",
-            "end": -30,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
+            "end": 2099,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:53:49Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-14T14:04:12Z",
+                    "modified": "2024-01-17T21:48:23Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-12T15:53:38Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-01-17T21:48:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-01-17T21:35:09Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-12T15:23:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-01-17T21:35:07Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
+            "id": "pollitium",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.jstor.org/stable/26958768",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TUINR24F",
+                    "citationDetail": "page 77",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Tataranni, Francesca. “Cause E Obiettivi Dell’intervento Romano in Territorio Carricino Alla Fine Del Iv Secolo A.c.: L’importanza Strategica Di Una Regione Al Confine Tra L’area Sabellica E Il Sannio Interno.” <i>Studi Classici e Orientali</i> 47, no. 3 (2004): 65–89. https://www.jstor.org/stable/26958768.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Tataranni 2004",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 42 Pollition",
-            "references": [],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/416845/batlas-location"
-        }
-    ],
-    "names": [
+            "romanized": "Pollitium",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/416845/pollitium"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -194,14 +254,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "attested": "",
+            "attested": "Πολλίτιον",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -209,9 +265,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-12T15:23:13Z",
+            "created": "2024-01-17T21:48:35Z",
             "creators": [
                 {
                     "name": "W.V. Harris",
@@ -222,6 +284,16 @@
             "details": "",
             "end": -30,
             "history": [
+                {
+                    "comment": "greek; Diodorus reference",
+                    "modified": "2024-01-17T21:49:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2024-01-17T21:48:34Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:53:49Z",
@@ -244,10 +316,22 @@
                 }
             ],
             "id": "pollition",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 42 Pollition",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2:19.105.5",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/I5ZBYD5J",
+                    "citationDetail": "19.105.5",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Diodorus. <i>Diodori Bibliotheca historica</i>. Edited by Ludwig August Dindorf, Immanuel Bekker, Friedrich Vogel, and Curt Theodor Fischer. 5 vols. Lipsiae: In aedibus B.G. Teubneri, 1888. http://data.perseus.org/texts/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "DiodSic (Vogel; Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Pollition",
             "start": -330,
@@ -269,27 +353,63 @@
         {
             "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "42 Pollition",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 616 see \"Pollition\" and page 662 see \"Pollition\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
+            "shortTitle": "BAtlDir",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2:19.105.5",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/d.html#DiodSic-19.105.5",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "DiodSic 19.105.5",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/I5ZBYD5J",
+            "citationDetail": "19.105.5",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Diodorus. <i>Diodori Bibliotheca historica</i>. Edited by Ludwig August Dindorf, Immanuel Bekker, Friedrich Vogel, and Curt Theodor Fischer. 5 vols. Lipsiae: In aedibus B.G. Teubneri, 1888. http://data.perseus.org/texts/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "DiodSic (Vogel; Perseus)",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.jstor.org/stable/26958768",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TUINR24F",
+            "citationDetail": "page 77",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Tataranni, Francesca. “Cause E Obiettivi Dell’intervento Romano in Territorio Carricino Alla Fine Del Iv Secolo A.c.: L’importanza Strategica Di Una Regione Al Confine Tra L’area Sabellica E Il Sannio Interno.” <i>Studi Classici e Orientali</i> 47, no. 3 (2004): 65–89. https://www.jstor.org/stable/26958768.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Tataranni 2004",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://elexikon.ch/RE/XXI,2_1417.png",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Pollitium",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RE",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/19F*.html#note:Pollitium",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/P6M7YFJM",
+            "citationDetail": "notes a1 and a2",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Thayer, Bill, ed. <i>LacusCurtius: Diodorus Siculus — Book XIX Chapters 102‑110</i>. Penelope; University of Chicago, 2016. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/19F*.html#note:Pollitium.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Thayer: Diodorus Siculus",
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        14.103591057977921,
+        42.28910961650046
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
