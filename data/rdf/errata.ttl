@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2024/01/14 06:48:7.824596 US/Eastern
+# Date: 2024/01/21 06:48:6.619378 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4421
+# Triple count: 4479
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -129,6 +129,11 @@
     rdfs:label "Erroneous Duplicate: Al-Hijr (Madâin Sâlih)";
     rdfs:comment "This place was published as an unintended duplicate of https://pleiades.stoa.org/places/814675/.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/427224440> .
+
+<https://pleiades.stoa.org/errata/438812%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Pollition";
+    rdfs:comment "Doublet for https://pleiades.stoa.org/places/416845.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/438812> .
 
 <https://pleiades.stoa.org/errata/550420%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Erratum: Aisepos (river)";
@@ -1598,6 +1603,60 @@
     owl:sameAs <http://pleiades.stoa.org/errata/427224440/osm-location>;
     prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 43405836, version 6, osm:changeset=29002599, 2015-02-21T16:54:19Z)" ] .
 
+<https://pleiades.stoa.org/errata/438812> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "",
+        "BAtlas 44 Pollition";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "Marrucini";
+    dcterms:creator <http://viaf.org/viaf/24617478>;
+    dcterms:description "Doublet for https://pleiades.stoa.org/places/416845.";
+    dcterms:modified "2024-01-17T16:56:28-05:00";
+    dcterms:title "Pollition";
+    cito:citesForInformation <http://atlantides.org/bibliography/d.html%23DiodSic-19.105.5>,
+        <http://www.worldcat.org/oclc/43970336>;
+    owl:sameAs <http://pleiades.stoa.org/errata/438812>;
+    skos:altLabel "Pollition";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 44 Pollition" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/unlocated>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/438812/batlas-location>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/438812/pollition> .
+
+<https://pleiades.stoa.org/errata/438812/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/24617478>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T19:06:33-05:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/438812/batlas-location>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 44 Pollition" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/time-periods/classical>,
+        <https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican>;
+    pleiades:end_date -30;
+    pleiades:start_date -550 .
+
+<https://pleiades.stoa.org/errata/438812/pollition> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/24617478>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T19:06:33-05:00";
+    dcterms:title "Pollition";
+    owl:sameAs <http://pleiades.stoa.org/errata/438812/pollition>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 44 Pollition" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/time-periods/classical>,
+        <https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican>;
+    pleiades:end_date -30;
+    pleiades:nameRomanized "Pollition";
+    pleiades:start_date -550 .
+
 <https://pleiades.stoa.org/errata/550420> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/56%23E2>;
@@ -2279,11 +2338,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -2302,11 +2361,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87%23A4>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -2320,11 +2379,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
