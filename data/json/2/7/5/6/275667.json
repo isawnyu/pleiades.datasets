@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/845",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:31:34Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "flows into",
+                    "modified": "2024-01-30T19:27:08Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:31:34Z",
@@ -2817,13 +2829,13 @@
                 ],
                 "type": "LineString"
             },
-            "id": "location-of-Lixus-fl",
+            "id": "osm-location-of-Lixus-fl",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/275667/location-of-Lixus-fl",
+                "link": "https://pleiades.stoa.org/places/275667/osm-location-of-Lixus-fl",
                 "location_precision": "precise",
-                "snippet": "River, ; AD 1700 - AD 2100",
-                "title": "location of Lixus fl."
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM location of Lixus fl."
             },
             "type": "Feature"
         }
@@ -2902,7 +2914,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-05-20T03:07:08Z",
             "creators": [
                 {
@@ -2916,12 +2935,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "river",
-                ""
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/river",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
@@ -5646,6 +5663,11 @@
             },
             "history": [
                 {
+                    "comment": "associated modern",
+                    "modified": "2024-01-30T19:26:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Reimported full way geometry and updated provenance",
                     "modified": "2024-01-28T02:29:50Z",
                     "modifiedBy": "jbecker"
@@ -5676,13 +5698,12 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-Lixus-fl",
+            "id": "osm-location-of-Lixus-fl",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/river",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "provenance": "OpenStreetMap (Way 8692342, version 33, osm:changeset=146684807, 2024-01-25T18:53:12Z)",
             "references": [
@@ -5700,8 +5721,8 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Lixus fl.",
-            "uri": "https://pleiades.stoa.org/places/275667/location-of-Lixus-fl"
+            "title": "OSM location of Lixus fl.",
+            "uri": "https://pleiades.stoa.org/places/275667/osm-location-of-Lixus-fl"
         }
     ],
     "names": [
@@ -6017,6 +6038,123 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/275667/lunx"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "واد لوكوس",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2024-01-28T02:53:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-01-30T19:25:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2024-01-30T19:25:56Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2024-01-30T19:25:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-01-28T02:53:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "name",
+                    "modified": "2024-01-28T02:53:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-01-28T02:53:31Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "oued-loukos",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/2543440/oued-loukos.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "2543440: Oued Loukos",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%AF_%D9%84%D9%88%D9%83%D9%88%D8%B3",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GIR336Y",
+                    "citationDetail": "واد لوكوس",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>الموسوعة الحرة التي يستطيع الجميع تحريرها: ويكيبيديا</i>. Wikimedia Foundation, 2001. https://ar.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Arabic)",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 460 see \"Lixus fl.\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Oued Loukos, Loukos (Oued), Uad Lucas, Lucas (Uad), Oued Loukous, Loukous (Oued), Oued Loukkos, Loukkos (Oued)",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/275667/oued-loukos"
         }
     ],
     "placeTypeURIs": [
