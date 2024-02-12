@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/589841",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:39:53Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype, add reference",
+                    "modified": "2024-02-09T15:08:16Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:39:53Z",
@@ -46,7 +58,19 @@
             ],
             "id": "589841",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 921",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Karpathos (island)",
@@ -107,8 +131,8 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/589711/location-of-arkasa",
                 "location_precision": "precise",
-                "snippet": "Settlement-modern, ; AD 1700 - AD 2100",
-                "title": "location of Arkasa"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM location of Arkasa"
             },
             "type": "Feature"
         }
@@ -186,12 +210,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "settlement-modern",
-                ""
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -201,6 +223,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Change type to associated modern",
+                    "modified": "2024-02-09T15:08:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-02-09T15:08:24Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-12-03T13:32:58Z",
@@ -229,13 +261,12 @@
             ],
             "id": "location-of-arkasa",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "OpenStreetMap (Node 272248333, version 7, osm:changeset=12524489, 2012-07-28T15:14:14Z)",
+            "provenance": "OpenStreetMap (Node 272248333, version 16, osm:changeset=140205998, 2023-08-22T02:05:10Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/node/272248333",
@@ -251,7 +282,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Arkasa",
+            "title": "OSM location of Arkasa",
             "uri": "https://pleiades.stoa.org/places/589711/location-of-arkasa"
         }
     ],

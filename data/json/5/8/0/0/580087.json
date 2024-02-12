@@ -10,12 +10,26 @@
     "connectsWith": [],
     "contributors": [
         {
-            "name": "DARMC",
-            "username": null
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Rosemary Selth",
+            "uri": "https://pleiades.stoa.org/author/rselth",
+            "username": "rselth"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -30,20 +44,30 @@
             "username": "thomase"
         },
         {
+            "name": "DARMC",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "R. Scott Smith",
+            "uri": "https://pleiades.stoa.org/author/rssmith",
+            "username": "rssmith"
+        },
+        {
+            "homepage": null,
+            "name": "Greta Hawes",
+            "uri": "https://pleiades.stoa.org/author/ghawes",
+            "username": "ghawes"
         }
     ],
-    "created": "2010-11-10T21:35:22Z",
+    "created": "2024-02-09T22:19:06Z",
     "creators": [
         {
             "name": "J.S. Traill",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 59 D3 Potamos Deiradiotes",
+    "description": "A settlement and deme of Attica, probably located in the river valley north of Thorikos.",
     "details": "<p>The Barrington Atlas Directory notes: river valley, N Thorikos? [IV(XII) - coast - 2]</p>",
     "features": [
         {
@@ -56,7 +80,7 @@
             },
             "id": "darmc-location-21324",
             "properties": {
-                "description": "Point location",
+                "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/580087/darmc-location-21324",
                 "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 300",
@@ -66,6 +90,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type += deme; cleaned up references; removed erroneous RE reference; added MANTO reference provided by MANTO team; added ToposText reference provided by bkiesling",
+            "modified": "2024-02-10T03:41:29Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2020-03-05T01:49:19Z",
@@ -164,7 +193,7 @@
                     "username": null
                 }
             ],
-            "description": "Point location",
+            "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 21324",
             "end": 300,
             "featureType": [
@@ -322,33 +351,24 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/deme-attic"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "deme-attic"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 D3 Potamos Deiradiotes",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "59 D3 Potamos Deiradiotes",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 59 D3 Potamos Deiradiotes",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Potamos-Deiradiotes",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Potamos Deiradiotes",
-            "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -394,6 +414,28 @@
             "otherIdentifier": "",
             "shortTitle": "Kornemann 1906",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://resource.manto.unh.edu/10159384",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "citationDetail": "10159384: Potamos Deiradiotes",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "MANTO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/378240DPoD",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Place 378240DPoD: Potamos Deiradiotes",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
