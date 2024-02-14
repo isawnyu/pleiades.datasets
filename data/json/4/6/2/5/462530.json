@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        15.0,
-        37.5,
-        15.5,
-        38.0
+        15.1132178,
+        37.529051,
+        15.1132178,
+        37.529051
     ],
     "connections": [
         {
@@ -104,38 +104,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            37.5
-                        ],
-                        [
-                            15.5,
-                            37.5
-                        ],
-                        [
-                            15.5,
-                            38.0
-                        ],
-                        [
-                            15.0,
-                            38.0
-                        ],
-                        [
-                            15.0,
-                            37.5
-                        ]
-                    ]
+                    15.1132178,
+                    37.529051
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-ognina",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/462530/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/462530/osm-location-of-modern-ognina",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of modern Ognina"
             },
             "type": "Feature"
         }
@@ -176,113 +156,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T15:15:39Z",
+            "contributors": [],
+            "created": "2024-02-13T02:59:30Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            37.5
-                        ],
-                        [
-                            15.5,
-                            37.5
-                        ],
-                        [
-                            15.5,
-                            38.0
-                        ],
-                        [
-                            15.0,
-                            38.0
-                        ],
-                        [
-                            15.0,
-                            37.5
-                        ]
-                    ]
+                    15.1132178,
+                    37.529051
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:24:08Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-11T20:01:34Z",
+                    "modified": "2024-02-13T18:19:41Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-11T15:24:52Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-13T03:00:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2024-02-13T03:00:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-02-13T02:59:31Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-11T15:15:39Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-13T02:59:30Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-modern-ognina",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 47 G3 Ulixis Portus",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1356739203, version 7, osm:changeset=86939430, 2020-06-21T16:13:05Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1356739203",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1356739203",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1356739203",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/462530/batlas-location"
+            "start": 2000,
+            "title": "OSM location of modern Ognina",
+            "uri": "https://pleiades.stoa.org/places/462530/osm-location-of-modern-ognina"
         }
     ],
     "names": [
@@ -416,8 +380,8 @@
         }
     ],
     "reprPoint": [
-        15.25,
-        37.75
+        15.1132178,
+        37.529051
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
