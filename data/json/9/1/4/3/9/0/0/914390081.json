@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        29.105772,
-        36.620899,
-        29.105772,
-        36.620899
+        29.111872,
+        36.618992,
+        29.111872,
+        36.618992
     ],
     "connections": [
         {
@@ -56,8 +56,15 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/639137"
     ],
-    "contributors": [],
-    "created": "2018-06-05T14:29:56Z",
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        }
+    ],
+    "created": "2024-02-13T22:39:49Z",
     "creators": [
         {
             "homepage": null,
@@ -66,10 +73,34 @@
             "username": "jbecker"
         }
     ],
-    "description": "The ancient Theater at Telmessos with 1,500 seats dates to the latter days of the Pergamene empire.",
+    "description": "A small theater, located on the north slope of the acropolis at Telmessos.",
     "details": "",
-    "features": [],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    29.111872,
+                    36.618992
+                ],
+                "type": "Point"
+            },
+            "id": "vici-org-location",
+            "properties": {
+                "description": "Location verified in Google Earth.",
+                "link": "https://pleiades.stoa.org/places/914390081/vici-org-location",
+                "location_precision": "precise",
+                "snippet": "Ruin, Theatre",
+                "title": "Vici.org location"
+            },
+            "type": "Feature"
+        }
+    ],
     "history": [
+        {
+            "comment": "title; summary; removed Livius reference (transferred to other theater entry); added Theatrum reference; added vici.org reference; updated Locations",
+            "modified": "2024-02-14T14:42:25Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2024-02-13T22:39:47Z",
@@ -107,31 +138,130 @@
         }
     ],
     "id": "914390081",
-    "locations": [],
+    "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/vici-org-25m",
+            "accuracy_value": 25.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2024-02-13T22:49:29Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location verified in Google Earth.",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "ruin",
+                "theatre"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin",
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre"
+            ],
+            "geometry": {
+                "coordinates": [
+                    29.111872,
+                    36.618992
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-02-14T14:42:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-02-13T22:50:01Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-02-13T22:49:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-02-13T22:49:29Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "vici-org-location",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin",
+                "https://pleiades.stoa.org/vocabularies/place-types/theatre"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://vici.org/vici/29018/",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+                    "citationDetail": "29018: Telmessos, Smaller Theatre",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "vici.org",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Vici.org location",
+            "uri": "https://pleiades.stoa.org/places/914390081/vici-org-location"
+        }
+    ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/ruin",
         "https://pleiades.stoa.org/vocabularies/place-types/theatre"
     ],
     "placeTypes": [
+        "ruin",
         "theatre"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "http://www.livius.org/articles/place/telmessus-fethiye/",
+            "accessURI": "https://www.theatrum.de/799.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NC5FZPQN",
+            "citationDetail": "799: Telmessos, Theater 2 (Lycia et Pamphylia)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Livius.org: Telmessus (Fethiye)",
+            "formattedCitation": "<div class=\"csl-entry\">Gogräfe, Rüdiger, and Hubertus Mikler. <i>Theatrum</i>. Mainz: Direktion Landesarchäologie Mainz, 2011. http://www.theatrum.de.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Theatrum",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://vici.org/vici/29018/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "29018: Telmessos, Smaller Theatre",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        29.105772,
-        36.620899
+        29.111872,
+        36.618992
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -139,7 +269,7 @@
         "Theater",
         "extant remains"
     ],
-    "title": "Theater at Telmessos",
+    "title": "Theater 2 (Telmessos)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/914390081"
 }
