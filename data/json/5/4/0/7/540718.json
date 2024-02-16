@@ -1,14 +1,18 @@
 {
     "@type": "Place",
     "bbox": [
-        22.0,
-        38.0,
-        22.5,
-        38.5
+        22.4390585,
+        38.3996559,
+        22.4390585,
+        38.3996559
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
         {
             "homepage": null,
             "name": "Sean Gillies",
@@ -22,7 +26,7 @@
             "username": "jbecker"
         },
         {
-            "name": "R. Talbert",
+            "name": "G. Reger",
             "username": null
         },
         {
@@ -30,10 +34,6 @@
             "name": "Perry Scalfano",
             "uri": "https://pleiades.stoa.org/author/pscalfano",
             "username": "pscalfano"
-        },
-        {
-            "name": "G. Reger",
-            "username": null
         },
         {
             "homepage": null,
@@ -59,38 +59,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.0,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            38.5
-                        ],
-                        [
-                            22.0,
-                            38.5
-                        ],
-                        [
-                            22.0,
-                            38.0
-                        ]
-                    ]
+                    22.4390585,
+                    38.3996559
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-bay-of-itea",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/540718/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/540718/osm-location-of-bay-of-itea",
+                "location_precision": "precise",
+                "snippet": "Bay; AD 2000 - AD 2099",
+                "title": "OSM location of Bay of Itea"
             },
             "type": "Feature"
         }
@@ -136,114 +116,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "G. Reger",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-11-23T00:36:28Z",
+            "contributors": [],
+            "created": "2022-06-08T03:07:45Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "bay"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bay"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.0,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            38.0
-                        ],
-                        [
-                            22.5,
-                            38.5
-                        ],
-                        [
-                            22.0,
-                            38.5
-                        ],
-                        [
-                            22.0,
-                            38.0
-                        ]
-                    ]
+                    22.4390585,
+                    38.3996559
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:05:07Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-23T14:13:52Z",
+                    "modified": "2024-02-15T15:02:00Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-23T00:47:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-14T21:48:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2022-06-08T03:08:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-06-08T03:07:45Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-23T00:36:28Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2022-06-08T03:07:45Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-bay-of-itea",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bay"
             ],
-            "provenance": "Barrington Atlas: BAtlas 55 C4 Crisaeus Sinus",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 297391339, version 3, osm:changeset=87453666, 2020-07-02T12:22:25Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/297391339",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 297391339",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=297391339",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/540718/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Bay of Itea",
+            "uri": "https://pleiades.stoa.org/places/540718/osm-location-of-bay-of-itea"
         }
     ],
     "names": [
@@ -476,8 +439,8 @@
         }
     ],
     "reprPoint": [
-        22.25,
-        38.25
+        22.4390585,
+        38.3996559
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

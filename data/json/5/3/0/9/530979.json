@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        20.206456,
-        39.1818,
-        20.206456,
-        39.1818
+        20.2014511,
+        39.1818636,
+        20.2016631,
+        39.1820174
     ],
     "connections": [],
     "connectsWith": [],
@@ -42,7 +42,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-06-24T13:47:44Z",
+    "created": "2024-02-15T15:24:38Z",
     "creators": [
         {
             "name": "W.M. Murray",
@@ -55,23 +55,51 @@
         {
             "geometry": {
                 "coordinates": [
-                    20.206456,
-                    39.1818
+                    [
+                        20.2014511,
+                        39.1819729
+                    ],
+                    [
+                        20.2015009,
+                        39.1818636
+                    ],
+                    [
+                        20.2016631,
+                        39.1819081
+                    ],
+                    [
+                        20.2016132,
+                        39.1820174
+                    ],
+                    [
+                        20.2014511,
+                        39.1819729
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-4680",
+            "id": "osm-location-of-ii3-ii-ii-i1-2i",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/530979/darmc-location-4680",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/530979/osm-location-of-ii3-ii-ii-i1-2i",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 4680"
+                "snippet": "Archaeological-site, Church-2; AD 300 - AD 640",
+                "title": "OSM location of Αγ. Μαρίνα"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "corrected link in TIB reference",
+            "modified": "2024-02-15T15:25:18Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-02-15T15:24:31Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "wikidata Agia Marina Otzia basilica (Q56240176)",
             "modified": "2024-02-15T00:32:10Z",
@@ -122,8 +150,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -135,87 +163,105 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:07:13Z",
+            "contributors": [],
+            "created": "2024-02-15T00:30:49Z",
             "creators": [
                 {
-                    "name": "W.M. Murray",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 4680",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site",
+                "church-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "geometry": {
                 "coordinates": [
-                    20.206456,
-                    39.1818
+                    [
+                        20.2014511,
+                        39.1819729
+                    ],
+                    [
+                        20.2015009,
+                        39.1818636
+                    ],
+                    [
+                        20.2016631,
+                        39.1819081
+                    ],
+                    [
+                        20.2016132,
+                        39.1820174
+                    ],
+                    [
+                        20.2014511,
+                        39.1819729
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:00:38Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:57:39Z",
+                    "modified": "2024-02-15T15:24:01Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T19:07:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-15T00:31:18Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:07:14Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-02-15T00:31:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-02-15T00:30:49Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:07:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-15T00:30:49Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-4680",
+            "id": "osm-location-of-ii3-ii-ii-i1-2i",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
-            "provenance": "DARMC OBJECTID: 4680",
+            "provenance": "OpenStreetMap (Way 1189823494, version 2, osm:changeset=147470892, 2024-02-15T00:30:23Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1189823494",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "4680",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1189823494",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 4680.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1189823494",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 4680",
-            "uri": "https://pleiades.stoa.org/places/530979/darmc-location-4680"
+            "title": "OSM location of Αγ. Μαρίνα",
+            "uri": "https://pleiades.stoa.org/places/530979/osm-location-of-ii3-ii-ii-i1-2i"
         }
     ],
     "names": [],
@@ -241,7 +287,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "https://www.tib.oeaw.ac.at/tib-register/tib3",
+            "accessURI": "https://tib.oeaw.ac.at/static/reader/TIB/tib3.html#page/228/mode/2up",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9QBDJWZT",
             "citationDetail": "227-28 Paxos",
@@ -272,11 +318,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "4680",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        20.206456,
-        39.1818
+        20.201557085004175,
+        39.18194049246063
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
