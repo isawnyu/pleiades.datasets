@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2024/02/11 06:48:6.128029 US/Eastern
+# Date: 2024/02/18 06:48:5.417265 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4479
+# Triple count: 4538
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -134,6 +134,11 @@
     rdfs:label "Pollition";
     rdfs:comment "Doublet for https://pleiades.stoa.org/places/416845.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/438812> .
+
+<https://pleiades.stoa.org/errata/541027%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Perraibia (withdrawn)";
+    rdfs:comment "Doublet via Barrington Atlas for 491689.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/541027> .
 
 <https://pleiades.stoa.org/errata/550420%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Erratum: Aisepos (river)";
@@ -474,6 +479,10 @@
 <http://atlantides.org/capgrids/18%23this-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[9.0, 45.0], [9.0, 49.0], [3.0, 49.0], [3.0, 45.0], [9.0, 45.0]]]}";
     osgeo:asWKT "POLYGON ((9.0000000000000000 45.0000000000000000, 9.0000000000000000 49.0000000000000000, 3.0000000000000000 49.0000000000000000, 3.0000000000000000 45.0000000000000000, 9.0000000000000000 45.0000000000000000))" .
+
+<http://atlantides.org/capgrids/55%23B1-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[22.0, 39.5], [22.0, 40.0], [21.5, 40.0], [21.5, 39.5], [22.0, 39.5]]]}";
+    osgeo:asWKT "POLYGON ((22.0000000000000000 39.5000000000000000, 22.0000000000000000 40.0000000000000000, 21.5000000000000000 40.0000000000000000, 21.5000000000000000 39.5000000000000000, 22.0000000000000000 39.5000000000000000))" .
 
 <http://atlantides.org/capgrids/56%23E2-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[27.5, 39.5], [27.5, 40.0], [27.0, 40.0], [27.0, 39.5], [27.5, 39.5]]]}";
@@ -1657,6 +1666,57 @@
     pleiades:nameRomanized "Pollition";
     pleiades:start_date -550 .
 
+<https://pleiades.stoa.org/errata/541027> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    osspatial:within <http://atlantides.org/capgrids/55%23B1>;
+    dcterms:bibliographicCitation "";
+    dcterms:contributor <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/fossey-j>,
+        <https://pleiades.stoa.org/author/morin-j>;
+    dcterms:description "Doublet via Barrington Atlas for 491689.";
+    dcterms:modified "2024-02-13T17:07:36-05:00";
+    dcterms:title "Perraibia (withdrawn)";
+    cito:citesForInformation <http://atlantides.org/bibliography/r.html%23RE-Thessalia>,
+        <http://openlibrary.org/works/OL8327792W>;
+    owl:sameAs <http://pleiades.stoa.org/errata/541027>;
+    skos:altLabel "Perraibia";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 55 B1 Perraibia" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//plone/vocabularies/place-types/unknown>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/541027/batlas-location>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/541027/perraibia> .
+
+<https://pleiades.stoa.org/errata/541027/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/55%23B1>;
+    dcterms:contributor <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/fossey-j>,
+        <https://pleiades.stoa.org/author/morin-j>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T20:09:03-05:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/541027/batlas-location>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 55 B1 Perraibia" ] .
+
+<https://pleiades.stoa.org/errata/541027/perraibia> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:contributor <http://viaf.org/viaf/5046666>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/fossey-j>,
+        <https://pleiades.stoa.org/author/morin-j>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T20:09:03-05:00";
+    dcterms:title "Perraibia";
+    owl:sameAs <http://pleiades.stoa.org/errata/541027/perraibia>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 55 B1 Perraibia" ];
+    pleiades:nameRomanized "Perraibia" .
+
 <https://pleiades.stoa.org/errata/550420> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/56%23E2>;
@@ -2338,11 +2398,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -2361,11 +2421,11 @@
 
 <https://pleiades.stoa.org/errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87%23A4>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -2379,11 +2439,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -4557,6 +4617,8 @@
 <http://atlantides.org/capgrids/102%23G4> osgeo:extent <http://atlantides.org/capgrids/102%23G4-extent> .
 
 <http://atlantides.org/capgrids/102%23G5> osgeo:extent <http://atlantides.org/capgrids/102%23G5-extent> .
+
+<http://atlantides.org/capgrids/55%23B1> osgeo:extent <http://atlantides.org/capgrids/55%23B1-extent> .
 
 <http://atlantides.org/capgrids/56%23E2> osgeo:extent <http://atlantides.org/capgrids/56%23E2-extent> .
 
