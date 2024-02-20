@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        10.9996784,
-        45.4405054,
-        10.9996784,
-        45.4405054
+        10.9996314,
+        45.4405091,
+        10.9997254,
+        45.4405589
     ],
     "connections": [
         {
@@ -79,23 +79,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    10.9996784,
-                    45.4405054
+                    [
+                        10.9996375,
+                        45.4405091
+                    ],
+                    [
+                        10.9997254,
+                        45.4405529
+                    ],
+                    [
+                        10.9997194,
+                        45.4405589
+                    ],
+                    [
+                        10.9996314,
+                        45.4405151
+                    ],
+                    [
+                        10.9996375,
+                        45.4405091
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "location-of-porta-leoni",
+            "id": "osm-location-porta-leoni",
             "properties": {
-                "description": "Representative location derived from OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/333004588/location-of-porta-leoni",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/333004588/osm-location-porta-leoni",
                 "location_precision": "precise",
                 "snippet": "City-gate; 30 BC - AD 300",
-                "title": "OSM location of Porta Leoni"
+                "title": "OSM location: Porta Leoni"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add arachne",
+            "modified": "2024-02-16T23:11:32Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "updates",
             "modified": "2021-05-18T00:13:14Z",
@@ -136,8 +159,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
-            "accuracy_value": 5.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -150,7 +173,7 @@
                 }
             ],
             "contributors": [],
-            "created": "2013-02-24T03:33:48Z",
+            "created": "2024-02-16T23:12:21Z",
             "creators": [
                 {
                     "homepage": null,
@@ -159,7 +182,7 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Representative location derived from OpenStreetMap.",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
@@ -170,74 +193,81 @@
             ],
             "geometry": {
                 "coordinates": [
-                    10.9996784,
-                    45.4405054
+                    [
+                        10.9996375,
+                        45.4405091
+                    ],
+                    [
+                        10.9997254,
+                        45.4405529
+                    ],
+                    [
+                        10.9997194,
+                        45.4405589
+                    ],
+                    [
+                        10.9996314,
+                        45.4405151
+                    ],
+                    [
+                        10.9996375,
+                        45.4405091
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Edited",
-                    "modified": "2018-04-29T23:51:30Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2013-03-13T07:04:56Z",
+                    "modified": "2024-02-17T16:23:53Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2013-02-24T03:36:35Z",
+                    "modified": "2024-02-16T23:12:44Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "added location",
-                    "modified": "2013-02-24T03:34:22Z",
+                    "comment": "supersedes previously published location whose underlying OSM data is now deprecated",
+                    "modified": "2024-02-16T23:12:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-02-16T23:12:22Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2013-02-24T03:33:56Z",
+                    "modified": "2024-02-16T23:12:21Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-porta-leoni",
+            "id": "osm-location-porta-leoni",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
             ],
-            "provenance": "Pleiades",
+            "provenance": "OpenStreetMap (Way 694354426, version 21, osm:changeset=142607136, 2023-10-15T08:40:16Z)",
             "references": [
                 {
-                    "accessURI": "https://en.wikipedia.org/wiki/Porta_Leoni",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Porta Leoni",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Porta Leoni.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/270432310",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/694354426",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Node 270432310",
+                    "citationDetail": "Way 694354426",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "OSM Porta Leoni (270432310)",
-                    "otherIdentifier": " ",
+                    "formattedCitation": "osm:way=694354426",
+                    "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "OSM location of Porta Leoni",
-            "uri": "https://pleiades.stoa.org/places/333004588/location-of-porta-leoni"
+            "title": "OSM location: Porta Leoni",
+            "uri": "https://pleiades.stoa.org/places/333004588/osm-location-porta-leoni"
         }
     ],
     "names": [
@@ -354,11 +384,22 @@
             "otherIdentifier": "",
             "shortTitle": "GeoNames",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://arachne.dainst.org/entity/10024",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "citationDetail": "Verona, Porta Leoni Verona, Verona (Provinz)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arachne",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        10.9996784,
-        45.4405054
+        10.999678409110649,
+        45.44053399397595
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

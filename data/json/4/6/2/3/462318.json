@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/462492",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:45:35Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2024-02-19T21:38:44Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:45:35Z",
@@ -46,7 +58,19 @@
             ],
             "id": "462492",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/27X7UKZ6",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Tomasello, F. “L’edificio Termale Di Misterbianco. Problemi Di Metodologia Progettuale Antica.” <i>Cronache Di Archeologia e Di Storia Dell’arte</i> 31 (1992): 117–22.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Tomasello 1992",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Sicilia (island)",
@@ -198,6 +222,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2024-02-19T21:37:02Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2022-08-06T00:04:06Z",
@@ -652,7 +681,8 @@
     "subject": [
         "dare:major=0",
         "dare:ancient=0",
-        "dare:feature=villa"
+        "dare:feature=villa",
+        "baths"
     ],
     "title": "Misterbianco",
     "type": "FeatureCollection",
