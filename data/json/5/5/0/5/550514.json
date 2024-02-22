@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        26.166973,
-        39.015443,
-        26.166973,
-        39.015443
+        26.1701507,
+        39.0066955,
+        26.1701507,
+        39.0066955
     ],
     "connections": [
         {
@@ -145,23 +145,38 @@
         {
             "geometry": {
                 "coordinates": [
-                    26.166973,
-                    39.015443
+                    26.1701507,
+                    39.0066955
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-15944",
+            "id": "osm-location-of-ii-ii-ii1i-i1-2iii-i-ii-i-iii-ii",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/550514/darmc-location-15944",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/550514/osm-location-of-ii-ii-ii1i-i1-2iii-i-ii-i-iii-ii",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 15944"
+                "snippet": "Temple-2; 750 BC - AD 640",
+                "title": "OSM location of Ναός Διονύσου του Βρησαγενούς"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added link to Spencer 1985 reference",
+            "modified": "2024-02-21T21:57:57Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "clarified Spencer 1995 reference",
+            "modified": "2024-02-21T21:57:26Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-02-21T21:56:43Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add iDAI.gazetteer",
             "modified": "2024-02-21T03:16:10Z",
@@ -227,8 +242,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -264,95 +279,84 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-01T03:33:28Z",
+            "contributors": [],
+            "created": "2024-02-21T03:13:58Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 15944",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "temple-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    26.166973,
-                    39.015443
+                    26.1701507,
+                    39.0066955
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:17:40Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-01T13:47:36Z",
+                    "modified": "2024-02-21T21:56:11Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-01T03:33:29Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-21T03:15:04Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-01T03:33:29Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2024-02-21T03:14:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-02-21T03:13:58Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-01T03:33:28Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-21T03:13:58Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-15944",
+            "id": "osm-location-of-ii-ii-ii1i-i1-2iii-i-ii-i-iii-ii",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "DARMC OBJECTID: 15944",
+            "provenance": "OpenStreetMap (Node 364713466, version 9, osm:changeset=147715297, 2024-02-21T03:13:22Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/364713466",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15944",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 364713466",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15944.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=364713466",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 15944",
-            "uri": "https://pleiades.stoa.org/places/550514/darmc-location-15944"
+            "title": "OSM location of Ναός Διονύσου του Βρησαγενούς",
+            "uri": "https://pleiades.stoa.org/places/550514/osm-location-of-ii-ii-ii1i-i1-2iii-i-ii-i-iii-ii"
         }
     ],
     "names": [
@@ -493,10 +497,10 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.fulcrum.org/epubs/xp68kj254#page=29",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JZ6Z352A",
-            "citationDetail": "17",
+            "citationDetail": "page 17 number 74 Agios Phokas (Brisa)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Spencer, Nigel. <i>A Gazetteer of Archaeological Sites in Lesbos</i>. BAR International Series 623. Oxford, England: Tempus Reparatum, 1995.</div>",
             "otherIdentifier": "",
@@ -535,11 +539,22 @@
             "otherIdentifier": "",
             "shortTitle": "iDAI.gazetteer",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15944",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        26.166973,
-        39.015443
+        26.1701507,
+        39.0066955
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
