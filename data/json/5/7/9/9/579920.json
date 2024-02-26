@@ -6,8 +6,84 @@
         23.537401,
         38.041101
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/579888",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2024-02-25T19:49:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-02-26T03:47:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "reference",
+                    "modified": "2024-02-26T03:47:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-02-25T19:49:28Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-02-25T19:49:11Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-02-25T19:49:10Z",
+                    "modifiedBy": "cdlisle"
+                }
+            ],
+            "id": "attica",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Elefsina",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Elefsina",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Attica",
+            "uri": "https://pleiades.stoa.org/places/579920/attica"
+        }
+    ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/579888",
         "https://pleiades.stoa.org/places/935032928",
         "https://pleiades.stoa.org/places/585954",
         "https://pleiades.stoa.org/places/579910",
@@ -65,7 +141,7 @@
             "username": "cdlisle"
         }
     ],
-    "created": "2024-02-22T22:11:27Z",
+    "created": "2024-02-25T19:47:21Z",
     "creators": [
         {
             "name": "J.S. Traill",
@@ -95,6 +171,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add AIO findspot; add type \"deme\"; update references",
+            "modified": "2024-02-26T03:47:05Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add AIO original location; update summary",
             "modified": "2024-02-23T11:13:22Z",
@@ -499,10 +580,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/deme-attic"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "deme-attic"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 B2 Eleusis",
     "references": [
@@ -663,12 +746,12 @@
         {
             "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=37407",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
             "citationDetail": "Toponyme 37407: Eleusis, Elefsis, Elefsina, Lepsina",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Greta Hawes, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
             "otherIdentifier": "",
-            "shortTitle": "MANTO",
+            "shortTitle": "CFL/AGO",
             "type": "seeFurther"
         },
         {
@@ -698,6 +781,17 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZPCURT27",
             "citationDetail": "Original Location: Eleusis",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. <i>Attic Inscriptions Online</i>. Athens: British School at Athens, 2012. https://www.atticinscriptions.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AIO",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.atticinscriptions.com/browse/byfindspot/eleusis/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZPCURT27",
+            "citationDetail": "Findspot: Eleusis",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. <i>Attic Inscriptions Online</i>. Athens: British School at Athens, 2012. https://www.atticinscriptions.com/.</div>",
             "otherIdentifier": "",

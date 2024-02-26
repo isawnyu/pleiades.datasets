@@ -6,24 +6,109 @@
         23.944646,
         38.00766
     ],
-    "connections": [],
-    "connectsWith": [],
-    "contributors": [
+    "connections": [
         {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/579888",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2024-02-24T00:17:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-02-25T01:18:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "reference",
+                    "modified": "2024-02-25T01:17:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-02-24T00:18:40Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "action": "Retract",
+                    "modified": "2024-02-24T00:18:29Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-02-24T00:18:17Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-02-24T00:17:34Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-02-24T00:17:34Z",
+                    "modifiedBy": "cdlisle"
+                }
+            ],
+            "id": "attica",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q13526343",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Teithras (Q13526343)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Attica",
+            "uri": "https://pleiades.stoa.org/places/580115/attica"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/579888"
+    ],
+    "contributors": [
         {
             "name": "DARMC",
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -33,24 +118,32 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Chris de Lisle",
+            "uri": "https://pleiades.stoa.org/author/cdlisle",
+            "username": "cdlisle"
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2018-06-07T21:15:21Z",
+    "created": "2024-02-24T00:15:14Z",
     "creators": [
         {
             "name": "J.S. Traill",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 59 C2 Teithras",
-    "details": "The Barrington Atlas Directory notes: Pikermi [II - coast - 4]",
+    "description": "Teithras was an inland deme of Aigeis in Attica.",
+    "details": "<p>The Barrington Atlas Directory notes: Pikermi [II - coast - 4]</p>",
     "features": [
         {
             "geometry": {
@@ -90,6 +183,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add AIO orig loc; updated summary; updated Connections; add wikidata Teithras (Q13526343); edit summary",
+            "modified": "2024-02-25T01:16:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T21:15:25Z",
@@ -450,22 +548,24 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/deme-attic"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "deme-attic"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 C2 Teithras",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "59 C2 Teithras",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 59 C2 Teithras",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -500,6 +600,28 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.atticinscriptions.com/browse/byoriginallocation/teithras/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZPCURT27",
+            "citationDetail": "Original Location: Teithras",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. <i>Attic Inscriptions Online</i>. Athens: British School at Athens, 2012. https://www.atticinscriptions.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AIO",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q13526343",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Teithras (Q13526343)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [

@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "in",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/in",
             "connectsTo": "https://pleiades.stoa.org/places/579888",
-            "contributors": [],
-            "created": "2016-07-13T13:50:47Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
+                }
+            ],
+            "created": "2024-02-22T23:18:20Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "clarify",
+                    "modified": "2024-02-23T17:18:24Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Baseline created",
                     "modified": "2024-02-22T23:18:20Z",
@@ -60,7 +72,6 @@
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/579888",
-        "https://pleiades.stoa.org/places/579888",
         "https://pleiades.stoa.org/places/982593692"
     ],
     "contributors": [
@@ -86,6 +97,12 @@
         },
         {
             "homepage": null,
+            "name": "Chris de Lisle",
+            "uri": "https://pleiades.stoa.org/author/cdlisle",
+            "username": "cdlisle"
+        },
+        {
+            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
@@ -103,14 +120,14 @@
             "username": "thomase"
         }
     ],
-    "created": "2018-06-07T21:34:40Z",
+    "created": "2024-02-22T23:15:26Z",
     "creators": [
         {
             "name": "J.S. Traill",
             "username": null
         }
     ],
-    "description": "An ancient settlement and deme of Attica.",
+    "description": "An ancient settlement and inland deme of the tribe Aigeis, in Attica.",
     "details": "<p>The Barrington Atlas Directory notes: Dionyso [I(XI) - city* - 4/5(6)]</p>",
     "features": [
         {
@@ -151,6 +168,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add orig loc on AIO, update summary",
+            "modified": "2024-02-23T17:18:51Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-06-04T21:52:08Z",
@@ -536,10 +558,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/deme-attic"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "deme-attic"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 C2 Ikarion",
     "references": [
@@ -630,6 +654,17 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.atticinscriptions.com/browse/byoriginallocation/ikarion/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZPCURT27",
+            "citationDetail": "Original Location: Ikarion",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. <i>Attic Inscriptions Online</i>. Athens: British School at Athens, 2012. https://www.atticinscriptions.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AIO",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [

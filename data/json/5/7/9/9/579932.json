@@ -1,16 +1,22 @@
 {
     "@type": "Place",
     "bbox": [
-        23.732075,
-        37.913631,
-        23.742688,
-        37.920104
+        23.7414,
+        37.9159,
+        23.7414,
+        37.9159
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/981502"
+    ],
     "contributors": [
         {
             "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -20,14 +26,16 @@
             "username": "bkiesling"
         },
         {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Chris de Lisle",
+            "uri": "https://pleiades.stoa.org/author/cdlisle",
+            "username": "cdlisle"
         },
         {
             "homepage": null,
@@ -42,7 +50,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2018-06-08T10:52:48Z",
+    "created": "2024-02-22T22:15:48Z",
     "creators": [
         {
             "name": "J.S. Traill",
@@ -55,41 +63,33 @@
         {
             "geometry": {
                 "coordinates": [
-                    23.732075,
-                    37.913631
+                    23.7414,
+                    37.9159
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-3443",
+            "id": "topos-text-location-euonymon-attica",
             "properties": {
-                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/579932/darmc-location-3443",
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/579932/topos-text-location-euonymon-attica",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "DARMC location 3443"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    23.742688,
-                    37.920104
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-22831",
-            "properties": {
-                "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/579932/darmc-location-22831",
-                "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "DARMC location 22831"
+                "snippet": "Settlement; 550 BC - AD 300",
+                "title": "Topos Text Location: Euonymon (Attica)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-02-23T11:30:50Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "add AIO orig loc and Humphreys; updated Locations with Topos text location based on archaeological finds (should supersede existing location records)",
+            "modified": "2024-02-23T11:29:05Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2022-03-09T22:06:14Z",
@@ -160,9 +160,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/topostext-high-confidence",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -187,194 +187,89 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-09T18:58:30Z",
+            "created": "2024-02-22T22:32:55Z",
             "creators": [
                 {
-                    "name": "J.S. Traill",
-                    "username": null
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
                 }
             ],
-            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 3443",
+            "description": "",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    23.732075,
-                    37.913631
+                    23.7414,
+                    37.9159
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:41:18Z",
-                    "modifiedBy": "admin"
+                    "comment": "representative location",
+                    "modified": "2024-02-23T11:33:34Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:56:49Z",
+                    "modified": "2024-02-23T11:29:13Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T18:58:31Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-22T22:34:08Z",
+                    "modifiedBy": "cdlisle"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:58:31Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add coordinates (should supersede existing)",
+                    "modified": "2024-02-22T22:32:55Z",
+                    "modifiedBy": "cdlisle"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T18:58:30Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-22T22:32:55Z",
+                    "modifiedBy": "cdlisle"
                 }
             ],
-            "id": "darmc-location-3443",
+            "id": "topos-text-location-euonymon-attica",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 3443",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://topostext.org/place/379237DEuo",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "3443",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Euonymon (Attica)",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 3443.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 3443",
-            "uri": "https://pleiades.stoa.org/places/579932/darmc-location-3443"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:23:07Z",
-            "creators": [
-                {
-                    "name": "J.S. Traill",
-                    "username": null
-                }
-            ],
-            "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 22831",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    23.742688,
-                    37.920104
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:41:18Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T04:56:49Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-03-10T01:23:08Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:23:08Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-03-10T01:23:07Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-22831",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 22831",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22831",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22831.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -550,
-            "title": "DARMC location 22831",
-            "uri": "https://pleiades.stoa.org/places/579932/darmc-location-22831"
+            "title": "Topos Text Location: Euonymon (Attica)",
+            "uri": "https://pleiades.stoa.org/places/579932/topos-text-location-euonymon-attica"
         }
     ],
     "names": [
@@ -573,11 +468,44 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.atticinscriptions.com/browse/byoriginallocation/euonymon/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZPCURT27",
+            "citationDetail": "Original Location: Euonymon",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. <i>Attic Inscriptions Online</i>. Athens: British School at Athens, 2012. https://www.atticinscriptions.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AIO",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.oxfordscholarship.com/view/10.1093/oso/9780198788249.001.0001/oso-9780198788249",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TYZ2LH2N",
+            "citationDetail": "814-820",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Humphreys, S. C. <i>Kinship in Ancient Athens: An Anthropological Analysis</i>. 2 vols. Oxford University Press, 2018. https://www.oxfordscholarship.com/view/10.1093/oso/9780198788249.001.0001/oso-9780198788249.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Humphreys 2018",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3443 and 22831",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.737381499999998,
-        37.9168675
+        23.7414,
+        37.9159
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

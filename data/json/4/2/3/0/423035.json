@@ -10,24 +10,55 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/699256589",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:01:52Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 2100,
             "history": [
+                {
+                    "comment": "type, reference",
+                    "modified": "2024-02-24T22:11:00Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:01:52Z",
@@ -46,16 +77,29 @@
             ],
             "id": "699256589",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Sant%27Agnese_fuori_le_mura",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Sant'Agnese fuori le mura",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": 300,
             "title": "Via Nomentana",
             "uri": "https://pleiades.stoa.org/places/423035/699256589"
         }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/699256589",
-        "https://pleiades.stoa.org/places/528606605"
+        "https://pleiades.stoa.org/places/528606605",
+        "https://pleiades.stoa.org/places/694984908"
     ],
     "contributors": [
         {
@@ -362,10 +406,12 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
         "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
         "https://pleiades.stoa.org/vocabularies/place-types/church"
     ],
     "placeTypes": [
+        "church-2",
         "cemetery",
         "church"
     ],

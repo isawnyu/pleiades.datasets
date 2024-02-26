@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        24.024606,
-        37.650263,
-        24.024606,
-        37.650263
+        24.0243873,
+        37.6501075,
+        24.0247924,
+        37.6503159
     ],
     "connections": [
         {
@@ -109,23 +109,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    24.024606,
-                    37.650263
+                    [
+                        24.0244317,
+                        37.6503159
+                    ],
+                    [
+                        24.0243873,
+                        37.6501827
+                    ],
+                    [
+                        24.0247481,
+                        37.6501075
+                    ],
+                    [
+                        24.0247924,
+                        37.6502406
+                    ],
+                    [
+                        24.0244317,
+                        37.6503159
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "dare-location",
+            "id": "osm-location-of-temple-of-poseidon",
             "properties": {
-                "description": "Representative point location, site precision",
-                "link": "https://pleiades.stoa.org/places/580086/dare-location",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/580086/osm-location-of-temple-of-poseidon",
                 "location_precision": "precise",
-                "snippet": "Temple-2, ; 550 BC - AD 300",
-                "title": "DARE Location"
+                "snippet": "Temple-2; 550 BC - AD 300",
+                "title": "OSM location of Temple of Poseidon"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2024-02-24T03:45:40Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added ref.",
             "modified": "2020-12-18T14:57:16Z",
@@ -201,8 +224,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -226,101 +249,102 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2024-02-24T04:07:01Z",
+            "creators": [
                 {
                     "homepage": null,
                     "name": "Jeffrey Becker",
                     "uri": "https://pleiades.stoa.org/author/jbecker",
                     "username": "jbecker"
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
                 }
             ],
-            "created": "2012-10-20T21:55:35Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "Representative point location, site precision",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "temple-2",
-                ""
+                "temple-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    24.024606,
-                    37.650263
+                    [
+                        24.0244317,
+                        37.6503159
+                    ],
+                    [
+                        24.0243873,
+                        37.6501827
+                    ],
+                    [
+                        24.0247481,
+                        37.6501075
+                    ],
+                    [
+                        24.0247924,
+                        37.6502406
+                    ],
+                    [
+                        24.0244317,
+                        37.6503159
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Edited",
-                    "modified": "2016-08-11T21:19:42Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2012-10-20T21:55:37Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-25T21:57:00Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2012-10-20T21:55:37Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-24T13:13:55Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-                    "modified": "2012-10-20T21:55:37Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-02-24T04:07:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-02-24T04:07:01Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2012-10-20T21:55:36Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-24T04:07:01Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "dare-location",
+            "id": "osm-location-of-temple-of-poseidon",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/temple-2",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "provenance": "OpenStreetMap (Way 32390705, version 26, osm:changeset=140205998, 2023-08-22T02:05:10Z)",
             "references": [
                 {
-                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/32390705",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "citationDetail": "Way 32390705",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=32390705",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARE Location",
-            "uri": "https://pleiades.stoa.org/places/580086/dare-location"
+            "title": "OSM location of Temple of Poseidon",
+            "uri": "https://pleiades.stoa.org/places/580086/osm-location-of-temple-of-poseidon"
         }
     ],
     "names": [
@@ -478,25 +502,25 @@
     "provenance": "Barrington Atlas: BAtlas 59 D4 Poseidon, T.",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "59 D4 Poseidon, T.",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 59 D4 Poseidon, T.",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DS%3Aentry+group%3D9%3Aentry%3Dsounion",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "SOUNION Attica, Greece",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), SOUNION Attica, Greece",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
         },
         {
@@ -556,8 +580,8 @@
         }
     ],
     "reprPoint": [
-        24.024606,
-        37.650263
+        24.024589850895737,
+        37.65021167460787
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.7248483,
-        37.9714911,
-        23.7249395,
-        37.9715474
+        23.7248373,
+        37.9715008,
+        23.724939,
+        37.9715578
     ],
     "connections": [
         {
@@ -100,10 +100,73 @@
             "start": -550,
             "title": "Acropolis of Athens",
             "uri": "https://pleiades.stoa.org/places/118337619/acropolis-of-athens"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "bounds",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/bounds",
+            "connectsTo": "https://pleiades.stoa.org/places/648120846",
+            "contributors": [],
+            "created": "2024-02-24T15:16:12Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-02-25T22:08:58Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-02-24T15:16:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2024-02-24T15:16:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-02-24T15:16:12Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "propylaea-at-athens",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://arachne.dainst.org/entity/5689",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+                    "citationDetail": "Tempel der Athena Nike Akropolis, (Ἀκρόπολις), Athen",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Arachne",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Propylaea at Athens",
+            "uri": "https://pleiades.stoa.org/places/118337619/propylaea-at-athens"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/638356144"
+        "https://pleiades.stoa.org/places/638356144",
+        "https://pleiades.stoa.org/places/648120846"
     ],
     "contributors": [
         {
@@ -143,40 +206,73 @@
             "geometry": {
                 "coordinates": [
                     [
-                        23.7248516,
-                        37.9715474
+                        [
+                            23.7249109,
+                            37.9715462
+                        ],
+                        [
+                            23.724907,
+                            37.9715097
+                        ],
+                        [
+                            23.7248648,
+                            37.9715125
+                        ],
+                        [
+                            23.7248687,
+                            37.971549
+                        ],
+                        [
+                            23.7249109,
+                            37.9715462
+                        ]
                     ],
                     [
-                        23.7249395,
-                        37.9715441
-                    ],
-                    [
-                        23.7249362,
-                        37.9714911
-                    ],
-                    [
-                        23.7248483,
-                        37.9714944
-                    ],
-                    [
-                        23.7248516,
-                        37.9715474
+                        [
+                            23.724939,
+                            37.9715514
+                        ],
+                        [
+                            23.7249336,
+                            37.9715008
+                        ],
+                        [
+                            23.7248373,
+                            37.9715072
+                        ],
+                        [
+                            23.7248427,
+                            37.9715578
+                        ],
+                        [
+                            23.7248585,
+                            37.9715568
+                        ],
+                        [
+                            23.724939,
+                            37.9715514
+                        ]
                     ]
                 ],
-                "type": "LineString"
+                "type": "MultiLineString"
             },
-            "id": "osm-location-of-athena-nike-temple",
+            "id": "osm-location-athena-nike-temple",
             "properties": {
                 "description": "Representative location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/118337619/osm-location-of-athena-nike-temple",
+                "link": "https://pleiades.stoa.org/places/118337619/osm-location-athena-nike-temple",
                 "location_precision": "precise",
-                "snippet": "Temple-2; 550 BC - AD 300",
-                "title": "OSM location of Athena Nike Temple"
+                "snippet": "Temple-2; 500 BC - AD 300",
+                "title": "OSM location: Athena Nike Temple"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2024-02-24T15:14:22Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "GeoNames, Arachne, DARE",
             "modified": "2021-01-29T01:35:37Z",
@@ -236,8 +332,8 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "fifth-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fifth-bce"
                 },
                 {
                     "confidence": "confident",
@@ -258,22 +354,22 @@
                     "name": "Jeffrey Becker",
                     "uri": "https://pleiades.stoa.org/author/jbecker",
                     "username": "jbecker"
-                },
+                }
+            ],
+            "created": "2024-02-24T15:12:02Z",
+            "creators": [
                 {
                     "homepage": null,
                     "name": "Thomas Landvatter",
                     "uri": "https://pleiades.stoa.org/author/tlandvatter",
                     "username": "tlandvatter"
-                }
-            ],
-            "created": "2021-01-29T01:26:31Z",
-            "creators": [
-                {
-                    "name": "Hector Meredith",
-                    "username": null
                 },
                 {
                     "name": "Katha Rajan",
+                    "username": null
+                },
+                {
+                    "name": "Hector Meredith",
                     "username": null
                 }
             ],
@@ -289,85 +385,113 @@
             "geometry": {
                 "coordinates": [
                     [
-                        23.7248516,
-                        37.9715474
+                        [
+                            23.7249109,
+                            37.9715462
+                        ],
+                        [
+                            23.724907,
+                            37.9715097
+                        ],
+                        [
+                            23.7248648,
+                            37.9715125
+                        ],
+                        [
+                            23.7248687,
+                            37.971549
+                        ],
+                        [
+                            23.7249109,
+                            37.9715462
+                        ]
                     ],
                     [
-                        23.7249395,
-                        37.9715441
-                    ],
-                    [
-                        23.7249362,
-                        37.9714911
-                    ],
-                    [
-                        23.7248483,
-                        37.9714944
-                    ],
-                    [
-                        23.7248516,
-                        37.9715474
+                        [
+                            23.724939,
+                            37.9715514
+                        ],
+                        [
+                            23.7249336,
+                            37.9715008
+                        ],
+                        [
+                            23.7248373,
+                            37.9715072
+                        ],
+                        [
+                            23.7248427,
+                            37.9715578
+                        ],
+                        [
+                            23.7248585,
+                            37.9715568
+                        ],
+                        [
+                            23.724939,
+                            37.9715514
+                        ]
                     ]
                 ],
-                "type": "LineString"
+                "type": "MultiLineString"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2021-01-29T01:27:32Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2024-02-25T22:07:18Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2021-01-29T01:27:27Z",
+                    "modified": "2024-02-24T15:13:30Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2021-01-29T01:27:20Z",
+                    "comment": "update creators based on prev published location",
+                    "modified": "2024-02-24T15:13:19Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Initial revision",
-                    "modified": "2021-01-29T01:26:51Z",
+                    "comment": "supersedes previously published location.",
+                    "modified": "2024-02-24T15:12:32Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2021-01-29T01:26:31Z",
+                    "modified": "2024-02-24T15:12:02Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2021-01-29T01:26:31Z",
+                    "modified": "2024-02-24T15:12:02Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "osm-location-of-athena-nike-temple",
+            "id": "osm-location-athena-nike-temple",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "OpenStreetMap (Way 144928411, version 11, osm:changeset=58157934, 2018-04-17T06:19:30Z)",
+            "provenance": "OpenStreetMap (Relation 12352554, version 5, osm:changeset=140162727, 2023-08-21T06:03:57Z)",
             "references": [
                 {
-                    "accessURI": "https://www.openstreetmap.org/browse/way/144928411",
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/12352554",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Way 144928411",
+                    "citationDetail": "Relation 12352554",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:way=144928411",
+                    "formattedCitation": "osm:relation=12352554",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -550,
-            "title": "OSM location of Athena Nike Temple",
-            "uri": "https://pleiades.stoa.org/places/118337619/osm-location-of-athena-nike-temple"
+            "start": -500,
+            "title": "OSM location: Athena Nike Temple",
+            "uri": "https://pleiades.stoa.org/places/118337619/osm-location-athena-nike-temple"
         }
     ],
     "names": [
@@ -662,15 +786,15 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://arachne.uni-koeln.de/item/bauwerk/2100111",
+            "accessURI": "https://arachne.dainst.org/entity/5689",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
-            "citationDetail": "2100111: Tempel der Athena Nike Ἀκρόπολις, Athen",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationDetail": "Tempel der Athena Nike Akropolis, (Ἀκρόπολις), Athen",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Arachne",
-            "type": "seeFurther"
+            "type": "citesAsRelated"
         },
         {
             "accessURI": "http://dare.ht.lu.se/",
@@ -696,8 +820,8 @@
         }
     ],
     "reprPoint": [
-        23.724893899999998,
-        37.97151925
+        23.724888045664233,
+        37.97152932276353
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

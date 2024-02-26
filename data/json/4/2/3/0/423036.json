@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/699256589",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:01:52Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "change type, add reference",
+                    "modified": "2024-02-24T22:26:33Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:01:52Z",
@@ -46,7 +58,19 @@
             ],
             "id": "699256589",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://it.wikipedia.orghttps://it.wikipedia.org/wiki/Catacombe_di_Sant'Alessandro",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
+                    "citationDetail": "Catacombe di Sant'Alessandro",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Via Nomentana",
@@ -208,6 +232,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata",
+            "modified": "2024-02-24T22:12:34Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2024-01-07T01:14:41Z",
@@ -700,6 +729,17 @@
             "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18081.",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3663208",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Catacombs of Sant'Alessandro (Q3663208)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
             "type": "citesAsRelated"
         }
     ],

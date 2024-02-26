@@ -252,16 +252,21 @@
             },
             "id": "osm-location-of-the-piazzale-delle-corporazioni",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/489630692/osm-location-of-the-piazzale-delle-corporazioni",
                 "location_precision": "precise",
-                "snippet": "Plaza; 30 BC - AD 300",
+                "snippet": "Forum; 30 BC - AD 300",
                 "title": "OSM Location of the Piazzale delle Corporazioni"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "change deprecated place type to forum",
+            "modified": "2024-02-25T00:36:28Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added Arachne x2",
             "modified": "2021-04-23T18:21:40Z",
@@ -326,6 +331,12 @@
                     "name": "Tom Elliott",
                     "uri": "https://pleiades.stoa.org/author/telliott",
                     "username": "telliott"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2020-07-20T15:08:46Z",
@@ -337,14 +348,14 @@
                     "username": "thomase"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "plaza"
+                "forum"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza"
+                "https://pleiades.stoa.org/vocabularies/place-types/forum"
             ],
             "geometry": {
                 "coordinates": [
@@ -376,6 +387,11 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "change deprecated location type to forum",
+                    "modified": "2024-02-25T00:37:01Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2022-05-19T11:41:33Z",
@@ -427,7 +443,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza"
+                "https://pleiades.stoa.org/vocabularies/place-types/forum"
             ],
             "provenance": "OpenStreetMap (Way 52050483, version 4, osm:changeset=16643099, 2013-06-21T12:20:45Z)",
             "references": [
@@ -530,10 +546,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/plaza"
+        "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+        "https://pleiades.stoa.org/vocabularies/place-types/forum"
     ],
     "placeTypes": [
-        "plaza"
+        "plaza",
+        "forum"
     ],
     "provenance": "Pleiades",
     "references": [
