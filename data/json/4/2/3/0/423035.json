@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.518927,
-        41.922899,
-        12.518927,
-        41.922899
+        12.5168366,
+        41.9227681,
+        12.51876,
+        41.9234444
     ],
     "connections": [
         {
@@ -146,23 +146,80 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.518927,
-                    41.922899
+                    12.51876,
+                    41.9227681
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-18080",
+            "id": "osm-location-of-catacombe-di-santagnese",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/423035/darmc-location-18080",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/423035/osm-location-of-catacombe-di-santagnese",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 18080"
+                "snippet": "Cemetery; 30 BC - AD 640",
+                "title": "OSM location of Catacombe di Sant'Agnese"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        12.5177792,
+                        41.9230826
+                    ],
+                    [
+                        12.5171499,
+                        41.9234444
+                    ],
+                    [
+                        12.516984,
+                        41.9234342
+                    ],
+                    [
+                        12.5168624,
+                        41.9233511
+                    ],
+                    [
+                        12.5168366,
+                        41.9232426
+                    ],
+                    [
+                        12.5168863,
+                        41.9231507
+                    ],
+                    [
+                        12.5174766,
+                        41.9227932
+                    ],
+                    [
+                        12.5175177,
+                        41.9228308
+                    ],
+                    [
+                        12.5177792,
+                        41.9230826
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-basilica-costantiniana-di-s-agnese",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/423035/osm-location-of-basilica-costantiniana-di-s-agnese",
+                "location_precision": "precise",
+                "snippet": "Church-2; AD 300 - AD 599",
+                "title": "OSM location of basilica costantiniana di S. Agnese"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-02-26T11:48:10Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2019-03-22T12:42:41Z",
@@ -218,9 +275,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -237,86 +294,224 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:08:36Z",
+            "contributors": [],
+            "created": "2024-02-24T21:00:56Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 18080",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "cemetery"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "geometry": {
                 "coordinates": [
-                    12.518927,
-                    41.922899
+                    12.51876,
+                    41.9227681
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:56:51Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-21T23:23:30Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-26T11:47:34Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T23:08:36Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-24T21:01:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-02-24T21:01:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-02-24T21:00:57Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T23:08:36Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-02-24T21:00:56Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18080",
+            "id": "osm-location-of-catacombe-di-santagnese",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
-            "provenance": "DARMC OBJECTID: 18080",
+            "provenance": "OpenStreetMap (Node 259555733, version 9, osm:changeset=141542716, 2023-09-21T06:45:38Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/259555733",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18080",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 259555733",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18080.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=259555733",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 18080",
-            "uri": "https://pleiades.stoa.org/places/423035/darmc-location-18080"
+            "title": "OSM location of Catacombe di Sant'Agnese",
+            "uri": "https://pleiades.stoa.org/places/423035/osm-location-of-catacombe-di-santagnese"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "fourth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fourth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "fifth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fifth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "sixth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/sixth-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-02-24T22:06:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 599,
+            "featureType": [
+                "church-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        12.5177792,
+                        41.9230826
+                    ],
+                    [
+                        12.5171499,
+                        41.9234444
+                    ],
+                    [
+                        12.516984,
+                        41.9234342
+                    ],
+                    [
+                        12.5168624,
+                        41.9233511
+                    ],
+                    [
+                        12.5168366,
+                        41.9232426
+                    ],
+                    [
+                        12.5168863,
+                        41.9231507
+                    ],
+                    [
+                        12.5174766,
+                        41.9227932
+                    ],
+                    [
+                        12.5175177,
+                        41.9228308
+                    ],
+                    [
+                        12.5177792,
+                        41.9230826
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-02-26T11:47:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-02-24T22:07:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-02-24T22:07:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-02-24T22:06:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-02-24T22:06:30Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-basilica-costantiniana-di-s-agnese",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
+            ],
+            "provenance": "OpenStreetMap (Way 23944398, version 4, osm:changeset=147872537, 2024-02-24T22:05:59Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/23944398",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 23944398",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=23944398",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 300,
+            "title": "OSM location of basilica costantiniana di S. Agnese",
+            "uri": "https://pleiades.stoa.org/places/423035/osm-location-of-basilica-costantiniana-di-s-agnese"
         }
     ],
     "names": [
@@ -449,11 +644,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18080",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.518927,
-        41.922899
+        12.518026788874039,
+        41.922953887252675
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
