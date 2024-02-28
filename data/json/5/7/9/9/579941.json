@@ -10,6 +10,80 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/579888",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2024-02-26T23:09:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-02-27T17:07:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "add wikipedia reference",
+                    "modified": "2024-02-27T15:39:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-02-26T23:12:00Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-02-26T23:09:51Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-02-26T23:09:50Z",
+                    "modifiedBy": "cdlisle"
+                }
+            ],
+            "id": "attica",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Halimus",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Halimus",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Attica",
+            "uri": "https://pleiades.stoa.org/places/579941/attica"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -108,6 +182,7 @@
         }
     ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/579888",
         "https://pleiades.stoa.org/places/579981"
     ],
     "contributors": [
@@ -150,7 +225,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2024-02-23T17:11:44Z",
+    "created": "2024-02-26T23:09:20Z",
     "creators": [
         {
             "name": "J.S. Traill",
@@ -198,6 +273,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add AIO findspot; updated Connections; add deme to place type; add wikidata, wikipedia references",
+            "modified": "2024-02-27T17:07:14Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "cleaned up references",
             "modified": "2024-02-23T17:16:01Z",
@@ -613,10 +693,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/deme-attic"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "deme-attic"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 B3 Halimous",
     "references": [
@@ -669,11 +751,11 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Alimos",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
-            "type": "seeFurther"
+            "type": "seeAlso"
         },
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:9.1.21",
@@ -717,6 +799,39 @@
             "formattedCitation": "<div class=\"csl-entry\">Humphreys, S. C. <i>Kinship in Ancient Athens: An Anthropological Analysis</i>. 2 vols. Oxford University Press, 2018. https://www.oxfordscholarship.com/view/10.1093/oso/9780198788249.001.0001/oso-9780198788249.</div>",
             "otherIdentifier": "",
             "shortTitle": "Humphreys 2018",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.atticinscriptions.com/browse/byfindspot/halimous/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZPCURT27",
+            "citationDetail": "Findspot: Halimous",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. <i>Attic Inscriptions Online</i>. Athens: British School at Athens, 2012. https://www.atticinscriptions.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AIO",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q13464895",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Halimous (Q13464895)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Halimus",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Halimus",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],
