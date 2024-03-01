@@ -42,8 +42,8 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "connectionType": "part_of_physical",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/579885",
             "contributors": [
                 {
@@ -72,6 +72,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "ctype",
+                    "modified": "2024-03-01T01:39:13Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "added reference, changed cnxn type",
                     "modified": "2020-11-24T20:37:30Z",
@@ -140,9 +145,15 @@
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
+        },
+        {
+            "homepage": null,
+            "name": "Chris de Lisle",
+            "uri": "https://pleiades.stoa.org/author/cdlisle",
+            "username": "cdlisle"
         }
     ],
-    "created": "2020-08-12T21:59:48Z",
+    "created": "2024-02-29T23:22:14Z",
     "creators": [
         {
             "name": "Celia Garb",
@@ -154,7 +165,7 @@
         }
     ],
     "description": "The Temple of Olympian Zeus is also known as the Olympieion. A colossal temple dedicated to Zeus, it was built in three stages, beginning in 515 BCE and ending in 131 CE.",
-    "details": "<p>The Temple of Olympian Zeus in Athens was constructed over three phases spanning approximately six-hundred fifty years. Construction initially began around 515 BCE under Peisistratid rule, but was abandoned upon their expulsion from Athens in 510 BCE. Antiochus Epiphanes IV of Syria began construction again in 175 BCE, but did not complete it. The Roman Emperor Hadrian ordered the completion of the Temple in 124 CE, and returned to Athens to see it finished in 131 CE. <br /><br />There is evidence that the temple was consistently used to host a cult to Olympian Zeus throughout its history, even prior to its completion. The temple was initially damaged by Emperor Valerian (r. 253-260 CE) when part of the precinct wall was reused for later construction. The temple was largely destroyed two to three hundred years later. The fate of most the columns is unknown, but at least one was taken down by an Ottoman governor.<br /><br />The site was excavated in 1883-1884 by Francis Penrose and in 1922 by Gabriel Welter; the area around it was explored by the Greek Archaeological Society in excavations from 1886 to 1907 and again in the 1960s by Ioannes Travlos.</p>",
+    "details": "<p>The Temple of Olympian Zeus in Athens was constructed over three phases spanning approximately six-hundred-fifty years. Construction initially began around 515 BCE under Peisistratid rule but was abandoned upon their expulsion from Athens in 510 BCE. Antiochus Epiphanes IV of Syria began construction again in 175 BCE but did not complete it. The Roman Emperor Hadrian ordered the completion of the Temple in 124 CE and returned to Athens to see it finished in 131 CE. <br /><br />There is evidence that the temple was consistently used to host a cult to Olympian Zeus throughout its history, even before its completion. Emperor Valerian initially damaged the temple (r. 253-260 CE) when part of the precinct wall was reused for later construction. The temple was largely destroyed two to three hundred years later. The fate of most of the columns is unknown, but an Ottoman governor took down at least one.<br /><br />The site was excavated in 1883-1884 by Francis Penrose and in 1922 by Gabriel Welter; the area around it was explored by the Greek Archaeological Society in excavations from 1886 to 1907 and again in the 1960s by Ioannes Travlos.</p>",
     "features": [
         {
             "geometry": {
@@ -194,6 +205,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "add AIO findspot; update references; add TGN 1099856: Olympieion (ruins)",
+            "modified": "2024-03-01T01:38:47Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-02-29T23:22:13Z",
+            "modifiedBy": "cdlisle"
+        },
         {
             "comment": "added Arachne 2100165: Tempel des Zeus Olympios / Olympieion Athenae / Athēnai, Athen (Regionalbezirk)",
             "modified": "2020-11-24T20:42:22Z",
@@ -681,15 +702,37 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://arachne.uni-koeln.de/item/bauwerk/2100165",
+            "accessURI": "https://arachne.dainst.org/entity/5740",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
-            "citationDetail": "2100165: Tempel des Zeus Olympios / Olympieion Athenae / Athēnai, Athen (Regionalbezirk)",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationDetail": "Tempel des Zeus Olympios / Olympieion Athen, (Athenae / Athēnai), Athen (Regionalbezirk)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Arachne",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.atticinscriptions.com/browse/byfindspot/olympieion/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZPCURT27",
+            "citationDetail": "Findspot: Olympieion",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. <i>Attic Inscriptions Online</i>. Athens: British School at Athens, 2012. https://www.atticinscriptions.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AIO",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://vocab.getty.edu/page/tgn/1099856",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "citationDetail": "1099856: Olympieion (ruins)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TGN",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
