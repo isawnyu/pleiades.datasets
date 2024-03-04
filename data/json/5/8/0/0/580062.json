@@ -11,6 +11,56 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/579888",
+            "contributors": [],
+            "created": "2024-02-29T23:25:17Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-03-01T14:52:01Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-02-29T23:25:34Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-02-29T23:25:18Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-02-29T23:25:17Z",
+                    "modifiedBy": "cdlisle"
+                }
+            ],
+            "id": "attica",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Attica",
+            "uri": "https://pleiades.stoa.org/places/580062/attica"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
             "connectionType": "connection",
             "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
             "connectsTo": "https://pleiades.stoa.org/places/579966",
@@ -512,6 +562,7 @@
         }
     ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/579888",
         "https://pleiades.stoa.org/places/579966",
         "https://pleiades.stoa.org/places/579988",
         "https://pleiades.stoa.org/places/570654",
@@ -581,7 +632,7 @@
             "username": "cdlisle"
         }
     ],
-    "created": "2024-02-23T01:59:36Z",
+    "created": "2024-02-29T23:24:09Z",
     "creators": [
         {
             "name": "J.S. Traill",
@@ -629,6 +680,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add AIO findspot; updated Connections",
+            "modified": "2024-03-01T14:51:53Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Update reference with links to Zotero",
             "modified": "2024-02-23T18:18:28Z",
@@ -1571,12 +1627,12 @@
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/region",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/deme-attic"
     ],
     "placeTypes": [
         "region",
         "settlement",
-        "fort"
+        "deme-attic"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 B3 Peiraieus",
     "references": [
@@ -1816,6 +1872,17 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZPCURT27",
             "citationDetail": "Original Location: Piraeus",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. <i>Attic Inscriptions Online</i>. Athens: British School at Athens, 2012. https://www.atticinscriptions.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AIO",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.atticinscriptions.com/browse/byfindspot/piraeus/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZPCURT27",
+            "citationDetail": "Findspot: Piraeus",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. <i>Attic Inscriptions Online</i>. Athens: British School at Athens, 2012. https://www.atticinscriptions.com/.</div>",
             "otherIdentifier": "",
