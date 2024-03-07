@@ -11,23 +11,40 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
-            "connectsTo": "https://pleiades.stoa.org/places/579885",
-            "contributors": [],
-            "created": "2016-07-13T13:50:53Z",
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/579888",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
+                }
+            ],
+            "created": "2024-03-06T15:19:26Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "Modify the target from Athens to Attica; Thymatiadai was outside the city of Athens",
+                    "modified": "2024-03-06T17:36:27Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2024-03-06T15:19:25Z",
+                    "modifiedBy": "cdlisle"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:50:54Z",
@@ -49,16 +66,20 @@
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Athenae",
+            "title": "Attica",
             "uri": "https://pleiades.stoa.org/places/580123/579885"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/579885"
+        "https://pleiades.stoa.org/places/579888"
     ],
     "contributors": [
         {
             "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -68,14 +89,16 @@
             "username": "bkiesling"
         },
         {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Chris de Lisle",
+            "uri": "https://pleiades.stoa.org/author/cdlisle",
+            "username": "cdlisle"
         },
         {
             "homepage": null,
@@ -90,14 +113,14 @@
             "username": "thomase"
         }
     ],
-    "created": "2018-06-08T00:50:46Z",
+    "created": "2024-03-06T15:18:15Z",
     "creators": [
         {
             "name": "J.S. Traill",
             "username": null
         }
     ],
-    "description": "Ancient deme-site in the city of Athens, located in modern Keratsini, a western suburb of Piraeus.",
+    "description": "Thymaitadai was a city deme of the tribe Hippothoontis in Attica, located in modern Keratsini, a western suburb of Piraeus.",
     "details": "<p>The Barrington Atlas Directory notes: Keratsini [VIII - city - 2]</p>",
     "features": [
         {
@@ -120,6 +143,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update summary, add type \"deme\"",
+            "modified": "2024-03-06T17:36:51Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "references",
             "modified": "2020-02-23T14:24:38Z",
@@ -406,10 +434,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/deme-attic"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "deme-attic"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 B3 Thymaitadai",
     "references": [
