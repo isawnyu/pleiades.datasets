@@ -16,6 +16,7 @@ import logging
 from os.path import join
 from pathlib import Path
 from pprint import pformat
+from datetime import datetime
 
 logger = logging.getLogger(__name__)
 
@@ -112,9 +113,10 @@ def rip_refs(
         raise ValueError(f"empty otype")
     if otype == "Place":
         results = list()
-        for k in ["connections", "locations", "names"]:
-            if data[k]:
-                rip_refs(data[k], zotkey, k.title(), results)
+        if subordinates:
+            for k in ["connections", "locations", "names"]:
+                if data[k]:
+                    rip_refs(data[k], zotkey, k.title(), results)
     elif otype in ["Connections", "Locations", "Names"]:
         for c in data:
             rip_refs(c, zotkey, otype[0 : len(otype) - 1], results)
@@ -171,13 +173,18 @@ def capture(results: dict, p: dict, refs: list):
         results[ruri]["alignments"].add(puri)
 
 
-def markdown(results: dict, groupby: str):
+def markdown(results: dict, groupby: str, bibl: dict):
     logger = logging.getLogger("markdown")
     grouped = dict()
+    grouped_zotkeys = set()
     for uri, result in results.items():
         if (groupby == "pleiades" and uri.startswith("https://pleiades.stoa.org")) or (
             groupby != "pleiades" and not uri.startswith("https://pleiades.stoa.org")
         ):
+            try:
+                grouped_zotkeys.add(result["zotkey"])
+            except KeyError:
+                pass
             try:
                 group = grouped[uri]
             except KeyError:
@@ -186,13 +193,8 @@ def markdown(results: dict, groupby: str):
                 group["alignments"].expand(result["alignments"])
         else:
             pass
+    count = len(grouped)
 
-    # print(
-    #    json.dumps(
-    #        grouped, ensure_ascii=False, indent=4, cls=SetEncoder, sort_keys=True
-    #    )
-    # )
-    # exit()
     if groupby == "pleiades":
         group_uris = sorted(
             [uri for uri in grouped.keys()],
@@ -203,7 +205,22 @@ def markdown(results: dict, groupby: str):
             [uri for uri in grouped.keys()],
             key=lambda uri: "".join((results[uri]["citation_detail"])).lower() + uri,
         )
+
     md = list()
+    short_titles = sorted(
+        [bibl[zotkey]["Short Title"].strip() for zotkey in grouped_zotkeys]
+    )
+    if len(short_titles) == 1:
+        short_titles = short_titles[0]
+    elif len(short_titles) == 2:
+        short_titles = " and ".join(short_titles)
+    else:
+        short_titles = ", ".join(short_titles[:-1]) + f" and {short_titles[-1]}"
+    md.append(f"# _Pleiades_ alignments with {short_titles}")
+    daytag = datetime.today().strftime("%Y-%m-%d")
+    md.append(
+        f"{count} alignments exist in _Pleiades_ place references as of {daytag}. The following list of alignments is grouped by {groupby}.\n"
+    )
     for uri in group_uris:
         # for uri, group in grouped.items():
         group = grouped[uri]
@@ -294,7 +311,10 @@ def main(**kwargs):
             )
         )
     elif kwargs["format"] == "markdown":
-        print(markdown(results, kwargs["groupby"]))
+        bibliopath = Path(kwargs["bibliopath"]).expanduser().resolve()
+        bibl = get_csv(str(bibliopath), sample_lines=1000)
+        bibl_dict = {b["Key"]: b for b in bibl["content"]}
+        print(markdown(results, kwargs["groupby"], bibl_dict))
     else:
         raise NotImplementedError(kwargs["format"])
 
