@@ -123,8 +123,8 @@ def rip_refs(
         if ref["bibliographicURI"].endswith(zotkey):
             results.append(
                 {
-                    "accessURI": ref["accessURI"],
-                    "citationDetail": ref["citationDetail"],
+                    "accessURI": ref["accessURI"].strip(),
+                    "citationDetail": ref["citationDetail"].strip(),
                     "context": otype,
                     "zotkey": zotkey,
                 }
@@ -204,9 +204,9 @@ def markdown(results: dict, groupby: str):
             key=lambda uri: "".join((results[uri]["citation_detail"])).lower() + uri,
         )
     md = list()
-    for guri in group_uris:
+    for uri in group_uris:
         # for uri, group in grouped.items():
-        group = grouped[guri]
+        group = grouped[uri]
         if groupby == "pleiades":
             title = group["place_title"]
         else:
@@ -219,11 +219,14 @@ def markdown(results: dict, groupby: str):
             try:
                 lat = group["representative_latitude"]
             except KeyError:
+                lat = None
                 md[-1] = md[-1].strip()
             else:
-                if lat is not None:
+                if lat:
                     lon = group["representative_longitude"]
                     md.append(f"representative latitude/longitude: {lat}, {lon}")
+                else:
+                    md[-1] = md[-1].strip()
             md.append(f"\n### alignments:")
             for a_uri in group["alignments"]:
                 a = results[a_uri]
