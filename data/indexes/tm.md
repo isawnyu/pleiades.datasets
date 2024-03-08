@@ -27,8 +27,8 @@
 [http://www.trismegistos.org/text/17223](http://www.trismegistos.org/text/17223)  
 
 ### alignments:
- - [Zaira da Sacharae](https://pleiades.stoa.org/places/897868)
  - [Rakoukaitha](https://pleiades.stoa.org/places/897835)
+ - [Zaira da Sacharae](https://pleiades.stoa.org/places/897868)
 
 
 ## 17228 = P.Dura 31.1
@@ -378,8 +378,8 @@
 [https://www.trismegistos.org/place/16081](https://www.trismegistos.org/place/16081)  
 
 ### alignments:
- - [Prinias (Patela)](https://pleiades.stoa.org/places/589981)
  - [Rhittenia?](https://pleiades.stoa.org/places/590029)
+ - [Prinias (Patela)](https://pleiades.stoa.org/places/589981)
 
 
 ## Geo 16131: Panamara (Bağyaka)
@@ -512,16 +512,16 @@
 [https://www.trismegistos.org/place/2057](https://www.trismegistos.org/place/2057)  
 
 ### alignments:
- - [Rhodos (island)](https://pleiades.stoa.org/places/590031)
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
+ - [Rhodos (island)](https://pleiades.stoa.org/places/590031)
 
 
 ## Geo 2082: Samothraike (island (in the sea); city)
 [https://www.trismegistos.org/place/2082](https://www.trismegistos.org/place/2082)  
 
 ### alignments:
- - [Samothrace (island)](https://pleiades.stoa.org/places/501597)
  - [Samothrace (settlement)](https://pleiades.stoa.org/places/501596)
+ - [Samothrace (island)](https://pleiades.stoa.org/places/501597)
 
 
 ## Geo 2132: Sicilia
@@ -1278,18 +1278,18 @@
 [http://www.trismegistos.org/](http://www.trismegistos.org/)  
 
 ### alignments:
- - [Ouenikones](https://pleiades.stoa.org/places/89266)
- - [Kleitor](https://pleiades.stoa.org/places/570359)
  - [Curiga](https://pleiades.stoa.org/places/256147)
- - [Portus](https://pleiades.stoa.org/places/423012)
- - [Ischalis?](https://pleiades.stoa.org/places/79534)
- - [Blanda](https://pleiades.stoa.org/places/452274)
- - [Gallo-Roman vicus at Pierrefonds](https://pleiades.stoa.org/places/109247)
- - [Firronanus Saltus](https://pleiades.stoa.org/places/74926636)
- - [Argithea](https://pleiades.stoa.org/places/540658)
- - [Gabala](https://pleiades.stoa.org/places/40144)
- - [Alexandria/Antiochia/Merv](https://pleiades.stoa.org/places/961873)
  - [Aproi/Col. Claudia Aprensis/Nova Theodosiopolis](https://pleiades.stoa.org/places/511153)
+ - [Kleitor](https://pleiades.stoa.org/places/570359)
+ - [Blanda](https://pleiades.stoa.org/places/452274)
+ - [Firronanus Saltus](https://pleiades.stoa.org/places/74926636)
+ - [Ischalis?](https://pleiades.stoa.org/places/79534)
+ - [Portus](https://pleiades.stoa.org/places/423012)
+ - [Argithea](https://pleiades.stoa.org/places/540658)
+ - [Alexandria/Antiochia/Merv](https://pleiades.stoa.org/places/961873)
+ - [Ouenikones](https://pleiades.stoa.org/places/89266)
+ - [Gabala](https://pleiades.stoa.org/places/40144)
+ - [Gallo-Roman vicus at Pierrefonds](https://pleiades.stoa.org/places/109247)
  - [Iotape](https://pleiades.stoa.org/places/648650)
 
 
@@ -4482,8 +4482,8 @@
 [http://www.trismegistos.org/place/14806](http://www.trismegistos.org/place/14806)  
 
 ### alignments:
- - [Rudston](https://pleiades.stoa.org/places/89283)
  - [Rudston Roman Villa](https://pleiades.stoa.org/places/920394485734333)
+ - [Rudston](https://pleiades.stoa.org/places/89283)
 
 
 ## GEO ID 14808: Vindobala (Rudchester)
@@ -14054,8 +14054,8 @@
 [http://www.trismegistos.org/place/38456](http://www.trismegistos.org/place/38456)  
 
 ### alignments:
- - [Torre Mordillo](https://pleiades.stoa.org/places/452480)
  - [Spezzano Albanese](https://pleiades.stoa.org/places/452454)
+ - [Torre Mordillo](https://pleiades.stoa.org/places/452480)
 
 
 ## GEO ID 38462: Omphake (Butera)
@@ -21178,8 +21178,8 @@
 [https://www.trismegistos.org/place/7209](https://www.trismegistos.org/place/7209)  
 
 ### alignments:
- - [Scythae/Sagae/Sacae](https://pleiades.stoa.org/places/60676)
  - [Scythia](https://pleiades.stoa.org/places/1273)
+ - [Scythae/Sagae/Sacae](https://pleiades.stoa.org/places/60676)
 
 
 ## GEO ID 7224: Lemonia
@@ -22118,8 +22118,8 @@
 [https://www.trismegistos.org/text/271103](https://www.trismegistos.org/text/271103)  
 
 ### alignments:
- - [Cisauna](https://pleiades.stoa.org/places/438716)
  - [Taurasia](https://pleiades.stoa.org/places/438849)
+ - [Cisauna](https://pleiades.stoa.org/places/438716)
 
 
 ## Text 282233
@@ -22147,8 +22147,8 @@
 [http://www.trismegistos.org/text/538961](http://www.trismegistos.org/text/538961)  
 
 ### alignments:
- - [Cora](https://pleiades.stoa.org/places/422909)
  - [Temple of Castor and Pollux, Cora](https://pleiades.stoa.org/places/426309852)
+ - [Cora](https://pleiades.stoa.org/places/422909)
 
 
 ## text 538962 = CIL X.1 6506

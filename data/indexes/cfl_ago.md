@@ -677,8 +677,8 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=39084](https://chronique.efa.gr/?kroute=topo_public&id=39084)  
 
 ### alignments:
- - [Castle of Astypalaia](https://pleiades.stoa.org/places/533372008)
  - [Astypalaia (settlement)](https://pleiades.stoa.org/places/599535)
+ - [Castle of Astypalaia](https://pleiades.stoa.org/places/533372008)
 
 
 ## Toponym 39099: Avlachia, Pserimos
@@ -1210,8 +1210,8 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=32](https://chronique.efa.gr/?kroute=topo_public&id=32)  
 
 ### alignments:
- - [Seriphos (settlement)](https://pleiades.stoa.org/places/590043)
  - [Seriphos (island)](https://pleiades.stoa.org/places/590044)
+ - [Seriphos (settlement)](https://pleiades.stoa.org/places/590043)
 
 
 ## Toponyme 33455: Pelinna

@@ -33,8 +33,8 @@
 [https://www.wikidata.org/wiki/Q60792270](https://www.wikidata.org/wiki/Q60792270)  
 
 ### alignments:
- - [Akrai?](https://pleiades.stoa.org/places/540616)
  - [Akrai?](https://pleiades.stoa.org/places/540615)
+ - [Akrai?](https://pleiades.stoa.org/places/540616)
 
 
 ## Acumincum (Q4677883)
@@ -2785,8 +2785,8 @@
 [https://www.wikidata.org/wiki/Q100106609](https://www.wikidata.org/wiki/Q100106609)  
 
 ### alignments:
- - [Roman amphitheater at Volaterrae](https://pleiades.stoa.org/places/9176604)
  - [Roman amphitheater at Volaterrae](https://pleiades.stoa.org/places/435476404)
+ - [Roman amphitheater at Volaterrae](https://pleiades.stoa.org/places/9176604)
 
 
 ## Q1001533: Lyctus
@@ -5041,8 +5041,8 @@
 [https://www.wikidata.org/wiki/Q1241278](https://www.wikidata.org/wiki/Q1241278)  
 
 ### alignments:
- - [Casa del pomarius Felix ](https://pleiades.stoa.org/places/769901808)
  - [Horti Sallustiani](https://pleiades.stoa.org/places/166405461)
+ - [Casa del pomarius Felix ](https://pleiades.stoa.org/places/769901808)
 
 
 ## Q1241298: Villa of the Mysteries
@@ -6450,32 +6450,32 @@
 [https://www.wikidata.org/](https://www.wikidata.org/)  
 
 ### alignments:
- - [Tall al-Ḥadīdī](https://pleiades.stoa.org/places/702110865)
+ - [Mount Judi](https://pleiades.stoa.org/places/471828778)
+ - [Cabum?](https://pleiades.stoa.org/places/422857)
+ - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
  - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
  - [Balāwāt](https://pleiades.stoa.org/places/924247288)
- - [La Rustica](https://pleiades.stoa.org/places/423026)
- - [Temple of Iuno Sospita, Lanuvium](https://pleiades.stoa.org/places/879109673)
- - [Cannatello](https://pleiades.stoa.org/places/491524938)
- - [Sala](https://pleiades.stoa.org/places/275696)
- - [Bartlow Hills](https://pleiades.stoa.org/places/79317)
- - [*Igaeditania?](https://pleiades.stoa.org/places/256220)
+ - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
+ - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
  - [Roman Odeon of Gortyn](https://pleiades.stoa.org/places/481346137)
+ - [Yaat](https://pleiades.stoa.org/places/668398)
+ - [Temple of Iuno Sospita, Lanuvium](https://pleiades.stoa.org/places/879109673)
+ - [Scheggia Pass](https://pleiades.stoa.org/places/450863545)
+ - [Cannatello](https://pleiades.stoa.org/places/491524938)
+ - [Tomb of Seti I](https://pleiades.stoa.org/places/422247194)
  - [Arzâ ](https://pleiades.stoa.org/places/309101265)
  - [Girmua](https://pleiades.stoa.org/places/248782116)
- - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
- - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
- - [Mount Judi](https://pleiades.stoa.org/places/471828778)
- - [Scheggia Pass](https://pleiades.stoa.org/places/450863545)
- - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
- - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
  - [Per-Sopdu](https://pleiades.stoa.org/places/738393046)
+ - [Bartlow Hills](https://pleiades.stoa.org/places/79317)
+ - [La Rustica](https://pleiades.stoa.org/places/423026)
+ - [Cholleidai](https://pleiades.stoa.org/places/585901)
+ - [Magdala/Taricheai](https://pleiades.stoa.org/places/678272)
+ - [*Igaeditania?](https://pleiades.stoa.org/places/256220)
+ - [Tall al-Ḥadīdī](https://pleiades.stoa.org/places/702110865)
+ - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
+ - [Sala](https://pleiades.stoa.org/places/275696)
  - [Aphrodisias](https://pleiades.stoa.org/places/638753)
  - [Marad](https://pleiades.stoa.org/places/912901)
- - [Yaat](https://pleiades.stoa.org/places/668398)
- - [Cholleidai](https://pleiades.stoa.org/places/585901)
- - [Tomb of Seti I](https://pleiades.stoa.org/places/422247194)
- - [Cabum?](https://pleiades.stoa.org/places/422857)
- - [Magdala/Taricheai](https://pleiades.stoa.org/places/678272)
 
 
 ## Q15209931: Kotilion mountain
@@ -7476,8 +7476,8 @@
 [https://www.wikidata.org/wiki/Q1664378](https://www.wikidata.org/wiki/Q1664378)  
 
 ### alignments:
- - [Başbulak](https://pleiades.stoa.org/places/874637)
  - [Başbulak](https://pleiades.stoa.org/places/241871785)
+ - [Başbulak](https://pleiades.stoa.org/places/874637)
 
 
 ## Q1665908: Interamna Lirenas
@@ -8121,8 +8121,8 @@
 [https://www.wikidata.org/wiki/Q17641589](https://www.wikidata.org/wiki/Q17641589)  
 
 ### alignments:
- - [Rudston Roman Villa](https://pleiades.stoa.org/places/920394485734333)
  - [Rudston](https://pleiades.stoa.org/places/89283)
+ - [Rudston Roman Villa](https://pleiades.stoa.org/places/920394485734333)
 
 
 ## Q17641746: Two Roman camps N of Water Eaton
@@ -8871,8 +8871,8 @@
 [https://www.wikidata.org/wiki/Q191082](https://www.wikidata.org/wiki/Q191082)  
 
 ### alignments:
- - [Aegina (island)](https://pleiades.stoa.org/places/579844)
  - [Aigina (settlement)](https://pleiades.stoa.org/places/579853)
+ - [Aegina (island)](https://pleiades.stoa.org/places/579844)
 
 
 ## Q1911796: Belevi Mausoleum
@@ -9082,8 +9082,8 @@
 [https://www.wikidata.org/wiki/Q19622518](https://www.wikidata.org/wiki/Q19622518)  
 
 ### alignments:
- - [Regio IV (Templum Pacis)](https://pleiades.stoa.org/places/523965218)
  - [Sitifis](https://pleiades.stoa.org/places/305153)
+ - [Regio IV (Templum Pacis)](https://pleiades.stoa.org/places/523965218)
 
 
 ## Q19627849: Poblat ibèric del Turó d'en Boscà
@@ -9230,8 +9230,8 @@
 [https://www.wikidata.org/wiki/Q1986456](https://www.wikidata.org/wiki/Q1986456)  
 
 ### alignments:
- - [Tell es-Sweyhat](https://pleiades.stoa.org/places/668140349)
  - [Tall Suwaiyhat](https://pleiades.stoa.org/places/215365609)
+ - [Tell es-Sweyhat](https://pleiades.stoa.org/places/668140349)
 
 
 ## Q1987323: Nicopolis ad Istrum
@@ -10113,8 +10113,8 @@
 [https://www.wikidata.org/wiki/Q2167586](https://www.wikidata.org/wiki/Q2167586)  
 
 ### alignments:
- - [Korykos](https://pleiades.stoa.org/places/638939)
  - [Corycus](https://pleiades.stoa.org/places/648612)
+ - [Korykos](https://pleiades.stoa.org/places/638939)
 
 
 ## Q216862: Ġgantija
@@ -12117,8 +12117,8 @@
 [https://www.wikidata.org/wiki/Q28973922](https://www.wikidata.org/wiki/Q28973922)  
 
 ### alignments:
- - [Corinth Roman Amphitheater](https://pleiades.stoa.org/places/233061794)
  - [Roman amphitheater at Corinth](https://pleiades.stoa.org/places/54081048)
+ - [Corinth Roman Amphitheater](https://pleiades.stoa.org/places/233061794)
 
 
 ## Q28974259
@@ -14323,8 +14323,8 @@
 [https://www.wikidata.org/wiki/Q3801610](https://www.wikidata.org/wiki/Q3801610)  
 
 ### alignments:
- - [Hypogeum of Trebius Giustus](https://pleiades.stoa.org/places/874332557)
  - [Tomb of Trebius Iustus](https://pleiades.stoa.org/places/347468514)
+ - [Hypogeum of Trebius Giustus](https://pleiades.stoa.org/places/874332557)
 
 
 ## Q3801614: Hypogeum of via Dino Compagni
@@ -15074,8 +15074,8 @@
 [https://www.wikidata.org/wiki/Q3983252](https://www.wikidata.org/wiki/Q3983252)  
 
 ### alignments:
- - [Tarracina(e)/Anxur](https://pleiades.stoa.org/places/433143)
  - [Temple of Jupiter Anxur](https://pleiades.stoa.org/places/867719962)
+ - [Tarracina(e)/Anxur](https://pleiades.stoa.org/places/433143)
 
 
 ## Q3983254: Temple of Jupiter Apenninus
@@ -19276,8 +19276,8 @@
 [https://www.wikidata.org/wiki/Q718048](https://www.wikidata.org/wiki/Q718048)  
 
 ### alignments:
- - [Arykanda](https://pleiades.stoa.org/places/638770)
  - [Arykanda](https://pleiades.stoa.org/places/638769)
+ - [Arykanda](https://pleiades.stoa.org/places/638770)
 
 
 ## Q719815
@@ -21812,8 +21812,8 @@
 [https://www.wikidata.org/wiki/Q2390471](https://www.wikidata.org/wiki/Q2390471)  
 
 ### alignments:
- - [Tall Bāzy](https://pleiades.stoa.org/places/241871784)
  - [Tall Bāzy](https://pleiades.stoa.org/places/17634131)
+ - [Tall Bāzy](https://pleiades.stoa.org/places/241871784)
 
 
 ## Tanagra acropolis (Q56259452)
