@@ -245,7 +245,10 @@ def markdown(results: dict, groupby: str, bibl: dict):
                 else:
                     md[-1] = md[-1].strip()
             md.append(f"\n### alignments:")
-            for a_uri in group["alignments"]:
+            for a_uri in sorted(
+                group["alignments"],
+                key=lambda ak: results[ak]["citation_detail"].strip().lower(),
+            ):
                 a = results[a_uri]
                 try:
                     title = a["citation_detail"]
@@ -255,7 +258,10 @@ def markdown(results: dict, groupby: str, bibl: dict):
                 md.append(f" - [{title}]({a_uri})")
         else:
             md.append(f"\n### alignments:")
-            for a_uri in group["alignments"]:
+            for a_uri in sorted(
+                group["alignments"],
+                key=lambda ak: results[ak]["place_title"].strip().lower() + ak,
+            ):
                 a = results[a_uri]
                 try:
                     title = a["place_title"]
