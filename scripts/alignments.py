@@ -46,6 +46,13 @@ OPTIONAL_ARGUMENTS = [
     ],
     ["-f", "--format", "html", "output format (html or json)", False],
     [
+        "-g",
+        "--groupby",
+        "pleiades",
+        "in markdown, resources to group by (pleiades, zotkey)",
+        False,
+    ],
+    [
         "-k",
         "--keys2pidspath",
         str(Path("./data/bibliography/zotkeys2pids.json").resolve()),
@@ -157,11 +164,88 @@ def capture(results: dict, p: dict, refs: list):
             results[ruri]
         except KeyError:
             results[ruri] = {
-                "citaton_detail": ref["citationDetail"],
+                "citation_detail": ref["citationDetail"],
                 "zotkey": ref["zotkey"],
                 "alignments": set(),
             }
         results[ruri]["alignments"].add(puri)
+
+
+def markdown(results: dict, groupby: str):
+    logger = logging.getLogger("markdown")
+    grouped = dict()
+    for uri, result in results.items():
+        if (groupby == "pleiades" and uri.startswith("https://pleiades.stoa.org")) or (
+            groupby != "pleiades" and not uri.startswith("https://pleiades.stoa.org")
+        ):
+            try:
+                group = grouped[uri]
+            except KeyError:
+                grouped[uri] = result
+            else:
+                group["alignments"].expand(result["alignments"])
+        else:
+            pass
+
+    # print(
+    #    json.dumps(
+    #        grouped, ensure_ascii=False, indent=4, cls=SetEncoder, sort_keys=True
+    #    )
+    # )
+    # exit()
+    if groupby == "pleiades":
+        group_uris = sorted(
+            [uri for uri in grouped.keys()],
+            key=lambda uri: "".join(results[uri]["place_title"]).lower() + uri,
+        )
+    else:
+        group_uris = sorted(
+            [uri for uri in grouped.keys()],
+            key=lambda uri: "".join((results[uri]["citation_detail"])).lower() + uri,
+        )
+    md = list()
+    for guri in group_uris:
+        # for uri, group in grouped.items():
+        group = grouped[guri]
+        if groupby == "pleiades":
+            title = group["place_title"]
+        else:
+            title = group["citation_detail"]
+        md.append(f"## {title}")
+        md.append(f"[{uri}]({uri})  ")
+        if groupby == "pleiades":
+            pt = ", ".join(list(group["place_types"]))
+            md.append(f"place type(s): {pt}  ")
+            try:
+                lat = group["representative_latitude"]
+            except KeyError:
+                md[-1] = md[-1].strip()
+            else:
+                if lat is not None:
+                    lon = group["representative_longitude"]
+                    md.append(f"representative latitude/longitude: {lat}, {lon}")
+            md.append(f"\n### alignments:")
+            for a_uri in group["alignments"]:
+                a = results[a_uri]
+                try:
+                    title = a["citation_detail"]
+                except KeyError:
+                    logger.error(pformat(a, indent=4))
+                    raise
+                md.append(f" - [{title}]({a_uri})")
+        else:
+            md.append(f"\n### alignments:")
+            for a_uri in group["alignments"]:
+                a = results[a_uri]
+                try:
+                    title = a["place_title"]
+                except KeyError:
+                    logger.error(pformat(a, indent=4))
+                    raise
+                md.append(f" - [{title}]({a_uri})")
+
+        md.append("\n")
+    return "\n".join(md)
 
 
 def main(**kwargs):
@@ -206,6 +290,8 @@ def main(**kwargs):
                 results, ensure_ascii=False, indent=4, sort_keys=True, cls=SetEncoder
             )
         )
+    elif kwargs["format"] == "markdown":
+        print(markdown(results, kwargs["groupby"]))
     else:
         raise NotImplementedError(kwargs["format"])
 
