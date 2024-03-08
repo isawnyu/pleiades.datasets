@@ -1512,8 +1512,8 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=41359](https://chronique.efa.gr/?kroute=topo_public&id=41359)  
 
 ### alignments:
- - [Tsimintiri island](https://pleiades.stoa.org/places/392437876)
  - [Tsimintiri Archaic Site](https://pleiades.stoa.org/places/482028558)
+ - [Tsimintiri island](https://pleiades.stoa.org/places/392437876)
 
 
 ## Toponyme 41458: Andros

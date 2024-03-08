@@ -1161,8 +1161,8 @@
 [https://resource.manto.unh.edu/8195196](https://resource.manto.unh.edu/8195196)  
 
 ### alignments:
- - [Phocis](https://pleiades.stoa.org/places/541048)
  - [Boeotia](https://pleiades.stoa.org/places/540689)
+ - [Phocis](https://pleiades.stoa.org/places/541048)
 
 
 ## 8195202: Euboia (island)

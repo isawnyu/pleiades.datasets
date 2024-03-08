@@ -5867,8 +5867,8 @@
 [https://topostext.org/place/381237FDem](https://topostext.org/place/381237FDem)  
 
 ### alignments:
- - [Dema](https://pleiades.stoa.org/places/579909)
  - [Dema wall](https://pleiades.stoa.org/places/585132)
+ - [Dema](https://pleiades.stoa.org/places/579909)
 
 
 ## Demeter Malophoros (Selinous)
@@ -6071,8 +6071,8 @@
 [https://topostext.org/place/435164BDiP](https://topostext.org/place/435164BDiP)  
 
 ### alignments:
- - [Spalatum](https://pleiades.stoa.org/places/197524)
  - [Palace of Diocletian](https://pleiades.stoa.org/places/834862588)
+ - [Spalatum](https://pleiades.stoa.org/places/197524)
 
 
 ## Diogeneion (Athens)
@@ -7676,8 +7676,8 @@
 [https://topostext.org/place/419125AGMa](https://topostext.org/place/419125AGMa)  
 
 ### alignments:
- - [Gardens of Maecenas](https://pleiades.stoa.org/places/399141643)
  - [Auditorium Maecenatis](https://pleiades.stoa.org/places/866548110)
+ - [Gardens of Maecenas](https://pleiades.stoa.org/places/399141643)
 
 
 ## Gardens of Sallust (Rome)
@@ -7873,8 +7873,8 @@
 [https://topostext.org/place/375141XGGa](https://topostext.org/place/375141XGGa)  
 
 ### alignments:
- - [Monte Gibel Gabel](https://pleiades.stoa.org/places/462348)
  - [Gibil Gabib](https://pleiades.stoa.org/places/797288429)
+ - [Monte Gibel Gabel](https://pleiades.stoa.org/places/462348)
 
 
 ## Gigonos (Halkidiki)
@@ -12736,8 +12736,8 @@
 [https://topostext.org/place/376217UMak](https://topostext.org/place/376217UMak)  
 
 ### alignments:
- - [Temple of Athena Makistos](https://pleiades.stoa.org/places/865194823)
  - [Makistos](https://pleiades.stoa.org/places/570453)
+ - [Temple of Athena Makistos](https://pleiades.stoa.org/places/865194823)
 
 
 ## Makkarai (Thessaly)
@@ -13704,8 +13704,8 @@
 [https://topostext.org/place/388000UMir](https://topostext.org/place/388000UMir)  
 
 ### alignments:
- - [Mirobriga](https://pleiades.stoa.org/places/256302)
  - [Mirobriga](https://pleiades.stoa.org/places/236546)
+ - [Mirobriga](https://pleiades.stoa.org/places/256302)
 
 
 ## Mirobriga (Lusitania)
@@ -15791,8 +15791,8 @@
 [https://topostext.org/place/307307UPap](https://topostext.org/place/307307UPap)  
 
 ### alignments:
- - [Papremis](https://pleiades.stoa.org/places/730136)
  - [Papremis](https://pleiades.stoa.org/places/727185)
+ - [Papremis](https://pleiades.stoa.org/places/730136)
 
 
 ## Paraitonion/Ammonia (Egypt)
@@ -17374,8 +17374,8 @@
 [https://topostext.org/place/392235PSki](https://topostext.org/place/392235PSki)  
 
 ### alignments:
- - [Skiathos/Sciathus (island)](https://pleiades.stoa.org/places/541092)
  - [Skiathos (settlement)](https://pleiades.stoa.org/places/541104)
+ - [Skiathos/Sciathus (island)](https://pleiades.stoa.org/places/541092)
 
 
 ## Place 393203IPro: Propaxos (Preveza)
@@ -17943,8 +17943,8 @@
 [https://topostext.org/place/418123HPor](https://topostext.org/place/418123HPor)  
 
 ### alignments:
- - [Trajanic harbor](https://pleiades.stoa.org/places/927235843)
  - [Portus](https://pleiades.stoa.org/places/423012)
+ - [Trajanic harbor](https://pleiades.stoa.org/places/927235843)
 
 
 ## Poseideion (Syria)
@@ -18512,8 +18512,8 @@
 [https://topostext.org/place/350250URhi](https://topostext.org/place/350250URhi)  
 
 ### alignments:
- - [Rhittenia?](https://pleiades.stoa.org/places/590029)
  - [Prinias (Patela)](https://pleiades.stoa.org/places/589981)
+ - [Rhittenia?](https://pleiades.stoa.org/places/590029)
 
 
 ## Rhizous (Thessaly)
@@ -18625,8 +18625,8 @@
 [https://topostext.org/place/379229BAmp](https://topostext.org/place/379229BAmp)  
 
 ### alignments:
- - [Roman amphitheater at Corinth](https://pleiades.stoa.org/places/54081048)
  - [Corinth Roman Amphitheater](https://pleiades.stoa.org/places/233061794)
+ - [Roman amphitheater at Corinth](https://pleiades.stoa.org/places/54081048)
 
 
 ## Roman Forum (Roma)
@@ -19151,8 +19151,8 @@
 [https://topostext.org/place/309312USeb](https://topostext.org/place/309312USeb)  
 
 ### alignments:
- - [Sebennytos](https://pleiades.stoa.org/places/741595)
  - [Sebennytos](https://pleiades.stoa.org/places/727227)
+ - [Sebennytos](https://pleiades.stoa.org/places/741595)
 
 
 ## Segesta (Sicily)
@@ -19355,8 +19355,8 @@
 [https://topostext.org/place/372245PSer](https://topostext.org/place/372245PSer)  
 
 ### alignments:
- - [Seriphos (settlement)](https://pleiades.stoa.org/places/590043)
  - [Seriphos (island)](https://pleiades.stoa.org/places/590044)
+ - [Seriphos (settlement)](https://pleiades.stoa.org/places/590043)
 
 
 ## Sermylia (Halkidiki)
@@ -19615,8 +19615,8 @@
 [https://topostext.org/place/370247PSip](https://topostext.org/place/370247PSip)  
 
 ### alignments:
- - [Siphnos (settlement)](https://pleiades.stoa.org/places/590048)
  - [Siphnos (island)](https://pleiades.stoa.org/places/590049)
+ - [Siphnos (settlement)](https://pleiades.stoa.org/places/590048)
 
 
 ## Sipous (Italy)
@@ -19883,8 +19883,8 @@
 [https://topostext.org/place/377240SAth](https://topostext.org/place/377240SAth)  
 
 ### alignments:
- - [Temple of Athena at Sounion](https://pleiades.stoa.org/places/925825062)
  - [Athena, T.](https://pleiades.stoa.org/places/579884)
+ - [Temple of Athena at Sounion](https://pleiades.stoa.org/places/925825062)
 
 
 ## Sounion Poseidon T. (Attica)
@@ -20752,8 +20752,8 @@
 [https://topostext.org/place/375252PTen](https://topostext.org/place/375252PTen)  
 
 ### alignments:
- - [Tenos (settlement)](https://pleiades.stoa.org/places/590073)
  - [Tenos (island)](https://pleiades.stoa.org/places/590074)
+ - [Tenos (settlement)](https://pleiades.stoa.org/places/590073)
 
 
 ## Tentyra (Egypt)
@@ -21586,11 +21586,11 @@
 [https://topostext.org/](https://topostext.org/)  
 
 ### alignments:
+ - [Isthmia](https://pleiades.stoa.org/places/570316)
+ - [Kamilari](https://pleiades.stoa.org/places/589835)
  - [Paiania Hypenerthen](https://pleiades.stoa.org/places/580046)
  - [Sanctuary of Artemis at Avlonas](https://pleiades.stoa.org/places/581674476)
- - [Kamilari](https://pleiades.stoa.org/places/589835)
  - [Toronaikos Kolpos](https://pleiades.stoa.org/places/501647)
- - [Isthmia](https://pleiades.stoa.org/places/570316)
 
 
 ## Torone (Halkidiki)
@@ -21751,8 +21751,8 @@
 [https://topostext.org/place/385215PTri](https://topostext.org/place/385215PTri)  
 
 ### alignments:
- - [Trichonion](https://pleiades.stoa.org/places/541161)
  - [Asklepeion of Ancient Trichoneion](https://pleiades.stoa.org/places/505237964)
+ - [Trichonion](https://pleiades.stoa.org/places/541161)
 
 
 ## Tridentum (Alps)

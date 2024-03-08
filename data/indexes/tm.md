@@ -378,8 +378,8 @@
 [https://www.trismegistos.org/place/16081](https://www.trismegistos.org/place/16081)  
 
 ### alignments:
- - [Rhittenia?](https://pleiades.stoa.org/places/590029)
  - [Prinias (Patela)](https://pleiades.stoa.org/places/589981)
+ - [Rhittenia?](https://pleiades.stoa.org/places/590029)
 
 
 ## Geo 16131: Panamara (Bağyaka)
@@ -512,16 +512,16 @@
 [https://www.trismegistos.org/place/2057](https://www.trismegistos.org/place/2057)  
 
 ### alignments:
- - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
  - [Rhodos (island)](https://pleiades.stoa.org/places/590031)
+ - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
 
 
 ## Geo 2082: Samothraike (island (in the sea); city)
 [https://www.trismegistos.org/place/2082](https://www.trismegistos.org/place/2082)  
 
 ### alignments:
- - [Samothrace (settlement)](https://pleiades.stoa.org/places/501596)
  - [Samothrace (island)](https://pleiades.stoa.org/places/501597)
+ - [Samothrace (settlement)](https://pleiades.stoa.org/places/501596)
 
 
 ## Geo 2132: Sicilia
@@ -1278,19 +1278,19 @@
 [http://www.trismegistos.org/](http://www.trismegistos.org/)  
 
 ### alignments:
- - [Curiga](https://pleiades.stoa.org/places/256147)
- - [Aproi/Col. Claudia Aprensis/Nova Theodosiopolis](https://pleiades.stoa.org/places/511153)
- - [Kleitor](https://pleiades.stoa.org/places/570359)
- - [Blanda](https://pleiades.stoa.org/places/452274)
- - [Firronanus Saltus](https://pleiades.stoa.org/places/74926636)
- - [Ischalis?](https://pleiades.stoa.org/places/79534)
- - [Portus](https://pleiades.stoa.org/places/423012)
- - [Argithea](https://pleiades.stoa.org/places/540658)
  - [Alexandria/Antiochia/Merv](https://pleiades.stoa.org/places/961873)
- - [Ouenikones](https://pleiades.stoa.org/places/89266)
+ - [Aproi/Col. Claudia Aprensis/Nova Theodosiopolis](https://pleiades.stoa.org/places/511153)
+ - [Argithea](https://pleiades.stoa.org/places/540658)
+ - [Blanda](https://pleiades.stoa.org/places/452274)
+ - [Curiga](https://pleiades.stoa.org/places/256147)
+ - [Firronanus Saltus](https://pleiades.stoa.org/places/74926636)
  - [Gabala](https://pleiades.stoa.org/places/40144)
  - [Gallo-Roman vicus at Pierrefonds](https://pleiades.stoa.org/places/109247)
  - [Iotape](https://pleiades.stoa.org/places/648650)
+ - [Ischalis?](https://pleiades.stoa.org/places/79534)
+ - [Kleitor](https://pleiades.stoa.org/places/570359)
+ - [Ouenikones](https://pleiades.stoa.org/places/89266)
+ - [Portus](https://pleiades.stoa.org/places/423012)
 
 
 ## Geo 401: Bargylia (Varvıl)
@@ -9376,8 +9376,8 @@
 [https://www.trismegistos.org/place/28142](https://www.trismegistos.org/place/28142)  
 
 ### alignments:
- - [Ponione/Pomone](https://pleiades.stoa.org/places/123112)
  - [Phoebiana](https://pleiades.stoa.org/places/118904)
+ - [Ponione/Pomone](https://pleiades.stoa.org/places/123112)
 
 
 ## GEO ID 28155: Mediana (Gnotzheim)
@@ -18416,8 +18416,8 @@
 [http://www.trismegistos.org/place/43687](http://www.trismegistos.org/place/43687)  
 
 ### alignments:
- - [Vaticanus Mons](https://pleiades.stoa.org/places/463398874)
  - [Vaticanus Ager](https://pleiades.stoa.org/places/104629751)
+ - [Vaticanus Mons](https://pleiades.stoa.org/places/463398874)
 
 
 ## GEO ID 43702: Basilica Iulia
@@ -18459,8 +18459,8 @@
 [https://www.trismegistos.org/place/43711](https://www.trismegistos.org/place/43711)  
 
 ### alignments:
- - [Regio V (Esquiliae)](https://pleiades.stoa.org/places/406470991)
  - [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
+ - [Regio V (Esquiliae)](https://pleiades.stoa.org/places/406470991)
 
 
 ## GEO ID 43712: Regio VI
@@ -20063,8 +20063,8 @@
 [https://www.trismegistos.org/place/5181](https://www.trismegistos.org/place/5181)  
 
 ### alignments:
- - [Assyria (kingdom)](https://pleiades.stoa.org/places/29492)
  - [(As)Syria (region) ](https://pleiades.stoa.org/places/569131178)
+ - [Assyria (kingdom)](https://pleiades.stoa.org/places/29492)
 
 
 ## GEO ID 51901: Sidicini
@@ -20491,8 +20491,8 @@
 [http://www.trismegistos.org/place/575](http://www.trismegistos.org/place/575)  
 
 ### alignments:
- - [Diospolis](https://pleiades.stoa.org/places/730107)
  - [Diospolis Kato](https://pleiades.stoa.org/places/727111)
+ - [Diospolis](https://pleiades.stoa.org/places/730107)
 
 
 ## GEO ID 576: Dios Polis (Thebes east)
@@ -21178,8 +21178,8 @@
 [https://www.trismegistos.org/place/7209](https://www.trismegistos.org/place/7209)  
 
 ### alignments:
- - [Scythia](https://pleiades.stoa.org/places/1273)
  - [Scythae/Sagae/Sacae](https://pleiades.stoa.org/places/60676)
+ - [Scythia](https://pleiades.stoa.org/places/1273)
 
 
 ## GEO ID 7224: Lemonia
@@ -21340,8 +21340,8 @@
 [https://www.trismegistos.org/place/7695](https://www.trismegistos.org/place/7695)  
 
 ### alignments:
- - [Ptolemaios/Traianos Potamos](https://pleiades.stoa.org/places/727212)
  - [Nekou Diorux](https://pleiades.stoa.org/places/728577)
+ - [Ptolemaios/Traianos Potamos](https://pleiades.stoa.org/places/727212)
 
 
 ## GEO ID 7698: Tralleis (Aydın)
@@ -22118,8 +22118,8 @@
 [https://www.trismegistos.org/text/271103](https://www.trismegistos.org/text/271103)  
 
 ### alignments:
- - [Taurasia](https://pleiades.stoa.org/places/438849)
  - [Cisauna](https://pleiades.stoa.org/places/438716)
+ - [Taurasia](https://pleiades.stoa.org/places/438849)
 
 
 ## Text 282233
@@ -22147,8 +22147,8 @@
 [http://www.trismegistos.org/text/538961](http://www.trismegistos.org/text/538961)  
 
 ### alignments:
- - [Temple of Castor and Pollux, Cora](https://pleiades.stoa.org/places/426309852)
  - [Cora](https://pleiades.stoa.org/places/422909)
+ - [Temple of Castor and Pollux, Cora](https://pleiades.stoa.org/places/426309852)
 
 
 ## text 538962 = CIL X.1 6506
