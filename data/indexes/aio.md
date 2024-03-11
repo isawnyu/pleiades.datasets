@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-126 alignments exist in _Pleiades_ place references as of 2024-03-08. The following list of alignments is grouped by zotkey.
+126 alignments exist in _Pleiades_ place references as of 2024-03-11. The following list of alignments is grouped by zotkey.
 
 ## Findsot: Sounion
 [https://www.atticinscriptions.com/browse/byfindspot/sounion/](https://www.atticinscriptions.com/browse/byfindspot/sounion/)  

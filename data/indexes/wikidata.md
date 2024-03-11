@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3194 alignments exist in _Pleiades_ place references as of 2024-03-08. The following list of alignments is grouped by zotkey.
+3203 alignments exist in _Pleiades_ place references as of 2024-03-11. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -385,6 +385,13 @@
 
 ### alignments:
  - [Podouke/Arikamedu](https://pleiades.stoa.org/places/50221)
+
+
+## Arsenal of Athens (Q24204689)
+[https://www.wikidata.org/wiki/Q24204689](https://www.wikidata.org/wiki/Q24204689)  
+
+### alignments:
+ - [Hellenistic Arsenal](https://pleiades.stoa.org/places/78993694)
 
 
 ## Artaxata (Q706215)
@@ -912,6 +919,13 @@
  - [Dacia](https://pleiades.stoa.org/places/207065)
 
 
+## Dalheim Ricciacum (Q5210859)
+[https://www.wikidata.org/wiki/Q5210859](https://www.wikidata.org/wiki/Q5210859)  
+
+### alignments:
+ - [Ricciacum (or Ricciacus)](https://pleiades.stoa.org/places/109279)
+
+
 ## Damastion (Q3299722)
 [https://www.wikidata.org/wiki/Q3299722](https://www.wikidata.org/wiki/Q3299722)  
 
@@ -1274,6 +1288,13 @@
 
 ### alignments:
  - [Golgoi](https://pleiades.stoa.org/places/707512)
+
+
+## Greek Theatre of Priene (Q56194553)
+[https://www.wikidata.org/wiki/Q56194553](https://www.wikidata.org/wiki/Q56194553)  
+
+### alignments:
+ - [Theater of Priene](https://pleiades.stoa.org/places/182750553)
 
 
 ## Grottoes of Catullus (Q3777121)
@@ -1862,6 +1883,13 @@
 
 ### alignments:
  - [Lefkandi](https://pleiades.stoa.org/places/540909)
+
+
+## Letoon (Q703480)
+[https://www.wikidata.org/wiki/Q703480](https://www.wikidata.org/wiki/Q703480)  
+
+### alignments:
+ - [Letoon](https://pleiades.stoa.org/places/638958)
 
 
 ## Lighthouse of Alexandria (Q43244)
@@ -2466,6 +2494,13 @@
  - [Pelinna(ion)?](https://pleiades.stoa.org/places/541020)
 
 
+## Penkalas Bridge (Q942877)
+[https://www.wikidata.org/wiki/Q942877](https://www.wikidata.org/wiki/Q942877)  
+
+### alignments:
+ - [Penkalas Bridge](https://pleiades.stoa.org/places/217982522)
+
+
 ## Penne (Q51376)
 [https://www.wikidata.org/wiki/Q51376](https://www.wikidata.org/wiki/Q51376)  
 
@@ -2492,6 +2527,13 @@
 
 ### alignments:
  - [Persepolis/Parsa/Persai/Sat Setun](https://pleiades.stoa.org/places/922695)
+
+
+## Petra Theatre (Q55629697)
+[https://www.wikidata.org/wiki/Q55629697](https://www.wikidata.org/wiki/Q55629697)  
+
+### alignments:
+ - [Roman theater at Petra](https://pleiades.stoa.org/places/612060179)
 
 
 ## Phacusa (Q1658087)
@@ -3572,13 +3614,6 @@
 
 ### alignments:
  - [Pyramid of Khendjer](https://pleiades.stoa.org/places/945930913)
-
-
-## Q107063823: Roman theater of Ferentinum
-[https://www.wikidata.org/wiki/Q107063823](https://www.wikidata.org/wiki/Q107063823)  
-
-### alignments:
- - [Roman theater at Ferentinum](https://pleiades.stoa.org/places/705896050)
 
 
 ## Q107068356: Temple of Apollo Erethimios
@@ -10432,6 +10467,13 @@
  - [Piantarella](https://pleiades.stoa.org/places/472113)
 
 
+## Q22951872
+[https://www.wikidata.org/wiki/Q22951872](https://www.wikidata.org/wiki/Q22951872)  
+
+### alignments:
+ - [Incheville](https://pleiades.stoa.org/places/937860872)
+
+
 ## Q22954443
 [https://www.wikidata.org/wiki/Q22954443](https://www.wikidata.org/wiki/Q22954443)  
 
@@ -17025,13 +17067,6 @@
  - [Tomb of Publius Aelius Callistion](https://pleiades.stoa.org/places/684741498)
 
 
-## Q56257615
-[https://www.wikidata.org/wiki/Q56257615](https://www.wikidata.org/wiki/Q56257615)  
-
-### alignments:
- - [Roman theater of Scythopolis](https://pleiades.stoa.org/places/719634078)
-
-
 ## Q56258078: Roman theatre of Sepphoris
 [https://www.wikidata.org/wiki/Q56258078](https://www.wikidata.org/wiki/Q56258078)  
 
@@ -21367,6 +21402,27 @@
  - [Red Hill Roman Temple](https://pleiades.stoa.org/places/461726240)
 
 
+## Roman theater at Pelusium (Q25383052)
+[https://www.wikidata.org/wiki/Q25383052](https://www.wikidata.org/wiki/Q25383052)  
+
+### alignments:
+ - [Roman theater at Pelusium](https://pleiades.stoa.org/places/854756317)
+
+
+## Roman theater of Ferentinum (Q107063823)
+[https://www.wikidata.org/wiki/Q107063823](https://www.wikidata.org/wiki/Q107063823)  
+
+### alignments:
+ - [Roman theater at Ferentinum](https://pleiades.stoa.org/places/705896050)
+
+
+## Roman Theatre of Augusta Raurica (Q3527590)
+[https://www.wikidata.org/wiki/Q3527590](https://www.wikidata.org/wiki/Q3527590)  
+
+### alignments:
+ - [Roman theater at Col. Augusta Raurica](https://pleiades.stoa.org/places/489129227)
+
+
 ## Roman theatre of Sabratha (Q28974187)
 [https://www.wikidata.org/wiki/Q28974187](https://www.wikidata.org/wiki/Q28974187)  
 
@@ -21379,6 +21435,13 @@
 
 ### alignments:
  - [Theater at Saepinum](https://pleiades.stoa.org/places/319990513)
+
+
+## Roman theatre of Scythopolis (Q56257615)
+[https://www.wikidata.org/wiki/Q56257615](https://www.wikidata.org/wiki/Q56257615)  
+
+### alignments:
+ - [Roman theater of Scythopolis](https://pleiades.stoa.org/places/719634078)
 
 
 ## Royal Hypogeum of Qatna (Q113540761)

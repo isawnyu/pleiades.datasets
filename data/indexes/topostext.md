@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3248 alignments exist in _Pleiades_ place references as of 2024-03-08. The following list of alignments is grouped by zotkey.
+3249 alignments exist in _Pleiades_ place references as of 2024-03-11. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2843,6 +2843,13 @@
 
 ### alignments:
  - [Ar(r)olos](https://pleiades.stoa.org/places/491528)
+
+
+## Arsenal (Athens Agora)
+[https://topostext.org/place/380237BArs](https://topostext.org/place/380237BArs)  
+
+### alignments:
+ - [Hellenistic Arsenal](https://pleiades.stoa.org/places/78993694)
 
 
 ## Arsinoe (Cilicia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-330 alignments exist in _Pleiades_ place references as of 2024-03-08. The following list of alignments is grouped by zotkey.
+331 alignments exist in _Pleiades_ place references as of 2024-03-11. The following list of alignments is grouped by zotkey.
 
 ## 10055308: Helene (island off Attica)
 [https://resource.manto.unh.edu/10055308](https://resource.manto.unh.edu/10055308)  
@@ -1044,6 +1044,13 @@
  - [Marathon](https://pleiades.stoa.org/places/580021)
 
 
+## 8190499: The Areiopagos (Athens)
+[https://resource.manto.unh.edu/8190499](https://resource.manto.unh.edu/8190499)  
+
+### alignments:
+ - [Areopagus](https://pleiades.stoa.org/places/969121823)
+
+
 ## 8194308: Sparta (Laconia)
 [https://resource.manto.unh.edu/8194308](https://resource.manto.unh.edu/8194308)  
 
@@ -1066,10 +1073,9 @@
 
 
 ## 8194371: The Peloponnese region of southern Greece
-[https://resource.manto.unh.edu/8190499](https://resource.manto.unh.edu/8190499)  
+[https://resource.manto.unh.edu/8194371](https://resource.manto.unh.edu/8194371)  
 
 ### alignments:
- - [Areopagus](https://pleiades.stoa.org/places/969121823)
  - [Peloponnesus/Peloponnesos/Peloponnese](https://pleiades.stoa.org/places/570577)
 
 
@@ -2286,14 +2292,14 @@
 
 
 ## Mount Tretos (Argolid)
-[https://manto.unh.edu/viewer.p/60/2616/object/6580-9878376](https://manto.unh.edu/viewer.p/60/2616/object/6580-9878376)  
+[https://resource.manto.unh.edu/9878376](https://resource.manto.unh.edu/9878376)  
 
 ### alignments:
  - [Tretos](https://pleiades.stoa.org/places/573567)
 
 
 ## Panionion (Ionia)
-[https://manto.unh.edu/viewer.p/60/2616/object/6580-10271714](https://manto.unh.edu/viewer.p/60/2616/object/6580-10271714)  
+[https://resource.manto.unh.edu/10271714](https://resource.manto.unh.edu/10271714)  
 
 ### alignments:
  - [Panionion](https://pleiades.stoa.org/places/599855)

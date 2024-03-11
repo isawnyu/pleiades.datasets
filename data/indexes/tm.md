@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3174 alignments exist in _Pleiades_ place references as of 2024-03-08. The following list of alignments is grouped by zotkey.
+3176 alignments exist in _Pleiades_ place references as of 2024-03-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -17537,6 +17537,13 @@
  - [Cilicius Aulon](https://pleiades.stoa.org/places/648602)
 
 
+## GEO ID 42653: Tiberiadis Mare
+[http://www.trismegistos.org/place/42653](http://www.trismegistos.org/place/42653)  
+
+### alignments:
+ - [Tiberiadis Mare/Gennesar Lacus](https://pleiades.stoa.org/places/678430)
+
+
 ## GEO ID 4265: Euangeliou Epoikion
 [https://www.trismegistos.org/place/4265](https://www.trismegistos.org/place/4265)  
 
@@ -20408,6 +20415,13 @@
 
 ### alignments:
  - [Aristonis](https://pleiades.stoa.org/places/785977)
+
+
+## GEO ID 55892: Letoon
+[https://www.trismegistos.org/place/55892](https://www.trismegistos.org/place/55892)  
+
+### alignments:
+ - [Letoon](https://pleiades.stoa.org/places/638958)
 
 
 ## GEO ID 56106
