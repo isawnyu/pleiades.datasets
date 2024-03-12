@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-331 alignments exist in _Pleiades_ place references as of 2024-03-11. The following list of alignments is grouped by zotkey.
+331 alignments exist in _Pleiades_ place references as of 2024-03-12. The following list of alignments is grouped by zotkey.
 
 ## 10055308: Helene (island off Attica)
 [https://resource.manto.unh.edu/10055308](https://resource.manto.unh.edu/10055308)  

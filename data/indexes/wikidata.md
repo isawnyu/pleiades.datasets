@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3203 alignments exist in _Pleiades_ place references as of 2024-03-11. The following list of alignments is grouped by zotkey.
+3204 alignments exist in _Pleiades_ place references as of 2024-03-12. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -406,6 +406,14 @@
 
 ### alignments:
  - [Sanctuary of Artemis Aristoboule](https://pleiades.stoa.org/places/42368654)
+
+
+## Arycanda (Q718048)
+[https://www.wikidata.org/wiki/Q718048](https://www.wikidata.org/wiki/Q718048)  
+
+### alignments:
+ - [Arykanda](https://pleiades.stoa.org/places/638769)
+ - [Arykanda](https://pleiades.stoa.org/places/638770)
 
 
 ## Ashkelon (Q60956)
@@ -19307,14 +19315,6 @@
  - [Pelargikon wall](https://pleiades.stoa.org/places/992770796)
 
 
-## Q718048
-[https://www.wikidata.org/wiki/Q718048](https://www.wikidata.org/wiki/Q718048)  
-
-### alignments:
- - [Arykanda](https://pleiades.stoa.org/places/638769)
- - [Arykanda](https://pleiades.stoa.org/places/638770)
-
-
 ## Q719815
 [https://www.wikidata.org/wiki/Q719815](https://www.wikidata.org/wiki/Q719815)  
 
@@ -21421,6 +21421,13 @@
 
 ### alignments:
  - [Roman theater at Col. Augusta Raurica](https://pleiades.stoa.org/places/489129227)
+
+
+## Roman Theatre of Brescia (Q3982365)
+[https://www.wikidata.org/wiki/Q3982365](https://www.wikidata.org/wiki/Q3982365)  
+
+### alignments:
+ - [Roman theater at Brixia](https://pleiades.stoa.org/places/417977726)
 
 
 ## Roman theatre of Sabratha (Q28974187)
