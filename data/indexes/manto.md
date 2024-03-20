@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-331 alignments exist in _Pleiades_ place references as of 2024-03-12. The following list of alignments is grouped by zotkey.
+333 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
 
 ## 10055308: Helene (island off Attica)
 [https://resource.manto.unh.edu/10055308](https://resource.manto.unh.edu/10055308)  
@@ -790,6 +790,13 @@
 
 ### alignments:
  - [Skotoussa (Thessaly)](https://pleiades.stoa.org/places/541107)
+
+
+## 10833986: Cynoscephalai (Thessaly)
+[https://resource.manto.unh.edu/10833986](https://resource.manto.unh.edu/10833986)  
+
+### alignments:
+ - [Cynoscephalae](https://pleiades.stoa.org/places/540719)
 
 
 ## 10853870: Pallene (Attica)
@@ -1591,6 +1598,13 @@
  - [Ossa (mountain)](https://pleiades.stoa.org/places/540993)
 
 
+## 9356921: Iolcos (Thessaly)
+[https://resource.manto.unh.edu/9356921](https://resource.manto.unh.edu/9356921)  
+
+### alignments:
+ - [Iolkos](https://pleiades.stoa.org/places/540837)
+
+
 ## 9358734: Andros (island)
 [https://resource.manto.unh.edu/9358734](https://resource.manto.unh.edu/9358734)  
 
@@ -2018,6 +2032,13 @@
  - [Kos (settlement)](https://pleiades.stoa.org/places/599728)
 
 
+## 9720421: Iton (Thessaly)
+[https://resource.manto.unh.edu/9720421](https://resource.manto.unh.edu/9720421)  
+
+### alignments:
+ - [Iton?](https://pleiades.stoa.org/places/540842)
+
+
 ## 9720423: Pteleon (Thessaly)
 [https://resource.manto.unh.edu/9720423](https://resource.manto.unh.edu/9720423)  
 
@@ -2310,12 +2331,5 @@
 
 ### alignments:
  - [Probalinthos](https://pleiades.stoa.org/places/580091)
-
-
-## River Selleis
-[https://resource.manto.unh.edu/9744210](https://resource.manto.unh.edu/9744210)  
-
-### alignments:
- - [Selleis (river)](https://pleiades.stoa.org/places/501604)
 
 

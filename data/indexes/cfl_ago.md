@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-266 alignments exist in _Pleiades_ place references as of 2024-03-12. The following list of alignments is grouped by zotkey.
+267 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -48,6 +48,13 @@
 
 ### alignments:
  - [Kastellion](https://pleiades.stoa.org/places/553704982)
+
+
+## KASTRO KALLITHÉAS - 2013
+[https://chronique.efa.gr/?kroute=report&id=4211](https://chronique.efa.gr/?kroute=report&id=4211)  
+
+### alignments:
+ - [Peuma(ta)](https://pleiades.stoa.org/places/541030)
 
 
 ## Kolona, Aigina - 2022

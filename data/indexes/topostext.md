@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3249 alignments exist in _Pleiades_ place references as of 2024-03-12. The following list of alignments is grouped by zotkey.
+3260 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7322,6 +7322,13 @@
  - [Eurymenai](https://pleiades.stoa.org/places/540784)
 
 
+## Eurysakeion (Athens)
+[https://topostext.org/place/380237SEur](https://topostext.org/place/380237SEur)  
+
+### alignments:
+ - [Eurysakeion](https://pleiades.stoa.org/places/79269910)
+
+
 ## Eutaia (Arkadia)
 [https://topostext.org/place/374223PEut](https://topostext.org/place/374223PEut)  
 
@@ -8505,6 +8512,13 @@
 
 ### alignments:
  - [Hellespont (strait)](https://pleiades.stoa.org/places/501434)
+
+
+## Hellomenon (Leukas)
+[https://topostext.org/place/387207UHel](https://topostext.org/place/387207UHel)  
+
+### alignments:
+ - [Hellomenon](https://pleiades.stoa.org/places/530888)
 
 
 ## Hellopia (Euboea)
@@ -11765,6 +11779,13 @@
  - [Lato](https://pleiades.stoa.org/places/589899)
 
 
+## Laumellum (Italia)
+[https://topostext.org/place/451088ULau](https://topostext.org/place/451088ULau)  
+
+### alignments:
+ - [Laumellum](https://pleiades.stoa.org/places/383690)
+
+
 ## Laureion region (Attica)
 [https://topostext.org/place/377241RLau](https://topostext.org/place/377241RLau)  
 
@@ -13623,6 +13644,13 @@
  - [Mevania](https://pleiades.stoa.org/places/413200)
 
 
+## Middle Stoa (Athens Agora)
+[https://topostext.org/place/380237BMSt](https://topostext.org/place/380237BMSt)  
+
+### alignments:
+ - [Middle Stoa](https://pleiades.stoa.org/places/337294881)
+
+
 ## Mieza (Edessa)
 [https://topostext.org/place/406221PMie](https://topostext.org/place/406221PMie)  
 
@@ -13698,6 +13726,13 @@
 
 ### alignments:
  - [Minoa (Pakheia Ammos)](https://pleiades.stoa.org/places/589934)
+
+
+## Mint (Athens Agora)
+[https://topostext.org/place/380237BMin](https://topostext.org/place/380237BMin)  
+
+### alignments:
+ - [Agora Mint](https://pleiades.stoa.org/places/100638613)
 
 
 ## Minturnae (Italy)
@@ -13790,6 +13825,13 @@
 
 ### alignments:
  - [Herakles Monoikos/Portus Monoeci](https://pleiades.stoa.org/places/157868)
+
+
+## Monopteros (Athens Agora)
+[https://topostext.org/place/380237BMon](https://topostext.org/place/380237BMon)  
+
+### alignments:
+ - [Monopteros](https://pleiades.stoa.org/places/87615187)
 
 
 ## Monte San Mauro site (Sicily)
@@ -14672,6 +14714,13 @@
 
 ### alignments:
  - [Nursia](https://pleiades.stoa.org/places/413229)
+
+
+## Nymphaion (Athens Agora)
+[https://topostext.org/place/380237BNyp](https://topostext.org/place/380237BNyp)  
+
+### alignments:
+ - [Nymphaion in the Athenian Agora](https://pleiades.stoa.org/places/145651853)
 
 
 ## Nymphaion (Crimea)
@@ -17568,6 +17617,13 @@
  - [Pnyx](https://pleiades.stoa.org/places/205264674)
 
 
+## Pnyx Fountain
+[https://topostext.org/place/380237BKal](https://topostext.org/place/380237BKal)  
+
+### alignments:
+ - [Pnyx fountain](https://pleiades.stoa.org/places/136008628)
+
+
 ## Pogonia site (Akarnania)
 [https://topostext.org/place/388208XPog](https://topostext.org/place/388208XPog)  
 
@@ -17818,6 +17874,13 @@
 
 ### alignments:
  - [Poros?](https://pleiades.stoa.org/places/580083)
+
+
+## Poros Bldg/State Prison (Athens Agora)
+[https://topostext.org/place/380237BPri](https://topostext.org/place/380237BPri)  
+
+### alignments:
+ - [Poros Building](https://pleiades.stoa.org/places/585794923)
 
 
 ## Porphyrites M. (Egypt)
@@ -19344,6 +19407,13 @@
  - [Serapis, T.](https://pleiades.stoa.org/places/541098)
 
 
+## Serbonitis lake (Egypt)
+[https://topostext.org/place/312332WSer](https://topostext.org/place/312332WSer)  
+
+### alignments:
+ - [Serbonitis (lake)](https://pleiades.stoa.org/places/688025)
+
+
 ## Serdica (Moesia)
 [https://topostext.org/place/427233USer](https://topostext.org/place/427233USer)  
 
@@ -19913,6 +19983,13 @@
 
 ### alignments:
  - [Southeast temple of the Athenian Agora](https://pleiades.stoa.org/places/34983805)
+
+
+## Southwest Bath (Athens Agora)
+[https://topostext.org/place/380237BSWB](https://topostext.org/place/380237BSWB)  
+
+### alignments:
+ - [Bath at northwest foot of the Areopagus](https://pleiades.stoa.org/places/276064291)
 
 
 ## Southwest Temple (Athens Agora)

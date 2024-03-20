@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3176 alignments exist in _Pleiades_ place references as of 2024-03-12. The following list of alignments is grouped by zotkey.
+3187 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2439,6 +2439,13 @@
 
 ### alignments:
  - [Apollonia](https://pleiades.stoa.org/places/491526)
+
+
+## GEO ID 12052: Itonion (Zerelia)
+[https://www.trismegistos.org/place/12052](https://www.trismegistos.org/place/12052)  
+
+### alignments:
+ - [Iton?](https://pleiades.stoa.org/places/540842)
 
 
 ## GEO ID 12058: Oloosson (Elassona)
@@ -6157,6 +6164,13 @@
 
 ### alignments:
  - [Thacia](https://pleiades.stoa.org/places/315195)
+
+
+## GEO ID 1762: Philadelpheia (Alaşehir)
+[http://www.trismegistos.org/place/1762](http://www.trismegistos.org/place/1762)  
+
+### alignments:
+ - [Philadelpheia](https://pleiades.stoa.org/places/550822)
 
 
 ## GEO ID 17632: Saltus Massipianus (Hammam)
@@ -12202,6 +12216,20 @@
  - [Druantium/*Alpis Cottia/Summae Alpes](https://pleiades.stoa.org/places/167743)
 
 
+## GEO ID 33196: Cuttiae (Cozzo)
+[http://www.trismegistos.org/place/33196](http://www.trismegistos.org/place/33196)  
+
+### alignments:
+ - [Cuttiae](https://pleiades.stoa.org/places/383630)
+
+
+## GEO ID 33197: Lambrum (Lambrinia)
+[https://www.trismegistos.org/place/33197](https://www.trismegistos.org/place/33197)  
+
+### alignments:
+ - [Lambrum](https://pleiades.stoa.org/places/383685)
+
+
 ## GEO ID 33198: Cales
 [http://www.trismegistos.org/place/33198](http://www.trismegistos.org/place/33198)  
 
@@ -12433,6 +12461,13 @@
  - [Noviomagus](https://pleiades.stoa.org/places/109218)
 
 
+## GEO ID 33390: Peuma (Kallithea-Kislar)
+[https://www.trismegistos.org/place/33390](https://www.trismegistos.org/place/33390)  
+
+### alignments:
+ - [Peuma(ta)](https://pleiades.stoa.org/places/541030)
+
+
 ## GEO ID 33395: Pereia (Tsournati Vrysi)
 [https://www.trismegistos.org/place/33395](https://www.trismegistos.org/place/33395)  
 
@@ -12482,6 +12517,13 @@
  - [Augustobona](https://pleiades.stoa.org/places/108775)
 
 
+## GEO ID 33450: Palaipharsalos
+[https://www.trismegistos.org/place/33450](https://www.trismegistos.org/place/33450)  
+
+### alignments:
+ - [Palaipharsalos](https://pleiades.stoa.org/places/541004)
+
+
 ## GEO ID 33453: Aiginion (Nea Koutsouphliani)
 [https://www.trismegistos.org/place/33453](https://www.trismegistos.org/place/33453)  
 
@@ -12522,6 +12564,13 @@
 
 ### alignments:
  - [Eurymenai](https://pleiades.stoa.org/places/540784)
+
+
+## GEO ID 33510: Iolkos (Bolos Kastro)
+[https://www.trismegistos.org/place/33510](https://www.trismegistos.org/place/33510)  
+
+### alignments:
+ - [Iolkos](https://pleiades.stoa.org/places/540837)
 
 
 ## GEO ID 33518: Methone (Nevestiki)
@@ -15003,6 +15052,13 @@
  - [Fraxinum?](https://pleiades.stoa.org/places/265900)
 
 
+## GEO ID 40883: Ad Gemellas
+[http://www.trismegistos.org/place/40883](http://www.trismegistos.org/place/40883)  
+
+### alignments:
+ - [Ad Gemellas?](https://pleiades.stoa.org/places/265771)
+
+
 ## GEO ID 40890: Aritium Praetorium (Tamazim?)
 [http://www.trismegistos.org/place/40890](http://www.trismegistos.org/place/40890)  
 
@@ -16282,6 +16338,13 @@
 
 ### alignments:
  - [Ad Figlinas](https://pleiades.stoa.org/places/383544)
+
+
+## GEO ID 41786: Quadrata
+[http://www.trismegistos.org/place/41786](http://www.trismegistos.org/place/41786)  
+
+### alignments:
+ - [Quadrata](https://pleiades.stoa.org/places/387333)
 
 
 ## GEO ID 41789: Ad Rubiconem
@@ -20642,6 +20705,13 @@
  - [Satyrion/Saturum](https://pleiades.stoa.org/places/442789)
 
 
+## GEO ID 60357: Kynoskephalai
+[https://www.trismegistos.org/place/60357](https://www.trismegistos.org/place/60357)  
+
+### alignments:
+ - [Cynoscephalae](https://pleiades.stoa.org/places/540719)
+
+
 ## Geo ID 604: Doura (Dura-Europos)
 [https://www.trismegistos.org/place/604](https://www.trismegistos.org/place/604)  
 
@@ -21839,6 +21909,13 @@
 
 ### alignments:
  - [Misenum](https://pleiades.stoa.org/places/432941)
+
+
+## GEO ID, 31554: Laumellum (Lomello)
+[www.trismegistos.org/place/31554](www.trismegistos.org/place/31554)  
+
+### alignments:
+ - [Laumellum](https://pleiades.stoa.org/places/383690)
 
 
 ## GEO ID, 31823: Libarna

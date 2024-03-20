@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3204 alignments exist in _Pleiades_ place references as of 2024-03-12. The following list of alignments is grouped by zotkey.
+3217 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -77,6 +77,13 @@
 
 ### alignments:
  - [Koite/Akytos (island)](https://pleiades.stoa.org/places/589873)
+
+
+## Agora nymphaion (Q24204667)
+[https://www.wikidata.org/wiki/Q24204667](https://www.wikidata.org/wiki/Q24204667)  
+
+### alignments:
+ - [Nymphaion in the Athenian Agora](https://pleiades.stoa.org/places/145651853)
 
 
 ## Agria Gramvousa (Q396561)
@@ -997,6 +1004,13 @@
  - [Dema House](https://pleiades.stoa.org/places/726345182)
 
 
+## Desmoterion (Q20379066)
+[https://www.wikidata.org/wiki/Q20379066](https://www.wikidata.org/wiki/Q20379066)  
+
+### alignments:
+ - [Poros Building](https://pleiades.stoa.org/places/585794923)
+
+
 ## Despotiko sanctuary (Q56450687)
 [https://www.wikidata.org/wiki/Q56450687](https://www.wikidata.org/wiki/Q56450687)  
 
@@ -1067,6 +1081,13 @@
  - [Basilica of Lechaion](https://pleiades.stoa.org/places/660349527)
 
 
+## East Building (Q24204680)
+[https://www.wikidata.org/wiki/Q24204680](https://www.wikidata.org/wiki/Q24204680)  
+
+### alignments:
+ - [East Building](https://pleiades.stoa.org/places/337294882)
+
+
 ## Ekklesiasterion of Agrigento (Q72703512)
 [https://www.wikidata.org/wiki/Q72703512](https://www.wikidata.org/wiki/Q72703512)  
 
@@ -1114,6 +1135,13 @@
 
 ### alignments:
  - [Ennea Hodoi](https://pleiades.stoa.org/places/501412)
+
+
+## Enneakrounos (Q3076015)
+[https://www.wikidata.org/wiki/Q3076015](https://www.wikidata.org/wiki/Q3076015)  
+
+### alignments:
+ - [Southeast fountain house](https://pleiades.stoa.org/places/124501558)
 
 
 ## Erasinos (Q12877267)
@@ -2117,6 +2145,13 @@
  - [Metapa](https://pleiades.stoa.org/places/540945)
 
 
+## Middle Stoa (Q17630694)
+[https://www.wikidata.org/wiki/Q17630694](https://www.wikidata.org/wiki/Q17630694)  
+
+### alignments:
+ - [Middle Stoa](https://pleiades.stoa.org/places/337294881)
+
+
 ## Mieza (Q132472)
 [https://www.wikidata.org/wiki/Q132472](https://www.wikidata.org/wiki/Q132472)  
 
@@ -2159,6 +2194,13 @@
  - [Zakros villa](https://pleiades.stoa.org/places/290225049)
 
 
+## Mint of Ancient Athens (Q3321024)
+[https://www.wikidata.org/wiki/Q3321024](https://www.wikidata.org/wiki/Q3321024)  
+
+### alignments:
+ - [Agora Mint](https://pleiades.stoa.org/places/100638613)
+
+
 ## Monastery of St. Elian (Q20858492)
 [https://www.wikidata.org/wiki/Q20858492](https://www.wikidata.org/wiki/Q20858492)  
 
@@ -2171,6 +2213,13 @@
 
 ### alignments:
  - [Minoa (promontory)](https://pleiades.stoa.org/places/570487)
+
+
+## Monopteros (Q24204669)
+[https://www.wikidata.org/wiki/Q24204669](https://www.wikidata.org/wiki/Q24204669)  
+
+### alignments:
+ - [Monopteros](https://pleiades.stoa.org/places/87615187)
 
 
 ## Monument of the Eponymous Heroes (Q2094507)
@@ -2404,6 +2453,13 @@
  - [Pagasaeus/Demetriacus Sinus](https://pleiades.stoa.org/places/540997)
 
 
+## Palaepharsalus (Q60790102)
+[https://www.wikidata.org/wiki/Q60790102](https://www.wikidata.org/wiki/Q60790102)  
+
+### alignments:
+ - [Palaipharsalos](https://pleiades.stoa.org/places/541004)
+
+
 ## Palaiopoli Archaeological Site (Q38283593)
 [https://www.wikidata.org/wiki/Q38283593](https://www.wikidata.org/wiki/Q38283593)  
 
@@ -2542,6 +2598,13 @@
 
 ### alignments:
  - [Roman theater at Petra](https://pleiades.stoa.org/places/612060179)
+
+
+## Peuma (Q17624989)
+[https://www.wikidata.org/wiki/Q17624989](https://www.wikidata.org/wiki/Q17624989)  
+
+### alignments:
+ - [Peuma(ta)](https://pleiades.stoa.org/places/541030)
 
 
 ## Phacusa (Q1658087)
@@ -21317,6 +21380,13 @@
  - [Ammonos Balithonos Akra/Caput Vada](https://pleiades.stoa.org/places/324666)
 
 
+## Red Basilica (Q2168194)
+[https://www.wikidata.org/wiki/Q2168194](https://www.wikidata.org/wiki/Q2168194)  
+
+### alignments:
+ - [Red Basilica](https://pleiades.stoa.org/places/923431995)
+
+
 ## Regillum (Q11945118)
 [https://www.wikidata.org/wiki/Q11945118](https://www.wikidata.org/wiki/Q11945118)  
 
@@ -21787,6 +21857,13 @@
  - [Southeast temple of the Athenian Agora](https://pleiades.stoa.org/places/34983805)
 
 
+## Southwest fountain house (Q24204673)
+[https://www.wikidata.org/wiki/Q24204673](https://www.wikidata.org/wiki/Q24204673)  
+
+### alignments:
+ - [Southwest fountain house](https://pleiades.stoa.org/places/935991896)
+
+
 ## Sparta (Q5690)
 [https://www.wikidata.org/wiki/Q5690](https://www.wikidata.org/wiki/Q5690)  
 
@@ -22103,6 +22180,13 @@
  - [Roman Baths of Como](https://pleiades.stoa.org/places/582358499)
 
 
+## Theatre of Cyrrhus (Q70772478)
+[https://www.wikidata.org/wiki/Q70772478](https://www.wikidata.org/wiki/Q70772478)  
+
+### alignments:
+ - [Theater at Cyrrus/Hagioupolis](https://pleiades.stoa.org/places/48167299)
+
+
 ## Thebes (Q11225429)
 [https://www.wikidata.org/wiki/Q11225429](https://www.wikidata.org/wiki/Q11225429)  
 
@@ -22115,6 +22199,13 @@
 
 ### alignments:
  - [Thetideion](https://pleiades.stoa.org/places/541144)
+
+
+## Tholos of Athens (Q9087412)
+[https://www.wikidata.org/wiki/Q9087412](https://www.wikidata.org/wiki/Q9087412)  
+
+### alignments:
+ - [Tholos of Athens](https://pleiades.stoa.org/places/91288718)
 
 
 ## Tholos tomb of Platyskinos (Q28749518)

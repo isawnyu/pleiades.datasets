@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-126 alignments exist in _Pleiades_ place references as of 2024-03-12. The following list of alignments is grouped by zotkey.
+127 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
 
 ## Findsot: Sounion
 [https://www.atticinscriptions.com/browse/byfindspot/sounion/](https://www.atticinscriptions.com/browse/byfindspot/sounion/)  
@@ -825,6 +825,13 @@
 
 ### alignments:
  - [Temple of Apollo Zoster](https://pleiades.stoa.org/places/579875)
+
+
+## Original Location: Sanctuary of Eurysakes
+[https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-eurysakes/](https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-eurysakes/)  
+
+### alignments:
+ - [Eurysakeion](https://pleiades.stoa.org/places/79269910)
 
 
 ## Original Location: Sardis
