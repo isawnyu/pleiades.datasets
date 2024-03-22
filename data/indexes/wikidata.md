@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3217 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
+3234 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -93,6 +93,13 @@
  - [Tretos? (island)](https://pleiades.stoa.org/places/590082)
 
 
+## Aiakeion (Q3144678)
+[https://www.wikidata.org/wiki/Q3144678](https://www.wikidata.org/wiki/Q3144678)  
+
+### alignments:
+ - [Aiakeion](https://pleiades.stoa.org/places/770861329)
+
+
 ## Aigai (Q404200)
 [https://www.wikidata.org/wiki/Q404200](https://www.wikidata.org/wiki/Q404200)  
 
@@ -168,6 +175,13 @@
 
 ### alignments:
  - [Alpenos](https://pleiades.stoa.org/places/540624)
+
+
+## Altar of Zeus Lykaios (Q124820762)
+[https://www.wikidata.org/wiki/Q124820762](https://www.wikidata.org/wiki/Q124820762)  
+
+### alignments:
+ - [Ash Altar of Zeus Lykaios](https://pleiades.stoa.org/places/535233377)
 
 
 ## Alvand (Q2302910)
@@ -315,6 +329,13 @@
 
 ### alignments:
  - [Apollonieis](https://pleiades.stoa.org/places/585888)
+
+
+## Apsidal Portico (Q3909056)
+[https://www.wikidata.org/wiki/Q3909056](https://www.wikidata.org/wiki/Q3909056)  
+
+### alignments:
+ - [Porticus Absidata](https://pleiades.stoa.org/places/245668206)
 
 
 ## Arcadia (Q12898802)
@@ -547,6 +568,13 @@
 
 ### alignments:
  - [Thermae Constantinianae](https://pleiades.stoa.org/places/933584945)
+
+
+## Bema of Phaidros (Q85746507)
+[https://www.wikidata.org/wiki/Q85746507](https://www.wikidata.org/wiki/Q85746507)  
+
+### alignments:
+ - [Bema of Phaidros](https://pleiades.stoa.org/places/866381505)
 
 
 ## Bembina (Argolis) (Q16537171)
@@ -1088,6 +1116,13 @@
  - [East Building](https://pleiades.stoa.org/places/337294882)
 
 
+## Eion (Q1268859)
+[https://www.wikidata.org/wiki/Q1268859](https://www.wikidata.org/wiki/Q1268859)  
+
+### alignments:
+ - [Eion](https://pleiades.stoa.org/places/501410)
+
+
 ## Ekklesiasterion of Agrigento (Q72703512)
 [https://www.wikidata.org/wiki/Q72703512](https://www.wikidata.org/wiki/Q72703512)  
 
@@ -1480,6 +1515,13 @@
  - [House of N. Popidius Priscus](https://pleiades.stoa.org/places/256404901)
 
 
+## House of Simon the cobbler (Q20379266)
+[https://www.wikidata.org/wiki/Q20379266](https://www.wikidata.org/wiki/Q20379266)  
+
+### alignments:
+ - [House of Simon the Shoemaker](https://pleiades.stoa.org/places/982727687)
+
+
 ## House of the Cabinet Maker (Q27070486)
 [https://www.wikidata.org/wiki/Q27070486](https://www.wikidata.org/wiki/Q27070486)  
 
@@ -1681,6 +1723,13 @@
 
 ### alignments:
  - [Kavousi Vronda](https://pleiades.stoa.org/places/247348185)
+
+
+## Kaymakçı Tepe (Q115805884)
+[https://www.wikidata.org/wiki/Q115805884](https://www.wikidata.org/wiki/Q115805884)  
+
+### alignments:
+ - [Kaymakçı](https://pleiades.stoa.org/places/886756147)
 
 
 ## Kef Castle (Q15823298)
@@ -1921,6 +1970,13 @@
  - [Lefkandi](https://pleiades.stoa.org/places/540909)
 
 
+## Leibethra (Q1753318)
+[https://www.wikidata.org/wiki/Q1753318](https://www.wikidata.org/wiki/Q1753318)  
+
+### alignments:
+ - [Leibethra](https://pleiades.stoa.org/places/491650)
+
+
 ## Letoon (Q703480)
 [https://www.wikidata.org/wiki/Q703480](https://www.wikidata.org/wiki/Q703480)  
 
@@ -2005,6 +2061,13 @@
  - [Luxmanda archaeological site](https://pleiades.stoa.org/places/896643025)
 
 
+## Lykaion Zeus sanctuary (Q111046342)
+[https://www.wikidata.org/wiki/Q111046342](https://www.wikidata.org/wiki/Q111046342)  
+
+### alignments:
+ - [Sanctuary of Zeus Lykaios](https://pleiades.stoa.org/places/570764)
+
+
 ## Lymax (Q15205042)
 [https://www.wikidata.org/wiki/Q15205042](https://www.wikidata.org/wiki/Q15205042)  
 
@@ -2031,6 +2094,13 @@
 
 ### alignments:
  - [Pindasos (mountain)](https://pleiades.stoa.org/places/550830)
+
+
+## Magarsa (Q11934549)
+[https://www.wikidata.org/wiki/Q11934549](https://www.wikidata.org/wiki/Q11934549)  
+
+### alignments:
+ - [Magarsa/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648701)
 
 
 ## Mainalo (Q2703145)
@@ -2145,6 +2215,13 @@
  - [Metapa](https://pleiades.stoa.org/places/540945)
 
 
+## Metroon of Athens (Q1925757)
+[https://www.wikidata.org/wiki/Q1925757](https://www.wikidata.org/wiki/Q1925757)  
+
+### alignments:
+ - [Old Bouleuterion/Metroon](https://pleiades.stoa.org/places/415689443)
+
+
 ## Middle Stoa (Q17630694)
 [https://www.wikidata.org/wiki/Q17630694](https://www.wikidata.org/wiki/Q17630694)  
 
@@ -2243,6 +2320,13 @@
  - [Gaurus (mount)](https://pleiades.stoa.org/places/432861)
 
 
+## Mount Lykaion (Q1878690)
+[https://www.wikidata.org/wiki/Q1878690](https://www.wikidata.org/wiki/Q1878690)  
+
+### alignments:
+ - [Lykaion (mountain)](https://pleiades.stoa.org/places/570441)
+
+
 ## Mount Titanus (Q60790426)
 [https://www.wikidata.org/wiki/Q60790426](https://www.wikidata.org/wiki/Q60790426)  
 
@@ -2332,6 +2416,13 @@
 
 ### alignments:
  - [Neviodunum](https://pleiades.stoa.org/places/197408)
+
+
+## New Bouleuterion (Q110442530)
+[https://www.wikidata.org/wiki/Q110442530](https://www.wikidata.org/wiki/Q110442530)  
+
+### alignments:
+ - [New Bouleuterion](https://pleiades.stoa.org/places/502723225)
 
 
 ## Nisiopi (Q915899)
@@ -2642,6 +2733,13 @@
  - [Phellos](https://pleiades.stoa.org/places/639052)
 
 
+## Phigalia (Q7623270)
+[https://www.wikidata.org/wiki/Q7623270](https://www.wikidata.org/wiki/Q7623270)  
+
+### alignments:
+ - [Phigaleia](https://pleiades.stoa.org/places/570598)
+
+
 ## Philaidai (Q13526169)
 [https://www.wikidata.org/wiki/Q13526169](https://www.wikidata.org/wiki/Q13526169)  
 
@@ -2754,6 +2852,13 @@
  - [Solestà Roman bridge](https://pleiades.stoa.org/places/413249072)
 
 
+## Porta Metronia (Q1964646)
+[https://www.wikidata.org/wiki/Q1964646](https://www.wikidata.org/wiki/Q1964646)  
+
+### alignments:
+ - [Porta Metronia](https://pleiades.stoa.org/places/591390531)
+
+
 ## Porta Salaria (Q1657663)
 [https://www.wikidata.org/wiki/Q1657663](https://www.wikidata.org/wiki/Q1657663)  
 
@@ -2766,6 +2871,13 @@
 
 ### alignments:
  - [Portus](https://pleiades.stoa.org/places/423012)
+
+
+## Poseidon Temple of Isthmia (Q18385210)
+[https://www.wikidata.org/wiki/Q18385210](https://www.wikidata.org/wiki/Q18385210)  
+
+### alignments:
+ - [Temple of Poseidon at Isthmia](https://pleiades.stoa.org/places/107524051)
 
 
 ## Praisos (Q11942554)
@@ -8665,13 +8777,6 @@
  - [Maghlub/Forat?/Perat de Meshan?/Bahman Ardashir?/‘Oratha’?/Furat al-Basra?](https://pleiades.stoa.org/places/912899)
 
 
-## Q18385210
-[https://www.wikidata.org/wiki/Q18385210](https://www.wikidata.org/wiki/Q18385210)  
-
-### alignments:
- - [Temple of Poseidon at Isthmia](https://pleiades.stoa.org/places/107524051)
-
-
 ## Q18397575: Regio III Isis et Serapis
 [https://www.wikidata.org/wiki/Q18397575](https://www.wikidata.org/wiki/Q18397575)  
 
@@ -9204,13 +9309,6 @@
 
 ### alignments:
  - [Lykos (river)](https://pleiades.stoa.org/places/678269)
-
-
-## Q1964646: Porta Metronia
-[https://www.wikidata.org/wiki/Q1964646](https://www.wikidata.org/wiki/Q1964646)  
-
-### alignments:
- - [Porta Metronia](https://pleiades.stoa.org/places/591390531)
 
 
 ## Q19652366: Berenikidai
@@ -21549,6 +21647,13 @@
  - [Bad Neuenahr-Ahrweiler](https://pleiades.stoa.org/places/108786)
 
 
+## Salamis (Q767089)
+[https://www.wikidata.org/wiki/Q767089](https://www.wikidata.org/wiki/Q767089)  
+
+### alignments:
+ - [Salamis/Konstantia](https://pleiades.stoa.org/places/707617)
+
+
 ## Salinello (Q647364)
 [https://www.wikidata.org/wiki/Q647364](https://www.wikidata.org/wiki/Q647364)  
 
@@ -21722,6 +21827,13 @@
 
 ### alignments:
  - [Scaugdae](https://pleiades.stoa.org/places/222178)
+
+
+## Seha River Land (Q752265)
+[https://www.wikidata.org/wiki/Q752265](https://www.wikidata.org/wiki/Q752265)  
+
+### alignments:
+ - [Šeḫa River Land](https://pleiades.stoa.org/places/415460394)
 
 
 ## Sellasia (Q59431661)
@@ -21904,6 +22016,13 @@
 
 ### alignments:
  - [Stanwick Iron Age Fortifications](https://pleiades.stoa.org/places/267388585)
+
+
+## Stoa of Eumenes (Q1905296)
+[https://www.wikidata.org/wiki/Q1905296](https://www.wikidata.org/wiki/Q1905296)  
+
+### alignments:
+ - [Stoa of Eumenes](https://pleiades.stoa.org/places/3347126)
 
 
 ## Stratos (Q25408797)

@@ -1,5 +1,12 @@
 # _Pleiades_ alignments with MANTO
-333 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
+346 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
+
+## 10043139: River Asterion (Argolid)
+[https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
+
+### alignments:
+ - [Asterion (river)](https://pleiades.stoa.org/places/570133)
+
 
 ## 10055308: Helene (island off Attica)
 [https://resource.manto.unh.edu/10055308](https://resource.manto.unh.edu/10055308)  
@@ -8,11 +15,46 @@
  - [Helena (island)](https://pleiades.stoa.org/places/579945)
 
 
+## 10055351: Enna
+[https://resource.manto.unh.edu/10055351](https://resource.manto.unh.edu/10055351)  
+
+### alignments:
+ - [(H)Enna](https://pleiades.stoa.org/places/462236)
+
+
+## 10055494: Phigaleia
+[https://www.manto-myth.org/manto](https://www.manto-myth.org/manto)  
+
+### alignments:
+ - [Phigaleia](https://pleiades.stoa.org/places/570598)
+
+
+## 10055500: Issa
+[https://resource.manto.unh.edu/10055500](https://resource.manto.unh.edu/10055500)  
+
+### alignments:
+ - [Issa?](https://pleiades.stoa.org/places/550599)
+
+
+## 10055563: Leibethra
+[https://resource.manto.unh.edu/10055563](https://resource.manto.unh.edu/10055563)  
+
+### alignments:
+ - [Leibethra](https://pleiades.stoa.org/places/491650)
+
+
 ## 10055564: Pimpleia (Macedonia)
 [https://resource.manto.unh.edu/10055564](https://resource.manto.unh.edu/10055564)  
 
 ### alignments:
  - [Pimpleia](https://pleiades.stoa.org/places/491697)
+
+
+## 10057160: Eion
+[https://resource.manto.unh.edu/10057160](https://resource.manto.unh.edu/10057160)  
+
+### alignments:
+ - [Eion](https://pleiades.stoa.org/places/501410)
 
 
 ## 10057163: Mount Typhrestos (Thessaly)
@@ -27,6 +69,34 @@
 
 ### alignments:
  - [Mallos/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648702)
+
+
+## 10057200: Magarsos
+[https://resource.manto.unh.edu/10057200](https://resource.manto.unh.edu/10057200)  
+
+### alignments:
+ - [Magarsa/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648701)
+
+
+## 10057213: Salamis
+[https://resource.manto.unh.edu/10057213](https://resource.manto.unh.edu/10057213)  
+
+### alignments:
+ - [Salamis/Konstantia](https://pleiades.stoa.org/places/707617)
+
+
+## 10073065: Elaious
+[https://resource.manto.unh.edu/10073065](https://resource.manto.unh.edu/10073065)  
+
+### alignments:
+ - [Elaious](https://pleiades.stoa.org/places/501411)
+
+
+## 10082237: Dyme
+[https://resource.manto.unh.edu/10082237](https://resource.manto.unh.edu/10082237)  
+
+### alignments:
+ - [Dyme](https://pleiades.stoa.org/places/570205)
 
 
 ## 10082250: Golgoi (Cyprus)
@@ -55,6 +125,13 @@
 
 ### alignments:
  - [Lucrinus (lake)](https://pleiades.stoa.org/places/432915)
+
+
+## 10113585: Mount Lycaion (Arcadia)
+[https://resource.manto.unh.edu/10113585](https://resource.manto.unh.edu/10113585)  
+
+### alignments:
+ - [Lykaion (mountain)](https://pleiades.stoa.org/places/570441)
 
 
 ## 10113656: Thouria (Messenia)
@@ -748,6 +825,13 @@
 
 ### alignments:
  - [Keryneia](https://pleiades.stoa.org/places/570354)
+
+
+## 10473826: the Sanctuary of Zeus (Mt Lycaion)
+[https://resource.manto.unh.edu/10473826](https://resource.manto.unh.edu/10473826)  
+
+### alignments:
+ - [Sanctuary of Zeus Lykaios](https://pleiades.stoa.org/places/570764)
 
 
 ## 10764695: Hagnous (Attica)
@@ -1799,6 +1883,13 @@
 
 ### alignments:
  - [Atabyrion (mountain)](https://pleiades.stoa.org/places/589717)
+
+
+## 9612969: Isthmia (Argolid)
+[https://resource.manto.unh.edu/9612969](https://resource.manto.unh.edu/9612969)  
+
+### alignments:
+ - [Isthmia](https://pleiades.stoa.org/places/570316)
 
 
 ## 9612990: India

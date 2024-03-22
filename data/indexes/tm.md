@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3187 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
+3196 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -183,6 +183,13 @@
 
 ### alignments:
  - [Atrax](https://pleiades.stoa.org/places/540682)
+
+
+## Geo 12065: Eion (Christoupolis)
+[https://www.trismegistos.org/place/12065](https://www.trismegistos.org/place/12065)  
+
+### alignments:
+ - [Eion](https://pleiades.stoa.org/places/501410)
 
 
 ## Geo 12119: Tempe
@@ -514,6 +521,13 @@
 ### alignments:
  - [Rhodos (island)](https://pleiades.stoa.org/places/590031)
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
+
+
+## Geo 2075: Salamis
+[https://www.trismegistos.org/place/2075](https://www.trismegistos.org/place/2075)  
+
+### alignments:
+ - [Salamis/Konstantia](https://pleiades.stoa.org/places/707617)
 
 
 ## Geo 2082: Samothraike (island (in the sea); city)
@@ -966,6 +980,13 @@
  - [Kyrros](https://pleiades.stoa.org/places/491647)
 
 
+## Geo 33989: Leibethra (Leptokarya)
+[https://www.trismegistos.org/place/33989](https://www.trismegistos.org/place/33989)  
+
+### alignments:
+ - [Leibethra](https://pleiades.stoa.org/places/491650)
+
+
 ## Geo 34091: Lefkandi
 [https://www.trismegistos.org/place/34091](https://www.trismegistos.org/place/34091)  
 
@@ -992,6 +1013,13 @@
 
 ### alignments:
  - [Syrna](https://pleiades.stoa.org/places/599953)
+
+
+## Geo 34245: Magarsa (Karataş)
+[https://www.trismegistos.org/place/34245](https://www.trismegistos.org/place/34245)  
+
+### alignments:
+ - [Magarsa/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648701)
 
 
 ## Geo 34304: Klazomenai
@@ -1606,6 +1634,13 @@
 
 ### alignments:
  - [Koukos](https://pleiades.stoa.org/places/501479)
+
+
+## Geo 58911: Elaious
+[https://www.trismegistos.org/place/58911](https://www.trismegistos.org/place/58911)  
+
+### alignments:
+ - [Elaious](https://pleiades.stoa.org/places/501411)
 
 
 ## Geo 59651: Apollonia (Sıçak)
@@ -5032,6 +5067,13 @@
  - [Krokeai](https://pleiades.stoa.org/places/570385)
 
 
+## GEO ID 15746: Isthmia (Kyras Vrysi)
+[http://www.trismegistos.org/place/15746](http://www.trismegistos.org/place/15746)  
+
+### alignments:
+ - [Isthmia](https://pleiades.stoa.org/places/570316)
+
+
 ## GEO ID 15748
 [http://www.trismegistos.org/place/15748](http://www.trismegistos.org/place/15748)  
 
@@ -7676,6 +7718,13 @@
 
 ### alignments:
  - [Pantelleria (island)](https://pleiades.stoa.org/places/462168)
+
+
+## GEO ID 22265
+[https://www.trismegistos.org/place/22265](https://www.trismegistos.org/place/22265)  
+
+### alignments:
+ - [(H)Enna](https://pleiades.stoa.org/places/462236)
 
 
 ## GEO ID 22266: Liparaeae Insulae
@@ -13294,6 +13343,13 @@
  - [Lilaia](https://pleiades.stoa.org/places/540915)
 
 
+## GEO ID 3643: Lykaion
+[https://www.trismegistos.org/place/3643](https://www.trismegistos.org/place/3643)  
+
+### alignments:
+ - [Lykaion (mountain)](https://pleiades.stoa.org/places/570441)
+
+
 ## GEO ID 364: Athenai
 [http://www.trismegistos.org/place/364](http://www.trismegistos.org/place/364)  
 
@@ -13705,6 +13761,13 @@
 
 ### alignments:
  - [Kotilion (mountain)](https://pleiades.stoa.org/places/570377)
+
+
+## GEO ID 37703
+[https://www.trismegistos.org/place/37703](https://www.trismegistos.org/place/37703)  
+
+### alignments:
+ - [Phigaleia](https://pleiades.stoa.org/places/570598)
 
 
 ## GEO ID 37704: Psophis

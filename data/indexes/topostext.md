@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3260 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
+3268 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -34,6 +34,13 @@
 
 ### alignments:
  - [Sanctuary of Artemis Limnatis at Messene](https://pleiades.stoa.org/places/287975074)
+
+
+## 374218PPhi: Phigaleia or Phialeia (Eleia) 91 Phigaleia - Φιγαλεία
+[https://topostext.org/place/374218PPhi](https://topostext.org/place/374218PPhi)  
+
+### alignments:
+ - [Phigaleia](https://pleiades.stoa.org/places/570598)
 
 
 ## 375217SArt: Artemis Limnatis sanct. (Eleia) Artemida - Ιερό Λιμνάτιδος Αρτέμιδος
@@ -609,6 +616,13 @@
 
 ### alignments:
  - [Agyrium](https://pleiades.stoa.org/places/462082)
+
+
+## Aiakeion (sanctuary of Aeacus)
+[https://topostext.org/place/380237SAia](https://topostext.org/place/380237SAia)  
+
+### alignments:
+ - [Aiakeion](https://pleiades.stoa.org/places/770861329)
 
 
 ## Aiane (Kozani)
@@ -3987,6 +4001,13 @@
  - [Belsinon/*Balsio](https://pleiades.stoa.org/places/246235)
 
 
+## Bema (Athens Agora)
+[https://topostext.org/place/380237BBem](https://topostext.org/place/380237BBem)  
+
+### alignments:
+ - [Bema](https://pleiades.stoa.org/places/935360966)
+
+
 ## Bene (Irakleio)
 [https://topostext.org/place/350251UBen](https://topostext.org/place/350251UBen)  
 
@@ -4307,6 +4328,13 @@
 
 ### alignments:
  - [Boukephalos](https://pleiades.stoa.org/places/570161)
+
+
+## Bouleuterion (Athens Agora)
+[https://topostext.org/place/380237BBol](https://topostext.org/place/380237BBol)  
+
+### alignments:
+ - [New Bouleuterion](https://pleiades.stoa.org/places/502723225)
 
 
 ## Boulis (Boeotia)
@@ -7222,6 +7250,13 @@
 
 ### alignments:
  - [Fulvia/Eumeneia](https://pleiades.stoa.org/places/609382)
+
+
+## Eumenes Stoa (Athens)
+[https://topostext.org/place/380237BEum](https://topostext.org/place/380237BEum)  
+
+### alignments:
+ - [Stoa of Eumenes](https://pleiades.stoa.org/places/3347126)
 
 
 ## Euonymon (Attica)
@@ -12578,6 +12613,13 @@
  - [Lydda/Diospolis/Georgioupolis](https://pleiades.stoa.org/places/687953)
 
 
+## Lykaion Mt. (Arkadia)
+[https://topostext.org/place/375220LLyk](https://topostext.org/place/375220LLyk)  
+
+### alignments:
+ - [Lykaion (mountain)](https://pleiades.stoa.org/places/570441)
+
+
 ## Lykastos (Irakleio)
 [https://topostext.org/place/352251ULyk](https://topostext.org/place/352251ULyk)  
 
@@ -13607,6 +13649,13 @@
 
 ### alignments:
  - [Methymna](https://pleiades.stoa.org/places/550738)
+
+
+## Metroon (Athens)
+[https://topostext.org/place/380238BMet](https://topostext.org/place/380238BMet)  
+
+### alignments:
+ - [Old Bouleuterion/Metroon](https://pleiades.stoa.org/places/415689443)
 
 
 ## Metroon temple (Olympia)
@@ -22789,6 +22838,13 @@
 
 ### alignments:
  - [Zeus, T.](https://pleiades.stoa.org/places/570763)
+
+
+## Zeus Lykaios altar (Arkadia)
+[https://topostext.org/Zeus Lykaios altar (Arkadia)](https://topostext.org/Zeus Lykaios altar (Arkadia))  
+
+### alignments:
+ - [Ash Altar of Zeus Lykaios](https://pleiades.stoa.org/places/535233377)
 
 
 ## Zeus Ombrios on Parnes (Attica)

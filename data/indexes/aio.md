@@ -1,5 +1,12 @@
 # _Pleiades_ alignments with AIO
-127 alignments exist in _Pleiades_ place references as of 2024-03-20. The following list of alignments is grouped by zotkey.
+128 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
+
+## : RO 26
+[https://www.atticinscriptions.com/inscription/RO/26](https://www.atticinscriptions.com/inscription/RO/26)  
+
+### alignments:
+ - [Aiakeion](https://pleiades.stoa.org/places/770861329)
+
 
 ## Findsot: Sounion
 [https://www.atticinscriptions.com/browse/byfindspot/sounion/](https://www.atticinscriptions.com/browse/byfindspot/sounion/)  
