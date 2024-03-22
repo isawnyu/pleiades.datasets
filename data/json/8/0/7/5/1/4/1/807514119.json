@@ -789,10 +789,10 @@
             },
             "id": "osm-location-of-ancient-agora-of-athens",
             "properties": {
-                "description": "Representative location based on OpenStreetMap",
+                "description": "Location of the archaeological site of the Ancient Agora of Athens based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/807514119/osm-location-of-ancient-agora-of-athens",
                 "location_precision": "precise",
-                "snippet": "Archaeological-site",
+                "snippet": "Archaeological-site; AD 2000 - AD 2099",
                 "title": "OSM location of Ancient Agora of Athens"
             },
             "type": "Feature"
@@ -944,9 +944,23 @@
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [],
-            "created": "2023-12-07T01:28:21Z",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
+                }
+            ],
+            "created": "2024-03-16T16:04:36Z",
             "creators": [
                 {
                     "homepage": null,
@@ -955,9 +969,9 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Representative location based on OpenStreetMap",
+            "description": "Location of the archaeological site of the Ancient Agora of Athens based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
                 "archaeological-site"
             ],
@@ -1567,6 +1581,11 @@
             },
             "history": [
                 {
+                    "comment": "Change to an \"associated modern location\", since this OSM location gives the borders of the modern archaeological park, which are not coterminous with the ancient Agora (it includes land outside the Agora to the south and excludes unexcavated areas of the Agora to the north)\r\nhttps://pleiades.stoa.org/help/editorial-guidelines#section-7 says \"Note that geometry associated with the modern extent of an archaeological area or preserve should be treated as an Associated Modern Location (q.v.).\"",
+                    "modified": "2024-03-20T14:44:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Baseline created",
                     "modified": "2024-03-16T16:04:35Z",
                     "modifiedBy": "cdlisle"
@@ -1604,7 +1623,7 @@
             ],
             "id": "osm-location-of-ancient-agora-of-athens",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
@@ -1624,7 +1643,7 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
+            "start": 2000,
             "title": "OSM location of Ancient Agora of Athens",
             "uri": "https://pleiades.stoa.org/places/807514119/osm-location-of-ancient-agora-of-athens"
         }
