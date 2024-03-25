@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3196 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
+3204 alignments exist in _Pleiades_ place references as of 2024-03-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -714,6 +714,13 @@
  - [Kos (settlement)](https://pleiades.stoa.org/places/599728)
 
 
+## Geo 2797: Lapethos (Lampousa)
+[https://www.trismegistos.org/place/2797](https://www.trismegistos.org/place/2797)  
+
+### alignments:
+ - [Lapethos/Lepethis Phoinikon](https://pleiades.stoa.org/places/707555)
+
+
 ## Geo 2808: Plinthine
 [https://www.trismegistos.org/place/2808](https://www.trismegistos.org/place/2808)  
 
@@ -1229,7 +1236,7 @@
 [https://www.trismegistos.org/place/37820](https://www.trismegistos.org/place/37820)  
 
 ### alignments:
- - [Eutresis](https://pleiades.stoa.org/places/540787)
+ - [Eutresis (Boeotia)](https://pleiades.stoa.org/places/540787)
 
 
 ## Geo 37843: Tenea
@@ -3622,6 +3629,13 @@
 
 ### alignments:
  - [Tadinae](https://pleiades.stoa.org/places/413330)
+
+
+## GEO ID 14396: Hispellum (Spello)
+[http://www.trismegistos.org/place/14396](http://www.trismegistos.org/place/14396)  
+
+### alignments:
+ - [Hispellum](https://pleiades.stoa.org/places/413170)
 
 
 ## GEO ID 14397: Fulginiae (Foligno)
@@ -11614,6 +11628,13 @@
  - [Volturnum](https://pleiades.stoa.org/places/433210)
 
 
+## GEO ID 32625: Cingulum (Cingoli)
+[http://www.trismegistos.org/place/32625](http://www.trismegistos.org/place/32625)  
+
+### alignments:
+ - [Cingulum](https://pleiades.stoa.org/places/413082)
+
+
 ## GEO ID 32626: Septempeda (San Severino Marche)
 [http://www.trismegistos.org/place/32626](http://www.trismegistos.org/place/32626)  
 
@@ -12475,11 +12496,18 @@
  - [Coronea](https://pleiades.stoa.org/places/540717)
 
 
-## GEO ID 33357
+## GEO ID 33357: Leuktra (Parapoungia)
 [http://www.trismegistos.org/place/33357](http://www.trismegistos.org/place/33357)  
 
 ### alignments:
  - [Leuktra](https://pleiades.stoa.org/places/540913)
+
+
+## GEO ID 33361: Onchestos (Steni)
+[http://www.trismegistos.org/place/33361](http://www.trismegistos.org/place/33361)  
+
+### alignments:
+ - [Onchestos](https://pleiades.stoa.org/places/540984)
 
 
 ## GEO ID 33366: Skolos (Neokhorakion)
@@ -12991,6 +13019,13 @@
 
 ### alignments:
  - [Meroe](https://pleiades.stoa.org/places/805630)
+
+
+## GEO ID 34616: Hadrianopolis (Eğneş)
+[https://www.trismegistos.org/place/34616](https://www.trismegistos.org/place/34616)  
+
+### alignments:
+ - [Hadrianopolis/Hadriani](https://pleiades.stoa.org/places/638852)
 
 
 ## GEO ID 34635: Midaion (Karahüyük)
@@ -13651,6 +13686,13 @@
  - [Aigeira](https://pleiades.stoa.org/places/570043)
 
 
+## GEO ID 37596: Helike
+[https://www.trismegistos.org/place/37596](https://www.trismegistos.org/place/37596)  
+
+### alignments:
+ - [Helike](https://pleiades.stoa.org/places/570281)
+
+
 ## GEO ID 37597: Keryneia (Mamousia)
 [https://www.trismegistos.org/place/37597](https://www.trismegistos.org/place/37597)  
 
@@ -13831,6 +13873,13 @@
 
 ### alignments:
  - [Ikarion](https://pleiades.stoa.org/places/579958)
+
+
+## GEO ID 37761: Koroneia
+[https://www.trismegistos.org/place/37761](https://www.trismegistos.org/place/37761)  
+
+### alignments:
+ - [Koroneia Pr.](https://pleiades.stoa.org/places/579990)
 
 
 ## GEO ID 37763: Lamptrai Paraloi (Kitsi)
@@ -20871,6 +20920,13 @@
 
 ### alignments:
  - [Pharmakoussai/Choirades (islands)](https://pleiades.stoa.org/places/580073)
+
+
+## GEO ID 60773: Drymos
+[https://www.trismegistos.org/place/60773](https://www.trismegistos.org/place/60773)  
+
+### alignments:
+ - [Drymos](https://pleiades.stoa.org/places/585903)
 
 
 ## GEO ID 60799: Pan Cave

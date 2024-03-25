@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-346 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
+356 alignments exist in _Pleiades_ place references as of 2024-03-25. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -33,7 +33,7 @@
 [https://resource.manto.unh.edu/10055500](https://resource.manto.unh.edu/10055500)  
 
 ### alignments:
- - [Issa?](https://pleiades.stoa.org/places/550599)
+ - [Xirokastrini](https://pleiades.stoa.org/places/550599)
 
 
 ## 10055563: Leibethra
@@ -99,11 +99,39 @@
  - [Dyme](https://pleiades.stoa.org/places/570205)
 
 
+## 10082241: Boura
+[https://resource.manto.unh.edu//10082241](https://resource.manto.unh.edu//10082241)  
+
+### alignments:
+ - [Kastro ano Diakopto](https://pleiades.stoa.org/places/570166)
+
+
+## 10082247: Lapethos
+[https://resource.manto.unh.edu/10082247](https://resource.manto.unh.edu/10082247)  
+
+### alignments:
+ - [Lapethos/Lepethis Phoinikon](https://pleiades.stoa.org/places/707555)
+
+
+## 10082248: Therapne
+[https://resource.manto.unh.edu/10082248](https://resource.manto.unh.edu/10082248)  
+
+### alignments:
+ - [Therapne](https://pleiades.stoa.org/places/570723)
+
+
 ## 10082250: Golgoi (Cyprus)
 [https://resource.manto.unh.edu/10082250](https://resource.manto.unh.edu/10082250)  
 
 ### alignments:
  - [Golgoi](https://pleiades.stoa.org/places/707512)
+
+
+## 10082252: Argyrippa
+[https://resource.manto.unh.edu/10082252](https://resource.manto.unh.edu/10082252)  
+
+### alignments:
+ - [Argos Hippium/Arpi/Argyripa](https://pleiades.stoa.org/places/442476)
 
 
 ## 10082559: Achaia (region in the northern Peloponnese)
@@ -568,6 +596,13 @@
  - [Lampeia (mountain)](https://pleiades.stoa.org/places/570410)
 
 
+## 10214638: the Sanctuary of the Cabeiroi (Thebes)
+[https://resource.manto.unh.edu/10214638](https://resource.manto.unh.edu/10214638)  
+
+### alignments:
+ - [Kabeirion](https://pleiades.stoa.org/places/540844)
+
+
 ## 10214779: Methana (Argolid)
 [https://resource.manto.unh.edu/10214779](https://resource.manto.unh.edu/10214779)  
 
@@ -853,6 +888,13 @@
 
 ### alignments:
  - [Heraklion](https://pleiades.stoa.org/places/589802)
+
+
+## 10772026: Leuctra (Boiotia)
+[https://resource.manto.unh.edu/10772026](https://resource.manto.unh.edu/10772026)  
+
+### alignments:
+ - [Leuktra](https://pleiades.stoa.org/places/540913)
 
 
 ## 10774304: Lake Copais (Boiotia)
@@ -1458,6 +1500,20 @@
  - [Attica](https://pleiades.stoa.org/places/579888)
 
 
+## 8253967: Thespiai (Boiotia)
+[https://resource.manto.unh.edu/8253967](https://resource.manto.unh.edu/8253967)  
+
+### alignments:
+ - [Thespiai](https://pleiades.stoa.org/places/541141)
+
+
+## 8253968: Onchestos (Boiotia)
+[https://resource.manto.unh.edu/8253968](https://resource.manto.unh.edu/8253968)  
+
+### alignments:
+ - [Onchestos](https://pleiades.stoa.org/places/540984)
+
+
 ## 8253972: Delphi (city and sanctuary in Phocis)
 [https://resource.manto.unh.edu/8253972](https://resource.manto.unh.edu/8253972)  
 
@@ -1983,6 +2039,13 @@
  - [Eteonos/Skaphaliai](https://pleiades.stoa.org/places/543704)
 
 
+## 9651955: Coroneia (Boiotia)
+[https://resource.manto.unh.edu/9651955](https://resource.manto.unh.edu/9651955)  
+
+### alignments:
+ - [Coronea](https://pleiades.stoa.org/places/540717)
+
+
 ## 9688193: River Parthenios (Paphlagonia)
 [https://resource.manto.unh.edu/9688193](https://resource.manto.unh.edu/9688193)  
 
@@ -2051,6 +2114,13 @@
 
 ### alignments:
  - [Mases](https://pleiades.stoa.org/places/570463)
+
+
+## 9718749: Helice (Achaia)
+[https://resource.manto.unh.edu/9718749](https://resource.manto.unh.edu/9718749)  
+
+### alignments:
+ - [Helike](https://pleiades.stoa.org/places/570281)
 
 
 ## 9718751: Lake Gygaia (Asia Minor)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3268 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
+3273 alignments exist in _Pleiades_ place references as of 2024-03-25. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4355,7 +4355,7 @@
 [https://topostext.org/place/381222PBou](https://topostext.org/place/381222PBou)  
 
 ### alignments:
- - [Boura](https://pleiades.stoa.org/places/570166)
+ - [Kastro ano Diakopto](https://pleiades.stoa.org/places/570166)
 
 
 ## Bous (Bosporos)
@@ -5623,6 +5623,13 @@
 
 ### alignments:
  - [‘Crouciaconnum’](https://pleiades.stoa.org/places/69495)
+
+
+## Crossroads Enclosure (Athens Agora)
+[https://topostext.org/place/380237SCrE](https://topostext.org/place/380237SCrE)  
+
+### alignments:
+ - [Crossroads Enclosure](https://pleiades.stoa.org/places/251170827)
 
 
 ## Croton (Magna Graecia)
@@ -7389,7 +7396,7 @@
 [https://topostext.org/place/383232PEut](https://topostext.org/place/383232PEut)  
 
 ### alignments:
- - [Eutresis](https://pleiades.stoa.org/places/540787)
+ - [Eutresis (Boeotia)](https://pleiades.stoa.org/places/540787)
 
 
 ## Evriokastro island fortress (Paros)
@@ -9782,6 +9789,13 @@
  - [Kabeireion](https://pleiades.stoa.org/places/550604)
 
 
+## Kabeirion (Boeotia)
+[https://topostext.org/place/383233SKab](https://topostext.org/place/383233SKab)  
+
+### alignments:
+ - [Kabeirion](https://pleiades.stoa.org/places/540844)
+
+
 ## Kabyle (Bulgaria)
 [https://topostext.org/place/425265PKab](https://topostext.org/place/425265PKab)  
 
@@ -11007,6 +11021,13 @@
  - [Korone](https://pleiades.stoa.org/places/530960)
 
 
+## Koroneia fort (Attica)
+[https://topostext.org/place/379241LKor](https://topostext.org/place/379241LKor)  
+
+### alignments:
+ - [Koroneia Pr.](https://pleiades.stoa.org/places/579990)
+
+
 ## Koronta (Akarnania)
 [https://topostext.org/place/386212PKor](https://topostext.org/place/386212PKor)  
 
@@ -12177,6 +12198,13 @@
 
 ### alignments:
  - [Leukos Oikos](https://pleiades.stoa.org/places/707562)
+
+
+## Leuktra (Boeotia)
+[https://topostext.org/place/383231ULeu](https://topostext.org/place/383231ULeu)  
+
+### alignments:
+ - [Leuktra](https://pleiades.stoa.org/places/540913)
 
 
 ## Leuktron (Arkadia)
@@ -21370,6 +21398,13 @@
 
 ### alignments:
  - [Thorikos](https://pleiades.stoa.org/places/580119)
+
+
+## Thorikos double stoa (Attica)
+[https://topostext.org/place/377240STho](https://topostext.org/place/377240STho)  
+
+### alignments:
+ - [Double Stoa at Thorikos](https://pleiades.stoa.org/places/842459208)
 
 
 ## Thouria (Messenia) 32 Aithaia/Hellenika - Θουρία

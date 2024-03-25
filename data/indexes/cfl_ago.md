@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-267 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
+268 alignments exist in _Pleiades_ place references as of 2024-03-25. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -216,6 +216,13 @@
 
 ### alignments:
  - [Antikyra](https://pleiades.stoa.org/places/540642)
+
+
+## Report 3930: KASTRO ANO DIAKOPTOU - 2001
+[https://chronique.efa.gr/?kroute=report&id=3930](https://chronique.efa.gr/?kroute=report&id=3930)  
+
+### alignments:
+ - [Kastro ano Diakopto](https://pleiades.stoa.org/places/570166)
 
 
 ## Report 5103: KARTHAIA
@@ -790,7 +797,7 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=51826](https://chronique.efa.gr/?kroute=topo_public&id=51826)  
 
 ### alignments:
- - [Eutresis](https://pleiades.stoa.org/places/540787)
+ - [Eutresis (Boeotia)](https://pleiades.stoa.org/places/540787)
 
 
 ## Toponym 60239: Yeronisos, Geronisos Island

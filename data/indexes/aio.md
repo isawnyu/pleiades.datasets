@@ -1,5 +1,12 @@
 # _Pleiades_ alignments with AIO
-128 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
+129 alignments exist in _Pleiades_ place references as of 2024-03-25. The following list of alignments is grouped by zotkey.
+
+## 847
+[https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
+
+### alignments:
+ - [Koroneia Pr.](https://pleiades.stoa.org/places/579990)
+
 
 ## : RO 26
 [https://www.atticinscriptions.com/inscription/RO/26](https://www.atticinscriptions.com/inscription/RO/26)  

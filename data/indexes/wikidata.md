@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3234 alignments exist in _Pleiades_ place references as of 2024-03-22. The following list of alignments is grouped by zotkey.
+3243 alignments exist in _Pleiades_ place references as of 2024-03-25. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -619,6 +619,13 @@
  - [Botzdorf Roman villa](https://pleiades.stoa.org/places/674712659)
 
 
+## Boura (Q3555318)
+[https://www.wikidata.org/wiki/Q3555318](https://www.wikidata.org/wiki/Q3555318)  
+
+### alignments:
+ - [Kastro ano Diakopto](https://pleiades.stoa.org/places/570166)
+
+
 ## Bozdağ (Q896117)
 [https://www.wikidata.org/wiki/Q896117](https://www.wikidata.org/wiki/Q896117)  
 
@@ -645,6 +652,13 @@
 
 ### alignments:
  - [Bouto](https://pleiades.stoa.org/places/727094)
+
+
+## Cabeirion of Thebes (Q15206356)
+[https://www.wikidata.org/wiki/Q15206356](https://www.wikidata.org/wiki/Q15206356)  
+
+### alignments:
+ - [Kabeirion](https://pleiades.stoa.org/places/540844)
 
 
 ## Cadmea of Thebes (Q1276854)
@@ -1424,6 +1438,13 @@
  - [The Queen's Megaron (Palace of Minos)](https://pleiades.stoa.org/places/271668241)
 
 
+## Helike (Q1432654)
+[https://www.wikidata.org/wiki/Q1432654](https://www.wikidata.org/wiki/Q1432654)  
+
+### alignments:
+ - [Helike](https://pleiades.stoa.org/places/570281)
+
+
 ## Helisson (Q15137556)
 [https://www.wikidata.org/wiki/Q15137556](https://www.wikidata.org/wiki/Q15137556)  
 
@@ -1464,6 +1485,13 @@
 
 ### alignments:
  - [Esbous](https://pleiades.stoa.org/places/697662)
+
+
+## Hispellum amphitheatre (Q28978078)
+[https://www.wikidata.org/wiki/Q28978078](https://www.wikidata.org/wiki/Q28978078)  
+
+### alignments:
+ - [Roman amphitheater at Hispellum](https://pleiades.stoa.org/places/251063522)
 
 
 ## Horomos (Q2727504)
@@ -1928,6 +1956,13 @@
  - [Lampeia (mountain)](https://pleiades.stoa.org/places/570410)
 
 
+## Lapathus (Q1329990)
+[https://www.wikidata.org/wiki/Q1329990](https://www.wikidata.org/wiki/Q1329990)  
+
+### alignments:
+ - [Lapethos/Lepethis Phoinikon](https://pleiades.stoa.org/places/707555)
+
+
 ## Large rock-cut temple (Q56083253)
 [https://www.wikidata.org/wiki/Q56083253](https://www.wikidata.org/wiki/Q56083253)  
 
@@ -2045,6 +2080,13 @@
 
 ### alignments:
  - [Lixus (river)](https://pleiades.stoa.org/places/275667)
+
+
+## Lugii (Q1094816)
+[https://www.wikidata.org/wiki/Q1094816](https://www.wikidata.org/wiki/Q1094816)  
+
+### alignments:
+ - [Lugii](https://pleiades.stoa.org/places/20533)
 
 
 ## Lusitania (Q188650)
@@ -2514,6 +2556,13 @@
 
 ### alignments:
  - [Old Kandahar citadel](https://pleiades.stoa.org/places/630721027)
+
+
+## Onchestus (Q3063303)
+[https://www.wikidata.org/wiki/Q3063303](https://www.wikidata.org/wiki/Q3063303)  
+
+### alignments:
+ - [Onchestos](https://pleiades.stoa.org/places/540984)
 
 
 ## Ophryneion (Q17155146)
@@ -21752,6 +21801,13 @@
  - [Hermes, Aphrodite, T.](https://pleiades.stoa.org/places/589805)
 
 
+## Sanctuary of the People and the Graces (Q125116985)
+[https://www.wikidata.org/wiki/Q125116985](https://www.wikidata.org/wiki/Q125116985)  
+
+### alignments:
+ - [Sanctuary of the People and Graces](https://pleiades.stoa.org/places/407584240)
+
+
 ## Sandık Dağı (Q31507675)
 [https://www.wikidata.org/wiki/Q31507675](https://www.wikidata.org/wiki/Q31507675)  
 
@@ -22311,6 +22367,13 @@
 
 ### alignments:
  - [Thebai/Thebae](https://pleiades.stoa.org/places/541138)
+
+
+## Therapne (Q15940498)
+[https://www.wikidata.org/wiki/Q15940498](https://www.wikidata.org/wiki/Q15940498)  
+
+### alignments:
+ - [Therapne](https://pleiades.stoa.org/places/570723)
 
 
 ## Thetidium (Q60790511)
