@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3243 alignments exist in _Pleiades_ place references as of 2024-03-26. The following list of alignments is grouped by zotkey.
+3248 alignments exist in _Pleiades_ place references as of 2024-03-27. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -175,6 +175,13 @@
 
 ### alignments:
  - [Alpenos](https://pleiades.stoa.org/places/540624)
+
+
+## Altar of the Twelve Gods (Q2872376)
+[https://www.wikidata.org/wiki/Q2872376](https://www.wikidata.org/wiki/Q2872376)  
+
+### alignments:
+ - [Altar of the Twelve Gods](https://pleiades.stoa.org/places/676120270)
 
 
 ## Altar of Zeus Lykaios (Q124820762)
@@ -2831,6 +2838,13 @@
  - [Pidasa](https://pleiades.stoa.org/places/599890)
 
 
+## Piddington Roman Villa (Q6531640)
+[https://www.wikidata.org/wiki/Q6531640](https://www.wikidata.org/wiki/Q6531640)  
+
+### alignments:
+ - [Piddington](https://pleiades.stoa.org/places/79640)
+
+
 ## Pindus (Q201582)
 [https://www.wikidata.org/wiki/Q201582](https://www.wikidata.org/wiki/Q201582)  
 
@@ -2850,6 +2864,13 @@
 
 ### alignments:
  - [Pnyx](https://pleiades.stoa.org/places/205264674)
+
+
+## Polyandrion of the Thespians (Q94626879)
+[https://www.wikidata.org/wiki/Q94626879](https://www.wikidata.org/wiki/Q94626879)  
+
+### alignments:
+ - [Thespian Polyandrion (Boeotia)](https://pleiades.stoa.org/places/35638987)
 
 
 ## Polymedium (Q65072494)
@@ -2906,6 +2927,13 @@
 
 ### alignments:
  - [Porta Metronia](https://pleiades.stoa.org/places/591390531)
+
+
+## Porta Nomentana (Q644765)
+[https://www.wikidata.org/wiki/Q644765](https://www.wikidata.org/wiki/Q644765)  
+
+### alignments:
+ - [Porta Nomentana](https://pleiades.stoa.org/places/187832462)
 
 
 ## Porta Salaria (Q1657663)
@@ -22472,6 +22500,13 @@
 
 ### alignments:
  - [Torre Ciega](https://pleiades.stoa.org/places/180293130)
+
+
+## Tower of Koronia (Q108664788)
+[https://www.wikidata.org/wiki/Q108664788](https://www.wikidata.org/wiki/Q108664788)  
+
+### alignments:
+ - [Tower of Koronia](https://pleiades.stoa.org/places/688532642)
 
 
 ## Triphylia (Q472032)

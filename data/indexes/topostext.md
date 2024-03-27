@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3273 alignments exist in _Pleiades_ place references as of 2024-03-26. The following list of alignments is grouped by zotkey.
+3277 alignments exist in _Pleiades_ place references as of 2024-03-27. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1247,6 +1247,13 @@
 
 ### alignments:
  - [Alsium](https://pleiades.stoa.org/places/422831)
+
+
+## Altar of the Twelve Gods (Athens Agora)
+[https://topostext.org/place/380237SATG](https://topostext.org/place/380237SATG)  
+
+### alignments:
+ - [Altar of the Twelve Gods](https://pleiades.stoa.org/places/676120270)
 
 
 ## Altars of the Philainoi (Libya)
@@ -11025,7 +11032,7 @@
 [https://topostext.org/place/379241LKor](https://topostext.org/place/379241LKor)  
 
 ### alignments:
- - [Koroneia Pr.](https://pleiades.stoa.org/places/579990)
+ - [Koroni](https://pleiades.stoa.org/places/579991)
 
 
 ## Koronta (Akarnania)
@@ -11861,6 +11868,13 @@
 
 ### alignments:
  - [Lauriacum](https://pleiades.stoa.org/places/118802)
+
+
+## Lauro/*Olaurum (Iberia)
+[https://topostext.org/place/373000ULau](https://topostext.org/place/373000ULau)  
+
+### alignments:
+ - [Lauro/*Olaurum](https://pleiades.stoa.org/places/256261)
 
 
 ## Lavinium (Latium)
@@ -18002,6 +18016,13 @@
  - [Arch of Gallienus](https://pleiades.stoa.org/places/29110684)
 
 
+## Porta Nomentana (Rome)
+[https://topostext.org/place/419125FPNo](https://topostext.org/place/419125FPNo)  
+
+### alignments:
+ - [Porta Nomentana](https://pleiades.stoa.org/places/187832462)
+
+
 ## Porta Ostiensis (Rome)
 [https://topostext.org/place/419125FPOs](https://topostext.org/place/419125FPOs)  
 
@@ -21300,6 +21321,13 @@
 
 ### alignments:
  - [Thespiai](https://pleiades.stoa.org/places/541141)
+
+
+## Thespian Polyandrion (Boeotia)
+[https://topostext.org/place/383232GThP](https://topostext.org/place/383232GThP)  
+
+### alignments:
+ - [Thespian Polyandrion (Boeotia)](https://pleiades.stoa.org/places/35638987)
 
 
 ## Thessalonica (Thessaloniki)

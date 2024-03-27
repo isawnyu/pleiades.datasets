@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-356 alignments exist in _Pleiades_ place references as of 2024-03-26. The following list of alignments is grouped by zotkey.
+359 alignments exist in _Pleiades_ place references as of 2024-03-27. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -902,6 +902,20 @@
 
 ### alignments:
  - [Copais L.](https://pleiades.stoa.org/places/540715)
+
+
+## 10774932: the Grove of Poseidon (Onchestos)
+[https://resource.manto.unh.edu/10774932](https://resource.manto.unh.edu/10774932)  
+
+### alignments:
+ - [Sanctuary of Poseidon (Onchestos)](https://pleiades.stoa.org/places/162490152)
+
+
+## 10774937: the Sanctuary of Heracles (Thespiai)
+[https://resource.manto.unh.edu/10774937](https://resource.manto.unh.edu/10774937)  
+
+### alignments:
+ - [Sanctuary of Heracles (Thespiai)](https://pleiades.stoa.org/places/571386563)
 
 
 ## 10785401: The Temple of Apollo (Delos)
@@ -1897,6 +1911,13 @@
 
 ### alignments:
  - [Olympia](https://pleiades.stoa.org/places/570531)
+
+
+## 9610214: the Sanctuary of Poseidon (Onchestos)
+[https://resource.manto.unh.edu/9610214](https://resource.manto.unh.edu/9610214)  
+
+### alignments:
+ - [Sanctuary of Poseidon (Onchestos)](https://pleiades.stoa.org/places/162490152)
 
 
 ## 9611997: River Sangarios (Phrygia)

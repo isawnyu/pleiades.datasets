@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3204 alignments exist in _Pleiades_ place references as of 2024-03-26. The following list of alignments is grouped by zotkey.
+3205 alignments exist in _Pleiades_ place references as of 2024-03-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8868,6 +8868,13 @@
  - [Nabrissa](https://pleiades.stoa.org/places/256322)
 
 
+## GEO ID 26228: Olaurum (Lora de Estepa)
+[http://www.trismegistos.org/place/26228](http://www.trismegistos.org/place/26228)  
+
+### alignments:
+ - [Lauro/*Olaurum](https://pleiades.stoa.org/places/256261)
+
+
 ## GEO ID 26234: Lucurgentum (Morón de la Frontera)
 [http://www.trismegistos.org/place/26234](http://www.trismegistos.org/place/26234)  
 
@@ -13879,7 +13886,7 @@
 [https://www.trismegistos.org/place/37761](https://www.trismegistos.org/place/37761)  
 
 ### alignments:
- - [Koroneia Pr.](https://pleiades.stoa.org/places/579990)
+ - [Koroneia (promontory)](https://pleiades.stoa.org/places/579990)
 
 
 ## GEO ID 37763: Lamptrai Paraloi (Kitsi)
