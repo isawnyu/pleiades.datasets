@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-269 alignments exist in _Pleiades_ place references as of 2024-03-27. The following list of alignments is grouped by zotkey.
+271 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -195,6 +195,13 @@
 
 ### alignments:
  - [Kition](https://pleiades.stoa.org/places/707534)
+
+
+## Report 2418: PALLANTION - 2009
+[https://chronique.efa.gr/?kroute=report&id=2418](https://chronique.efa.gr/?kroute=report&id=2418)  
+
+### alignments:
+ - [Pallantion](https://pleiades.stoa.org/places/570548)
 
 
 ## Report 2427: MEGALOPOLIS - 2009
@@ -1858,6 +1865,13 @@
 ### alignments:
  - [Megaloi Theoi (sanctuary, Samothrace)](https://pleiades.stoa.org/places/501511)
  - [Samothrace (settlement)](https://pleiades.stoa.org/places/501596)
+
+
+## Toponyme 7969: Pallandion, Besiri
+[https://chronique.efa.gr/?kroute=topo_public&id=7969](https://chronique.efa.gr/?kroute=topo_public&id=7969)  
+
+### alignments:
+ - [Pallantion](https://pleiades.stoa.org/places/570548)
 
 
 ## Toponyme 8493: Ag. Andreas, Metapa (119/1957), Bourlesia

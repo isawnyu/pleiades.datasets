@@ -1,11 +1,18 @@
 # _Pleiades_ alignments with Wikidata
-3248 alignments exist in _Pleiades_ place references as of 2024-03-27. The following list of alignments is grouped by zotkey.
+3251 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
 
 ### alignments:
  - [San Pancrazio al Fango](https://pleiades.stoa.org/places/598123712)
+
+
+## Abia (Messenia) (Q5860118)
+[https://www.wikidata.org/wiki/Q5860118](https://www.wikidata.org/wiki/Q5860118)  
+
+### alignments:
+ - [Abia](https://pleiades.stoa.org/places/570027)
 
 
 ## Achaea (Q2790451)
@@ -343,6 +350,13 @@
 
 ### alignments:
  - [Porticus Absidata](https://pleiades.stoa.org/places/245668206)
+
+
+## Ara Pacis (Q623612)
+[https://www.wikidata.org/wiki/Q623612](https://www.wikidata.org/wiki/Q623612)  
+
+### alignments:
+ - [Ara Pacis Augustae](https://pleiades.stoa.org/places/816091000)
 
 
 ## Arcadia (Q12898802)
@@ -2612,6 +2626,13 @@
 
 ### alignments:
  - [Samothrace (settlement)](https://pleiades.stoa.org/places/501596)
+
+
+## Pallantion (Q11939941)
+[https://www.wikidata.org/wiki/Q11939941](https://www.wikidata.org/wiki/Q11939941)  
+
+### alignments:
+ - [Pallantion](https://pleiades.stoa.org/places/570548)
 
 
 ## Pamphylia (Q585250)
@@ -18489,13 +18510,6 @@
  - [Alpes Cottiae](https://pleiades.stoa.org/places/982258)
 
 
-## Q623612: Ara Pacis
-[https://www.wikidata.org/wiki/Q623612](https://www.wikidata.org/wiki/Q623612)  
-
-### alignments:
- - [Ara Pacis Augustae](https://pleiades.stoa.org/places/816091000)
-
-
 ## Q624638: Arachosia
 [https://www.wikidata.org/wiki/Q624638](https://www.wikidata.org/wiki/Q624638)  
 
@@ -22107,6 +22121,13 @@
 
 ### alignments:
  - [Stoa of Eumenes](https://pleiades.stoa.org/places/3347126)
+
+
+## Stoa Poikile (Q936234)
+[https://www.wikidata.org/wiki/Q936234](https://www.wikidata.org/wiki/Q936234)  
+
+### alignments:
+ - [Stoa Poikile](https://pleiades.stoa.org/places/143098101)
 
 
 ## Stratos (Q25408797)

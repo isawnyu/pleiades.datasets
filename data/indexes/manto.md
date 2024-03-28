@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-359 alignments exist in _Pleiades_ place references as of 2024-03-27. The following list of alignments is grouped by zotkey.
+361 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -23,7 +23,7 @@
 
 
 ## 10055494: Phigaleia
-[https://www.manto-myth.org/manto](https://www.manto-myth.org/manto)  
+[https://resource.manto.unh.edu/10055494](https://resource.manto.unh.edu/10055494)  
 
 ### alignments:
  - [Phigaleia](https://pleiades.stoa.org/places/570598)
@@ -100,7 +100,7 @@
 
 
 ## 10082241: Boura
-[https://resource.manto.unh.edu//10082241](https://resource.manto.unh.edu//10082241)  
+[https://resource.manto.unh.edu/10082241](https://resource.manto.unh.edu/10082241)  
 
 ### alignments:
  - [Kastro ano Diakopto](https://pleiades.stoa.org/places/570166)
@@ -155,6 +155,13 @@
  - [Lucrinus (lake)](https://pleiades.stoa.org/places/432915)
 
 
+## 10113505: Abia
+[https://resource.manto.unh.edu/10113505](https://resource.manto.unh.edu/10113505)  
+
+### alignments:
+ - [Abia](https://pleiades.stoa.org/places/570027)
+
+
 ## 10113585: Mount Lycaion (Arcadia)
 [https://resource.manto.unh.edu/10113585](https://resource.manto.unh.edu/10113585)  
 
@@ -188,6 +195,13 @@
 
 ### alignments:
  - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
+
+
+## 10126110: Pallantion
+[https://resource.manto.unh.edu/10126110](https://resource.manto.unh.edu/10126110)  
+
+### alignments:
+ - [Pallantion](https://pleiades.stoa.org/places/570548)
 
 
 ## 10126121: River Neda (Arcadia/Messenia/Elis)

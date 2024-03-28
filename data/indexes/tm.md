@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3205 alignments exist in _Pleiades_ place references as of 2024-03-27. The following list of alignments is grouped by zotkey.
+3208 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1218,6 +1218,13 @@
  - [Nestane](https://pleiades.stoa.org/places/570507)
 
 
+## Geo 37699: Pallantion
+[https://www.trismegistos.org/place/37699](https://www.trismegistos.org/place/37699)  
+
+### alignments:
+ - [Pallantion](https://pleiades.stoa.org/places/570548)
+
+
 ## Geo 37768: Marathon
 [https://www.trismegistos.org/place/37768](https://www.trismegistos.org/place/37768)  
 
@@ -1293,6 +1300,13 @@
 
 ### alignments:
  - [Thalamai](https://pleiades.stoa.org/places/570715)
+
+
+## Geo 38013: Abia
+[https://www.trismegistos.org/place/38013](https://www.trismegistos.org/place/38013)  
+
+### alignments:
+ - [Abia](https://pleiades.stoa.org/places/570027)
 
 
 ## Geo 38118: Antikyra
@@ -20850,6 +20864,13 @@
 
 ### alignments:
  - [Panormos](https://pleiades.stoa.org/places/541010)
+
+
+## GEO ID 60665: Agryle Hypenerthen
+[https://www.trismegistos.org/place/60665](https://www.trismegistos.org/place/60665)  
+
+### alignments:
+ - [Agryle Hypenerthen](https://pleiades.stoa.org/places/579848)
 
 
 ## GEO ID 60667: Eiresidai

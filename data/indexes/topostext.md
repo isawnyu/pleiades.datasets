@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3277 alignments exist in _Pleiades_ place references as of 2024-03-27. The following list of alignments is grouped by zotkey.
+3280 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -595,6 +595,13 @@
 
 ### alignments:
  - [Agrinion](https://pleiades.stoa.org/places/540599)
+
+
+## Agryle Hypenerthen (Attica)
+[https://topostext.org/place/380237DAgr](https://topostext.org/place/380237DAgr)  
+
+### alignments:
+ - [Agryle Hypenerthen](https://pleiades.stoa.org/places/579848)
 
 
 ## Agryle Kathyperthen (Attica) 3 SW Ardettos? - Αγρυλειής καθύπερθεν
@@ -2038,6 +2045,13 @@
 
 ### alignments:
  - [Aphrodite Golgia](https://pleiades.stoa.org/places/707470)
+
+
+## Aphrodite Ourania altar (Athens Agora)
+[https://topostext.org/place/380237SApO](https://topostext.org/place/380237SApO)  
+
+### alignments:
+ - [Sanctuary of Aphrodite Ourania](https://pleiades.stoa.org/places/435244729)
 
 
 ## Aphrodite sanctuary (Attica)
@@ -20242,6 +20256,13 @@
 
 ### alignments:
  - [Stoa of Attalos](https://pleiades.stoa.org/places/759679649)
+
+
+## Stoa Poikile (Athens)
+[https://topostext.org/place/380237BSPo](https://topostext.org/place/380237BSPo)  
+
+### alignments:
+ - [Stoa Poikile](https://pleiades.stoa.org/places/143098101)
 
 
 ## Stobi (FYRoM)
