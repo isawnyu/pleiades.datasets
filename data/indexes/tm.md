@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3208 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
+3209 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1048,6 +1048,13 @@
 
 ### alignments:
  - [Phellos](https://pleiades.stoa.org/places/639052)
+
+
+## Geo 345: Asine (Koroni)
+[https://www.trismegistos.org/place/345](https://www.trismegistos.org/place/345)  
+
+### alignments:
+ - [Asine](https://pleiades.stoa.org/places/570125)
 
 
 ## Geo 3516: Kelenderis (Aydıncık)

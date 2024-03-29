@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3280 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
+3282 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -48,6 +48,13 @@
 
 ### alignments:
  - [Sanctuary of Artemis Limnatis on Mount Lapithos](https://pleiades.stoa.org/places/570119)
+
+
+## 376222PHel: Helisson (Arkadia) 7 Piana - Ελισσών
+[https://topostext.org/place/376222PHel](https://topostext.org/place/376222PHel)  
+
+### alignments:
+ - [Helisson](https://pleiades.stoa.org/places/570282)
 
 
 ## 377228FPyr: Pyrgouthi tower (Argolid) Prosymna - Πύργουθι
@@ -19595,6 +19602,13 @@
 
 ### alignments:
  - [Sexi/Saxetanum](https://pleiades.stoa.org/places/266038)
+
+
+## Shrine of Aglauros (Athens)
+[https://topostext.org/place/380237SAgl](https://topostext.org/place/380237SAgl)  
+
+### alignments:
+ - [Sanctuary of Aglauros](https://pleiades.stoa.org/places/965050506)
 
 
 ## shrine of Kodros, Neleus and Basile (Athens)

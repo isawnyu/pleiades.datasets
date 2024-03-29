@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3251 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
+3254 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -470,6 +470,13 @@
 
 ### alignments:
  - [Ashqelon/Ascalon](https://pleiades.stoa.org/places/687839)
+
+
+## Asine (Messenia) (Q16488997)
+[https://www.wikidata.org/wiki/Q16488997](https://www.wikidata.org/wiki/Q16488997)  
+
+### alignments:
+ - [Asine](https://pleiades.stoa.org/places/570125)
 
 
 ## Asterousia Mountains (Q3566939)
@@ -1018,6 +1025,13 @@
  - [Pityoussa/Petrossa? (island)](https://pleiades.stoa.org/places/648739)
 
 
+## Daseae (Q5226539)
+[https://www.wikidata.org/wiki/Q5226539](https://www.wikidata.org/wiki/Q5226539)  
+
+### alignments:
+ - [Dasea(i)](https://pleiades.stoa.org/places/570188)
+
+
 ## Dattalla (Q17628598)
 [https://www.wikidata.org/wiki/Q17628598](https://www.wikidata.org/wiki/Q17628598)  
 
@@ -1471,6 +1485,13 @@
 
 ### alignments:
  - [Helisson (river in modern Megalopoli)](https://pleiades.stoa.org/places/570284)
+
+
+## Helisson (Q5706174)
+[https://www.wikidata.org/wiki/Q5706174](https://www.wikidata.org/wiki/Q5706174)  
+
+### alignments:
+ - [Helisson](https://pleiades.stoa.org/places/570282)
 
 
 ## Hephaistia (Q5731882)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-361 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
+364 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -225,6 +225,20 @@
  - [Helisson (river in modern Sikyona municipality)](https://pleiades.stoa.org/places/570283)
 
 
+## 10126257: Helisson
+[https://resource.manto.unh.edu/10126257](https://resource.manto.unh.edu/10126257)  
+
+### alignments:
+ - [Helisson](https://pleiades.stoa.org/places/570282)
+
+
+## 10126264: Daseai
+[https://resource.manto.unh.edu/10126264](https://resource.manto.unh.edu/10126264)  
+
+### alignments:
+ - [Dasea(i)](https://pleiades.stoa.org/places/570188)
+
+
 ## 10126442: River Eurotas (Laconia)
 [https://resource.manto.unh.edu/10126442](https://resource.manto.unh.edu/10126442)  
 
@@ -244,6 +258,13 @@
 
 ### alignments:
  - [Taygetos (mountain)](https://pleiades.stoa.org/places/570706)
+
+
+## 10127951: Asine
+[https://resource.manto.unh.edu/10127951](https://resource.manto.unh.edu/10127951)  
+
+### alignments:
+ - [Asine](https://pleiades.stoa.org/places/570125)
 
 
 ## 10127953: Patrai (Achaia)

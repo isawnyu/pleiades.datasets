@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-129 alignments exist in _Pleiades_ place references as of 2024-03-28. The following list of alignments is grouped by zotkey.
+130 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -832,6 +832,13 @@
 
 ### alignments:
  - [Roman Agora of Athens](https://pleiades.stoa.org/places/773761100)
+
+
+## Original Location: Sanctuary of Aglauros
+[https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-aglauros/](https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-aglauros/)  
+
+### alignments:
+ - [Sanctuary of Aglauros](https://pleiades.stoa.org/places/965050506)
 
 
 ## Original Location: Sanctuary of Apollo Zoster at Halai Aixonides
