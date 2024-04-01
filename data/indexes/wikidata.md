@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3254 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
+3263 alignments exist in _Pleiades_ place references as of 2024-04-01. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -119,6 +119,13 @@
 
 ### alignments:
  - [Ain Dara temple](https://pleiades.stoa.org/places/818918654)
+
+
+## Aiolou street excavations (Q38279581)
+[https://www.wikidata.org/wiki/Q38279581](https://www.wikidata.org/wiki/Q38279581)  
+
+### alignments:
+ - [Acharnian Gate](https://pleiades.stoa.org/places/249767015)
 
 
 ## Aixone (Q13424322)
@@ -500,6 +507,13 @@
  - [Attica](https://pleiades.stoa.org/places/579888)
 
 
+## Augusta Bagiennorum amphitheatre (Q28977997)
+[https://www.wikidata.org/wiki/Q28977997](https://www.wikidata.org/wiki/Q28977997)  
+
+### alignments:
+ - [Augusta Bagiennorum amphitheater](https://pleiades.stoa.org/places/950560042)
+
+
 ## Aurès Mountains (Q62624)
 [https://www.wikidata.org/wiki/Q62624](https://www.wikidata.org/wiki/Q62624)  
 
@@ -514,6 +528,13 @@
  - [Aveia](https://pleiades.stoa.org/places/413046)
 
 
+## Avella Roman amphitheatre (Q28378828)
+[https://www.wikidata.org/wiki/Q28378828](https://www.wikidata.org/wiki/Q28378828)  
+
+### alignments:
+ - [Roman amphitheater at Abella](https://pleiades.stoa.org/places/395695982)
+
+
 ## Azania (Q60791680)
 [https://www.wikidata.org/wiki/Q60791680](https://www.wikidata.org/wiki/Q60791680)  
 
@@ -526,6 +547,13 @@
 
 ### alignments:
  - [Baebiana](https://pleiades.stoa.org/places/422848)
+
+
+## Baghdad (Q1530)
+[https://www.wikidata.org/wiki/Q1530](https://www.wikidata.org/wiki/Q1530)  
+
+### alignments:
+ - [Bagdata](https://pleiades.stoa.org/places/893952)
 
 
 ## Bainbridge Roman fort and annexe (Q17677518)
@@ -1109,6 +1137,13 @@
  - [Ferme d'Ithe](https://pleiades.stoa.org/places/108928)
 
 
+## Dipylon (Q3708916)
+[https://www.wikidata.org/wiki/Q3708916](https://www.wikidata.org/wiki/Q3708916)  
+
+### alignments:
+ - [Dipylon Gate](https://pleiades.stoa.org/places/310115518)
+
+
 ## Doric temple of Segesta (Q3983280)
 [https://www.wikidata.org/wiki/Q3983280](https://www.wikidata.org/wiki/Q3983280)  
 
@@ -1163,6 +1198,13 @@
 
 ### alignments:
  - [East Building](https://pleiades.stoa.org/places/337294882)
+
+
+## Eetioneia (Q56397345)
+[https://www.wikidata.org/wiki/Q56397345](https://www.wikidata.org/wiki/Q56397345)  
+
+### alignments:
+ - [Eetioneia Hellenistic gateway](https://pleiades.stoa.org/places/487072545)
 
 
 ## Eion (Q1268859)
@@ -1632,6 +1674,13 @@
 
 ### alignments:
  - [Hyperteleaton](https://pleiades.stoa.org/places/570302)
+
+
+## Hypsus (Q12885662)
+[https://www.wikidata.org/wiki/Q12885662](https://www.wikidata.org/wiki/Q12885662)  
+
+### alignments:
+ - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
 
 
 ## Imbrasos (Q25123205)
@@ -14425,13 +14474,6 @@
  - [‘Eltavori’ (river)](https://pleiades.stoa.org/places/79450)
 
 
-## Q3708916: Dipylon
-[https://www.wikidata.org/wiki/Q3708916](https://www.wikidata.org/wiki/Q3708916)  
-
-### alignments:
- - [Dipylon Gate](https://pleiades.stoa.org/places/310115518)
-
-
 ## Q3715786: Dubris Pharos
 [https://www.wikidata.org/wiki/Q3715786](https://www.wikidata.org/wiki/Q3715786)  
 
@@ -21633,6 +21675,13 @@
  - [Rhittenia?](https://pleiades.stoa.org/places/590029)
 
 
+## Roman Amphitheatre of Ancona (Q3616680)
+[https://www.wikidata.org/wiki/Q3616680](https://www.wikidata.org/wiki/Q3616680)  
+
+### alignments:
+ - [Roman amphitheater at Ancona](https://pleiades.stoa.org/places/536995786)
+
+
 ## Roman Bath House, Castleford (Q66480701)
 [https://www.wikidata.org/wiki/Q66480701](https://www.wikidata.org/wiki/Q66480701)  
 
@@ -21757,6 +21806,13 @@
 
 ### alignments:
  - [Bad Neuenahr-Ahrweiler](https://pleiades.stoa.org/places/108786)
+
+
+## Sabaeans (Q940785)
+[https://www.wikidata.org/wiki/Q940785](https://www.wikidata.org/wiki/Q940785)  
+
+### alignments:
+ - [Saba](https://pleiades.stoa.org/places/39417)
 
 
 ## Salamis (Q767089)
@@ -21988,6 +22044,13 @@
 
 ### alignments:
  - [Shortugai](https://pleiades.stoa.org/places/717754049)
+
+
+## Sicily (Q4951156)
+[https://www.wikidata.org/wiki/Q4951156](https://www.wikidata.org/wiki/Q4951156)  
+
+### alignments:
+ - [Sicilia (island)](https://pleiades.stoa.org/places/462492)
 
 
 ## Sigron (Q65121169)

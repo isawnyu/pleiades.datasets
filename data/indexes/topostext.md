@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3282 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
+3286 alignments exist in _Pleiades_ place references as of 2024-04-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -48,6 +48,14 @@
 
 ### alignments:
  - [Sanctuary of Artemis Limnatis on Mount Lapithos](https://pleiades.stoa.org/places/570119)
+
+
+## 376221UHyp: Hypsous (Arkadia) 12 Stemnitsa/Hypsous - Υψούς
+[https://topostext.org/place/376221UHyp](https://topostext.org/place/376221UHyp)  
+
+### alignments:
+ - [Hypsous (mountain)](https://pleiades.stoa.org/places/570304)
+ - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
 
 
 ## 376222PHel: Helisson (Arkadia) 7 Piana - Ελισσών
@@ -259,6 +267,13 @@
 
 ### alignments:
  - [Acharnai (N)](https://pleiades.stoa.org/places/579842)
+
+
+## Acharnian Gate (Athens)
+[https://topostext.org/place/380237FAch](https://topostext.org/place/380237FAch)  
+
+### alignments:
+ - [Acharnian Gate](https://pleiades.stoa.org/places/249767015)
 
 
 ## Achelous R. (Aitolia)
@@ -6605,6 +6620,7 @@
 [https://topostext.org/place/379236XEet](https://topostext.org/place/379236XEet)  
 
 ### alignments:
+ - [Eetioneia Hellenistic gateway](https://pleiades.stoa.org/places/487072545)
  - [Eetioneia Pr.](https://pleiades.stoa.org/places/582868)
 
 
@@ -7783,6 +7799,13 @@
 
 ### alignments:
  - [Gargettos](https://pleiades.stoa.org/places/579935)
+
+
+## Gate V/Eriai (Athens)
+[https://topostext.org/place/380237FHir](https://topostext.org/place/380237FHir)  
+
+### alignments:
+ - [Hippades Gate](https://pleiades.stoa.org/places/690970100)
 
 
 ## Gatheai (Messenia)
@@ -9192,13 +9215,6 @@
 
 ### alignments:
  - [Hypata](https://pleiades.stoa.org/places/540827)
-
-
-## Hypsous (Arkadia)
-[https://topostext.org/place/376221UHyp](https://topostext.org/place/376221UHyp)  
-
-### alignments:
- - [Hypsous (mountain)](https://pleiades.stoa.org/places/570304)
 
 
 ## Hyria (Euboea)
@@ -15843,6 +15859,13 @@
  - [Panion/Theodosiopolis](https://pleiades.stoa.org/places/511351)
 
 
+## Pankrates shrine
+[https://topostext.org/place/380237SPan](https://topostext.org/place/380237SPan)  
+
+### alignments:
+ - [Sanctuary of Pankrates](https://pleiades.stoa.org/places/308818183)
+
+
 ## Pannona (Irakleio)
 [https://topostext.org/place/351250UPan](https://topostext.org/place/351250UPan)  
 
@@ -18914,6 +18937,13 @@
 
 ### alignments:
  - [Makra Teiche](https://pleiades.stoa.org/places/585128)
+
+
+## Sabaeans tribe (Arabia)
+[https://topostext.org/place/145440RSab](https://topostext.org/place/145440RSab)  
+
+### alignments:
+ - [Saba](https://pleiades.stoa.org/places/39417)
 
 
 ## Sabucina excav. (Sicily)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-130 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
+133 alignments exist in _Pleiades_ place references as of 2024-04-01. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -34,6 +34,13 @@
 
 ### alignments:
  - [Acharnai (N)](https://pleiades.stoa.org/places/579842)
+
+
+## Findspot: Acharnian Gate
+[https://www.atticinscriptions.com/browse/byfindspot/acharnian-gate/](https://www.atticinscriptions.com/browse/byfindspot/acharnian-gate/)  
+
+### alignments:
+ - [Acharnian Gate](https://pleiades.stoa.org/places/249767015)
 
 
 ## Findspot: Acropolis
@@ -379,6 +386,13 @@
  - [Halykos](https://pleiades.stoa.org/places/156534148)
 
 
+## Findspot: Lyceum
+[https://www.atticinscriptions.com/browse/byfindspot/lyceum/](https://www.atticinscriptions.com/browse/byfindspot/lyceum/)  
+
+### alignments:
+ - [Lyceum](https://pleiades.stoa.org/places/122572945)
+
+
 ## Findspot: Magnesia on the Maeander
 [https://www.atticinscriptions.com/browse/byfindspot/magnesia-on-the-maeander/](https://www.atticinscriptions.com/browse/byfindspot/magnesia-on-the-maeander/)  
 
@@ -538,6 +552,13 @@
 
 ### alignments:
  - [Sanctuary of Artemis Aristoboule](https://pleiades.stoa.org/places/42368654)
+
+
+## FIndspot: Sanctuary of Pankrates
+[https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-pankrates/](https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-pankrates/)  
+
+### alignments:
+ - [Sanctuary of Pankrates](https://pleiades.stoa.org/places/308818183)
 
 
 ## Findspot: Sardis

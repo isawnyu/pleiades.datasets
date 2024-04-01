@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-271 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
+273 alignments exist in _Pleiades_ place references as of 2024-04-01. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -954,6 +954,13 @@
  - [Anopolis](https://pleiades.stoa.org/places/589694)
 
 
+## Toponyme 11347: Pellana, Geortsianika Kalyvia
+[https://chronique.efa.gr/?kroute=topo_public&id=11347](https://chronique.efa.gr/?kroute=topo_public&id=11347)  
+
+### alignments:
+ - [Pellana](https://pleiades.stoa.org/places/570575)
+
+
 ## Toponyme 11466: Prinias
 [https://chronique.efa.gr/?kroute=topo_public&id=11466](https://chronique.efa.gr/?kroute=topo_public&id=11466)  
 
@@ -1064,6 +1071,13 @@
 
 ### alignments:
  - [Orchomenos (Arcadia)](https://pleiades.stoa.org/places/570535)
+
+
+## Toponyme 21413: Stemnitsa, Ypsous
+[https://chronique.efa.gr/?kroute=topo_public&id=21413](https://chronique.efa.gr/?kroute=topo_public&id=21413)  
+
+### alignments:
+ - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
 
 
 ## Toponyme 22066: Kenchreai

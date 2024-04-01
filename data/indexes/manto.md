@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-364 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
+371 alignments exist in _Pleiades_ place references as of 2024-04-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -274,6 +274,20 @@
  - [Patra(e)](https://pleiades.stoa.org/places/570567)
 
 
+## 10136970: Hypsous
+[https://resource.manto.unh.edu/10136970](https://resource.manto.unh.edu/10136970)  
+
+### alignments:
+ - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
+
+
+## 10137074: Pellana
+[https://resource.manto.unh.edu/10137074](https://resource.manto.unh.edu/10137074)  
+
+### alignments:
+ - [Pellana](https://pleiades.stoa.org/places/570575)
+
+
 ## 10137076: Thalamai (Laconia/Messenia)
 [https://resource.manto.unh.edu/10137076](https://resource.manto.unh.edu/10137076)  
 
@@ -286,6 +300,13 @@
 
 ### alignments:
  - [Thera (island)](https://pleiades.stoa.org/places/599973)
+
+
+## 10137140: Thyraion
+[https://resource.manto.unh.edu/10137140](https://resource.manto.unh.edu/10137140)  
+
+### alignments:
+ - [Thyraion](https://pleiades.stoa.org/places/570735)
 
 
 ## 10137144: Haimoniai (Arcadia)
@@ -1114,6 +1135,13 @@
  - [Kytinion](https://pleiades.stoa.org/places/540899)
 
 
+## 11304203: the Heraian Mountains (Sicily)
+[https://resource.manto.unh.edu/11304203](https://resource.manto.unh.edu/11304203)  
+
+### alignments:
+ - [Heraia (mountain)](https://pleiades.stoa.org/places/462238)
+
+
 ## 11304676: Rhodes (city)
 [https://resource.manto.unh.edu/11304676](https://resource.manto.unh.edu/11304676)  
 
@@ -1633,6 +1661,13 @@
  - [Thasos (island)](https://pleiades.stoa.org/places/501635)
 
 
+## 8254003: Abderia (Spain)
+[https://resource.manto.unh.edu/8254003](https://resource.manto.unh.edu/8254003)  
+
+### alignments:
+ - [Abdera](https://pleiades.stoa.org/places/265762)
+
+
 ## 8254005: River Anthemous (Chalcidice)
 [https://resource.manto.unh.edu/8254005](https://resource.manto.unh.edu/8254005)  
 
@@ -1792,6 +1827,13 @@
 
 ### alignments:
  - [Iolkos](https://pleiades.stoa.org/places/540837)
+
+
+## 9358724: Croton (Italy)
+[https://resource.manto.unh.edu/9358724](https://resource.manto.unh.edu/9358724)  
+
+### alignments:
+ - [Croto(n)](https://pleiades.stoa.org/places/452317)
 
 
 ## 9358734: Andros (island)
@@ -2331,6 +2373,13 @@
 
 ### alignments:
  - [Diomedeae (islands)](https://pleiades.stoa.org/places/197248)
+
+
+## 9746337: White Island (Pontos)
+[https://resource.manto.unh.edu/9746337](https://resource.manto.unh.edu/9746337)  
+
+### alignments:
+ - [Leuke Ins./Achilleos Nesos](https://pleiades.stoa.org/places/226677)
 
 
 ## 9746355: Ogyris (island in the Persian Gulf)

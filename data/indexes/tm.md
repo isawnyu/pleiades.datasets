@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3209 alignments exist in _Pleiades_ place references as of 2024-03-29. The following list of alignments is grouped by zotkey.
+3217 alignments exist in _Pleiades_ place references as of 2024-04-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2301,6 +2301,13 @@
  - [Uthina](https://pleiades.stoa.org/places/315247)
 
 
+## GEO ID 11847: Abella (Avella)
+[http://www.trismegistos.org/place/11847](http://www.trismegistos.org/place/11847)  
+
+### alignments:
+ - [Abella](https://pleiades.stoa.org/places/432617)
+
+
 ## GEO ID 11848: Abellinum (Atripalda)
 [http://www.trismegistos.org/place/11848](http://www.trismegistos.org/place/11848)  
 
@@ -2448,6 +2455,13 @@
  - [Heliopolis/Col. Iulia Augusta Felix](https://pleiades.stoa.org/places/678179)
 
 
+## GEO ID 11922: Stratioton
+[http://www.trismegistos.org/place/11922](http://www.trismegistos.org/place/11922)  
+
+### alignments:
+ - [Stratioton](https://pleiades.stoa.org/places/40322)
+
+
 ## GEO ID 1192: Kydisos (Tel Kedesh)
 [https://www.trismegistos.org/place/1192](https://www.trismegistos.org/place/1192)  
 
@@ -2467,6 +2481,13 @@
 
 ### alignments:
  - [Babylonia](https://pleiades.stoa.org/places/912816)
+
+
+## GEO ID 11948: Saba
+[https://www.trismegistos.org/place/11948](https://www.trismegistos.org/place/11948)  
+
+### alignments:
+ - [Saba](https://pleiades.stoa.org/places/39417)
 
 
 ## GEO ID 11991: Axios (Vardar)
@@ -2670,6 +2691,13 @@
 
 ### alignments:
  - [Neapolis](https://pleiades.stoa.org/places/197403)
+
+
+## GEO ID 12244: Acelum (Asolo)
+[http://www.trismegistos.org/place/12244](http://www.trismegistos.org/place/12244)  
+
+### alignments:
+ - [Acelum](https://pleiades.stoa.org/places/393357)
 
 
 ## GEO ID 12251: Vicetia (Vicenza)
@@ -5037,6 +5065,13 @@
 
 ### alignments:
  - [Tremuli](https://pleiades.stoa.org/places/275738)
+
+
+## GEO ID 15651: Eridanos
+[https://www.trismegistos.org/place/15651](https://www.trismegistos.org/place/15651)  
+
+### alignments:
+ - [Eridanos](https://pleiades.stoa.org/places/591471666)
 
 
 ## GEO ID 15670: Camerton
@@ -9223,6 +9258,13 @@
 
 ### alignments:
  - [Orchomenos (Arcadia)](https://pleiades.stoa.org/places/570535)
+
+
+## GEO ID 2739: El-Baqawat
+[http://www.trismegistos.org/place/2739](http://www.trismegistos.org/place/2739)  
+
+### alignments:
+ - [Bagawat](https://pleiades.stoa.org/places/776156)
 
 
 ## GEO ID 27400: Lucentum (Alicante)
@@ -19807,6 +19849,13 @@
  - [Garmakan/Beth Garmai](https://pleiades.stoa.org/places/893999)
 
 
+## GEO ID 47862: Baghdad
+[http://www.trismegistos.org/place/47862](http://www.trismegistos.org/place/47862)  
+
+### alignments:
+ - [Bagdata](https://pleiades.stoa.org/places/893952)
+
+
 ## GEO ID 47863: Balad
 [http://www.trismegistos.org/place/47863](http://www.trismegistos.org/place/47863)  
 
@@ -20611,6 +20660,13 @@
 
 ### alignments:
  - [al-Muwalih/Modiana?](https://pleiades.stoa.org/places/814710)
+
+
+## GEO ID 5539: Magadas Nesos (Megauda)
+[http://www.trismegistos.org/place/5539](http://www.trismegistos.org/place/5539)  
+
+### alignments:
+ - [Bagada/Gagauden](https://pleiades.stoa.org/places/805595)
 
 
 ## GEO ID 55427: Wadi Jirf
