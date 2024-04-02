@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3286 alignments exist in _Pleiades_ place references as of 2024-04-01. The following list of alignments is grouped by zotkey.
+3291 alignments exist in _Pleiades_ place references as of 2024-04-02. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -905,6 +905,13 @@
 
 ### alignments:
  - [Aixone](https://pleiades.stoa.org/places/579855)
+
+
+## Akakesion (Arkadia)
+[https://topostext.org/place/368228UAkk](https://topostext.org/place/368228UAkk)  
+
+### alignments:
+ - [Akakesion](https://pleiades.stoa.org/places/573060)
 
 
 ## Akanthos (Halkidiki)
@@ -6427,6 +6434,13 @@
  - [Drakou Pedema](https://pleiades.stoa.org/places/550520)
 
 
+## Drapetsona Themistocles tomb (Piraeus)
+[https://topostext.org/place/379236GThT](https://topostext.org/place/379236GThT)  
+
+### alignments:
+ - [Tomb of the Themistocles](https://pleiades.stoa.org/places/598581244)
+
+
 ## Drepanon cape (Achaia)
 [https://topostext.org/place/383218LDre](https://topostext.org/place/383218LDre)  
 
@@ -7806,6 +7820,13 @@
 
 ### alignments:
  - [Hippades Gate](https://pleiades.stoa.org/places/690970100)
+
+
+## Gate XI/Itonian? (Athens)
+[https://topostext.org/place/380237FIto](https://topostext.org/place/380237FIto)  
+
+### alignments:
+ - [Gate at 8 Iosiph ton Rogon St/Gate XI](https://pleiades.stoa.org/places/496542328)
 
 
 ## Gatheai (Messenia)
@@ -9985,6 +10006,13 @@
 
 ### alignments:
  - [Kallipolis](https://pleiades.stoa.org/places/540849)
+
+
+## Kalliste sanctuary (Athens)
+[https://topostext.org/place/380237SAKa](https://topostext.org/place/380237SAKa)  
+
+### alignments:
+ - [Sanctuary of Kalliste](https://pleiades.stoa.org/places/249767014)
 
 
 ## Kallithea site (Phokis)
@@ -17097,6 +17125,13 @@
 
 ### alignments:
  - [Peiraieus/Piraeus](https://pleiades.stoa.org/places/580062)
+
+
+## Piraic Gate (Athens)
+[https://topostext.org/place/380237FPir](https://topostext.org/place/380237FPir)  
+
+### alignments:
+ - [Peiraic Gate](https://pleiades.stoa.org/places/230559831)
 
 
 ## Pisa (Eleia)

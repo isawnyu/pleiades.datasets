@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3263 alignments exist in _Pleiades_ place references as of 2024-04-01. The following list of alignments is grouped by zotkey.
+3266 alignments exist in _Pleiades_ place references as of 2024-04-02. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -8,11 +8,25 @@
  - [San Pancrazio al Fango](https://pleiades.stoa.org/places/598123712)
 
 
+## Abella (Q318659)
+[https://www.wikidata.org/wiki/Q318659](https://www.wikidata.org/wiki/Q318659)  
+
+### alignments:
+ - [Monumenti Funerari Romani](https://pleiades.stoa.org/places/732333582)
+
+
 ## Abia (Messenia) (Q5860118)
 [https://www.wikidata.org/wiki/Q5860118](https://www.wikidata.org/wiki/Q5860118)  
 
 ### alignments:
  - [Abia](https://pleiades.stoa.org/places/570027)
+
+
+## Acacesium (Q48781557)
+[https://www.wikidata.org/wiki/Q48781557](https://www.wikidata.org/wiki/Q48781557)  
+
+### alignments:
+ - [Akakesion](https://pleiades.stoa.org/places/573060)
 
 
 ## Achaea (Q2790451)
@@ -21616,6 +21630,13 @@
 
 ### alignments:
  - [Castra Praetorii Mobeni](https://pleiades.stoa.org/places/697647)
+
+
+## Quintus Lollius Urbicus Mausoleum (Q86725228)
+[https://www.wikidata.org/wiki/Q86725228](https://www.wikidata.org/wiki/Q86725228)  
+
+### alignments:
+ - [Mausoleum of Quintus Lollius Urbicus](https://pleiades.stoa.org/places/308043)
 
 
 ## Ras Mostefa (Q12212774)

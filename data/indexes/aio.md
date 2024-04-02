@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-133 alignments exist in _Pleiades_ place references as of 2024-04-01. The following list of alignments is grouped by zotkey.
+136 alignments exist in _Pleiades_ place references as of 2024-04-02. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -160,6 +160,13 @@
 
 ### alignments:
  - [Pallene](https://pleiades.stoa.org/places/580051)
+
+
+## Findspot: Church of St Demetrios Katephores
+[https://www.atticinscriptions.com/browse/byfindspot/church-of-st-demetrios-katephores/](https://www.atticinscriptions.com/browse/byfindspot/church-of-st-demetrios-katephores/)  
+
+### alignments:
+ - [Church of St. Demetrios Katephores](https://pleiades.stoa.org/places/133416747)
 
 
 ## Findspot: City Eleusinion
@@ -554,6 +561,13 @@
  - [Sanctuary of Artemis Aristoboule](https://pleiades.stoa.org/places/42368654)
 
 
+## Findspot: Sanctuary of Kalliste
+[https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-kalliste/](https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-kalliste/)  
+
+### alignments:
+ - [Sanctuary of Kalliste](https://pleiades.stoa.org/places/249767014)
+
+
 ## FIndspot: Sanctuary of Pankrates
 [https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-pankrates/](https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-pankrates/)  
 
@@ -874,6 +888,13 @@
 
 ### alignments:
  - [Eurysakeion](https://pleiades.stoa.org/places/79269910)
+
+
+## Original Location: Sanctuary of Kalliste
+[https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-kalliste/](https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-kalliste/)  
+
+### alignments:
+ - [Sanctuary of Kalliste](https://pleiades.stoa.org/places/249767014)
 
 
 ## Original Location: Sardis
