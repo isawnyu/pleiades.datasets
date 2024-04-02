@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        16.045414,
-        40.773413,
-        16.045414,
-        40.773413
+        16.0353541,
+        40.7461577,
+        16.0360998,
+        40.7466759
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,41 +53,50 @@
         {
             "geometry": {
                 "coordinates": [
-                    16.045414,
-                    40.773413
+                    [
+                        16.0353541,
+                        40.7466353
+                    ],
+                    [
+                        16.0357323,
+                        40.7461577
+                    ],
+                    [
+                        16.0360998,
+                        40.7463081
+                    ],
+                    [
+                        16.0357028,
+                        40.7466556
+                    ],
+                    [
+                        16.0356518,
+                        40.7466759
+                    ],
+                    [
+                        16.0353541,
+                        40.7466353
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-7994",
+            "id": "location-of-villa",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/442545/darmc-location-7994",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/442545/location-of-villa",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 7994"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    16.045414,
-                    40.773413
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-7995",
-            "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/442545/darmc-location-7995",
-                "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 7995"
+                "snippet": "Villa; 330 BC - AD 640",
+                "title": "OSM location of San Gilio, Oppido Lucano"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-04-01T18:53:57Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2019-04-24T03:58:58Z",
@@ -143,8 +152,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -168,204 +177,116 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-31T20:54:42Z",
+            "contributors": [],
+            "created": "2014-02-05T02:13:37Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 7994",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    16.045414,
-                    40.773413
+                    [
+                        16.0353541,
+                        40.7466353
+                    ],
+                    [
+                        16.0357323,
+                        40.7461577
+                    ],
+                    [
+                        16.0360998,
+                        40.7463081
+                    ],
+                    [
+                        16.0357028,
+                        40.7466556
+                    ],
+                    [
+                        16.0356518,
+                        40.7466759
+                    ],
+                    [
+                        16.0353541,
+                        40.7466353
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:08:35Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2024-04-01T18:53:18Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-01-31T21:05:27Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-03-30T00:41:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2019-04-24T03:55:31Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-31T20:54:43Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-03-02T00:44:16Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T20:54:43Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added location",
+                    "modified": "2014-02-05T02:14:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-02-05T02:13:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-31T20:54:43Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-02-05T02:13:39Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-7994",
+            "id": "location-of-villa",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "DARMC OBJECTID: 7994",
+            "provenance": "OpenStreetMap (Way 260050246, version 1, osm:changeset=20384393, 2014-02-05T02:13:22Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/260050246",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7994",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 260050246",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7994.",
+                    "formattedCitation": "osm:way=260050246",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 7994",
-            "uri": "https://pleiades.stoa.org/places/442545/darmc-location-7994"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-31T20:54:44Z",
-            "creators": [
-                {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
-                }
-            ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 7995",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    16.045414,
-                    40.773413
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:08:35Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-01-31T21:05:27Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-01-31T20:54:45Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T20:54:45Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-01-31T20:54:44Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-7995",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 7995",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7995",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7995.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 7995",
-            "uri": "https://pleiades.stoa.org/places/442545/darmc-location-7995"
+            "title": "OSM location of San Gilio, Oppido Lucano",
+            "uri": "https://pleiades.stoa.org/places/442545/location-of-villa"
         }
     ],
     "names": [],
@@ -420,11 +341,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7994 and 7995",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        16.045414,
-        40.773413
+        16.03571906673276,
+        40.746434978586755
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

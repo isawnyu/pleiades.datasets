@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.732014,
-        37.970169,
-        23.732014,
-        37.970169
+        23.7319548,
+        37.9701236,
+        23.7320712,
+        37.9702501
     ],
     "connections": [
         {
@@ -73,6 +73,11 @@
             "end": 2100,
             "history": [
                 {
+                    "comment": "add reference",
+                    "modified": "2024-04-02T00:34:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "ctype",
                     "modified": "2021-08-27T14:14:26Z",
                     "modifiedBy": "jbecker"
@@ -100,7 +105,19 @@
             ],
             "id": "579885",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Arch_of_Hadrian_(Athens)",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Arch of Hadrian (Athens)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -30,
             "title": "Athenae",
@@ -175,9 +192,50 @@
                 "title": "Imagery location of the Arch of Hadrian at Athens"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        23.7319548,
+                        37.9701369
+                    ],
+                    [
+                        23.7319819,
+                        37.9701236
+                    ],
+                    [
+                        23.7320712,
+                        37.9702369
+                    ],
+                    [
+                        23.7320442,
+                        37.9702501
+                    ],
+                    [
+                        23.7319548,
+                        37.9701369
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-arch-of-hadrian",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/235795850/osm-location-of-arch-of-hadrian",
+                "location_precision": "precise",
+                "snippet": "Unknown, Arch; AD 100 - AD 199",
+                "title": "OSM location of Arch of Hadrian"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2024-04-02T00:38:58Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2023-10-11T19:54:21Z",
@@ -477,6 +535,121 @@
             "start": -550,
             "title": "Imagery location of the Arch of Hadrian at Athens",
             "uri": "https://pleiades.stoa.org/places/235795850/arch-of-hadrian-at-athens"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "second-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/second-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-03-31T02:07:54Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 199,
+            "featureType": [
+                "unknown",
+                "arch"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        23.7319548,
+                        37.9701369
+                    ],
+                    [
+                        23.7319819,
+                        37.9701236
+                    ],
+                    [
+                        23.7320712,
+                        37.9702369
+                    ],
+                    [
+                        23.7320442,
+                        37.9702501
+                    ],
+                    [
+                        23.7319548,
+                        37.9701369
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-01T19:45:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-03-31T02:08:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-03-31T02:08:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-03-31T02:07:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-03-31T02:07:54Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-arch-of-hadrian",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
+            ],
+            "provenance": "OpenStreetMap (Way 175107932, version 18, osm:changeset=140162727, 2023-08-21T06:03:57Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/175107932",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 175107932",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=175107932",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 100,
+            "title": "OSM location of Arch of Hadrian",
+            "uri": "https://pleiades.stoa.org/places/235795850/osm-location-of-arch-of-hadrian"
         }
     ],
     "names": [
@@ -536,6 +709,11 @@
             "details": "",
             "end": 2100,
             "history": [
+                {
+                    "comment": "update references",
+                    "modified": "2024-04-02T00:38:35Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2019-07-10T17:44:44Z",
@@ -608,12 +786,12 @@
             "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "",
+                    "accessURI": "https://academic.oup.com/bics/article-abstract/36/Supplement_55/10/5682272?redirectedFrom=fulltext",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/itemKey/5XQ8KDIN",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5XQ8KDIN",
                     "citationDetail": "",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Adams, A. 1989. “The Arch of Hadrian at Athens.” Bulletin of the Institute of Classical Studies 36:10-16.",
+                    "formattedCitation": "<div class=\"csl-entry\">Adams, Alison. “The Arch of Hadrian at Athens.” <i>Bulletin of the Institute of Classical Studies</i> 36, no. S55 (1989): 10–16. https://doi.org/https://doi.org/10.1111/j.2041-5370.1989.tb02045.x.</div>",
                     "otherIdentifier": " ",
                     "shortTitle": "Adams 1989",
                     "type": "citesAsDataSource"
@@ -621,12 +799,12 @@
                 {
                     "accessURI": "http://www.geonames.org/11808358/arch-of-hadrian.html",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "11808358: Arch of Hadrian",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-                    "formattedCitation": "GeoNames 11808358",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
                     "otherIdentifier": "",
-                    "shortTitle": "",
+                    "shortTitle": "GeoNames",
                     "type": "citesAsRelated"
                 }
             ],
@@ -791,8 +969,8 @@
         }
     ],
     "reprPoint": [
-        23.732014,
-        37.970169
+        23.732013504251668,
+        37.97017792648077
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
