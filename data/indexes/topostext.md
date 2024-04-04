@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3291 alignments exist in _Pleiades_ place references as of 2024-04-02. The following list of alignments is grouped by zotkey.
+3294 alignments exist in _Pleiades_ place references as of 2024-04-04. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1703,6 +1703,13 @@
 
 ### alignments:
  - [Andematunnum](https://pleiades.stoa.org/places/177441)
+
+
+## Anderitum/Gabali (Gallia)
+[https://topostext.org/place/447033UGab](https://topostext.org/place/447033UGab)  
+
+### alignments:
+ - [Anderitum](https://pleiades.stoa.org/places/167645)
 
 
 ## Andesina? (Gallia)
@@ -9672,6 +9679,13 @@
  - [Iris (river)](https://pleiades.stoa.org/places/857171)
 
 
+## Irni? (Iberia) Cerro del Castillejo
+[https://topostext.org/place/370000UIrn](https://topostext.org/place/370000UIrn)  
+
+### alignments:
+ - [Irni](https://pleiades.stoa.org/places/256230)
+
+
 ## Irokastro (Naxos)
 [https://topostext.org/place/370255FIro](https://topostext.org/place/370255FIro)  
 
@@ -10034,6 +10048,13 @@
 
 ### alignments:
  - [Kalos Limen?](https://pleiades.stoa.org/places/226646)
+
+
+## Kalydnioi (Kalymnos)
+[https://topostext.org/place/373268IKal](https://topostext.org/place/373268IKal)  
+
+### alignments:
+ - [Kalydnioi (islands)](https://pleiades.stoa.org/places/599683)
 
 
 ## Kalymna (Kalymnos)

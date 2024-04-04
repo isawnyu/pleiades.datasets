@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3217 alignments exist in _Pleiades_ place references as of 2024-04-02. The following list of alignments is grouped by zotkey.
+3221 alignments exist in _Pleiades_ place references as of 2024-04-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8147,6 +8147,13 @@
  - [Condate](https://pleiades.stoa.org/places/138304)
 
 
+## GEO ID 23065: Anderitum (Javols)
+[http://www.trismegistos.org/place/23065](http://www.trismegistos.org/place/23065)  
+
+### alignments:
+ - [Anderitum](https://pleiades.stoa.org/places/167645)
+
+
 ## GEO ID 23121: Anicium (Le Puy-en-Velay)
 [https://www.trismegistos.org/place/23121](https://www.trismegistos.org/place/23121)  
 
@@ -8523,6 +8530,13 @@
 
 ### alignments:
  - [Atuatuca](https://pleiades.stoa.org/places/108765)
+
+
+## GEO ID 24464: Albaniana (Alphen aan den Rijn)
+[https://www.trismegistos.org/place/24464](https://www.trismegistos.org/place/24464)  
+
+### alignments:
+ - [Albaniana](https://pleiades.stoa.org/places/98908)
 
 
 ## GEO ID 24466: Forum Hadriani (Voorburg)
@@ -8950,6 +8964,13 @@
 
 ### alignments:
  - [Italica](https://pleiades.stoa.org/places/256231)
+
+
+## GEO ID 26249: Irni (El Saucejo)
+[http://www.trismegistos.org/place/26249](http://www.trismegistos.org/place/26249)  
+
+### alignments:
+ - [Irni](https://pleiades.stoa.org/places/256230)
 
 
 ## GEO ID 2624
@@ -12928,6 +12949,13 @@
 
 ### alignments:
  - [Cybistra](https://pleiades.stoa.org/places/648614)
+
+
+## GEO ID 34180: Akanthos
+[http://www.trismegistos.org/place/34180](http://www.trismegistos.org/place/34180)  
+
+### alignments:
+ - [Acanthus/Dulopolis](https://pleiades.stoa.org/places/606267)
 
 
 ## GEO ID 34202: Gerga (Ovacık)

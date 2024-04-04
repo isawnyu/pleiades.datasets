@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3266 alignments exist in _Pleiades_ place references as of 2024-04-02. The following list of alignments is grouped by zotkey.
+3271 alignments exist in _Pleiades_ place references as of 2024-04-04. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -170,6 +170,13 @@
  - [Chermela](https://pleiades.stoa.org/places/687875)
 
 
+## Albaniana (Q2663417)
+[https://www.wikidata.org/wiki/Q2663417](https://www.wikidata.org/wiki/Q2663417)  
+
+### alignments:
+ - [Albaniana](https://pleiades.stoa.org/places/98908)
+
+
 ## Allahdino (Q4730348)
 [https://www.wikidata.org/wiki/Q4730348](https://www.wikidata.org/wiki/Q4730348)  
 
@@ -203,6 +210,13 @@
 
 ### alignments:
  - [Alpenos](https://pleiades.stoa.org/places/540624)
+
+
+## Alphen aan den Rijn (Samian Ware Discovery Site) (Q103140639)
+[https://www.wikidata.org/wiki/Q103140639](https://www.wikidata.org/wiki/Q103140639)  
+
+### alignments:
+ - [Albaniana](https://pleiades.stoa.org/places/98908)
 
 
 ## Altar of the Twelve Gods (Q2872376)
@@ -948,6 +962,13 @@
  - [Clusiolum](https://pleiades.stoa.org/places/416792)
 
 
+## Cobandi (Q2192964)
+[https://www.wikidata.org/wiki/Q2192964](https://www.wikidata.org/wiki/Q2192964)  
+
+### alignments:
+ - [Kobandoi](https://pleiades.stoa.org/places/101205)
+
+
 ## Colle nocello villa (Q124172424)
 [https://www.wikidata.org/wiki/Q124172424](https://www.wikidata.org/wiki/Q124172424)  
 
@@ -1373,6 +1394,13 @@
 
 ### alignments:
  - [Forum Brentani/Brentanorum](https://pleiades.stoa.org/places/416811)
+
+
+## Forum Hadriani (Q2586986)
+[https://www.wikidata.org/wiki/Q2586986](https://www.wikidata.org/wiki/Q2586986)  
+
+### alignments:
+ - [Aurelium Cananefatium/Forum Hadriani](https://pleiades.stoa.org/places/98918)
 
 
 ## Fratte Hill archaeological site (Salerno, Italy) (Q3621981)
@@ -21890,6 +21918,13 @@
 
 ### alignments:
  - [Sanctuary at San Casciano dei Bagni](https://pleiades.stoa.org/places/643273747)
+
+
+## San Crisogono (Q1631638)
+[https://www.wikidata.org/wiki/Q1631638](https://www.wikidata.org/wiki/Q1631638)  
+
+### alignments:
+ - [San Crisogono](https://pleiades.stoa.org/places/883684762)
 
 
 ## San Lorenzo fuori le Mura (Q738214)

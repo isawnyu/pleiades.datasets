@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-372 alignments exist in _Pleiades_ place references as of 2024-04-02. The following list of alignments is grouped by zotkey.
+373 alignments exist in _Pleiades_ place references as of 2024-04-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2296,6 +2296,13 @@
 
 ### alignments:
  - [Kos (settlement)](https://pleiades.stoa.org/places/599728)
+
+
+## 9719925: the Calymnian Islands (Sporades)
+[https://resource.manto.unh.edu/9719925](https://resource.manto.unh.edu/9719925)  
+
+### alignments:
+ - [Kalydnioi (islands)](https://pleiades.stoa.org/places/599683)
 
 
 ## 9720421: Iton (Thessaly)
