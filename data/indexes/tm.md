@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3221 alignments exist in _Pleiades_ place references as of 2024-04-04. The following list of alignments is grouped by zotkey.
+3227 alignments exist in _Pleiades_ place references as of 2024-04-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1963,6 +1963,13 @@
 
 ### alignments:
  - [Aynuna](https://pleiades.stoa.org/places/814698)
+
+
+## GEO ID 10925: Praetorium Agrippinae (Valkenburg)
+[http://www.trismegistos.org/place/10925](http://www.trismegistos.org/place/10925)  
+
+### alignments:
+ - [Praetorium Agrippinae](https://pleiades.stoa.org/places/99021)
 
 
 ## GEO ID 10927: Aquae Calidae (Bath)
@@ -6642,6 +6649,13 @@
  - [Ariconium](https://pleiades.stoa.org/places/79302)
 
 
+## GEO ID 18992: Traiectus (Bitton?)
+[http://www.trismegistos.org/place/18992](http://www.trismegistos.org/place/18992)  
+
+### alignments:
+ - [Traiectus](https://pleiades.stoa.org/places/83892)
+
+
 ## GEO ID 19003: Antonine Wall
 [http://www.trismegistos.org/place/19003](http://www.trismegistos.org/place/19003)  
 
@@ -8586,6 +8600,13 @@
 
 ### alignments:
  - [Tolbiacum](https://pleiades.stoa.org/places/109382)
+
+
+## GEO ID 24629: Arenacum (Rindern)
+[http://www.trismegistos.org/place/24629](http://www.trismegistos.org/place/24629)  
+
+### alignments:
+ - [Harenatium](https://pleiades.stoa.org/places/98976)
 
 
 ## GEO ID 24648
@@ -14702,6 +14723,13 @@
  - [Erucium](https://pleiades.stoa.org/places/471919)
 
 
+## GEO ID 40395: Traiectum Siciliae
+[http://www.trismegistos.org/place/40395](http://www.trismegistos.org/place/40395)  
+
+### alignments:
+ - [Traiectus](https://pleiades.stoa.org/places/462520)
+
+
 ## GEO ID 40398: Capitoniana
 [http://www.trismegistos.org/place/40398](http://www.trismegistos.org/place/40398)  
 
@@ -14721,6 +14749,13 @@
 
 ### alignments:
  - [Axuenna?](https://pleiades.stoa.org/places/108780)
+
+
+## GEO ID 40426: Travectus (Bergerac)
+[http://www.trismegistos.org/place/40426](http://www.trismegistos.org/place/40426)  
+
+### alignments:
+ - [Travectus?](https://pleiades.stoa.org/places/138625)
 
 
 ## GEO ID 40427: Fines (Firbeix)
@@ -19406,6 +19441,13 @@
 
 ### alignments:
  - [Sicalenum?/Kalena](https://pleiades.stoa.org/places/442794)
+
+
+## GEO ID 45060: Ad tres Silanos
+[https://www.trismegistos.org/place/45060](https://www.trismegistos.org/place/45060)  
+
+### alignments:
+ - [Ad Tres Silanos](https://pleiades.stoa.org/places/290541807)
 
 
 ## GEO ID 451: Olbia (Parutino)

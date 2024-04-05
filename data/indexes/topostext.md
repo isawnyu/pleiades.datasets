@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3294 alignments exist in _Pleiades_ place references as of 2024-04-04. The following list of alignments is grouped by zotkey.
+3302 alignments exist in _Pleiades_ place references as of 2024-04-05. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6445,7 +6445,7 @@
 [https://topostext.org/place/379236GThT](https://topostext.org/place/379236GThT)  
 
 ### alignments:
- - [Tomb of the Themistocles](https://pleiades.stoa.org/places/598581244)
+ - [Tomb of Themistocles](https://pleiades.stoa.org/places/598581244)
 
 
 ## Drepanon cape (Achaia)
@@ -7822,6 +7822,13 @@
  - [Gargettos](https://pleiades.stoa.org/places/579935)
 
 
+## Gate IX (Athens)
+[https://topostext.org/place/380237FHip](https://topostext.org/place/380237FHip)  
+
+### alignments:
+ - [Gate north of the Olympieion/Gate IX](https://pleiades.stoa.org/places/144293713)
+
+
 ## Gate V/Eriai (Athens)
 [https://topostext.org/place/380237FHir](https://topostext.org/place/380237FHir)  
 
@@ -7829,11 +7836,39 @@
  - [Hippades Gate](https://pleiades.stoa.org/places/690970100)
 
 
+## Gate VIII ”Diochares” (Athens)
+[https://topostext.org/place/380237FDic](https://topostext.org/place/380237FDic)  
+
+### alignments:
+ - [Diochares' Gate/Gate VIII](https://pleiades.stoa.org/places/945419342)
+
+
 ## Gate XI/Itonian? (Athens)
 [https://topostext.org/place/380237FIto](https://topostext.org/place/380237FIto)  
 
 ### alignments:
  - [Gate at 8 Iosiph ton Rogon St/Gate XI](https://pleiades.stoa.org/places/496542328)
+
+
+## Gate XII ”Phaleric/Halade” (Athens)
+[https://topostext.org/place/380237FHal](https://topostext.org/place/380237FHal)  
+
+### alignments:
+ - [Halade Gate/Mystai Gate/Gate XII](https://pleiades.stoa.org/places/367368802)
+
+
+## Gate XIII South Gate (Athens)
+[https://topostext.org/place/380237FSou](https://topostext.org/place/380237FSou)  
+
+### alignments:
+ - [Gate at 25 Erechtheiou St./South Gate/Gate XIII](https://pleiades.stoa.org/places/137478922)
+
+
+## Gate XIV Dipylon (Athens)
+[https://topostext.org/place/380237GDiG](https://topostext.org/place/380237GDiG)  
+
+### alignments:
+ - [Gate at Hag. Dimitrios Loumbardiaris/Gate XIV](https://pleiades.stoa.org/places/799093248)
 
 
 ## Gatheai (Messenia)
@@ -14788,6 +14823,13 @@
  - [Norba/Col. Norbensis Caesarina](https://pleiades.stoa.org/places/256327)
 
 
+## Northeast Gate (Athens)
+[https://topostext.org/place/380237FNor](https://topostext.org/place/380237FNor)  
+
+### alignments:
+ - [Gate at 4 Dragatsaniou St./Northeast Gate](https://pleiades.stoa.org/places/551863597)
+
+
 ## Notion (Ionia)
 [https://topostext.org/place/380272PNot](https://topostext.org/place/380272PNot)  
 
@@ -18299,6 +18341,13 @@
  - [Praeneste](https://pleiades.stoa.org/places/423013)
 
 
+## Praetorium Agrippinae (Germania)
+[https://topostext.org/place/522044UCol](https://topostext.org/place/522044UCol)  
+
+### alignments:
+ - [Praetorium Agrippinae](https://pleiades.stoa.org/places/99021)
+
+
 ## Praisos (Lasithi)
 [https://topostext.org/place/351261PPra](https://topostext.org/place/351261PPra)  
 
@@ -19007,6 +19056,13 @@
 
 ### alignments:
  - [Sabucina](https://pleiades.stoa.org/places/462483)
+
+
+## Sacred Gate (Athens)
+[https://topostext.org/place/380237FSac](https://topostext.org/place/380237FSac)  
+
+### alignments:
+ - [Sacred Gate/Hiera Pyle](https://pleiades.stoa.org/places/717754998)
 
 
 ## Saena (Tuscany)

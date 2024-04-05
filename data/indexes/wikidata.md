@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3271 alignments exist in _Pleiades_ place references as of 2024-04-04. The following list of alignments is grouped by zotkey.
+3276 alignments exist in _Pleiades_ place references as of 2024-04-05. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -63,6 +63,13 @@
 
 ### alignments:
  - [Acumincum](https://pleiades.stoa.org/places/206874)
+
+
+## Ad Capita Bubula (Q124851444)
+[https://www.wikidata.org/wiki/Q124851444](https://www.wikidata.org/wiki/Q124851444)  
+
+### alignments:
+ - [ad Capita bubula](https://pleiades.stoa.org/places/20202878)
 
 
 ## Adro Vello (Q12382506)
@@ -294,6 +301,13 @@
 
 ### alignments:
  - [Corsica/Kyrnos (island)](https://pleiades.stoa.org/places/472063)
+
+
+## Ancient Greek theatre of Eretria (Q20552028)
+[https://www.wikidata.org/wiki/Q20552028](https://www.wikidata.org/wiki/Q20552028)  
+
+### alignments:
+ - [Ancient theater of Eretria](https://pleiades.stoa.org/places/75526757)
 
 
 ## Ancient Methone (Q48965819)
@@ -773,6 +787,13 @@
  - [Caledonia (region)](https://pleiades.stoa.org/places/89132)
 
 
+## Calucones (Q1397676)
+[https://www.wikidata.org/wiki/Q1397676](https://www.wikidata.org/wiki/Q1397676)  
+
+### alignments:
+ - [Kaloukones?](https://pleiades.stoa.org/places/98993)
+
+
 ## Calynda (Q5024669)
 [https://www.wikidata.org/wiki/Q5024669](https://www.wikidata.org/wiki/Q5024669)  
 
@@ -862,6 +883,13 @@
 
 ### alignments:
  - [Santa Trega](https://pleiades.stoa.org/places/321202592)
+
+
+## Castrum Harenatium (Q1585258)
+[https://www.wikidata.org/wiki/Q1585258](https://www.wikidata.org/wiki/Q1585258)  
+
+### alignments:
+ - [Harenatium](https://pleiades.stoa.org/places/98976)
 
 
 ## Catacombs of Sant'Alessandro (Q3663208)
@@ -3074,6 +3102,13 @@
 
 ### alignments:
  - [Porta Salaria](https://pleiades.stoa.org/places/758962698)
+
+
+## Porticus Minucia (Q56256238)
+[https://www.wikidata.org/wiki/Q56256238](https://www.wikidata.org/wiki/Q56256238)  
+
+### alignments:
+ - [Porticus Minucia](https://pleiades.stoa.org/places/698151983)
 
 
 ## Portus (Q2037271)
