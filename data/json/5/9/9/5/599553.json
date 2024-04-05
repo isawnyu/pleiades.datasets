@@ -1,12 +1,80 @@
 {
     "@type": "Place",
     "bbox": [
-        27.025915,
-        36.975502,
-        27.025915,
-        36.975502
+        27.0257599,
+        36.9732097,
+        27.0265595,
+        36.9739985
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/599684",
+            "contributors": [],
+            "created": "2019-01-21T15:18:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-04T22:16:44Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "add BAtlDir",
+                    "modified": "2024-04-03T22:01:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2019-01-21T15:18:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2019-01-21T15:18:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2019-01-21T15:18:26Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "kalymna-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 939",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Kalymna (island)",
+            "uri": "https://pleiades.stoa.org/places/599553/kalymna-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/599684"
     ],
@@ -55,23 +123,94 @@
         {
             "geometry": {
                 "coordinates": [
-                    27.025915,
-                    36.975502
+                    [
+                        27.0257599,
+                        36.9733285
+                    ],
+                    [
+                        27.0259174,
+                        36.973281
+                    ],
+                    [
+                        27.0260988,
+                        36.9732881
+                    ],
+                    [
+                        27.0263366,
+                        36.9732098
+                    ],
+                    [
+                        27.0265532,
+                        36.9732097
+                    ],
+                    [
+                        27.0265595,
+                        36.9734532
+                    ],
+                    [
+                        27.0264781,
+                        36.9736653
+                    ],
+                    [
+                        27.0263773,
+                        36.9737854
+                    ],
+                    [
+                        27.0263525,
+                        36.9738702
+                    ],
+                    [
+                        27.0263087,
+                        36.9739089
+                    ],
+                    [
+                        27.0262319,
+                        36.9739985
+                    ],
+                    [
+                        27.026136,
+                        36.9739265
+                    ],
+                    [
+                        27.0260199,
+                        36.9738834
+                    ],
+                    [
+                        27.025941,
+                        36.9738765
+                    ],
+                    [
+                        27.0259489,
+                        36.9737043
+                    ],
+                    [
+                        27.0258831,
+                        36.9735123
+                    ],
+                    [
+                        27.0257599,
+                        36.9733285
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-2951",
+            "id": "osm-location-of-bathos-excavations-kalymnos",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/599553/darmc-location-2951",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/599553/osm-location-of-bathos-excavations-kalymnos",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "DARMC location 2951"
+                "snippet": "Archaeological-site; 330 BC - 30 BC",
+                "title": "OSM location of Bathos excavations (Kalymnos)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-04-04T22:19:03Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2019-01-22T00:53:52Z",
@@ -122,8 +261,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -135,91 +274,150 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-02-25T20:29:17Z",
+            "contributors": [],
+            "created": "2024-04-03T22:05:47Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 2951",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    27.025915,
-                    36.975502
+                    [
+                        27.0257599,
+                        36.9733285
+                    ],
+                    [
+                        27.0259174,
+                        36.973281
+                    ],
+                    [
+                        27.0260988,
+                        36.9732881
+                    ],
+                    [
+                        27.0263366,
+                        36.9732098
+                    ],
+                    [
+                        27.0265532,
+                        36.9732097
+                    ],
+                    [
+                        27.0265595,
+                        36.9734532
+                    ],
+                    [
+                        27.0264781,
+                        36.9736653
+                    ],
+                    [
+                        27.0263773,
+                        36.9737854
+                    ],
+                    [
+                        27.0263525,
+                        36.9738702
+                    ],
+                    [
+                        27.0263087,
+                        36.9739089
+                    ],
+                    [
+                        27.0262319,
+                        36.9739985
+                    ],
+                    [
+                        27.026136,
+                        36.9739265
+                    ],
+                    [
+                        27.0260199,
+                        36.9738834
+                    ],
+                    [
+                        27.025941,
+                        36.9738765
+                    ],
+                    [
+                        27.0259489,
+                        36.9737043
+                    ],
+                    [
+                        27.0258831,
+                        36.9735123
+                    ],
+                    [
+                        27.0257599,
+                        36.9733285
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:57:04Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-02-25T20:50:19Z",
+                    "modified": "2024-04-04T22:18:36Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-02-25T20:29:18Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-03T22:06:11Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-02-25T20:29:18Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-04-03T22:06:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-03T22:05:48Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-02-25T20:29:17Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-03T22:05:47Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-2951",
+            "id": "osm-location-of-bathos-excavations-kalymnos",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 2951",
+            "provenance": "OpenStreetMap (Way 1232635025, version 4, osm:changeset=149545412, 2024-04-03T22:05:26Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1232635025",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "2951",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1232635025",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 2951.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1232635025",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 2951",
-            "uri": "https://pleiades.stoa.org/places/599553/darmc-location-2951"
+            "title": "OSM location of Bathos excavations (Kalymnos)",
+            "uri": "https://pleiades.stoa.org/places/599553/osm-location-of-bathos-excavations-kalymnos"
         }
     ],
     "names": [],
@@ -265,11 +463,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "2951",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        27.025915,
-        36.975502
+        27.026188127722975,
+        36.973540453716
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

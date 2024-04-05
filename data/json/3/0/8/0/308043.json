@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        6.4790932,
-        36.4593568,
-        6.4856521,
-        36.4652764
+        6.4833885,
+        36.4897176,
+        6.483528,
+        36.4898296
     ],
     "connections": [
         {
@@ -18,8 +18,8 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "connectionType": "at",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
             "connectsTo": "https://pleiades.stoa.org/places/305167",
             "contributors": [
                 {
@@ -27,6 +27,12 @@
                     "name": "Jeffrey Becker",
                     "uri": "https://pleiades.stoa.org/author/jbecker",
                     "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2016-07-13T13:37:20Z",
@@ -42,6 +48,11 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "located near",
+                    "modified": "2024-04-04T19:21:48Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "changed cnxn type",
                     "modified": "2018-11-25T05:02:19Z",
@@ -110,49 +121,112 @@
             "username": null
         }
     ],
-    "description": "Quintus Lollius Urbicus served as a governor of Britannia between 139 and 142. His career is detailed on a pair of inscriptions from his hometown of Tiddis. His mausoleum is located at Tiddis.",
+    "description": "Quintus Lollius Urbicus served as a governor of Britannia between 139 and 142. His career is detailed on a pair of inscriptions from his hometown of Tiddis. His mausoleum is located a few kilometers north of Tiddis.",
     "details": "<p>The Barrington Atlas Directory notes: mausoleum of Lollii</p>\r\n<p>R.J.A. Wilson notes that the mausoleum is located some 4 km north of Tiddis in isolated fields. Wilson debates whether Lollius and his family might have had an expansive country villa in the hinterland of Tiddis or not. (viz. Wilson in Marzano 2018: 270).</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            6.0,
-                            36.0
-                        ],
-                        [
-                            6.5,
-                            36.0
-                        ],
-                        [
-                            6.5,
-                            36.5
-                        ],
-                        [
-                            6.0,
-                            36.5
-                        ],
-                        [
-                            6.0,
-                            36.0
-                        ]
+                        6.4835223,
+                        36.4897505
+                    ],
+                    [
+                        6.483528,
+                        36.4897681
+                    ],
+                    [
+                        6.4835265,
+                        36.4897863
+                    ],
+                    [
+                        6.4835178,
+                        36.4898031
+                    ],
+                    [
+                        6.4835029,
+                        36.4898168
+                    ],
+                    [
+                        6.4834833,
+                        36.4898259
+                    ],
+                    [
+                        6.4834612,
+                        36.4898296
+                    ],
+                    [
+                        6.4834377,
+                        36.4898272
+                    ],
+                    [
+                        6.4834166,
+                        36.4898186
+                    ],
+                    [
+                        6.4834002,
+                        36.4898049
+                    ],
+                    [
+                        6.4833905,
+                        36.4897875
+                    ],
+                    [
+                        6.4833885,
+                        36.4897686
+                    ],
+                    [
+                        6.4833944,
+                        36.4897502
+                    ],
+                    [
+                        6.4834077,
+                        36.4897344
+                    ],
+                    [
+                        6.4834266,
+                        36.4897231
+                    ],
+                    [
+                        6.4834482,
+                        36.4897176
+                    ],
+                    [
+                        6.4834708,
+                        36.4897179
+                    ],
+                    [
+                        6.4834922,
+                        36.489724
+                    ],
+                    [
+                        6.4835099,
+                        36.4897353
+                    ],
+                    [
+                        6.4835223,
+                        36.4897505
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-quintus-lollius-urbicus-mausoleum",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/308043/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/308043/osm-location-of-quintus-lollius-urbicus-mausoleum",
+                "location_precision": "precise",
+                "snippet": "Tomb; AD 100 - AD 199",
+                "title": "OSM location of Quintus Lollius Urbicus Mausoleum"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary",
+            "modified": "2024-04-04T19:22:07Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "wikidata Quintus Lollius Urbicus Mausoleum (Q86725228)",
             "modified": "2024-04-02T02:06:11Z",
@@ -228,117 +302,175 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "second-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/second-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-10T18:39:24Z",
+            "contributors": [],
+            "created": "2024-04-02T01:22:26Z",
             "creators": [
                 {
-                    "name": "E.W.B. Fentress",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 199,
             "featureType": [
-                "unknown"
+                "tomb"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            6.0,
-                            36.0
-                        ],
-                        [
-                            6.5,
-                            36.0
-                        ],
-                        [
-                            6.5,
-                            36.5
-                        ],
-                        [
-                            6.0,
-                            36.5
-                        ],
-                        [
-                            6.0,
-                            36.0
-                        ]
+                        6.4835223,
+                        36.4897505
+                    ],
+                    [
+                        6.483528,
+                        36.4897681
+                    ],
+                    [
+                        6.4835265,
+                        36.4897863
+                    ],
+                    [
+                        6.4835178,
+                        36.4898031
+                    ],
+                    [
+                        6.4835029,
+                        36.4898168
+                    ],
+                    [
+                        6.4834833,
+                        36.4898259
+                    ],
+                    [
+                        6.4834612,
+                        36.4898296
+                    ],
+                    [
+                        6.4834377,
+                        36.4898272
+                    ],
+                    [
+                        6.4834166,
+                        36.4898186
+                    ],
+                    [
+                        6.4834002,
+                        36.4898049
+                    ],
+                    [
+                        6.4833905,
+                        36.4897875
+                    ],
+                    [
+                        6.4833885,
+                        36.4897686
+                    ],
+                    [
+                        6.4833944,
+                        36.4897502
+                    ],
+                    [
+                        6.4834077,
+                        36.4897344
+                    ],
+                    [
+                        6.4834266,
+                        36.4897231
+                    ],
+                    [
+                        6.4834482,
+                        36.4897176
+                    ],
+                    [
+                        6.4834708,
+                        36.4897179
+                    ],
+                    [
+                        6.4834922,
+                        36.489724
+                    ],
+                    [
+                        6.4835099,
+                        36.4897353
+                    ],
+                    [
+                        6.4835223,
+                        36.4897505
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:06:04Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-10T20:21:30Z",
+                    "modified": "2024-04-04T19:21:20Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-10T18:46:55Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-02T01:22:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2024-04-02T01:22:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-02T01:22:26Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-10T18:39:25Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-02T01:22:26Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-quintus-lollius-urbicus-mausoleum",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
-            "provenance": "Barrington Atlas: BAtlas 31 E4 2",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 1268274982, version 1, osm:changeset=149458012, 2024-04-02T01:22:02Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1268274982",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1268274982",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1268274982",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/308043/batlas-location"
+            "start": 100,
+            "title": "OSM location of Quintus Lollius Urbicus Mausoleum",
+            "uri": "https://pleiades.stoa.org/places/308043/osm-location-of-quintus-lollius-urbicus-mausoleum"
         }
     ],
     "names": [],
@@ -429,8 +561,8 @@
         }
     ],
     "reprPoint": [
-        6.4824120196863655,
-        36.46233491649167
+        6.483458310304683,
+        36.48977333467784
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
