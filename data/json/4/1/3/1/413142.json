@@ -10,24 +10,43 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/926033983",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:00:32Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2024-04-06T17:56:57Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:00:33Z",
@@ -46,9 +65,21 @@
             ],
             "id": "926033983",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/core/journals/journal-of-roman-studies/article/the-via-claudia-nova/3AC77D099640279429B185C10641E48A",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RIMHW9XG",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Gardner, Robert. “The Via Claudia Nova.” <i>The Journal of Roman Studies</i> 3 (November 1913): 205–32. https://doi.org/10.2307/296226.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Gardner 1913",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Via Claudia Nova",
             "uri": "https://pleiades.stoa.org/places/413142/926033983"
         }
@@ -114,6 +145,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "ItMiller",
+            "modified": "2024-04-06T17:57:38Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Gardner 1913",
             "modified": "2021-01-18T01:47:02Z",
@@ -310,7 +346,7 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Foruli",
             "contributors": [
                 {
                     "name": "R. Talbert",
@@ -347,6 +383,11 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "update references",
+                    "modified": "2024-04-06T17:53:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "added reference",
                     "modified": "2015-08-05T14:29:35Z",
                     "modifiedBy": "jbecker"
@@ -380,12 +421,12 @@
                 {
                     "accessURI": "http://latin.packhum.org/loc/1345/1/7/19009-19015",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HAQ8XKIL",
+                    "citationDetail": "8.415",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "Sil. Ital. Pun. 8.415",
+                    "formattedCitation": "<div class=\"csl-entry\">Silius Italicus, Tiberius Catius, and Walter Coventry Summers. <i>Punica</i>. PHI CD ROM #5.3. Los Altos, CA: Packard Humanities Institute, 1991. https://latin.packhum.org/loc/1345/1/0#0.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Sil. Pun. (Summers: PHI)",
                     "type": "citesAsEvidence"
                 }
             ],
@@ -612,6 +653,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Gardner, Robert. “The Via Claudia Nova.” <i>The Journal of Roman Studies</i> 3 (November 1913): 205–32. https://doi.org/10.2307/296226.</div>",
             "otherIdentifier": "",
             "shortTitle": "Gardner 1913",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "318",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItMiller",
             "type": "seeFurther"
         }
     ],

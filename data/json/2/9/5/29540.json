@@ -1,17 +1,19 @@
 {
     "@type": "Place",
     "bbox": [
-        61.136446,
-        30.779792,
-        61.136446,
-        30.779792
+        61.6322984,
+        30.7944795,
+        61.6398849,
+        30.7981366
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
         },
         {
             "name": "M. Joann McDaniel",
@@ -32,10 +34,8 @@
             "username": null
         },
         {
-            "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "name": "Mary E. Downs",
@@ -61,23 +61,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    61.136446,
-                    30.779792
+                    [
+                        61.6392315,
+                        30.7981366
+                    ],
+                    [
+                        61.6322984,
+                        30.796343
+                    ],
+                    [
+                        61.6329518,
+                        30.7944795
+                    ],
+                    [
+                        61.6398849,
+                        30.796273
+                    ],
+                    [
+                        61.6392315,
+                        30.7981366
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-12131",
+            "id": "osm-location-o-uossuu-oouossuossu",
             "properties": {
-                "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/29540/darmc-location-12131",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/29540/osm-location-o-uossuu-oouossuossu",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "DARMC location 12131"
+                "snippet": "Archaeological-site; 550 BC - 30 BC",
+                "title": "OSM Location: دهانه غلامان"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-04-05T17:13:59Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Added more precise description; Cited Sajjadi 2007; cleaned up references",
             "modified": "2024-04-04T17:46:17Z",
@@ -133,9 +156,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -152,87 +175,102 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:02:50Z",
+            "contributors": [],
+            "created": "2024-04-05T17:11:47Z",
             "creators": [
                 {
-                    "name": "M. Roaf",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 12131",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+            "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    61.136446,
-                    30.779792
+                    [
+                        61.6392315,
+                        30.7981366
+                    ],
+                    [
+                        61.6322984,
+                        30.796343
+                    ],
+                    [
+                        61.6329518,
+                        30.7944795
+                    ],
+                    [
+                        61.6398849,
+                        30.796273
+                    ],
+                    [
+                        61.6392315,
+                        30.7981366
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:02:20Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:05:43Z",
+                    "modified": "2024-04-05T17:13:33Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T21:02:51Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-05T17:13:29Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:02:51Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2024-04-05T17:12:25Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-05T17:11:47Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T21:02:51Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-05T17:11:47Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-12131",
+            "id": "osm-location-o-uossuu-oouossuossu",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 12131",
+            "provenance": "OpenStreetMap (Way 402062842, version 2, osm:changeset=59704422, 2018-06-10T06:15:02Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/402062842",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12131",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 402062842",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12131.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=402062842",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 12131",
-            "uri": "https://pleiades.stoa.org/places/29540/darmc-location-12131"
+            "title": "OSM Location: دهانه غلامان",
+            "uri": "https://pleiades.stoa.org/places/29540/osm-location-o-uossuu-oouossuossu"
         }
     ],
     "names": [
@@ -607,10 +645,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 3 H3 Dahan-i Ghulaman/Zra(n)ka?",
     "references": [
@@ -657,11 +697,22 @@
             "otherIdentifier": "",
             "shortTitle": "Sajjadi 2007",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12131",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        61.136446,
-        30.779792
+        61.636091667455325,
+        30.79630803090857
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
