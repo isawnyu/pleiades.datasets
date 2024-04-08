@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3302 alignments exist in _Pleiades_ place references as of 2024-04-05. The following list of alignments is grouped by zotkey.
+3306 alignments exist in _Pleiades_ place references as of 2024-04-08. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3876,6 +3876,13 @@
  - [Bannaventa](https://pleiades.stoa.org/places/79313)
 
 
+## Barathron (Athens)
+[https://topostext.org/place/380237FDim](https://topostext.org/place/380237FDim)  
+
+### alignments:
+ - [Demian Gate/Gate I](https://pleiades.stoa.org/places/939242064)
+
+
 ## Bargylia (Caria)
 [https://topostext.org/place/372276UBar](https://topostext.org/place/372276UBar)  
 
@@ -5225,6 +5232,13 @@
 
 ### alignments:
  - [Jebel Khayabir/Alexandria?/Antiochia?/Spasinou Charax?/Karkh Maisan?/[Astarabad Ardashir]?](https://pleiades.stoa.org/places/912872)
+
+
+## Charisiai? (Arkadia) 8 N of Megaloupoli - Χαρισίαι
+[https://topostext.org/place/375222UCha](https://topostext.org/place/375222UCha)  
+
+### alignments:
+ - [Charisiai/Charisia](https://pleiades.stoa.org/places/573167)
 
 
 ## Charybdis (Sicily)
@@ -12930,6 +12944,13 @@
  - [Mainake](https://pleiades.stoa.org/places/265961)
 
 
+## Mainalos (Arkadia) 24 near Daria - Μαίναλον
+[https://topostext.org/place/375223UMai](https://topostext.org/place/375223UMai)  
+
+### alignments:
+ - [Mainalos](https://pleiades.stoa.org/places/570451)
+
+
 ## Mainalos Mt. (Arkadia) 82 Mainalo - Μαίναλος
 [https://topostext.org/place/377223LMai](https://topostext.org/place/377223LMai)  
 
@@ -15038,6 +15059,13 @@
 
 ### alignments:
  - [Odeon of Herodes Atticus](https://pleiades.stoa.org/places/154745711)
+
+
+## Odeion of Pericles
+[https://topostext.org/place/380237BOdP](https://topostext.org/place/380237BOdP)  
+
+### alignments:
+ - [Odeion of Perikles](https://pleiades.stoa.org/places/44151680)
 
 
 ## Odessos (Pontus)

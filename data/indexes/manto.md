@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-373 alignments exist in _Pleiades_ place references as of 2024-04-05. The following list of alignments is grouped by zotkey.
+376 alignments exist in _Pleiades_ place references as of 2024-04-08. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -321,6 +321,27 @@
 
 ### alignments:
  - [(H)Aimoniai](https://pleiades.stoa.org/places/570271)
+
+
+## 10137148: Mainalos
+[https://resource.manto.unh.edu/10137148](https://resource.manto.unh.edu/10137148)  
+
+### alignments:
+ - [Mainalos](https://pleiades.stoa.org/places/570451)
+
+
+## 10137154: Charisia
+[https://resource.manto.unh.edu/10137154](https://resource.manto.unh.edu/10137154)  
+
+### alignments:
+ - [Charisiai/Charisia](https://pleiades.stoa.org/places/573167)
+
+
+## 10137160: Asea
+[https://resource.manto.unh.edu/10137160](https://resource.manto.unh.edu/10137160)  
+
+### alignments:
+ - [Asea](https://pleiades.stoa.org/places/570122)
 
 
 ## 10137174: Oinotria (Italy)

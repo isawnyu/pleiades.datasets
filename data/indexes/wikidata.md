@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3276 alignments exist in _Pleiades_ place references as of 2024-04-05. The following list of alignments is grouped by zotkey.
+3287 alignments exist in _Pleiades_ place references as of 2024-04-08. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -331,6 +331,13 @@
  - [Roman theater of Suasa](https://pleiades.stoa.org/places/193750794)
 
 
+## ancient Roman watchtower Heumensoord (Q2217385)
+[https://www.wikidata.org/wiki/Q2217385](https://www.wikidata.org/wiki/Q2217385)  
+
+### alignments:
+ - [Heumen-Heumensoord](https://pleiades.stoa.org/places/109045)
+
+
 ## Ancient theater of Tarquimpol (Q115799274)
 [https://www.wikidata.org/wiki/Q115799274](https://www.wikidata.org/wiki/Q115799274)  
 
@@ -514,6 +521,13 @@
  - [Arykanda](https://pleiades.stoa.org/places/638770)
 
 
+## Asea (Q60791566)
+[https://www.wikidata.org/wiki/Q60791566](https://www.wikidata.org/wiki/Q60791566)  
+
+### alignments:
+ - [Asea](https://pleiades.stoa.org/places/570122)
+
+
 ## Ashkelon (Q60956)
 [https://www.wikidata.org/wiki/Q60956](https://www.wikidata.org/wiki/Q60956)  
 
@@ -575,6 +589,13 @@
 
 ### alignments:
  - [Roman amphitheater at Abella](https://pleiades.stoa.org/places/395695982)
+
+
+## Aventine Hill (Q194103)
+[https://www.wikidata.org/wiki/Q194103](https://www.wikidata.org/wiki/Q194103)  
+
+### alignments:
+ - [Aventinus mons](https://pleiades.stoa.org/places/865014139)
 
 
 ## Azania (Q60791680)
@@ -892,6 +913,13 @@
  - [Harenatium](https://pleiades.stoa.org/places/98976)
 
 
+## Castrum Mannaricium (Q1309550)
+[https://www.wikidata.org/wiki/Q1309550](https://www.wikidata.org/wiki/Q1309550)  
+
+### alignments:
+ - [Mannaricium](https://pleiades.stoa.org/places/99006)
+
+
 ## Catacombs of Sant'Alessandro (Q3663208)
 [https://www.wikidata.org/wiki/Q3663208](https://www.wikidata.org/wiki/Q3663208)  
 
@@ -932,6 +960,20 @@
 
 ### alignments:
  - [Keryneia](https://pleiades.stoa.org/places/570354)
+
+
+## Ceuclum (Q3414036)
+[https://www.wikidata.org/wiki/Q3414036](https://www.wikidata.org/wiki/Q3414036)  
+
+### alignments:
+ - [Ceuclum](https://pleiades.stoa.org/places/108875)
+
+
+## Charisia (Q5074395)
+[https://www.wikidata.org/wiki/Q5074395](https://www.wikidata.org/wiki/Q5074395)  
+
+### alignments:
+ - [Charisiai/Charisia](https://pleiades.stoa.org/places/573167)
 
 
 ## Chesterholm-Vindolanda (Samian Ware Discovery Site) (Q103159561)
@@ -1037,6 +1079,20 @@
 
 ### alignments:
  - [Coriaria Septimiana](https://pleiades.stoa.org/places/281053051)
+
+
+## Coriovallum (Q2320554)
+[https://www.wikidata.org/wiki/Q2320554](https://www.wikidata.org/wiki/Q2320554)  
+
+### alignments:
+ - [Coriovallum](https://pleiades.stoa.org/places/108908)
+
+
+## Corium (Q65078486)
+[https://www.wikidata.org/wiki/Q65078486](https://www.wikidata.org/wiki/Q65078486)  
+
+### alignments:
+ - [Korion](https://pleiades.stoa.org/places/589878)
 
 
 ## Cortuosa (Q780529)
@@ -2082,6 +2138,13 @@
  - [Lago dell'Accesa (lake)](https://pleiades.stoa.org/places/532675709)
 
 
+## Lake Flevo (Q2283279)
+[https://www.wikidata.org/wiki/Q2283279](https://www.wikidata.org/wiki/Q2283279)  
+
+### alignments:
+ - [Flevum L.](https://pleiades.stoa.org/places/98958)
+
+
 ## Lake of Pusiano (Q63177)
 [https://www.wikidata.org/wiki/Q63177](https://www.wikidata.org/wiki/Q63177)  
 
@@ -2299,6 +2362,13 @@
  - [Pindasos (mountain)](https://pleiades.stoa.org/places/550830)
 
 
+## Maenalus (Q11936450)
+[https://www.wikidata.org/wiki/Q11936450](https://www.wikidata.org/wiki/Q11936450)  
+
+### alignments:
+ - [Mainalos](https://pleiades.stoa.org/places/570451)
+
+
 ## Magarsa (Q11934549)
 [https://www.wikidata.org/wiki/Q11934549](https://www.wikidata.org/wiki/Q11934549)  
 
@@ -2381,6 +2451,20 @@
 
 ### alignments:
  - [Megalopolis](https://pleiades.stoa.org/places/570467)
+
+
+## Melangeia (Q6811232)
+[https://www.wikidata.org/wiki/Q6811232](https://www.wikidata.org/wiki/Q6811232)  
+
+### alignments:
+ - [Melangeia](https://pleiades.stoa.org/places/570473)
+
+
+## Melitaea (Q1919416)
+[https://www.wikidata.org/wiki/Q1919416](https://www.wikidata.org/wiki/Q1919416)  
+
+### alignments:
+ - [Meliteia](https://pleiades.stoa.org/places/540941)
 
 
 ## Mellisurgis (Q16909799)
@@ -9471,13 +9555,6 @@
  - [Circus Maximus Mithraeum](https://pleiades.stoa.org/places/960323262)
 
 
-## Q194103: Aventine Hill
-[https://www.wikidata.org/wiki/Q194103](https://www.wikidata.org/wiki/Q194103)  
-
-### alignments:
- - [Aventinus mons](https://pleiades.stoa.org/places/865014139)
-
-
 ## Q194450: Thermopylae
 [https://www.wikidata.org/wiki/Q194450](https://www.wikidata.org/wiki/Q194450)  
 
@@ -10963,13 +11040,6 @@
 
 ### alignments:
  - [Ptolemaic Kingdom](https://pleiades.stoa.org/places/463803480)
-
-
-## Q2320554
-[https://www.wikidata.org/wiki/Q2320554](https://www.wikidata.org/wiki/Q2320554)  
-
-### alignments:
- - [Coriovallum](https://pleiades.stoa.org/places/108908)
 
 
 ## Q232615: Sardis
@@ -13527,13 +13597,6 @@
 
 ### alignments:
  - [Paiania Kathyperthen](https://pleiades.stoa.org/places/580047)
-
-
-## Q3414036: Ceuclum
-[https://www.wikidata.org/wiki/Q3414036](https://www.wikidata.org/wiki/Q3414036)  
-
-### alignments:
- - [Ceuclum](https://pleiades.stoa.org/places/108875)
 
 
 ## Q342799: Jemdet Nasr
@@ -21990,6 +22053,13 @@
  - [Villards-d’Heria](https://pleiades.stoa.org/places/177659)
 
 
+## Sanctuary of Aphrodite (Q53556453)
+[https://www.wikidata.org/wiki/Q53556453](https://www.wikidata.org/wiki/Q53556453)  
+
+### alignments:
+ - [Sanctuary of Aphrodite Paphia](https://pleiades.stoa.org/places/828989863)
+
+
 ## Sanctuary of Asklepios, Balagrae (Q104776135)
 [https://www.wikidata.org/wiki/Q104776135](https://www.wikidata.org/wiki/Q104776135)  
 
@@ -22598,6 +22668,13 @@
 
 ### alignments:
  - [Therapne](https://pleiades.stoa.org/places/570723)
+
+
+## Thermen Coriovallum (Q54914895)
+[https://www.wikidata.org/wiki/Q54914895](https://www.wikidata.org/wiki/Q54914895)  
+
+### alignments:
+ - [Roman baths of Coriovallum](https://pleiades.stoa.org/places/763397652)
 
 
 ## Thetidium (Q60790511)

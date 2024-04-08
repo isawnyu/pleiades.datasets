@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3227 alignments exist in _Pleiades_ place references as of 2024-04-05. The following list of alignments is grouped by zotkey.
+3232 alignments exist in _Pleiades_ place references as of 2024-04-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2264,6 +2264,13 @@
 
 ### alignments:
  - [Maxula](https://pleiades.stoa.org/places/315072)
+
+
+## GEO ID 11839: Melzi
+[http://www.trismegistos.org/place/11839](http://www.trismegistos.org/place/11839)  
+
+### alignments:
+ - [Melzi/Melz/Milz](https://pleiades.stoa.org/places/321679)
 
 
 ## GEO ID 11840: Oea (Tripoli)
@@ -12881,6 +12888,13 @@
  - [Col. Tarraco](https://pleiades.stoa.org/places/246349)
 
 
+## GEO ID 3375: Skiathis (Wadi el-Natrun)
+[http://www.trismegistos.org/place/3375](http://www.trismegistos.org/place/3375)  
+
+### alignments:
+ - [Sketis](https://pleiades.stoa.org/places/727232)
+
+
 ## GEO ID 33897: Akanthos (Hierissos)
 [https://www.trismegistos.org/place/33897](https://www.trismegistos.org/place/33897)  
 
@@ -13348,6 +13362,13 @@
 
 ### alignments:
  - [Magnesia ad Sipylum](https://pleiades.stoa.org/places/550706)
+
+
+## GEO ID 3577: Melitaia
+[https://www.trismegistos.org/place/3577](https://www.trismegistos.org/place/3577)  
+
+### alignments:
+ - [Meliteia](https://pleiades.stoa.org/places/540941)
 
 
 ## GEO ID 3578: Messana (Messina)
@@ -18664,7 +18685,7 @@
  - [Lucus Aquilonensis/Aquilonis Mutatio](https://pleiades.stoa.org/places/442641)
 
 
-## GEO ID 43641
+## GEO ID 43641: Benacus Lacus (Lake Garda)
 [http://www.trismegistos.org/place/43641](http://www.trismegistos.org/place/43641)  
 
 ### alignments:
@@ -20045,6 +20066,13 @@
  - [Catabathmus Maior/Plynos Limen/Tetrapyrgia](https://pleiades.stoa.org/places/716540)
 
 
+## GEO ID 48076: Monastery of Mor Malke
+[http://www.trismegistos.org/place/48076](http://www.trismegistos.org/place/48076)  
+
+### alignments:
+ - [Mar Melki](https://pleiades.stoa.org/places/874582)
+
+
 ## GEO ID 4808: Katarraktes Mikros
 [https://www.trismegistos.org/place/4808](https://www.trismegistos.org/place/4808)  
 
@@ -21102,6 +21130,13 @@
 
 ### alignments:
  - [Rharion Pedion](https://pleiades.stoa.org/places/585954)
+
+
+## GEO ID 60825: Melabron (Hagia Eirene)
+[https://www.trismegistos.org/place/60825](https://www.trismegistos.org/place/60825)  
+
+### alignments:
+ - [Melabron?](https://pleiades.stoa.org/places/707579)
 
 
 ## GEO ID 60826: Palaia
