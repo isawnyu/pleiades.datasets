@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-273 alignments exist in _Pleiades_ place references as of 2024-04-08. The following list of alignments is grouped by zotkey.
+274 alignments exist in _Pleiades_ place references as of 2024-04-09. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1612,6 +1612,13 @@
 
 ### alignments:
  - [Mytilene](https://pleiades.stoa.org/places/550763)
+
+
+## Toponyme 4325: Alifira, Rongozo
+[https://chronique.efa.gr/?kroute=topo_public&id=4325](https://chronique.efa.gr/?kroute=topo_public&id=4325)  
+
+### alignments:
+ - [Alipheira](https://pleiades.stoa.org/places/570065)
 
 
 ## Toponyme 4418: Germenos, Aigosthena, Aigosthaina

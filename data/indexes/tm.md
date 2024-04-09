@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3232 alignments exist in _Pleiades_ place references as of 2024-04-08. The following list of alignments is grouped by zotkey.
+3234 alignments exist in _Pleiades_ place references as of 2024-04-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1211,6 +1211,13 @@
  - [Mycenae](https://pleiades.stoa.org/places/570491)
 
 
+## Geo 37675: Alipheira
+[https://www.trismegistos.org/place/37675](https://www.trismegistos.org/place/37675)  
+
+### alignments:
+ - [Alipheira](https://pleiades.stoa.org/places/570065)
+
+
 ## Geo 37676: Asea
 [https://www.trismegistos.org/place/37676](https://www.trismegistos.org/place/37676)  
 
@@ -1669,6 +1676,13 @@
 
 ### alignments:
  - [Elaious](https://pleiades.stoa.org/places/501411)
+
+
+## Geo 58950: Methydrion (Nemnitsa)
+[https://www.trismegistos.org/place/58950](https://www.trismegistos.org/place/58950)  
+
+### alignments:
+ - [Methydrion](https://pleiades.stoa.org/places/570484)
 
 
 ## Geo 59651: Apollonia (Sıçak)

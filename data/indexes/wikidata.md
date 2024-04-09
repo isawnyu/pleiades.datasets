@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3287 alignments exist in _Pleiades_ place references as of 2024-04-08. The following list of alignments is grouped by zotkey.
+3289 alignments exist in _Pleiades_ place references as of 2024-04-09. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -182,6 +182,13 @@
 
 ### alignments:
  - [Albaniana](https://pleiades.stoa.org/places/98908)
+
+
+## Aliphera (Q38281053)
+[https://www.wikidata.org/wiki/Q38281053](https://www.wikidata.org/wiki/Q38281053)  
+
+### alignments:
+ - [Alipheira](https://pleiades.stoa.org/places/570065)
 
 
 ## Allahdino (Q4730348)
@@ -2500,6 +2507,13 @@
 
 ### alignments:
  - [Metapa](https://pleiades.stoa.org/places/540945)
+
+
+## Methydrium (Q60790161)
+[https://www.wikidata.org/wiki/Q60790161](https://www.wikidata.org/wiki/Q60790161)  
+
+### alignments:
+ - [Methydrion](https://pleiades.stoa.org/places/570484)
 
 
 ## Metroon of Athens (Q1925757)
