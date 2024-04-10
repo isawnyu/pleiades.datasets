@@ -1,12 +1,63 @@
 {
     "@type": "Place",
     "bbox": [
-        25.0,
-        35.0,
-        25.5,
-        35.5
+        25.1641453,
+        35.2587361,
+        25.1868224,
+        35.2845652
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/589872",
+            "contributors": [],
+            "created": "2020-05-13T22:01:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-09T19:31:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-09T19:31:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2020-05-13T22:01:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2020-05-13T22:01:30Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "knosos-col-iulia-nobilis-cnosos",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Knosos/Col. Iulia Nobilis Cnosos",
+            "uri": "https://pleiades.stoa.org/places/590414/knosos-col-iulia-nobilis-cnosos"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/589872"
     ],
@@ -26,9 +77,15 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:27:16Z",
+    "created": "2024-04-09T16:03:22Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -39,49 +96,70 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 D2 unnamed aqueduct (Knosos)",
+    "description": "A roman contour-grade aqueduct, carrying water from the Fundana spring, south of Knossos, to an inverted siphon bridge at Spilia and thence to Knossos.",
     "details": "<p>The Barrington Atlas Directory notes: Knosos</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
+                    25.1868224,
+                    35.2587361
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-aqueduct-source-fundana-spring",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/590414/osm-location-aqueduct-source-fundana-spring",
+                "location_precision": "precise",
+                "snippet": "Spring",
+                "title": "OSM Location: aqueduct source: Fundana spring"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     [
-                        [
-                            25.0,
-                            35.0
-                        ],
-                        [
-                            25.5,
-                            35.0
-                        ],
-                        [
-                            25.5,
-                            35.5
-                        ],
-                        [
-                            25.0,
-                            35.5
-                        ],
-                        [
-                            25.0,
-                            35.0
-                        ]
+                        25.1641453,
+                        35.2839295
+                    ],
+                    [
+                        25.1645869,
+                        35.2841171
+                    ],
+                    [
+                        25.1650069,
+                        35.2843438
+                    ],
+                    [
+                        25.1657399,
+                        35.284516
+                    ],
+                    [
+                        25.1662412,
+                        35.2845652
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location-19th-century-spilia-aqueduct-bridge",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/590414/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap. Likely replaces a Roman aqueduct bridge at the same location.",
+                "link": "https://pleiades.stoa.org/places/590414/osm-location-19th-century-spilia-aqueduct-bridge",
+                "location_precision": "precise",
+                "snippet": "Aqueduct, Bridge; AD 1800 - AD 1899",
+                "title": "OSM Location: 19th century Spilia Aqueduct Bridge"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; cleaned up references; added Kelly 2023; added OSM locations for two key elements of the aqueduct course (after Kelly 2023).",
+            "modified": "2024-04-09T21:42:59Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added Knossos Minoan Palace Project (KMPP) tag",
             "modified": "2020-05-28T23:00:10Z",
@@ -122,8 +200,95 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2024-04-09T16:18:36Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "spring"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/spring"
+            ],
+            "geometry": {
+                "coordinates": [
+                    25.1868224,
+                    35.2587361
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-09T21:43:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-09T19:30:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-09T16:27:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-09T16:18:36Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-09T16:18:36Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-aqueduct-source-fundana-spring",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/spring"
+            ],
+            "provenance": "OpenStreetMap (Node 2330621276, version 1, osm:changeset=16406537, 2013-06-03T14:02:45Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2330621276",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2330621276",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2330621276",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "OSM Location: aqueduct source: Fundana spring",
+            "uri": "https://pleiades.stoa.org/places/590414/osm-location-aqueduct-source-fundana-spring"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -131,158 +296,168 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:27:16Z",
+            "contributors": [],
+            "created": "2024-04-09T16:29:20Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap. Likely replaces a Roman aqueduct bridge at the same location.",
             "details": "",
-            "end": 640,
+            "end": 1899,
             "featureType": [
-                "unknown"
+                "aqueduct",
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            25.0,
-                            35.0
-                        ],
-                        [
-                            25.5,
-                            35.0
-                        ],
-                        [
-                            25.5,
-                            35.5
-                        ],
-                        [
-                            25.0,
-                            35.5
-                        ],
-                        [
-                            25.0,
-                            35.0
-                        ]
+                        25.1641453,
+                        35.2839295
+                    ],
+                    [
+                        25.1645869,
+                        35.2841171
+                    ],
+                    [
+                        25.1650069,
+                        35.2843438
+                    ],
+                    [
+                        25.1657399,
+                        35.284516
+                    ],
+                    [
+                        25.1662412,
+                        35.2845652
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:51:42Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:04:53Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2024-04-09T21:43:26Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:59:05Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-09T19:30:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-09T16:30:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-09T16:29:20Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:27:16Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-09T16:29:20Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-19th-century-spilia-aqueduct-bridge",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 D2",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 35779544, version 9, osm:changeset=144541019, 2023-11-28T09:57:56Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/35779544",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 35779544",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=35779544",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/590414/batlas-location"
+            "start": 1800,
+            "title": "OSM Location: 19th century Spilia Aqueduct Bridge",
+            "uri": "https://pleiades.stoa.org/places/590414/osm-location-19th-century-spilia-aqueduct-bridge"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
+        "https://pleiades.stoa.org/vocabularies/place-types/aqueduct",
+        "https://pleiades.stoa.org/vocabularies/place-types/spring",
+        "https://pleiades.stoa.org/vocabularies/place-types/bridge"
     ],
     "placeTypes": [
-        "aqueduct"
+        "aqueduct",
+        "spring",
+        "bridge"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 D2",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "60 D2",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 60 D2",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/h.html#Hood-1981",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZTFAQUJH",
+            "citationDetail": "23-24",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hood, Sinclair, and David Smyth. <i>Archaeological Survey of the Knossos Area</i>. 2  rev. and Expand. Supplementary Volume (British School at Athens) 14. London: Thames and Hudson, 1981.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Hood 1981",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/roman-aqueduct-of-knossos-a-model-for-nineteenthcentury-aqueduct-design/E8A90C60B965D1BB999C3B850E12321E",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3I5BYM9N",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Hood 1981, 23-24",
+            "formattedCitation": "<div class=\"csl-entry\">Kelly, Amanda, and Brendan O’Neill. “The Roman Aqueduct of Knossos, A Model for Nineteenth-Century Aqueduct Design.” <i>Annual of the British School at Athens</i> 118 (December 2023): 349–97. https://doi.org/10.1017/S0068245422000156.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Kelly 2023",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        25.25,
-        35.25
+        25.17599680739454,
+        35.2715300313304
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "KMPP"
     ],
-    "title": "Unnamed Aqueduct at Roman Knosos ",
+    "title": "Roman Aqueduct of Knossos",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/590414"
 }

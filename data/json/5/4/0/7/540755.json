@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.764982,
-        38.626349,
-        22.766667,
-        38.633333
+        22.7778611,
+        38.6444882,
+        22.7822014,
+        38.6469068
     ],
     "connections": [
         {
@@ -92,7 +92,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/541048"
+        "https://pleiades.stoa.org/places/541048",
+        "https://pleiades.stoa.org/places/540679"
     ],
     "contributors": [
         {
@@ -106,6 +107,12 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Rosemary Selth",
+            "uri": "https://pleiades.stoa.org/author/rselth",
+            "username": "rselth"
         },
         {
             "homepage": null,
@@ -124,12 +131,24 @@
             "username": null
         },
         {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
             "name": "G. Reger",
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "R. Scott Smith",
+            "uri": "https://pleiades.stoa.org/author/rssmith",
+            "username": "rssmith"
+        },
+        {
+            "homepage": null,
+            "name": "Greta Hawes",
+            "uri": "https://pleiades.stoa.org/author/ghawes",
+            "username": "ghawes"
         },
         {
             "homepage": null,
@@ -138,7 +157,7 @@
             "username": "cargyrakou"
         }
     ],
-    "created": "2018-06-07T23:51:50Z",
+    "created": "2024-04-09T15:16:08Z",
     "creators": [
         {
             "name": "J. Fossey",
@@ -149,47 +168,77 @@
             "username": null
         }
     ],
-    "description": "Elateia was an ancient Greek city of Phocis, and numbered as the most important place in that region after Delphi.",
+    "description": "Elateia was an ancient Greek city of Phocis, and numbered as the most important place in that region after Delphi. The remains of the ancient site are located to the northeast of the modern town.",
     "details": "<p>The Barrington Atlas Directory notes: Drakhmani/Piperis</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    22.764982,
-                    38.626349
+                    [
+                        22.7799581,
+                        38.6469068
+                    ],
+                    [
+                        22.7786951,
+                        38.6467011
+                    ],
+                    [
+                        22.7781099,
+                        38.6463164
+                    ],
+                    [
+                        22.7778611,
+                        38.6452385
+                    ],
+                    [
+                        22.7792461,
+                        38.6444882
+                    ],
+                    [
+                        22.7807092,
+                        38.6445377
+                    ],
+                    [
+                        22.7817284,
+                        38.6447319
+                    ],
+                    [
+                        22.7822014,
+                        38.6454404
+                    ],
+                    [
+                        22.7813968,
+                        38.6465259
+                    ],
+                    [
+                        22.7799581,
+                        38.6469068
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-2022",
+            "id": "osm-location-iiii-i1i-i-i-i3ioii-issiii-i-ii-i",
             "properties": {
-                "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/540755/darmc-location-2022",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/540755/osm-location-iiii-i1i-i-i-i3ioii-issiii-i-ii-i",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 2022"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    22.766667,
-                    38.633333
-                ],
-                "type": "Point"
-            },
-            "id": "center-point-of-modern-elateia-per-google-earth",
-            "properties": {
-                "description": "Following Google Earth.",
-                "link": "https://pleiades.stoa.org/places/540755/center-point-of-modern-elateia-per-google-earth",
-                "location_precision": "precise",
-                "snippet": "Settlement-modern, ; AD 1700 - AD 2100",
-                "title": "Imagery location of Center point of modern Elateia"
+                "snippet": "Archaeological-site; 750 BC - AD 640",
+                "title": "OSM Location: Αρχαιολογκός Χώρος Ελάτειας"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 2022 = related",
+            "modified": "2024-04-09T21:45:20Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "cleaned up references; updated NP link broken by Brill; added MANTO and Wikidata references provided by MANTO team; added CFL/AGO, Trismegistos, and iDAI.gazetteer references provided by bkiesling; summary; added OSM location of the archaeological site, which supersedes the currently published locations.",
+            "modified": "2024-04-09T21:44:06Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add references",
             "modified": "2023-09-03T21:54:49Z",
@@ -270,9 +319,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -307,193 +356,122 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:46:51Z",
+            "contributors": [],
+            "created": "2024-04-09T15:28:22Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 2022",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    22.764982,
-                    38.626349
+                    [
+                        22.7799581,
+                        38.6469068
+                    ],
+                    [
+                        22.7786951,
+                        38.6467011
+                    ],
+                    [
+                        22.7781099,
+                        38.6463164
+                    ],
+                    [
+                        22.7778611,
+                        38.6452385
+                    ],
+                    [
+                        22.7792461,
+                        38.6444882
+                    ],
+                    [
+                        22.7807092,
+                        38.6445377
+                    ],
+                    [
+                        22.7817284,
+                        38.6447319
+                    ],
+                    [
+                        22.7822014,
+                        38.6454404
+                    ],
+                    [
+                        22.7813968,
+                        38.6465259
+                    ],
+                    [
+                        22.7799581,
+                        38.6469068
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:05:34Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:55:37Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2024-04-09T21:44:18Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T18:46:52Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-09T15:37:10Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:46:52Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2024-04-09T15:29:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-09T15:28:22Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T18:46:51Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-09T15:28:22Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-2022",
+            "id": "osm-location-iiii-i1i-i-i-i3ioii-issiii-i-ii-i",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 2022",
+            "provenance": "OpenStreetMap (Way 915444717, version 1, osm:changeset=100775618, 2021-03-10T11:32:21Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/915444717",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "2022",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 915444717",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 2022.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=915444717",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 2022",
-            "uri": "https://pleiades.stoa.org/places/540755/darmc-location-2022"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-partners-imagery-2015",
-            "accuracy_value": 5.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
-                }
-            ],
-            "contributors": [],
-            "created": "2014-12-15T20:18:07Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Constantina Argyrakou",
-                    "uri": "https://pleiades.stoa.org/author/cargyrakou",
-                    "username": "cargyrakou"
-                }
-            ],
-            "description": "Following Google Earth.",
-            "details": "",
-            "end": 2100,
-            "featureType": [
-                "settlement-modern",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    22.766667,
-                    38.633333
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2015-06-22T21:53:09Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2015-06-22T21:52:54Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added reference",
-                    "modified": "2015-06-22T21:52:21Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2015-06-22T21:49:57Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2014-12-15T20:43:48Z",
-                    "modifiedBy": "cargyrakou"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2014-12-15T20:18:09Z",
-                    "modifiedBy": "cargyrakou"
-                }
-            ],
-            "id": "center-point-of-modern-elateia-per-google-earth",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "https://tools.wmflabs.org/geohack/geohack.php?pagename=Elateia&params=38_38_N_22_46_E_type:city_region:GR",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "GeoHack - Elateia",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": 1700,
-            "title": "Imagery location of Center point of modern Elateia",
-            "uri": "https://pleiades.stoa.org/places/540755/center-point-of-modern-elateia-per-google-earth"
+            "title": "OSM Location: Αρχαιολογκός Χώρος Ελάτειας",
+            "uri": "https://pleiades.stoa.org/places/540755/osm-location-iiii-i1i-i-i-i3ioii-issiii-i-ii-i"
         }
     ],
     "names": [
@@ -630,10 +608,12 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
         "settlement",
+        "archaeological-site",
         "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 55 D3 Elateia",
@@ -694,7 +674,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/elatea-e328460",
+            "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e328460",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
             "citationDetail": "Elatea [1] Phocian town",
@@ -707,10 +687,10 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Elateia",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Elateia",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Elateia.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
@@ -762,10 +742,10 @@
         {
             "accessURI": "https://topostext.org/place/386228PEla",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
             "citationDetail": "Elateia (Phthiotida)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
@@ -813,11 +793,77 @@
             "otherIdentifier": "",
             "shortTitle": "Lauffer 1989",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://resource.manto.unh.edu/10146542",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "citationDetail": "10146542: Elateia",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "MANTO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1235347",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Elateia (Q1235347)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=18165",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponyme 18165: Elatia, Drachmani",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/15782",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 15782: Elateia",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2361629",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2361629: Elateia",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "2022",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        22.7658245,
-        38.629841
+        22.779986871112573,
+        38.64563331290165
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
