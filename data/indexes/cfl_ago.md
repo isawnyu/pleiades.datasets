@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-274 alignments exist in _Pleiades_ place references as of 2024-04-09. The following list of alignments is grouped by zotkey.
+277 alignments exist in _Pleiades_ place references as of 2024-04-10. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1010,6 +1010,20 @@
  - [Skiathos (settlement)](https://pleiades.stoa.org/places/541104)
 
 
+## Toponyme 14524: Nafplio
+[https://chronique.efa.gr/?kroute=topo_public&id=14524](https://chronique.efa.gr/?kroute=topo_public&id=14524)  
+
+### alignments:
+ - [Nauplia](https://pleiades.stoa.org/places/570501)
+
+
+## Toponyme 14526: Limani Nafpliou
+[https://chronique.efa.gr/?kroute=topo_public&id=14526](https://chronique.efa.gr/?kroute=topo_public&id=14526)  
+
+### alignments:
+ - [Nauplia](https://pleiades.stoa.org/places/570501)
+
+
 ## Toponyme 14663: Lyttos, Xidas
 [https://chronique.efa.gr/?kroute=topo_public&id=14663](https://chronique.efa.gr/?kroute=topo_public&id=14663)  
 
@@ -1036,6 +1050,13 @@
 
 ### alignments:
  - [Delphi](https://pleiades.stoa.org/places/540726)
+
+
+## Toponyme 18165: Elatia, Drachmani
+[https://chronique.efa.gr/?kroute=topo_public&id=18165](https://chronique.efa.gr/?kroute=topo_public&id=18165)  
+
+### alignments:
+ - [Elateia](https://pleiades.stoa.org/places/540755)
 
 
 ## Toponyme 18426: Érétrie, Eretria, Nea Psara (124/1960)

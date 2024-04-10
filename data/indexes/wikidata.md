@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3289 alignments exist in _Pleiades_ place references as of 2024-04-09. The following list of alignments is grouped by zotkey.
+3292 alignments exist in _Pleiades_ place references as of 2024-04-10. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1354,6 +1354,13 @@
  - [el-Lahun](https://pleiades.stoa.org/places/736953)
 
 
+## Elateia (Q1235347)
+[https://www.wikidata.org/wiki/Q1235347](https://www.wikidata.org/wiki/Q1235347)  
+
+### alignments:
+ - [Elateia](https://pleiades.stoa.org/places/540755)
+
+
 ## Eleusis (Q65084298)
 [https://www.wikidata.org/wiki/Q65084298](https://www.wikidata.org/wiki/Q65084298)  
 
@@ -1674,6 +1681,13 @@
 
 ### alignments:
  - [Hephaistia](https://pleiades.stoa.org/places/550569)
+
+
+## Heraia (Q3562285)
+[https://www.wikidata.org/wiki/Q3562285](https://www.wikidata.org/wiki/Q3562285)  
+
+### alignments:
+ - [Heraia](https://pleiades.stoa.org/places/570287)
 
 
 ## Hermeskeil Roman Camp (Q1243560)
@@ -2675,6 +2689,13 @@
 
 ### alignments:
  - [Myrmekion](https://pleiades.stoa.org/places/854710)
+
+
+## Nauplia (Q56399740)
+[https://www.wikidata.org/wiki/Q56399740](https://www.wikidata.org/wiki/Q56399740)  
+
+### alignments:
+ - [Nauplia](https://pleiades.stoa.org/places/570501)
 
 
 ## Naxos (polis) (Q96575378)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-378 alignments exist in _Pleiades_ place references as of 2024-04-09. The following list of alignments is grouped by zotkey.
+382 alignments exist in _Pleiades_ place references as of 2024-04-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -351,6 +351,13 @@
  - [Alipheira](https://pleiades.stoa.org/places/570065)
 
 
+## 10137170: Heraia
+[https://resource.manto.unh.edu/10137170](https://resource.manto.unh.edu/10137170)  
+
+### alignments:
+ - [Heraia](https://pleiades.stoa.org/places/570287)
+
+
 ## 10137174: Oinotria (Italy)
 [https://resource.manto.unh.edu/10137174](https://resource.manto.unh.edu/10137174)  
 
@@ -372,11 +379,32 @@
  - [Oeroe (river)](https://pleiades.stoa.org/places/540967)
 
 
+## 10146499: Nauplia
+[https://resource.manto.unh.edu/10146499](https://resource.manto.unh.edu/10146499)  
+
+### alignments:
+ - [Nauplia](https://pleiades.stoa.org/places/570501)
+
+
 ## 10146513: Azania (region of Arcadia)
 [https://resource.manto.unh.edu/10146513](https://resource.manto.unh.edu/10146513)  
 
 ### alignments:
  - [Azania](https://pleiades.stoa.org/places/570143)
+
+
+## 10146542: Elateia
+[https://resource.manto.unh.edu/10146542](https://resource.manto.unh.edu/10146542)  
+
+### alignments:
+ - [Elateia](https://pleiades.stoa.org/places/540755)
+
+
+## 10146544: Ioppe
+[https://resource.manto.unh.edu/10146544](https://resource.manto.unh.edu/10146544)  
+
+### alignments:
+ - [Ioppe](https://pleiades.stoa.org/places/687931)
 
 
 ## 10146570: Pylos (Elis)

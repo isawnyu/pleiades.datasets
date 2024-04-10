@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3234 alignments exist in _Pleiades_ place references as of 2024-04-09. The following list of alignments is grouped by zotkey.
+3237 alignments exist in _Pleiades_ place references as of 2024-04-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -337,6 +337,13 @@
 
 ### alignments:
  - [Akraiphiai](https://pleiades.stoa.org/places/540617)
+
+
+## Geo 15782: Elateia
+[https://www.trismegistos.org/place/15782](https://www.trismegistos.org/place/15782)  
+
+### alignments:
+ - [Elateia](https://pleiades.stoa.org/places/540755)
 
 
 ## Geo 1578: Pamphylia
@@ -1223,6 +1230,13 @@
 
 ### alignments:
  - [Asea](https://pleiades.stoa.org/places/570122)
+
+
+## Geo 37682: Heraia
+[https://www.trismegistos.org/place/37682](https://www.trismegistos.org/place/37682)  
+
+### alignments:
+ - [Heraia](https://pleiades.stoa.org/places/570287)
 
 
 ## Geo 37698: Nestane
@@ -12753,6 +12767,13 @@
 
 ### alignments:
  - [Metropolis](https://pleiades.stoa.org/places/540947)
+
+
+## GEO ID 33469: Pharkadon
+[http://www.trismegistos.org/place/33469](http://www.trismegistos.org/place/33469)  
+
+### alignments:
+ - [Pharkadon](https://pleiades.stoa.org/places/541041)
 
 
 ## GEO ID 33478: Azoros (Vouvala)
