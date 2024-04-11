@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3292 alignments exist in _Pleiades_ place references as of 2024-04-10. The following list of alignments is grouped by zotkey.
+3299 alignments exist in _Pleiades_ place references as of 2024-04-11. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -287,6 +287,13 @@
 
 ### alignments:
  - [Roman amphitheater at Thuburbo Maius](https://pleiades.stoa.org/places/883384682)
+
+
+## Amyneion (Q65229287)
+[https://www.wikidata.org/wiki/Q65229287](https://www.wikidata.org/wiki/Q65229287)  
+
+### alignments:
+ - [Sanctuary of Amynos and Asklepios](https://pleiades.stoa.org/places/122735559)
 
 
 ## Anagyrous (Q4750861)
@@ -1450,6 +1457,13 @@
 
 ### alignments:
  - [Eteonos/Skaphaliai](https://pleiades.stoa.org/places/543704)
+
+
+## Euhydrium (Q48781687)
+[https://www.wikidata.org/wiki/Q48781687](https://www.wikidata.org/wiki/Q48781687)  
+
+### alignments:
+ - [Euhydrion](https://pleiades.stoa.org/places/540781)
 
 
 ## Eurotas (Q119152)
@@ -2866,6 +2880,20 @@
  - [Oropos](https://pleiades.stoa.org/places/580044)
 
 
+## Orthos (Q17624080)
+[https://www.wikidata.org/wiki/Q17624080](https://www.wikidata.org/wiki/Q17624080)  
+
+### alignments:
+ - [Ortha](https://pleiades.stoa.org/places/540991)
+
+
+## Pagasae (Q652674)
+[https://www.wikidata.org/wiki/Q652674](https://www.wikidata.org/wiki/Q652674)  
+
+### alignments:
+ - [Pagasai](https://pleiades.stoa.org/places/540998)
+
+
 ## Pagasetic Gulf (Q1185210)
 [https://www.wikidata.org/wiki/Q1185210](https://www.wikidata.org/wiki/Q1185210)  
 
@@ -3095,6 +3123,13 @@
 
 ### alignments:
  - [Phrearroi](https://pleiades.stoa.org/places/580077)
+
+
+## Phyllus (Q16567947)
+[https://www.wikidata.org/wiki/Q16567947](https://www.wikidata.org/wiki/Q16567947)  
+
+### alignments:
+ - [Phyllos](https://pleiades.stoa.org/places/541056)
 
 
 ## Pi-Ramesses
@@ -22712,11 +22747,25 @@
  - [Roman baths of Coriovallum](https://pleiades.stoa.org/places/763397652)
 
 
+## Thessaliotis (Q2084400)
+[https://www.wikidata.org/wiki/Q2084400](https://www.wikidata.org/wiki/Q2084400)  
+
+### alignments:
+ - [Thessaliotis](https://pleiades.stoa.org/places/541142)
+
+
 ## Thetidium (Q60790511)
 [https://www.wikidata.org/wiki/Q60790511](https://www.wikidata.org/wiki/Q60790511)  
 
 ### alignments:
  - [Thetideion](https://pleiades.stoa.org/places/541144)
+
+
+## Thetonium (Q18286485)
+[https://www.wikidata.org/wiki/Q18286485](https://www.wikidata.org/wiki/Q18286485)  
+
+### alignments:
+ - [Thetonion](https://pleiades.stoa.org/places/541145)
 
 
 ## Tholos of Athens (Q9087412)

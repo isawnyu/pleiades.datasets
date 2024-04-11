@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-136 alignments exist in _Pleiades_ place references as of 2024-04-10. The following list of alignments is grouped by zotkey.
+137 alignments exist in _Pleiades_ place references as of 2024-04-11. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -944,6 +944,13 @@
 
 ### alignments:
  - [Sanctuary of Kodros, Neleus and Basile at Athens](https://pleiades.stoa.org/places/935764097)
+
+
+## Sanctuary of Akamas
+[https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-akamas/](https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-akamas/)  
+
+### alignments:
+ - [Sanctuary of Akamas](https://pleiades.stoa.org/places/122735558)
 
 
 ## Siphnos

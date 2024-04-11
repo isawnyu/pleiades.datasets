@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-382 alignments exist in _Pleiades_ place references as of 2024-04-10. The following list of alignments is grouped by zotkey.
+384 alignments exist in _Pleiades_ place references as of 2024-04-11. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -603,6 +603,13 @@
  - [Potamos Deiradiotes](https://pleiades.stoa.org/places/580087)
 
 
+## 10159447: Larisa (Thessaly)
+[https://resource.manto.unh.edu/10159447](https://resource.manto.unh.edu/10159447)  
+
+### alignments:
+ - [Larissa](https://pleiades.stoa.org/places/540905)
+
+
 ## 10159723: Oropos (Boiotia)
 [https://resource.manto.unh.edu/10159723](https://resource.manto.unh.edu/10159723)  
 
@@ -1112,6 +1119,13 @@
 
 ### alignments:
  - [Magnesia ad Sipylum](https://pleiades.stoa.org/places/550706)
+
+
+## 11289361: Pagasai (Thessaly)
+[https://resource.manto.unh.edu/11289361](https://resource.manto.unh.edu/11289361)  
+
+### alignments:
+ - [Pagasai](https://pleiades.stoa.org/places/540998)
 
 
 ## 11292595: Mount Hymettos (Attica)

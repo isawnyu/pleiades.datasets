@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3307 alignments exist in _Pleiades_ place references as of 2024-04-10. The following list of alignments is grouped by zotkey.
+3311 alignments exist in _Pleiades_ place references as of 2024-04-11. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1556,6 +1556,13 @@
 
 ### alignments:
  - [Amykos](https://pleiades.stoa.org/places/520957)
+
+
+## Amyneion shrine
+[https://topostext.org/place/380237SAmy](https://topostext.org/place/380237SAmy)  
+
+### alignments:
+ - [Sanctuary of Amynos and Asklepios](https://pleiades.stoa.org/places/122735559)
 
 
 ## Amyros (Thessaly)
@@ -7322,6 +7329,13 @@
 
 ### alignments:
  - [Euhippe](https://pleiades.stoa.org/places/599614)
+
+
+## Euhydrion (Thessaly)
+[https://topostext.org/place/394223UEuh](https://topostext.org/place/394223UEuh)  
+
+### alignments:
+ - [Euhydrion](https://pleiades.stoa.org/places/540781)
 
 
 ## Eukarpia (Phrygia)
@@ -15698,6 +15712,13 @@
  - [Pagai](https://pleiades.stoa.org/places/570543)
 
 
+## Pagasai (Magnesia)
+[https://topostext.org/place/393229PPag](https://topostext.org/place/393229PPag)  
+
+### alignments:
+ - [Pagasai](https://pleiades.stoa.org/places/540998)
+
+
 ## Pagasitic Gulf (Magnesia) 25 Pagasitikos Kolpos - Παγασιτικός κόλπος
 [https://topostext.org/place/393230WPag](https://topostext.org/place/393230WPag)  
 
@@ -17139,6 +17160,13 @@
 
 ### alignments:
  - [Phyle](https://pleiades.stoa.org/places/580079)
+
+
+## Phyllos (Thessaly)
+[https://topostext.org/place/394222UPhy](https://topostext.org/place/394222UPhy)  
+
+### alignments:
+ - [Phyllos](https://pleiades.stoa.org/places/541056)
 
 
 ## Physkos (Caria)

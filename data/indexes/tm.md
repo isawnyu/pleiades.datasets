@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3237 alignments exist in _Pleiades_ place references as of 2024-04-10. The following list of alignments is grouped by zotkey.
+3242 alignments exist in _Pleiades_ place references as of 2024-04-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2740,6 +2740,13 @@
 
 ### alignments:
  - [Acelum](https://pleiades.stoa.org/places/393357)
+
+
+## GEO ID 1224: Larisa
+[https://www.trismegistos.org/place/1224](https://www.trismegistos.org/place/1224)  
+
+### alignments:
+ - [Larissa](https://pleiades.stoa.org/places/540905)
 
 
 ## GEO ID 12251: Vicetia (Vicenza)
@@ -10521,6 +10528,13 @@
  - [Patti Marina](https://pleiades.stoa.org/places/462414)
 
 
+## GEO ID 30763: Pagasai
+[http://www.trismegistos.org/place/30763](http://www.trismegistos.org/place/30763)  
+
+### alignments:
+ - [Pagasai](https://pleiades.stoa.org/places/540998)
+
+
 ## GEO ID 30765: Horaiokastron
 [https://www.trismegistos.org/place/30765](https://www.trismegistos.org/place/30765)  
 
@@ -12720,6 +12734,20 @@
  - [Makra Kome](https://pleiades.stoa.org/places/540926)
 
 
+## GEO ID 33407: Thetonion
+[http://www.trismegistos.org/place/33407](http://www.trismegistos.org/place/33407)  
+
+### alignments:
+ - [Thetonion](https://pleiades.stoa.org/places/541145)
+
+
+## GEO ID 33417: Euhydrion (Ktouri)
+[https://www.trismegistos.org/place/33417](https://www.trismegistos.org/place/33417)  
+
+### alignments:
+ - [Euhydrion](https://pleiades.stoa.org/places/540781)
+
+
 ## GEO ID 3341: Augusta Suessionum (Soissons)
 [http://www.trismegistos.org/place/3341](http://www.trismegistos.org/place/3341)  
 
@@ -12732,6 +12760,13 @@
 
 ### alignments:
  - [Kierion](https://pleiades.stoa.org/places/540867)
+
+
+## GEO ID 33424: Phyllos (Magoula Paliambela)
+[https://www.trismegistos.org/place/33424](https://www.trismegistos.org/place/33424)  
+
+### alignments:
+ - [Phyllos](https://pleiades.stoa.org/places/541056)
 
 
 ## GEO ID 3343: Augustobona (Troyes)
