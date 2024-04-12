@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3242 alignments exist in _Pleiades_ place references as of 2024-04-11. The following list of alignments is grouped by zotkey.
+3244 alignments exist in _Pleiades_ place references as of 2024-04-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14295,6 +14295,13 @@
  - [Amphanai?](https://pleiades.stoa.org/places/540627)
 
 
+## GEO ID 38164: Pyrasos (Nea Anchialos)
+[https://www.trismegistos.org/place/38164](https://www.trismegistos.org/place/38164)  
+
+### alignments:
+ - [Pyrasos](https://pleiades.stoa.org/places/541081)
+
+
 ## GEO ID 38172: Samiko
 [http://www.trismegistos.org/place/38172](http://www.trismegistos.org/place/38172)  
 
@@ -20786,6 +20793,13 @@
 
 ### alignments:
  - [Delphi](https://pleiades.stoa.org/places/540726)
+
+
+## GEO ID 54478: Timna
+[https://www.trismegistos.org/place/54478](https://www.trismegistos.org/place/54478)  
+
+### alignments:
+ - [Timnah](https://pleiades.stoa.org/places/746825)
 
 
 ## GEO ID 54481: Heldua (Khan el-Khulde)

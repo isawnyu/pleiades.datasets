@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3311 alignments exist in _Pleiades_ place references as of 2024-04-11. The following list of alignments is grouped by zotkey.
+3312 alignments exist in _Pleiades_ place references as of 2024-04-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -18690,6 +18690,13 @@
 
 ### alignments:
  - [Nestor's Palace](https://pleiades.stoa.org/places/156116232)
+
+
+## Pyrasos (Magnesia)
+[https://topostext.org/place/393228PPyr](https://topostext.org/place/393228PPyr)  
+
+### alignments:
+ - [Pyrasos](https://pleiades.stoa.org/places/541081)
 
 
 ## Pyre of Herakles (Phokida) 6 Makrorrakhi - Ηρακλέους Πυρά

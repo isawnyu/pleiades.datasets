@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3299 alignments exist in _Pleiades_ place references as of 2024-04-11. The following list of alignments is grouped by zotkey.
+3300 alignments exist in _Pleiades_ place references as of 2024-04-12. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -2717,6 +2717,13 @@
 
 ### alignments:
  - [Naxos (settlement)](https://pleiades.stoa.org/places/599821)
+
+
+## Nea Anchialos (Q583647)
+[https://www.wikidata.org/wiki/Q583647](https://www.wikidata.org/wiki/Q583647)  
+
+### alignments:
+ - [Pyrasos](https://pleiades.stoa.org/places/541081)
 
 
 ## Necropolis of Montessu (Q1369420)

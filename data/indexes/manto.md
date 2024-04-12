@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-384 alignments exist in _Pleiades_ place references as of 2024-04-11. The following list of alignments is grouped by zotkey.
+385 alignments exist in _Pleiades_ place references as of 2024-04-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2380,6 +2380,13 @@
 
 ### alignments:
  - [Kalydnioi (islands)](https://pleiades.stoa.org/places/599683)
+
+
+## 9720419: Pyrasos (Thessaly)
+[https://resource.manto.unh.edu/9720419](https://resource.manto.unh.edu/9720419)  
+
+### alignments:
+ - [Pyrasos](https://pleiades.stoa.org/places/541081)
 
 
 ## 9720421: Iton (Thessaly)
