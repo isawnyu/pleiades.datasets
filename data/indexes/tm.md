@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3244 alignments exist in _Pleiades_ place references as of 2024-04-12. The following list of alignments is grouped by zotkey.
+3256 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1811,6 +1811,13 @@
  - [Edessa (Macedonia)](https://pleiades.stoa.org/places/491585)
 
 
+## Geo 8339: Aigiai
+[https://www.trismegistos.org/place/8339](https://www.trismegistos.org/place/8339)  
+
+### alignments:
+ - [Aigiai](https://pleiades.stoa.org/places/570044)
+
+
 ## Geo 903: India
 [https://www.trismegistos.org/place/903](https://www.trismegistos.org/place/903)  
 
@@ -2215,6 +2222,13 @@
 
 ### alignments:
  - [Calabria](https://pleiades.stoa.org/places/442518)
+
+
+## GEO ID 11785: Akila
+[http://www.trismegistos.org/place/11785](http://www.trismegistos.org/place/11785)  
+
+### alignments:
+ - [Akila/Okelis](https://pleiades.stoa.org/places/39279)
 
 
 ## GEO ID 11804: Arretium (Arezzo)
@@ -3230,6 +3244,13 @@
 
 ### alignments:
  - [ Montila Potamos/ Montila](https://pleiades.stoa.org/places/741523)
+
+
+## GEO ID 13927: Pegai
+[http://www.trismegistos.org/place/13927](http://www.trismegistos.org/place/13927)  
+
+### alignments:
+ - [Pagai](https://pleiades.stoa.org/places/570543)
 
 
 ## GEO ID 13: Abaton (Biga Island)
@@ -5228,6 +5249,13 @@
  - [Phara(i)](https://pleiades.stoa.org/places/570590)
 
 
+## GEO ID 15757: Pharsalos
+[http://www.trismegistos.org/place/15757](http://www.trismegistos.org/place/15757)  
+
+### alignments:
+ - [Pharsalus](https://pleiades.stoa.org/places/541042)
+
+
 ## GEO ID 15781: Dodona
 [http://www.trismegistos.org/place/15781](http://www.trismegistos.org/place/15781)  
 
@@ -5506,6 +5534,13 @@
 
 ### alignments:
  - [Cremna/Col. Iulia Augusta Felix](https://pleiades.stoa.org/places/638814)
+
+
+## GEO ID 16332: Germa
+[https://www.trismegistos.org/place/16332](https://www.trismegistos.org/place/16332)  
+
+### alignments:
+ - [(Col. Iulia Aug. Felix) Germa](https://pleiades.stoa.org/places/609351)
 
 
 ## GEO ID 1633: Patsonteos Dioryx (Bahr Wardan)
@@ -7585,6 +7620,13 @@
 
 ### alignments:
  - [Gaujac](https://pleiades.stoa.org/places/148092)
+
+
+## GEO ID 2114: Selymbria (Silivri)
+[https://www.trismegistos.org/place/2114](https://www.trismegistos.org/place/2114)  
+
+### alignments:
+ - [Sely(m)bria/Eudoxiopolis](https://pleiades.stoa.org/places/511414)
 
 
 ## GEO ID 21161: Ad Fines (Goult)
@@ -10591,6 +10633,13 @@
  - [Luna](https://pleiades.stoa.org/places/403235)
 
 
+## GEO ID 3103: Axoume (Aksum)
+[http://www.trismegistos.org/place/3103](http://www.trismegistos.org/place/3103)  
+
+### alignments:
+ - [A(u)xoume](https://pleiades.stoa.org/places/39303)
+
+
 ## GEO ID 31065: Pons Sonti (Farra d'Isonzo)
 [https://www.trismegistos.org/place/31065](https://www.trismegistos.org/place/31065)  
 
@@ -12683,6 +12732,13 @@
 
 ### alignments:
  - [Ionium Mare](https://pleiades.stoa.org/places/1046)
+
+
+## GEO ID 33377: Antron (Phano)
+[https://www.trismegistos.org/place/33377](https://www.trismegistos.org/place/33377)  
+
+### alignments:
+ - [Antron(es)](https://pleiades.stoa.org/places/540644)
 
 
 ## GEO ID 3337: Iatinum (Meaux)
@@ -21027,6 +21083,13 @@
  - [Mersin-Yumuktepe](https://pleiades.stoa.org/places/648555)
 
 
+## GEO ID 58869: Astakos (Baş İskele)
+[https://www.trismegistos.org/place/58869](https://www.trismegistos.org/place/58869)  
+
+### alignments:
+ - [Astakos](https://pleiades.stoa.org/places/511169)
+
+
 ## GEO ID 58891: Grumum
 [https://www.trismegistos.org/place/58891](https://www.trismegistos.org/place/58891)  
 
@@ -21195,6 +21258,20 @@
  - [Pharmakoussai/Choirades (islands)](https://pleiades.stoa.org/places/580073)
 
 
+## GEO ID 60768: Tripodiskos
+[https://www.trismegistos.org/place/60768](https://www.trismegistos.org/place/60768)  
+
+### alignments:
+ - [Tripodiskos](https://pleiades.stoa.org/places/573571)
+
+
+## GEO ID 60769: Nisaia
+[https://www.trismegistos.org/place/60769](https://www.trismegistos.org/place/60769)  
+
+### alignments:
+ - [Nisaia](https://pleiades.stoa.org/places/570508)
+
+
 ## GEO ID 60773: Drymos
 [https://www.trismegistos.org/place/60773](https://www.trismegistos.org/place/60773)  
 
@@ -21214,6 +21291,13 @@
 
 ### alignments:
  - [Rharion Pedion](https://pleiades.stoa.org/places/585954)
+
+
+## GEO ID 60802: Panormos (Psatha
+[https://www.trismegistos.org/place/60802](https://www.trismegistos.org/place/60802)  
+
+### alignments:
+ - [Panormos](https://pleiades.stoa.org/places/570557)
 
 
 ## GEO ID 60825: Melabron (Hagia Eirene)
@@ -21543,6 +21627,13 @@
 
 ### alignments:
  - [Pompeiopolis/Sebaste](https://pleiades.stoa.org/places/845041)
+
+
+## GEO ID 691: Galatia
+[http://www.trismegistos.org/place/691](http://www.trismegistos.org/place/691)  
+
+### alignments:
+ - [Galatia](https://pleiades.stoa.org/places/619161)
 
 
 ## GEO ID 6998: Rakoukaitha
@@ -22294,13 +22385,6 @@
 
 ### alignments:
  - [Pons Aeni](https://pleiades.stoa.org/places/187516)
-
-
-## GEO ID, 3103: Axoume (Aksum)
-[http://www.trismegistos.org/place/3103](http://www.trismegistos.org/place/3103)  
-
-### alignments:
- - [A(u)xoume](https://pleiades.stoa.org/places/39303)
 
 
 ## GEO ID, 3152: Misenum (Miseno)

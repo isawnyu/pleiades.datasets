@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-277 alignments exist in _Pleiades_ place references as of 2024-04-12. The following list of alignments is grouped by zotkey.
+279 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -272,6 +272,13 @@
 
 ### alignments:
  - [Kastro Phaneromenis/Kastro Kochylou](https://pleiades.stoa.org/places/451513645)
+
+
+## THÈBES DE PHTHIOTIDE. - Théâtre - 2010
+[https://chronique.efa.gr/?kroute=report&id=2034](https://chronique.efa.gr/?kroute=report&id=2034)  
+
+### alignments:
+ - [Thebai Phthiotides](https://pleiades.stoa.org/places/541137)
 
 
 ## Toponym 10361: Thermopyles, Thermopylae, Thermopylai, Thermopilai
@@ -1078,6 +1085,14 @@
 
 ### alignments:
  - [Kallipolis](https://pleiades.stoa.org/places/540849)
+
+
+## Toponyme 19940: Aigies, Chania Koutoumous (119/1957), LIMNI (usuel)
+[https://chronique.efa.gr/?kroute=topo_public&id=19940](https://chronique.efa.gr/?kroute=topo_public&id=19940)  
+
+### alignments:
+ - [Aigiai](https://pleiades.stoa.org/places/570044)
+ - [Pagania Sanctuary (Aigies, Laconia)](https://pleiades.stoa.org/places/248247811)
 
 
 ## Toponyme 20814: Dispilion, Dupiakoi, Dispilio

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-385 alignments exist in _Pleiades_ place references as of 2024-04-12. The following list of alignments is grouped by zotkey.
+393 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -428,11 +428,25 @@
  - [Kleitor](https://pleiades.stoa.org/places/570359)
 
 
+## 10146615: Alesiai
+[https://resource.manto.unh.edu/10146615](https://resource.manto.unh.edu/10146615)  
+
+### alignments:
+ - [Alesiai](https://pleiades.stoa.org/places/570063)
+
+
 ## 10146622: Mount Taleton (Laconia/Messenia: mountain in the Taygetos range)
 [https://resource.manto.unh.edu/10146622](https://resource.manto.unh.edu/10146622)  
 
 ### alignments:
  - [Taleton Akra](https://pleiades.stoa.org/places/573541)
+
+
+## 10146647: Aigiai
+[https://resource.manto.unh.edu/10146647](https://resource.manto.unh.edu/10146647)  
+
+### alignments:
+ - [Aigiai](https://pleiades.stoa.org/places/570044)
 
 
 ## 10146658: Lapithaion (Laconia)
@@ -496,6 +510,13 @@
 
 ### alignments:
  - [Lyceum](https://pleiades.stoa.org/places/122572945)
+
+
+## 10151521: Nisaia (Megarid)
+[https://resource.manto.unh.edu/10151521](https://resource.manto.unh.edu/10151521)  
+
+### alignments:
+ - [Nisaia](https://pleiades.stoa.org/places/570508)
 
 
 ## 10151549: the Theater of Dionysos (Athens)
@@ -645,6 +666,13 @@
  - [Sepia (mountain)](https://pleiades.stoa.org/places/573514)
 
 
+## 10187028: Pagai (Megarid)
+[https://resource.manto.unh.edu/10187028](https://resource.manto.unh.edu/10187028)  
+
+### alignments:
+ - [Pagai](https://pleiades.stoa.org/places/570543)
+
+
 ## 10191959: Mount Chelydorea (Arcadia/Achaia)
 [https://resource.manto.unh.edu/10191959](https://resource.manto.unh.edu/10191959)  
 
@@ -685,6 +713,13 @@
 
 ### alignments:
  - [Anaphlystos](https://pleiades.stoa.org/places/579866)
+
+
+## 10210636: Tripodiscos (Argolid)
+[https://resource.manto.unh.edu/10210636](https://resource.manto.unh.edu/10210636)  
+
+### alignments:
+ - [Tripodiskos](https://pleiades.stoa.org/places/573571)
 
 
 ## 10210680: Minoa (island facing Nisaia)
@@ -951,6 +986,13 @@
 
 ### alignments:
  - [Rhamnous](https://pleiades.stoa.org/places/580097)
+
+
+## 10272345: Pharsalos (Thessaly)
+[https://resource.manto.unh.edu/10272345](https://resource.manto.unh.edu/10272345)  
+
+### alignments:
+ - [Pharsalus](https://pleiades.stoa.org/places/541042)
 
 
 ## 10272383: Corsica
@@ -1745,6 +1787,13 @@
  - [Thasos (island)](https://pleiades.stoa.org/places/501635)
 
 
+## 8253998: Torone (Chalcidice)
+[https://resource.manto.unh.edu/8253998](https://resource.manto.unh.edu/8253998)  
+
+### alignments:
+ - [Torone](https://pleiades.stoa.org/places/501646)
+
+
 ## 8254003: Abderia (Spain)
 [https://resource.manto.unh.edu/8254003](https://resource.manto.unh.edu/8254003)  
 
@@ -2394,6 +2443,13 @@
 
 ### alignments:
  - [Iton?](https://pleiades.stoa.org/places/540842)
+
+
+## 9720422: Antron (Thessaly)
+[https://resource.manto.unh.edu/9720422](https://resource.manto.unh.edu/9720422)  
+
+### alignments:
+ - [Antron(es)](https://pleiades.stoa.org/places/540644)
 
 
 ## 9720423: Pteleon (Thessaly)

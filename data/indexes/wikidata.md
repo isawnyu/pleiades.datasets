@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3300 alignments exist in _Pleiades_ place references as of 2024-04-12. The following list of alignments is grouped by zotkey.
+3322 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -135,6 +135,13 @@
  - [Aegae](https://pleiades.stoa.org/places/550404)
 
 
+## Aigiai (Q60790659)
+[https://www.wikidata.org/wiki/Q60790659](https://www.wikidata.org/wiki/Q60790659)  
+
+### alignments:
+ - [Aigiai](https://pleiades.stoa.org/places/570044)
+
+
 ## Ain Dara Temple (Q82073668)
 [https://www.wikidata.org/wiki/Q82073668](https://www.wikidata.org/wiki/Q82073668)  
 
@@ -182,6 +189,13 @@
 
 ### alignments:
  - [Albaniana](https://pleiades.stoa.org/places/98908)
+
+
+## Alesiae (Q124615475)
+[https://www.wikidata.org/wiki/Q124615475](https://www.wikidata.org/wiki/Q124615475)  
+
+### alignments:
+ - [Alesiai](https://pleiades.stoa.org/places/570063)
 
 
 ## Aliphera (Q38281053)
@@ -394,6 +408,13 @@
  - [Propaxos (island)](https://pleiades.stoa.org/places/531075)
 
 
+## Antron (Q16483685)
+[https://www.wikidata.org/wiki/Q16483685](https://www.wikidata.org/wiki/Q16483685)  
+
+### alignments:
+ - [Antron(es)](https://pleiades.stoa.org/places/540644)
+
+
 ## Aperlae (Q618234)
 [https://www.wikidata.org/wiki/Q618234](https://www.wikidata.org/wiki/Q618234)  
 
@@ -556,6 +577,13 @@
  - [Asine](https://pleiades.stoa.org/places/570125)
 
 
+## Astacus in Bithynia (Q4810504)
+[https://www.wikidata.org/wiki/Q4810504](https://www.wikidata.org/wiki/Q4810504)  
+
+### alignments:
+ - [Astakos](https://pleiades.stoa.org/places/511169)
+
+
 ## Asterousia Mountains (Q3566939)
 [https://www.wikidata.org/wiki/Q3566939](https://www.wikidata.org/wiki/Q3566939)  
 
@@ -701,6 +729,13 @@
 
 ### alignments:
  - [Thermae Constantinianae](https://pleiades.stoa.org/places/933584945)
+
+
+## Battle of Crocus Field (Q1887681)
+[https://www.wikidata.org/wiki/Q1887681](https://www.wikidata.org/wiki/Q1887681)  
+
+### alignments:
+ - [Krokion Pedion](https://pleiades.stoa.org/places/540890)
 
 
 ## Bema of Phaidros (Q85746507)
@@ -1123,6 +1158,13 @@
  - [Kos (settlement)](https://pleiades.stoa.org/places/599728)
 
 
+## Crocus Field (Q63806485)
+[https://www.wikidata.org/wiki/Q63806485](https://www.wikidata.org/wiki/Q63806485)  
+
+### alignments:
+ - [Krokion Pedion](https://pleiades.stoa.org/places/540890)
+
+
 ## Crocyleium (Q60792238)
 [https://www.wikidata.org/wiki/Q60792238](https://www.wikidata.org/wiki/Q60792238)  
 
@@ -1233,6 +1275,13 @@
 
 ### alignments:
  - [Rusuccuru](https://pleiades.stoa.org/places/295334)
+
+
+## Delphinium (Q60791095)
+[https://www.wikidata.org/wiki/Q60791095](https://www.wikidata.org/wiki/Q60791095)  
+
+### alignments:
+ - [Delphinion](https://pleiades.stoa.org/places/550512)
 
 
 ## Dema House (Q124690739)
@@ -1494,6 +1543,13 @@
  - [Leucolla](https://pleiades.stoa.org/places/638959)
 
 
+## First Ancient Theatre, Larissa (Q5452301)
+[https://www.wikidata.org/wiki/Q5452301](https://www.wikidata.org/wiki/Q5452301)  
+
+### alignments:
+ - [The Theater of Larissa](https://pleiades.stoa.org/places/942647940)
+
+
 ## Fortress of Eleutherai (Q1328318)
 [https://www.wikidata.org/wiki/Q1328318](https://www.wikidata.org/wiki/Q1328318)  
 
@@ -1527,6 +1583,13 @@
 
 ### alignments:
  - [Frosolone](https://pleiades.stoa.org/places/432851)
+
+
+## Galatia (Q1249412)
+[https://www.wikidata.org/wiki/Q1249412](https://www.wikidata.org/wiki/Q1249412)  
+
+### alignments:
+ - [Galatia](https://pleiades.stoa.org/places/619161)
 
 
 ## Gargettos (Q12874917)
@@ -1576,6 +1639,13 @@
 
 ### alignments:
  - [Bosphorus](https://pleiades.stoa.org/places/520977)
+
+
+## Germa (Q1513790)
+[https://www.wikidata.org/wiki/Q1513790](https://www.wikidata.org/wiki/Q1513790)  
+
+### alignments:
+ - [(Col. Iulia Aug. Felix) Germa](https://pleiades.stoa.org/places/609351)
 
 
 ## Giants of Mont'e Prama (Q1817134)
@@ -2059,6 +2129,13 @@
 
 ### alignments:
  - [Kikynna?](https://pleiades.stoa.org/places/579979)
+
+
+## Kinaidokolpitai (Q96385960)
+[https://www.wikidata.org/wiki/Q96385960](https://www.wikidata.org/wiki/Q96385960)  
+
+### alignments:
+ - [Kinaidokolpitai](https://pleiades.stoa.org/places/39360)
 
 
 ## Kladeos (Q647970)
@@ -2768,6 +2845,13 @@
  - [New Bouleuterion](https://pleiades.stoa.org/places/502723225)
 
 
+## Nisaea (Q2537089)
+[https://www.wikidata.org/wiki/Q2537089](https://www.wikidata.org/wiki/Q2537089)  
+
+### alignments:
+ - [Nisaia](https://pleiades.stoa.org/places/570508)
+
+
 ## Nisiopi (Q915899)
 [https://www.wikidata.org/wiki/Q915899](https://www.wikidata.org/wiki/Q915899)  
 
@@ -2894,6 +2978,13 @@
  - [Ortha](https://pleiades.stoa.org/places/540991)
 
 
+## Pagae (Q935675)
+[https://www.wikidata.org/wiki/Q935675](https://www.wikidata.org/wiki/Q935675)  
+
+### alignments:
+ - [Pagai](https://pleiades.stoa.org/places/570543)
+
+
 ## Pagasae (Q652674)
 [https://www.wikidata.org/wiki/Q652674](https://www.wikidata.org/wiki/Q652674)  
 
@@ -2948,6 +3039,13 @@
 
 ### alignments:
  - [Panormos (Crete) / Aulopotamos?](https://pleiades.stoa.org/places/589974)
+
+
+## Panormus (Q60791432)
+[https://www.wikidata.org/wiki/Q60791432](https://www.wikidata.org/wiki/Q60791432)  
+
+### alignments:
+ - [Panormos](https://pleiades.stoa.org/places/570557)
 
 
 ## Papremi (Q3894902)
@@ -3088,6 +3186,13 @@
 
 ### alignments:
  - [Phara(i)](https://pleiades.stoa.org/places/570590)
+
+
+## Pharsalos ancient city (Q38281085)
+[https://www.wikidata.org/wiki/Q38281085](https://www.wikidata.org/wiki/Q38281085)  
+
+### alignments:
+ - [Pharsalus](https://pleiades.stoa.org/places/541042)
 
 
 ## Phegous (Q13416292)
@@ -22256,6 +22361,13 @@
  - [Sellasia](https://pleiades.stoa.org/places/570662)
 
 
+## Selymbria (Q12219946)
+[https://www.wikidata.org/wiki/Q12219946](https://www.wikidata.org/wiki/Q12219946)  
+
+### alignments:
+ - [Sely(m)bria/Eudoxiopolis](https://pleiades.stoa.org/places/511414)
+
+
 ## Serifos (Q217214)
 [https://www.wikidata.org/wiki/Q217214](https://www.wikidata.org/wiki/Q217214)  
 
@@ -22544,6 +22656,13 @@
  - [Teithras](https://pleiades.stoa.org/places/580115)
 
 
+## Tel Batash (Q16610074)
+[https://www.wikidata.org/wiki/Q16610074](https://www.wikidata.org/wiki/Q16610074)  
+
+### alignments:
+ - [Tel Batash (Timnah)](https://pleiades.stoa.org/places/925655548)
+
+
 ## Tell Beit Mirsim (Q2402197)
 [https://www.wikidata.org/wiki/Q2402197](https://www.wikidata.org/wiki/Q2402197)  
 
@@ -22654,6 +22773,13 @@
 
 ### alignments:
  - [Temple of Hera I (the "Basilica")](https://pleiades.stoa.org/places/608476833)
+
+
+## Temple of Kronos and Rhea (Q65238154)
+[https://www.wikidata.org/wiki/Q65238154](https://www.wikidata.org/wiki/Q65238154)  
+
+### alignments:
+ - [Temple of Kronos and Rhea](https://pleiades.stoa.org/places/518758744)
 
 
 ## Temple of Rome and Augustus (Q2145005)
@@ -22782,6 +22908,13 @@
  - [Tholos of Athens](https://pleiades.stoa.org/places/91288718)
 
 
+## Tholos Tomb (Pharsala) (Q38282889)
+[https://www.wikidata.org/wiki/Q38282889](https://www.wikidata.org/wiki/Q38282889)  
+
+### alignments:
+ - [Archaic tholos tomb at Pharsalos](https://pleiades.stoa.org/places/430178769)
+
+
 ## Tholos tomb of Platyskinos (Q28749518)
 [https://www.wikidata.org/wiki/Q28749518](https://www.wikidata.org/wiki/Q28749518)  
 
@@ -22801,6 +22934,20 @@
 
 ### alignments:
  - [Ticinus (river)](https://pleiades.stoa.org/places/383799)
+
+
+## Timna valley (Q1973199)
+[https://www.wikidata.org/wiki/Q1973199](https://www.wikidata.org/wiki/Q1973199)  
+
+### alignments:
+ - [Timnah](https://pleiades.stoa.org/places/746825)
+
+
+## Timnah (Q2916736)
+[https://www.wikidata.org/wiki/Q2916736](https://www.wikidata.org/wiki/Q2916736)  
+
+### alignments:
+ - [Tel Batash (Timnah)](https://pleiades.stoa.org/places/925655548)
 
 
 ## Tinos (Q1231074)
@@ -22878,6 +23025,13 @@
 
 ### alignments:
  - [Triphylia](https://pleiades.stoa.org/places/570754)
+
+
+## Tripodiscus (Q15961462)
+[https://www.wikidata.org/wiki/Q15961462](https://www.wikidata.org/wiki/Q15961462)  
+
+### alignments:
+ - [Tripodiskos](https://pleiades.stoa.org/places/573571)
 
 
 ## Troezen (Q581494)

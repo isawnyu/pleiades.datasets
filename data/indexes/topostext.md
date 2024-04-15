@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3312 alignments exist in _Pleiades_ place references as of 2024-04-12. The following list of alignments is grouped by zotkey.
+3321 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1138,6 +1138,13 @@
  - [Alesia](https://pleiades.stoa.org/places/177434)
 
 
+## Alesiai (Lakonia) 5 near Ag. Ioannis - Αλεσίας
+[https://topostext.org/place/370224UAle](https://topostext.org/place/370224UAle)  
+
+### alignments:
+ - [Alesiai](https://pleiades.stoa.org/places/570063)
+
+
 ## Aletrium (Italy)
 [https://topostext.org/place/417133UAle](https://topostext.org/place/417133UAle)  
 
@@ -1999,6 +2006,13 @@
  - [Antium](https://pleiades.stoa.org/places/422837)
 
 
+## Antrones (Phthiotis)
+[https://topostext.org/place/390230PAnt](https://topostext.org/place/390230PAnt)  
+
+### alignments:
+ - [Antron(es)](https://pleiades.stoa.org/places/540644)
+
+
 ## Aous R. (Illyria)
 [https://topostext.org/place/406195WAou](https://topostext.org/place/406195WAou)  
 
@@ -2186,6 +2200,13 @@
 
 ### alignments:
  - [Apollo Mageirios, T.](https://pleiades.stoa.org/places/707477)
+
+
+## Apollo Melanthios sanct. (Cyprus)
+[https://topostext.org/place/348326SApo](https://topostext.org/place/348326SApo)  
+
+### alignments:
+ - [Apollo Melanthios, T.](https://pleiades.stoa.org/places/707478)
 
 
 ## Apollo Nasiotas sanct. (Phokis)
@@ -7548,6 +7569,13 @@
  - [Fanum Martis/Civitas Coriosolitum](https://pleiades.stoa.org/places/69507)
 
 
+## Farsala Tholos (Thessaly)
+[https://topostext.org/place/393224GFar](https://topostext.org/place/393224GFar)  
+
+### alignments:
+ - [Archaic tholos tomb at Pharsalos](https://pleiades.stoa.org/places/430178769)
+
+
 ## Faventia (Cisalpina)
 [https://topostext.org/place/443119UFav](https://topostext.org/place/443119UFav)  
 
@@ -7784,6 +7812,13 @@
 
 ### alignments:
  - [Gadeira/Gades/Col. Augusta Gaditana](https://pleiades.stoa.org/places/256177)
+
+
+## Galatia (Anatolia)
+[https://topostext.org/place/401330RGal](https://topostext.org/place/401330RGal)  
+
+### alignments:
+ - [Galatia](https://pleiades.stoa.org/places/619161)
 
 
 ## Galepsos (Kavala)
@@ -16062,6 +16097,13 @@
  - [Panormos (Crete) / Aulopotamos?](https://pleiades.stoa.org/places/589974)
 
 
+## Panormos (Megarid)
+[https://topostext.org/place/381232HPan](https://topostext.org/place/381232HPan)  
+
+### alignments:
+ - [Panormos](https://pleiades.stoa.org/places/570557)
+
+
 ## Panormos (Mykonos)
 [https://topostext.org/place/373253HPan](https://topostext.org/place/373253HPan)  
 
@@ -21128,6 +21170,13 @@
  - [Temple of Ares](https://pleiades.stoa.org/places/468194251)
 
 
+## Temple of Kronos and Rhea (Athens) 1 Olympieion Athens
+[https://topostext.org/place/380237SKrR](https://topostext.org/place/380237SKrR)  
+
+### alignments:
+ - [Temple of Kronos and Rhea](https://pleiades.stoa.org/places/518758744)
+
+
 ## Temple of Peace (Rome)
 [https://topostext.org/place/419125SPax](https://topostext.org/place/419125SPax)  
 
@@ -21386,6 +21435,13 @@
 
 ### alignments:
  - [Theatrum Marcelli](https://pleiades.stoa.org/places/300583267)
+
+
+## Thebai Phthiotides (Magnesia)
+[https://topostext.org/place/393228PThe](https://topostext.org/place/393228PThe)  
+
+### alignments:
+ - [Thebai Phthiotides](https://pleiades.stoa.org/places/541137)
 
 
 ## Thebais (Egypt)
@@ -22252,6 +22308,13 @@
 
 ### alignments:
  - [Triopion](https://pleiades.stoa.org/places/599988)
+
+
+## Tripodiskoi (Attica)
+[https://topostext.org/place/380233UTri](https://topostext.org/place/380233UTri)  
+
+### alignments:
+ - [Tripodiskos](https://pleiades.stoa.org/places/573571)
 
 
 ## Tripolis (Drama)
