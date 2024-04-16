@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-279 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
+280 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1071,6 +1071,13 @@
 
 ### alignments:
  - [Eretria](https://pleiades.stoa.org/places/579925)
+
+
+## Toponyme 19241: Glyfa
+[https://chronique.efa.gr/?kroute=topo_public&id=19241](https://chronique.efa.gr/?kroute=topo_public&id=19241)  
+
+### alignments:
+ - [Glyfa](https://pleiades.stoa.org/places/873325866)
 
 
 ## Toponyme 19583: Gazoros, Porna

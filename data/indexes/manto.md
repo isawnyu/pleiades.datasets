@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-393 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
+400 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -281,6 +281,13 @@
  - [Patra(e)](https://pleiades.stoa.org/places/570567)
 
 
+## 10127983: Cynouria (Arcadia)
+[https://resource.manto.unh.edu/10127983](https://resource.manto.unh.edu/10127983)  
+
+### alignments:
+ - [Kynouria](https://pleiades.stoa.org/places/573322)
+
+
 ## 10136970: Hypsous
 [https://resource.manto.unh.edu/10136970](https://resource.manto.unh.edu/10136970)  
 
@@ -470,11 +477,32 @@
  - [Migonion](https://pleiades.stoa.org/places/573377)
 
 
+## 10148863: Aphytis
+[https://resource.manto.unh.edu/10148863](https://resource.manto.unh.edu/10148863)  
+
+### alignments:
+ - [Aphytis](https://pleiades.stoa.org/places/491525)
+
+
 ## 10148890: River Tiasa (Laconia) river in Laconia, between Sparta and Amyclai
 [https://resource.manto.unh.edu/10148890](https://resource.manto.unh.edu/10148890)  
 
 ### alignments:
  - [Tiasa (river)](https://pleiades.stoa.org/places/570738)
+
+
+## 10149393: Asopos
+[https://resource.manto.unh.edu/10149393](https://resource.manto.unh.edu/10149393)  
+
+### alignments:
+ - [Asopos](https://pleiades.stoa.org/places/570129)
+
+
+## 10149418: Acriai (Laconia)
+[https://resource.manto.unh.edu/10149418](https://resource.manto.unh.edu/10149418)  
+
+### alignments:
+ - [Akriai](https://pleiades.stoa.org/places/570058)
 
 
 ## 10149882: Cyphanta (Laconia)
@@ -1142,6 +1170,20 @@
  - [Anagyrous](https://pleiades.stoa.org/places/579863)
 
 
+## 11066685: Anthion Well (Eleusis)
+[https://resource.manto.unh.edu/11066685](https://resource.manto.unh.edu/11066685)  
+
+### alignments:
+ - [Anthion](https://pleiades.stoa.org/places/29856869)
+
+
+## 11066733: the Sanctuary of Metaneira (Attica)
+[https://resource.manto.unh.edu/11066733](https://resource.manto.unh.edu/11066733)  
+
+### alignments:
+ - [Sanctuary of Metaneira](https://pleiades.stoa.org/places/160459928)
+
+
 ## 11257766: Dracanon (Icaria)
 [https://resource.manto.unh.edu/11257766](https://resource.manto.unh.edu/11257766)  
 
@@ -1596,6 +1638,13 @@
 
 ### alignments:
  - [Kos/Cos (island)](https://pleiades.stoa.org/places/599581)
+
+
+## 8228889: Phylace (Thessaly)
+[https://resource.manto.unh.edu/8228889](https://resource.manto.unh.edu/8228889)  
+
+### alignments:
+ - [Phylake](https://pleiades.stoa.org/places/541053)
 
 
 ## 8228911: Magnesia (region in Thessaly)

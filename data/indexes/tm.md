@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3256 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
+3260 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -994,6 +994,13 @@
  - [Kyrros](https://pleiades.stoa.org/places/491647)
 
 
+## Geo 33890: Aphytis
+[https://www.trismegistos.org/place/33890](https://www.trismegistos.org/place/33890)  
+
+### alignments:
+ - [Aphytis](https://pleiades.stoa.org/places/491525)
+
+
 ## Geo 33989: Leibethra (Leptokarya)
 [https://www.trismegistos.org/place/33989](https://www.trismegistos.org/place/33989)  
 
@@ -1160,6 +1167,13 @@
 
 ### alignments:
  - [Bouto](https://pleiades.stoa.org/places/727094)
+
+
+## Geo 36940: Asopos (Plytra)
+[https://www.trismegistos.org/place/36940](https://www.trismegistos.org/place/36940)  
+
+### alignments:
+ - [Asopos](https://pleiades.stoa.org/places/570129)
 
 
 ## Geo 3705: Album Intimilium (Ventimiglia)
@@ -21258,6 +21272,13 @@
  - [Pharmakoussai/Choirades (islands)](https://pleiades.stoa.org/places/580073)
 
 
+## GEO ID 60767: Kynosoura (Stomi)
+[https://www.trismegistos.org/place/60767](https://www.trismegistos.org/place/60767)  
+
+### alignments:
+ - [Kynosoura (promontory)](https://pleiades.stoa.org/places/580003)
+
+
 ## GEO ID 60768: Tripodiskos
 [https://www.trismegistos.org/place/60768](https://www.trismegistos.org/place/60768)  
 
@@ -21279,6 +21300,13 @@
  - [Drymos](https://pleiades.stoa.org/places/585903)
 
 
+## GEO ID 60794: Kynosoura (Barbaro)
+[https://www.trismegistos.org/place/60794](https://www.trismegistos.org/place/60794)  
+
+### alignments:
+ - [Kynosoura (promontory)](https://pleiades.stoa.org/places/580002)
+
+
 ## GEO ID 60799: Pan Cave
 [https://www.trismegistos.org/place/60799](https://www.trismegistos.org/place/60799)  
 
@@ -21297,7 +21325,7 @@
 [https://www.trismegistos.org/place/60802](https://www.trismegistos.org/place/60802)  
 
 ### alignments:
- - [Panormos](https://pleiades.stoa.org/places/570557)
+ - [Panormos (Megarid)](https://pleiades.stoa.org/places/570557)
 
 
 ## GEO ID 60825: Melabron (Hagia Eirene)

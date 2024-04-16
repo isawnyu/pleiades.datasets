@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3322 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
+3332 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -429,6 +429,13 @@
  - [Aphrodisias (coastal settlement in Rough Cilicia)](https://pleiades.stoa.org/places/648565)
 
 
+## Aphytis (Q4779776)
+[https://www.wikidata.org/wiki/Q4779776](https://www.wikidata.org/wiki/Q4779776)  
+
+### alignments:
+ - [Aphytis](https://pleiades.stoa.org/places/491525)
+
+
 ## Apollonieis (Q19829611)
 [https://www.wikidata.org/wiki/Q19829611](https://www.wikidata.org/wiki/Q19829611)  
 
@@ -575,6 +582,13 @@
 
 ### alignments:
  - [Asine](https://pleiades.stoa.org/places/570125)
+
+
+## Asopos (Q12874174)
+[https://www.wikidata.org/wiki/Q12874174](https://www.wikidata.org/wiki/Q12874174)  
+
+### alignments:
+ - [Asopos](https://pleiades.stoa.org/places/570129)
 
 
 ## Astacus in Bithynia (Q4810504)
@@ -1186,6 +1200,13 @@
  - [Kyllene](https://pleiades.stoa.org/places/570390)
 
 
+## Cynuria (Q60791645)
+[https://www.wikidata.org/wiki/Q60791645](https://www.wikidata.org/wiki/Q60791645)  
+
+### alignments:
+ - [Kynouria](https://pleiades.stoa.org/places/573322)
+
+
 ## Cyrene (Q44112)
 [https://www.wikidata.org/wiki/Q44112](https://www.wikidata.org/wiki/Q44112)  
 
@@ -1282,6 +1303,13 @@
 
 ### alignments:
  - [Delphinion](https://pleiades.stoa.org/places/550512)
+
+
+## Delphinium Miletus (Q63217505)
+[https://www.wikidata.org/wiki/Q63217505](https://www.wikidata.org/wiki/Q63217505)  
+
+### alignments:
+ - [Delphinion (Miletos)](https://pleiades.stoa.org/places/65156147)
 
 
 ## Dema House (Q124690739)
@@ -1667,6 +1695,13 @@
 
 ### alignments:
  - [Glauke](https://pleiades.stoa.org/places/599626)
+
+
+## Glyfa ancient cemetery (Q38281183)
+[https://www.wikidata.org/wiki/Q38281183](https://www.wikidata.org/wiki/Q38281183)  
+
+### alignments:
+ - [Glyfa](https://pleiades.stoa.org/places/873325866)
 
 
 ## Golgoi (Q3561710)
@@ -2194,6 +2229,20 @@
  - [Kuntillat 'Ajrud](https://pleiades.stoa.org/places/686550284)
 
 
+## Kynosoura (Q25018940)
+[https://www.wikidata.org/wiki/Q25018940](https://www.wikidata.org/wiki/Q25018940)  
+
+### alignments:
+ - [Kynosoura (promontory)](https://pleiades.stoa.org/places/580003)
+
+
+## Kynosoura (Salamina) (Q12879552)
+[https://www.wikidata.org/wiki/Q12879552](https://www.wikidata.org/wiki/Q12879552)  
+
+### alignments:
+ - [Kynosoura (promontory)](https://pleiades.stoa.org/places/580002)
+
+
 ## Kyparissia (Q1026705)
 [https://www.wikidata.org/wiki/Q1026705](https://www.wikidata.org/wiki/Q1026705)  
 
@@ -2451,6 +2500,13 @@
 
 ### alignments:
  - [Lymax (river)](https://pleiades.stoa.org/places/573350)
+
+
+## Lyrkeion (Q12880344)
+[https://www.wikidata.org/wiki/Q12880344](https://www.wikidata.org/wiki/Q12880344)  
+
+### alignments:
+ - [Lyrkeion (mountain)](https://pleiades.stoa.org/places/570447)
 
 
 ## Maadi
@@ -3045,7 +3101,7 @@
 [https://www.wikidata.org/wiki/Q60791432](https://www.wikidata.org/wiki/Q60791432)  
 
 ### alignments:
- - [Panormos](https://pleiades.stoa.org/places/570557)
+ - [Panormos (Megarid)](https://pleiades.stoa.org/places/570557)
 
 
 ## Papremi (Q3894902)
@@ -22754,6 +22810,13 @@
  - [Temple of Concordia, Agrigento](https://pleiades.stoa.org/places/943504072)
 
 
+## Temple of Delphinian Apollo (Q97206898)
+[https://www.wikidata.org/wiki/Q97206898](https://www.wikidata.org/wiki/Q97206898)  
+
+### alignments:
+ - [Delphinion](https://pleiades.stoa.org/places/585725955)
+
+
 ## Temple of Dionysos Brisagenis (Q115674398)
 [https://www.wikidata.org/wiki/Q115674398](https://www.wikidata.org/wiki/Q115674398)  
 
@@ -22983,6 +23046,13 @@
 
 ### alignments:
  - [Sep. Bibuli](https://pleiades.stoa.org/places/503777175)
+
+
+## Tomb of Kar (Q56397568)
+[https://www.wikidata.org/wiki/Q56397568](https://www.wikidata.org/wiki/Q56397568)  
+
+### alignments:
+ - [Tomb of Kar (Megarid)](https://pleiades.stoa.org/places/513113841)
 
 
 ## Tomb of Menidi (Q19631492)

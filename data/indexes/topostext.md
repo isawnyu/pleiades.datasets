@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3321 alignments exist in _Pleiades_ place references as of 2024-04-15. The following list of alignments is grouped by zotkey.
+3332 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2006,6 +2006,13 @@
  - [Antium](https://pleiades.stoa.org/places/422837)
 
 
+## Antron MH cemetery (Phthiotis)
+[https://topostext.org/place/390230XAnC](https://topostext.org/place/390230XAnC)  
+
+### alignments:
+ - [Glyfa](https://pleiades.stoa.org/places/873325866)
+
+
 ## Antrones (Phthiotis)
 [https://topostext.org/place/390230PAnt](https://topostext.org/place/390230PAnt)  
 
@@ -3188,6 +3195,13 @@
 
 ### alignments:
  - [Askra](https://pleiades.stoa.org/places/540670)
+
+
+## Asopos (Lakonia) 13 Plytra - Ασωπός
+[https://topostext.org/place/367229UAso](https://topostext.org/place/367229UAso)  
+
+### alignments:
+ - [Asopos](https://pleiades.stoa.org/places/570129)
 
 
 ## Asopos R. (Boeotia)
@@ -5974,6 +5988,13 @@
 
 ### alignments:
  - [Delphi](https://pleiades.stoa.org/places/540726)
+
+
+## Delphinion (Athens) 15 Athens - Δελφίνιον
+[https://topostext.org/place/380237SDel](https://topostext.org/place/380237SDel)  
+
+### alignments:
+ - [Delphinion](https://pleiades.stoa.org/places/585725955)
 
 
 ## Delphinion (Attica)
@@ -11577,6 +11598,27 @@
  - [Kynos](https://pleiades.stoa.org/places/540896)
 
 
+## Kynosoura cape (Attica)
+[https://topostext.org/place/381241LKyn](https://topostext.org/place/381241LKyn)  
+
+### alignments:
+ - [Kynosoura (promontory)](https://pleiades.stoa.org/places/580003)
+
+
+## Kynosoura cape (Salamis)
+[https://topostext.org/place/379236LKyn](https://topostext.org/place/379236LKyn)  
+
+### alignments:
+ - [Kynosoura (promontory)](https://pleiades.stoa.org/places/580002)
+
+
+## Kynosoura site (Attica)
+[https://topostext.org/place/381241FKyn](https://topostext.org/place/381241FKyn)  
+
+### alignments:
+ - [Kynosoura](https://pleiades.stoa.org/places/580001)
+
+
 ## Kypaira (Phthiotis) 4 Palaia Yannitsou - Κύπαιρα
 [https://topostext.org/place/390221PKyp](https://topostext.org/place/390221PKyp)  
 
@@ -12893,6 +12935,13 @@
 
 ### alignments:
  - [Lyrbe?](https://pleiades.stoa.org/places/638970)
+
+
+## Lyrkeion Mt. (Arkadia)
+[https://topostext.org/place/378223LLyr](https://topostext.org/place/378223LLyr)  
+
+### alignments:
+ - [Lyrkeion (mountain)](https://pleiades.stoa.org/places/570447)
 
 
 ## Lyrnessos (Aiolis)
@@ -16101,7 +16150,7 @@
 [https://topostext.org/place/381232HPan](https://topostext.org/place/381232HPan)  
 
 ### alignments:
- - [Panormos](https://pleiades.stoa.org/places/570557)
+ - [Panormos (Megarid)](https://pleiades.stoa.org/places/570557)
 
 
 ## Panormos (Mykonos)
@@ -18599,6 +18648,13 @@
 
 ### alignments:
  - [(Ps)Amathous](https://pleiades.stoa.org/places/570635)
+
+
+## Psatha tower (Megarid)
+[https://topostext.org/place/381232FPsa](https://topostext.org/place/381232FPsa)  
+
+### alignments:
+ - [Psatha tower (Megarid)](https://pleiades.stoa.org/places/403301547)
 
 
 ## Pseira exc. (Crete)
@@ -22039,6 +22095,13 @@
  - [Sep. Eurysacis](https://pleiades.stoa.org/places/226302607)
 
 
+## Tomb of Kar (Megarid)
+[https://topostext.org/place/380233FKar](https://topostext.org/place/380233FKar)  
+
+### alignments:
+ - [Tomb of Kar (Megarid)](https://pleiades.stoa.org/places/513113841)
+
+
 ## Tomb of Marcus Servilius Quartus (Rome)
 [https://topostext.org/place/419125GMSQ](https://topostext.org/place/419125GMSQ)  
 
@@ -22686,6 +22749,20 @@
 
 ### alignments:
  - [Vasio](https://pleiades.stoa.org/places/148228)
+
+
+## Vathykhori round tower (Attica)
+[https://topostext.org/place/381233FVth](https://topostext.org/place/381233FVth)  
+
+### alignments:
+ - [Vathychori](https://pleiades.stoa.org/places/749295738)
+
+
+## Vathykhori square tower (Attica
+[https://topostext.org/place/381233FVat](https://topostext.org/place/381233FVat)  
+
+### alignments:
+ - [Vathychori](https://pleiades.stoa.org/places/749295738)
 
 
 ## Vatsiana site (Gavdos)
