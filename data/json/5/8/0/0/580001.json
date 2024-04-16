@@ -1,27 +1,98 @@
 {
     "@type": "Place",
     "bbox": [
-        24.05444,
-        38.144304,
-        24.05444,
-        38.144304
+        24.05413,
+        38.139195,
+        24.0546162,
+        38.13922
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/580003",
+            "contributors": [],
+            "created": "2024-04-15T16:26:35Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-15T22:12:57Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-15T22:12:55Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2024-04-15T16:26:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-15T16:26:35Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "kynosoura-promontory",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Kynosoura (promontory)",
+            "uri": "https://pleiades.stoa.org/places/580001/kynosoura-promontory"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/580003"
+    ],
     "contributors": [
+        {
+            "name": "DARMC",
+            "username": null
+        },
         {
             "name": "R. Talbert",
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-11-10T21:33:42Z",
@@ -32,28 +103,62 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 59 D2 Kynosoura",
-    "details": "The Barrington Atlas Directory notes: Kynosoura",
+    "details": "<p>The Barrington Atlas Directory notes: Kynosoura</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    24.05444,
-                    38.144304
+                    [
+                        24.0546162,
+                        38.139211
+                    ],
+                    [
+                        24.0543357,
+                        38.139195
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/580001/osm-location",
+                "location_precision": "precise",
+                "snippet": "Ruin",
+                "title": "OSM location"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.05413,
+                    38.13922
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21297",
+            "id": "topostext-location-kynosoura-site-attica-stomi-marathon-cape-kunosoura",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/580001/darmc-location-21297",
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/580001/topostext-location-kynosoura-site-attica-stomi-marathon-cape-kunosoura",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "DARMC location 21297"
+                "snippet": "Ruin; 550 BC - 30 BC",
+                "title": "ToposText Location: Kynosoura site (Attica) Stomi/Marathon cape - Κυνοσούρα"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-04-15T22:11:53Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update references",
+            "modified": "2024-04-15T16:26:16Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:54:47Z",
@@ -94,9 +199,114 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2024-04-15T16:27:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "ruin"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        24.0546162,
+                        38.139211
+                    ],
+                    [
+                        24.0543357,
+                        38.139195
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-15T22:09:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2024-04-15T22:09:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-15T16:28:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-04-15T16:28:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-15T16:27:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-15T16:27:50Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
+            ],
+            "provenance": "OpenStreetMap (Way 866003912, version 1, osm:changeset=93373970, 2020-11-01T16:17:59Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/866003912",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 866003912",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=866003912",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/580001/osm-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/topostext-high-confidence",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -107,130 +317,134 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "hellenistic-republican",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:31:49Z",
+            "contributors": [],
+            "created": "2024-04-15T22:11:14Z",
             "creators": [
                 {
-                    "name": "J.S. Traill",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21297",
+            "description": "",
+            "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "ruin"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
             "geometry": {
                 "coordinates": [
-                    24.05444,
-                    38.144304
+                    24.05413,
+                    38.13922
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:42:22Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:15:32Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2024-04-15T23:48:13Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T00:31:50Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-15T22:11:20Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:31:50Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2024-04-15T22:11:15Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T00:31:49Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-15T22:11:14Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-21297",
+            "id": "topostext-location-kynosoura-site-attica-stomi-marathon-cape-kunosoura",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
-            "provenance": "DARMC OBJECTID: 21297",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21297",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21297.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
+            "provenance": "Pleiades",
+            "references": [],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 21297",
-            "uri": "https://pleiades.stoa.org/places/580001/darmc-location-21297"
+            "title": "ToposText Location: Kynosoura site (Attica) Stomi/Marathon cape - Κυνοσούρα",
+            "uri": "https://pleiades.stoa.org/places/580001/topostext-location-kynosoura-site-attica-stomi-marathon-cape-kunosoura"
         }
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/ruin",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "ruin",
         "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 D2 Kynosoura",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "59 D2 Kynosoura",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 59 D2 Kynosoura",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.jstor.org/stable/1353931",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#McCredie-1966",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MQ8KUX4A",
+            "citationDetail": "41-46",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "McCredie 1966, 41-46",
+            "formattedCitation": "<div class=\"csl-entry\">McCredie, James R. <i>Fortified Military Camps in Attica</i>. Hesperia (Princeton, N.J.), Supplement 11. Princeton, NJ: American School of Classical Studies at Athens, 1966. https://www.jstor.org/stable/1353931.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "McCredie 1966",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/381241FKyn",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Kynosoura site (Attica)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21297",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        24.05444,
-        38.144304
+        24.054302975,
+        38.1392115
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
