@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3332 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
+3334 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -422,6 +422,13 @@
  - [Aperlae](https://pleiades.stoa.org/places/638752)
 
 
+## Aphrodisias (Laconia) (Q15223793)
+[https://www.wikidata.org/wiki/Q15223793](https://www.wikidata.org/wiki/Q15223793)  
+
+### alignments:
+ - [Aphrodisias/Aphrodisia](https://pleiades.stoa.org/places/573101)
+
+
 ## Aphrodisias of Cilicia (Q4779720)
 [https://www.wikidata.org/wiki/Q4779720](https://www.wikidata.org/wiki/Q4779720)  
 
@@ -792,6 +799,13 @@
 
 ### alignments:
  - [Bilhorod-Dnistrovskyi fortress](https://pleiades.stoa.org/places/903729115)
+
+
+## Boiai (Q11909406)
+[https://www.wikidata.org/wiki/Q11909406](https://www.wikidata.org/wiki/Q11909406)  
+
+### alignments:
+ - [Boia(i)](https://pleiades.stoa.org/places/570156)
 
 
 ## Botzdorf Roman villa (Q15843466)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3260 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
+3261 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1314,6 +1314,13 @@
 
 ### alignments:
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
+
+
+## Geo 37971: Boiai
+[https://www.trismegistos.org/place/37971](https://www.trismegistos.org/place/37971)  
+
+### alignments:
+ - [Boia(i)](https://pleiades.stoa.org/places/570156)
 
 
 ## Geo 37973: Sellasia

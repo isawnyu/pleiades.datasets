@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-400 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
+403 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -503,6 +503,27 @@
 
 ### alignments:
  - [Akriai](https://pleiades.stoa.org/places/570058)
+
+
+## 10149804: Boiai
+[https://resource.manto.unh.edu/10149804](https://resource.manto.unh.edu/10149804)  
+
+### alignments:
+ - [Boia(i)](https://pleiades.stoa.org/places/570156)
+
+
+## 10149819: Aphrodisias
+[https://resource.manto.unh.edu/10149819](https://resource.manto.unh.edu/10149819)  
+
+### alignments:
+ - [Aphrodisias/Aphrodisia](https://pleiades.stoa.org/places/573101)
+
+
+## 10149872: Pergamon
+[https://resource.manto.unh.edu/10149872](https://resource.manto.unh.edu/10149872)  
+
+### alignments:
+ - [Pergamum](https://pleiades.stoa.org/places/550812)
 
 
 ## 10149882: Cyphanta (Laconia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3332 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
+3333 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2137,6 +2137,13 @@
 
 ### alignments:
  - [Aphrodites Nesos](https://pleiades.stoa.org/places/785972)
+
+
+## Aphroditia (Lakonia) 6 Gerantonia - Αφροδιτία
+[https://topostext.org/place/365230UAph](https://topostext.org/place/365230UAph)  
+
+### alignments:
+ - [Aphrodisias/Aphrodisia](https://pleiades.stoa.org/places/573101)
 
 
 ## Aphroditopolis (Egypt)

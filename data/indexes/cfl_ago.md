@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-280 alignments exist in _Pleiades_ place references as of 2024-04-16. The following list of alignments is grouped by zotkey.
+281 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1444,6 +1444,13 @@
 
 ### alignments:
  - [Monemvasia](https://pleiades.stoa.org/places/109466300)
+
+
+## Toponyme 38032: Neapoli, Vatika
+[https://chronique.efa.gr/?kroute=topo_public&id=38032](https://chronique.efa.gr/?kroute=topo_public&id=38032)  
+
+### alignments:
+ - [Boia(i)](https://pleiades.stoa.org/places/570156)
 
 
 ## Toponyme 38083: Kandanos, Kantanos
