@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3261 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
+3269 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4240,6 +4240,13 @@
  - [Forentum?](https://pleiades.stoa.org/places/442584)
 
 
+## GEO ID 14484: Buxentum (Policastro Bussentino)
+[https://www.trismegistos.org/place/14484](https://www.trismegistos.org/place/14484)  
+
+### alignments:
+ - [Pyxous/Buxentum (settlement)](https://pleiades.stoa.org/places/452411)
+
+
 ## GEO ID 14486: Nerulum (Castellucio Inferioro)
 [http://www.trismegistos.org/place/14486](http://www.trismegistos.org/place/14486)  
 
@@ -8250,6 +8257,13 @@
 
 ### alignments:
  - [Elusa](https://pleiades.stoa.org/places/246380)
+
+
+## GEO ID 22905: Lactorates
+[https://www.trismegistos.org/place/22905](https://www.trismegistos.org/place/22905)  
+
+### alignments:
+ - [Lactora](https://pleiades.stoa.org/places/246459)
 
 
 ## GEO ID 22924: Cabillonum (Chalon-sur-Saône)
@@ -12895,6 +12909,13 @@
  - [Azoros](https://pleiades.stoa.org/places/540687)
 
 
+## GEO ID 33482: Pythion
+[https://www.trismegistos.org/place/33482](https://www.trismegistos.org/place/33482)  
+
+### alignments:
+ - [Pythion](https://pleiades.stoa.org/places/491705)
+
+
 ## GEO ID 33503: Korope
 [http://www.trismegistos.org/place/33503](http://www.trismegistos.org/place/33503)  
 
@@ -14477,7 +14498,7 @@
  - [Lagaria](https://pleiades.stoa.org/places/456082)
 
 
-## GEO ID 38440
+## GEO ID 38440: Marzabotto
 [http://www.trismegistos.org/place/38440](http://www.trismegistos.org/place/38440)  
 
 ### alignments:
@@ -14665,6 +14686,13 @@
 
 ### alignments:
  - [Ad Septimum Decimum](https://pleiades.stoa.org/places/246140)
+
+
+## GEO ID 40261: Ad Dracones (Hammam Bou Hadjar)
+[https://www.trismegistos.org/place/40261](https://www.trismegistos.org/place/40261)  
+
+### alignments:
+ - [Ad Dracones?](https://pleiades.stoa.org/places/285392)
 
 
 ## GEO ID 40266: Tigava Castra (Bel Abbès)
@@ -15127,6 +15155,20 @@
 
 ### alignments:
  - [Arasaxa](https://pleiades.stoa.org/places/628928)
+
+
+## GEO ID 40619: Dagona
+[https://www.trismegistos.org/place/40619](https://www.trismegistos.org/place/40619)  
+
+### alignments:
+ - [Dagona/Ad Dracones](https://pleiades.stoa.org/places/876612)
+
+
+## GEO ID 40620: Haza (Balahor)
+[https://www.trismegistos.org/place/40620](https://www.trismegistos.org/place/40620)  
+
+### alignments:
+ - [Haza/Hassis](https://pleiades.stoa.org/places/874507)
 
 
 ## GEO ID 40627: Caperturi
@@ -16170,6 +16212,13 @@
 
 ### alignments:
  - [‘Taspa’?](https://pleiades.stoa.org/places/648790)
+
+
+## GEO ID 41433: Lucus Basaro (Tercan)
+[https://www.trismegistos.org/place/41433](https://www.trismegistos.org/place/41433)  
+
+### alignments:
+ - [Lucus Basaro](https://pleiades.stoa.org/places/874568)
 
 
 ## GEO ID 4143: Iamneia (Yibna)
@@ -17290,6 +17339,13 @@
 
 ### alignments:
  - [Resaina/Theodosiopolis](https://pleiades.stoa.org/places/874662)
+
+
+## GEO ID 42133: Cunissa
+[https://www.trismegistos.org/place/42133](https://www.trismegistos.org/place/42133)  
+
+### alignments:
+ - [Cunissa](https://pleiades.stoa.org/places/876609)
 
 
 ## GEO ID 42135: Fons Scabore

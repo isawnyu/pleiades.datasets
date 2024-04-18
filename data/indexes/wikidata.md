@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3334 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
+3337 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -848,6 +848,13 @@
 
 ### alignments:
  - [Bouto](https://pleiades.stoa.org/places/727094)
+
+
+## Buxentum (Q1018282)
+[https://www.wikidata.org/wiki/Q1018282](https://www.wikidata.org/wiki/Q1018282)  
+
+### alignments:
+ - [Pyxous/Buxentum (settlement)](https://pleiades.stoa.org/places/452411)
 
 
 ## Cabeirion of Thebes (Q15206356)
@@ -2677,6 +2684,13 @@
  - [Medma (river)](https://pleiades.stoa.org/places/452376)
 
 
+## Messapic walls (Q117813254)
+[https://www.wikidata.org/wiki/Q117813254](https://www.wikidata.org/wiki/Q117813254)  
+
+### alignments:
+ - [City wall of Ugento - Mura Messapiche](https://pleiades.stoa.org/places/416547489)
+
+
 ## Metapa (Q60792271)
 [https://www.wikidata.org/wiki/Q60792271](https://www.wikidata.org/wiki/Q60792271)  
 
@@ -3578,6 +3592,13 @@
 
 ### alignments:
  - [Pyrrichos](https://pleiades.stoa.org/places/570642)
+
+
+## Pythion (Q65243607)
+[https://www.wikidata.org/wiki/Q65243607](https://www.wikidata.org/wiki/Q65243607)  
+
+### alignments:
+ - [Pythion](https://pleiades.stoa.org/places/815693600)
 
 
 ## Q100007: Gulf of Kyparissia
@@ -7271,6 +7292,7 @@
  - [Sala](https://pleiades.stoa.org/places/275696)
  - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
  - [Scheggia Pass](https://pleiades.stoa.org/places/450863545)
+ - [Side](https://pleiades.stoa.org/places/570669)
  - [Tall al-Ḥadīdī](https://pleiades.stoa.org/places/702110865)
  - [Temple of Iuno Sospita, Lanuvium](https://pleiades.stoa.org/places/879109673)
  - [Tomb of Seti I](https://pleiades.stoa.org/places/422247194)

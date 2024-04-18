@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-281 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
+283 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -496,6 +496,13 @@
 
 ### alignments:
  - [Pydna/Kitron](https://pleiades.stoa.org/places/491704)
+
+
+## Toponym 3001: Anavyssos
+[https://chronique.efa.gr/?kroute=topo_public&id=3001](https://chronique.efa.gr/?kroute=topo_public&id=3001)  
+
+### alignments:
+ - [Anaphlystos](https://pleiades.stoa.org/places/579866)
 
 
 ## Toponym 31539: Kassopi
@@ -1142,6 +1149,13 @@
 
 ### alignments:
  - [Lasion](https://pleiades.stoa.org/places/570418)
+
+
+## Toponyme 22738: Corinth Canal
+[https://chronique.efa.gr/?kroute=topo_public&id=22738](https://chronique.efa.gr/?kroute=topo_public&id=22738)  
+
+### alignments:
+ - [Corinth Canal](https://pleiades.stoa.org/places/131418574)
 
 
 ## Toponyme 23377: Kirra, Cirrha, Kirrha, Adrastea, Xeropigado

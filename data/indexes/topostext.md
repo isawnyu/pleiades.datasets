@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3333 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
+3335 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -18853,6 +18853,13 @@
  - [Pyrrichos](https://pleiades.stoa.org/places/570642)
 
 
+## Pythion (Athens) 10 Kallirhois Blvd? - Πύθιον
+[https://topostext.org/place/380237SPth](https://topostext.org/place/380237SPth)  
+
+### alignments:
+ - [Pythion](https://pleiades.stoa.org/places/815693600)
+
+
 ## Pythion (Thessaly)
 [https://topostext.org/place/401222FPyt](https://topostext.org/place/401222FPyt)  
 
@@ -19947,6 +19954,13 @@
 
 ### alignments:
  - [Sicca Veneria](https://pleiades.stoa.org/places/315152)
+
+
+## Side (Lakonia) 3 Velanidia? - Σίδη
+[https://topostext.org/place/363233PSid](https://topostext.org/place/363233PSid)  
+
+### alignments:
+ - [Side](https://pleiades.stoa.org/places/570669)
 
 
 ## Side (Pamphylia)

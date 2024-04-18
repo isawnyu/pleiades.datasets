@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-403 alignments exist in _Pleiades_ place references as of 2024-04-17. The following list of alignments is grouped by zotkey.
+405 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -519,6 +519,13 @@
  - [Aphrodisias/Aphrodisia](https://pleiades.stoa.org/places/573101)
 
 
+## 10149830: Side
+[https://resource.manto.unh.edu/10149830](https://resource.manto.unh.edu/10149830)  
+
+### alignments:
+ - [Side](https://pleiades.stoa.org/places/570669)
+
+
 ## 10149872: Pergamon
 [https://resource.manto.unh.edu/10149872](https://resource.manto.unh.edu/10149872)  
 
@@ -706,6 +713,13 @@
 
 ### alignments:
  - [Rharion Pedion](https://pleiades.stoa.org/places/585954)
+
+
+## 10185131: the Wrestling Grounds of Cercyon (Attica)
+[https://resource.manto.unh.edu/10185131](https://resource.manto.unh.edu/10185131)  
+
+### alignments:
+ - [Wrestling Grounds of Cercyon (Attica)](https://pleiades.stoa.org/places/684635473)
 
 
 ## 10187004: Mount Sepia (Arcadia)
