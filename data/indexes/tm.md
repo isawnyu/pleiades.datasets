@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3269 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
+3275 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -213,6 +213,13 @@
  - [Lamia](https://pleiades.stoa.org/places/540902)
 
 
+## Geo 1231: Lemnos
+[https://www.trismegistos.org/place/1231](https://www.trismegistos.org/place/1231)  
+
+### alignments:
+ - [Lemnos (island)](https://pleiades.stoa.org/places/550693)
+
+
 ## Geo 1239: Leontopolis (Tell el-Yahudiya)
 [https://www.trismegistos.org/place/1239](https://www.trismegistos.org/place/1239)  
 
@@ -360,6 +367,13 @@
  - [Corcyra (settlement)](https://pleiades.stoa.org/places/530834)
 
 
+## Geo 15831: Doliche
+[https://www.trismegistos.org/place/15831](https://www.trismegistos.org/place/15831)  
+
+### alignments:
+ - [Doliche](https://pleiades.stoa.org/places/491576)
+
+
 ## Geo 15844: Methone
 [https://www.trismegistos.org/place/15844](https://www.trismegistos.org/place/15844)  
 
@@ -408,6 +422,7 @@
 
 ### alignments:
  - [Paros (island)](https://pleiades.stoa.org/places/599868)
+ - [Paros (settlement)](https://pleiades.stoa.org/places/599867)
 
 
 ## Geo 16207: Erythrai (Ildırı)
@@ -826,6 +841,13 @@
  - [Karpathos (island)](https://pleiades.stoa.org/places/589841)
 
 
+## Geo 33229: Leros
+[https://www.trismegistos.org/place/33229](https://www.trismegistos.org/place/33229)  
+
+### alignments:
+ - [Leros (island)](https://pleiades.stoa.org/places/599764)
+
+
 ## Geo 33236: Therasia
 [https://www.trismegistos.org/place/33236](https://www.trismegistos.org/place/33236)  
 
@@ -1001,11 +1023,25 @@
  - [Aphytis](https://pleiades.stoa.org/places/491525)
 
 
+## Geo 33981: Herakleion (Platamon)
+[https://www.trismegistos.org/place/33981](https://www.trismegistos.org/place/33981)  
+
+### alignments:
+ - [Herakleion](https://pleiades.stoa.org/places/491617)
+
+
 ## Geo 33989: Leibethra (Leptokarya)
 [https://www.trismegistos.org/place/33989](https://www.trismegistos.org/place/33989)  
 
 ### alignments:
  - [Leibethra](https://pleiades.stoa.org/places/491650)
+
+
+## Geo 34083: Amarynthos
+[https://www.trismegistos.org/place/34083](https://www.trismegistos.org/place/34083)  
+
+### alignments:
+ - [Amarynthos](https://pleiades.stoa.org/places/579859)
 
 
 ## Geo 34091: Lefkandi
@@ -13159,6 +13195,13 @@
 
 ### alignments:
  - [Acanthus/Dulopolis](https://pleiades.stoa.org/places/606267)
+
+
+## GEO ID 34197: Chalketor
+[http://www.trismegistos.org/place/34197](http://www.trismegistos.org/place/34197)  
+
+### alignments:
+ - [Chalketor](https://pleiades.stoa.org/places/599569)
 
 
 ## GEO ID 34202: Gerga (Ovacık)

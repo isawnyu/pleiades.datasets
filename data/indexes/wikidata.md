@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3337 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
+3349 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -266,6 +266,13 @@
 
 ### alignments:
  - [Alvand/Orontes/Oroandes M.](https://pleiades.stoa.org/places/902985)
+
+
+## Amarynthos (Q1227665)
+[https://www.wikidata.org/wiki/Q1227665](https://www.wikidata.org/wiki/Q1227665)  
+
+### alignments:
+ - [Amarynthos](https://pleiades.stoa.org/places/579859)
 
 
 ## Amnya (Q1072523)
@@ -568,6 +575,13 @@
 ### alignments:
  - [Arykanda](https://pleiades.stoa.org/places/638769)
  - [Arykanda](https://pleiades.stoa.org/places/638770)
+
+
+## Asclepeion of Paros (Q61473756)
+[https://www.wikidata.org/wiki/Q61473756](https://www.wikidata.org/wiki/Q61473756)  
+
+### alignments:
+ - [Asklepieion, Thesmophorion?, Apollo, T.](https://pleiades.stoa.org/places/599529)
 
 
 ## Asea (Q60791566)
@@ -1305,6 +1319,13 @@
  - [Delian League](https://pleiades.stoa.org/places/48050879)
 
 
+## Delion on Paros (Q58330788)
+[https://www.wikidata.org/wiki/Q58330788](https://www.wikidata.org/wiki/Q58330788)  
+
+### alignments:
+ - [Delion](https://pleiades.stoa.org/places/599586)
+
+
 ## Dellys (Q3021755)
 [https://www.wikidata.org/wiki/Q3021755](https://www.wikidata.org/wiki/Q3021755)  
 
@@ -1373,6 +1394,13 @@
 
 ### alignments:
  - [Dipylon Gate](https://pleiades.stoa.org/places/310115518)
+
+
+## Doliche (Q3565767)
+[https://www.wikidata.org/wiki/Q3565767](https://www.wikidata.org/wiki/Q3565767)  
+
+### alignments:
+ - [Doliche](https://pleiades.stoa.org/places/491576)
 
 
 ## Doric temple of Segesta (Q3983280)
@@ -1830,6 +1858,13 @@
  - [Heraia](https://pleiades.stoa.org/places/570287)
 
 
+## Herakleion (Q3785102)
+[https://www.wikidata.org/wiki/Q3785102](https://www.wikidata.org/wiki/Q3785102)  
+
+### alignments:
+ - [Herakleion](https://pleiades.stoa.org/places/491617)
+
+
 ## Hermeskeil Roman Camp (Q1243560)
 [https://www.wikidata.org/wiki/Q1243560](https://www.wikidata.org/wiki/Q1243560)  
 
@@ -2124,6 +2159,13 @@
  - [Megiste (island)](https://pleiades.stoa.org/places/638989)
 
 
+## Kastri Dolichis (Q16327156)
+[https://www.wikidata.org/wiki/Q16327156](https://www.wikidata.org/wiki/Q16327156)  
+
+### alignments:
+ - [Kastri Livadiou ancient settlement](https://pleiades.stoa.org/places/897490752)
+
+
 ## Kavousi Vronda (Q23586062)
 [https://www.wikidata.org/wiki/Q23586062](https://www.wikidata.org/wiki/Q23586062)  
 
@@ -2416,6 +2458,20 @@
 
 ### alignments:
  - [Leibethra](https://pleiades.stoa.org/places/491650)
+
+
+## Lemnos (Q192483)
+[https://www.wikidata.org/wiki/Q192483](https://www.wikidata.org/wiki/Q192483)  
+
+### alignments:
+ - [Lemnos (island)](https://pleiades.stoa.org/places/550693)
+
+
+## Leros (Q426893)
+[https://www.wikidata.org/wiki/Q426893](https://www.wikidata.org/wiki/Q426893)  
+
+### alignments:
+ - [Leros (island)](https://pleiades.stoa.org/places/599764)
 
 
 ## Letoon (Q703480)
@@ -3160,6 +3216,20 @@
  - [Parium/Col. Gemella Iulia *Hadriana](https://pleiades.stoa.org/places/511354)
 
 
+## Paros (Q201272)
+[https://www.wikidata.org/wiki/Q201272](https://www.wikidata.org/wiki/Q201272)  
+
+### alignments:
+ - [Paros (island)](https://pleiades.stoa.org/places/599868)
+
+
+## Paros (Q65040323)
+[https://www.wikidata.org/wiki/Q65040323](https://www.wikidata.org/wiki/Q65040323)  
+
+### alignments:
+ - [Paros (settlement)](https://pleiades.stoa.org/places/599867)
+
+
 ## Passaron (Q2055889)
 [https://www.wikidata.org/wiki/Q2055889](https://www.wikidata.org/wiki/Q2055889)  
 
@@ -3592,6 +3662,13 @@
 
 ### alignments:
  - [Pyrrichos](https://pleiades.stoa.org/places/570642)
+
+
+## Pythion (Q11889309)
+[https://www.wikidata.org/wiki/Q11889309](https://www.wikidata.org/wiki/Q11889309)  
+
+### alignments:
+ - [Pythion](https://pleiades.stoa.org/places/491705)
 
 
 ## Pythion (Q65243607)
@@ -22409,6 +22486,13 @@
 
 ### alignments:
  - [Thera (island)](https://pleiades.stoa.org/places/599973)
+
+
+## Sarantaporo archaeological site (Q12874076)
+[https://www.wikidata.org/wiki/Q12874076](https://www.wikidata.org/wiki/Q12874076)  
+
+### alignments:
+ - [Sarantaporo ancient settlement](https://pleiades.stoa.org/places/99004197)
 
 
 ## Sarno (Q1084625)

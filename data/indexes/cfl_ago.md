@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-283 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
+294 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -69,6 +69,13 @@
 
 ### alignments:
  - [Apollo, T.](https://pleiades.stoa.org/places/707481)
+
+
+## Report 11902: SARANTAPORO. - Dolichè antique - 1996
+[https://chronique.efa.gr/?kroute=report&id=11902](https://chronique.efa.gr/?kroute=report&id=11902)  
+
+### alignments:
+ - [Sarantaporo ancient settlement](https://pleiades.stoa.org/places/99004197)
 
 
 ## Report 12878: MÉTHONÈ - 2019
@@ -239,6 +246,13 @@
  - [Altar of the Twelve Gods](https://pleiades.stoa.org/places/676120270)
 
 
+## Report 4726: KASTRI LIVADIOU. - Ancienne Dolichè - 2008
+[https://chronique.efa.gr/?kroute=report&id=4726](https://chronique.efa.gr/?kroute=report&id=4726)  
+
+### alignments:
+ - [Kastri Livadiou ancient settlement](https://pleiades.stoa.org/places/897490752)
+
+
 ## Report 5103: KARTHAIA
 [https://chronique.efa.gr/?kroute=report&id=5103](https://chronique.efa.gr/?kroute=report&id=5103)  
 
@@ -286,6 +300,13 @@
 
 ### alignments:
  - [Thermopylae](https://pleiades.stoa.org/places/541140)
+
+
+## Toponym 10419: Thermi, Serme, Sedes
+[https://chronique.efa.gr/?kroute=topo_public&id=10419](https://chronique.efa.gr/?kroute=topo_public&id=10419)  
+
+### alignments:
+ - [Therme](https://pleiades.stoa.org/places/491740)
 
 
 ## Toponym 11362: Pagasatikos Kolpos
@@ -449,6 +470,13 @@
  - [Mantineia/Antigoneia](https://pleiades.stoa.org/places/570459)
 
 
+## Toponym 2640: Amarynthos, Kato Vathia (151/1914)
+[https://chronique.efa.gr/?kroute=topo_public&id=2640](https://chronique.efa.gr/?kroute=topo_public&id=2640)  
+
+### alignments:
+ - [Amarynthos](https://pleiades.stoa.org/places/579859)
+
+
 ## Toponym 26425: Samothrace, Samothraki
 [https://chronique.efa.gr/?kroute=topo_public&id=26425](https://chronique.efa.gr/?kroute=topo_public&id=26425)  
 
@@ -510,6 +538,13 @@
 
 ### alignments:
  - [Kassope](https://pleiades.stoa.org/places/530922)
+
+
+## Toponym 32825: Pythion, Selos
+[https://chronique.efa.gr/?kroute=topo_public&id=32825](https://chronique.efa.gr/?kroute=topo_public&id=32825)  
+
+### alignments:
+ - [Pythion](https://pleiades.stoa.org/places/491705)
 
 
 ## Toponym 33970: Argithea, Knisovon 1927
@@ -730,6 +765,13 @@
  - [Pserimos (island)](https://pleiades.stoa.org/places/599910)
 
 
+## Toponym 39730: Leros
+[https://chronique.efa.gr/?kroute=topo_public&id=39730](https://chronique.efa.gr/?kroute=topo_public&id=39730)  
+
+### alignments:
+ - [Leros (island)](https://pleiades.stoa.org/places/599764)
+
+
 ## Toponym 41079: Keros, Keria, Karos, Kereia
 [https://chronique.efa.gr/?kroute=topo_public&id=41079](https://chronique.efa.gr/?kroute=topo_public&id=41079)  
 
@@ -765,6 +807,13 @@
  - [Melos (island)](https://pleiades.stoa.org/places/570475)
 
 
+## Toponym 41559: Paros (island)
+[https://chronique.efa.gr/?kroute=topo_public&id=41559](https://chronique.efa.gr/?kroute=topo_public&id=41559)  
+
+### alignments:
+ - [Paros (island)](https://pleiades.stoa.org/places/599868)
+
+
 ## Toponym 41579: Mykonos
 [https://chronique.efa.gr/?kroute=topo_public&id=41579](https://chronique.efa.gr/?kroute=topo_public&id=41579)  
 
@@ -783,7 +832,7 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=41665](https://chronique.efa.gr/?kroute=topo_public&id=41665)  
 
 ### alignments:
- - [Paros](https://pleiades.stoa.org/places/599867)
+ - [Paros (settlement)](https://pleiades.stoa.org/places/599867)
 
 
 ## Toponym 41714: Serifos
@@ -791,6 +840,13 @@
 
 ### alignments:
  - [Seriphos (island)](https://pleiades.stoa.org/places/590044)
+
+
+## Toponym 43355: Lemnos
+[https://chronique.efa.gr/?kroute=topo_public&id=43355](https://chronique.efa.gr/?kroute=topo_public&id=43355)  
+
+### alignments:
+ - [Lemnos (island)](https://pleiades.stoa.org/places/550693)
 
 
 ## Toponym 46818: MAKYNIA, MAKYNEIA
@@ -1284,6 +1340,13 @@
  - [Katerini](https://pleiades.stoa.org/places/491631)
 
 
+## Toponyme 29241: Platamon
+[https://chronique.efa.gr/?kroute=topo_public&id=29241](https://chronique.efa.gr/?kroute=topo_public&id=29241)  
+
+### alignments:
+ - [Herakleion](https://pleiades.stoa.org/places/491617)
+
+
 ## Toponyme 309: Sellasia, Vroulias, Vroulia
 [https://chronique.efa.gr/?kroute=topo_public&id=309](https://chronique.efa.gr/?kroute=topo_public&id=309)  
 
@@ -1303,6 +1366,20 @@
 
 ### alignments:
  - [Tempe](https://pleiades.stoa.org/places/541131)
+
+
+## Toponyme 32730: Sarantaporon, Glikovon
+[https://chronique.efa.gr/?kroute=topo_public&id=32730](https://chronique.efa.gr/?kroute=topo_public&id=32730)  
+
+### alignments:
+ - [Sarantaporo ancient settlement](https://pleiades.stoa.org/places/99004197)
+
+
+## Toponyme 32847: Livadion
+[https://chronique.efa.gr/?kroute=topo_public&id=32847](https://chronique.efa.gr/?kroute=topo_public&id=32847)  
+
+### alignments:
+ - [Kastri Livadiou ancient settlement](https://pleiades.stoa.org/places/897490752)
 
 
 ## Toponyme 32: Seriphos, Serifos

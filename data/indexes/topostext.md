@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3335 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
+3344 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5213,6 +5213,13 @@
  - [Chalke](https://pleiades.stoa.org/places/589741)
 
 
+## Chalketor (Caria)
+[https://topostext.org/place/373277UCha](https://topostext.org/place/373277UCha)  
+
+### alignments:
+ - [Chalketor](https://pleiades.stoa.org/places/599569)
+
+
 ## Chalkis (Euboea)
 [https://topostext.org/place/385236PCha](https://topostext.org/place/385236PCha)  
 
@@ -5976,6 +5983,13 @@
  - [Delgovicia](https://pleiades.stoa.org/places/92133)
 
 
+## Delian Apollo (Paros)
+[https://topostext.org/place/371252SDel](https://topostext.org/place/371252SDel)  
+
+### alignments:
+ - [Delion](https://pleiades.stoa.org/places/599586)
+
+
 ## Delion sanct. (Boeotia)
 [https://topostext.org/place/383237UDel](https://topostext.org/place/383237UDel)  
 
@@ -6418,6 +6432,13 @@
 
 ### alignments:
  - [Doliche](https://pleiades.stoa.org/places/658455)
+
+
+## Doliche? (Thessaly) 6 Sarandaporos - Δολίχη
+[https://topostext.org/place/401222PDol](https://topostext.org/place/401222PDol)  
+
+### alignments:
+ - [Sarantaporo ancient settlement](https://pleiades.stoa.org/places/99004197)
 
 
 ## Dolopia region (Thessaly)
@@ -8922,6 +8943,13 @@
  - [Herakleion](https://pleiades.stoa.org/places/727120)
 
 
+## Herakleion (Thessaly) 23 Platamon - Ηράκλειον
+[https://topostext.org/place/400226PHer](https://topostext.org/place/400226PHer)  
+
+### alignments:
+ - [Herakleion](https://pleiades.stoa.org/places/491617)
+
+
 ## Herakleopolis/Sebastoupolis (Pontus)
 [https://topostext.org/place/400361UHer](https://topostext.org/place/400361UHer)  
 
@@ -10309,6 +10337,13 @@
  - [Karene?](https://pleiades.stoa.org/places/550621)
 
 
+## Kargadoura (Paros)
+[https://topostext.org/place/371253Scap](https://topostext.org/place/371253Scap)  
+
+### alignments:
+ - [Kargadousa](https://pleiades.stoa.org/places/599689)
+
+
 ## Karini site (Lesbos)
 [https://topostext.org/place/391264XKar](https://topostext.org/place/391264XKar)  
 
@@ -10468,6 +10503,13 @@
 
 ### alignments:
  - [Kastri Lithies](https://pleiades.stoa.org/places/530927)
+
+
+## Kastri Livadiou (Larisa) Dolichi
+[https://topostext.org/place/400221EKas](https://topostext.org/place/400221EKas)  
+
+### alignments:
+ - [Kastri Livadiou ancient settlement](https://pleiades.stoa.org/places/897490752)
 
 
 ## Kastri Pantanassa site (Crete)
@@ -12331,6 +12373,7 @@
 [https://topostext.org/place/372269PLer](https://topostext.org/place/372269PLer)  
 
 ### alignments:
+ - [Leros (island)](https://pleiades.stoa.org/places/599764)
  - [Leros](https://pleiades.stoa.org/places/599763)
 
 
@@ -15264,6 +15307,13 @@
  - [Oichalia](https://pleiades.stoa.org/places/540970)
 
 
+## Oikonomos site (Paros)
+[https://topostext.org/place/371253XOik](https://topostext.org/place/371253XOik)  
+
+### alignments:
+ - [Oikonomos](https://pleiades.stoa.org/places/599835)
+
+
 ## Oineon (Phokida)
 [https://topostext.org/place/384220UOin](https://topostext.org/place/384220UOin)  
 
@@ -15922,6 +15972,13 @@
  - [Palaiokhori](https://pleiades.stoa.org/places/550799)
 
 
+## Palaiopyrgos tower (Paros)
+[https://topostext.org/place/371253FPal](https://topostext.org/place/371253FPal)  
+
+### alignments:
+ - [Palaiopyrgos](https://pleiades.stoa.org/places/599850)
+
+
 ## PalaiPaphos (Cyprus)
 [https://topostext.org/place/347326PPal](https://topostext.org/place/347326PPal)  
 
@@ -16278,6 +16335,14 @@
 
 ### alignments:
  - [Parnes (mountain)](https://pleiades.stoa.org/places/580059)
+
+
+## Paros (Cyclades) 192 Parikia - Πάρος
+[https://topostext.org/place/371252PPar](https://topostext.org/place/371252PPar)  
+
+### alignments:
+ - [Paros (island)](https://pleiades.stoa.org/places/599868)
+ - [Paros (settlement)](https://pleiades.stoa.org/places/599867)
 
 
 ## Parrhasia region (Arkadia)

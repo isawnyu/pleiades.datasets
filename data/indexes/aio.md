@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-137 alignments exist in _Pleiades_ place references as of 2024-04-18. The following list of alignments is grouped by zotkey.
+138 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -699,6 +699,13 @@
 
 ### alignments:
  - [Cave of Apollo](https://pleiades.stoa.org/places/870756929)
+
+
+## Original Location: Cholargos
+[https://www.atticinscriptions.com/browse/byoriginallocation/cholargos/](https://www.atticinscriptions.com/browse/byoriginallocation/cholargos/)  
+
+### alignments:
+ - [Cholargos](https://pleiades.stoa.org/places/579902)
 
 
 ## Original Location: City Eleusinion
