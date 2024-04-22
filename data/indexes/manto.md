@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-405 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
+409 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -540,6 +540,20 @@
  - [Kyphanta](https://pleiades.stoa.org/places/570398)
 
 
+## 10149885: Brasiai
+[https://resource.manto.unh.edu/10149885](https://resource.manto.unh.edu/10149885)  
+
+### alignments:
+ - [Prasiai](https://pleiades.stoa.org/places/570629)
+
+
+## 10149907: Arainon
+[https://resource.manto.unh.edu/10149907](https://resource.manto.unh.edu/10149907)  
+
+### alignments:
+ - [Arainon](https://pleiades.stoa.org/places/570099)
+
+
 ## 10149939: Pyrrhichos (Laconia)
 [https://resource.manto.unh.edu/10149939](https://resource.manto.unh.edu/10149939)  
 
@@ -547,11 +561,25 @@
  - [Pyrrichos](https://pleiades.stoa.org/places/570642)
 
 
+## 10149945: Himera
+[https://resource.manto.unh.edu/10149945](https://resource.manto.unh.edu/10149945)  
+
+### alignments:
+ - [Himera](https://pleiades.stoa.org/places/462244)
+
+
 ## 10150358: Cappadocia (Pontos) region south of the Black Sea
 [https://resource.manto.unh.edu/10150358](https://resource.manto.unh.edu/10150358)  
 
 ### alignments:
  - [Cappadocia (region)](https://pleiades.stoa.org/places/628949)
+
+
+## 10150360: Susa
+[https://resource.manto.unh.edu/10150360](https://resource.manto.unh.edu/10150360)  
+
+### alignments:
+ - [Susa/Seleucia ad Eulaeum](https://pleiades.stoa.org/places/912936)
 
 
 ## 10151143: Syrnos (Caria)

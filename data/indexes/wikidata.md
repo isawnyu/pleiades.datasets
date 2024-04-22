@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3349 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
+3359 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -471,6 +471,13 @@
  - [Ara Pacis Augustae](https://pleiades.stoa.org/places/816091000)
 
 
+## Arainon (Q124607848)
+[https://www.wikidata.org/wiki/Q124607848](https://www.wikidata.org/wiki/Q124607848)  
+
+### alignments:
+ - [Arainon](https://pleiades.stoa.org/places/570099)
+
+
 ## Arcadia (Q12898802)
 [https://www.wikidata.org/wiki/Q12898802](https://www.wikidata.org/wiki/Q12898802)  
 
@@ -631,6 +638,20 @@
 
 ### alignments:
  - [Astypalaia (island)](https://pleiades.stoa.org/places/599536)
+
+
+## Athena Hygieia statue on the Acropolis (Q107307241)
+[https://www.wikidata.org/wiki/Q107307241](https://www.wikidata.org/wiki/Q107307241)  
+
+### alignments:
+ - [Sanctuary of Athena Hygieia](https://pleiades.stoa.org/places/130769474)
+
+
+## Athens Klepsydra well (Q12879136)
+[https://www.wikidata.org/wiki/Q12879136](https://www.wikidata.org/wiki/Q12879136)  
+
+### alignments:
+ - [Klepsydra](https://pleiades.stoa.org/places/538107005)
 
 
 ## Attica (Q122443)
@@ -841,6 +862,13 @@
 
 ### alignments:
  - [Salbake (mountain)](https://pleiades.stoa.org/places/639088)
+
+
+## Brauroneion (Q902329)
+[https://www.wikidata.org/wiki/Q902329](https://www.wikidata.org/wiki/Q902329)  
+
+### alignments:
+ - [Sanctuary of Artemis Brauronia on the Acropolis](https://pleiades.stoa.org/places/573299847)
 
 
 ## Bridge over the Oued Cherchira (Q42758015)
@@ -1891,6 +1919,13 @@
 
 ### alignments:
  - [Esbous](https://pleiades.stoa.org/places/697662)
+
+
+## Himera (Q1111219)
+[https://www.wikidata.org/wiki/Q1111219](https://www.wikidata.org/wiki/Q1111219)  
+
+### alignments:
+ - [Himera](https://pleiades.stoa.org/places/462244)
 
 
 ## Hispellum amphitheatre (Q28978078)
@@ -3237,6 +3272,13 @@
  - [Passaron](https://pleiades.stoa.org/places/531042)
 
 
+## Pavlopetri (Q64368385)
+[https://www.wikidata.org/wiki/Q64368385](https://www.wikidata.org/wiki/Q64368385)  
+
+### alignments:
+ - [Pavlopetri](https://pleiades.stoa.org/places/270123726)
+
+
 ## Pedachtoë (Q85792628)
 [https://www.wikidata.org/wiki/Q85792628](https://www.wikidata.org/wiki/Q85792628)  
 
@@ -3249,6 +3291,13 @@
 
 ### alignments:
  - [Pedasos](https://pleiades.stoa.org/places/573429)
+
+
+## Pedestal of Agrippa (Q16327864)
+[https://www.wikidata.org/wiki/Q16327864](https://www.wikidata.org/wiki/Q16327864)  
+
+### alignments:
+ - [Monument of Eumenes II/Agrippa](https://pleiades.stoa.org/places/573299846)
 
 
 ## Peithesa (Q124157929)
@@ -15317,6 +15366,13 @@
  - [Athena Kranaia, T.](https://pleiades.stoa.org/places/540679)
 
 
+## Q38280975
+[https://www.wikidata.org/wiki/Q38280975](https://www.wikidata.org/wiki/Q38280975)  
+
+### alignments:
+ - [Necropolis at Archontiko](https://pleiades.stoa.org/places/409986438)
+
+
 ## Q38281109: Kolona
 [https://www.wikidata.org/wiki/Q38281109](https://www.wikidata.org/wiki/Q38281109)  
 
@@ -22432,6 +22488,13 @@
  - [Hermes, Aphrodite, T.](https://pleiades.stoa.org/places/589805)
 
 
+## Sanctuary of Pandion (Q3818592)
+[https://www.wikidata.org/wiki/Q3818592](https://www.wikidata.org/wiki/Q3818592)  
+
+### alignments:
+ - [Building IV on the Athenian Acropolis](https://pleiades.stoa.org/places/747002130)
+
+
 ## Sanctuary of the People and the Graces (Q125116985)
 [https://www.wikidata.org/wiki/Q125116985](https://www.wikidata.org/wiki/Q125116985)  
 
@@ -23454,6 +23517,13 @@
 
 ### alignments:
  - [Sardeoua/‘Sardebar’](https://pleiades.stoa.org/places/874681)
+
+
+## Zeus Hypatos sanctuary (Boeotia) (Q106355998)
+[https://www.wikidata.org/wiki/Q106355998](https://www.wikidata.org/wiki/Q106355998)  
+
+### alignments:
+ - [Zeus Hypatos, T.](https://pleiades.stoa.org/places/541179)
 
 
 ## Zeytin Adası (Q34788761)

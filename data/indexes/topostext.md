@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3344 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
+3354 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1906,6 +1906,7 @@
 
 ### alignments:
  - [Antimachia](https://pleiades.stoa.org/places/599495)
+ - [Castle of Antimachia](https://pleiades.stoa.org/places/376830532)
 
 
 ## Antinoopolis (Egypt)
@@ -4534,6 +4535,13 @@
  - [Bracara Augusta](https://pleiades.stoa.org/places/236377)
 
 
+## Brauronian Artemis shrine (Athens Acropolis) 1 Acropolis of Athens
+[https://topostext.org/place/380237SABr](https://topostext.org/place/380237SABr)  
+
+### alignments:
+ - [Sanctuary of Artemis Brauronia on the Acropolis](https://pleiades.stoa.org/places/573299847)
+
+
 ## Brea (Halkidiki)
 [https://topostext.org/place/403231UBre](https://topostext.org/place/403231UBre)  
 
@@ -5113,6 +5121,13 @@
 
 ### alignments:
  - [Cave of Apollo](https://pleiades.stoa.org/places/870756929)
+
+
+## Cellae (Florina)
+[https://topostext.org/place/408217UCel](https://topostext.org/place/408217UCel)  
+
+### alignments:
+ - [Cellae](https://pleiades.stoa.org/places/481783)
 
 
 ## Celsa/Col. Victrix Iulia Lepida (Iberia)
@@ -7429,6 +7444,13 @@
  - [Stoa of Eumenes](https://pleiades.stoa.org/places/3347126)
 
 
+## Eumenes/Agrippa monument (Athens Acropolis) Acropolis W slope
+[https://topostext.org/place/380237AAgr](https://topostext.org/place/380237AAgr)  
+
+### alignments:
+ - [Monument of Eumenes II/Agrippa](https://pleiades.stoa.org/places/573299846)
+
+
 ## Euonymon (Attica)
 [https://topostext.org/place/379237DEuo](https://topostext.org/place/379237DEuo)  
 
@@ -9308,6 +9330,13 @@
  - [Hyampolis](https://pleiades.stoa.org/places/540820)
 
 
+## Hybanda (Ionia)
+[https://topostext.org/place/376274IHyb](https://topostext.org/place/376274IHyb)  
+
+### alignments:
+ - [Hybanda (island)](https://pleiades.stoa.org/places/599650)
+
+
 ## Hybla Gereatis (Sicily)
 [https://topostext.org/place/376149UHyb](https://topostext.org/place/376149UHyb)  
 
@@ -10041,6 +10070,13 @@
 
 ### alignments:
  - [Kadoi](https://pleiades.stoa.org/places/609420)
+
+
+## Kadyanda (Caria)
+[https://topostext.org/place/367292UKad](https://topostext.org/place/367292UKad)  
+
+### alignments:
+ - [Kadyanda](https://pleiades.stoa.org/places/638885)
 
 
 ## Kaiadas Cave (Lakonia)
@@ -10993,6 +11029,13 @@
 
 ### alignments:
  - [Kleonai](https://pleiades.stoa.org/places/501469)
+
+
+## Klepsydra spring (Athens Acropolis)
+[https://topostext.org/place/380237WKle](https://topostext.org/place/380237WKle)  
+
+### alignments:
+ - [Klepsydra](https://pleiades.stoa.org/places/538107005)
 
 
 ## Klimatia site (Thesprotia)
@@ -16133,6 +16176,13 @@
  - [Pandataria (island)](https://pleiades.stoa.org/places/433011)
 
 
+## Pandion shrine (Athens Acropolis) Acropolis of Athens
+[https://topostext.org/place/380237SPnd](https://topostext.org/place/380237SPnd)  
+
+### alignments:
+ - [Building IV on the Athenian Acropolis](https://pleiades.stoa.org/places/747002130)
+
+
 ## Paneas/Caesarea Philippi (Palestine)
 [https://topostext.org/place/332356UPan](https://topostext.org/place/332356UPan)  
 
@@ -16441,6 +16491,13 @@
 
 ### alignments:
  - [Pautalia](https://pleiades.stoa.org/places/481949)
+
+
+## Pavlopetri site (Lakonia)
+[https://topostext.org/place/365230XPPe](https://topostext.org/place/365230XPPe)  
+
+### alignments:
+ - [Pavlopetri](https://pleiades.stoa.org/places/270123726)
 
 
 ## Pax Iulia/Pax Augusta/Col. Pacensis (Lusitania)
@@ -20633,6 +20690,13 @@
  - [Stageira](https://pleiades.stoa.org/places/501625)
 
 
+## statue of Athena Hygieia (Athens Acropolis) 2 Acropolis of Athens
+[https://topostext.org/place/380237SAHy](https://topostext.org/place/380237SAHy)  
+
+### alignments:
+ - [Sanctuary of Athena Hygieia](https://pleiades.stoa.org/places/130769474)
+
+
 ## Steiria (Attica)
 [https://topostext.org/place/379240DSte](https://topostext.org/place/379240DSte)  
 
@@ -23367,6 +23431,13 @@
 
 ### alignments:
  - [Temple of Zeus at Lebadea](https://pleiades.stoa.org/places/474652024)
+
+
+## Zeus Hypatos sanct. (Boeotia)
+[https://topostext.org/place/384234SZeu](https://topostext.org/place/384234SZeu)  
+
+### alignments:
+ - [Zeus Hypatos, T.](https://pleiades.stoa.org/places/541179)
 
 
 ## Zeus Ikmaios? (Kea) 1 Profitis Elias

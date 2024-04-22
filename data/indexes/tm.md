@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3275 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
+3287 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -825,6 +825,13 @@
 
 ### alignments:
  - [Krokodilopolis/Ptolemais Euergetis](https://pleiades.stoa.org/places/736948)
+
+
+## Geo 33123: Himera
+[https://www.trismegistos.org/place/33123](https://www.trismegistos.org/place/33123)  
+
+### alignments:
+ - [Himera](https://pleiades.stoa.org/places/462244)
 
 
 ## Geo 33157: Liguria
@@ -4304,6 +4311,13 @@
  - [Volcei](https://pleiades.stoa.org/places/442855)
 
 
+## GEO ID 14490: Cosilinum (Padula)
+[http://www.trismegistos.org/place/14490](http://www.trismegistos.org/place/14490)  
+
+### alignments:
+ - [Co(n)silinum/Cosilianum](https://pleiades.stoa.org/places/442551)
+
+
 ## GEO ID 14491: Tegianum (Teggiano)
 [https://www.trismegistos.org/place/14491](https://www.trismegistos.org/place/14491)  
 
@@ -5486,6 +5500,13 @@
 
 ### alignments:
  - [Amorion](https://pleiades.stoa.org/places/609302)
+
+
+## GEO ID 16160: Lagina (Turgut)
+[https://www.trismegistos.org/place/16160](https://www.trismegistos.org/place/16160)  
+
+### alignments:
+ - [Lagina](https://pleiades.stoa.org/places/599747)
 
 
 ## GEO ID 16161
@@ -10515,6 +10536,13 @@
  - [Tamiathis](https://pleiades.stoa.org/places/727235)
 
 
+## GEO ID 30557: Drabeskos (Draviskos)
+[http://www.trismegistos.org/place/30557](http://www.trismegistos.org/place/30557)  
+
+### alignments:
+ - [Drabeskos](https://pleiades.stoa.org/places/501403)
+
+
 ## GEO ID 3060: Tellaeos
 [https://www.trismegistos.org/place/3060](https://www.trismegistos.org/place/3060)  
 
@@ -13085,6 +13113,13 @@
  - [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
+## GEO ID 33690: Audaristos
+[https://www.trismegistos.org/place/33690](https://www.trismegistos.org/place/33690)  
+
+### alignments:
+ - [Audaristos](https://pleiades.stoa.org/places/491533)
+
+
 ## GEO ID 3371: Tarraco (Tarragona)
 [http://www.trismegistos.org/place/3371](http://www.trismegistos.org/place/3371)  
 
@@ -13307,6 +13342,13 @@
 
 ### alignments:
  - [Axiotta](https://pleiades.stoa.org/places/614621)
+
+
+## GEO ID 34461: Temenouthyrai (Uşak)
+[https://www.trismegistos.org/place/34461](https://www.trismegistos.org/place/34461)  
+
+### alignments:
+ - [Temenouthyrai](https://pleiades.stoa.org/places/609549)
 
 
 ## GEO ID 3449: Bogghi (Ballana)
@@ -14357,6 +14399,13 @@
 
 ### alignments:
  - [Pellana](https://pleiades.stoa.org/places/570575)
+
+
+## GEO ID 38020: Euporia (Strymonikos)
+[https://www.trismegistos.org/place/38020](https://www.trismegistos.org/place/38020)  
+
+### alignments:
+ - [Euporia](https://pleiades.stoa.org/places/501414)
 
 
 ## GEO ID 3803: Betomolachon (Khirbet Ruheibe)
@@ -15513,6 +15562,13 @@
 
 ### alignments:
  - [Quadrata](https://pleiades.stoa.org/places/203150)
+
+
+## GEO ID 40827: Cellae (Kelli)
+[http://www.trismegistos.org/place/40827](http://www.trismegistos.org/place/40827)  
+
+### alignments:
+ - [Cellae](https://pleiades.stoa.org/places/481783)
 
 
 ## GEO ID 40829: Mellissurgin
@@ -18763,6 +18819,13 @@
  - [Treba](https://pleiades.stoa.org/places/433162)
 
 
+## GEO ID 43390: Aebisoci
+[www.trismegistos.org/place/43390](www.trismegistos.org/place/43390)  
+
+### alignments:
+ - [Aebisoci](https://pleiades.stoa.org/places/240851)
+
+
 ## GEO ID 43407: Vicus Tautiomosis
 [https://www.trismegistos.org/place/43407](https://www.trismegistos.org/place/43407)  
 
@@ -21462,6 +21525,13 @@
  - [Melie/Karion](https://pleiades.stoa.org/places/599795)
 
 
+## GEO ID 60942: Hybanda (Özbaşı)
+[https://www.trismegistos.org/place/60942](https://www.trismegistos.org/place/60942)  
+
+### alignments:
+ - [Hybanda (island)](https://pleiades.stoa.org/places/599650)
+
+
 ## GEO ID 60957: Arginoussai (Kalem Adasi)
 [https://www.trismegistos.org/place/60957](https://www.trismegistos.org/place/60957)  
 
@@ -22360,6 +22430,13 @@
  - [Iudaea (region)](https://pleiades.stoa.org/places/687934)
 
 
+## GEO ID 946: Kadyanda (Üzümlü)
+[http://www.trismegistos.org/place/946](http://www.trismegistos.org/place/946)  
+
+### alignments:
+ - [Kadyanda](https://pleiades.stoa.org/places/638885)
+
+
 ## GEO ID 96: Alabanda (Doǧanyurt)
 [http://www.trismegistos.org/place/96](http://www.trismegistos.org/place/96)  
 
@@ -22423,7 +22500,7 @@
  - [Mazaka/Eusebeia/Caesarea](https://pleiades.stoa.org/places/629035)
 
 
-## GEO ID, 12153
+## GEO ID, 12153: Herakleia Lynkestis (Bitola)
 [http://www.trismegistos.org/place/12153](http://www.trismegistos.org/place/12153)  
 
 ### alignments:
@@ -22899,6 +22976,13 @@
 
 ### alignments:
  - [Rufrae](https://pleiades.stoa.org/places/433070)
+
+
+## Text 786768 (also known as Statue Base of Pyrrhus)
+[https://www.trismegistos.org/text/786768](https://www.trismegistos.org/text/786768)  
+
+### alignments:
+ - [Sanctuary of Athena Hygieia](https://pleiades.stoa.org/places/130769474)
 
 
 ## Text Id 155919

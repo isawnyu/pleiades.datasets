@@ -1,11 +1,18 @@
 # _Pleiades_ alignments with AIO
-138 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
+139 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
 
 ### alignments:
  - [Koroneia (promontory)](https://pleiades.stoa.org/places/579990)
+
+
+## : IG I3 506
+[https://www.atticinscriptions.com/inscription/IGI3/506](https://www.atticinscriptions.com/inscription/IGI3/506)  
+
+### alignments:
+ - [Sanctuary of Athena Hygieia](https://pleiades.stoa.org/places/130769474)
 
 
 ## : RO 26

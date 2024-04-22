@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-294 alignments exist in _Pleiades_ place references as of 2024-04-19. The following list of alignments is grouped by zotkey.
+297 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -41,6 +41,13 @@
 
 ### alignments:
  - [Fifth century baths at Lebadeia](https://pleiades.stoa.org/places/690059595)
+
+
+## Archontiko/Giannitson
+[http://chronique.efa.gr/index.php/fiches/voir/820/](http://chronique.efa.gr/index.php/fiches/voir/820/)  
+
+### alignments:
+ - [Necropolis at Archontiko](https://pleiades.stoa.org/places/409986438)
 
 
 ## Kastelli Hill - Chania - 2022
@@ -90,6 +97,13 @@
 
 ### alignments:
  - [Mitrou](https://pleiades.stoa.org/places/645204824)
+
+
+## Report 137: GYTHEION. - Epano Vathy Néochoriou - 1999
+[https://chronique.efa.gr/?kroute=report&id=137](https://chronique.efa.gr/?kroute=report&id=137)  
+
+### alignments:
+ - [Arainon](https://pleiades.stoa.org/places/570099)
 
 
 ## Report 16022: PARAPOTAMOS. - Tsifliki - 1988
@@ -1106,6 +1120,13 @@
 
 ### alignments:
  - [Abdera](https://pleiades.stoa.org/places/501323)
+
+
+## Toponyme 16310: Ageranos
+[https://chronique.efa.gr/?kroute=topo_public&id=16310](https://chronique.efa.gr/?kroute=topo_public&id=16310)  
+
+### alignments:
+ - [Arainon](https://pleiades.stoa.org/places/570099)
 
 
 ## Toponyme 16315: Axos
