@@ -1,13 +1,78 @@
 {
     "@type": "Place",
     "bbox": [
-        28.0,
-        37.0,
-        28.5,
-        37.5
+        28.264557,
+        37.027296,
+        28.264557,
+        37.027296
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectsTo": "https://pleiades.stoa.org/places/599706",
+            "contributors": [],
+            "created": "2024-04-19T14:50:01Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-19T16:28:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-19T14:53:44Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-19T14:50:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-19T14:50:01Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "kerameios-doridis-sinus",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 E4-G3",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Kerameios/Doridis Sinus",
+            "uri": "https://pleiades.stoa.org/places/599566/kerameios-doridis-sinus"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/599706"
+    ],
     "contributors": [
         {
             "homepage": null,
@@ -38,7 +103,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T09:04:32Z",
+    "created": "2024-04-19T14:38:43Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -49,49 +114,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 61 G3 ‘Cedreaticum’ Sinus",
-    "details": "The Barrington Atlas Directory notes: Gökova Körfezi",
+    "description": "'Cedreaticum' is a suggested editorial emendation offered by Bean for 'Tetraticum' in Mela, based on the conjecture that it is naming only the \"innermost portion\" (i.e., narrower eastern end) of the Gulf of Kos/Gökova (ancient Kerameios/Doridis) and therefore takes its name from the settlement of Kedreai (on modern Şehir Adası).",
+    "details": "<p>The Barrington Atlas Directory notes: Gökova Körfezi</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            28.0,
-                            37.0
-                        ],
-                        [
-                            28.5,
-                            37.0
-                        ],
-                        [
-                            28.5,
-                            37.5
-                        ],
-                        [
-                            28.0,
-                            37.5
-                        ],
-                        [
-                            28.0,
-                            37.0
-                        ]
-                    ]
+                    28.264557,
+                    37.027296
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "imagery-location-after-batlas-label",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/599566/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Undetermined location"
+                "description": "Less certain, per Bean.",
+                "link": "https://pleiades.stoa.org/places/599566/imagery-location-after-batlas-label",
+                "location_precision": "precise",
+                "snippet": "Bay; AD 2000 - AD 2099",
+                "title": "Imagery location after BAtlas label"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type += bay; added connection; added location, which supersedes currently published location; Edited",
+            "modified": "2024-04-19T16:28:22Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2024-04-19T04:00:38Z",
@@ -132,117 +182,109 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-15T09:04:33Z",
+            "contributors": [],
+            "created": "2024-04-19T14:48:47Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Less certain, per Bean.",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "bay"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bay"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            28.0,
-                            37.0
-                        ],
-                        [
-                            28.5,
-                            37.0
-                        ],
-                        [
-                            28.5,
-                            37.5
-                        ],
-                        [
-                            28.0,
-                            37.5
-                        ],
-                        [
-                            28.0,
-                            37.0
-                        ]
-                    ]
+                    28.264557,
+                    37.027296
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:57:14Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2009-10-15T18:04:20Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2024-04-19T16:28:30Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2009-10-15T09:19:39Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-19T14:53:44Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2024-04-19T14:52:43Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-19T14:48:49Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2009-10-15T09:04:33Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-19T14:48:47Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "undetermined",
+            "id": "imagery-location-after-batlas-label",
             "locationType": [
-                "representative"
+                "central_point",
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bay"
             ],
-            "provenance": "Barrington Atlas: BAtlas 61 G3 ‘Cedreaticum’ Sinus",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "G3 'Cedreaticum' Sinus",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "http://www.jstor.org/stable/30104405",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/W4FFFKSN",
+                    "citationDetail": "page 63",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Bean, G. E., and J. M. Cook. “The Carian Coast III.” <i>The Annual of the British School at Athens</i> 52 (1957): 58–146. http://www.jstor.org/stable/30104405.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Bean 1957",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599566/undetermined"
+            "start": 2000,
+            "title": "Imagery location after BAtlas label",
+            "uri": "https://pleiades.stoa.org/places/599566/imagery-location-after-batlas-label"
         }
     ],
     "names": [
@@ -325,10 +367,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/water-open"
+        "https://pleiades.stoa.org/vocabularies/place-types/water-open",
+        "https://pleiades.stoa.org/vocabularies/place-types/bay"
     ],
     "placeTypes": [
-        "water-open"
+        "water-open",
+        "bay"
     ],
     "provenance": "Barrington Atlas: BAtlas 61 G3 ‘Cedreaticum’ Sinus",
     "references": [
@@ -356,8 +400,8 @@
         }
     ],
     "reprPoint": [
-        28.25,
-        37.25
+        28.264557,
+        37.027296
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

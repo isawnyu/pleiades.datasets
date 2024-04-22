@@ -1,12 +1,75 @@
 {
     "@type": "Place",
     "bbox": [
-        25.256563,
-        37.114479,
-        25.256563,
-        37.114479
+        25.256124,
+        37.1171803,
+        25.2562351,
+        37.1172689
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/599868",
+            "contributors": [],
+            "created": "2024-04-19T01:44:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-19T14:18:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-19T01:44:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2024-04-19T01:44:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-19T01:44:02Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "paros-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://gazetteer.dainst.org/place/2362202",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+                    "citationDetail": "Palaiopyrgos",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "iDAI.gazetteer",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Paros (island)",
+            "uri": "https://pleiades.stoa.org/places/599850/paros-island"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/599868"
     ],
@@ -61,23 +124,106 @@
         {
             "geometry": {
                 "coordinates": [
-                    25.256563,
-                    37.114479
+                    [
+                        25.2562351,
+                        37.1172206
+                    ],
+                    [
+                        25.2562334,
+                        37.1172359
+                    ],
+                    [
+                        25.2562253,
+                        37.1172498
+                    ],
+                    [
+                        25.2562118,
+                        37.1172607
+                    ],
+                    [
+                        25.2561963,
+                        37.1172669
+                    ],
+                    [
+                        25.2561792,
+                        37.1172689
+                    ],
+                    [
+                        25.2561621,
+                        37.1172666
+                    ],
+                    [
+                        25.2561467,
+                        37.1172603
+                    ],
+                    [
+                        25.2561345,
+                        37.1172505
+                    ],
+                    [
+                        25.2561267,
+                        37.1172383
+                    ],
+                    [
+                        25.256124,
+                        37.1172246
+                    ],
+                    [
+                        25.2561266,
+                        37.117211
+                    ],
+                    [
+                        25.2561343,
+                        37.1171987
+                    ],
+                    [
+                        25.2561481,
+                        37.1171879
+                    ],
+                    [
+                        25.2561656,
+                        37.1171815
+                    ],
+                    [
+                        25.2561848,
+                        37.1171803
+                    ],
+                    [
+                        25.2562033,
+                        37.1171843
+                    ],
+                    [
+                        25.2562191,
+                        37.1171932
+                    ],
+                    [
+                        25.2562301,
+                        37.1172058
+                    ],
+                    [
+                        25.2562351,
+                        37.1172206
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-8173",
+            "id": "osm-location-of-palaiopyrgos-tower-paros",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/599850/darmc-location-8173",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/599850/osm-location-of-palaiopyrgos-tower-paros",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "DARMC location 8173"
+                "snippet": "Tower-single; 330 BC - 30 BC",
+                "title": "OSM location of Palaiopyrgos tower (Paros)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-04-19T14:18:11Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add ToposText",
             "modified": "2024-04-19T01:41:51Z",
@@ -128,18 +274,12 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -147,91 +287,162 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-02-25T20:30:42Z",
+            "contributors": [],
+            "created": "2024-04-19T01:42:28Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 8173",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": -30,
             "featureType": [
-                "unknown"
+                "tower-single"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-single"
             ],
             "geometry": {
                 "coordinates": [
-                    25.256563,
-                    37.114479
+                    [
+                        25.2562351,
+                        37.1172206
+                    ],
+                    [
+                        25.2562334,
+                        37.1172359
+                    ],
+                    [
+                        25.2562253,
+                        37.1172498
+                    ],
+                    [
+                        25.2562118,
+                        37.1172607
+                    ],
+                    [
+                        25.2561963,
+                        37.1172669
+                    ],
+                    [
+                        25.2561792,
+                        37.1172689
+                    ],
+                    [
+                        25.2561621,
+                        37.1172666
+                    ],
+                    [
+                        25.2561467,
+                        37.1172603
+                    ],
+                    [
+                        25.2561345,
+                        37.1172505
+                    ],
+                    [
+                        25.2561267,
+                        37.1172383
+                    ],
+                    [
+                        25.256124,
+                        37.1172246
+                    ],
+                    [
+                        25.2561266,
+                        37.117211
+                    ],
+                    [
+                        25.2561343,
+                        37.1171987
+                    ],
+                    [
+                        25.2561481,
+                        37.1171879
+                    ],
+                    [
+                        25.2561656,
+                        37.1171815
+                    ],
+                    [
+                        25.2561848,
+                        37.1171803
+                    ],
+                    [
+                        25.2562033,
+                        37.1171843
+                    ],
+                    [
+                        25.2562191,
+                        37.1171932
+                    ],
+                    [
+                        25.2562301,
+                        37.1172058
+                    ],
+                    [
+                        25.2562351,
+                        37.1172206
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:02:28Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-02-25T20:50:25Z",
+                    "modified": "2024-04-19T14:17:43Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-02-25T20:30:43Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-19T01:42:53Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-02-25T20:30:42Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-04-19T01:42:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-19T01:42:28Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-02-25T20:30:42Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-19T01:42:28Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-8173",
+            "id": "osm-location-of-palaiopyrgos-tower-paros",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-single"
             ],
-            "provenance": "DARMC OBJECTID: 8173",
+            "provenance": "OpenStreetMap (Way 1273966493, version 1, osm:changeset=150199475, 2024-04-19T01:39:56Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1273966493",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "8173",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1273966493",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 8173.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1273966493",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -550,
-            "title": "DARMC location 8173",
-            "uri": "https://pleiades.stoa.org/places/599850/darmc-location-8173"
+            "start": -330,
+            "title": "OSM location of Palaiopyrgos tower (Paros)",
+            "uri": "https://pleiades.stoa.org/places/599850/osm-location-of-palaiopyrgos-tower-paros"
         }
     ],
     "names": [],
@@ -288,11 +499,22 @@
             "otherIdentifier": "",
             "shortTitle": "iDAI.gazetteer",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "8173",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.256563,
-        37.114479
+        25.256179585688628,
+        37.11722451937427
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
