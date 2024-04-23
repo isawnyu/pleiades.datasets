@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-409 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
+414 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -582,6 +582,20 @@
  - [Susa/Seleucia ad Eulaeum](https://pleiades.stoa.org/places/912936)
 
 
+## 10151045: Teuthrone
+[https://resource.manto.unh.edu/10151045](https://resource.manto.unh.edu/10151045)  
+
+### alignments:
+ - [Teuthrone](https://pleiades.stoa.org/places/570714)
+
+
+## 10151142: Pharis
+[https://resource.manto.unh.edu/10151142](https://resource.manto.unh.edu/10151142)  
+
+### alignments:
+ - [Pharis](https://pleiades.stoa.org/places/570591)
+
+
 ## 10151143: Syrnos (Caria)
 [https://resource.manto.unh.edu/10151143](https://resource.manto.unh.edu/10151143)  
 
@@ -608,6 +622,13 @@
 
 ### alignments:
  - [Theater of Dionysus Eleuthereus](https://pleiades.stoa.org/places/649966335)
+
+
+## 10152153: Nestane
+[https://resource.manto.unh.edu/10152153](https://resource.manto.unh.edu/10152153)  
+
+### alignments:
+ - [Nestane](https://pleiades.stoa.org/places/570507)
 
 
 ## 10152226: Malis
@@ -1189,6 +1210,13 @@
 
 ### alignments:
  - [Sanctuary of Apollo on Delos](https://pleiades.stoa.org/places/599506)
+
+
+## 10833972: the Ardettos (Athens)
+[https://resource.manto.unh.edu/10833972](https://resource.manto.unh.edu/10833972)  
+
+### alignments:
+ - [Ardettos](https://pleiades.stoa.org/places/582870)
 
 
 ## 10833985: Scotoussa (Thessaly)
@@ -2863,5 +2891,12 @@
 
 ### alignments:
  - [Probalinthos](https://pleiades.stoa.org/places/580091)
+
+
+## Theisoa (Arcadia)
+[https://resource.manto.unh.edu/10214837](https://resource.manto.unh.edu/10214837)  
+
+### alignments:
+ - [Theisoa](https://pleiades.stoa.org/places/570720)
 
 

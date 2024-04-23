@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-297 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
+303 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -351,6 +351,13 @@
  - [Skotoussa (Thessaly)](https://pleiades.stoa.org/places/541107)
 
 
+## Toponym 13034: Styra
+[https://chronique.efa.gr/?kroute=topo_public&id=13034](https://chronique.efa.gr/?kroute=topo_public&id=13034)  
+
+### alignments:
+ - [Styra](https://pleiades.stoa.org/places/541117)
+
+
 ## Toponym 13318: Telendos, Telenda
 [https://chronique.efa.gr/?kroute=topo_public&id=13318](https://chronique.efa.gr/?kroute=topo_public&id=13318)  
 
@@ -363,6 +370,13 @@
 
 ### alignments:
  - [Thorikos](https://pleiades.stoa.org/places/580119)
+
+
+## Toponym 13626: Theisoa, Lavda
+[https://chronique.efa.gr/?kroute=topo_public&id=13626](https://chronique.efa.gr/?kroute=topo_public&id=13626)  
+
+### alignments:
+ - [Theisoa](https://pleiades.stoa.org/places/570720)
 
 
 ## Toponym 14146: Sikinos, Kastro Sikinou
@@ -398,6 +412,13 @@
 
 ### alignments:
  - [Strymon (river)](https://pleiades.stoa.org/places/501629)
+
+
+## Toponym 17564: Drymaia, Glounista
+[https://chronique.efa.gr/?kroute=topo_public&id=17564](https://chronique.efa.gr/?kroute=topo_public&id=17564)  
+
+### alignments:
+ - [Drymaia](https://pleiades.stoa.org/places/540743)
 
 
 ## Toponym 17725: Lasithiotika Ori
@@ -461,6 +482,13 @@
 
 ### alignments:
  - [Elis (city)](https://pleiades.stoa.org/places/570220)
+
+
+## Toponym 21367: Epirus
+[https://chronique.efa.gr/?kroute=topo_public&id=21367](https://chronique.efa.gr/?kroute=topo_public&id=21367)  
+
+### alignments:
+ - [Epirus](https://pleiades.stoa.org/places/530871)
 
 
 ## Toponym 21485: Kaloi Limenes, Chalambreza
@@ -1080,6 +1108,13 @@
  - [Terpni/Paliokastro](https://pleiades.stoa.org/places/114689183)
 
 
+## Toponyme 13571: Thouria
+[https://chronique.efa.gr/?kroute=topo_public&id=13571](https://chronique.efa.gr/?kroute=topo_public&id=13571)  
+
+### alignments:
+ - [Thouria](https://pleiades.stoa.org/places/570733)
+
+
 ## Toponyme 13603: Thalamai, Koutifari
 [https://chronique.efa.gr/?kroute=topo_public&id=13603](https://chronique.efa.gr/?kroute=topo_public&id=13603)  
 
@@ -1176,6 +1211,13 @@
 
 ### alignments:
  - [Kallipolis](https://pleiades.stoa.org/places/540849)
+
+
+## Toponyme 198: Vafion, Barbali
+[https://chronique.efa.gr/?kroute=topo_public&id=198](https://chronique.efa.gr/?kroute=topo_public&id=198)  
+
+### alignments:
+ - [Pharis](https://pleiades.stoa.org/places/570591)
 
 
 ## Toponyme 19940: Aigies, Chania Koutoumous (119/1957), LIMNI (usuel)

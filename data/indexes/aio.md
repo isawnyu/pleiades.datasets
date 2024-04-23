@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-139 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
+139 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -131,7 +131,7 @@
 [https://www.atticinscriptions.com/browse/byfindspot/brauron/](https://www.atticinscriptions.com/browse/byfindspot/brauron/)  
 
 ### alignments:
- - [Artemis Brauronia](https://pleiades.stoa.org/places/579879)
+ - [Brauron/sanctuary of Artemis Brauronia](https://pleiades.stoa.org/places/579879)
 
 
 ## Findspot: Cagliari

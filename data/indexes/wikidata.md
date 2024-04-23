@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3359 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
+3365 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -506,6 +506,13 @@
  - [Arco Augusteo di Siracusa](https://pleiades.stoa.org/places/74136618)
 
 
+## Ardettus (Q12873973)
+[https://www.wikidata.org/wiki/Q12873973](https://www.wikidata.org/wiki/Q12873973)  
+
+### alignments:
+ - [Ardettos](https://pleiades.stoa.org/places/582870)
+
+
 ## Area archeologica di Decima (Q85859408)
 [https://www.wikidata.org/wiki/Q85859408](https://www.wikidata.org/wiki/Q85859408)  
 
@@ -645,6 +652,13 @@
 
 ### alignments:
  - [Sanctuary of Athena Hygieia](https://pleiades.stoa.org/places/130769474)
+
+
+## Athena Promachos (Q755221)
+[https://www.wikidata.org/wiki/Q755221](https://www.wikidata.org/wiki/Q755221)  
+
+### alignments:
+ - [Bronze Athena/Athena Promachos](https://pleiades.stoa.org/places/805065997)
 
 
 ## Athens Klepsydra well (Q12879136)
@@ -1095,6 +1109,13 @@
  - [Ceuclum](https://pleiades.stoa.org/places/108875)
 
 
+## Chalkotheke (Q668598)
+[https://www.wikidata.org/wiki/Q668598](https://www.wikidata.org/wiki/Q668598)  
+
+### alignments:
+ - [Chalkotheke](https://pleiades.stoa.org/places/764971247)
+
+
 ## Charisia (Q5074395)
 [https://www.wikidata.org/wiki/Q5074395](https://www.wikidata.org/wiki/Q5074395)  
 
@@ -1170,6 +1191,13 @@
 
 ### alignments:
  - [Colle Nocello](https://pleiades.stoa.org/places/422902)
+
+
+## Collina (Q3538786)
+[https://www.wikidata.org/wiki/Q3538786](https://www.wikidata.org/wiki/Q3538786)  
+
+### alignments:
+ - [tribus Collina](https://pleiades.stoa.org/places/207236501)
 
 
 ## Colonos Agoraios (Q5148468)
@@ -14314,13 +14342,6 @@
  - [tribus Arnensis](https://pleiades.stoa.org/places/11924822)
 
 
-## Q3538786
-[https://www.wikidata.org/wiki/Q3538786](https://www.wikidata.org/wiki/Q3538786)  
-
-### alignments:
- - [tribus Collina](https://pleiades.stoa.org/places/207236501)
-
-
 ## Q3538787: Cornelia
 [https://www.wikidata.org/wiki/Q3538787](https://www.wikidata.org/wiki/Q3538787)  
 
@@ -16821,7 +16842,7 @@
 [https://www.wikidata.org/wiki/Q475497](https://www.wikidata.org/wiki/Q475497)  
 
 ### alignments:
- - [Artemis Brauronia](https://pleiades.stoa.org/places/579879)
+ - [Brauron/sanctuary of Artemis Brauronia](https://pleiades.stoa.org/places/579879)
 
 
 ## Q47611: Ephesus
@@ -23077,6 +23098,13 @@
  - [Testruna](https://pleiades.stoa.org/places/416870)
 
 
+## Teuthrone (Q48781583)
+[https://www.wikidata.org/wiki/Q48781583](https://www.wikidata.org/wiki/Q48781583)  
+
+### alignments:
+ - [Teuthrone](https://pleiades.stoa.org/places/570714)
+
+
 ## Thalamae (Q16643340)
 [https://www.wikidata.org/wiki/Q16643340](https://www.wikidata.org/wiki/Q16643340)  
 
@@ -23110,6 +23138,13 @@
 
 ### alignments:
  - [Thebai/Thebae](https://pleiades.stoa.org/places/541138)
+
+
+## Theisoa (Orchomenia) (Q16327480)
+[https://www.wikidata.org/wiki/Q16327480](https://www.wikidata.org/wiki/Q16327480)  
+
+### alignments:
+ - [Theisoa](https://pleiades.stoa.org/places/570720)
 
 
 ## Therapne (Q15940498)
@@ -23419,6 +23454,13 @@
 
 ### alignments:
  - [Vicus Matrini](https://pleiades.stoa.org/places/413381)
+
+
+## Villa dei Casoni (Q27961117)
+[https://www.wikidata.org/wiki/Q27961117](https://www.wikidata.org/wiki/Q27961117)  
+
+### alignments:
+ - [Villa dei Casoni](https://pleiades.stoa.org/places/991900272)
 
 
 ## Viminacium (Q1231824)

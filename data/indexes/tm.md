@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3287 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
+3292 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1387,6 +1387,13 @@
  - [Acarnania](https://pleiades.stoa.org/places/530767)
 
 
+## Geo 38003: Teuthrona
+[https://www.trismegistos.org/place/38003](https://www.trismegistos.org/place/38003)  
+
+### alignments:
+ - [Teuthrone](https://pleiades.stoa.org/places/570714)
+
+
 ## Geo 38004: Thalamai
 [https://www.trismegistos.org/place/38004](https://www.trismegistos.org/place/38004)  
 
@@ -1763,6 +1770,13 @@
  - [Methydrion](https://pleiades.stoa.org/places/570484)
 
 
+## Geo 58955: Theisoa (Karkalous)
+[https://www.trismegistos.org/place/58955](https://www.trismegistos.org/place/58955)  
+
+### alignments:
+ - [Theisoa](https://pleiades.stoa.org/places/570720)
+
+
 ## Geo 59651: Apollonia (Sıçak)
 [https://www.trismegistos.org/place/59651](https://www.trismegistos.org/place/59651)  
 
@@ -1824,6 +1838,13 @@
 
 ### alignments:
  - [Mykenai](https://pleiades.stoa.org/places/589941)
+
+
+## Geo 61452: Pharis
+[https://www.trismegistos.org/place/61452](https://www.trismegistos.org/place/61452)  
+
+### alignments:
+ - [Pharis](https://pleiades.stoa.org/places/570591)
 
 
 ## Geo 61466: Pityoussa (Dana Adası)
@@ -14237,7 +14258,7 @@
 [http://www.trismegistos.org/place/37734](http://www.trismegistos.org/place/37734)  
 
 ### alignments:
- - [Artemis Brauronia](https://pleiades.stoa.org/places/579879)
+ - [Brauron/sanctuary of Artemis Brauronia](https://pleiades.stoa.org/places/579879)
 
 
 ## GEO ID 37736: Kephale
@@ -14308,6 +14329,13 @@
 
 ### alignments:
  - [Pallene](https://pleiades.stoa.org/places/580051)
+
+
+## GEO ID 37797: Ardettos (Pankrati)
+[https://www.trismegistos.org/place/37797](https://www.trismegistos.org/place/37797)  
+
+### alignments:
+ - [Ardettos](https://pleiades.stoa.org/places/582870)
 
 
 ## GEO ID 37802: Prasiai (Paralio Leonidi)
@@ -21958,6 +21986,13 @@
 ### alignments:
  - [Scythae/Sagae/Sacae](https://pleiades.stoa.org/places/60676)
  - [Scythia](https://pleiades.stoa.org/places/1273)
+
+
+## GEO ID 7222: Suburana
+[http://www.trismegistos.org/place/7222](http://www.trismegistos.org/place/7222)  
+
+### alignments:
+ - [tribus Suburana (Succusana)](https://pleiades.stoa.org/places/956605009)
 
 
 ## GEO ID 7224: Lemonia

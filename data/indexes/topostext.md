@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3354 alignments exist in _Pleiades_ place references as of 2024-04-22. The following list of alignments is grouped by zotkey.
+3361 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2119,6 +2119,13 @@
  - [Sanctuary of Aphrodite Ourania](https://pleiades.stoa.org/places/435244729)
 
 
+## Aphrodite Pandemos shrine (Athens Acropolis) 3 Acropolis W slope
+[https://topostext.org/place/380237SApP](https://topostext.org/place/380237SApP)  
+
+### alignments:
+ - [Sanctuary of Aphrodite Pandemos](https://pleiades.stoa.org/places/365016220)
+
+
 ## Aphrodite sanctuary (Attica)
 [https://topostext.org/place/380236SAph](https://topostext.org/place/380236SAph)  
 
@@ -2721,6 +2728,13 @@
  - [Ardea](https://pleiades.stoa.org/places/422843)
 
 
+## Ardettos (Athens) 3 Pankrati - Άρδηττος
+[https://topostext.org/place/380237SArd](https://topostext.org/place/380237SArd)  
+
+### alignments:
+ - [Ardettos](https://pleiades.stoa.org/places/582870)
+
+
 ## Aregenua/Vidocassii (Gallia)
 [https://topostext.org/place/491000UAre](https://topostext.org/place/491000UAre)  
 
@@ -3019,7 +3033,7 @@
 [https://topostext.org/place/379240SBra](https://topostext.org/place/379240SBra)  
 
 ### alignments:
- - [Artemis Brauronia](https://pleiades.stoa.org/places/579879)
+ - [Brauron/sanctuary of Artemis Brauronia](https://pleiades.stoa.org/places/579879)
 
 
 ## Artemis Elaphebolia sanct. (Phthiotis)
@@ -3427,6 +3441,13 @@
 
 ### alignments:
  - [Temple of Athena Pallenis](https://pleiades.stoa.org/places/42288211)
+
+
+## Athena Promachos statue (Athens Acropolis) 3 Acropolis of Athens
+[https://topostext.org/place/380237AAtP](https://topostext.org/place/380237AAtP)  
+
+### alignments:
+ - [Bronze Athena/Athena Promachos](https://pleiades.stoa.org/places/805065997)
 
 
 ## Athena Skiras sanct. (Salamis)
@@ -5261,6 +5282,13 @@
 
 ### alignments:
  - [(Hypo)Chalkis](https://pleiades.stoa.org/places/540829)
+
+
+## Chalkotheke (Athens Acropolis) Acropolis of Athens
+[https://topostext.org/place/380237BCha](https://topostext.org/place/380237BCha)  
+
+### alignments:
+ - [Chalkotheke](https://pleiades.stoa.org/places/764971247)
 
 
 ## Charadra (Phokis)
@@ -14598,7 +14626,7 @@
 [https://topostext.org/place/377270INar](https://topostext.org/place/377270INar)  
 
 ### alignments:
- - [Narthekis Ins.](https://pleiades.stoa.org/places/599816)
+ - [Narthekis (island)](https://pleiades.stoa.org/places/599816)
 
 
 ## Nasium (Gallia)
@@ -16076,6 +16104,13 @@
 
 ### alignments:
  - [Palike](https://pleiades.stoa.org/places/465970)
+
+
+## Palladion sanct. (Athens) 19 Phaleron? - Παλλάδιον
+[https://topostext.org/place/380237BPal](https://topostext.org/place/380237BPal)  
+
+### alignments:
+ - [Palladion](https://pleiades.stoa.org/places/271882541)
 
 
 ## Pallantion (Arkadia)
@@ -19548,7 +19583,7 @@
 [https://topostext.org/place/377269PSam](https://topostext.org/place/377269PSam)  
 
 ### alignments:
- - [Samos](https://pleiades.stoa.org/places/599925)
+ - [Samos (settlement)](https://pleiades.stoa.org/places/599925)
 
 
 ## Samosata (Commagene)
@@ -21678,6 +21713,13 @@
  - [Diospolis Magna/Thebai](https://pleiades.stoa.org/places/786017)
 
 
+## Theisoa (Arkadia) 5 Thisoa - Θεισόα
+[https://topostext.org/place/375220PThe](https://topostext.org/place/375220PThe)  
+
+### alignments:
+ - [Theisoa](https://pleiades.stoa.org/places/570720)
+
+
 ## Thelphousa (Arkadia)
 [https://topostext.org/place/377219PThe](https://topostext.org/place/377219PThe)  
 
@@ -23466,6 +23508,13 @@
 
 ### alignments:
  - [Zeus Panhellenios sanctuary (Aegina)](https://pleiades.stoa.org/places/580139)
+
+
+## Zeus Polieus altar (Athens Acropolis) 2 Acropolis of Athens
+[https://topostext.org/place/380237SZPo](https://topostext.org/place/380237SZPo)  
+
+### alignments:
+ - [Altar of Zeus Polieus](https://pleiades.stoa.org/places/116485242)
 
 
 ## Zeus temple (Olympia)
