@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3361 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
+3362 alignments exist in _Pleiades_ place references as of 2024-04-24. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7554,6 +7554,13 @@
 
 ### alignments:
  - [Europos/Euromos/Philippoi](https://pleiades.stoa.org/places/599616)
+
+
+## Europos (Kilkis) 13 Europos - Ευρωπός
+[https://topostext.org/place/409226PEur](https://topostext.org/place/409226PEur)  
+
+### alignments:
+ - [Europos](https://pleiades.stoa.org/places/491595)
 
 
 ## Europos/Carchemish (Syria)

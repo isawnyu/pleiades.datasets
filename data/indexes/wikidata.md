@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3365 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
+3367 alignments exist in _Pleiades_ place references as of 2024-04-24. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -645,6 +645,13 @@
 
 ### alignments:
  - [Astypalaia (island)](https://pleiades.stoa.org/places/599536)
+
+
+## Atarneus (Q64211631)
+[https://www.wikidata.org/wiki/Q64211631](https://www.wikidata.org/wiki/Q64211631)  
+
+### alignments:
+ - [Atarneus sub Pitanem](https://pleiades.stoa.org/places/550470)
 
 
 ## Athena Hygieia statue on the Acropolis (Q107307241)
@@ -1646,6 +1653,13 @@
 
 ### alignments:
  - [Euhydrion](https://pleiades.stoa.org/places/540781)
+
+
+## Europos (Q16659185)
+[https://www.wikidata.org/wiki/Q16659185](https://www.wikidata.org/wiki/Q16659185)  
+
+### alignments:
+ - [Europos](https://pleiades.stoa.org/places/491595)
 
 
 ## Eurotas (Q119152)
@@ -3510,6 +3524,13 @@
  - [Pindus (mountain range)](https://pleiades.stoa.org/places/541062)
 
 
+## Pitane (Q752699)
+[https://www.wikidata.org/wiki/Q752699](https://www.wikidata.org/wiki/Q752699)  
+
+### alignments:
+ - [Pitane](https://pleiades.stoa.org/places/550833)
+
+
 ## Plataea (Q742538)
 [https://www.wikidata.org/wiki/Q742538](https://www.wikidata.org/wiki/Q742538)  
 
@@ -3599,6 +3620,13 @@
 
 ### alignments:
  - [Porta Salaria](https://pleiades.stoa.org/places/758962698)
+
+
+## Porta Viminale (Q1516087)
+[https://www.wikidata.org/wiki/Q1516087](https://www.wikidata.org/wiki/Q1516087)  
+
+### alignments:
+ - [Porta Viminalis](https://pleiades.stoa.org/places/82115967)
 
 
 ## Porticus Minucia (Q56256238)
@@ -19337,13 +19365,6 @@
  - [Arene Candide](https://pleiades.stoa.org/places/719055683)
 
 
-## Q64211631
-[https://www.wikidata.org/wiki/Q64211631](https://www.wikidata.org/wiki/Q64211631)  
-
-### alignments:
- - [Atarneus sub Pitanem](https://pleiades.stoa.org/places/550470)
-
-
 ## Q642227: Wickham
 [https://www.wikidata.org/wiki/Q642227](https://www.wikidata.org/wiki/Q642227)  
 
@@ -20553,13 +20574,6 @@
 
 ### alignments:
  - [Silva Ciminia](https://pleiades.stoa.org/places/30464757)
-
-
-## Q752699
-[https://www.wikidata.org/wiki/Q752699](https://www.wikidata.org/wiki/Q752699)  
-
-### alignments:
- - [Pitane](https://pleiades.stoa.org/places/550833)
 
 
 ## Q7536414: Skotino cave

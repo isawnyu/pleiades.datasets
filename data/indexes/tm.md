@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3292 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
+3293 alignments exist in _Pleiades_ place references as of 2024-04-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -190,6 +190,13 @@
 
 ### alignments:
  - [Eion](https://pleiades.stoa.org/places/501410)
+
+
+## Geo 12100: Europos
+[https://www.trismegistos.org/place/12100](https://www.trismegistos.org/place/12100)  
+
+### alignments:
+ - [Europos](https://pleiades.stoa.org/places/491595)
 
 
 ## Geo 12119: Tempe
@@ -13085,7 +13092,7 @@
  - [Kilbianoi (Ano)](https://pleiades.stoa.org/places/550640)
 
 
-## GEO ID 33623
+## GEO ID 33623: Pitane (Çandarlı)
 [https://www.trismegistos.org/place/33623](https://www.trismegistos.org/place/33623)  
 
 ### alignments:

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-303 alignments exist in _Pleiades_ place references as of 2024-04-23. The following list of alignments is grouped by zotkey.
+304 alignments exist in _Pleiades_ place references as of 2024-04-24. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -531,6 +531,13 @@
 
 ### alignments:
  - [Samothrace (island)](https://pleiades.stoa.org/places/501597)
+
+
+## Toponym 26764: Evropos, Europos, Asiklar
+[https://chronique.efa.gr/?kroute=topo_public&id=26764](https://chronique.efa.gr/?kroute=topo_public&id=26764)  
+
+### alignments:
+ - [Europos](https://pleiades.stoa.org/places/491595)
 
 
 ## Toponym 27448: Pella
