@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.556736,
-        40.899846,
-        22.556736,
-        40.899846
+        22.5517090534395,
+        40.88380147149622,
+        22.55830205555459,
+        40.887976
     ],
     "connections": [],
     "connectsWith": [],
@@ -12,6 +12,18 @@
         {
             "name": "DARMC",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras",
+            "username": "cbouras"
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "name": "R. Talbert",
@@ -25,47 +37,112 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2010-06-24T10:26:54Z",
+    "created": "2024-04-22T21:20:10Z",
     "creators": [
         {
             "name": "E.N. Borza",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 50 C3 Europos",
-    "details": "The Barrington Atlas Directory notes: Europos",
+    "description": "An ancient city in Macedonia. The known components of the site (acropolis, extensive necropolis) are located immediately south of the modern town.",
+    "details": "<p>For work between Savvopoulou 1989 and Kaimaris 2023, consult the CFO/AGO reports via <a class=\"external-link\" href=\"https://chronique.efa.gr/?kroute=topo_public&amp;id=26764\" target=\"_self\" title=\"\">Toponyme 26764: Evropos, Europos, Asiklar</a>.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    22.556736,
-                    40.899846
+                    22.555345,
+                    40.887976
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-3446",
+            "id": "imagery-location-centerpoint-of-acropolis",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/491595/darmc-location-3446",
+                "description": "Location determined in Google Earth with reference to Kaimaris 2023, Figure 1.",
+                "link": "https://pleiades.stoa.org/places/491595/imagery-location-centerpoint-of-acropolis",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 3446"
+                "snippet": "Acropolis, Archaeological-site",
+                "title": "Imagery Location: Centerpoint of acropolis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                22.55830205555459,
+                                40.88380147149622,
+                                0.0
+                            ],
+                            [
+                                22.55807563338889,
+                                40.88721057862151,
+                                0.0
+                            ],
+                            [
+                                22.55643054094176,
+                                40.88685090633701,
+                                0.0
+                            ],
+                            [
+                                22.55279183132107,
+                                40.88676655907366,
+                                0.0
+                            ],
+                            [
+                                22.55176418835521,
+                                40.88648424309297,
+                                0.0
+                            ],
+                            [
+                                22.5517090534395,
+                                40.88384376572099,
+                                0.0
+                            ],
+                            [
+                                22.55830205555459,
+                                40.88380147149622,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "id": "imagery-location-approximate-extent-of-necropolis",
+            "properties": {
+                "description": "Polygon traced in Google Earth with reference to excavated features and likely indicative crop marks as mapped in Kaimaris 2023, Figure 11.",
+                "link": "https://pleiades.stoa.org/places/491595/imagery-location-approximate-extent-of-necropolis",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site, Cemetery",
+                "title": "Imagery Location: approximate extent of necropolis"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC 3446 = related",
+            "modified": "2024-04-23T13:51:25Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "cleaned up references; added CFL/AGO and Geonames references provided by cbouras; added ToposText reference; added iDAI.gazetteer, Wikipedia, and Wikidata references provided by bkiesling; added Kaimaris 2023; summary; details; added locations, which supersede curently published locations.",
+            "modified": "2024-04-23T13:50:20Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added TM GEO ID 12100",
             "modified": "2017-06-07T01:58:41Z",
@@ -111,124 +188,198 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T18:58:32Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2024-04-23T12:36:03Z",
             "creators": [
                 {
-                    "name": "E.N. Borza",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 3446",
-            "end": 640,
+            "description": "Location determined in Google Earth with reference to Kaimaris 2023, Figure 1.",
+            "details": "",
+            "end": null,
             "featureType": [
-                "unknown"
+                "acropolis",
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/acropolis",
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    22.556736,
-                    40.899846
+                    22.555345,
+                    40.887976
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:35:03Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:56:49Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2024-04-23T13:51:45Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T18:58:33Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-23T13:45:48Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T18:58:33Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2024-04-23T12:36:05Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T18:58:32Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-23T12:36:03Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-3446",
+            "id": "imagery-location-centerpoint-of-acropolis",
+            "locationType": [
+                "central_point"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/acropolis",
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.mdpi.com/2072-4292/15/15/3843",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GUYXF25Z",
+                    "citationDetail": "Figure 1",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Kaimaris, Dimitris, and Dimitris Tsokas. “Application of UAS with Remote Sensing Sensors for the Location of Marks in the Archaeological Site of the Europos, Greece.” <i>Remote Sensing</i> 15, no. 15 (January 2023): 3843. https://doi.org/10.3390/rs15153843.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Kaimaris 2023",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Imagery Location: Centerpoint of acropolis",
+            "uri": "https://pleiades.stoa.org/places/491595/imagery-location-centerpoint-of-acropolis"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2024-04-23T12:47:18Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Polygon traced in Google Earth with reference to excavated features and likely indicative crop marks as mapped in Kaimaris 2023, Figure 11.",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "archaeological-site",
+                "cemetery"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                22.55830205555459,
+                                40.88380147149622,
+                                0.0
+                            ],
+                            [
+                                22.55807563338889,
+                                40.88721057862151,
+                                0.0
+                            ],
+                            [
+                                22.55643054094176,
+                                40.88685090633701,
+                                0.0
+                            ],
+                            [
+                                22.55279183132107,
+                                40.88676655907366,
+                                0.0
+                            ],
+                            [
+                                22.55176418835521,
+                                40.88648424309297,
+                                0.0
+                            ],
+                            [
+                                22.5517090534395,
+                                40.88384376572099,
+                                0.0
+                            ],
+                            [
+                                22.55830205555459,
+                                40.88380147149622,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-23T13:51:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-23T13:45:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-23T12:47:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-23T12:47:18Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "imagery-location-approximate-extent-of-necropolis",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
-            "provenance": "DARMC OBJECTID: 3446",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "3446",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 3446.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
+            "provenance": "Pleiades",
+            "references": [],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 3446",
-            "uri": "https://pleiades.stoa.org/places/491595/darmc-location-3446"
+            "start": null,
+            "title": "Imagery Location: approximate extent of necropolis",
+            "uri": "https://pleiades.stoa.org/places/491595/imagery-location-approximate-extent-of-necropolis"
         }
     ],
     "names": [
@@ -331,61 +482,155 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+        "https://pleiades.stoa.org/vocabularies/place-types/acropolis",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "cemetery",
+        "acropolis",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 50 C3 Europos",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "50 C3 Europos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 50 C3 Europos",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://cefael.efa.gr/window.php?site_id=1&actionID=summary&serie_id=BCHSuppl&volume_number=16",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FVWQ2MGN",
+            "citationDetail": "180-81",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Papazoglou, Fanoula. <i>Les villes de Macédoine à l’époque romaine</i>. Bulletin de correspondance hellénique, Supplément 16. Paris: Diffusion de Boccard, 1988. https://cefael.efa.gr/window.php?site_id=1&amp;actionID=summary&amp;serie_id=BCHSuppl&amp;volume_number=16.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Papazoglou 1988",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Papazoglou-1988",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3Q8CAMC3",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Papazoglou 1988, 180-81",
+            "formattedCitation": "<div class=\"csl-entry\">Savvopoulou, T. “Δοκιμαστικές Ἔρευνες Στὴν ’Ευρωπό Κιλκις / Research at Europos of Kilkis.” <i>To Archaiologiko Ergo St¯e Makedonia Kai Thrak¯e</i> 4 (1989): 189–99.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Savvopoulou 1989",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.trismegistos.org/place/12100",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Savvopoulou-1989",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Savvopoulou 1989",
-            "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "http://www.trismegistos.org/place/12100",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 12100: Europos",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 12100",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=26764",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponym 26764: Evropos, Europos, Asiklar",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.geonames.org/736288/evropos.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "736288: Evropós",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "GeoNames",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/409226PEur",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Europos (Kilkis) 13 Europos - Ευρωπός",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2361688",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2361688: Europos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Europus_(Macedonia)",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Europus (Macedonia)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q16659185",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Europos (Q16659185)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.mdpi.com/2072-4292/15/15/3843",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GUYXF25Z",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kaimaris, Dimitris, and Dimitris Tsokas. “Application of UAS with Remote Sensing Sensors for the Location of Marks in the Archaeological Site of the Europos, Greece.” <i>Remote Sensing</i> 15, no. 15 (January 2023): 3843. https://doi.org/10.3390/rs15153843.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Kaimaris 2023",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3446",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
             "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        22.556736,
-        40.899846
+        22.5552017304109,
+        40.88664972064461
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
