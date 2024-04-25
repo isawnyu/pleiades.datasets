@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-414 alignments exist in _Pleiades_ place references as of 2024-04-24. The following list of alignments is grouped by zotkey.
+419 alignments exist in _Pleiades_ place references as of 2024-04-25. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -582,6 +582,13 @@
  - [Susa/Seleucia ad Eulaeum](https://pleiades.stoa.org/places/912936)
 
 
+## 10150527: Cichyros
+[https://resource.manto.unh.edu/10150527](https://resource.manto.unh.edu/10150527)  
+
+### alignments:
+ - [Ephyra/Kichyros](https://pleiades.stoa.org/places/530870)
+
+
 ## 10151045: Teuthrone
 [https://resource.manto.unh.edu/10151045](https://resource.manto.unh.edu/10151045)  
 
@@ -645,11 +652,25 @@
  - [Tithorea/Neon](https://pleiades.stoa.org/places/541152)
 
 
+## 10153196: Gonoussa
+[https://resource.manto.unh.edu/10153196](https://resource.manto.unh.edu/10153196)  
+
+### alignments:
+ - [Gonoussa](https://pleiades.stoa.org/places/573235)
+
+
 ## 10157803: River Euphrates (Mesopotamia)
 [https://resource.manto.unh.edu/10157803](https://resource.manto.unh.edu/10157803)  
 
 ### alignments:
  - [Euphrates (river)](https://pleiades.stoa.org/places/912849)
+
+
+## 10157807: Tenea
+[https://resource.manto.unh.edu/10157807](https://resource.manto.unh.edu/10157807)  
+
+### alignments:
+ - [Tenea](https://pleiades.stoa.org/places/570711)
 
 
 ## 10158613: Mount Mainalion (Arcadia)
@@ -664,6 +685,13 @@
 
 ### alignments:
  - [Chaon (mountain)](https://pleiades.stoa.org/places/570171)
+
+
+## 10158633: Titane
+[https://resource.manto.unh.edu/10158633](https://resource.manto.unh.edu/10158633)  
+
+### alignments:
+ - [Titane](https://pleiades.stoa.org/places/570741)
 
 
 ## 10158709: Mount Anchisia (Arcadia)
@@ -2499,6 +2527,13 @@
 
 ### alignments:
  - [Gygaia/Koloe/Talaimenis (lake)](https://pleiades.stoa.org/places/550556)
+
+
+## 9718758: Messe (Laconia)
+[https://resource.manto.unh.edu/9718758](https://resource.manto.unh.edu/9718758)  
+
+### alignments:
+ - [Messa](https://pleiades.stoa.org/places/570478)
 
 
 ## 9719368: Cyparisseis (Messenia)

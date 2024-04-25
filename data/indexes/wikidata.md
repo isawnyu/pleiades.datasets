@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3367 alignments exist in _Pleiades_ place references as of 2024-04-24. The following list of alignments is grouped by zotkey.
+3372 alignments exist in _Pleiades_ place references as of 2024-04-25. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1165,6 +1165,13 @@
  - [Chyt(h)roi](https://pleiades.stoa.org/places/707496)
 
 
+## Cichyrus (Q1346887)
+[https://www.wikidata.org/wiki/Q1346887](https://www.wikidata.org/wiki/Q1346887)  
+
+### alignments:
+ - [Ephyra/Kichyros](https://pleiades.stoa.org/places/530870)
+
+
 ## Cierium (Q16554823)
 [https://www.wikidata.org/wiki/Q16554823](https://www.wikidata.org/wiki/Q16554823)  
 
@@ -1912,6 +1919,13 @@
 
 ### alignments:
  - [Helisson](https://pleiades.stoa.org/places/570282)
+
+
+## Hellenistic temple at Skydra (Q111471802)
+[https://www.wikidata.org/wiki/Q111471802](https://www.wikidata.org/wiki/Q111471802)  
+
+### alignments:
+ - [Skydra Hellenistic Temple](https://pleiades.stoa.org/places/648569776)
 
 
 ## Hephaistia (Q5731882)
@@ -2815,6 +2829,13 @@
 
 ### alignments:
  - [Medma (river)](https://pleiades.stoa.org/places/452376)
+
+
+## Messa (Greece) (Q16606539)
+[https://www.wikidata.org/wiki/Q16606539](https://www.wikidata.org/wiki/Q16606539)  
+
+### alignments:
+ - [Messa](https://pleiades.stoa.org/places/570478)
 
 
 ## Messapic walls (Q117813254)
@@ -22621,6 +22642,13 @@
  - [Scaugdae](https://pleiades.stoa.org/places/222178)
 
 
+## Scydra (Q111472152)
+[https://www.wikidata.org/wiki/Q111472152](https://www.wikidata.org/wiki/Q111472152)  
+
+### alignments:
+ - [Skydra](https://pleiades.stoa.org/places/491723)
+
+
 ## Seha River Land (Q752265)
 [https://www.wikidata.org/wiki/Q752265](https://www.wikidata.org/wiki/Q752265)  
 
@@ -23250,6 +23278,13 @@
 
 ### alignments:
  - [Tenos (settlement)](https://pleiades.stoa.org/places/590073)
+
+
+## Titane (Sicyon) (Q59637009)
+[https://www.wikidata.org/wiki/Q59637009](https://www.wikidata.org/wiki/Q59637009)  
+
+### alignments:
+ - [Titane](https://pleiades.stoa.org/places/570741)
 
 
 ## Titthium Mt. (Q109941874)

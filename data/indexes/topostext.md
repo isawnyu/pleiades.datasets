@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3362 alignments exist in _Pleiades_ place references as of 2024-04-24. The following list of alignments is grouped by zotkey.
+3365 alignments exist in _Pleiades_ place references as of 2024-04-25. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -20478,6 +20478,20 @@
  - [Skouriotissa](https://pleiades.stoa.org/places/707623)
 
 
+## Skydra (Pella) 3 Arseni - Σκύδρα
+[https://topostext.org/place/407221USky](https://topostext.org/place/407221USky)  
+
+### alignments:
+ - [Skydra](https://pleiades.stoa.org/places/491723)
+
+
+## Skydra temple (Pella) Skydra - Σκύδρα
+[https://topostext.org/place/408221SSky](https://topostext.org/place/408221SSky)  
+
+### alignments:
+ - [Skydra Hellenistic Temple](https://pleiades.stoa.org/places/648569776)
+
+
 ## Skylake (Mysia)
 [https://topostext.org/place/404284USky](https://topostext.org/place/404284USky)  
 
@@ -22173,6 +22187,13 @@
 
 ### alignments:
  - [Ticinus (river)](https://pleiades.stoa.org/places/383799)
+
+
+## Tigani EC basilica (Lakonia)
+[https://topostext.org/place/365224ETig](https://topostext.org/place/365224ETig)  
+
+### alignments:
+ - [Tigani basilica](https://pleiades.stoa.org/places/910479808)
 
 
 ## Tigris R (Mesopotamia)

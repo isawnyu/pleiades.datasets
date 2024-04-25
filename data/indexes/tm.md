@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3293 alignments exist in _Pleiades_ place references as of 2024-04-24. The following list of alignments is grouped by zotkey.
+3298 alignments exist in _Pleiades_ place references as of 2024-04-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -197,6 +197,13 @@
 
 ### alignments:
  - [Europos](https://pleiades.stoa.org/places/491595)
+
+
+## Geo 12108: Skydra (Loutrochori)
+[https://www.trismegistos.org/place/12108](https://www.trismegistos.org/place/12108)  
+
+### alignments:
+ - [Skydra](https://pleiades.stoa.org/places/491723)
 
 
 ## Geo 12119: Tempe
@@ -1420,6 +1427,13 @@
 
 ### alignments:
  - [Antikyra](https://pleiades.stoa.org/places/540642)
+
+
+## Geo 38136: Titane
+[https://www.trismegistos.org/place/38136](https://www.trismegistos.org/place/38136)  
+
+### alignments:
+ - [Titane](https://pleiades.stoa.org/places/570741)
 
 
 ## Geo 38: Achaia
@@ -10550,6 +10564,13 @@
  - [Peretnouis/Pheretnouis](https://pleiades.stoa.org/places/737000)
 
 
+## GEO ID 30393: Tigani
+[https://www.trismegistos.org/place/30393](https://www.trismegistos.org/place/30393)  
+
+### alignments:
+ - [Tigani basilica](https://pleiades.stoa.org/places/910479808)
+
+
 ## GEO ID 30538: Theranda (Suva Reka)
 [https://www.trismegistos.org/place/30538](https://www.trismegistos.org/place/30538)  
 
@@ -14175,6 +14196,13 @@
 
 ### alignments:
  - [Dioryktos?](https://pleiades.stoa.org/places/530842)
+
+
+## GEO ID 37650: Thyrreion
+[http://www.trismegistos.org/place/37650](http://www.trismegistos.org/place/37650)  
+
+### alignments:
+ - [Thyrreion](https://pleiades.stoa.org/places/531123)
 
 
 ## GEO ID 37651: Heraion
@@ -21067,6 +21095,13 @@
 
 ### alignments:
  - [Delphi](https://pleiades.stoa.org/places/540726)
+
+
+## GEO ID 54417: Psamathous
+[https://www.trismegistos.org/place/54417](https://www.trismegistos.org/place/54417)  
+
+### alignments:
+ - [(Ps)Amathous](https://pleiades.stoa.org/places/570635)
 
 
 ## GEO ID 54478: Timna

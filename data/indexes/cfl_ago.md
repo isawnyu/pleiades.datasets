@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-304 alignments exist in _Pleiades_ place references as of 2024-04-24. The following list of alignments is grouped by zotkey.
+307 alignments exist in _Pleiades_ place references as of 2024-04-25. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -463,6 +463,13 @@
  - [Gonnoi](https://pleiades.stoa.org/places/540793)
 
 
+## Toponym 20222: Chiliomodion
+[https://chronique.efa.gr/?kroute=topo_public&id=20222](https://chronique.efa.gr/?kroute=topo_public&id=20222)  
+
+### alignments:
+ - [Tenea](https://pleiades.stoa.org/places/570711)
+
+
 ## Toponym 20827: Dystos, Zerbisia, Zermpisia (188/1954)
 [https://chronique.efa.gr/?kroute=topo_public&id=20827](https://chronique.efa.gr/?kroute=topo_public&id=20827)  
 
@@ -538,6 +545,14 @@
 
 ### alignments:
  - [Europos](https://pleiades.stoa.org/places/491595)
+
+
+## Toponym 27262: Skydra, Vertekop
+[https://chronique.efa.gr/?kroute=topo_public&id=27262](https://chronique.efa.gr/?kroute=topo_public&id=27262)  
+
+### alignments:
+ - [Skydra Hellenistic Temple](https://pleiades.stoa.org/places/648569776)
+ - [Skydra](https://pleiades.stoa.org/places/491723)
 
 
 ## Toponym 27448: Pella
@@ -1134,6 +1149,13 @@
 
 ### alignments:
  - [Skiathos (settlement)](https://pleiades.stoa.org/places/541104)
+
+
+## Toponyme 14331: Titani, Voivoda, Voivata
+[https://chronique.efa.gr/?kroute=topo_public&id=14331](https://chronique.efa.gr/?kroute=topo_public&id=14331)  
+
+### alignments:
+ - [Titane](https://pleiades.stoa.org/places/570741)
 
 
 ## Toponyme 14524: Nafplio
