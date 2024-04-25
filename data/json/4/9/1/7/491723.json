@@ -1,17 +1,31 @@
 {
     "@type": "Place",
     "bbox": [
-        22.111219,
-        40.707084,
-        22.111219,
-        40.707084
+        22.1012092,
+        40.6909525,
+        22.1587466,
+        40.7236636
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/648569776"
+    ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras",
+            "username": "cbouras"
+        },
         {
             "name": "DARMC",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "name": "R. Talbert",
@@ -25,47 +39,103 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2010-06-24T10:29:18Z",
+    "created": "2024-04-24T16:57:35Z",
     "creators": [
         {
             "name": "E.N. Borza",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 50 B3 Skydra",
-    "details": "The Barrington Atlas Directory notes: Loutrokhoroi?",
+    "description": "An ancient settlement, probably to be localized in the southern part of the modern Greek municipality of Skydra on the basis of epigraphic finds in the modern communities of the area, especially Arseni, Loutrokhoroi, and Marina (Papazoglou). A Hellenistic temple (q.v.) subsequently has been discovered much closer to the residential agglomeration of modern Skyra, but the precise location of the settlement remains elusive.",
+    "details": "<p>The Barrington Atlas Directory notes: Loutrokhoroi?</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    22.111219,
-                    40.707084
+                    22.1587466,
+                    40.7147663
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-9537",
+            "id": "osm-location-modern-iiiii1-2i1",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/491723/darmc-location-9537",
+                "description": "Location based on OpenStreetMap. Identification via ToposText.",
+                "link": "https://pleiades.stoa.org/places/491723/osm-location-modern-iiiii1-2i1",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 9537"
+                "snippet": "Settlement-modern; AD 1800 - AD 2099",
+                "title": "OSM Location: modern Αρσένι"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.1092798,
+                    40.7236636
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-modern-ii-iiii-iiii1",
+            "properties": {
+                "description": "Location based on OpenStreetMap. Tentative identification via BAtldir",
+                "link": "https://pleiades.stoa.org/places/491723/osm-location-modern-ii-iiii-iiii1",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 1900 - AD 2099",
+                "title": "OSM Location: modern Λουτροχώρι"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.1012092,
+                    40.6909525
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-modern-ii-ii-i1-2i",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/491723/osm-location-modern-ii-ii-i1-2i",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Μαρίνα"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "fixed typo in summary",
+            "modified": "2024-04-24T20:12:33Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added Gofas 1999 reference",
+            "modified": "2024-04-24T18:31:43Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "DARMC 9537 = related",
+            "modified": "2024-04-24T18:02:31Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "cleaned up references; added ToposText reference; added CFL/AGO reference provided by cbouras; added Wikidata and Trismegistos references provided by bkiesling; summary; added associated modern names; added associated modern locations, which supersede currently published location",
+            "modified": "2024-04-24T18:00:09Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "reference",
             "modified": "2020-08-20T17:48:51Z",
@@ -111,109 +181,612 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
                 }
             ],
-            "created": "2011-03-09T20:19:23Z",
+            "contributors": [],
+            "created": "2024-04-24T17:19:46Z",
             "creators": [
                 {
-                    "name": "E.N. Borza",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 9537",
-            "end": 300,
+            "description": "Location based on OpenStreetMap. Identification via ToposText.",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    22.111219,
-                    40.707084
+                    22.1587466,
+                    40.7147663
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:36:26Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:03:02Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2024-04-24T18:01:49Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T20:19:24Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-24T17:53:39Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T20:19:24Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2024-04-24T17:21:01Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-24T17:19:48Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T20:19:23Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-24T17:19:46Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-9537",
+            "id": "osm-location-modern-iiiii1-2i1",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 9537",
+            "provenance": "OpenStreetMap (Node 305348843, version 11, osm:changeset=141230290, 2023-09-13T21:11:24Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/305348843",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "9537",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 305348843",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 9537.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=305348843",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://topostext.org/place/407221USky",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Skydra (Pella) 3 Arseni - Σκύδρα",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": 1800,
+            "title": "OSM Location: modern Αρσένι",
+            "uri": "https://pleiades.stoa.org/places/491723/osm-location-modern-iiiii1-2i1"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-04-24T17:21:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap. Tentative identification via BAtldir",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    22.1092798,
+                    40.7236636
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-24T18:01:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-24T17:53:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-24T17:23:03Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-24T17:21:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-24T17:21:50Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-modern-ii-iiii-iiii1",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 305348968, version 11, osm:changeset=141268760, 2023-09-14T17:30:09Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/305348968",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 305348968",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=305348968",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 766 see \"Skydra\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": 1900,
+            "title": "OSM Location: modern Λουτροχώρι",
+            "uri": "https://pleiades.stoa.org/places/491723/osm-location-modern-ii-iiii-iiii1"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-04-24T17:29:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    22.1012092,
+                    40.6909525
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-24T18:01:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-24T17:53:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-24T17:30:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-24T17:29:51Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-24T17:29:51Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-modern-ii-ii-i1-2i",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 303462935, version 12, osm:changeset=141268976, 2023-09-14T17:34:27Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/303462935",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 303462935",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=303462935",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://cefael.efa.gr/window.php?site_id=1&actionID=summary&serie_id=BCHSuppl&volume_number=16",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FVWQ2MGN",
+                    "citationDetail": "page 150",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Papazoglou, Fanoula. <i>Les villes de Macédoine à l’époque romaine</i>. Bulletin de correspondance hellénique, Supplément 16. Paris: Diffusion de Boccard, 1988. https://cefael.efa.gr/window.php?site_id=1&amp;actionID=summary&amp;serie_id=BCHSuppl&amp;volume_number=16.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Papazoglou 1988",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: modern Μαρίνα",
+            "uri": "https://pleiades.stoa.org/places/491723/osm-location-modern-ii-ii-i1-2i"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Μαρίνα",
+            "contributors": [],
+            "created": "2024-04-24T17:35:29Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-24T18:01:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-24T17:53:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-24T17:35:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-24T17:35:29Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "marina",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://cefael.efa.gr/window.php?site_id=1&actionID=summary&serie_id=BCHSuppl&volume_number=16",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FVWQ2MGN",
+                    "citationDetail": "pages 149-150",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Papazoglou, Fanoula. <i>Les villes de Macédoine à l’époque romaine</i>. Bulletin de correspondance hellénique, Supplément 16. Paris: Diffusion de Boccard, 1988. https://cefael.efa.gr/window.php?site_id=1&amp;actionID=summary&amp;serie_id=BCHSuppl&amp;volume_number=16.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Papazoglou 1988",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://www.openstreetmap.org/node/303462935",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Node: Μαρίνα (303462935)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 9537",
-            "uri": "https://pleiades.stoa.org/places/491723/darmc-location-9537"
-        }
-    ],
-    "names": [
+            "romanized": "Marina",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/491723/marina"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                }
+            ],
+            "attested": "Αρσένι",
+            "contributors": [],
+            "created": "2024-04-24T17:37:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-24T18:01:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-24T17:53:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-24T17:37:32Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-24T17:37:31Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "arseni",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://cefael.efa.gr/window.php?site_id=1&actionID=summary&serie_id=BCHSuppl&volume_number=16",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FVWQ2MGN",
+                    "citationDetail": "pages 149-150",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Papazoglou, Fanoula. <i>Les villes de Macédoine à l’époque romaine</i>. Bulletin de correspondance hellénique, Supplément 16. Paris: Diffusion de Boccard, 1988. https://cefael.efa.gr/window.php?site_id=1&amp;actionID=summary&amp;serie_id=BCHSuppl&amp;volume_number=16.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Papazoglou 1988",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://www.openstreetmap.org/node/305348843",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Node: Αρσένι (305348843)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Arseni",
+            "start": 1800,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/491723/arseni"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Λουτροχώρι",
+            "contributors": [],
+            "created": "2024-04-24T17:39:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-04-24T18:01:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-04-24T17:53:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-04-24T17:39:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-04-24T17:39:48Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "loutrokhoroi",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://cefael.efa.gr/window.php?site_id=1&actionID=summary&serie_id=BCHSuppl&volume_number=16",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FVWQ2MGN",
+                    "citationDetail": "pages 149-150",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Papazoglou, Fanoula. <i>Les villes de Macédoine à l’époque romaine</i>. Bulletin de correspondance hellénique, Supplément 16. Paris: Diffusion de Boccard, 1988. https://cefael.efa.gr/window.php?site_id=1&amp;actionID=summary&amp;serie_id=BCHSuppl&amp;volume_number=16.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Papazoglou 1988",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://www.openstreetmap.org/node/305348968",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Node: Loutrochori (305348968)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Loutrokhoroi, Loutrochoroi",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/491723/loutrokhoroi"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -295,22 +868,24 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 50 B3 Skydra",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "50 B3 Skydra",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 50 B3 Skydra",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
@@ -323,11 +898,77 @@
             "otherIdentifier": "",
             "shortTitle": "Papazoglou 1988",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/407221USky",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Skydra (Pella) 3 Arseni - Σκύδρα",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=27262",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponym 27262: Skydra, Vertekop",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q111472152",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Scydra (Q111472152)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/12108",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 12108: Skydra (Loutrochori)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "9537",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.archetai.gr/images/pdfs/efimeris/Publ_A.E._1999.pdf",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NXUNZTJ7",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Gofas, D., and M. Hatzopoulos. “Acte de Vente d’esclave de Skydra (Macédoine).” <i>Aρχαιoλoγική Εφημερίς</i> 138 (1999): 1–14. https://www.archetai.gr/images/pdfs/efimeris/Publ_A.E._1999.pdf.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Gofas 1999",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        22.111219,
-        40.707084
+        22.12307853333333,
+        40.70979413333333
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

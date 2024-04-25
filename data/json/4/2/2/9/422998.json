@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.293775,
-        41.750039,
-        12.293775,
-        41.750039
+        12.2934136,
+        41.749895,
+        12.2939661,
+        41.7501841
     ],
     "connections": [
         {
@@ -125,23 +125,70 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.293775,
-                    41.750039
+                    [
+                        12.293887,
+                        41.7501841
+                    ],
+                    [
+                        12.2934136,
+                        41.7500201
+                    ],
+                    [
+                        12.2934417,
+                        41.749981
+                    ],
+                    [
+                        12.2934283,
+                        41.749968
+                    ],
+                    [
+                        12.2934256,
+                        41.749947
+                    ],
+                    [
+                        12.2934364,
+                        41.749933
+                    ],
+                    [
+                        12.2934565,
+                        41.749929
+                    ],
+                    [
+                        12.2934753,
+                        41.749928
+                    ],
+                    [
+                        12.2935048,
+                        41.749895
+                    ],
+                    [
+                        12.2939661,
+                        41.7500591
+                    ],
+                    [
+                        12.293887,
+                        41.7501841
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-18077",
+            "id": "osm-location-of-basilica-di-pianabella",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/422998/darmc-location-18077",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/422998/osm-location-of-basilica-di-pianabella",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 18077"
+                "snippet": "Church, ; AD 300 - AD 640",
+                "title": "OSM location of Basilica di Pianabella"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location; place type = church, basilica",
+            "modified": "2024-04-24T12:49:51Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updates",
             "modified": "2021-06-03T18:15:26Z",
@@ -212,8 +259,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -225,93 +272,145 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:08:35Z",
+            "contributors": [],
+            "created": "2015-12-03T16:42:12Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 18077",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "church",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/church",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    12.293775,
-                    41.750039
+                    [
+                        12.293887,
+                        41.7501841
+                    ],
+                    [
+                        12.2934136,
+                        41.7500201
+                    ],
+                    [
+                        12.2934417,
+                        41.749981
+                    ],
+                    [
+                        12.2934283,
+                        41.749968
+                    ],
+                    [
+                        12.2934256,
+                        41.749947
+                    ],
+                    [
+                        12.2934364,
+                        41.749933
+                    ],
+                    [
+                        12.2934565,
+                        41.749929
+                    ],
+                    [
+                        12.2934753,
+                        41.749928
+                    ],
+                    [
+                        12.2935048,
+                        41.749895
+                    ],
+                    [
+                        12.2939661,
+                        41.7500591
+                    ],
+                    [
+                        12.293887,
+                        41.7501841
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:56:27Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2024-04-24T12:48:57Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-01-21T23:23:30Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-04-23T02:33:11Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T23:08:35Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2015-12-03T17:26:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2015-12-03T17:25:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2015-12-03T16:42:16Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T23:08:35Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2015-12-03T16:42:14Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18077",
+            "id": "osm-location-of-basilica-di-pianabella",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/church",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 18077",
+            "provenance": "OpenStreetMap (Way 384187529, version 1, osm:changeset=35730627, 2015-12-03T16:41:40Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/384187529",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18077",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 384187529",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18077.",
+                    "formattedCitation": "osm:way=384187529",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 18077",
-            "uri": "https://pleiades.stoa.org/places/422998/darmc-location-18077"
+            "title": "OSM location of Basilica di Pianabella",
+            "uri": "https://pleiades.stoa.org/places/422998/osm-location-of-basilica-di-pianabella"
         }
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/basilica",
         "https://pleiades.stoa.org/vocabularies/place-types/church"
     ],
     "placeTypes": [
+        "church-2",
+        "basilica",
         "church"
     ],
     "provenance": "Barrington Atlas: BAtlas 43 B2 Pianabella",
@@ -392,11 +491,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18077",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.293775,
-        41.750039
+        12.29368378837802,
+        41.75003676402477
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
