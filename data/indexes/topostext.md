@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3365 alignments exist in _Pleiades_ place references as of 2024-04-25. The following list of alignments is grouped by zotkey.
+3368 alignments exist in _Pleiades_ place references as of 2024-04-26. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1614,6 +1614,13 @@
  - [Anakaia?](https://pleiades.stoa.org/places/579864)
 
 
+## Anaktorion (Akarnania)
+[https://topostext.org/place/389208PAna](https://topostext.org/place/389208PAna)  
+
+### alignments:
+ - [Anactorium](https://pleiades.stoa.org/places/530798)
+
+
 ## Anaphe (Cyclades)
 [https://topostext.org/place/364258PAna](https://topostext.org/place/364258PAna)  
 
@@ -2803,6 +2810,13 @@
 
 ### alignments:
  - [Argos](https://pleiades.stoa.org/places/599516)
+
+
+## Argos Amphilochikon (Aitolia)
+[https://topostext.org/place/389212PArg](https://topostext.org/place/389212PArg)  
+
+### alignments:
+ - [Argos Amphilochikon?](https://pleiades.stoa.org/places/530809)
 
 
 ## Argos Hippion/Argyripa (Apulia)
@@ -9244,6 +9258,13 @@
 
 ### alignments:
  - [Himera](https://pleiades.stoa.org/places/462244)
+
+
+## Himyarites tribe (Arabia)
+[https://topostext.org/place/130450RHim](https://topostext.org/place/130450RHim)  
+
+### alignments:
+ - [Homeritai](https://pleiades.stoa.org/places/39350)
 
 
 ## Hippana (Sicily)

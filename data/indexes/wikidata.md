@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3372 alignments exist in _Pleiades_ place references as of 2024-04-25. The following list of alignments is grouped by zotkey.
+3374 alignments exist in _Pleiades_ place references as of 2024-04-26. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -294,6 +294,13 @@
 
 ### alignments:
  - [Amphilochia](https://pleiades.stoa.org/places/530797)
+
+
+## Amphilochian Argos (Q4748292)
+[https://www.wikidata.org/wiki/Q4748292](https://www.wikidata.org/wiki/Q4748292)  
+
+### alignments:
+ - [Argos Amphilochikon?](https://pleiades.stoa.org/places/530809)
 
 
 ## Amphitheater of Vindonissa (Q475005)
@@ -722,6 +729,13 @@
 
 ### alignments:
  - [Azania](https://pleiades.stoa.org/places/570143)
+
+
+## Azorus (Q11853744)
+[https://www.wikidata.org/wiki/Q11853744](https://www.wikidata.org/wiki/Q11853744)  
+
+### alignments:
+ - [Azoros](https://pleiades.stoa.org/places/540687)
 
 
 ## Baebiana (Q21074142)

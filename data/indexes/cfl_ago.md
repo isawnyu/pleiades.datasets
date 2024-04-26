@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-307 alignments exist in _Pleiades_ place references as of 2024-04-25. The following list of alignments is grouped by zotkey.
+308 alignments exist in _Pleiades_ place references as of 2024-04-26. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -604,6 +604,13 @@
  - [Kassope](https://pleiades.stoa.org/places/530922)
 
 
+## Toponym 32698: Azoros, Vouvala
+[https://chronique.efa.gr/?kroute=topo_public&id=32698](https://chronique.efa.gr/?kroute=topo_public&id=32698)  
+
+### alignments:
+ - [Azoros](https://pleiades.stoa.org/places/540687)
+
+
 ## Toponym 32825: Pythion, Selos
 [https://chronique.efa.gr/?kroute=topo_public&id=32825](https://chronique.efa.gr/?kroute=topo_public&id=32825)  
 
@@ -1051,13 +1058,6 @@
 
 ### alignments:
  - [Krane](https://pleiades.stoa.org/places/530962)
-
-
-## Toponyme - 37047: Lébadée, Levadeia, Livadeia, Levadia
-[https://chronique.efa.gr/?kroute=topo_public&id=37047](https://chronique.efa.gr/?kroute=topo_public&id=37047)  
-
-### alignments:
- - [Lebadeia](https://pleiades.stoa.org/places/540907)
 
 
 ## Toponyme - 70018: Argilos, ville antique, ancient city
@@ -1543,6 +1543,13 @@
 
 ### alignments:
  - [Plataea](https://pleiades.stoa.org/places/541063)
+
+
+## Toponyme 37047: Lébadée, Levadeia, Livadeia, Levadia
+[https://chronique.efa.gr/?kroute=topo_public&id=37047](https://chronique.efa.gr/?kroute=topo_public&id=37047)  
+
+### alignments:
+ - [Lebadeia](https://pleiades.stoa.org/places/540907)
 
 
 ## Toponyme 37226: Karystos

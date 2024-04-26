@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3298 alignments exist in _Pleiades_ place references as of 2024-04-25. The following list of alignments is grouped by zotkey.
+3305 alignments exist in _Pleiades_ place references as of 2024-04-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2652,6 +2652,13 @@
  - [Saba](https://pleiades.stoa.org/places/39417)
 
 
+## GEO ID 11950: Homeritai
+[www.trismegistos.org/place/11950](www.trismegistos.org/place/11950)  
+
+### alignments:
+ - [Homeritai](https://pleiades.stoa.org/places/39350)
+
+
 ## GEO ID 11991: Axios (Vardar)
 [https://www.trismegistos.org/place/11991](https://www.trismegistos.org/place/11991)  
 
@@ -4689,6 +4696,13 @@
  - [‘Vernemeto’](https://pleiades.stoa.org/places/79737)
 
 
+## GEO ID 1463: Nikiou (Zawyet Razin)
+[http://www.trismegistos.org/place/1463](http://www.trismegistos.org/place/1463)  
+
+### alignments:
+ - [Nikiou](https://pleiades.stoa.org/places/727174)
+
+
 ## GEO ID 14640
 [http://www.trismegistos.org/place/14640](http://www.trismegistos.org/place/14640)  
 
@@ -6487,6 +6501,13 @@
 
 ### alignments:
  - [Thacia](https://pleiades.stoa.org/places/315195)
+
+
+## GEO ID 1760: Philadelpheia (Gharabet el-Gerza)
+[http://www.trismegistos.org/place/1760](http://www.trismegistos.org/place/1760)  
+
+### alignments:
+ - [Philadelpheia](https://pleiades.stoa.org/places/737008)
 
 
 ## GEO ID 1762: Philadelpheia (Alaşehir)
@@ -8384,6 +8405,13 @@
 
 ### alignments:
  - [Anderitum](https://pleiades.stoa.org/places/167645)
+
+
+## GEO ID 2309: Tenis - Hakoris (Tehna)
+[https://www.trismegistos.org/place/2309](https://www.trismegistos.org/place/2309)  
+
+### alignments:
+ - [Tenis he kai Hakoreos](https://pleiades.stoa.org/places/737077)
 
 
 ## GEO ID 23121: Anicium (Le Puy-en-Velay)
@@ -10772,6 +10800,13 @@
 
 ### alignments:
  - [Velzna/*Volsinii Veteres/Urbiventus](https://pleiades.stoa.org/places/413373)
+
+
+## GEO ID 3095: Lepidoton Polis (Nag’ el-Mashayikh)
+[http://www.trismegistos.org/place/3095](http://www.trismegistos.org/place/3095)  
+
+### alignments:
+ - [Lepidoton Polis](https://pleiades.stoa.org/places/756591)
 
 
 ## GEO ID 31016
@@ -14177,7 +14212,14 @@
  - [Alyz(e)ia](https://pleiades.stoa.org/places/530793)
 
 
-## GEO ID 37624
+## GEO ID 37623: Argos Amphilochikon
+[http://www.trismegistos.org/place/37623](http://www.trismegistos.org/place/37623)  
+
+### alignments:
+ - [Argos Amphilochikon?](https://pleiades.stoa.org/places/530809)
+
+
+## GEO ID 37624: Anaktorion
 [https://www.trismegistos.org/place/37624](https://www.trismegistos.org/place/37624)  
 
 ### alignments:
@@ -14560,6 +14602,13 @@
 
 ### alignments:
  - [Samikon/Samia](https://pleiades.stoa.org/places/570653)
+
+
+## GEO ID 38178: Polis (Glypha)
+[https://www.trismegistos.org/place/38178](https://www.trismegistos.org/place/38178)  
+
+### alignments:
+ - [Polis](https://pleiades.stoa.org/places/541065)
 
 
 ## GEO ID 38179: Myania (Hagia Thymia)
