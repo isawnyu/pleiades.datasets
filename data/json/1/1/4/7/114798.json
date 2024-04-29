@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        1.8348266,
+        50.6678737,
+        1.8348266,
+        50.6678737
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -42,14 +47,20 @@
     "details": "The Barrington Atlas Directory notes: Desvres?",
     "features": [
         {
-            "geometry": null,
-            "id": "undetermined",
+            "geometry": {
+                "coordinates": [
+                    1.8348266,
+                    50.6678737
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-desvres",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/114798/undetermined",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Undetermined location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/114798/osm-location-of-desvres",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Desvres"
             },
             "type": "Feature"
         }
@@ -100,96 +111,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-11-02T15:46:28Z",
+            "contributors": [],
+            "created": "2024-04-26T04:19:39Z",
             "creators": [
                 {
-                    "name": "C. Haselgrove",
-                    "username": null
-                },
-                {
-                    "name": "J. Kunow",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    1.8348266,
+                    50.6678737
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:15:11Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:49:11Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-05-19T21:30:34Z",
+                    "modified": "2024-04-26T21:55:13Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2009-11-02T16:55:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-26T04:20:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-04-26T04:19:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-04-26T04:19:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2009-11-02T15:46:29Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-04-26T04:19:39Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location-of-desvres",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 11 Taberna",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 26694851, version 13, osm:changeset=77559689, 2019-11-26T08:53:03Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/26694851",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26694851",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=26694851",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": 300,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/114798/undetermined"
+            "start": 2000,
+            "title": "OSM location of Desvres",
+            "uri": "https://pleiades.stoa.org/places/114798/osm-location-of-desvres"
         }
     ],
     "names": [
@@ -309,7 +321,10 @@
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        1.8348266,
+        50.6678737
+    ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
