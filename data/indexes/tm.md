@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3305 alignments exist in _Pleiades_ place references as of 2024-04-26. The following list of alignments is grouped by zotkey.
+3308 alignments exist in _Pleiades_ place references as of 2024-04-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7364,6 +7364,13 @@
  - [Cemenelum](https://pleiades.stoa.org/places/157834)
 
 
+## GEO ID 19943: Rotomagus (Rouen)
+[http://www.trismegistos.org/place/19943](http://www.trismegistos.org/place/19943)  
+
+### alignments:
+ - [Rotomagus](https://pleiades.stoa.org/places/109287)
+
+
 ## GEO ID 19955: Terdec
 [https://www.trismegistos.org/place/19955](https://www.trismegistos.org/place/19955)  
 
@@ -13225,6 +13232,13 @@
  - [Akanthos](https://pleiades.stoa.org/places/501339)
 
 
+## GEO ID 33899: Stolos (Kellion)
+[https://www.trismegistos.org/place/33899](https://www.trismegistos.org/place/33899)  
+
+### alignments:
+ - [Stolos](https://pleiades.stoa.org/places/501627)
+
+
 ## GEO ID 33909: Mekyberna
 [https://www.trismegistos.org/place/33909](https://www.trismegistos.org/place/33909)  
 
@@ -14216,7 +14230,7 @@
 [http://www.trismegistos.org/place/37623](http://www.trismegistos.org/place/37623)  
 
 ### alignments:
- - [Argos Amphilochikon?](https://pleiades.stoa.org/places/530809)
+ - [Argos Amphilochikon](https://pleiades.stoa.org/places/530809)
 
 
 ## GEO ID 37624: Anaktorion
@@ -21200,6 +21214,13 @@
 
 ### alignments:
  - [al-Muwalih/Modiana?](https://pleiades.stoa.org/places/814710)
+
+
+## GEO ID 55347: Phoitiai
+[https://www.trismegistos.org/place/55347](https://www.trismegistos.org/place/55347)  
+
+### alignments:
+ - [Phoitiai](https://pleiades.stoa.org/places/531063)
 
 
 ## GEO ID 5539: Magadas Nesos (Megauda)

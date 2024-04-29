@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-421 alignments exist in _Pleiades_ place references as of 2024-04-26. The following list of alignments is grouped by zotkey.
+421 alignments exist in _Pleiades_ place references as of 2024-04-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2400,7 +2400,7 @@
 [https://resource.manto.unh.edu/9613865](https://resource.manto.unh.edu/9613865)  
 
 ### alignments:
- - [Argos Amphilochikon?](https://pleiades.stoa.org/places/530809)
+ - [Argos Amphilochikon](https://pleiades.stoa.org/places/530809)
 
 
 ## 9613867: Acarnania (region in central Greece)

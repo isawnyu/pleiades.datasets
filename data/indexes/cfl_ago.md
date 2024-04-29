@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-308 alignments exist in _Pleiades_ place references as of 2024-04-26. The following list of alignments is grouped by zotkey.
+310 alignments exist in _Pleiades_ place references as of 2024-04-29. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1327,6 +1327,13 @@
  - [Kleitor](https://pleiades.stoa.org/places/570359)
 
 
+## Toponyme 24312: Loutron
+[https://chronique.efa.gr/?kroute=topo_public&id=24312](https://chronique.efa.gr/?kroute=topo_public&id=24312)  
+
+### alignments:
+ - [Argos Amphilochikon](https://pleiades.stoa.org/places/530809)
+
+
 ## Toponyme 24502: Marathon, Marathonas
 [https://chronique.efa.gr/?kroute=topo_public&id=24502](https://chronique.efa.gr/?kroute=topo_public&id=24502)  
 
@@ -1971,6 +1978,13 @@
 
 ### alignments:
  - [Heraion](https://pleiades.stoa.org/places/599641)
+
+
+## Toponyme 68101: Amfilochiko Argos
+[https://chronique.efa.gr/?kroute=topo_public&id=68101](https://chronique.efa.gr/?kroute=topo_public&id=68101)  
+
+### alignments:
+ - [Argos Amphilochikon](https://pleiades.stoa.org/places/530809)
 
 
 ## Toponyme 69979: Dikili Tash

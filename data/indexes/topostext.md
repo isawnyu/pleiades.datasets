@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3368 alignments exist in _Pleiades_ place references as of 2024-04-26. The following list of alignments is grouped by zotkey.
+3369 alignments exist in _Pleiades_ place references as of 2024-04-29. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2816,7 +2816,7 @@
 [https://topostext.org/place/389212PArg](https://topostext.org/place/389212PArg)  
 
 ### alignments:
- - [Argos Amphilochikon?](https://pleiades.stoa.org/places/530809)
+ - [Argos Amphilochikon](https://pleiades.stoa.org/places/530809)
 
 
 ## Argos Hippion/Argyripa (Apulia)
@@ -19332,6 +19332,13 @@
 
 ### alignments:
  - [Temple of Roma and Augustus (Athens)](https://pleiades.stoa.org/places/226121402)
+
+
+## Rotomagus (Gallia)
+[https://topostext.org/place/494011URot](https://topostext.org/place/494011URot)  
+
+### alignments:
+ - [Rotomagus](https://pleiades.stoa.org/places/109287)
 
 
 ## Royal Stoa (Athens Agora)

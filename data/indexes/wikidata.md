@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3374 alignments exist in _Pleiades_ place references as of 2024-04-26. The following list of alignments is grouped by zotkey.
+3375 alignments exist in _Pleiades_ place references as of 2024-04-29. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -300,7 +300,7 @@
 [https://www.wikidata.org/wiki/Q4748292](https://www.wikidata.org/wiki/Q4748292)  
 
 ### alignments:
- - [Argos Amphilochikon?](https://pleiades.stoa.org/places/530809)
+ - [Argos Amphilochikon](https://pleiades.stoa.org/places/530809)
 
 
 ## Amphitheater of Vindonissa (Q475005)
@@ -3725,6 +3725,13 @@
 
 ### alignments:
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
+
+
+## Propylaea of Athens (Q3407649)
+[https://www.wikidata.org/wiki/Q3407649](https://www.wikidata.org/wiki/Q3407649)  
+
+### alignments:
+ - [Propylaea at Athens](https://pleiades.stoa.org/places/648120846)
 
 
 ## Pserimos (Q644254)
@@ -14062,13 +14069,6 @@
  - [Achilleion](https://pleiades.stoa.org/places/550401)
 
 
-## Q3407649; Propylaea of Athens
-[https://www.wikidata.org/wiki/Q3407649](https://www.wikidata.org/wiki/Q3407649)  
-
-### alignments:
- - [Propylaea at Athens](https://pleiades.stoa.org/places/648120846)
-
-
 ## Q34083
 [https://www.wikidata.org/wiki/Q34083](https://www.wikidata.org/wiki/Q34083)  
 
@@ -22402,6 +22402,13 @@
 
 ### alignments:
  - [Roman theater of Scythopolis](https://pleiades.stoa.org/places/719634078)
+
+
+## Rotomagus (Q3442995)
+[https://www.wikidata.org/wiki/Q3442995](https://www.wikidata.org/wiki/Q3442995)  
+
+### alignments:
+ - [Rotomagus](https://pleiades.stoa.org/places/109287)
 
 
 ## Royal Hypogeum of Qatna (Q113540761)
