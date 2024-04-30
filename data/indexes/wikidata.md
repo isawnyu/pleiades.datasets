@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3375 alignments exist in _Pleiades_ place references as of 2024-04-29. The following list of alignments is grouped by zotkey.
+3380 alignments exist in _Pleiades_ place references as of 2024-04-30. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -631,6 +631,13 @@
 
 ### alignments:
  - [Asopos](https://pleiades.stoa.org/places/570129)
+
+
+## Assa (Chalcidice) (Q17621725)
+[https://www.wikidata.org/wiki/Q17621725](https://www.wikidata.org/wiki/Q17621725)  
+
+### alignments:
+ - [Ass(er)a?](https://pleiades.stoa.org/places/501363)
 
 
 ## Astacus in Bithynia (Q4810504)
@@ -3020,6 +3027,13 @@
  - [Myriand(r)os](https://pleiades.stoa.org/places/658541)
 
 
+## Myrkinos (Q6948303)
+[https://www.wikidata.org/wiki/Q6948303](https://www.wikidata.org/wiki/Q6948303)  
+
+### alignments:
+ - [Myrkinos](https://pleiades.stoa.org/places/501520)
+
+
 ## Myrmekion (Q2360763)
 [https://www.wikidata.org/wiki/Q2360763](https://www.wikidata.org/wiki/Q2360763)  
 
@@ -3181,6 +3195,13 @@
  - [Odeion of Agrippa](https://pleiades.stoa.org/places/832198698)
 
 
+## Odeon of Pericles (Q2704249)
+[https://www.wikidata.org/wiki/Q2704249](https://www.wikidata.org/wiki/Q2704249)  
+
+### alignments:
+ - [Odeion of Perikles](https://pleiades.stoa.org/places/44151680)
+
+
 ## Odigitria tholos cemetery (Q16957058)
 [https://www.wikidata.org/wiki/Q16957058](https://www.wikidata.org/wiki/Q16957058)  
 
@@ -3193,6 +3214,13 @@
 
 ### alignments:
  - [Old Kandahar citadel](https://pleiades.stoa.org/places/630721027)
+
+
+## Olophyxus (Q17623889)
+[https://www.wikidata.org/wiki/Q17623889](https://www.wikidata.org/wiki/Q17623889)  
+
+### alignments:
+ - [Olophyxos](https://pleiades.stoa.org/places/501535)
 
 
 ## Onchestus (Q3063303)
@@ -23271,6 +23299,13 @@
 
 ### alignments:
  - [Starosel Monumental Tomb](https://pleiades.stoa.org/places/655392792)
+
+
+## Thyssus (Q17631597)
+[https://www.wikidata.org/wiki/Q17631597](https://www.wikidata.org/wiki/Q17631597)  
+
+### alignments:
+ - [Thyssos](https://pleiades.stoa.org/places/501643)
 
 
 ## Ticino (Q14366)

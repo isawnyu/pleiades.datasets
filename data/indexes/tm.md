@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3308 alignments exist in _Pleiades_ place references as of 2024-04-29. The following list of alignments is grouped by zotkey.
+3311 alignments exist in _Pleiades_ place references as of 2024-04-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2692,6 +2692,13 @@
 
 ### alignments:
  - [Apollonia](https://pleiades.stoa.org/places/491526)
+
+
+## GEO ID 12051: Assa (Plana)
+[https://www.trismegistos.org/place/12051](https://www.trismegistos.org/place/12051)  
+
+### alignments:
+ - [Ass(er)a?](https://pleiades.stoa.org/places/501363)
 
 
 ## GEO ID 12052: Itonion (Zerelia)
@@ -13204,6 +13211,13 @@
  - [Herculaneum](https://pleiades.stoa.org/places/432873)
 
 
+## GEO ID 33684: Myrkinos
+[https://www.trismegistos.org/place/33684](https://www.trismegistos.org/place/33684)  
+
+### alignments:
+ - [Myrkinos](https://pleiades.stoa.org/places/501520)
+
+
 ## GEO ID 33690: Audaristos
 [https://www.trismegistos.org/place/33690](https://www.trismegistos.org/place/33690)  
 
@@ -21425,6 +21439,13 @@
 
 ### alignments:
  - [Damastion](https://pleiades.stoa.org/places/483974)
+
+
+## GEO ID 58913: Olophyxos
+[https://www.trismegistos.org/place/58913](https://www.trismegistos.org/place/58913)  
+
+### alignments:
+ - [Olophyxos](https://pleiades.stoa.org/places/501535)
 
 
 ## GEO ID 58925: Rhizous (Tarsanas)
