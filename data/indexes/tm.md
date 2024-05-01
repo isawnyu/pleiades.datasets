@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3311 alignments exist in _Pleiades_ place references as of 2024-04-30. The following list of alignments is grouped by zotkey.
+3311 alignments exist in _Pleiades_ place references as of 2024-05-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  

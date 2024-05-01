@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3369 alignments exist in _Pleiades_ place references as of 2024-04-30. The following list of alignments is grouped by zotkey.
+3370 alignments exist in _Pleiades_ place references as of 2024-05-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -15684,6 +15684,13 @@
 
 ### alignments:
  - [Ophryneion](https://pleiades.stoa.org/places/550787)
+
+
+## Opisthodomos (Athens Acropolis) 6 Parthenon - Οπισθόδομος
+[https://topostext.org/place/380237BOpi](https://topostext.org/place/380237BOpi)  
+
+### alignments:
+ - [Opisthodomos](https://pleiades.stoa.org/places/418714189)
 
 
 ## Opitergium (Italy)

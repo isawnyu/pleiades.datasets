@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3380 alignments exist in _Pleiades_ place references as of 2024-04-30. The following list of alignments is grouped by zotkey.
+3382 alignments exist in _Pleiades_ place references as of 2024-05-01. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1548,6 +1548,20 @@
 
 ### alignments:
  - [East Building](https://pleiades.stoa.org/places/337294882)
+
+
+## Edoni (Q987699)
+[https://www.wikidata.org/wiki/Q987699](https://www.wikidata.org/wiki/Q987699)  
+
+### alignments:
+ - [Edones](https://pleiades.stoa.org/places/501409)
+
+
+## Edonis (Q3719711)
+[https://www.wikidata.org/wiki/Q3719711](https://www.wikidata.org/wiki/Q3719711)  
+
+### alignments:
+ - [Edones](https://pleiades.stoa.org/places/501409)
 
 
 ## Eetioneia (Q56397345)
