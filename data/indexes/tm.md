@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3311 alignments exist in _Pleiades_ place references as of 2024-05-01. The following list of alignments is grouped by zotkey.
+3320 alignments exist in _Pleiades_ place references as of 2024-05-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2869,6 +2869,13 @@
  - [Neapolis](https://pleiades.stoa.org/places/197403)
 
 
+## GEO ID 1223: Laodikeia (Latakia)
+[http://www.trismegistos.org/place/1223](http://www.trismegistos.org/place/1223)  
+
+### alignments:
+ - [Laodicea](https://pleiades.stoa.org/places/668290)
+
+
 ## GEO ID 12244: Acelum (Asolo)
 [http://www.trismegistos.org/place/12244](http://www.trismegistos.org/place/12244)  
 
@@ -3399,6 +3406,13 @@
 
 ### alignments:
  - [Taurus (mountain range)](https://pleiades.stoa.org/places/648792)
+
+
+## GEO ID 1400: Mylasa (Milas)
+[http://www.trismegistos.org/place/1400](http://www.trismegistos.org/place/1400)  
+
+### alignments:
+ - [Mylasa](https://pleiades.stoa.org/places/599809)
 
 
 ## GEO ID 14026: Orchoe
@@ -4954,6 +4968,13 @@
 
 ### alignments:
  - [Irchester](https://pleiades.stoa.org/places/79530)
+
+
+## GEO ID 1508: Polemonos Meridos Oreine Dioryx (Bahr Gharaq)
+[https://www.trismegistos.org/place/1508](https://www.trismegistos.org/place/1508)  
+
+### alignments:
+ - [Polemonos (Diorux)](https://pleiades.stoa.org/places/737016)
 
 
 ## GEO ID 15117: Henley Wood
@@ -7838,6 +7859,13 @@
 
 ### alignments:
  - [Glanum](https://pleiades.stoa.org/places/148093)
+
+
+## GEO ID 2141: Sinope (Sinop)
+[https://www.trismegistos.org/place/2141](https://www.trismegistos.org/place/2141)  
+
+### alignments:
+ - [Sinope](https://pleiades.stoa.org/places/857321)
 
 
 ## GEO ID 2143: Siphnos
@@ -13092,6 +13120,13 @@
  - [Eurymenai](https://pleiades.stoa.org/places/540784)
 
 
+## GEO ID 3350
+[http://www.trismegistos.org/place/3350](http://www.trismegistos.org/place/3350)  
+
+### alignments:
+ - [Placentia](https://pleiades.stoa.org/places/383741)
+
+
 ## GEO ID 33510: Iolkos (Bolos Kastro)
 [https://www.trismegistos.org/place/33510](https://www.trismegistos.org/place/33510)  
 
@@ -13167,6 +13202,13 @@
 
 ### alignments:
  - [Pitane](https://pleiades.stoa.org/places/550833)
+
+
+## GEO ID 33627: Abonou Teichos (Inebolu)
+[http://www.trismegistos.org/place/33627](http://www.trismegistos.org/place/33627)  
+
+### alignments:
+ - [Abonouteichos/Ionopolis](https://pleiades.stoa.org/places/844847)
 
 
 ## GEO ID 33632: Phazimon
@@ -16439,6 +16481,20 @@
  - [Hieron (Chalkedonion)/Zeus Ourios, T.](https://pleiades.stoa.org/places/521035)
 
 
+## GEO ID 41389: Polemonion
+[https://www.trismegistos.org/place/41389](https://www.trismegistos.org/place/41389)  
+
+### alignments:
+ - [Polemonion/Side](https://pleiades.stoa.org/places/857285)
+
+
+## GEO ID 41395: Bartae (Aşağı)
+[https://www.trismegistos.org/place/41395](https://www.trismegistos.org/place/41395)  
+
+### alignments:
+ - [Bartae](https://pleiades.stoa.org/places/857057)
+
+
 ## GEO ID 41405: Kongoustos (Altınekin)
 [http://www.trismegistos.org/place/41405](http://www.trismegistos.org/place/41405)  
 
@@ -17522,6 +17578,13 @@
 
 ### alignments:
  - [Phoenicium Mare](https://pleiades.stoa.org/places/668339)
+
+
+## GEO ID 42051: Bachaias
+[https://www.trismegistos.org/place/42051](https://www.trismegistos.org/place/42051)  
+
+### alignments:
+ - [Bachaias](https://pleiades.stoa.org/places/674223)
 
 
 ## GEO ID 42054: Adamana

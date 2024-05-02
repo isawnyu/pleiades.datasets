@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3382 alignments exist in _Pleiades_ place references as of 2024-05-01. The following list of alignments is grouped by zotkey.
+3383 alignments exist in _Pleiades_ place references as of 2024-05-02. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -23103,6 +23103,13 @@
 
 ### alignments:
  - [Temple of Athena at Sounion](https://pleiades.stoa.org/places/925825062)
+
+
+## Temple of Athena Lindia (Q29963051)
+[https://www.wikidata.org/wiki/Q29963051](https://www.wikidata.org/wiki/Q29963051)  
+
+### alignments:
+ - [Temple of Athena Lindia](https://pleiades.stoa.org/places/414067217)
 
 
 ## Temple of Claudius in Colchester (Q764886)

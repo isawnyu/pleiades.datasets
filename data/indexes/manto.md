@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-421 alignments exist in _Pleiades_ place references as of 2024-05-01. The following list of alignments is grouped by zotkey.
+425 alignments exist in _Pleiades_ place references as of 2024-05-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -582,6 +582,13 @@
  - [Susa/Seleucia ad Eulaeum](https://pleiades.stoa.org/places/912936)
 
 
+## 10150361: Laodiceia (the Levant)
+[https://resource.manto.unh.edu/10150361](https://resource.manto.unh.edu/10150361)  
+
+### alignments:
+ - [Laodicea](https://pleiades.stoa.org/places/668290)
+
+
 ## 10150527: Cichyros
 [https://resource.manto.unh.edu/10150527](https://resource.manto.unh.edu/10150527)  
 
@@ -967,6 +974,13 @@
  - [Latmos (mountain)](https://pleiades.stoa.org/places/599753)
 
 
+## 10215000: Heracleia (Caria)
+[https://resource.manto.unh.edu/10215000](https://resource.manto.unh.edu/10215000)  
+
+### alignments:
+ - [Heraclea ad Latmum/Pleistarcheia](https://pleiades.stoa.org/places/599640)
+
+
 ## 10215382: River Lymax (Arcadia) river in Arcadia
 [https://resource.manto.unh.edu/10215382](https://resource.manto.unh.edu/10215382)  
 
@@ -1189,6 +1203,13 @@
 
 ### alignments:
  - [Sanctuary of Zeus Lykaios](https://pleiades.stoa.org/places/570764)
+
+
+## 10474097: Mylasa (Caria)
+[https://resource.manto.unh.edu/10474097](https://resource.manto.unh.edu/10474097)  
+
+### alignments:
+ - [Mylasa](https://pleiades.stoa.org/places/599809)
 
 
 ## 10764695: Hagnous (Attica)
@@ -2338,6 +2359,13 @@
 
 ### alignments:
  - [Thasos (settlement)](https://pleiades.stoa.org/places/501634)
+
+
+## 9612865: Miletos (Asia Minor)
+[https://resource.manto.unh.edu/9612865](https://resource.manto.unh.edu/9612865)  
+
+### alignments:
+ - [Miletus](https://pleiades.stoa.org/places/599799)
 
 
 ## 9612913: Mount Atabyrion (Rhodes)
