@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3383 alignments exist in _Pleiades_ place references as of 2024-05-02. The following list of alignments is grouped by zotkey.
+3384 alignments exist in _Pleiades_ place references as of 2024-05-03. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3235,6 +3235,13 @@
 
 ### alignments:
  - [Olophyxos](https://pleiades.stoa.org/places/501535)
+
+
+## Olynthus (Q1141669)
+[https://www.wikidata.org/wiki/Q1141669](https://www.wikidata.org/wiki/Q1141669)  
+
+### alignments:
+ - [Olynthos](https://pleiades.stoa.org/places/491678)
 
 
 ## Onchestus (Q3063303)

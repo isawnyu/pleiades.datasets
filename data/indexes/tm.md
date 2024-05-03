@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3320 alignments exist in _Pleiades_ place references as of 2024-05-02. The following list of alignments is grouped by zotkey.
+3321 alignments exist in _Pleiades_ place references as of 2024-05-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2720,6 +2720,13 @@
 
 ### alignments:
  - [Oldenoi](https://pleiades.stoa.org/places/501534)
+
+
+## GEO ID 12097: Potidaia (Kassandra)
+[https://www.trismegistos.org/place/12097](https://www.trismegistos.org/place/12097)  
+
+### alignments:
+ - [Poteidaia/Kassandreia](https://pleiades.stoa.org/places/491701)
 
 
 ## GEO ID 12110: Hypata
