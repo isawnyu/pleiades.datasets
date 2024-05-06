@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3384 alignments exist in _Pleiades_ place references as of 2024-05-03. The following list of alignments is grouped by zotkey.
+3391 alignments exist in _Pleiades_ place references as of 2024-05-06. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -682,6 +682,13 @@
  - [Bronze Athena/Athena Promachos](https://pleiades.stoa.org/places/805065997)
 
 
+## Athenaeum (Q755454)
+[https://www.wikidata.org/wiki/Q755454](https://www.wikidata.org/wiki/Q755454)  
+
+### alignments:
+ - [The Athenaeum of Hadrian (Rome)](https://pleiades.stoa.org/places/914715153)
+
+
 ## Athens Klepsydra well (Q12879136)
 [https://www.wikidata.org/wiki/Q12879136](https://www.wikidata.org/wiki/Q12879136)  
 
@@ -1114,6 +1121,13 @@
 
 ### alignments:
  - [Otzenhausen Hillfort](https://pleiades.stoa.org/places/109042)
+
+
+## Ceramus (Q1054607)
+[https://www.wikidata.org/wiki/Q1054607](https://www.wikidata.org/wiki/Q1054607)  
+
+### alignments:
+ - [Keramos](https://pleiades.stoa.org/places/599707)
 
 
 ## Cerro de San Esteban (archaeological site) (Q104811691)
@@ -1823,6 +1837,13 @@
  - [Genesion/Apobathmoi](https://pleiades.stoa.org/places/570257)
 
 
+## Gentinos (Q21515193)
+[https://www.wikidata.org/wiki/Q21515193](https://www.wikidata.org/wiki/Q21515193)  
+
+### alignments:
+ - [Gentinos?](https://pleiades.stoa.org/places/550546)
+
+
 ## GEO ID Q35958: Bosporus
 [https://www.wikidata.org/wiki/Q35958](https://www.wikidata.org/wiki/Q35958)  
 
@@ -2117,6 +2138,13 @@
  - [Hyllarima](https://pleiades.stoa.org/places/599659)
 
 
+## Hyperdexion (Q65121321)
+[https://www.wikidata.org/wiki/Q65121321](https://www.wikidata.org/wiki/Q65121321)  
+
+### alignments:
+ - [Hyperdexion](https://pleiades.stoa.org/places/554238)
+
+
 ## Hyperteleaton (Q60792068)
 [https://www.wikidata.org/wiki/Q60792068](https://www.wikidata.org/wiki/Q60792068)  
 
@@ -2290,6 +2318,13 @@
 
 ### alignments:
  - [Kastri Livadiou ancient settlement](https://pleiades.stoa.org/places/897490752)
+
+
+## Katakekaumene (Q28135909)
+[https://www.wikidata.org/wiki/Q28135909](https://www.wikidata.org/wiki/Q28135909)  
+
+### alignments:
+ - [Katakekaumene](https://pleiades.stoa.org/places/609427)
 
 
 ## Kavousi Vronda (Q23586062)
@@ -2857,6 +2892,13 @@
 
 ### alignments:
  - [Menios (river)](https://pleiades.stoa.org/places/573369)
+
+
+## Mersa Matruh (Q393829)
+[https://www.wikidata.org/wiki/Q393829](https://www.wikidata.org/wiki/Q393829)  
+
+### alignments:
+ - [Paraetonium/Ammonia](https://pleiades.stoa.org/places/716615)
 
 
 ## Mesima river (Q603862)
@@ -3461,6 +3503,13 @@
  - [Pinna](https://pleiades.stoa.org/places/413255)
 
 
+## Percote (Q3558595)
+[https://www.wikidata.org/wiki/Q3558595](https://www.wikidata.org/wiki/Q3558595)  
+
+### alignments:
+ - [Perkote](https://pleiades.stoa.org/places/501556)
+
+
 ## Pereia (Q60790570)
 [https://www.wikidata.org/wiki/Q60790570](https://www.wikidata.org/wiki/Q60790570)  
 
@@ -3606,6 +3655,13 @@
 
 ### alignments:
  - [Pindus (mountain range)](https://pleiades.stoa.org/places/541062)
+
+
+## Pistyros (Q1356251)
+[https://www.wikidata.org/wiki/Q1356251](https://www.wikidata.org/wiki/Q1356251)  
+
+### alignments:
+ - [Pistyros?](https://pleiades.stoa.org/places/501569)
 
 
 ## Pitane (Q752699)
@@ -3795,6 +3851,13 @@
 
 ### alignments:
  - [Pteleon](https://pleiades.stoa.org/places/541077)
+
+
+## Ptolemaic Kingdom (Q2320005)
+[https://www.wikidata.org/wiki/Q2320005](https://www.wikidata.org/wiki/Q2320005)  
+
+### alignments:
+ - [Ptolemaic Kingdom](https://pleiades.stoa.org/places/463803480)
 
 
 ## Puente Mocho (Q6091223)
@@ -11582,13 +11645,6 @@
  - [Portonaccio sanctuary at Veii](https://pleiades.stoa.org/places/486020305)
 
 
-## Q2320005
-[https://www.wikidata.org/wiki/Q2320005](https://www.wikidata.org/wiki/Q2320005)  
-
-### alignments:
- - [Ptolemaic Kingdom](https://pleiades.stoa.org/places/463803480)
-
-
 ## Q232615: Sardis
 [https://www.wikidata.org/wiki/Q232615](https://www.wikidata.org/wiki/Q232615)  
 
@@ -12841,13 +12897,6 @@
 
 ### alignments:
  - [Murus Servii Tullii](https://pleiades.stoa.org/places/103808101)
-
-
-## Q28135909
-[https://www.wikidata.org/wiki/Q28135909](https://www.wikidata.org/wiki/Q28135909)  
-
-### alignments:
- - [Katakekaumene](https://pleiades.stoa.org/places/609427)
 
 
 ## Q281748
@@ -15919,13 +15968,6 @@
  - [Selva del Lamone](https://pleiades.stoa.org/places/748685357)
 
 
-## Q393829: Mersa Matruh
-[https://www.wikidata.org/wiki/Q393829](https://www.wikidata.org/wiki/Q393829)  
-
-### alignments:
- - [Paraetonium/Ammonia](https://pleiades.stoa.org/places/716615)
-
-
 ## Q393940: Agios Georgios
 [https://www.wikidata.org/wiki/Q393940](https://www.wikidata.org/wiki/Q393940)  
 
@@ -18406,6 +18448,13 @@
  - [Alalaḫ](https://pleiades.stoa.org/places/309866128)
 
 
+## Q57551454
+[https://www.wikidata.org/wiki/Q57551454](https://www.wikidata.org/wiki/Q57551454)  
+
+### alignments:
+ - [Taberna Pomaria di Felix](https://pleiades.stoa.org/places/264408879)
+
+
 ## Q57559213: Temple of Aphrodite, Knidos
 [https://www.wikidata.org/wiki/Q57559213](https://www.wikidata.org/wiki/Q57559213)  
 
@@ -20464,13 +20513,6 @@
  - [Temple of Vespasian and Titus](https://pleiades.stoa.org/places/193196776)
 
 
-## Q732597: Via Aemilia
-[https://www.wikidata.org/wiki/Q732597](https://www.wikidata.org/wiki/Q732597)  
-
-### alignments:
- - [Via Aemilia](https://pleiades.stoa.org/places/66908841)
-
-
 ## Q732908: Hermopolis
 [https://www.wikidata.org/wiki/Q732908](https://www.wikidata.org/wiki/Q732908)  
 
@@ -20686,13 +20728,6 @@
 
 ### alignments:
  - [Delphi](https://pleiades.stoa.org/places/540726)
-
-
-## Q755454: Athenaeum
-[https://www.wikidata.org/wiki/Q755454](https://www.wikidata.org/wiki/Q755454)  
-
-### alignments:
- - [The Athenaeum of Hadrian (Rome)](https://pleiades.stoa.org/places/914715153)
 
 
 ## Q756816: Via Aurelia
@@ -23441,6 +23476,13 @@
  - [Tower of Koronia](https://pleiades.stoa.org/places/688532642)
 
 
+## Traron (Q65072733)
+[https://www.wikidata.org/wiki/Q65072733](https://www.wikidata.org/wiki/Q65072733)  
+
+### alignments:
+ - [Traron](https://pleiades.stoa.org/places/550942)
+
+
 ## Triphylia (Q472032)
 [https://www.wikidata.org/wiki/Q472032](https://www.wikidata.org/wiki/Q472032)  
 
@@ -23558,6 +23600,13 @@
 
 ### alignments:
  - [Vestini](https://pleiades.stoa.org/places/413376)
+
+
+## Via Aemilia (Q732597)
+[https://www.wikidata.org/wiki/Q732597](https://www.wikidata.org/wiki/Q732597)  
+
+### alignments:
+ - [Via Aemilia](https://pleiades.stoa.org/places/66908841)
 
 
 ## Via Curia (Q28670463)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3321 alignments exist in _Pleiades_ place references as of 2024-05-03. The following list of alignments is grouped by zotkey.
+3337 alignments exist in _Pleiades_ place references as of 2024-05-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5542,6 +5542,13 @@
 
 ### alignments:
  - [Phoinix](https://pleiades.stoa.org/places/589993)
+
+
+## GEO ID 16102: Perkote (Gökçebayır)
+[https://www.trismegistos.org/place/16102](https://www.trismegistos.org/place/16102)  
+
+### alignments:
+ - [Perkote](https://pleiades.stoa.org/places/501556)
 
 
 ## GEO ID 16122: Aizanoi (Çavdarhisar)
@@ -11313,6 +11320,13 @@
  - [Ferentium](https://pleiades.stoa.org/places/413132)
 
 
+## GEO ID 32064: Cercina
+[https://www.trismegistos.org/place/32064](https://www.trismegistos.org/place/32064)  
+
+### alignments:
+ - [Cercina (Etruria)](https://pleiades.stoa.org/places/244190113)
+
+
 ## GEO ID 32077: Forum Cassii (Vetralla)
 [http://www.trismegistos.org/place/32077](http://www.trismegistos.org/place/32077)  
 
@@ -13316,6 +13330,13 @@
  - [Galepsos (Thrace)](https://pleiades.stoa.org/places/501421)
 
 
+## GEO ID 33970: Oisyme (Cape Vrasidas)
+[https://www.trismegistos.org/place/33970](https://www.trismegistos.org/place/33970)  
+
+### alignments:
+ - [Oisyme](https://pleiades.stoa.org/places/501533)
+
+
 ## GEO ID 33: Amouda (Abu Simbel)
 [http://www.trismegistos.org/place/33](http://www.trismegistos.org/place/33)  
 
@@ -13925,6 +13946,13 @@
  - [Tenos (island)](https://pleiades.stoa.org/places/590074)
 
 
+## GEO ID 3640: Taucheira (Tokra)
+[https://www.trismegistos.org/place/3640](https://www.trismegistos.org/place/3640)  
+
+### alignments:
+ - [Arsinoe/Taucheira](https://pleiades.stoa.org/places/373736)
+
+
 ## GEO ID 3642: Lilaia
 [http://www.trismegistos.org/place/3642](http://www.trismegistos.org/place/3642)  
 
@@ -14063,6 +14091,13 @@
 
 ### alignments:
  - [Athribis (Lower Egypt)](https://pleiades.stoa.org/places/727078)
+
+
+## GEO ID 3703: Keramos (Ören)
+[https://www.trismegistos.org/place/3703](https://www.trismegistos.org/place/3703)  
+
+### alignments:
+ - [Keramos](https://pleiades.stoa.org/places/599707)
 
 
 ## GEO ID 3704: Kasion (Gebel el-Aqra)
@@ -15900,6 +15935,20 @@
  - [Putea Pallene](https://pleiades.stoa.org/places/344462)
 
 
+## GEO ID 40987: Casa Rimoniana
+[https://www.trismegistos.org/place/40987](https://www.trismegistos.org/place/40987)  
+
+### alignments:
+ - [Casa Rimoniana](https://pleiades.stoa.org/places/344332)
+
+
+## GEO ID 40988: Ad Ficum
+[https://www.trismegistos.org/place/40988](https://www.trismegistos.org/place/40988)  
+
+### alignments:
+ - [Ad Ficum](https://pleiades.stoa.org/places/363914)
+
+
 ## GEO ID 40993: Zacazama (Ras Ben Gauuad)
 [https://www.trismegistos.org/place/40993](https://www.trismegistos.org/place/40993)  
 
@@ -17062,6 +17111,13 @@
  - [Templum Veneris](https://pleiades.stoa.org/places/344505)
 
 
+## GEO ID 41759: Ad Cisternas
+[https://www.trismegistos.org/place/41759](https://www.trismegistos.org/place/41759)  
+
+### alignments:
+ - [Ad Cisternas](https://pleiades.stoa.org/places/349568)
+
+
 ## GEO ID 41760: Afas Laminie
 [https://www.trismegistos.org/place/41760](https://www.trismegistos.org/place/41760)  
 
@@ -17074,6 +17130,20 @@
 
 ### alignments:
  - [Agarsel](https://pleiades.stoa.org/places/349570)
+
+
+## GEO ID 41762: Chosol
+[https://www.trismegistos.org/place/41762](https://www.trismegistos.org/place/41762)  
+
+### alignments:
+ - [Chosol](https://pleiades.stoa.org/places/349581)
+
+
+## GEO ID 41763: Dissio Aqua Amara
+[https://www.trismegistos.org/place/41763](https://www.trismegistos.org/place/41763)  
+
+### alignments:
+ - [Dissio Aqua Amara](https://pleiades.stoa.org/places/349584)
 
 
 ## GEO ID 41764: Flacci Taberna
@@ -17690,6 +17760,13 @@
 
 ### alignments:
  - [Bisutun/Bagistana/Vastan?/Baptana](https://pleiades.stoa.org/places/903002)
+
+
+## GEO ID 42175: Onoadas
+[https://www.trismegistos.org/place/42175](https://www.trismegistos.org/place/42175)  
+
+### alignments:
+ - [Onoadas](https://pleiades.stoa.org/places/906020)
 
 
 ## GEO ID 42178: Alexandreia
@@ -18861,6 +18938,13 @@
  - [Beirut](https://pleiades.stoa.org/places/678060)
 
 
+## GEO ID 43203: Coriossedum
+[https://www.trismegistos.org/place/43203](https://www.trismegistos.org/place/43203)  
+
+### alignments:
+ - [Coriossedum](https://pleiades.stoa.org/places/151769)
+
+
 ## GEO ID 43220: Castellum Meidunium (Castro de S. Facundo?)
 [http://www.trismegistos.org/place/43220](http://www.trismegistos.org/place/43220)  
 
@@ -19246,6 +19330,13 @@
  - [*Calanta](https://pleiades.stoa.org/places/256042)
 
 
+## GEO ID 43653: Crindavinus Portus
+[https://www.trismegistos.org/place/43653](https://www.trismegistos.org/place/43653)  
+
+### alignments:
+ - [Crindavinus Portus](https://pleiades.stoa.org/places/151770)
+
+
 ## GEO ID 43654: Ephyra (Mesopotamon)
 [http://www.trismegistos.org/place/43654](http://www.trismegistos.org/place/43654)  
 
@@ -19582,6 +19673,13 @@
 
 ### alignments:
  - [Cat(t)enates?](https://pleiades.stoa.org/places/118627)
+
+
+## GEO ID 43905: Aethogurza
+[http://www.trismegistos.org/place/43905](http://www.trismegistos.org/place/43905)  
+
+### alignments:
+ - [Aethogurza](https://pleiades.stoa.org/places/321637)
 
 
 ## GEO ID 43931: Circus Flaminius
@@ -20452,6 +20550,13 @@
  - [Vicus Silani Salientis](https://pleiades.stoa.org/places/302151419)
 
 
+## GEO ID 47834: Vicus Victoris
+[https://www.trismegistos.org/place/47834](https://www.trismegistos.org/place/47834)  
+
+### alignments:
+ - [Vicus Victoris](https://pleiades.stoa.org/places/979483544)
+
+
 ## GEO ID 47842: Vicus Sergi
 [https://www.trismegistos.org/place/47842](https://www.trismegistos.org/place/47842)  
 
@@ -21046,6 +21151,13 @@
 
 ### alignments:
  - [*Umbro (river)](https://pleiades.stoa.org/places/413362)
+
+
+## GEO ID 52835: Pistyros
+[https://www.trismegistos.org/place/52835](https://www.trismegistos.org/place/52835)  
+
+### alignments:
+ - [Pistyros?](https://pleiades.stoa.org/places/501569)
 
 
 ## GEO ID 528: Cyprus

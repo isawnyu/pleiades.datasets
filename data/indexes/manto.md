@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-425 alignments exist in _Pleiades_ place references as of 2024-05-03. The following list of alignments is grouped by zotkey.
+427 alignments exist in _Pleiades_ place references as of 2024-05-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2541,6 +2541,20 @@
 
 ### alignments:
  - [Aisepos (river)](https://pleiades.stoa.org/places/511141)
+
+
+## 9718661: Percote (Hellespont)
+[https://resource.manto.unh.edu/9718661](https://resource.manto.unh.edu/9718661)  
+
+### alignments:
+ - [Perkote](https://pleiades.stoa.org/places/501556)
+
+
+## 9718663: Sestos (Hellespont)
+[https://resource.manto.unh.edu/9718663](https://resource.manto.unh.edu/9718663)  
+
+### alignments:
+ - [Sestos](https://pleiades.stoa.org/places/501609)
 
 
 ## 9718707: Styra (Euboia)
