@@ -6,24 +6,86 @@
         24.622222,
         40.983103
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                }
+            ],
+            "connectionType": "founded",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/founded",
+            "connectsTo": "https://pleiades.stoa.org/places/501634",
+            "contributors": [],
+            "created": "2024-05-03T23:42:38Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -550,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-05-04T13:36:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-05-03T23:42:43Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-05-03T23:42:38Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-05-03T23:42:38Z",
+                    "modifiedBy": "cdlisle"
+                }
+            ],
+            "id": "thasos-settlement",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e1206560",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+                    "citationDetail": "Thasos (A. Külzer) ",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brill.com/display/db/npoe.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "New Pauly",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -750,
+            "title": "Thasos (settlement)",
+            "uri": "https://pleiades.stoa.org/places/501569/thasos-settlement"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/501634"
+    ],
     "contributors": [
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
-        },
-        {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -33,9 +95,25 @@
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
         },
         {
             "name": "G. Reger",
@@ -44,12 +122,6 @@
         {
             "name": "R. Talbert",
             "username": null
-        },
-        {
-            "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
         }
     ],
     "created": "2018-06-07T23:37:20Z",
@@ -60,7 +132,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 51 D3 Pistyros?",
-    "details": "The Barrington Atlas Directory notes: near Petropege",
+    "details": "<p>The Barrington Atlas Directory notes: near Petropege</p>",
     "features": [
         {
             "geometry": {
@@ -100,6 +172,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2024-05-04T13:43:12Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add ToposText reference provided by bkiesling",
             "modified": "2018-06-07T23:37:23Z",
@@ -399,6 +476,11 @@
             "end": -330,
             "history": [
                 {
+                    "comment": "Baseline created",
+                    "modified": "2024-05-04T13:44:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:43:28Z",
                     "modifiedBy": "admin"
@@ -441,36 +523,36 @@
     "provenance": "Barrington Atlas: BAtlas 51 D3 Pistyros?",
     "references": [
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "citationDetail": "51 D3 Pistyros?",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BAtlas 51 D3 Pistyros?",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "BAtlas",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/i.html#Isaac-1986",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UZMZ2QPI",
+            "citationDetail": "12-13, 70",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Isaac 1986, 12-13, 70",
+            "formattedCitation": "<div class=\"csl-entry\">Isaac, Benjamin H. <i>The Greek Settlements in Thrace until the Macedonian Conquest</i>. Studies of the Dutch Archaeological and Historical Society 10. Leiden: E.J. Brill, 1986.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Isaac 1986",
             "type": "seeFurther"
         },
         {
             "accessURI": "https://de.wikisource.org/wiki/RE:Pistyros",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Pistyros",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE:Pistyros",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
@@ -494,6 +576,50 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/52835",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 52835: Pistyros",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1356251",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Pistyros (Q1356251)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/252695579",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WBM4X5NH",
+            "citationDetail": "no. 638",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hansen, Mogens Herman, and Thomas Heine Nielsen. <i>An Inventory of Archaic and Classical Poleis</i>. Oxford: Oxford University Press, 2004. http://www.worldcat.org/oclc/252695579.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Hansen 2004",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://arachne.dainst.org/entity/4642950",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "citationDetail": "Pistyros? Kavala (Regionalbezirk), Griechenland, Europa",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arachne",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
