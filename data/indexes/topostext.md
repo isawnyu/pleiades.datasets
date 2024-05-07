@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3370 alignments exist in _Pleiades_ place references as of 2024-05-06. The following list of alignments is grouped by zotkey.
+3371 alignments exist in _Pleiades_ place references as of 2024-05-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -11653,6 +11653,13 @@
 
 ### alignments:
  - [Krounoi](https://pleiades.stoa.org/places/540893)
+
+
+## Krya (Caria) 7 Taşyaka
+[https://topostext.org/place/367289UKry](https://topostext.org/place/367289UKry)  
+
+### alignments:
+ - [Krya](https://pleiades.stoa.org/places/638947)
 
 
 ## Kryptos Limen (Aegina)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3391 alignments exist in _Pleiades_ place references as of 2024-05-06. The following list of alignments is grouped by zotkey.
+3397 alignments exist in _Pleiades_ place references as of 2024-05-07. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -574,6 +574,13 @@
 
 ### alignments:
  - [Hellenistic Arsenal](https://pleiades.stoa.org/places/78993694)
+
+
+## Artaiouteichos (Q18286239)
+[https://www.wikidata.org/wiki/Q18286239](https://www.wikidata.org/wiki/Q18286239)  
+
+### alignments:
+ - [Artaiouteichos](https://pleiades.stoa.org/places/511159)
 
 
 ## Artaxata (Q706215)
@@ -1324,6 +1331,13 @@
 
 ### alignments:
  - [Krokyleion?](https://pleiades.stoa.org/places/540891)
+
+
+## Crya (Q17628183)
+[https://www.wikidata.org/wiki/Q17628183](https://www.wikidata.org/wiki/Q17628183)  
+
+### alignments:
+ - [Krya](https://pleiades.stoa.org/places/638947)
 
 
 ## Cutina (Q11916329)
@@ -22726,6 +22740,13 @@
  - [Sarnus (river)](https://pleiades.stoa.org/places/433102)
 
 
+## Sarte (Q29788247)
+[https://www.wikidata.org/wiki/Q29788247](https://www.wikidata.org/wiki/Q29788247)  
+
+### alignments:
+ - [Sarte](https://pleiades.stoa.org/places/501603)
+
+
 ## Sarych (Q2492899)
 [https://www.wikidata.org/wiki/Q2492899](https://www.wikidata.org/wiki/Q2492899)  
 
@@ -22745,6 +22766,13 @@
 
 ### alignments:
  - [Scaugdae](https://pleiades.stoa.org/places/222178)
+
+
+## Scione (Q963571)
+[https://www.wikidata.org/wiki/Q963571](https://www.wikidata.org/wiki/Q963571)  
+
+### alignments:
+ - [Skione](https://pleiades.stoa.org/places/501620)
 
 
 ## Scydra (Q111472152)
@@ -23280,6 +23308,13 @@
  - [Roman Baths of Como](https://pleiades.stoa.org/places/582358499)
 
 
+## Theangela (Q3990170)
+[https://www.wikidata.org/wiki/Q3990170](https://www.wikidata.org/wiki/Q3990170)  
+
+### alignments:
+ - [Theangela](https://pleiades.stoa.org/places/599969)
+
+
 ## Theatre of Cyrrhus (Q70772478)
 [https://www.wikidata.org/wiki/Q70772478](https://www.wikidata.org/wiki/Q70772478)  
 
@@ -23481,6 +23516,13 @@
 
 ### alignments:
  - [Traron](https://pleiades.stoa.org/places/550942)
+
+
+## Triopium (Q65088955)
+[https://www.wikidata.org/wiki/Q65088955](https://www.wikidata.org/wiki/Q65088955)  
+
+### alignments:
+ - [Triopion](https://pleiades.stoa.org/places/599988)
 
 
 ## Triphylia (Q472032)

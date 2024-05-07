@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3337 alignments exist in _Pleiades_ place references as of 2024-05-06. The following list of alignments is grouped by zotkey.
+3343 alignments exist in _Pleiades_ place references as of 2024-05-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -99,13 +99,6 @@
 
 ### alignments:
  - [Pakerkeesis](https://pleiades.stoa.org/places/789753)
-
-
-## Eboda (GEOID 4137)
-[http://www.trismegistos.org/place/4137](http://www.trismegistos.org/place/4137)  
-
-### alignments:
- - [Eboda](https://pleiades.stoa.org/places/687887)
 
 
 ## Geo 10345: Eleusis
@@ -8568,6 +8561,13 @@
  - [Ostra](https://pleiades.stoa.org/places/413238)
 
 
+## GEO ID 2350: Theangela (Etrim)
+[https://www.trismegistos.org/place/2350](https://www.trismegistos.org/place/2350)  
+
+### alignments:
+ - [Theangela](https://pleiades.stoa.org/places/599969)
+
+
 ## GEO ID 23540: Belgica
 [https://www.trismegistos.org/place/23540](https://www.trismegistos.org/place/23540)  
 
@@ -12910,6 +12910,13 @@
  - [Ag. Triada](https://pleiades.stoa.org/places/589672)
 
 
+## GEO ID 33325: Ampelos (Pharmakokephalo)
+[https://www.trismegistos.org/place/33325](https://www.trismegistos.org/place/33325)  
+
+### alignments:
+ - [Ampelos](https://pleiades.stoa.org/places/589686)
+
+
 ## GEO ID 33339: Thisbe
 [http://www.trismegistos.org/place/33339](http://www.trismegistos.org/place/33339)  
 
@@ -16535,6 +16542,13 @@
 
 ### alignments:
  - [Hieron (Chalkedonion)/Zeus Ourios, T.](https://pleiades.stoa.org/places/521035)
+
+
+## GEO ID 4137: Eboda
+[http://www.trismegistos.org/place/4137](http://www.trismegistos.org/place/4137)  
+
+### alignments:
+ - [Eboda](https://pleiades.stoa.org/places/687887)
 
 
 ## GEO ID 41389: Polemonion
@@ -21630,6 +21644,13 @@
  - [Olophyxos](https://pleiades.stoa.org/places/501535)
 
 
+## GEO ID 58915: Skione
+[https://www.trismegistos.org/place/58915](https://www.trismegistos.org/place/58915)  
+
+### alignments:
+ - [Skione](https://pleiades.stoa.org/places/501620)
+
+
 ## GEO ID 58925: Rhizous (Tarsanas)
 [https://www.trismegistos.org/place/58925](https://www.trismegistos.org/place/58925)  
 
@@ -21852,6 +21873,20 @@
 
 ### alignments:
  - [Palaia](https://pleiades.stoa.org/places/711256)
+
+
+## GEO ID 60881: Triopion (Kumyer)
+[https://www.trismegistos.org/place/60881](https://www.trismegistos.org/place/60881)  
+
+### alignments:
+ - [Triopion](https://pleiades.stoa.org/places/599988)
+
+
+## GEO ID 60921: Krya (Taşyaka)
+[https://www.trismegistos.org/place/60921](https://www.trismegistos.org/place/60921)  
+
+### alignments:
+ - [Krya](https://pleiades.stoa.org/places/638947)
 
 
 ## GEO ID 60925: Glauke
@@ -22301,6 +22336,13 @@
 ### alignments:
  - [Scythae/Sagae/Sacae](https://pleiades.stoa.org/places/60676)
  - [Scythia](https://pleiades.stoa.org/places/1273)
+
+
+## GEO ID 7217: Sobata (Shivta)
+[http://www.trismegistos.org/place/7217](http://www.trismegistos.org/place/7217)  
+
+### alignments:
+ - [Sobata](https://pleiades.stoa.org/places/688030)
 
 
 ## GEO ID 7222: Suburana
