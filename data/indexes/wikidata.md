@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3397 alignments exist in _Pleiades_ place references as of 2024-05-07. The following list of alignments is grouped by zotkey.
+3402 alignments exist in _Pleiades_ place references as of 2024-05-09. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1018,6 +1018,13 @@
  - [Cappadocia (region)](https://pleiades.stoa.org/places/628949)
 
 
+## Carchemish (Q283680)
+[https://www.wikidata.org/wiki/Q283680](https://www.wikidata.org/wiki/Q283680)  
+
+### alignments:
+ - [Carchemish](https://pleiades.stoa.org/places/658465)
+
+
 ## Carmylessus (Q18712835)
 [https://www.wikidata.org/wiki/Q18712835](https://www.wikidata.org/wiki/Q18712835)  
 
@@ -1268,6 +1275,13 @@
 
 ### alignments:
  - [Colossus Neronis](https://pleiades.stoa.org/places/527986452)
+
+
+## Comana Pontica (Q2140586)
+[https://www.wikidata.org/wiki/Q2140586](https://www.wikidata.org/wiki/Q2140586)  
+
+### alignments:
+ - [Comana Pontica/Hierocaesarea](https://pleiades.stoa.org/places/857095)
 
 
 ## Contenebra (Q3688820)
@@ -2297,6 +2311,13 @@
 
 ### alignments:
  - [Kantanos](https://pleiades.stoa.org/places/589838)
+
+
+## Karanis (Q657455)
+[https://www.wikidata.org/wiki/Q657455](https://www.wikidata.org/wiki/Q657455)  
+
+### alignments:
+ - [Karanis](https://pleiades.stoa.org/places/736932)
 
 
 ## Karfi (Q1734354)
@@ -16411,6 +16432,13 @@
  - [Marsicovetere Roman villa](https://pleiades.stoa.org/places/155158534)
 
 
+## Q4012809
+[https://www.wikidata.org/wiki/Q4012809](https://www.wikidata.org/wiki/Q4012809)  
+
+### alignments:
+ - [Durrueli di Realmonte](https://pleiades.stoa.org/places/462188)
+
+
 ## Q4012810: Roman villa of Russi
 [https://www.wikidata.org/wiki/Q4012810](https://www.wikidata.org/wiki/Q4012810)  
 
@@ -22885,6 +22913,13 @@
 
 ### alignments:
  - [Sindos](https://pleiades.stoa.org/places/491717)
+
+
+## Singus (Q2289300)
+[https://www.wikidata.org/wiki/Q2289300](https://www.wikidata.org/wiki/Q2289300)  
+
+### alignments:
+ - [Singos](https://pleiades.stoa.org/places/501613)
 
 
 ## Siphnos (Q95452882)

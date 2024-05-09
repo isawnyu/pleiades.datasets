@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3371 alignments exist in _Pleiades_ place references as of 2024-05-07. The following list of alignments is grouped by zotkey.
+3374 alignments exist in _Pleiades_ place references as of 2024-05-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5613,6 +5613,13 @@
  - [Comana/Hierapolis/Chryse](https://pleiades.stoa.org/places/628959)
 
 
+## Comana (Pontus)
+[https://topostext.org/place/404366UCom](https://topostext.org/place/404366UCom)  
+
+### alignments:
+ - [Comana Pontica/Hierocaesarea](https://pleiades.stoa.org/places/857095)
+
+
 ## Complutum (Iberia)
 [https://topostext.org/place/405000UCom](https://topostext.org/place/405000UCom)  
 
@@ -10098,6 +10105,13 @@
 
 ### alignments:
  - [Kabaki](https://pleiades.stoa.org/places/550603)
+
+
+## Kabeira/Neokaisareia (Pontus)
+[https://topostext.org/place/406370UKab](https://topostext.org/place/406370UKab)  
+
+### alignments:
+ - [Kabeira/Neocaesarea/Diospolis/Sebaste/Hadriane](https://pleiades.stoa.org/places/857177)
 
 
 ## Kabeireion (Lemnos)
@@ -20321,6 +20335,13 @@
 
 ### alignments:
  - [Singili(a) Barba](https://pleiades.stoa.org/places/256453)
+
+
+## Singos (Chalkidike)
+[https://topostext.org/place/402237PSin](https://topostext.org/place/402237PSin)  
+
+### alignments:
+ - [Singos](https://pleiades.stoa.org/places/501613)
 
 
 ## Sinope (Pontus)

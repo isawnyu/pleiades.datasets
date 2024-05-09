@@ -1,11 +1,18 @@
 # _Pleiades_ alignments with TM
-3343 alignments exist in _Pleiades_ place references as of 2024-05-07. The following list of alignments is grouped by zotkey.
+3361 alignments exist in _Pleiades_ place references as of 2024-05-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
 
 ### alignments:
  - [Drinum Fl.](https://pleiades.stoa.org/places/207099)
+
+
+## 16389: Kabeira (Niksar)
+[https://www.trismegistos.org/place/16389](https://www.trismegistos.org/place/16389)  
+
+### alignments:
+ - [Kabeira/Neocaesarea/Diospolis/Sebaste/Hadriane](https://pleiades.stoa.org/places/857177)
 
 
 ## 17215 = P.Dura 17.D.40
@@ -1945,6 +1952,13 @@
  - [Canopus](https://pleiades.stoa.org/places/727097)
 
 
+## GEO ID 1008: Karanis (Kom Aushim)
+[http://www.trismegistos.org/place/1008](http://www.trismegistos.org/place/1008)  
+
+### alignments:
+ - [Karanis](https://pleiades.stoa.org/places/736932)
+
+
 ## GEO ID 100: Alexandria
 [http://www.trismegistos.org/place/100](http://www.trismegistos.org/place/100)  
 
@@ -2545,6 +2559,13 @@
 
 ### alignments:
  - [Cyrrus/Hagioupolis](https://pleiades.stoa.org/places/658446)
+
+
+## GEO ID 11871: Samosata (Samsat)
+[http://www.trismegistos.org/place/11871](http://www.trismegistos.org/place/11871)  
+
+### alignments:
+ - [Samosata](https://pleiades.stoa.org/places/658587)
 
 
 ## GEO ID 11873: Kestroi (Macar)
@@ -5670,6 +5691,13 @@
  - [Bithynia et Pontus](https://pleiades.stoa.org/places/981512)
 
 
+## GEO ID 16285: Komana (Kılıçlı)
+[http://www.trismegistos.org/place/16285](http://www.trismegistos.org/place/16285)  
+
+### alignments:
+ - [Comana Pontica/Hierocaesarea](https://pleiades.stoa.org/places/857095)
+
+
 ## GEO ID 16286: Klaudiopolis (Bolu)
 [https://www.trismegistos.org/place/16286](https://www.trismegistos.org/place/16286)  
 
@@ -5696,6 +5724,13 @@
 
 ### alignments:
  - [Amphissa](https://pleiades.stoa.org/places/540630)
+
+
+## GEO ID 16304: Zela (Zile)
+[https://www.trismegistos.org/place/16304](https://www.trismegistos.org/place/16304)  
+
+### alignments:
+ - [Zela](https://pleiades.stoa.org/places/857382)
 
 
 ## GEO ID 1631: Patrai
@@ -9296,7 +9331,7 @@
  - [Irni](https://pleiades.stoa.org/places/256230)
 
 
-## GEO ID 2624
+## GEO ID 2624: Amaseia (Amasya)
 [http://www.trismegistos.org/place/2624](http://www.trismegistos.org/place/2624)  
 
 ### alignments:
@@ -13309,6 +13344,13 @@
  - [Sketis](https://pleiades.stoa.org/places/727232)
 
 
+## GEO ID 33893: Singos
+[https://www.trismegistos.org/place/33893](https://www.trismegistos.org/place/33893)  
+
+### alignments:
+ - [Singos](https://pleiades.stoa.org/places/501613)
+
+
 ## GEO ID 33897: Akanthos (Hierissos)
 [https://www.trismegistos.org/place/33897](https://www.trismegistos.org/place/33897)  
 
@@ -15816,6 +15858,13 @@
  - [Ad Acroceraunia](https://pleiades.stoa.org/places/481694)
 
 
+## GEO ID 40844: Stabulum Diomedis
+[https://www.trismegistos.org/place/40844](https://www.trismegistos.org/place/40844)  
+
+### alignments:
+ - [Tirida/Kartera Kome/Stabulo Diomedis/Turris Diomedis/Tyrida](https://pleiades.stoa.org/places/507474)
+
+
 ## GEO ID 40854: Bilubio
 [https://www.trismegistos.org/place/40854](https://www.trismegistos.org/place/40854)  
 
@@ -16558,11 +16607,39 @@
  - [Polemonion/Side](https://pleiades.stoa.org/places/857285)
 
 
+## GEO ID 41393: Palalce (Baraklı)
+[https://www.trismegistos.org/place/41393](https://www.trismegistos.org/place/41393)  
+
+### alignments:
+ - [Palalce](https://pleiades.stoa.org/places/857262)
+
+
+## GEO ID 41394: Mirones (Buzköy)
+[https://www.trismegistos.org/place/41394](https://www.trismegistos.org/place/41394)  
+
+### alignments:
+ - [Mirones](https://pleiades.stoa.org/places/857234)
+
+
 ## GEO ID 41395: Bartae (Aşağı)
 [https://www.trismegistos.org/place/41395](https://www.trismegistos.org/place/41395)  
 
 ### alignments:
  - [Bartae](https://pleiades.stoa.org/places/857057)
+
+
+## GEO ID 41396: Pleuramis (Çürük Köy)
+[https://www.trismegistos.org/place/41396](https://www.trismegistos.org/place/41396)  
+
+### alignments:
+ - [Pleuramis/‘Ptemari’?](https://pleiades.stoa.org/places/857284)
+
+
+## GEO ID 41397: Seramisa (Gözova)
+[https://www.trismegistos.org/place/41397](https://www.trismegistos.org/place/41397)  
+
+### alignments:
+ - [Seramisa](https://pleiades.stoa.org/places/857313)
 
 
 ## GEO ID 41405: Kongoustos (Altınekin)
@@ -16605,6 +16682,13 @@
 
 ### alignments:
  - [Beni Hasan](https://pleiades.stoa.org/places/112509596)
+
+
+## GEO ID 41531: Caeciliana (Tell Aushariye)
+[http://www.trismegistos.org/place/41531](http://www.trismegistos.org/place/41531)  
+
+### alignments:
+ - [Caeciliana](https://pleiades.stoa.org/places/658418)
 
 
 ## GEO ID 41537: Molchia (Amik)
@@ -16864,6 +16948,13 @@
 
 ### alignments:
  - [Ad Plumbaria](https://pleiades.stoa.org/places/311072)
+
+
+## GEO ID 41689: Ad Stabulum Olearium
+[https://www.trismegistos.org/place/41689](https://www.trismegistos.org/place/41689)  
+
+### alignments:
+ - [Ad Stabulum Olearium](https://pleiades.stoa.org/places/311075)
 
 
 ## GEO ID 41691: Ad villam Sele
@@ -17657,6 +17748,20 @@
  - [Ourima/Antiochia ad Euphratem/Arulis](https://pleiades.stoa.org/places/658562)
 
 
+## GEO ID 42043: Bethammaria
+[https://www.trismegistos.org/place/42043](https://www.trismegistos.org/place/42043)  
+
+### alignments:
+ - [Bethammaria](https://pleiades.stoa.org/places/662147)
+
+
+## GEO ID 42046: Heba
+[https://www.trismegistos.org/place/42046](https://www.trismegistos.org/place/42046)  
+
+### alignments:
+ - [Heba](https://pleiades.stoa.org/places/662168)
+
+
 ## GEO ID 42049: Oriza
 [http://www.trismegistos.org/place/42049](http://www.trismegistos.org/place/42049)  
 
@@ -17711,6 +17816,20 @@
 
 ### alignments:
  - [Karambis (Pontus)](https://pleiades.stoa.org/places/844970)
+
+
+## GEO ID 42089: Choloe (Dörtyol)
+[https://www.trismegistos.org/place/42089](https://www.trismegistos.org/place/42089)  
+
+### alignments:
+ - [C(h)oloe](https://pleiades.stoa.org/places/857091)
+
+
+## GEO ID 42102: Pida
+[https://www.trismegistos.org/place/42102](https://www.trismegistos.org/place/42102)  
+
+### alignments:
+ - [Pida](https://pleiades.stoa.org/places/857281)
 
 
 ## GEO ID 42116: Calcidava
@@ -20002,6 +20121,13 @@
 
 ### alignments:
  - [Sinduni](https://pleiades.stoa.org/places/194067)
+
+
+## GEO ID 44990: Portus Itius
+[http://www.trismegistos.org/place/44990](http://www.trismegistos.org/place/44990)  
+
+### alignments:
+ - [Portus Itius](https://pleiades.stoa.org/places/114791)
 
 
 ## GEO ID 44997: Ulcirus Mons (Ilica)
