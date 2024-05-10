@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3402 alignments exist in _Pleiades_ place references as of 2024-05-09. The following list of alignments is grouped by zotkey.
+3405 alignments exist in _Pleiades_ place references as of 2024-05-10. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -892,6 +892,13 @@
  - [Bilhorod-Dnistrovskyi fortress](https://pleiades.stoa.org/places/903729115)
 
 
+## Blaundos (Q263669)
+[https://www.wikidata.org/wiki/Q263669](https://www.wikidata.org/wiki/Q263669)  
+
+### alignments:
+ - [Blaundos](https://pleiades.stoa.org/places/609344)
+
+
 ## Boiai (Q11909406)
 [https://www.wikidata.org/wiki/Q11909406](https://www.wikidata.org/wiki/Q11909406)  
 
@@ -1333,6 +1340,13 @@
  - [Kos (settlement)](https://pleiades.stoa.org/places/599728)
 
 
+## Creta et Cyrenaica (Q692775)
+[https://www.wikidata.org/wiki/Q692775](https://www.wikidata.org/wiki/Q692775)  
+
+### alignments:
+ - [Creta et Cyrene (Roman province)](https://pleiades.stoa.org/places/981517)
+
+
 ## Crocus Field (Q63806485)
 [https://www.wikidata.org/wiki/Q63806485](https://www.wikidata.org/wiki/Q63806485)  
 
@@ -1492,6 +1506,13 @@
 
 ### alignments:
  - [Dema House](https://pleiades.stoa.org/places/726345182)
+
+
+## Derna (Q211866)
+[https://www.wikidata.org/wiki/Q211866](https://www.wikidata.org/wiki/Q211866)  
+
+### alignments:
+ - [Darnis](https://pleiades.stoa.org/places/373780)
 
 
 ## Desmoterion (Q20379066)
@@ -3410,6 +3431,13 @@
 
 ### alignments:
  - [Sepolcro dei Pancrazi](https://pleiades.stoa.org/places/377181897)
+
+
+## Pandroseion (Q2204137)
+[https://www.wikidata.org/wiki/Q2204137](https://www.wikidata.org/wiki/Q2204137)  
+
+### alignments:
+ - [Pandroseion](https://pleiades.stoa.org/places/936968680)
 
 
 ## Panormos (Q60791434)
@@ -7124,13 +7152,6 @@
 
 ### alignments:
  - [Smyrna/Eurydikeia](https://pleiades.stoa.org/places/550893)
-
-
-## Q1379828
-[https://www.wikidata.org/wiki/Q1379828](https://www.wikidata.org/wiki/Q1379828)  
-
-### alignments:
- - [Tilmen Höyük](https://pleiades.stoa.org/places/447680269)
 
 
 ## Q1385554: Plestia
@@ -20261,13 +20282,6 @@
  - [Macra (river)](https://pleiades.stoa.org/places/403237)
 
 
-## Q692775
-[https://www.wikidata.org/wiki/Q692775](https://www.wikidata.org/wiki/Q692775)  
-
-### alignments:
- - [Creta et Cyrene (Roman province)](https://pleiades.stoa.org/places/981517)
-
-
 ## Q69318795: Roman villa of Capo di Massa
 [https://www.wikidata.org/wiki/Q69318795](https://www.wikidata.org/wiki/Q69318795)  
 
@@ -23446,6 +23460,14 @@
 
 ### alignments:
  - [Ticinus (river)](https://pleiades.stoa.org/places/383799)
+
+
+## Tilmen Höyük (Q1379828)
+[https://www.wikidata.org/wiki/Q1379828](https://www.wikidata.org/wiki/Q1379828)  
+
+### alignments:
+ - [Tilmen Höyük](https://pleiades.stoa.org/places/242329712)
+ - [Tilmen Höyük](https://pleiades.stoa.org/places/447680269)
 
 
 ## Timna valley (Q1973199)

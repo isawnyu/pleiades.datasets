@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3374 alignments exist in _Pleiades_ place references as of 2024-05-09. The following list of alignments is grouped by zotkey.
+3376 alignments exist in _Pleiades_ place references as of 2024-05-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4358,6 +4358,13 @@
 
 ### alignments:
  - [Blanda](https://pleiades.stoa.org/places/452274)
+
+
+## Blaundos (Lydia)
+[https://topostext.org/place/384292UBla](https://topostext.org/place/384292UBla)  
+
+### alignments:
+ - [Blaundos](https://pleiades.stoa.org/places/609344)
 
 
 ## Boiai (Lakonia)
@@ -9377,6 +9384,14 @@
 
 ### alignments:
  - [House of Augustus](https://pleiades.stoa.org/places/250568480)
+
+
+## House of the Arrephoroi (Athens Acropolis) 1 Acropolis of Athens
+[https://topostext.org/place/380237BArr](https://topostext.org/place/380237BArr)  
+
+### alignments:
+ - [Building III on the Athenian Acropolis](https://pleiades.stoa.org/places/517288793)
+ - [House of the Arrhephoroi](https://pleiades.stoa.org/places/425217700)
 
 
 ## House of the Vestals (Rome)
