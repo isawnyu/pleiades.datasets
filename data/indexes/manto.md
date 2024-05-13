@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-427 alignments exist in _Pleiades_ place references as of 2024-05-10. The following list of alignments is grouped by zotkey.
+429 alignments exist in _Pleiades_ place references as of 2024-05-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1268,6 +1268,13 @@
  - [Sanctuary of Apollo on Delos](https://pleiades.stoa.org/places/599506)
 
 
+## 10815223: Nicaia (Bithynia)
+[https://resource.manto.unh.edu/10815223](https://resource.manto.unh.edu/10815223)  
+
+### alignments:
+ - [Helikore/Nicaea](https://pleiades.stoa.org/places/511268)
+
+
 ## 10833972: the Ardettos (Athens)
 [https://resource.manto.unh.edu/10833972](https://resource.manto.unh.edu/10833972)  
 
@@ -1406,6 +1413,13 @@
 
 ### alignments:
  - [Pindus (mountain range)](https://pleiades.stoa.org/places/541062)
+
+
+## 11297903: Bithynia (Pontos)
+[https://resource.manto.unh.edu/11297903](https://resource.manto.unh.edu/11297903)  
+
+### alignments:
+ - [Bithynia (region)](https://pleiades.stoa.org/places/511189)
 
 
 ## 11297948: Coresia (Ceos)

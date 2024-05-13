@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3378 alignments exist in _Pleiades_ place references as of 2024-05-10. The following list of alignments is grouped by zotkey.
+3395 alignments exist in _Pleiades_ place references as of 2024-05-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2323,6 +2323,13 @@
  - [Kourion](https://pleiades.stoa.org/places/707549)
 
 
+## GEO ID 11774: Nikaia (Iznik)
+[https://www.trismegistos.org/place/11774](https://www.trismegistos.org/place/11774)  
+
+### alignments:
+ - [Helikore/Nicaea](https://pleiades.stoa.org/places/511268)
+
+
 ## GEO ID 11784: Calabria
 [https://www.trismegistos.org/place/11784](https://www.trismegistos.org/place/11784)  
 
@@ -3301,6 +3308,13 @@
 
 ### alignments:
  - [Umbria (region)](https://pleiades.stoa.org/places/413360)
+
+
+## GEO ID 13625: Rhodanus (Rhône)
+[http://www.trismegistos.org/place/13625](http://www.trismegistos.org/place/13625)  
+
+### alignments:
+ - [Rhodanus (river)](https://pleiades.stoa.org/places/148168)
 
 
 ## GEO ID 1364
@@ -6095,6 +6109,13 @@
 
 ### alignments:
  - [Perinthus/Heraclea](https://pleiades.stoa.org/places/511357)
+
+
+## GEO ID 16988: Cidamus (Ghadames)
+[http://www.trismegistos.org/place/16988](http://www.trismegistos.org/place/16988)  
+
+### alignments:
+ - [Cidamus](https://pleiades.stoa.org/places/344341)
 
 
 ## GEO ID 16995: Sabratha
@@ -9688,6 +9709,13 @@
  - [Edeta/Leiria](https://pleiades.stoa.org/places/265887)
 
 
+## GEO ID 2747: Boon (Buhen)
+[http://www.trismegistos.org/place/2747](http://www.trismegistos.org/place/2747)  
+
+### alignments:
+ - [Boon](https://pleiades.stoa.org/places/795791)
+
+
 ## GEO ID 2751: Dahshur
 [http://www.trismegistos.org/place/2751](http://www.trismegistos.org/place/2751)  
 
@@ -9812,6 +9840,13 @@
 
 ### alignments:
  - [Talmis](https://pleiades.stoa.org/places/795868)
+
+
+## GEO ID 2789: Karanog
+[http://www.trismegistos.org/place/2789](http://www.trismegistos.org/place/2789)  
+
+### alignments:
+ - [Nalot(e)](https://pleiades.stoa.org/places/795832)
 
 
 ## GEO ID 2790: Patigga (Kawa)
@@ -10760,6 +10795,13 @@
  - [Tellaeos](https://pleiades.stoa.org/places/759663)
 
 
+## GEO ID 30616: Agrilion (Gökçesu)
+[https://www.trismegistos.org/place/30616](https://www.trismegistos.org/place/30616)  
+
+### alignments:
+ - [Agrilion](https://pleiades.stoa.org/places/511143)
+
+
 ## GEO ID 30619: Via Aurelia
 [http://www.trismegistos.org/place/30619](http://www.trismegistos.org/place/30619)  
 
@@ -11094,6 +11136,13 @@
 
 ### alignments:
  - [Album Ingaunum/Albingaunum](https://pleiades.stoa.org/places/157803)
+
+
+## GEO ID 3170: Pachora (Faras)
+[http://www.trismegistos.org/place/3170](http://www.trismegistos.org/place/3170)  
+
+### alignments:
+ - [Pachoras](https://pleiades.stoa.org/places/795838)
 
 
 ## GEO ID 3172: Pakerkeesis
@@ -12938,6 +12987,13 @@
  - [Kranaion Antron](https://pleiades.stoa.org/places/589881)
 
 
+## GEO ID 33253: Elyros (Rodobani)
+[https://www.trismegistos.org/place/33253](https://www.trismegistos.org/place/33253)  
+
+### alignments:
+ - [Elyros](https://pleiades.stoa.org/places/589775)
+
+
 ## GEO ID 3325: Borbetomagus (Worms)
 [http://www.trismegistos.org/place/3325](http://www.trismegistos.org/place/3325)  
 
@@ -13309,6 +13365,13 @@
  - [Theveste](https://pleiades.stoa.org/places/324831)
 
 
+## GEO ID 33579: Mopsion
+[https://www.trismegistos.org/place/33579](https://www.trismegistos.org/place/33579)  
+
+### alignments:
+ - [Mopsion](https://pleiades.stoa.org/places/540950)
+
+
 ## GEO ID 33585: Pherai (Velestino)
 [http://www.trismegistos.org/place/33585](http://www.trismegistos.org/place/33585)  
 
@@ -13638,6 +13701,13 @@
  - [Axiotta](https://pleiades.stoa.org/places/614621)
 
 
+## GEO ID 3444: Primis Megale (Amara West)
+[https://www.trismegistos.org/place/3444](https://www.trismegistos.org/place/3444)  
+
+### alignments:
+ - [Pdeme](https://pleiades.stoa.org/places/795841)
+
+
 ## GEO ID 34461: Temenouthyrai (Uşak)
 [https://www.trismegistos.org/place/34461](https://www.trismegistos.org/place/34461)  
 
@@ -13664,6 +13734,13 @@
 
 ### alignments:
  - [Apollonia ad Rhyndacum](https://pleiades.stoa.org/places/511151)
+
+
+## GEO ID 3453: Napata (Gebel Barkal)
+[http://www.trismegistos.org/place/3453](http://www.trismegistos.org/place/3453)  
+
+### alignments:
+ - [Napata](https://pleiades.stoa.org/places/805634)
 
 
 ## GEO ID 34544: Germe (Kiresun)
@@ -13722,6 +13799,13 @@
  - [*Thiounta](https://pleiades.stoa.org/places/609556)
 
 
+## GEO ID 3468: Soleb
+[http://www.trismegistos.org/place/3468](http://www.trismegistos.org/place/3468)  
+
+### alignments:
+ - [Soleb](https://pleiades.stoa.org/places/795863)
+
+
 ## GEO ID 34719: Pogla (Çomaklı)
 [https://www.trismegistos.org/place/34719](https://www.trismegistos.org/place/34719)  
 
@@ -13748,6 +13832,13 @@
 
 ### alignments:
  - [Neandria](https://pleiades.stoa.org/places/550772)
+
+
+## GEO ID 3474: Semna
+[https://www.trismegistos.org/place/3474](https://www.trismegistos.org/place/3474)  
+
+### alignments:
+ - [Semna](https://pleiades.stoa.org/places/795856)
 
 
 ## GEO ID 34751: Sigeion (Yenişehir)
@@ -15002,6 +15093,13 @@
 
 ### alignments:
  - [Terravecchia di Grammichele](https://pleiades.stoa.org/places/462510)
+
+
+## GEO ID 38497: Rhode
+[https://www.trismegistos.org/place/38497](https://www.trismegistos.org/place/38497)  
+
+### alignments:
+ - [R(h)oda](https://pleiades.stoa.org/places/246588)
 
 
 ## GEO ID 38512: Saepo (Dehesa de la Fantasia)
@@ -18735,6 +18833,13 @@
  - [Phrygia II](https://pleiades.stoa.org/places/991394)
 
 
+## GEO ID 42681: Rodope [provincia]
+[https://www.trismegistos.org/place/42681](https://www.trismegistos.org/place/42681)  
+
+### alignments:
+ - [Rhodope](https://pleiades.stoa.org/places/991370)
+
+
 ## GEO ID 42684
 [https://www.trismegistos.org/place/42684](https://www.trismegistos.org/place/42684)  
 
@@ -21124,6 +21229,13 @@
  - [Anio (river)](https://pleiades.stoa.org/places/422834)
 
 
+## GEO ID 50234: Rhodope
+[https://www.trismegistos.org/place/50234](https://www.trismegistos.org/place/50234)  
+
+### alignments:
+ - [Rhodope (mountain)](https://pleiades.stoa.org/places/501592)
+
+
 ## GEO ID 50347: Cercina (Grand Kerkenna)
 [http://www.trismegistos.org/place/50347](http://www.trismegistos.org/place/50347)  
 
@@ -21943,6 +22055,13 @@
 
 ### alignments:
  - [Numidia (region)](https://pleiades.stoa.org/places/305120)
+
+
+## GEO ID 6057: Pnoups (Dokki Gel)
+[https://www.trismegistos.org/place/6057](https://www.trismegistos.org/place/6057)  
+
+### alignments:
+ - [Pnoups](https://pleiades.stoa.org/places/40253)
 
 
 ## GEO ID 60648: Panormos

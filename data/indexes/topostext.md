@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3376 alignments exist in _Pleiades_ place references as of 2024-05-10. The following list of alignments is grouped by zotkey.
+3377 alignments exist in _Pleiades_ place references as of 2024-05-13. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -19248,6 +19248,13 @@
 
 ### alignments:
  - [Rhizous](https://pleiades.stoa.org/places/541085)
+
+
+## Rhodanus river (Gallia)
+[https://topostext.org/place/437046WRho](https://topostext.org/place/437046WRho)  
+
+### alignments:
+ - [Rhodanus (river)](https://pleiades.stoa.org/places/148168)
 
 
 ## Rhode (Spain)

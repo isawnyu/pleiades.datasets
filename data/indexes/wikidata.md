@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3405 alignments exist in _Pleiades_ place references as of 2024-05-10. The following list of alignments is grouped by zotkey.
+3415 alignments exist in _Pleiades_ place references as of 2024-05-13. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1550,11 +1550,25 @@
  - [Dipylon Gate](https://pleiades.stoa.org/places/310115518)
 
 
+## Dokki Gel (Q16964645)
+[https://www.wikidata.org/wiki/Q16964645](https://www.wikidata.org/wiki/Q16964645)  
+
+### alignments:
+ - [Pnoups](https://pleiades.stoa.org/places/40253)
+
+
 ## Doliche (Q3565767)
 [https://www.wikidata.org/wiki/Q3565767](https://www.wikidata.org/wiki/Q3565767)  
 
 ### alignments:
  - [Doliche](https://pleiades.stoa.org/places/491576)
+
+
+## Dorginarti (Q11917692)
+[https://www.wikidata.org/wiki/Q11917692](https://www.wikidata.org/wiki/Q11917692)  
+
+### alignments:
+ - [Dorginarti](https://pleiades.stoa.org/places/795802)
 
 
 ## Doric temple of Segesta (Q3983280)
@@ -2390,6 +2404,13 @@
  - [Kavousi Vronda](https://pleiades.stoa.org/places/247348185)
 
 
+## Kawa (Q1341882)
+[https://www.wikidata.org/wiki/Q1341882](https://www.wikidata.org/wiki/Q1341882)  
+
+### alignments:
+ - [Kawa](https://pleiades.stoa.org/places/805647)
+
+
 ## Kaymakçı Tepe (Q115805884)
 [https://www.wikidata.org/wiki/Q115805884](https://www.wikidata.org/wiki/Q115805884)  
 
@@ -3223,6 +3244,13 @@
  - [New Bouleuterion](https://pleiades.stoa.org/places/502723225)
 
 
+## Nicaea (Q739037)
+[https://www.wikidata.org/wiki/Q739037](https://www.wikidata.org/wiki/Q739037)  
+
+### alignments:
+ - [Helikore/Nicaea](https://pleiades.stoa.org/places/511268)
+
+
 ## Nisaea (Q2537089)
 [https://www.wikidata.org/wiki/Q2537089](https://www.wikidata.org/wiki/Q2537089)  
 
@@ -3319,6 +3347,13 @@
 
 ### alignments:
  - [Odigitria tholos cemetery](https://pleiades.stoa.org/places/685778973)
+
+
+## Old Dongola (Q433112)
+[https://www.wikidata.org/wiki/Q433112](https://www.wikidata.org/wiki/Q433112)  
+
+### alignments:
+ - [Dongola](https://pleiades.stoa.org/places/865674318)
 
 
 ## Old Kandahar (Q7084310)
@@ -3837,6 +3872,13 @@
 
 ### alignments:
  - [Porticus Minucia](https://pleiades.stoa.org/places/698151983)
+
+
+## Porto (Q3399339)
+[https://www.wikidata.org/wiki/Q3399339](https://www.wikidata.org/wiki/Q3399339)  
+
+### alignments:
+ - [Kirkidios (river)](https://pleiades.stoa.org/places/472085)
 
 
 ## Portus (Q2037271)
@@ -22375,6 +22417,13 @@
  - [Castra Praetorii Mobeni](https://pleiades.stoa.org/places/697647)
 
 
+## Qohaito (Q4236500)
+[https://www.wikidata.org/wiki/Q4236500](https://www.wikidata.org/wiki/Q4236500)  
+
+### alignments:
+ - [Qohaito](https://pleiades.stoa.org/places/698596572)
+
+
 ## Quintus Lollius Urbicus Mausoleum (Q86725228)
 [https://www.wikidata.org/wiki/Q86725228](https://www.wikidata.org/wiki/Q86725228)  
 
@@ -22422,6 +22471,20 @@
 
 ### alignments:
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
+
+
+## Rhodope (Q2528747)
+[https://www.wikidata.org/wiki/Q2528747](https://www.wikidata.org/wiki/Q2528747)  
+
+### alignments:
+ - [Rhodope](https://pleiades.stoa.org/places/991370)
+
+
+## Rhône (Q602)
+[https://www.wikidata.org/wiki/Q602](https://www.wikidata.org/wiki/Q602)  
+
+### alignments:
+ - [Rhodanus (river)](https://pleiades.stoa.org/places/148168)
 
 
 ## Ricina (Q3784754)
@@ -22843,6 +22906,13 @@
 
 ### alignments:
  - [Sely(m)bria/Eudoxiopolis](https://pleiades.stoa.org/places/511414)
+
+
+## Semna (Q1485667)
+[https://www.wikidata.org/wiki/Q1485667](https://www.wikidata.org/wiki/Q1485667)  
+
+### alignments:
+ - [Semna](https://pleiades.stoa.org/places/795856)
 
 
 ## Serifos (Q217214)
