@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3415 alignments exist in _Pleiades_ place references as of 2024-05-13. The following list of alignments is grouped by zotkey.
+3417 alignments exist in _Pleiades_ place references as of 2024-05-14. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -869,6 +869,13 @@
 
 ### alignments:
  - [Agaros (river)](https://pleiades.stoa.org/places/825219)
+
+
+## Berenike (Q4891275)
+[https://www.wikidata.org/wiki/Q4891275](https://www.wikidata.org/wiki/Q4891275)  
+
+### alignments:
+ - [Berenike?](https://pleiades.stoa.org/places/530819)
 
 
 ## Beşparmak Mountains (Q854649)
@@ -23488,6 +23495,13 @@
 
 ### alignments:
  - [Thetonion](https://pleiades.stoa.org/places/541145)
+
+
+## third cataract of the Nile (Q71108004)
+[https://www.wikidata.org/wiki/Q71108004](https://www.wikidata.org/wiki/Q71108004)  
+
+### alignments:
+ - [Cataracta Tertia](https://pleiades.stoa.org/places/805602)
 
 
 ## Tholos of Athens (Q9087412)

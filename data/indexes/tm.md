@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3395 alignments exist in _Pleiades_ place references as of 2024-05-13. The following list of alignments is grouped by zotkey.
+3400 alignments exist in _Pleiades_ place references as of 2024-05-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11054,6 +11054,13 @@
  - [Harran/Carrhae](https://pleiades.stoa.org/places/658427)
 
 
+## GEO ID 3145: Meinarti
+[https://www.trismegistos.org/place/3145](https://www.trismegistos.org/place/3145)  
+
+### alignments:
+ - [Meinarti](https://pleiades.stoa.org/places/795830)
+
+
 ## GEO ID 31460: Statio (Angera)
 [https://www.trismegistos.org/place/31460](https://www.trismegistos.org/place/31460)  
 
@@ -17846,6 +17853,13 @@
  - [Caballucome](https://pleiades.stoa.org/places/619130)
 
 
+## GEO ID 419: Berenike
+[https://www.trismegistos.org/place/419](https://www.trismegistos.org/place/419)  
+
+### alignments:
+ - [Berenike?](https://pleiades.stoa.org/places/530819)
+
+
 ## GEO ID 42001: Kyzistra
 [https://www.trismegistos.org/place/42001](https://www.trismegistos.org/place/42001)  
 
@@ -18756,6 +18770,13 @@
  - [Sangarius (river)](https://pleiades.stoa.org/places/511406)
 
 
+## GEO ID 425: Berenikes Hormos
+[http://www.trismegistos.org/place/425](http://www.trismegistos.org/place/425)  
+
+### alignments:
+ - [Berenikes Hormos](https://pleiades.stoa.org/places/730097)
+
+
 ## GEO ID 42608: Ida (Kaz Dağı)
 [https://www.trismegistos.org/place/42608](https://www.trismegistos.org/place/42608)  
 
@@ -18887,6 +18908,13 @@
 
 ### alignments:
  - [Novem Populi](https://pleiades.stoa.org/places/991325)
+
+
+## GEO ID 426: Berenikes Nomos
+[https://www.trismegistos.org/place/426](https://www.trismegistos.org/place/426)  
+
+### alignments:
+ - [Berenikes Nomos](https://pleiades.stoa.org/places/727083)
 
 
 ## GEO ID 42702: Flaminia et Picenum
@@ -19202,6 +19230,13 @@
 
 ### alignments:
  - [Tempagnano](https://pleiades.stoa.org/places/403281)
+
+
+## GEO ID 430: Berenikis Thesmophorou
+[http://www.trismegistos.org/place/430](http://www.trismegistos.org/place/430)  
+
+### alignments:
+ - [Berenikis Thesmophorou](https://pleiades.stoa.org/places/741443)
 
 
 ## GEO ID 4311: Zeugma (Balkis)
