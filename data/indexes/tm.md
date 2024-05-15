@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3400 alignments exist in _Pleiades_ place references as of 2024-05-14. The following list of alignments is grouped by zotkey.
+3406 alignments exist in _Pleiades_ place references as of 2024-05-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3100,6 +3100,13 @@
  - [Mothites Nomos](https://pleiades.stoa.org/places/776203)
 
 
+## GEO ID 1258: Limyra (Yuvalılar)
+[https://www.trismegistos.org/place/1258](https://www.trismegistos.org/place/1258)  
+
+### alignments:
+ - [Limyra](https://pleiades.stoa.org/places/638961)
+
+
 ## GEO ID 12640: Nea Polis (Nablus)
 [https://www.trismegistos.org/place/12640](https://www.trismegistos.org/place/12640)  
 
@@ -5716,7 +5723,7 @@
 [https://www.trismegistos.org/place/16280](https://www.trismegistos.org/place/16280)  
 
 ### alignments:
- - [Bithynia et Pontus](https://pleiades.stoa.org/places/981512)
+ - [Bithynia et Pontus (province)](https://pleiades.stoa.org/places/981512)
 
 
 ## GEO ID 16285: Komana (Kılıçlı)
@@ -7483,6 +7490,13 @@
  - [Rotomagus](https://pleiades.stoa.org/places/109287)
 
 
+## GEO ID 19954: Bracara Augusta (Braga)
+[http://www.trismegistos.org/place/19954](http://www.trismegistos.org/place/19954)  
+
+### alignments:
+ - [Bracara Augusta](https://pleiades.stoa.org/places/236377)
+
+
 ## GEO ID 19955: Terdec
 [https://www.trismegistos.org/place/19955](https://www.trismegistos.org/place/19955)  
 
@@ -8776,6 +8790,20 @@
 
 ### alignments:
  - [Ad Fines](https://pleiades.stoa.org/places/617392611)
+
+
+## GEO ID 23: Abounkis (Kobodi)
+[https://www.trismegistos.org/place/23](https://www.trismegistos.org/place/23)  
+
+### alignments:
+ - [Abounkis](https://pleiades.stoa.org/places/798037)
+
+
+## GEO ID 2400: This (Girga)
+[http://www.trismegistos.org/place/2400](http://www.trismegistos.org/place/2400)  
+
+### alignments:
+ - [This](https://pleiades.stoa.org/places/756659)
 
 
 ## GEO ID 24030: Mauves-sur-Loire
@@ -13799,6 +13827,13 @@
  - [Midaion](https://pleiades.stoa.org/places/609473)
 
 
+## GEO ID 3463: Araba (Wad Ban Naga)
+[http://www.trismegistos.org/place/3463](http://www.trismegistos.org/place/3463)  
+
+### alignments:
+ - [Araba](https://pleiades.stoa.org/places/805591)
+
+
 ## GEO ID 34656: Thiounta (Gözler)
 [https://www.trismegistos.org/place/34656](https://www.trismegistos.org/place/34656)  
 
@@ -15779,6 +15814,13 @@
 
 ### alignments:
  - [Anneianum](https://pleiades.stoa.org/places/397887)
+
+
+## GEO ID 40744: Castellum (Marradi)
+[http://www.trismegistos.org/place/40744](http://www.trismegistos.org/place/40744)  
+
+### alignments:
+ - [Castellum](https://pleiades.stoa.org/places/393401)
 
 
 ## GEO ID 40745: Anneianum (S. Giovanni Maggiore?)

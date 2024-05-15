@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3417 alignments exist in _Pleiades_ place references as of 2024-05-14. The following list of alignments is grouped by zotkey.
+3419 alignments exist in _Pleiades_ place references as of 2024-05-15. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3816,6 +3816,13 @@
 
 ### alignments:
  - [Pompeion](https://pleiades.stoa.org/places/973421832)
+
+
+## Ponte d'Augusto (Q2063557)
+[https://www.wikidata.org/wiki/Q2063557](https://www.wikidata.org/wiki/Q2063557)  
+
+### alignments:
+ - [Ponte d'Augusto](https://pleiades.stoa.org/places/967100965)
 
 
 ## Ponte da Ladeira dos Envendos, sobre a ribeira de Pracana (Q66814941)
@@ -14732,6 +14739,13 @@
 
 ### alignments:
  - [Iathrippa](https://pleiades.stoa.org/places/814688)
+
+
+## Q3552694
+[https://www.wikidata.org/wiki/Q3552694](https://www.wikidata.org/wiki/Q3552694)  
+
+### alignments:
+ - [Utens (river)](https://pleiades.stoa.org/places/393508)
 
 
 ## Q3555969: Adrasteia
