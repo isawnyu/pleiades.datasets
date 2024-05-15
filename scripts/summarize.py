@@ -107,6 +107,8 @@ def get_json_changes(url):
         msg = f"{new_count} new place"
     elif updated_count:
         msg = f"{updated_count} updated place"
+    else:
+        msg = "No new or updated places"
     total = new_count + updated_count
     if total > 1:
         msg += "s"
