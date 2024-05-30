@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3377 alignments exist in _Pleiades_ place references as of 2024-05-15. The following list of alignments is grouped by zotkey.
+3383 alignments exist in _Pleiades_ place references as of 2024-05-30. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1290,6 +1290,13 @@
 
 ### alignments:
  - [Alsium](https://pleiades.stoa.org/places/422831)
+
+
+## Altar of Athena (Athens Acropolis) 3 Acropolis of Athens
+[https://topostext.org/place/380237SAA2](https://topostext.org/place/380237SAA2)  
+
+### alignments:
+ - [Great altar of Athena](https://pleiades.stoa.org/places/521295193)
 
 
 ## Altar of the Twelve Gods (Athens Agora)
@@ -9035,6 +9042,20 @@
  - [Herakleion](https://pleiades.stoa.org/places/491617)
 
 
+## Herakleopolis (Egypt)
+[https://topostext.org/place/290309UHer](https://topostext.org/place/290309UHer)  
+
+### alignments:
+ - [Herakleopolis](https://pleiades.stoa.org/places/736920)
+
+
+## Herakleopolis Mikra/Sethroe (Egypt)
+[https://topostext.org/place/309321UHer](https://topostext.org/place/309321UHer)  
+
+### alignments:
+ - [Herakleopolis Mikra/Sethroe](https://pleiades.stoa.org/places/727121)
+
+
 ## Herakleopolis/Sebastoupolis (Pontus)
 [https://topostext.org/place/400361UHer](https://topostext.org/place/400361UHer)  
 
@@ -9861,6 +9882,13 @@
 
 ### alignments:
  - [Ioppe](https://pleiades.stoa.org/places/687931)
+
+
+## Ioron? Palatianon exc. (Kilkis)
+[https://topostext.org/place/410229XPal](https://topostext.org/place/410229XPal)  
+
+### alignments:
+ - [Palatianon](https://pleiades.stoa.org/places/491681)
 
 
 ## Ios (Cyclades)
@@ -15645,6 +15673,13 @@
  - [Olympia](https://pleiades.stoa.org/places/570531)
 
 
+## Olympias/Gonnocondylus (Thessaly)
+[https://topostext.org/place/399225UOly](https://topostext.org/place/399225UOly)  
+
+### alignments:
+ - [Olympias/Gonnocondylus](https://pleiades.stoa.org/places/540982)
+
+
 ## Olympieion Zeus T. (Athens)
 [https://topostext.org/place/380237SOly](https://topostext.org/place/380237SOly)  
 
@@ -20470,6 +20505,13 @@
 
 ### alignments:
  - [Skales](https://pleiades.stoa.org/places/707622)
+
+
+## Skamander R. (Troad)
+[https://topostext.org/place/400262WSka](https://topostext.org/place/400262WSka)  
+
+### alignments:
+ - [Scamander (river)](https://pleiades.stoa.org/places/550871)
 
 
 ## Skambonidai (Athens)

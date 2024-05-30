@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-429 alignments exist in _Pleiades_ place references as of 2024-05-15. The following list of alignments is grouped by zotkey.
+438 alignments exist in _Pleiades_ place references as of 2024-05-30. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1079,6 +1079,13 @@
  - [Garates (river)](https://pleiades.stoa.org/places/570253)
 
 
+## 10268768: Lampsacos (Troad)
+[https://resource.manto.unh.edu/10268768](https://resource.manto.unh.edu/10268768)  
+
+### alignments:
+ - [Pityoussa/Lampsacus](https://pleiades.stoa.org/places/501570)
+
+
 ## 10268847: River Erymanthos (Elis/Arcadia)
 [https://resource.manto.unh.edu/10268847](https://resource.manto.unh.edu/10268847)  
 
@@ -1252,6 +1259,13 @@
 
 ### alignments:
  - [Sanctuary of Poseidon (Onchestos)](https://pleiades.stoa.org/places/162490152)
+
+
+## 10774934: Parion (Troad)
+[https://resource.manto.unh.edu/10774934](https://resource.manto.unh.edu/10774934)  
+
+### alignments:
+ - [Parium/Col. Gemella Iulia *Hadriana](https://pleiades.stoa.org/places/511354)
 
 
 ## 10774937: the Sanctuary of Heracles (Thespiai)
@@ -1555,6 +1569,20 @@
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
 
 
+## 11311527: Astyra (Troad)
+[https://resource.manto.unh.edu/11311527](https://resource.manto.unh.edu/11311527)  
+
+### alignments:
+ - [Astyra](https://pleiades.stoa.org/places/501364)
+
+
+## 11312457: Ophryneion (Troad)
+[https://resource.manto.unh.edu/11312457](https://resource.manto.unh.edu/11312457)  
+
+### alignments:
+ - [Ophryneion](https://pleiades.stoa.org/places/550787)
+
+
 ## 8188819: Naxos (island)
 [https://resource.manto.unh.edu/8188819](https://resource.manto.unh.edu/8188819)  
 
@@ -1667,6 +1695,13 @@
  - [Taurike Chersonesos](https://pleiades.stoa.org/places/226778)
 
 
+## 8195104: River Scamandros (Troad)
+[https://resource.manto.unh.edu/8195104](https://resource.manto.unh.edu/8195104)  
+
+### alignments:
+ - [Scamander (river)](https://pleiades.stoa.org/places/550871)
+
+
 ## 8195127: Lesbos (island)
 [https://resource.manto.unh.edu/8195127](https://resource.manto.unh.edu/8195127)  
 
@@ -1679,6 +1714,20 @@
 
 ### alignments:
  - [Tenos (settlement)](https://pleiades.stoa.org/places/590073)
+
+
+## 8195155: Lyrnessos (Troad)
+[https://resource.manto.unh.edu/8195155](https://resource.manto.unh.edu/8195155)  
+
+### alignments:
+ - [Lyrnessos](https://pleiades.stoa.org/places/550703)
+
+
+## 8195169: Zeleia (Troad)
+[https://resource.manto.unh.edu/8195169](https://resource.manto.unh.edu/8195169)  
+
+### alignments:
+ - [Zeleia](https://pleiades.stoa.org/places/511461)
 
 
 ## 8195173: Adrasteia (Troad)
@@ -2753,11 +2802,25 @@
  - [Carthago](https://pleiades.stoa.org/places/314921)
 
 
+## 9721294: Pharos (Egypt)
+[https://resource.manto.unh.edu/9721294](https://resource.manto.unh.edu/9721294)  
+
+### alignments:
+ - [Pharos](https://pleiades.stoa.org/places/727197)
+
+
 ## 9721323: Naples (Italy)
 [https://resource.manto.unh.edu/9721323](https://resource.manto.unh.edu/9721323)  
 
 ### alignments:
  - [Parthenope/Neapolis](https://pleiades.stoa.org/places/433014)
+
+
+## 9721333: Claros (Ionia)
+[https://resource.manto.unh.edu/9721333](https://resource.manto.unh.edu/9721333)  
+
+### alignments:
+ - [Klaros](https://pleiades.stoa.org/places/599719)
 
 
 ## 9746287: the Lipari Islands
