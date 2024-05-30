@@ -201,11 +201,11 @@
             },
             "id": "osm-location-of-archeological-site-of-palamari",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/263405328/osm-location-of-archeological-site-of-palamari",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "OSM location of Archeological Site of Palamari"
+                "snippet": "Archaeological-site; 3000 BC - 1000 BC",
+                "title": "OSM location of Archaeological Site of Palamari"
             },
             "type": "Feature"
         }
@@ -246,7 +246,20 @@
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "2nd-millenium-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
+                }
+            ],
             "contributors": [],
             "created": "2021-11-15T03:29:21Z",
             "creators": [
@@ -257,14 +270,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": -1000,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
@@ -373,6 +386,11 @@
             },
             "history": [
                 {
+                    "comment": "add time period, update title, summary, location type",
+                    "modified": "2024-05-26T15:29:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2022-01-02T22:35:07Z",
                     "modifiedBy": "thomase"
@@ -403,7 +421,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "provenance": "OpenStreetMap (Way 609562905, version 1, osm:changeset=60913363, 2018-07-20T16:50:42Z)",
             "references": [
@@ -420,8 +438,8 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "OSM location of Archeological Site of Palamari",
+            "start": -3000,
+            "title": "OSM location of Archaeological Site of Palamari",
             "uri": "https://pleiades.stoa.org/places/263405328/osm-location-of-archeological-site-of-palamari"
         }
     ],
