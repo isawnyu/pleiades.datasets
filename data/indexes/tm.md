@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3477 alignments exist in _Pleiades_ place references as of 2024-05-30. The following list of alignments is grouped by zotkey.
+3480 alignments exist in _Pleiades_ place references as of 2024-06-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9126,6 +9126,13 @@
 
 ### alignments:
  - [Albaniana](https://pleiades.stoa.org/places/98908)
+
+
+## GEO ID 24465: Lugdunum Batavorum (Katwijk aan Zee)
+[https://www.trismegistos.org/place/24465](https://www.trismegistos.org/place/24465)  
+
+### alignments:
+ - [Lugdunum](https://pleiades.stoa.org/places/99003)
 
 
 ## GEO ID 24466: Forum Hadriani (Voorburg)
@@ -22667,6 +22674,13 @@
  - [Pharmakoussai/Choirades (islands)](https://pleiades.stoa.org/places/580073)
 
 
+## GEO ID 60762: Sphairia
+[https://www.trismegistos.org/place/60762](https://www.trismegistos.org/place/60762)  
+
+### alignments:
+ - [Sphairia (island)](https://pleiades.stoa.org/places/573531)
+
+
 ## GEO ID 60767: Kynosoura (Stomi)
 [https://www.trismegistos.org/place/60767](https://www.trismegistos.org/place/60767)  
 
@@ -22693,6 +22707,13 @@
 
 ### alignments:
  - [Drymos](https://pleiades.stoa.org/places/585903)
+
+
+## GEO ID 60793: Pogon
+[https://www.trismegistos.org/place/60793](https://www.trismegistos.org/place/60793)  
+
+### alignments:
+ - [Pogon](https://pleiades.stoa.org/places/570622)
 
 
 ## GEO ID 60794: Kynosoura (Barbaro)

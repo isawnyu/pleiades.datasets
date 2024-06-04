@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3383 alignments exist in _Pleiades_ place references as of 2024-05-30. The following list of alignments is grouped by zotkey.
+3387 alignments exist in _Pleiades_ place references as of 2024-06-04. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3336,6 +3336,13 @@
 
 ### alignments:
  - [Astale](https://pleiades.stoa.org/places/589715)
+
+
+## Asterion R. (Argolid)
+[https://topostext.org/place/378228WAst](https://topostext.org/place/378228WAst)  
+
+### alignments:
+ - [Asterion (river)](https://pleiades.stoa.org/places/570133)
 
 
 ## Astigi/Astigis/Col. Augusta Firma (Iberia)
@@ -18281,6 +18288,13 @@
  - [Pnyx fountain](https://pleiades.stoa.org/places/136008628)
 
 
+## Pogon (Troizenia)
+[https://topostext.org/place/378233HPog](https://topostext.org/place/378233HPog)  
+
+### alignments:
+ - [Pogon](https://pleiades.stoa.org/places/570622)
+
+
 ## Pogonia site (Akarnania)
 [https://topostext.org/place/388208XPog](https://topostext.org/place/388208XPog)  
 
@@ -18693,6 +18707,13 @@
 
 ### alignments:
  - [Poseidion](https://pleiades.stoa.org/places/541068)
+
+
+## Poseidon of Kalaureia (Poros)
+[https://topostext.org/place/375235SKal](https://topostext.org/place/375235SKal)  
+
+### alignments:
+ - [Sanctuary of Poseidon at Kalaureia, Poros](https://pleiades.stoa.org/places/705163201)
 
 
 ## Poseidon Porthmios (Karpathos)
@@ -20794,6 +20815,13 @@
 
 ### alignments:
  - [Spercheiai](https://pleiades.stoa.org/places/541111)
+
+
+## Sphairia? (Poros)
+[https://topostext.org/place/375235ISph](https://topostext.org/place/375235ISph)  
+
+### alignments:
+ - [Sphairia (island)](https://pleiades.stoa.org/places/573531)
 
 
 ## Sphakteria (Messenia)

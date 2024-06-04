@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-438 alignments exist in _Pleiades_ place references as of 2024-05-30. The following list of alignments is grouped by zotkey.
+444 alignments exist in _Pleiades_ place references as of 2024-06-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -960,6 +960,13 @@
  - [Hagno (spring)](https://pleiades.stoa.org/places/573238)
 
 
+## 10214871: Sacred Island (Argolid)
+[https://resource.manto.unh.edu/10214871](https://resource.manto.unh.edu/10214871)  
+
+### alignments:
+ - [Sphairia (island)](https://pleiades.stoa.org/places/573531)
+
+
 ## 10214901: Calaureia (Island)
 [https://resource.manto.unh.edu/10214901](https://resource.manto.unh.edu/10214901)  
 
@@ -1583,6 +1590,13 @@
  - [Ophryneion](https://pleiades.stoa.org/places/550787)
 
 
+## 8188816: Epidauros (Argolid)
+[https://resource.manto.unh.edu/8188816](https://resource.manto.unh.edu/8188816)  
+
+### alignments:
+ - [Epidauros](https://pleiades.stoa.org/places/570228)
+
+
 ## 8188819: Naxos (island)
 [https://resource.manto.unh.edu/8188819](https://resource.manto.unh.edu/8188819)  
 
@@ -1976,11 +1990,25 @@
  - [Onchestos](https://pleiades.stoa.org/places/540984)
 
 
+## 8253971: Nemea (Argolid)
+[https://resource.manto.unh.edu/8253971](https://resource.manto.unh.edu/8253971)  
+
+### alignments:
+ - [Nemea](https://pleiades.stoa.org/places/570504)
+
+
 ## 8253972: Delphi (city and sanctuary in Phocis)
 [https://resource.manto.unh.edu/8253972](https://resource.manto.unh.edu/8253972)  
 
 ### alignments:
  - [Delphi](https://pleiades.stoa.org/places/540726)
+
+
+## 8253973: Cleonai (Argolid)
+[https://resource.manto.unh.edu/8253973](https://resource.manto.unh.edu/8253973)  
+
+### alignments:
+ - [Kleonai](https://pleiades.stoa.org/places/570361)
 
 
 ## 8253979: Mount Erymanthos (mountain in Arcadia)
@@ -2135,6 +2163,13 @@
 
 ### alignments:
  - [Messenia](https://pleiades.stoa.org/places/570480)
+
+
+## 8254130: Phlious (Argolid)
+[https://resource.manto.unh.edu/8254130](https://resource.manto.unh.edu/8254130)  
+
+### alignments:
+ - [Phleious](https://pleiades.stoa.org/places/570602)
 
 
 ## 8254131: Samos (island)
@@ -2667,6 +2702,13 @@
 
 ### alignments:
  - [Pereia](https://pleiades.stoa.org/places/541025)
+
+
+## 9719383: Pheneos (Arcadia)
+[https://resource.manto.unh.edu/9719383](https://resource.manto.unh.edu/9719383)  
+
+### alignments:
+ - [Pheneos](https://pleiades.stoa.org/places/570595)
 
 
 ## 9719384: Orchomenos (Arcadia)

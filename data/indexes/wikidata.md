@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3443 alignments exist in _Pleiades_ place references as of 2024-05-30. The following list of alignments is grouped by zotkey.
+3447 alignments exist in _Pleiades_ place references as of 2024-06-04. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1291,6 +1291,13 @@
  - [Kirra](https://pleiades.stoa.org/places/540868)
 
 
+## Cleonae (Q1774167)
+[https://www.wikidata.org/wiki/Q1774167](https://www.wikidata.org/wiki/Q1774167)  
+
+### alignments:
+ - [Kleonai](https://pleiades.stoa.org/places/570361)
+
+
 ## Clusiolum (Q124156569)
 [https://www.wikidata.org/wiki/Q124156569](https://www.wikidata.org/wiki/Q124156569)  
 
@@ -1765,6 +1772,13 @@
 
 ### alignments:
  - [Southeast fountain house](https://pleiades.stoa.org/places/124501558)
+
+
+## Epidaurus (Q233576)
+[https://www.wikidata.org/wiki/Q233576](https://www.wikidata.org/wiki/Q233576)  
+
+### alignments:
+ - [Epidauros](https://pleiades.stoa.org/places/570228)
 
 
 ## Erasinos (Q12877267)
@@ -3846,6 +3860,13 @@
  - [Philaidai](https://pleiades.stoa.org/places/580075)
 
 
+## Phlius (Q1412043)
+[https://www.wikidata.org/wiki/Q1412043](https://www.wikidata.org/wiki/Q1412043)  
+
+### alignments:
+ - [Phleious](https://pleiades.stoa.org/places/570602)
+
+
 ## Phlya (Q13424335)
 [https://www.wikidata.org/wiki/Q13424335](https://www.wikidata.org/wiki/Q13424335)  
 
@@ -3928,6 +3949,13 @@
 
 ### alignments:
  - [Pnyx](https://pleiades.stoa.org/places/205264674)
+
+
+## Pogon (Q25168416)
+[https://www.wikidata.org/wiki/Q25168416](https://www.wikidata.org/wiki/Q25168416)  
+
+### alignments:
+ - [Pogon](https://pleiades.stoa.org/places/570622)
 
 
 ## Polyandrion of the Thespians (Q94626879)
@@ -7425,13 +7453,6 @@
 
 ### alignments:
  - [Temple of Minerva Medica](https://pleiades.stoa.org/places/540898685)
-
-
-## Q1412043: Phlius
-[https://www.wikidata.org/wiki/Q1412043](https://www.wikidata.org/wiki/Q1412043)  
-
-### alignments:
- - [Phleious](https://pleiades.stoa.org/places/570602)
 
 
 ## Q1416983: Villa rustica of Littlecote
@@ -11916,13 +11937,6 @@
 
 ### alignments:
  - [Via Amerina](https://pleiades.stoa.org/places/690508612)
-
-
-## Q233576: Epidaurus
-[https://www.wikidata.org/wiki/Q233576](https://www.wikidata.org/wiki/Q233576)  
-
-### alignments:
- - [Epidauros](https://pleiades.stoa.org/places/570228)
 
 
 ## Q2341283: Grange stone circle
@@ -20786,13 +20800,6 @@
  - [Mithraeum at Vindovala](https://pleiades.stoa.org/places/690508611)
 
 
-## Q739066: Via Ardeatina
-[https://www.wikidata.org/wiki/Q739066](https://www.wikidata.org/wiki/Q739066)  
-
-### alignments:
- - [Via Ardeatina](https://pleiades.stoa.org/places/587835546)
-
-
 ## Q740138
 [https://www.wikidata.org/wiki/Q740138](https://www.wikidata.org/wiki/Q740138)  
 
@@ -22894,6 +22901,13 @@
  - [Building IV on the Athenian Acropolis](https://pleiades.stoa.org/places/747002130)
 
 
+## Sanctuary of Poseidon at Kalaureia (Q38281326)
+[https://www.wikidata.org/wiki/Q38281326](https://www.wikidata.org/wiki/Q38281326)  
+
+### alignments:
+ - [Sanctuary of Poseidon at Kalaureia, Poros](https://pleiades.stoa.org/places/705163201)
+
+
 ## Sanctuary of the People and the Graces (Q125116985)
 [https://www.wikidata.org/wiki/Q125116985](https://www.wikidata.org/wiki/Q125116985)  
 
@@ -23200,6 +23214,13 @@
 
 ### alignments:
  - [Speos Artemidos](https://pleiades.stoa.org/places/756647)
+
+
+## Sphaeria (Q60791476)
+[https://www.wikidata.org/wiki/Q60791476](https://www.wikidata.org/wiki/Q60791476)  
+
+### alignments:
+ - [Sphairia (island)](https://pleiades.stoa.org/places/573531)
 
 
 ## Sphendale (Q19293978)
@@ -23951,6 +23972,13 @@
 
 ### alignments:
  - [Via Aemilia](https://pleiades.stoa.org/places/66908841)
+
+
+## Via Ardeatina (Q739066)
+[https://www.wikidata.org/wiki/Q739066](https://www.wikidata.org/wiki/Q739066)  
+
+### alignments:
+ - [Via Ardeatina](https://pleiades.stoa.org/places/587835546)
 
 
 ## Via Curia (Q28670463)
