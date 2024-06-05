@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-310 alignments exist in _Pleiades_ place references as of 2024-06-04. The following list of alignments is grouped by zotkey.
+312 alignments exist in _Pleiades_ place references as of 2024-06-05. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -286,6 +286,13 @@
 
 ### alignments:
  - [Klima](https://pleiades.stoa.org/places/449126342)
+
+
+## Report 6602: PISTYROS - 2017
+[https://chronique.efa.gr/?kroute=report&id=6602](https://chronique.efa.gr/?kroute=report&id=6602)  
+
+### alignments:
+ - [Pistyros](https://pleiades.stoa.org/places/501569)
 
 
 ## Report 8604: KIRRHA - 2019
@@ -1402,6 +1409,13 @@
 
 ### alignments:
  - [Sindos](https://pleiades.stoa.org/places/491717)
+
+
+## Toponyme 28802: Pondolivado, Domasli
+[https://chronique.efa.gr/?kroute=topo_public&id=28802](https://chronique.efa.gr/?kroute=topo_public&id=28802)  
+
+### alignments:
+ - [Pistyros](https://pleiades.stoa.org/places/501569)
 
 
 ## Toponyme 28816: Thasos, Thassos, Limenas, Limin

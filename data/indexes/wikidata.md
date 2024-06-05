@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3447 alignments exist in _Pleiades_ place references as of 2024-06-04. The following list of alignments is grouped by zotkey.
+3449 alignments exist in _Pleiades_ place references as of 2024-06-05. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -217,6 +217,13 @@
 
 ### alignments:
  - [Roman amphitheater at Al(l)ifae](https://pleiades.stoa.org/places/850009332)
+
+
+## Almopia (Q1078766)
+[https://www.wikidata.org/wiki/Q1078766](https://www.wikidata.org/wiki/Q1078766)  
+
+### alignments:
+ - [Almopia](https://pleiades.stoa.org/places/491518)
 
 
 ## Alopeke (Q2839314)
@@ -1093,6 +1100,13 @@
 
 ### alignments:
  - [House of Menander](https://pleiades.stoa.org/places/690549463)
+
+
+## Casa della Regina Carolina (VIII 3.14) (Q27688124)
+[https://www.wikidata.org/wiki/Q104522265](https://www.wikidata.org/wiki/Q104522265)  
+
+### alignments:
+ - [Casa della Regina Carolina](https://pleiades.stoa.org/places/26245224)
 
 
 ## Casa di Anicetus (Q27070366)
@@ -3927,7 +3941,7 @@
 [https://www.wikidata.org/wiki/Q1356251](https://www.wikidata.org/wiki/Q1356251)  
 
 ### alignments:
- - [Pistyros?](https://pleiades.stoa.org/places/501569)
+ - [Pistyros](https://pleiades.stoa.org/places/501569)
 
 
 ## Pitane (Q752699)
@@ -4685,13 +4699,6 @@
 
 ### alignments:
  - [Vescellium?](https://pleiades.stoa.org/places/442849)
-
-
-## Q104522265: Casa della Regina Carolina (VIII 3.14)
-[https://www.wikidata.org/wiki/Q104522265](https://www.wikidata.org/wiki/Q104522265)  
-
-### alignments:
- - [Casa della Regina Carolina](https://pleiades.stoa.org/places/26245224)
 
 
 ## Q104523713: Pistrinum of Betitius Placidus
@@ -23446,6 +23453,13 @@
 
 ### alignments:
  - [Temple of Artemis Agrotera](https://pleiades.stoa.org/places/277534797)
+
+
+## Temple of Athena (Assos) (Q108513185)
+[https://www.wikidata.org/wiki/Q108513185](https://www.wikidata.org/wiki/Q108513185)  
+
+### alignments:
+ - [Temple of Athena at Assos](https://pleiades.stoa.org/places/989985817)
 
 
 ## Temple of Athena at Cape Sounion (Q24204542)

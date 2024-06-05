@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3480 alignments exist in _Pleiades_ place references as of 2024-06-04. The following list of alignments is grouped by zotkey.
+3481 alignments exist in _Pleiades_ place references as of 2024-06-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14226,6 +14226,13 @@
  - [Smintheion](https://pleiades.stoa.org/places/550892)
 
 
+## GEO ID 34755: Almopia (Moglena)
+[http://www.trismegistos.org/place/34755](http://www.trismegistos.org/place/34755)  
+
+### alignments:
+ - [Almopia](https://pleiades.stoa.org/places/491518)
+
+
 ## GEO ID 347: Askalon
 [http://www.trismegistos.org/place/347](http://www.trismegistos.org/place/347)  
 
@@ -21998,7 +22005,7 @@
 [https://www.trismegistos.org/place/52835](https://www.trismegistos.org/place/52835)  
 
 ### alignments:
- - [Pistyros?](https://pleiades.stoa.org/places/501569)
+ - [Pistyros](https://pleiades.stoa.org/places/501569)
 
 
 ## GEO ID 528: Cyprus

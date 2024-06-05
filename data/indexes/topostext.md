@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3387 alignments exist in _Pleiades_ place references as of 2024-06-04. The following list of alignments is grouped by zotkey.
+3388 alignments exist in _Pleiades_ place references as of 2024-06-05. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1255,6 +1255,13 @@
 
 ### alignments:
  - [Almo (river)](https://pleiades.stoa.org/places/370793043)
+
+
+## Almopia region (Edessa)
+[https://topostext.org/place/410220RAlm](https://topostext.org/place/410220RAlm)  
+
+### alignments:
+ - [Almopia](https://pleiades.stoa.org/places/491518)
 
 
 ## Alopeke (Athens)
@@ -17653,7 +17660,7 @@
 [https://topostext.org/place/410246PPis](https://topostext.org/place/410246PPis)  
 
 ### alignments:
- - [Pistyros?](https://pleiades.stoa.org/places/501569)
+ - [Pistyros](https://pleiades.stoa.org/places/501569)
 
 
 ## Pisye (Caria)
