@@ -27,6 +27,7 @@ setuptools.setup(
         "requests",
         "requests-cache",
         "shapely",
+        "textnorm",
     ],
     python_requires=">=3.8.3",
 )

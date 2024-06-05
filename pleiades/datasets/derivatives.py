@@ -8,7 +8,7 @@
 """
 Code for making derivatives from JSON
 """
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 import csv
 import logging
 from pathlib import Path
@@ -16,6 +16,7 @@ from pprint import pformat
 import requests_cache
 from shapely.geometry import shape, box
 import sys
+from textnorm import normalize_space
 import traceback
 
 
@@ -97,6 +98,16 @@ class JSON2CSV:
     )
     vocabulary_keys = list(vocabulary_schema.keys())
 
+    time_periods_schema = dict(
+        key=lambda x: x["key"],
+        term=lambda x: x["term"],
+        definition=lambda x: x["definition"],
+        lower_bound=lambda x: x["lower-bound"],
+        upper_bound=lambda x: x["upper-bound"],
+        same_as=lambda x: x["same-as"],
+    )
+    time_periods_keys = list(time_periods_schema.keys())
+
     def write(self, source: list, dir: str):
         dirpath = Path(dir).expanduser().resolve()
         dirpath.mkdir(parents=True, exist_ok=True)
@@ -114,6 +125,7 @@ class JSON2CSV:
             "place_types",
             "places_place_types",
             "places",
+            "time_periods",
             "transcription_accuracy",
             "transcription_completeness",
         ]:
@@ -142,22 +154,64 @@ class JSON2CSV:
             if cr.status_code != 200:
                 cr.raise_for_status()
             component_soup = BeautifulSoup(cr.text, features="lxml")
-            term_text = component_soup.find("div", id="content").find("p").text.strip()
+            term_text = normalize_space(
+                component_soup.find("div", id="content").find("p").text
+            )
             components.append(
                 {
-                    "key": link["href"].split("/")[-1],
-                    "term": link.text.strip(),
+                    "key": normalize_space(link["href"].split("/")[-1]),
+                    "term": normalize_space(link.text),
                     "definition": term_text,
                 }
             )
+            if vocab_slug == "time-periods":
+                sub_div = (
+                    component_soup.find("div", id="content").find("div").find("div")
+                )
+                for sub_tag in sub_div.children:
+                    if not isinstance(sub_tag, Tag):
+                        continue
+                    try:
+                        sub_text = sub_tag.strong.text
+                    except AttributeError:
+                        logger = logging.getLogger()
+                        logger.error(component_uri)
+                        logger.error(sub_tag.prettify())
+                        raise
+                    if sub_text == "Lower bound:":
+                        components[-1]["lower-bound"] = normalize_space(
+                            sub_tag.span.text
+                        )
+                    elif sub_text == "Upper bound:":
+                        components[-1]["upper-bound"] = normalize_space(
+                            sub_tag.span.text
+                        )
+                    elif sub_text == "Same as:":
+                        try:
+                            components[-1]["same-as"] = normalize_space(sub_tag.a.text)
+                        except AttributeError:
+                            # this field can be blank
+                            components[-1]["same-as"] = ""
+                    try:
+                        components[-1]["same-as"]
+                    except KeyError:
+                        components[-1]["same-as"] = ""
         entries = list()
         for component in components:
-            entries.append(
-                {
-                    k: self.vocabulary_schema[k](component) or ""
-                    for k in self.vocabulary_keys
-                }
-            )
+            if vocab_slug == "time-periods":
+                entries.append(
+                    {
+                        k: self.time_periods_schema[k](component) or ""
+                        for k in self.time_periods_keys
+                    }
+                )
+            else:
+                entries.append(
+                    {
+                        k: self.vocabulary_schema[k](component) or ""
+                        for k in self.vocabulary_keys
+                    }
+                )
         self.logger.debug(pformat(entries, indent=4))
         return entries
 
@@ -290,6 +344,11 @@ class JSON2CSV:
     def _write_name_types_csv(self, source_places: list, dirpath: Path):
         parsed_terms = self._parse_vocab("name-types")
         filename = "name_types.csv"
+        self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
+
+    def _write_time_periods_csv(self, source_places: list, dirpath: Path):
+        parsed_terms = self._parse_vocab("time-periods")
+        filename = "time_periods.csv"
         self._write_csv(dirpath / filename, parsed_terms[0].keys(), parsed_terms)
 
     def _write_transcription_accuracy_csv(self, source_places: list, dirpath: Path):
