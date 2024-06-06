@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3388 alignments exist in _Pleiades_ place references as of 2024-06-05. The following list of alignments is grouped by zotkey.
+3399 alignments exist in _Pleiades_ place references as of 2024-06-06. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -667,6 +667,20 @@
 ### alignments:
  - [Aidepsos (spa)](https://pleiades.stoa.org/places/540602)
  - [Aidepsos? (polis)](https://pleiades.stoa.org/places/540601)
+
+
+## Aidoni Myc. cemetery exc. (Korinthia)
+[https://topostext.org/place/378226XAid](https://topostext.org/place/378226XAid)  
+
+### alignments:
+ - [Mycenaean cemetery at Aidonia](https://pleiades.stoa.org/places/720628459)
+
+
+## Aigai (Achaia)
+[https://topostext.org/place/382223PAig](https://topostext.org/place/382223PAig)  
+
+### alignments:
+ - [Aigai](https://pleiades.stoa.org/places/570040)
 
 
 ## Aigai (Aiolis)
@@ -2642,6 +2656,13 @@
 
 ### alignments:
  - [Arainon](https://pleiades.stoa.org/places/570099)
+
+
+## Araithyrea (Korinthia)
+[https://topostext.org/place/378226UAra](https://topostext.org/place/378226UAra)  
+
+### alignments:
+ - [Araithyrea/Phliasion](https://pleiades.stoa.org/places/573109)
 
 
 ## Araphen (Attica)
@@ -9541,6 +9562,13 @@
  - [Hypata](https://pleiades.stoa.org/places/540827)
 
 
+## Hyperesia (Achaia)
+[https://topostext.org/place/381224PHyp](https://topostext.org/place/381224PHyp)  
+
+### alignments:
+ - [Hyperasia](https://pleiades.stoa.org/places/573256)
+
+
 ## Hyria (Euboea)
 [https://topostext.org/place/385236UHyr](https://topostext.org/place/385236UHyr)  
 
@@ -10836,6 +10864,13 @@
  - [Keletron](https://pleiades.stoa.org/places/481877)
 
 
+## Kelossa Mt. (Korinthia) 2 Megalovouni - Κηλώσση
+[https://topostext.org/place/378228LKel](https://topostext.org/place/378228LKel)  
+
+### alignments:
+ - [Kelossa M.](https://pleiades.stoa.org/places/570345)
+
+
 ## Kenchreai (Argolid)
 [https://topostext.org/place/378229UKen](https://topostext.org/place/378229UKen)  
 
@@ -11628,6 +11663,13 @@
  - [Krannon/Ephyra](https://pleiades.stoa.org/places/540886)
 
 
+## Krathis R. (Achaia)
+[https://topostext.org/place/382223WKra](https://topostext.org/place/382223WKra)  
+
+### alignments:
+ - [Krathis (river)](https://pleiades.stoa.org/places/570381)
+
+
 ## Kremna (Pisidia)
 [https://topostext.org/place/375307UKre](https://topostext.org/place/375307UKre)  
 
@@ -11668,6 +11710,13 @@
 
 ### alignments:
  - [Kreusis](https://pleiades.stoa.org/places/540888)
+
+
+## Krios R. (Korinthia)
+[https://topostext.org/place/383228WKri](https://topostext.org/place/383228WKri)  
+
+### alignments:
+ - [Krios (river)](https://pleiades.stoa.org/places/570384)
 
 
 ## Kriou Metopon cape (Chania)
@@ -14901,6 +14950,7 @@
 
 ### alignments:
  - [Nemea](https://pleiades.stoa.org/places/570504)
+ - [Temple of Zeus at Nemea](https://pleiades.stoa.org/places/109791198)
 
 
 ## Nemetacum/Atrebatum
@@ -15664,6 +15714,13 @@
 
 ### alignments:
  - [Olophyxos](https://pleiades.stoa.org/places/501535)
+
+
+## Olouros? (Achaia)
+[https://topostext.org/place/368228UOlo](https://topostext.org/place/368228UOlo)  
+
+### alignments:
+ - [Olouros](https://pleiades.stoa.org/places/573406)
 
 
 ## Olous (Lasithi)
@@ -20901,6 +20958,13 @@
  - [Stadium of Delphi](https://pleiades.stoa.org/places/333036426)
 
 
+## Stadium of Nemea (Korinthia)
+[https://topostext.org/place/378227BSta](https://topostext.org/place/378227BSta)  
+
+### alignments:
+ - [Stadium at Nemea](https://pleiades.stoa.org/places/301013826)
+
+
 ## Stageira (Halkidiki)
 [https://topostext.org/place/406238PSta](https://topostext.org/place/406238PSta)  
 
@@ -22225,6 +22289,13 @@
  - [Thule (island)](https://pleiades.stoa.org/places/20624)
 
 
+## Thyamia? (Korinthia)
+[https://topostext.org/place/380232FThy](https://topostext.org/place/380232FThy)  
+
+### alignments:
+ - [Thyamia](https://pleiades.stoa.org/places/573560)
+
+
 ## Thyamis R. (Thesprotia)
 [https://topostext.org/place/398203WThy](https://topostext.org/place/398203WThy)  
 
@@ -22711,6 +22782,13 @@
 
 ### alignments:
  - [Trieres](https://pleiades.stoa.org/places/668392)
+
+
+## Trikaranon Mt. (Korinthia)
+[https://topostext.org/place/378228LTri](https://topostext.org/place/378228LTri)  
+
+### alignments:
+ - [Trikaranon (mountain)](https://pleiades.stoa.org/places/570749)
 
 
 ## Trikka (Thessaly)

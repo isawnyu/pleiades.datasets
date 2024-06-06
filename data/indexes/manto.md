@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-444 alignments exist in _Pleiades_ place references as of 2024-06-05. The following list of alignments is grouped by zotkey.
+448 alignments exist in _Pleiades_ place references as of 2024-06-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1210,6 +1210,27 @@
 
 ### alignments:
  - [Keryneia](https://pleiades.stoa.org/places/570354)
+
+
+## 10274676: Aigai (Achaia)
+[ttps://resource.manto.unh.edu/10274676](ttps://resource.manto.unh.edu/10274676)  
+
+### alignments:
+ - [Aigai](https://pleiades.stoa.org/places/570040)
+
+
+## 10274682: River Crathis (Achaia/Arcadia)
+[https://resource.manto.unh.edu/10274682](https://resource.manto.unh.edu/10274682)  
+
+### alignments:
+ - [Krathis (river)](https://pleiades.stoa.org/places/570381)
+
+
+## 10276492: River Crios (Achaia)
+[https://resource.manto.unh.edu/10276492](https://resource.manto.unh.edu/10276492)  
+
+### alignments:
+ - [Krios (river)](https://pleiades.stoa.org/places/570384)
 
 
 ## 10473826: the Sanctuary of Zeus (Mt Lycaion)
@@ -2667,6 +2688,13 @@
 
 ### alignments:
  - [Mases](https://pleiades.stoa.org/places/570463)
+
+
+## 9718738: Araithyrea (Argolid)
+[https://resource.manto.unh.edu/9718738](https://resource.manto.unh.edu/9718738)  
+
+### alignments:
+ - [Araithyrea/Phliasion](https://pleiades.stoa.org/places/573109)
 
 
 ## 9718749: Helice (Achaia)

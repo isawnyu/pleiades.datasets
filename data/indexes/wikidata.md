@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3449 alignments exist in _Pleiades_ place references as of 2024-06-05. The following list of alignments is grouped by zotkey.
+3456 alignments exist in _Pleiades_ place references as of 2024-06-06. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -77,6 +77,13 @@
 
 ### alignments:
  - [Adro Vello](https://pleiades.stoa.org/places/93604430)
+
+
+## Aegae (Q16737279)
+[https://www.wikidata.org/wiki/Q16737279](https://www.wikidata.org/wiki/Q16737279)  
+
+### alignments:
+ - [Aigai](https://pleiades.stoa.org/places/570040)
 
 
 ## Aegeirus (Q65121148)
@@ -497,6 +504,13 @@
 
 ### alignments:
  - [Ara Pacis Augustae](https://pleiades.stoa.org/places/816091000)
+
+
+## Araethyrea (Argolis) (Q16488711)
+[https://www.wikidata.org/wiki/Q16488711](https://www.wikidata.org/wiki/Q16488711)  
+
+### alignments:
+ - [Araithyrea/Phliasion](https://pleiades.stoa.org/places/573109)
 
 
 ## Arainon (Q124607848)
@@ -1893,6 +1907,13 @@
  - [The Theater of Larissa](https://pleiades.stoa.org/places/942647940)
 
 
+## Fonissa (Q5465042)
+[https://www.wikidata.org/wiki/Q5465042](https://www.wikidata.org/wiki/Q5465042)  
+
+### alignments:
+ - [Krios (river)](https://pleiades.stoa.org/places/570384)
+
+
 ## Fortress of Eleutherai (Q1328318)
 [https://www.wikidata.org/wiki/Q1328318](https://www.wikidata.org/wiki/Q1328318)  
 
@@ -2334,6 +2355,13 @@
  - [Hyperdexion](https://pleiades.stoa.org/places/554238)
 
 
+## Hyperesia (polis) (Q3563508)
+[https://www.wikidata.org/wiki/Q3563508](https://www.wikidata.org/wiki/Q3563508)  
+
+### alignments:
+ - [Hyperasia](https://pleiades.stoa.org/places/573256)
+
+
 ## Hyperteleaton (Q60792068)
 [https://www.wikidata.org/wiki/Q60792068](https://www.wikidata.org/wiki/Q60792068)  
 
@@ -2647,6 +2675,13 @@
 
 ### alignments:
  - [Krane](https://pleiades.stoa.org/places/530962)
+
+
+## Krathis (Q6436394)
+[https://www.wikidata.org/wiki/Q6436394](https://www.wikidata.org/wiki/Q6436394)  
+
+### alignments:
+ - [Krathis (river)](https://pleiades.stoa.org/places/570381)
 
 
 ## Ksar el Kaoua (Q20726070)
@@ -3102,6 +3137,13 @@
 
 ### alignments:
  - [Megalopolis](https://pleiades.stoa.org/places/570467)
+
+
+## Megalovouni (Q16332483)
+[https://www.wikidata.org/wiki/Q16332483](https://www.wikidata.org/wiki/Q16332483)  
+
+### alignments:
+ - [Kelossa M.](https://pleiades.stoa.org/places/570345)
 
 
 ## Melangeia (Q6811232)
@@ -23263,6 +23305,13 @@
 
 ### alignments:
  - [Choziba](https://pleiades.stoa.org/places/687876)
+
+
+## Stadium of Nemea (Q27779883)
+[https://www.wikidata.org/wiki/Q27779883](https://www.wikidata.org/wiki/Q27779883)  
+
+### alignments:
+ - [Stadium at Nemea](https://pleiades.stoa.org/places/301013826)
 
 
 ## Stanwick Camp (Q15242545)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-312 alignments exist in _Pleiades_ place references as of 2024-06-05. The following list of alignments is grouped by zotkey.
+314 alignments exist in _Pleiades_ place references as of 2024-06-06. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -43,6 +43,13 @@
  - [Fifth century baths at Lebadeia](https://pleiades.stoa.org/places/690059595)
 
 
+## AIGES - 2000
+[https://chronique.efa.gr/?kroute=report&id=1592](https://chronique.efa.gr/?kroute=report&id=1592)  
+
+### alignments:
+ - [Aigai](https://pleiades.stoa.org/places/570040)
+
+
 ## Archontiko/Giannitson
 [http://chronique.efa.gr/index.php/fiches/voir/820/](http://chronique.efa.gr/index.php/fiches/voir/820/)  
 
@@ -76,6 +83,13 @@
 
 ### alignments:
  - [Apollo, T.](https://pleiades.stoa.org/places/707481)
+
+
+## NEMEA - 2014
+[https://chronique.efa.gr/?kroute=report&id=4881](https://chronique.efa.gr/?kroute=report&id=4881)  
+
+### alignments:
+ - [Temple of Zeus at Nemea](https://pleiades.stoa.org/places/109791198)
 
 
 ## Report 11902: SARANTAPORO. - Dolichè antique - 1996

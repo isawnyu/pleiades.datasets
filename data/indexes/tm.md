@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3481 alignments exist in _Pleiades_ place references as of 2024-06-05. The following list of alignments is grouped by zotkey.
+3484 alignments exist in _Pleiades_ place references as of 2024-06-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22891,6 +22891,20 @@
  - [Laneia](https://pleiades.stoa.org/places/707554)
 
 
+## GEO ID 61197: Araithyrea
+[https://www.trismegistos.org/place/61197](https://www.trismegistos.org/place/61197)  
+
+### alignments:
+ - [Araithyrea/Phliasion](https://pleiades.stoa.org/places/573109)
+
+
+## GEO ID 61198: Bembina
+[https://www.trismegistos.org/place/61198](https://www.trismegistos.org/place/61198)  
+
+### alignments:
+ - [Bembina](https://pleiades.stoa.org/places/573141)
+
+
 ## GEO ID 61212: Eteonos
 [https://www.trismegistos.org/place/61212](https://www.trismegistos.org/place/61212)  
 
@@ -23458,6 +23472,13 @@
 
 ### alignments:
  - [Tralles/Dia/Seleuceia ad Maeandrum/Kaisareia](https://pleiades.stoa.org/places/599987)
+
+
+## GEO ID 76: Aigai
+[https://www.trismegistos.org/place/76](https://www.trismegistos.org/place/76)  
+
+### alignments:
+ - [Aigai](https://pleiades.stoa.org/places/570040)
 
 
 ## GEO ID 7725: Troikon Oros
