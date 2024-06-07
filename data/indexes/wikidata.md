@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3456 alignments exist in _Pleiades_ place references as of 2024-06-06. The following list of alignments is grouped by zotkey.
+3457 alignments exist in _Pleiades_ place references as of 2024-06-07. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -638,6 +638,13 @@
 ### alignments:
  - [Arykanda](https://pleiades.stoa.org/places/638769)
  - [Arykanda](https://pleiades.stoa.org/places/638770)
+
+
+## Ascheion (Q17621864)
+[https://www.wikidata.org/wiki/Q17621864](https://www.wikidata.org/wiki/Q17621864)  
+
+### alignments:
+ - [Ascheion](https://pleiades.stoa.org/places/573122)
 
 
 ## Asclepeion of Paros (Q61473756)

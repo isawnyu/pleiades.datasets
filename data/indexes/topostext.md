@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3399 alignments exist in _Pleiades_ place references as of 2024-06-06. The following list of alignments is grouped by zotkey.
+3404 alignments exist in _Pleiades_ place references as of 2024-06-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -526,6 +526,13 @@
 
 ### alignments:
  - [Ag. Leontios](https://pleiades.stoa.org/places/707444)
+
+
+## Ag. Pandeleimona exc. (Akarnania)
+[https://topostext.org/place/385211FAPa](https://topostext.org/place/385211FAPa)  
+
+### alignments:
+ - [Ag. Pandeleimona](https://pleiades.stoa.org/places/530780)
 
 
 ## Ag. Sophia tower (Lemnos)
@@ -1661,6 +1668,13 @@
 
 ### alignments:
  - [Anaphlystos](https://pleiades.stoa.org/places/579866)
+
+
+## Anapos R. (Akarnania)
+[https://topostext.org/place/388213WAna](https://topostext.org/place/388213WAna)  
+
+### alignments:
+ - [Anapos? (river)](https://pleiades.stoa.org/places/530799)
 
 
 ## Anapos R. (Sicily)
@@ -3134,6 +3148,13 @@
  - [Artemision](https://pleiades.stoa.org/places/599525)
 
 
+## Artemita (Aitolia)
+[https://topostext.org/place/383213IArt](https://topostext.org/place/383213IArt)  
+
+### alignments:
+ - [Artemita? Pr.](https://pleiades.stoa.org/places/530812)
+
+
 ## Artigi (Iberia)
 [https://topostext.org/place/387-55UArt](https://topostext.org/place/387-55UArt)  
 
@@ -3161,6 +3182,13 @@
 
 ### alignments:
  - [Ascania (island)](https://pleiades.stoa.org/places/599526)
+
+
+## Ascheion? (Achaia)
+[https://topostext.org/place/381216PAsc](https://topostext.org/place/381216PAsc)  
+
+### alignments:
+ - [Ascheion](https://pleiades.stoa.org/places/573122)
 
 
 ## Asculum (Apulia) 8 Ascoli Satriano
@@ -4554,6 +4582,13 @@
 
 ### alignments:
  - [Kastro ano Diakopto](https://pleiades.stoa.org/places/570166)
+
+
+## Bouraikos river (Achaia)
+[https://topostext.org/place/382222WBou](https://topostext.org/place/382222WBou)  
+
+### alignments:
+ - [Bouraikos (river)](https://pleiades.stoa.org/places/570167)
 
 
 ## Bous (Bosporos)
