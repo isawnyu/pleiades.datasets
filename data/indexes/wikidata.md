@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3457 alignments exist in _Pleiades_ place references as of 2024-06-07. The following list of alignments is grouped by zotkey.
+3470 alignments exist in _Pleiades_ place references as of 2024-06-10. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -48,6 +48,20 @@
 
 ### alignments:
  - [Acheron (river)](https://pleiades.stoa.org/places/530769)
+
+
+## Acquarossa, Italy (Q2823446)
+[https://www.wikidata.org/wiki/Q20009604](https://www.wikidata.org/wiki/Q20009604)  
+
+### alignments:
+ - [Acquarossa](https://pleiades.stoa.org/places/412987)
+
+
+## Acquarossa, Italy (Q2823446)
+[https://www.wikidata.org/wiki/Q2823446](https://www.wikidata.org/wiki/Q2823446)  
+
+### alignments:
+ - [Acquarossa](https://pleiades.stoa.org/places/412987)
 
 
 ## Acrae (Q60792270)
@@ -406,6 +420,13 @@
 
 ### alignments:
  - [Théâtre antique de Tarquimpol](https://pleiades.stoa.org/places/865005128)
+
+
+## Anfiteatro y necrópolis romana (Q97645802)
+[https://www.wikidata.org/wiki/Q97645802](https://www.wikidata.org/wiki/Q97645802)  
+
+### alignments:
+ - [Roman amphitheater at Carmo](https://pleiades.stoa.org/places/347507191)
 
 
 ## Angkor (Q163607)
@@ -1158,6 +1179,13 @@
  - [Clarenna](https://pleiades.stoa.org/places/118632)
 
 
+## Castra Gelduba (Q835315)
+[https://www.wikidata.org/wiki/Q835315](https://www.wikidata.org/wiki/Q835315)  
+
+### alignments:
+ - [Gelduba](https://pleiades.stoa.org/places/109002)
+
+
 ## Castra of Duel (Q1299984)
 [https://www.wikidata.org/wiki/Q1299984](https://www.wikidata.org/wiki/Q1299984)  
 
@@ -1198,6 +1226,13 @@
 
 ### alignments:
  - [Mannaricium](https://pleiades.stoa.org/places/99006)
+
+
+## Catacomb of Sant'Ippolito (Q3663186)
+[https://www.wikidata.org/wiki/Q3663186](https://www.wikidata.org/wiki/Q3663186)  
+
+### alignments:
+ - [S. Ippolito](https://pleiades.stoa.org/places/423045)
 
 
 ## Catacombs of Sant'Alessandro (Q3663208)
@@ -1653,6 +1688,13 @@
 
 ### alignments:
  - [Doliche](https://pleiades.stoa.org/places/491576)
+
+
+## Domus del Chirurgo (Q3713399)
+[https://www.wikidata.org/wiki/Q3713399](https://www.wikidata.org/wiki/Q3713399)  
+
+### alignments:
+ - [House of the Surgeon (Rimini)](https://pleiades.stoa.org/places/983289921)
 
 
 ## Dorginarti (Q11917692)
@@ -3552,6 +3594,13 @@
  - [Oche (mountain)](https://pleiades.stoa.org/places/540965)
 
 
+## Odeon in Ptolemais (Q70772393)
+[https://www.wikidata.org/wiki/Q70772393](https://www.wikidata.org/wiki/Q70772393)  
+
+### alignments:
+ - [Odeon in Ptolemais](https://pleiades.stoa.org/places/41409822)
+
+
 ## Odeon of Agrippa (Q745797)
 [https://www.wikidata.org/wiki/Q745797](https://www.wikidata.org/wiki/Q745797)  
 
@@ -3571,6 +3620,13 @@
 
 ### alignments:
  - [Odigitria tholos cemetery](https://pleiades.stoa.org/places/685778973)
+
+
+## Olbasa (Q65053537)
+[https://www.wikidata.org/wiki/Q65053537](https://www.wikidata.org/wiki/Q65053537)  
+
+### alignments:
+ - [Olbasa/Col. Iulia Augusta](https://pleiades.stoa.org/places/639015)
 
 
 ## Old Dongola (Q433112)
@@ -3601,6 +3657,13 @@
  - [Olynthos](https://pleiades.stoa.org/places/491678)
 
 
+## Onchesmos (Q21234753)
+[https://www.wikidata.org/wiki/Q21234753](https://www.wikidata.org/wiki/Q21234753)  
+
+### alignments:
+ - [Onchesmos](https://pleiades.stoa.org/places/531019)
+
+
 ## Onchestus (Q3063303)
 [https://www.wikidata.org/wiki/Q3063303](https://www.wikidata.org/wiki/Q3063303)  
 
@@ -3613,6 +3676,13 @@
 
 ### alignments:
  - [Ophryneion](https://pleiades.stoa.org/places/550787)
+
+
+## Orchomenos (Q543895)
+[https://www.wikidata.org/wiki/Q543895](https://www.wikidata.org/wiki/Q543895)  
+
+### alignments:
+ - [Orchomenos/Orchomenus](https://pleiades.stoa.org/places/540987)
 
 
 ## Orchomenus (Q1855083)
@@ -3634,6 +3704,13 @@
 
 ### alignments:
  - [Ortha](https://pleiades.stoa.org/places/540991)
+
+
+## Ossonoba (Q6565811)
+[https://www.wikidata.org/wiki/Q6565811](https://www.wikidata.org/wiki/Q6565811)  
+
+### alignments:
+ - [Ossonoba](https://pleiades.stoa.org/places/256345)
 
 
 ## Pagae (Q935675)
@@ -10811,13 +10888,6 @@
  - [Misterbianco](https://pleiades.stoa.org/places/462318)
 
 
-## Q20009604
-[https://www.wikidata.org/wiki/Q20009604](https://www.wikidata.org/wiki/Q20009604)  
-
-### alignments:
- - [Acquarossa](https://pleiades.stoa.org/places/412987)
-
-
 ## Q20009842: Giants' grave of Sa Dom'è s'Orcu
 [https://www.wikidata.org/wiki/Q20009842](https://www.wikidata.org/wiki/Q20009842)  
 
@@ -13247,13 +13317,6 @@
 
 ### alignments:
  - [Spurie (island)](https://pleiades.stoa.org/places/300756061)
-
-
-## Q2823446
-[https://www.wikidata.org/wiki/Q2823446](https://www.wikidata.org/wiki/Q2823446)  
-
-### alignments:
- - [Acquarossa](https://pleiades.stoa.org/places/412987)
 
 
 ## Q2827224: Ager Faliscus
@@ -16761,6 +16824,13 @@
  - [Tall ‘Arbīd](https://pleiades.stoa.org/places/674712658)
 
 
+## Q416103
+[https://www.wikidata.org/wiki/Q416103](https://www.wikidata.org/wiki/Q416103)  
+
+### alignments:
+ - [Akarçay Tepe Höyük](https://pleiades.stoa.org/places/968351378)
+
+
 ## Q4177608: House of the Tragic Poet
 [https://www.wikidata.org/wiki/Q4177608](https://www.wikidata.org/wiki/Q4177608)  
 
@@ -19370,6 +19440,13 @@
 
 ### alignments:
  - [Nabulu](https://pleiades.stoa.org/places/539776278)
+
+
+## Q6102818
+[https://www.wikidata.org/wiki/Q6102818](https://www.wikidata.org/wiki/Q6102818)  
+
+### alignments:
+ - [Gre Virike Mound](https://pleiades.stoa.org/places/292134118)
 
 
 ## Q612248: Anubieion
@@ -22782,6 +22859,13 @@
  - [Roman theater of Scythopolis](https://pleiades.stoa.org/places/719634078)
 
 
+## Roman Thermae in Varna (Q12292389)
+[https://www.wikidata.org/wiki/Q12292389](https://www.wikidata.org/wiki/Q12292389)  
+
+### alignments:
+ - [Roman Thermae (Varna)](https://pleiades.stoa.org/places/292442603)
+
+
 ## Rotomagus (Q3442995)
 [https://www.wikidata.org/wiki/Q3442995](https://www.wikidata.org/wiki/Q3442995)  
 
@@ -22822,6 +22906,13 @@
 
 ### alignments:
  - [Saba](https://pleiades.stoa.org/places/39417)
+
+
+## Sacello degli Augustali (Q3944423)
+[https://www.wikidata.org/wiki/Q3944423](https://www.wikidata.org/wiki/Q3944423)  
+
+### alignments:
+ - [Sacellum of the Augustales](https://pleiades.stoa.org/places/32694358)
 
 
 ## Saint-Saphorin Roman Villa (Q3558921)

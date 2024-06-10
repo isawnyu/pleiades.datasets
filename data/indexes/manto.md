@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-448 alignments exist in _Pleiades_ place references as of 2024-06-07. The following list of alignments is grouped by zotkey.
+449 alignments exist in _Pleiades_ place references as of 2024-06-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2009,6 +2009,13 @@
 
 ### alignments:
  - [Onchestos](https://pleiades.stoa.org/places/540984)
+
+
+## 8253969: Orchomenos (Boiotia)
+[https://resource.manto.unh.edu/8253969](https://resource.manto.unh.edu/8253969)  
+
+### alignments:
+ - [Orchomenos/Orchomenus](https://pleiades.stoa.org/places/540987)
 
 
 ## 8253971: Nemea (Argolid)

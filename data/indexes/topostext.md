@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3404 alignments exist in _Pleiades_ place references as of 2024-06-07. The following list of alignments is grouped by zotkey.
+3405 alignments exist in _Pleiades_ place references as of 2024-06-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -15833,6 +15833,13 @@
 
 ### alignments:
  - [Omphalion](https://pleiades.stoa.org/places/481934)
+
+
+## Onchesmos (Epiros)
+[https://topostext.org/place/399200UOnc](https://topostext.org/place/399200UOnc)  
+
+### alignments:
+ - [Onchesmos](https://pleiades.stoa.org/places/531019)
 
 
 ## Oneion Mt. (Korinthia) 12 Onia - Ονειον

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3484 alignments exist in _Pleiades_ place references as of 2024-06-07. The following list of alignments is grouped by zotkey.
+3494 alignments exist in _Pleiades_ place references as of 2024-06-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5250,6 +5250,13 @@
  - [Crococalana](https://pleiades.stoa.org/places/79407)
 
 
+## GEO ID 15423: Othona (Bradwell-on-Sea)
+[http://www.trismegistos.org/place/15423](http://www.trismegistos.org/place/15423)  
+
+### alignments:
+ - [Othona](https://pleiades.stoa.org/places/79631)
+
+
 ## GEO ID 15425: Maia (Bowness-on-Solway)
 [https://www.trismegistos.org/place/15425](https://www.trismegistos.org/place/15425)  
 
@@ -5614,6 +5621,13 @@
  - [Astibos](https://pleiades.stoa.org/places/491530)
 
 
+## GEO ID 15920: Onchesmos (Sarandë)
+[https://www.trismegistos.org/place/15920](https://www.trismegistos.org/place/15920)  
+
+### alignments:
+ - [Onchesmos](https://pleiades.stoa.org/places/531019)
+
+
 ## GEO ID 15971: Phalanna (Damasi)
 [http://www.trismegistos.org/place/15971](http://www.trismegistos.org/place/15971)  
 
@@ -5724,6 +5738,13 @@
 
 ### alignments:
  - [Kebren](https://pleiades.stoa.org/places/550633)
+
+
+## GEO ID 16163: Olbasa (Belenli)
+[https://www.trismegistos.org/place/16163](https://www.trismegistos.org/place/16163)  
+
+### alignments:
+ - [Olbasa/Col. Iulia Augusta](https://pleiades.stoa.org/places/639015)
 
 
 ## GEO ID 16168: Laodikeia (Ladik)
@@ -5885,6 +5906,13 @@
 
 ### alignments:
  - [Arykanda](https://pleiades.stoa.org/places/638770)
+
+
+## GEO ID 16426: Olympos (Deliktaş)
+[http://www.trismegistos.org/place/16426](http://www.trismegistos.org/place/16426)  
+
+### alignments:
+ - [Olympus/Hadrianopolis](https://pleiades.stoa.org/places/639017)
 
 
 ## GEO ID 1643: Peenpibykis
@@ -8015,6 +8043,13 @@
  - [Anteae](https://pleiades.stoa.org/places/157811)
 
 
+## GEO ID 21102: Olbia (Hyères)
+[http://www.trismegistos.org/place/21102](http://www.trismegistos.org/place/21102)  
+
+### alignments:
+ - [Olbia](https://pleiades.stoa.org/places/157896)
+
+
 ## GEO ID 2110: Seleukeia Pieria (Kapısuyu)
 [http://www.trismegistos.org/place/2110](http://www.trismegistos.org/place/2110)  
 
@@ -9350,6 +9385,13 @@
 
 ### alignments:
  - [Aeminium](https://pleiades.stoa.org/places/236321)
+
+
+## GEO ID 25813: Ossonoba (Faro)
+[https://www.trismegistos.org/place/25813](https://www.trismegistos.org/place/25813)  
+
+### alignments:
+ - [Ossonoba](https://pleiades.stoa.org/places/256345)
 
 
 ## GEO ID 25829: Balsa (Luz de Tavira)
@@ -18175,6 +18217,13 @@
  - [Paestanus Sinus](https://pleiades.stoa.org/places/442704)
 
 
+## GEO ID 4187: Emesa (Homs)
+[http://www.trismegistos.org/place/4187](http://www.trismegistos.org/place/4187)  
+
+### alignments:
+ - [(H)Emesa](https://pleiades.stoa.org/places/668261)
+
+
 ## GEO ID 41930: Praetorium Laverianum
 [https://www.trismegistos.org/place/41930](https://www.trismegistos.org/place/41930)  
 
@@ -18446,6 +18495,20 @@
 
 ### alignments:
  - [Pida](https://pleiades.stoa.org/places/857281)
+
+
+## GEO ID 42111: Mesyla
+[https://www.trismegistos.org/place/42111](https://www.trismegistos.org/place/42111)  
+
+### alignments:
+ - [Mesyla](https://pleiades.stoa.org/places/860832)
+
+
+## GEO ID 42112: Stabulum
+[https://www.trismegistos.org/place/42112](https://www.trismegistos.org/place/42112)  
+
+### alignments:
+ - [Stabulum](https://pleiades.stoa.org/places/860857)
 
 
 ## GEO ID 42116: Calcidava
@@ -23885,6 +23948,13 @@
 
 ### alignments:
  - [Herakleia](https://pleiades.stoa.org/places/481861)
+
+
+## GEO ID, 12632: Epiphaneia (Gözene)
+[http://www.trismegistos.org/place/12632](http://www.trismegistos.org/place/12632)  
+
+### alignments:
+ - [Oeniandos/Epiphaneia](https://pleiades.stoa.org/places/658556)
 
 
 ## GEO ID, 14443: Allifae (Alife)
