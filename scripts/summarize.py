@@ -51,7 +51,9 @@ def get_pd_commits(recent):
                 "datestamp": c["commit"]["author"]["date"],
             }
         else:
-            raise RuntimeError("commit collision")
+            logger.error(
+                f"commit collision ({c['sha']} and {commits[c['commit']['message']]['sha']}); using the latter"
+            )
     components = {
         "csv": "legacy csv",
         "json": "json",
