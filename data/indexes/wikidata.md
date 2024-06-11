@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3470 alignments exist in _Pleiades_ place references as of 2024-06-10. The following list of alignments is grouped by zotkey.
+3475 alignments exist in _Pleiades_ place references as of 2024-06-11. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -27,6 +27,13 @@
 
 ### alignments:
  - [Akakesion](https://pleiades.stoa.org/places/573060)
+
+
+## Acerrae Vatriae (Q4673211)
+[https://www.wikidata.org/wiki/Q4673211](https://www.wikidata.org/wiki/Q4673211)  
+
+### alignments:
+ - [Acerrae Vafriae](https://pleiades.stoa.org/places/416762)
 
 
 ## Achaea (Q2790451)
@@ -701,6 +708,13 @@
 
 ### alignments:
  - [Asopos](https://pleiades.stoa.org/places/570129)
+
+
+## Aspledon (Q12874125)
+[https://www.wikidata.org/wiki/Q12874125](https://www.wikidata.org/wiki/Q12874125)  
+
+### alignments:
+ - [Aspledon/Eudeielos](https://pleiades.stoa.org/places/540673)
 
 
 ## Assa (Chalcidice) (Q17621725)
@@ -18259,13 +18273,6 @@
  - [Ponte Lupo](https://pleiades.stoa.org/places/939936150)
 
 
-## Q55164614: Roman Theatre of Gubbio
-[https://www.wikidata.org/wiki/Q55164614](https://www.wikidata.org/wiki/Q55164614)  
-
-### alignments:
- - [Roman theater at Iguvium](https://pleiades.stoa.org/places/418202453)
-
-
 ## Q55165670: Temple of Hercules at Lanuvium
 [https://www.wikidata.org/wiki/Q55165670](https://www.wikidata.org/wiki/Q55165670)  
 
@@ -22838,6 +22845,13 @@
  - [Roman theater at Brixia](https://pleiades.stoa.org/places/417977726)
 
 
+## Roman Theatre of Gubbio (Q55164614)
+[https://www.wikidata.org/wiki/Q55164614](https://www.wikidata.org/wiki/Q55164614)  
+
+### alignments:
+ - [Roman theater at Iguvium](https://pleiades.stoa.org/places/418202453)
+
+
 ## Roman theatre of Sabratha (Q28974187)
 [https://www.wikidata.org/wiki/Q28974187](https://www.wikidata.org/wiki/Q28974187)  
 
@@ -23904,6 +23918,13 @@
  - [Titane](https://pleiades.stoa.org/places/570741)
 
 
+## Titriş Höyük (Q6100053)
+[https://www.wikidata.org/wiki/Q6100053](https://www.wikidata.org/wiki/Q6100053)  
+
+### alignments:
+ - [Titriş Höyük](https://pleiades.stoa.org/places/979582397)
+
+
 ## Titthium Mt. (Q109941874)
 [https://www.wikidata.org/wiki/Q109941874](https://www.wikidata.org/wiki/Q109941874)  
 
@@ -23972,6 +23993,13 @@
 
 ### alignments:
  - [Torre Ciega](https://pleiades.stoa.org/places/180293130)
+
+
+## Tower of Chrysokamaro (Q108664776)
+[https://www.wikidata.org/wiki/Q108664776](https://www.wikidata.org/wiki/Q108664776)  
+
+### alignments:
+ - [Tower of Chrysokamaro](https://pleiades.stoa.org/places/855023565)
 
 
 ## Tower of Koronia (Q108664788)
@@ -24063,6 +24091,13 @@
 
 ### alignments:
  - [Tonzos (river)](https://pleiades.stoa.org/places/501644)
+
+
+## Tuscia et Umbria (Q60836975)
+[https://www.wikidata.org/wiki/Q60836975](https://www.wikidata.org/wiki/Q60836975)  
+
+### alignments:
+ - [Tuscia et Umbria](https://pleiades.stoa.org/places/991352)
 
 
 ## Tylissus (Q38280988)

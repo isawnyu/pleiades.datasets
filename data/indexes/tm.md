@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3494 alignments exist in _Pleiades_ place references as of 2024-06-10. The following list of alignments is grouped by zotkey.
+3498 alignments exist in _Pleiades_ place references as of 2024-06-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12098,6 +12098,13 @@
  - [Urvinum Hortense](https://pleiades.stoa.org/places/413365)
 
 
+## GEO ID 32264: Vettona (Bettona)
+[http://www.trismegistos.org/place/32264](http://www.trismegistos.org/place/32264)  
+
+### alignments:
+ - [Vettona](https://pleiades.stoa.org/places/413377)
+
+
 ## GEO ID 32271: Castrimoenium (Marino)
 [http://www.trismegistos.org/place/32271](http://www.trismegistos.org/place/32271)  
 
@@ -19274,6 +19281,13 @@
  - [Ida (mountain)](https://pleiades.stoa.org/places/550592)
 
 
+## GEO ID 42639: Ad Stabulum
+[https://www.trismegistos.org/place/42639](https://www.trismegistos.org/place/42639)  
+
+### alignments:
+ - [Ad Stabulum](https://pleiades.stoa.org/places/643281034)
+
+
 ## GEO ID 42642: Cilicius Aulon
 [http://www.trismegistos.org/place/42642](http://www.trismegistos.org/place/42642)  
 
@@ -23087,6 +23101,13 @@
  - [Noviodunum](https://pleiades.stoa.org/places/138494)
 
 
+## GEO ID 62450: Aspledon (Avrokastro)
+[https://www.trismegistos.org/place/62450](https://www.trismegistos.org/place/62450)  
+
+### alignments:
+ - [Aspledon/Eudeielos](https://pleiades.stoa.org/places/540673)
+
+
 ## GEO ID 62474: Aianteion (Trikeri)
 [https://www.trismegistos.org/place/62474](https://www.trismegistos.org/place/62474)  
 
@@ -23120,6 +23141,13 @@
 
 ### alignments:
  - [Sebennytikon Stoma](https://pleiades.stoa.org/places/727224)
+
+
+## GEO ID 63967: Paesinates
+[https://www.trismegistos.org/place/63967](https://www.trismegistos.org/place/63967)  
+
+### alignments:
+ - [Paesinates](https://pleiades.stoa.org/places/416841)
 
 
 ## GEO ID 63994: Brundulum (Brondolo)
