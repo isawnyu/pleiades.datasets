@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3475 alignments exist in _Pleiades_ place references as of 2024-06-11. The following list of alignments is grouped by zotkey.
+3480 alignments exist in _Pleiades_ place references as of 2024-06-12. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -962,6 +962,13 @@
  - [Berenike?](https://pleiades.stoa.org/places/530819)
 
 
+## Beta Samati (Q124570925)
+[https://www.wikidata.org/wiki/Q124570925](https://www.wikidata.org/wiki/Q124570925)  
+
+### alignments:
+ - [Beta Samati](https://pleiades.stoa.org/places/253102124)
+
+
 ## Beşparmak Mountains (Q854649)
 [https://www.wikidata.org/wiki/Q854649](https://www.wikidata.org/wiki/Q854649)  
 
@@ -1694,6 +1701,7 @@
 [https://www.wikidata.org/wiki/Q16964645](https://www.wikidata.org/wiki/Q16964645)  
 
 ### alignments:
+ - [Doukki Gel](https://pleiades.stoa.org/places/938346135)
  - [Pnoups](https://pleiades.stoa.org/places/40253)
 
 
@@ -2080,6 +2088,13 @@
 
 ### alignments:
  - [(Col. Iulia Aug. Felix) Germa](https://pleiades.stoa.org/places/609351)
+
+
+## Gheriat el-Garbia (Q2120559)
+[https://www.wikidata.org/wiki/Q2120559](https://www.wikidata.org/wiki/Q2120559)  
+
+### alignments:
+ - [Gheriat el-Garbia](https://pleiades.stoa.org/places/344374)
 
 
 ## Giants of Mont'e Prama (Q1817134)
@@ -2528,6 +2543,13 @@
 
 ### alignments:
  - [Sīnīya Island](https://pleiades.stoa.org/places/111227891)
+
+
+## Jazīrat Sāy (Q49644396)
+[https://www.wikidata.org/wiki/Q49644396](https://www.wikidata.org/wiki/Q49644396)  
+
+### alignments:
+ - [Jazirat Say](https://pleiades.stoa.org/places/565495644)
 
 
 ## Joppa (Q11713655)
@@ -3207,6 +3229,13 @@
 
 ### alignments:
  - [Kelossa M.](https://pleiades.stoa.org/places/570345)
+
+
+## Meinarti Island (Q49658086)
+[https://www.wikidata.org/wiki/Q49658086](https://www.wikidata.org/wiki/Q49658086)  
+
+### alignments:
+ - [Meinarti (island)](https://pleiades.stoa.org/places/640960995)
 
 
 ## Melangeia (Q6811232)
@@ -6107,13 +6136,6 @@
 
 ### alignments:
  - [Dendra](https://pleiades.stoa.org/places/411520116)
-
-
-## Q1186970: Temple of Dendur
-[https://www.wikidata.org/wiki/Q1186970](https://www.wikidata.org/wiki/Q1186970)  
-
-### alignments:
- - [Tutzis](https://pleiades.stoa.org/places/795875)
 
 
 ## Q1187304: Psophis
@@ -23665,6 +23687,13 @@
  - [Delphinion](https://pleiades.stoa.org/places/585725955)
 
 
+## Temple of Dendur (Q1186970)
+[https://www.wikidata.org/wiki/Q1186970](https://www.wikidata.org/wiki/Q1186970)  
+
+### alignments:
+ - [Tutzis](https://pleiades.stoa.org/places/795875)
+
+
 ## Temple of Dionysos Brisagenis (Q115674398)
 [https://www.wikidata.org/wiki/Q115674398](https://www.wikidata.org/wiki/Q115674398)  
 
@@ -23726,6 +23755,13 @@
 
 ### alignments:
  - [Temple of Vesta at Tibur](https://pleiades.stoa.org/places/474016230)
+
+
+## Temple of Yeha (Q56072973)
+[https://www.wikidata.org/wiki/Q56072973](https://www.wikidata.org/wiki/Q56072973)  
+
+### alignments:
+ - [Yeha Temple](https://pleiades.stoa.org/places/763458797)
 
 
 ## Termez (Q491879)

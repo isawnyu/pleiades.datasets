@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3498 alignments exist in _Pleiades_ place references as of 2024-06-11. The following list of alignments is grouped by zotkey.
+3499 alignments exist in _Pleiades_ place references as of 2024-06-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12656,6 +12656,13 @@
 
 ### alignments:
  - [Pausulae](https://pleiades.stoa.org/places/413246)
+
+
+## GEO ID 32687: Planina (San Vittore di Cingoli)
+[http://www.trismegistos.org/place/32687](http://www.trismegistos.org/place/32687)  
+
+### alignments:
+ - [Planina](https://pleiades.stoa.org/places/413263)
 
 
 ## GEO ID 32688: Potentia (Potenza Picena)
