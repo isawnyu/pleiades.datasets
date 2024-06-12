@@ -1,7 +1,63 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
+    "bbox": [
+        35.4175882,
+        23.8753916,
+        35.4180561,
+        23.8757833
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/786048",
+            "contributors": [],
+            "created": "2024-05-11T19:45:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-06-11T14:41:38Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-05-15T18:11:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2024-05-11T19:45:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-05-11T19:45:44Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "kalalat-1",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Kalalat 1",
+            "uri": "https://pleiades.stoa.org/places/786049/kalalat-1"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/786048"
     ],
@@ -21,6 +77,12 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2009-10-12T10:33:37Z",
@@ -42,14 +104,38 @@
     "details": "The Barrington Atlas Directory notes: Kalalat 2",
     "features": [
         {
-            "geometry": null,
-            "id": "undetermined",
+            "geometry": {
+                "coordinates": [
+                    [
+                        35.4179298,
+                        23.8757833
+                    ],
+                    [
+                        35.4175882,
+                        23.8756352
+                    ],
+                    [
+                        35.4177144,
+                        23.8753916
+                    ],
+                    [
+                        35.4180561,
+                        23.8755398
+                    ],
+                    [
+                        35.4179298,
+                        23.8757833
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-wadi-kalalat-klein-fort",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/786049/undetermined",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Undetermined location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/786049/osm-location-of-wadi-kalalat-klein-fort",
+                "location_precision": "precise",
+                "snippet": "Fort-2; 30 BC - AD 640",
+                "title": "OSM location of Wadi Kalalat - Klein Fort"
             },
             "type": "Feature"
         }
@@ -85,8 +171,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -104,82 +190,102 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-12T10:33:38Z",
+            "contributors": [],
+            "created": "2024-05-11T19:44:58Z",
             "creators": [
                 {
-                    "name": "J. Keenan",
-                    "username": null
-                },
-                {
-                    "name": "S.E. Sidebotham",
-                    "username": null
-                },
-                {
-                    "name": "T. Wilfong",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    [
+                        35.4179298,
+                        23.8757833
+                    ],
+                    [
+                        35.4175882,
+                        23.8756352
+                    ],
+                    [
+                        35.4177144,
+                        23.8753916
+                    ],
+                    [
+                        35.4180561,
+                        23.8755398
+                    ],
+                    [
+                        35.4179298,
+                        23.8757833
+                    ]
+                ],
+                "type": "LineString"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:25:41Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2009-10-13T15:23:34Z",
+                    "modified": "2024-06-11T14:41:46Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2009-10-12T11:03:09Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-05-11T19:45:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2024-05-11T19:45:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-05-11T19:44:58Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2009-10-12T10:33:38Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-05-11T19:44:58Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "osm-location-of-wadi-kalalat-klein-fort",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "Barrington Atlas: BAtlas 80 inset Kalalat 2",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 1282017025, version 1, osm:changeset=151200739, 2024-05-11T19:43:49Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1282017025",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1282017025",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1282017025",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/786049/undetermined"
+            "title": "OSM location of Wadi Kalalat - Klein Fort",
+            "uri": "https://pleiades.stoa.org/places/786049/osm-location-of-wadi-kalalat-klein-fort"
         }
     ],
     "names": [],
@@ -216,7 +322,10 @@
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        35.417822125771956,
+        23.87558746016786
+    ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
