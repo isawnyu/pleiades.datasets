@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3499 alignments exist in _Pleiades_ place references as of 2024-06-12. The following list of alignments is grouped by zotkey.
+3500 alignments exist in _Pleiades_ place references as of 2024-06-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -21970,6 +21970,13 @@
 
 ### alignments:
  - [Choibnotmis](https://pleiades.stoa.org/places/741450)
+
+
+## GEO ID 5144: Tumbus
+[https://www.trismegistos.org/place/5144](https://www.trismegistos.org/place/5144)  
+
+### alignments:
+ - [Tumbus (Nubia)](https://pleiades.stoa.org/places/952615577)
 
 
 ## GEO ID 51476: Thymbra

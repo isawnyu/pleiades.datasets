@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3480 alignments exist in _Pleiades_ place references as of 2024-06-12. The following list of alignments is grouped by zotkey.
+3483 alignments exist in _Pleiades_ place references as of 2024-06-13. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -4181,6 +4181,13 @@
 
 ### alignments:
  - [Ponte da Ladeira dos Envendos](https://pleiades.stoa.org/places/256371)
+
+
+## Ponte di San Vito (Q124528663)
+[https://www.wikidata.org/wiki/Q124528663](https://www.wikidata.org/wiki/Q124528663)  
+
+### alignments:
+ - [Roman bridge of San Vito](https://pleiades.stoa.org/places/394869)
 
 
 ## Ponte Molino (Q474747)
@@ -23989,6 +23996,13 @@
  - [Tomb of Gaius Vestorius Priscus](https://pleiades.stoa.org/places/118633297)
 
 
+## Tomb of Eurysaces the Baker (Q56256396)
+[https://www.wikidata.org/wiki/Q56256396](https://www.wikidata.org/wiki/Q56256396)  
+
+### alignments:
+ - [Sep. Eurysacis](https://pleiades.stoa.org/places/226302607)
+
+
 ## Tomb of Gaius Publicius Bibulus (Q3955650)
 [https://www.wikidata.org/wiki/Q3955650](https://www.wikidata.org/wiki/Q3955650)  
 
@@ -24015,6 +24029,13 @@
 
 ### alignments:
  - [Sep. Scipionum](https://pleiades.stoa.org/places/999196280)
+
+
+## Tombos (Q1457296)
+[https://www.wikidata.org/wiki/Q1457296](https://www.wikidata.org/wiki/Q1457296)  
+
+### alignments:
+ - [Tumbus (Nubia)](https://pleiades.stoa.org/places/952615577)
 
 
 ## Torraccio della Cecchina (Q3995103)
