@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3500 alignments exist in _Pleiades_ place references as of 2024-06-13. The following list of alignments is grouped by zotkey.
+3503 alignments exist in _Pleiades_ place references as of 2024-06-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2132,6 +2132,13 @@
 
 ### alignments:
  - [Faventia](https://pleiades.stoa.org/places/393420)
+
+
+## GEO ID 10968: Hadrianopolis (Driana)
+[http://www.trismegistos.org/geo/detail.php?tm=10968](http://www.trismegistos.org/geo/detail.php?tm=10968)  
+
+### alignments:
+ - [Hadrianopolis/Kaukalou Kome?](https://pleiades.stoa.org/places/373824)
 
 
 ## GEO ID 1105: Kimolos
@@ -15501,6 +15508,13 @@
  - [Omphake](https://pleiades.stoa.org/places/462399)
 
 
+## GEO ID 38466: Phoinikoussa Nesos (Filicudi)
+[http://www.trismegistos.org/place/38466](http://www.trismegistos.org/place/38466)  
+
+### alignments:
+ - [Phoenicusa (island)](https://pleiades.stoa.org/places/462425)
+
+
 ## GEO ID 38471: Leonforte
 [http://www.trismegistos.org/place/38471](http://www.trismegistos.org/place/38471)  
 
@@ -23871,6 +23885,13 @@
 
 ### alignments:
  - [Alexandria ad Issum](https://pleiades.stoa.org/places/658371)
+
+
+## GEO ID 8946: Aristomachou Kleros
+[https://www.trismegistos.org/place/8946](https://www.trismegistos.org/place/8946)  
+
+### alignments:
+ - [Aristomachou Kleros](https://pleiades.stoa.org/places/271757444)
 
 
 ## GEO ID 900

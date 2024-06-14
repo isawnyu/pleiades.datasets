@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3483 alignments exist in _Pleiades_ place references as of 2024-06-13. The following list of alignments is grouped by zotkey.
+3485 alignments exist in _Pleiades_ place references as of 2024-06-14. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -590,6 +590,13 @@
  - [Ad Decimum](https://pleiades.stoa.org/places/422806)
 
 
+## Arelate (Q641068)
+[https://www.wikidata.org/wiki/Q641068](https://www.wikidata.org/wiki/Q641068)  
+
+### alignments:
+ - [Theline/Col. Arelate/Constantina](https://pleiades.stoa.org/places/148217)
+
+
 ## Argeathae (Q4789227)
 [https://www.wikidata.org/wiki/Q4789227](https://www.wikidata.org/wiki/Q4789227)  
 
@@ -1058,6 +1065,13 @@
 
 ### alignments:
  - [Pyxous/Buxentum (settlement)](https://pleiades.stoa.org/places/452411)
+
+
+## Béziers amphitheatre (Q1242545)
+[https://www.wikidata.org/wiki/Q1242545](https://www.wikidata.org/wiki/Q1242545)  
+
+### alignments:
+ - [Roman amphitheater at Béziers](https://pleiades.stoa.org/places/977841705)
 
 
 ## Cabeirion of Thebes (Q15206356)
@@ -4169,6 +4183,13 @@
  - [Pompeion](https://pleiades.stoa.org/places/973421832)
 
 
+## Pons Agrippae (Q4429336)
+[https://www.wikidata.org/wiki/Q4429336](https://www.wikidata.org/wiki/Q4429336)  
+
+### alignments:
+ - [Pons Agrippae](https://pleiades.stoa.org/places/326171400)
+
+
 ## Ponte d'Augusto (Q2063557)
 [https://www.wikidata.org/wiki/Q2063557](https://www.wikidata.org/wiki/Q2063557)  
 
@@ -6690,13 +6711,6 @@
 
 ### alignments:
  - [Villa of the Mysteries](https://pleiades.stoa.org/places/396427768)
-
-
-## Q1242545
-[https://www.wikidata.org/wiki/Q1242545](https://www.wikidata.org/wiki/Q1242545)  
-
-### alignments:
- - [Roman amphitheater at Béziers](https://pleiades.stoa.org/places/977841705)
 
 
 ## Q1246134: Via Flaminia minor
@@ -14861,13 +14875,6 @@
  - [Tomba della Montagnola](https://pleiades.stoa.org/places/277432403)
 
 
-## Q3531050: Tomba di Nerone
-[https://www.wikidata.org/wiki/Q3531050](https://www.wikidata.org/wiki/Q3531050)  
-
-### alignments:
- - [Tomb of Vibius Marianus](https://pleiades.stoa.org/places/423085)
-
-
 ## Q3531065: Tomba dei Boschetti
 [https://www.wikidata.org/wiki/Q3531065](https://www.wikidata.org/wiki/Q3531065)  
 
@@ -17159,13 +17166,6 @@
 
 ### alignments:
  - [Villa Fuente Álamo](https://pleiades.stoa.org/places/570101218)
-
-
-## Q4429336: Pons Agrippae
-[https://www.wikidata.org/wiki/Q4429336](https://www.wikidata.org/wiki/Q4429336)  
-
-### alignments:
- - [Pons Agrippae](https://pleiades.stoa.org/places/326171400)
 
 
 ## Q4459073: Thmuis
@@ -19856,13 +19856,6 @@
  - [Pons Aemilius](https://pleiades.stoa.org/places/425068)
 
 
-## Q641068: Arelate
-[https://www.wikidata.org/wiki/Q641068](https://www.wikidata.org/wiki/Q641068)  
-
-### alignments:
- - [Theline/Col. Arelate/Constantina](https://pleiades.stoa.org/places/148217)
-
-
 ## Q6413039: Kings Weston Roman Villa
 [https://www.wikidata.org/wiki/Q6413039](https://www.wikidata.org/wiki/Q6413039)  
 
@@ -21716,13 +21709,6 @@
 
 ### alignments:
  - [Gobero](https://pleiades.stoa.org/places/218046074)
-
-
-## Q849300: Via Cassia
-[https://www.wikidata.org/wiki/Q849300](https://www.wikidata.org/wiki/Q849300)  
-
-### alignments:
- - [Via Cassia](https://pleiades.stoa.org/places/447759107)
 
 
 ## Q849448: Lake Albano
@@ -24031,6 +24017,13 @@
  - [Sep. Scipionum](https://pleiades.stoa.org/places/999196280)
 
 
+## Tomba di Nerone (Q56256439)
+[https://www.wikidata.org/wiki/Q3531050](https://www.wikidata.org/wiki/Q3531050)  
+
+### alignments:
+ - [Tomb of Vibius Marianus](https://pleiades.stoa.org/places/423085)
+
+
 ## Tombos (Q1457296)
 [https://www.wikidata.org/wiki/Q1457296](https://www.wikidata.org/wiki/Q1457296)  
 
@@ -24234,6 +24227,13 @@
  - [Via Ardeatina](https://pleiades.stoa.org/places/587835546)
 
 
+## Via Cassia (Q849300)
+[https://www.wikidata.org/wiki/Q849300](https://www.wikidata.org/wiki/Q849300)  
+
+### alignments:
+ - [Via Cassia](https://pleiades.stoa.org/places/447759107)
+
+
 ## Via Curia (Q28670463)
 [https://www.wikidata.org/wiki/Q28670463](https://www.wikidata.org/wiki/Q28670463)  
 
@@ -24380,6 +24380,20 @@
 
 ### alignments:
  - [Zeleia](https://pleiades.stoa.org/places/511461)
+
+
+## Zembra (Q189292)
+[https://www.wikidata.org/wiki/Q189292](https://www.wikidata.org/wiki/Q189292)  
+
+### alignments:
+ - [Aegimoeroe (islands)](https://pleiades.stoa.org/places/314854)
+
+
+## Zembretta (Q3050573)
+[https://www.wikidata.org/wiki/Q3050573](https://www.wikidata.org/wiki/Q3050573)  
+
+### alignments:
+ - [Aegimoeroe (islands)](https://pleiades.stoa.org/places/314854)
 
 
 ## Zerzevan Castle (Q28806346)
