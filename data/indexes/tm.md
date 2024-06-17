@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3503 alignments exist in _Pleiades_ place references as of 2024-06-14. The following list of alignments is grouped by zotkey.
+3504 alignments exist in _Pleiades_ place references as of 2024-06-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -21788,6 +21788,13 @@
 ### alignments:
  - [Aegyptus (Roman imperial province)](https://pleiades.stoa.org/places/766)
  - [Ancient Egypt (region)](https://pleiades.stoa.org/places/981503)
+
+
+## GEO ID 50025: Kodrigai
+[http://www.trismegistos.org/place/50025](http://www.trismegistos.org/place/50025)  
+
+### alignments:
+ - [Kodrigai](https://pleiades.stoa.org/places/658511)
 
 
 ## GEO ID 50052: Aedis Iovis Optimi Maximi Capitolini

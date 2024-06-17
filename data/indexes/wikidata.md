@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3485 alignments exist in _Pleiades_ place references as of 2024-06-14. The following list of alignments is grouped by zotkey.
+3493 alignments exist in _Pleiades_ place references as of 2024-06-17. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -555,6 +555,48 @@
  - [Arcadia](https://pleiades.stoa.org/places/570102)
 
 
+## Arch of Augustus (Q1891991)
+[https://www.wikidata.org/wiki/Q1891991](https://www.wikidata.org/wiki/Q1891991)  
+
+### alignments:
+ - [Arch of Augustus at Aosta](https://pleiades.stoa.org/places/437204184)
+
+
+## Arch of Marcus Aurelius (Q3621785)
+[https://www.wikidata.org/wiki/Q3621785](https://www.wikidata.org/wiki/Q3621785)  
+
+### alignments:
+ - [Arch of Marcus Aurelius at Tripoli](https://pleiades.stoa.org/places/680190213)
+
+
+## Arch of Septimius Severus (Q2091585)
+[https://www.wikidata.org/wiki/Q2091585](https://www.wikidata.org/wiki/Q2091585)  
+
+### alignments:
+ - [Arch of Septimius Severus](https://pleiades.stoa.org/places/288984567)
+
+
+## Arch of the Sergii (Q952381)
+[https://www.wikidata.org/wiki/Q952381](https://www.wikidata.org/wiki/Q952381)  
+
+### alignments:
+ - [Arch of the Sergii](https://pleiades.stoa.org/places/471437511)
+
+
+## Arch of Trajan (Q1509102)
+[https://www.wikidata.org/wiki/Q1509102](https://www.wikidata.org/wiki/Q1509102)  
+
+### alignments:
+ - [Arch of Trajan at Ancona](https://pleiades.stoa.org/places/827492392)
+
+
+## Arch of Trajan (Q2142241)
+[https://www.wikidata.org/wiki/Q2142241](https://www.wikidata.org/wiki/Q2142241)  
+
+### alignments:
+ - [Arch of Trajan at Benevento](https://pleiades.stoa.org/places/568637774)
+
+
 ## archaeological area of the Italic Temple of Casalbore (Q29905393)
 [https://www.wikidata.org/wiki/Q29905393](https://www.wikidata.org/wiki/Q29905393)  
 
@@ -904,6 +946,13 @@
 
 ### alignments:
  - [Parthenios (river)](https://pleiades.stoa.org/places/845036)
+
+
+## Basilica of Pompeii (Q3635629)
+[https://www.wikidata.org/wiki/Q3635629](https://www.wikidata.org/wiki/Q3635629)  
+
+### alignments:
+ - [Basilica](https://pleiades.stoa.org/places/945930915)
 
 
 ## Batanaea (Q2479533)
@@ -2216,6 +2265,13 @@
  - [The Queen's Megaron (Palace of Minos)](https://pleiades.stoa.org/places/271668241)
 
 
+## Heidentor (Q1594216)
+[https://www.wikidata.org/wiki/Q1594216](https://www.wikidata.org/wiki/Q1594216)  
+
+### alignments:
+ - [Heidentor ](https://pleiades.stoa.org/places/135386091)
+
+
 ## Helike (Q1432654)
 [https://www.wikidata.org/wiki/Q1432654](https://www.wikidata.org/wiki/Q1432654)  
 
@@ -2398,6 +2454,13 @@
  - [House of the Chaste Lovers](https://pleiades.stoa.org/places/383340065)
 
 
+## House of the Geometric Mosaics (VIII.2.16) (Q27688060)
+[https://www.wikidata.org/wiki/Q27688060](https://www.wikidata.org/wiki/Q27688060)  
+
+### alignments:
+ - [House of the geometric mosaics](https://pleiades.stoa.org/places/393691694)
+
+
 ## House of the Lararium of Achilles (Q27070411)
 [https://www.wikidata.org/wiki/Q27070411](https://www.wikidata.org/wiki/Q27070411)  
 
@@ -2550,6 +2613,13 @@
 
 ### alignments:
  - [Ixia](https://pleiades.stoa.org/places/589827)
+
+
+## Janus Augustus (Q98504656)
+[https://www.wikidata.org/wiki/Q98504656](https://www.wikidata.org/wiki/Q98504656)  
+
+### alignments:
+ - [Ianus Augustus](https://pleiades.stoa.org/places/143866644)
 
 
 ## Jazīrat as Sīnīyah (Q11949839)
@@ -2753,6 +2823,13 @@
 
 ### alignments:
  - [Pyktos (river)](https://pleiades.stoa.org/places/590020)
+
+
+## Kolona (Q38281109)
+[https://www.wikidata.org/wiki/Q38281109](https://www.wikidata.org/wiki/Q38281109)  
+
+### alignments:
+ - [Kolona](https://pleiades.stoa.org/places/122622385)
 
 
 ## Koumasa (Q3199288)
@@ -4265,6 +4342,13 @@
 
 ### alignments:
  - [Porta Viminalis](https://pleiades.stoa.org/places/82115967)
+
+
+## Porte de Mars (Q1243526)
+[https://www.wikidata.org/wiki/Q1243526](https://www.wikidata.org/wiki/Q1243526)  
+
+### alignments:
+ - [Porte de Mars](https://pleiades.stoa.org/places/49979641)
 
 
 ## Porticus Minucia (Q56256238)
@@ -7988,13 +8072,6 @@
  - [Marisa](https://pleiades.stoa.org/places/687966)
 
 
-## Q1509102
-[https://www.wikidata.org/wiki/Q1509102](https://www.wikidata.org/wiki/Q1509102)  
-
-### alignments:
- - [Arch of Trajan at Ancona](https://pleiades.stoa.org/places/827492392)
-
-
 ## Q150996: Akkad
 [https://www.wikidata.org/wiki/Q150996](https://www.wikidata.org/wiki/Q150996)  
 
@@ -11568,13 +11645,6 @@
  - [Neapolis](https://pleiades.stoa.org/places/678301)
 
 
-## Q2142241: Arch of Trajan
-[https://www.wikidata.org/wiki/Q2142241](https://www.wikidata.org/wiki/Q2142241)  
-
-### alignments:
- - [Arch of Trajan at Benevento](https://pleiades.stoa.org/places/568637774)
-
-
 ## Q2142541: Tell Halaf
 [https://www.wikidata.org/wiki/Q2142541](https://www.wikidata.org/wiki/Q2142541)  
 
@@ -14441,13 +14511,6 @@
  - [Villa Gordiani](https://pleiades.stoa.org/places/422936)
 
 
-## Q3309400: Temple of Jupiter
-[https://www.wikidata.org/wiki/Q3309400](https://www.wikidata.org/wiki/Q3309400)  
-
-### alignments:
- - [Temple of Jupiter](https://pleiades.stoa.org/places/367026512)
-
-
 ## Q331355
 [https://www.wikidata.org/wiki/Q331355](https://www.wikidata.org/wiki/Q331355)  
 
@@ -15288,13 +15351,6 @@
  - [Roman arch at Spoletium](https://pleiades.stoa.org/places/900336440)
 
 
-## Q3621785: Arch of Marcus Aurelius
-[https://www.wikidata.org/wiki/Q3621785](https://www.wikidata.org/wiki/Q3621785)  
-
-### alignments:
- - [Arch of Marcus Aurelius at Tripoli](https://pleiades.stoa.org/places/680190213)
-
-
 ## Q3621786: Arco di Riccardo
 [https://www.wikidata.org/wiki/Q3621786](https://www.wikidata.org/wiki/Q3621786)  
 
@@ -15377,13 +15433,6 @@
 
 ### alignments:
  - [Bazira](https://pleiades.stoa.org/places/59740)
-
-
-## Q3635629: Basilica of Pompeii
-[https://www.wikidata.org/wiki/Q3635629](https://www.wikidata.org/wiki/Q3635629)  
-
-### alignments:
- - [Basilica](https://pleiades.stoa.org/places/945930915)
 
 
 ## Q3640384: Birtha
@@ -15969,13 +16018,6 @@
  - [Necropolis at Archontiko](https://pleiades.stoa.org/places/409986438)
 
 
-## Q38281109: Kolona
-[https://www.wikidata.org/wiki/Q38281109](https://www.wikidata.org/wiki/Q38281109)  
-
-### alignments:
- - [Kolona](https://pleiades.stoa.org/places/122622385)
-
-
 ## Q38281278: Methymna
 [https://www.wikidata.org/wiki/Q38281278](https://www.wikidata.org/wiki/Q38281278)  
 
@@ -16394,13 +16436,6 @@
 
 ### alignments:
  - [Santi Quaranta](https://pleiades.stoa.org/places/427011796)
-
-
-## Q3949594: Sanctuary of the Public Lares
-[https://www.wikidata.org/wiki/Q3949594](https://www.wikidata.org/wiki/Q3949594)  
-
-### alignments:
- - [Sanctuary of the Public Lares ](https://pleiades.stoa.org/places/531869654)
 
 
 ## Q3949669: Sanctuary of Fortuna Primigenia
@@ -23091,6 +23126,13 @@
  - [Sanctuary of the People and Graces](https://pleiades.stoa.org/places/407584240)
 
 
+## Sanctuary of the Public Lares (Q3949594)
+[https://www.wikidata.org/wiki/Q3949594](https://www.wikidata.org/wiki/Q3949594)  
+
+### alignments:
+ - [Sanctuary of the Public Lares ](https://pleiades.stoa.org/places/531869654)
+
+
 ## Sandık Dağı (Q31507675)
 [https://www.wikidata.org/wiki/Q31507675](https://www.wikidata.org/wiki/Q31507675)  
 
@@ -23708,6 +23750,13 @@
  - [Temple of Hera I (the "Basilica")](https://pleiades.stoa.org/places/608476833)
 
 
+## Temple of Jupiter (Q3309400)
+[https://www.wikidata.org/wiki/Q3309400](https://www.wikidata.org/wiki/Q3309400)  
+
+### alignments:
+ - [Temple of Jupiter](https://pleiades.stoa.org/places/367026512)
+
+
 ## Temple of Kronos and Rhea (Q65238154)
 [https://www.wikidata.org/wiki/Q65238154](https://www.wikidata.org/wiki/Q65238154)  
 
@@ -24008,6 +24057,13 @@
 
 ### alignments:
  - [Tomb of Menidi](https://pleiades.stoa.org/places/137893603)
+
+
+## Tomb of Servilia (Q75826742)
+[https://www.wikidata.org/wiki/Q75826742](https://www.wikidata.org/wiki/Q75826742)  
+
+### alignments:
+ - [Tumba de Servilia (Servilia Tomb)](https://pleiades.stoa.org/places/56416876)
 
 
 ## Tomb of the Scipios (Q1540716)

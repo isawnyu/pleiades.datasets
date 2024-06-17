@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3405 alignments exist in _Pleiades_ place references as of 2024-06-14. The following list of alignments is grouped by zotkey.
+3406 alignments exist in _Pleiades_ place references as of 2024-06-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -9917,6 +9917,13 @@
 
 ### alignments:
  - [Ioannina](https://pleiades.stoa.org/places/530900)
+
+
+## Iobacchoi clubhouse (Athens) Athens Acropolis - Ιόβακχοι
+[https://topostext.org/place/380237SIob](https://topostext.org/place/380237SIob)  
+
+### alignments:
+ - [Bakcheion](https://pleiades.stoa.org/places/576630079)
 
 
 ## Iol/Caesarea (Mauretanea)
