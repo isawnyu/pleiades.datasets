@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        27.497808,
-        38.773806,
-        27.497808,
-        38.773806
+        27.4885518,
+        38.799426,
+        27.4983105,
+        38.8086452
     ],
     "connections": [],
     "connectsWith": [],
@@ -25,15 +25,21 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Noah Kaye",
+            "uri": "https://pleiades.stoa.org/author/nkaye",
+            "username": "nkaye"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2009-10-15T08:35:47Z",
@@ -52,28 +58,63 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 56 E4 Sarıçam",
-    "details": "The Barrington Atlas Directory notes: Sarıçam, settlement and temple",
+    "details": "<p>The Barrington Atlas Directory notes: Sarıçam, settlement and temple</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    27.497808,
-                    38.773806
+                    [
+                        27.4913398,
+                        38.8076057
+                    ],
+                    [
+                        27.4942018,
+                        38.8086452
+                    ],
+                    [
+                        27.4983105,
+                        38.8053068
+                    ],
+                    [
+                        27.4979303,
+                        38.799426
+                    ],
+                    [
+                        27.4885518,
+                        38.8045345
+                    ],
+                    [
+                        27.4900418,
+                        38.8074554
+                    ],
+                    [
+                        27.4912148,
+                        38.8076276
+                    ],
+                    [
+                        27.4913398,
+                        38.8076057
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-14609",
+            "id": "ancient-site-at-sara-assam",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/550868/darmc-location-14609",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/550868/ancient-site-at-sara-assam",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 14609"
+                "snippet": "Settlement; 540 BC - AD 1453",
+                "title": "OSM location for ancient site at Sarıçam"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-06-14T22:15:09Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update reference",
             "modified": "2023-12-29T01:54:19Z",
@@ -119,15 +160,21 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "confidence": "confident-inferred",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "achaemenid-middle-east",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/achaemenid-middle-east"
+                },
+                {
+                    "confidence": "confident-inferred",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
                     "timePeriod": "hellenistic-republican",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
@@ -136,97 +183,138 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
+                },
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "mediaeval-byzantine",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 }
             ],
-            "created": "2011-03-01T03:32:11Z",
+            "contributors": [],
+            "created": "2024-06-10T17:25:23Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Noah Kaye",
+                    "uri": "https://pleiades.stoa.org/author/nkaye",
+                    "username": "nkaye"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 14609",
-            "end": 300,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 1453,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    27.497808,
-                    38.773806
+                    [
+                        27.4913398,
+                        38.8076057
+                    ],
+                    [
+                        27.4942018,
+                        38.8086452
+                    ],
+                    [
+                        27.4983105,
+                        38.8053068
+                    ],
+                    [
+                        27.4979303,
+                        38.799426
+                    ],
+                    [
+                        27.4885518,
+                        38.8045345
+                    ],
+                    [
+                        27.4900418,
+                        38.8074554
+                    ],
+                    [
+                        27.4912148,
+                        38.8076276
+                    ],
+                    [
+                        27.4913398,
+                        38.8076057
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:21:42Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-01T13:47:32Z",
+                    "modified": "2024-06-14T22:14:37Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-01T03:32:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-06-10T21:49:57Z",
+                    "modifiedBy": "nkaye"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-01T03:32:12Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2024-06-10T21:49:50Z",
+                    "modifiedBy": "nkaye"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-06-10T18:09:23Z",
+                    "modifiedBy": "nkaye"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-06-10T17:25:24Z",
+                    "modifiedBy": "nkaye"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-01T03:32:11Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-06-10T17:25:23Z",
+                    "modifiedBy": "nkaye"
                 }
             ],
-            "id": "darmc-location-14609",
+            "id": "ancient-site-at-sara-assam",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 14609",
+            "provenance": "OpenStreetMap (Way 1290767276, version 2, osm:changeset=152471839, 2024-06-09T21:14:49Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1290767276",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "14609",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HDF2SRXM",
+                    "citationDetail": "56-69",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 14609.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\">Robert, Louis, Segre, Mario. <i>Hellenica: recueil d’épigraphie, de numismatique et d’antiquités grecques. Vol. V Vol. V</i>, 1948.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Robert, Hell. V",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://www.yeniasya.com.tr/2010/04/06/yurthaber/h2.htm?fbclid=IwZXh0bgNhZW0CMTAAAR2ySoA7mm8wIjBbiye02RPJOycujan-0N5Mj9Z6CPA9rAFofU7_XDOUWrQ_aem_AUORbN55AJImyqWGU3Qqa-3mbrHBCT2cZinh_vCk6f09sv4QPD6OWFm-qFHaz51p8cXV8NDMtJGf3WkA93e7icPu",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.yeniasya.com.tr/2010/04/06/yurthaber/h2.htm?fbclid=IwZXh0bgNhZW0CMTAAAR2ySoA7mm8wIjBbiye02RPJOycujan-0N5Mj9Z6CPA9rAFofU7_XDOUWrQ_aem_AUORbN55AJImyqWGU3Qqa-3mbrHBCT2cZinh_vCk6f09sv4QPD6OWFm-qFHaz51p8cXV8NDMtJGf3WkA93e7icPu",
+                    "citationDetail": "2010.04.06",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "Yeniasya 2010.04.06",
+                    "otherIdentifier": "",
+                    "shortTitle": "Yeniasya ",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 14609",
-            "uri": "https://pleiades.stoa.org/places/550868/darmc-location-14609"
+            "start": -540,
+            "title": "OSM location for ancient site at Sarıçam",
+            "uri": "https://pleiades.stoa.org/places/550868/ancient-site-at-sara-assam"
         }
     ],
     "names": [],
@@ -259,11 +347,22 @@
             "otherIdentifier": "",
             "shortTitle": "TAM",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "14609",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        27.497808,
-        38.773806
+        27.494156361638375,
+        38.80428196215599
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
