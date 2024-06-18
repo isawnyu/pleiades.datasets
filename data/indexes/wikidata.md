@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3493 alignments exist in _Pleiades_ place references as of 2024-06-17. The following list of alignments is grouped by zotkey.
+3499 alignments exist in _Pleiades_ place references as of 2024-06-18. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1957,6 +1957,13 @@
  - [Ercavica](https://pleiades.stoa.org/places/246384)
 
 
+## Ercavica amphitheatre (Q29001122)
+[https://www.wikidata.org/wiki/Q29001122](https://www.wikidata.org/wiki/Q29001122)  
+
+### alignments:
+ - [Amphitheater of Ercavica](https://pleiades.stoa.org/places/994042997)
+
+
 ## Erchia (Q13502175)
 [https://www.wikidata.org/wiki/Q13502175](https://www.wikidata.org/wiki/Q13502175)  
 
@@ -2816,6 +2823,13 @@
 
 ### alignments:
  - [Kleitor](https://pleiades.stoa.org/places/570359)
+
+
+## Klimataria (Q47472244)
+[https://www.wikidata.org/wiki/Q47472244](https://www.wikidata.org/wiki/Q47472244)  
+
+### alignments:
+ - [Klimataria](https://pleiades.stoa.org/places/962493324)
 
 
 ## Koiliaris (Q3198324)
@@ -23280,6 +23294,13 @@
  - [Seriphos (settlement)](https://pleiades.stoa.org/places/590043)
 
 
+## Sesebi (Q2274450)
+[https://www.wikidata.org/wiki/Q2274450](https://www.wikidata.org/wiki/Q2274450)  
+
+### alignments:
+ - [Sesebi](https://pleiades.stoa.org/places/291059528)
+
+
 ## Set consisting of the Roman pavement and bridge and watermill in Catribana (Q17389990)
 [https://www.wikidata.org/wiki/Q17389990](https://www.wikidata.org/wiki/Q17389990)  
 
@@ -23736,6 +23757,13 @@
  - [Dionysos Bresagenes, T.](https://pleiades.stoa.org/places/550514)
 
 
+## Temple of Flora in Rome (Q3983248)
+[https://www.wikidata.org/wiki/Q3983248](https://www.wikidata.org/wiki/Q3983248)  
+
+### alignments:
+ - [Templum Flora](https://pleiades.stoa.org/places/910953111)
+
+
 ## Temple of Hephaestus (Q756824)
 [https://www.wikidata.org/wiki/Q756824](https://www.wikidata.org/wiki/Q756824)  
 
@@ -23932,6 +23960,13 @@
  - [Archaic tholos tomb at Pharsalos](https://pleiades.stoa.org/places/430178769)
 
 
+## Tholos tomb of Apodoulou (Q99952422)
+[https://www.wikidata.org/wiki/Q99952422](https://www.wikidata.org/wiki/Q99952422)  
+
+### alignments:
+ - [Tholos tomb of Apodoulou](https://pleiades.stoa.org/places/119143959)
+
+
 ## Tholos tomb of Platyskinos (Q28749518)
 [https://www.wikidata.org/wiki/Q28749518](https://www.wikidata.org/wiki/Q28749518)  
 
@@ -24113,6 +24148,13 @@
 
 ### alignments:
  - [Tower of Koronia](https://pleiades.stoa.org/places/688532642)
+
+
+## Trajan's Kiosk (Q7833054)
+[https://www.wikidata.org/wiki/Q7833054](https://www.wikidata.org/wiki/Q7833054)  
+
+### alignments:
+ - [Trajan's Kiosk](https://pleiades.stoa.org/places/222740561)
 
 
 ## Traron (Q65072733)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3406 alignments exist in _Pleiades_ place references as of 2024-06-17. The following list of alignments is grouped by zotkey.
+3408 alignments exist in _Pleiades_ place references as of 2024-06-18. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -17762,6 +17762,13 @@
  - [Pisaurum](https://pleiades.stoa.org/places/413256)
 
 
+## Piskokefalo Minoan villa (Lasithi)
+[https://topostext.org/place/352261XPMV](https://topostext.org/place/352261XPMV)  
+
+### alignments:
+ - [Klimataria](https://pleiades.stoa.org/places/962493324)
+
+
 ## Pistyros (Kavala)
 [https://topostext.org/place/410246PPis](https://topostext.org/place/410246PPis)  
 
@@ -21236,6 +21243,13 @@
 
 ### alignments:
  - [Sulmo](https://pleiades.stoa.org/places/433134)
+
+
+## Sundial of Augustus (Rome)
+[https://topostext.org/place/419125ASoA](https://topostext.org/place/419125ASoA)  
+
+### alignments:
+ - [Horologium Augusti](https://pleiades.stoa.org/places/986274170)
 
 
 ## Surrentum (Magna Graecia)

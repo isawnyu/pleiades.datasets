@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3504 alignments exist in _Pleiades_ place references as of 2024-06-17. The following list of alignments is grouped by zotkey.
+3506 alignments exist in _Pleiades_ place references as of 2024-06-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -20403,6 +20403,13 @@
  - [Vicus Iugarius](https://pleiades.stoa.org/places/889101791)
 
 
+## GEO ID 43792: Vicus Longus
+[https://www.trismegistos.org/place/43792](https://www.trismegistos.org/place/43792)  
+
+### alignments:
+ - [Vicus Longus](https://pleiades.stoa.org/places/325028350)
+
+
 ## GEO ID 43795: Clivus Salutis
 [https://www.trismegistos.org/place/43795](https://www.trismegistos.org/place/43795)  
 
@@ -21963,6 +21970,13 @@
 
 ### alignments:
  - [Magidû](https://pleiades.stoa.org/places/26356565)
+
+
+## GEO ID 5109: Sesebi
+[https://www.trismegistos.org/place/5109](https://www.trismegistos.org/place/5109)  
+
+### alignments:
+ - [Sesebi](https://pleiades.stoa.org/places/291059528)
 
 
 ## GEO ID 5112: Shalfak
