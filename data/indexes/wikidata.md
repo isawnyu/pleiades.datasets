@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3499 alignments exist in _Pleiades_ place references as of 2024-06-18. The following list of alignments is grouped by zotkey.
+3505 alignments exist in _Pleiades_ place references as of 2024-06-21. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1298,6 +1298,13 @@
  - [Santa Trega](https://pleiades.stoa.org/places/321202592)
 
 
+## Castromaior (Q20550533)
+[https://www.wikidata.org/wiki/Q20550533](https://www.wikidata.org/wiki/Q20550533)  
+
+### alignments:
+ - [Castromaior](https://pleiades.stoa.org/places/641265240)
+
+
 ## Castrum Harenatium (Q1585258)
 [https://www.wikidata.org/wiki/Q1585258](https://www.wikidata.org/wiki/Q1585258)  
 
@@ -1450,6 +1457,13 @@
 
 ### alignments:
  - [Kleonai](https://pleiades.stoa.org/places/570361)
+
+
+## Cluilian trench (Q3748999)
+[https://www.wikidata.org/wiki/Q3748999](https://www.wikidata.org/wiki/Q3748999)  
+
+### alignments:
+ - [Fossa Cluilia](https://pleiades.stoa.org/places/666067875)
 
 
 ## Clusiolum (Q124156569)
@@ -4363,6 +4377,13 @@
 
 ### alignments:
  - [Porte de Mars](https://pleiades.stoa.org/places/49979641)
+
+
+## Portico of Pompey (Q7231815)
+[https://www.wikidata.org/wiki/Q7231815](https://www.wikidata.org/wiki/Q7231815)  
+
+### alignments:
+ - [Porticus Pompei](https://pleiades.stoa.org/places/165546433)
 
 
 ## Porticus Minucia (Q56256238)
@@ -18344,6 +18365,13 @@
  - [Doric nymphaeum](https://pleiades.stoa.org/places/651986105)
 
 
+## Q55162587
+[https://www.wikidata.org/wiki/Q55162587](https://www.wikidata.org/wiki/Q55162587)  
+
+### alignments:
+ - [Ponte Amato](https://pleiades.stoa.org/places/426615)
+
+
 ## Q55162589: Ponte Lupo
 [https://www.wikidata.org/wiki/Q55162589](https://www.wikidata.org/wiki/Q55162589)  
 
@@ -23315,6 +23343,13 @@
  - [Shahr-e Sukhteh](https://pleiades.stoa.org/places/377547413)
 
 
+## Shatby Necropolis (Q105202124)
+[https://www.wikidata.org/wiki/Q105202124](https://www.wikidata.org/wiki/Q105202124)  
+
+### alignments:
+ - [Chatby Necropolis](https://pleiades.stoa.org/places/941771942)
+
+
 ## Shortugai (Q1550221)
 [https://www.wikidata.org/wiki/Q1550221](https://www.wikidata.org/wiki/Q1550221)  
 
@@ -23425,6 +23460,13 @@
 
 ### alignments:
  - [Scyrus (island)](https://pleiades.stoa.org/places/541093)
+
+
+## Solarium Augusti (Q1233638)
+[https://www.wikidata.org/wiki/Q1233638](https://www.wikidata.org/wiki/Q1233638)  
+
+### alignments:
+ - [Horologium Augusti](https://pleiades.stoa.org/places/986274170)
 
 
 ## Southeast Temple (Q24204674)

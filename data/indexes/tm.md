@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3506 alignments exist in _Pleiades_ place references as of 2024-06-18. The following list of alignments is grouped by zotkey.
+3508 alignments exist in _Pleiades_ place references as of 2024-06-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12413,6 +12413,13 @@
  - [Formiae](https://pleiades.stoa.org/places/432839)
 
 
+## GEO ID 32464: Forum Appii (Foro Appio)
+[http://www.trismegistos.org/place/32464](http://www.trismegistos.org/place/32464)  
+
+### alignments:
+ - [Forum Appii ](https://pleiades.stoa.org/places/422927)
+
+
 ## GEO ID 32465: Forum Popilii (Civitarotta)
 [http://www.trismegistos.org/place/32465](http://www.trismegistos.org/place/32465)  
 
@@ -24375,6 +24382,13 @@
 
 ### alignments:
  - [Tor di Mezzavia di Frascati](https://pleiades.stoa.org/places/243709573)
+
+
+## Text 251803
+[https://www.trismegistos.org/text/251803](https://www.trismegistos.org/text/251803)  
+
+### alignments:
+ - [Forum Appii ](https://pleiades.stoa.org/places/422927)
 
 
 ## Text 251808
