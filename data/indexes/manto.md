@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-450 alignments exist in _Pleiades_ place references as of 2024-06-21. The following list of alignments is grouped by zotkey.
+451 alignments exist in _Pleiades_ place references as of 2024-06-24. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2996,6 +2996,13 @@
 
 ### alignments:
  - [Haliakmon (river)](https://pleiades.stoa.org/places/491614)
+
+
+## 9878405: River Heptaporos (Troad)
+[https://resource.manto.unh.edu/9878405](https://resource.manto.unh.edu/9878405)  
+
+### alignments:
+ - [Heptaporos (river)](https://pleiades.stoa.org/places/897021085)
 
 
 ## 9880011: Mount Othrys (Thessaly)

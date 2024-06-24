@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3508 alignments exist in _Pleiades_ place references as of 2024-06-21. The following list of alignments is grouped by zotkey.
+3510 alignments exist in _Pleiades_ place references as of 2024-06-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -19036,6 +19036,13 @@
  - [Flavia marci](https://pleiades.stoa.org/places/644520936)
 
 
+## GEO ID 42444: Gegetu
+[https://www.trismegistos.org/place/42444](https://www.trismegistos.org/place/42444)  
+
+### alignments:
+ - [Gegetu](https://pleiades.stoa.org/places/173059814)
+
+
 ## GEO ID 42445: Mova
 [https://www.trismegistos.org/place/42445](https://www.trismegistos.org/place/42445)  
 
@@ -21787,6 +21794,13 @@
 
 ### alignments:
  - [Salduie/‘Salduba’](https://pleiades.stoa.org/places/246607)
+
+
+## GEO ID 4995: Itj-tawi
+[https://www.trismegistos.org/place/4995](https://www.trismegistos.org/place/4995)  
+
+### alignments:
+ - [Itj-tawi](https://pleiades.stoa.org/places/760483006)
 
 
 ## GEO ID 49962: Metalla Aeliana Pincensia

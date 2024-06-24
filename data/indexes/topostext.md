@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3408 alignments exist in _Pleiades_ place references as of 2024-06-21. The following list of alignments is grouped by zotkey.
+3410 alignments exist in _Pleiades_ place references as of 2024-06-24. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6200,6 +6200,13 @@
 ### alignments:
  - [Dema wall](https://pleiades.stoa.org/places/585132)
  - [Dema](https://pleiades.stoa.org/places/579909)
+
+
+## Demeter Chamyne sanc. (Olympia)
+[https://topostext.org/place/376216SDCh](https://topostext.org/place/376216SDCh)  
+
+### alignments:
+ - [Sanctuary of Demeter Chamyne](https://pleiades.stoa.org/places/469444289)
 
 
 ## Demeter Malophoros (Selinous)
@@ -23818,6 +23825,13 @@
 
 ### alignments:
  - [Zeus, T.](https://pleiades.stoa.org/places/570763)
+
+
+## Zeus Karaos? Temple (Akarnania) Dragamestre - Ζεύς Καραός
+[https://topostext.org/place/385211SZKa](https://topostext.org/place/385211SZKa)  
+
+### alignments:
+ - [Temple of Zeus Karaos](https://pleiades.stoa.org/places/595395155)
 
 
 ## Zeus Lykaios altar (Arkadia)

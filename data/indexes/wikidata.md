@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3505 alignments exist in _Pleiades_ place references as of 2024-06-21. The following list of alignments is grouped by zotkey.
+3508 alignments exist in _Pleiades_ place references as of 2024-06-24. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -119,6 +119,13 @@
 
 ### alignments:
  - [Aethiopia](https://pleiades.stoa.org/places/39274)
+
+
+## Agia Dynamis (Q38284225)
+[https://www.wikidata.org/wiki/Q38284225](https://www.wikidata.org/wiki/Q38284225)  
+
+### alignments:
+ - [Agia Dynamis](https://pleiades.stoa.org/places/857558608)
 
 
 ## Agia Marina Otzia basilica (Q56240176)
@@ -974,6 +981,13 @@
 
 ### alignments:
  - [Thermae Constantinianae](https://pleiades.stoa.org/places/933584945)
+
+
+## Baths of Titus (Q1231749)
+[https://www.wikidata.org/wiki/Q1231749](https://www.wikidata.org/wiki/Q1231749)  
+
+### alignments:
+ - [Thermae Titi (Tïtianae)](https://pleiades.stoa.org/places/855441498)
 
 
 ## Battle of Crocus Field (Q1887681)
@@ -6647,13 +6661,6 @@
 
 ### alignments:
  - [Dyme](https://pleiades.stoa.org/places/570205)
-
-
-## Q1231749: Baths of Titus
-[https://www.wikidata.org/wiki/Q1231749](https://www.wikidata.org/wiki/Q1231749)  
-
-### alignments:
- - [Thermae Titi (Tïtianae)](https://pleiades.stoa.org/places/855441498)
 
 
 ## Q1232467: Lacus Curtius
@@ -21508,13 +21515,6 @@
  - [Kyzistra](https://pleiades.stoa.org/places/619195)
 
 
-## Q797481: Temple of Bel
-[https://www.wikidata.org/wiki/Q797481](https://www.wikidata.org/wiki/Q797481)  
-
-### alignments:
- - [Temple of Ba'al at Palmyra](https://pleiades.stoa.org/places/35794949)
-
-
 ## Q7996561: Whitley Castle
 [https://www.wikidata.org/wiki/Q7996561](https://www.wikidata.org/wiki/Q7996561)  
 
@@ -22570,6 +22570,13 @@
 
 ### alignments:
  - [Maleses](https://pleiades.stoa.org/places/671593467)
+
+
+## Q97446599: Sanctuary of Demeter Chamyne
+[https://www.wikidata.org/wiki/Q97446599](https://www.wikidata.org/wiki/Q97446599)  
+
+### alignments:
+ - [Sanctuary of Demeter Chamyne](https://pleiades.stoa.org/places/469444289)
 
 
 ## Q97623646: Tomb of Marcus Servilius Quartus
@@ -23757,6 +23764,13 @@
  - [Temple of Athena Lindia](https://pleiades.stoa.org/places/414067217)
 
 
+## Temple of Bel (Q797481)
+[https://www.wikidata.org/wiki/Q797481](https://www.wikidata.org/wiki/Q797481)  
+
+### alignments:
+ - [Temple of Ba'al at Palmyra](https://pleiades.stoa.org/places/35794949)
+
+
 ## Temple of Bona Dea (Q541336)
 [https://www.wikidata.org/wiki/Q541336](https://www.wikidata.org/wiki/Q541336)  
 
@@ -23930,6 +23944,13 @@
 
 ### alignments:
  - [Theater at Cyrrus/Hagioupolis](https://pleiades.stoa.org/places/48167299)
+
+
+## Theatre of Nero (Q120926285)
+[https://www.wikidata.org/wiki/Q120926285](https://www.wikidata.org/wiki/Q120926285)  
+
+### alignments:
+ - [Theater of Nero](https://pleiades.stoa.org/places/406270378)
 
 
 ## Thebes (Q11225429)
