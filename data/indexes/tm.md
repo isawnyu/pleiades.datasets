@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3510 alignments exist in _Pleiades_ place references as of 2024-06-24. The following list of alignments is grouped by zotkey.
+3511 alignments exist in _Pleiades_ place references as of 2024-06-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9357,6 +9357,13 @@
 
 ### alignments:
  - [Apollonias](https://pleiades.stoa.org/places/741428)
+
+
+## GEO ID 25430: Tres Tabernae (Saverne)
+[http://www.trismegistos.org/place/25430](http://www.trismegistos.org/place/25430)  
+
+### alignments:
+ - [Tres Tabernae](https://pleiades.stoa.org/places/109389)
 
 
 ## GEO ID 25439: Vertillum (Vertault)

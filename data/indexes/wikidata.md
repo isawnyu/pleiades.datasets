@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3508 alignments exist in _Pleiades_ place references as of 2024-06-24. The following list of alignments is grouped by zotkey.
+3510 alignments exist in _Pleiades_ place references as of 2024-06-25. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -527,6 +527,13 @@
  - [Apollonieis](https://pleiades.stoa.org/places/585888)
 
 
+## Appian Way (Q189417)
+[https://www.wikidata.org/wiki/Q189417](https://www.wikidata.org/wiki/Q189417)  
+
+### alignments:
+ - [Via Appia](https://pleiades.stoa.org/places/356966898)
+
+
 ## Apsidal Portico (Q3909056)
 [https://www.wikidata.org/wiki/Q3909056](https://www.wikidata.org/wiki/Q3909056)  
 
@@ -1032,6 +1039,13 @@
  - [Berenike?](https://pleiades.stoa.org/places/530819)
 
 
+## Bergantino nymphaeum (Q3877099)
+[https://www.wikidata.org/wiki/Q3877099](https://www.wikidata.org/wiki/Q3877099)  
+
+### alignments:
+ - [Bergantino nymphaeum](https://pleiades.stoa.org/places/152437948)
+
+
 ## Beta Samati (Q124570925)
 [https://www.wikidata.org/wiki/Q124570925](https://www.wikidata.org/wiki/Q124570925)  
 
@@ -1457,6 +1471,13 @@
 
 ### alignments:
  - [Kierion](https://pleiades.stoa.org/places/540867)
+
+
+## Circus of Maxentius (Q1457351)
+[https://www.wikidata.org/wiki/Q1457351](https://www.wikidata.org/wiki/Q1457351)  
+
+### alignments:
+ - [Circus of Maxentius](https://pleiades.stoa.org/places/461581649)
 
 
 ## Cirrha (Q56754242)
@@ -3334,6 +3355,13 @@
 
 ### alignments:
  - [Matalon](https://pleiades.stoa.org/places/589925)
+
+
+## Mausoleum of Maxentius (Q22919904)
+[https://www.wikidata.org/wiki/Q22919904](https://www.wikidata.org/wiki/Q22919904)  
+
+### alignments:
+ - [Mausoleum of Romulus](https://pleiades.stoa.org/places/916973546)
 
 
 ## Mausoleum of Theodoric (Q289427)
@@ -7967,13 +7995,6 @@
  - [Templum Pacis](https://pleiades.stoa.org/places/152567558)
 
 
-## Q1457351
-[https://www.wikidata.org/wiki/Q1457351](https://www.wikidata.org/wiki/Q1457351)  
-
-### alignments:
- - [Circus of Maxentius](https://pleiades.stoa.org/places/461581649)
-
-
 ## Q1457477: Megara Hyblaea
 [https://www.wikidata.org/wiki/Q1457477](https://www.wikidata.org/wiki/Q1457477)  
 
@@ -10520,13 +10541,6 @@
 
 ### alignments:
  - ["Palaestra"](https://pleiades.stoa.org/places/524253439)
-
-
-## Q189417: Appian Way
-[https://www.wikidata.org/wiki/Q189417](https://www.wikidata.org/wiki/Q189417)  
-
-### alignments:
- - [Via Appia](https://pleiades.stoa.org/places/356966898)
 
 
 ## Q1894495: Mareia
