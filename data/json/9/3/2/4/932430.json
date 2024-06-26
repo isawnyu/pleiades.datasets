@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        48.773516,
-        26.939085,
-        48.773516,
-        26.939085
+        48.77313,
+        26.946051,
+        48.77313,
+        26.946051
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,28 +44,38 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 95 A2 al-Hinna",
-    "details": "The Barrington Atlas Directory notes: al-Hinna, SAU",
+    "details": "<p>The Barrington Atlas Directory notes: al-Hinna, SAU</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    48.773516,
-                    26.939085
+                    48.77313,
+                    26.946051
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-32203",
+            "id": "osm-location-of-al-hinnah",
             "properties": {
-                "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/932430/darmc-location-32203",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/932430/osm-location-of-al-hinnah",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "DARMC location 32203"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Al Hinnah"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-06-25T18:27:03Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "clarified Potts reference",
+            "modified": "2024-06-25T18:26:25Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2017-05-14T15:01:44Z",
@@ -111,100 +121,102 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:48:32Z",
+            "contributors": [],
+            "created": "2023-01-02T20:56:47Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 32203",
-            "end": -30,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    48.773516,
-                    26.939085
+                    48.77313,
+                    26.946051
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:43:39Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-02T21:58:46Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-06-25T18:26:35Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-02T20:48:33Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-05-25T15:15:23Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:48:33Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "update references",
+                    "modified": "2024-05-25T15:14:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2023-01-02T20:57:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-01-02T20:56:48Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-02T20:48:32Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-01-02T20:56:47Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-32203",
+            "id": "osm-location-of-al-hinnah",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 32203",
+            "provenance": "OpenStreetMap (Node 1236771424, version 2, osm:changeset=87610930, 2020-07-06T16:32:27Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1236771424",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "32203",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1236771424",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 32203.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=1236771424",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 32203",
-            "uri": "https://pleiades.stoa.org/places/932430/darmc-location-32203"
+            "start": 2000,
+            "title": "OSM location of Al Hinnah",
+            "uri": "https://pleiades.stoa.org/places/932430/osm-location-of-al-hinnah"
         }
     ],
     "names": [],
@@ -233,17 +245,28 @@
             "accessURI": "http://www.worldcat.org/oclc/882911523",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GKSKX8DG",
-            "citationDetail": "102",
+            "citationDetail": "volume 2 page 102",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Potts, Daniel T. <i>The Arabian Gulf in Antiquity</i>. New York: Oxford University Press, 1990. http://www.worldcat.org/oclc/882911523.</div>",
             "otherIdentifier": "",
             "shortTitle": "Potts 1990",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "32203",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        48.773516,
-        26.939085
+        48.77313,
+        26.946051
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
