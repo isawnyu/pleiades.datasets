@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3510 alignments exist in _Pleiades_ place references as of 2024-06-25. The following list of alignments is grouped by zotkey.
+3518 alignments exist in _Pleiades_ place references as of 2024-06-26. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -967,6 +967,13 @@
 
 ### alignments:
  - [Basilica](https://pleiades.stoa.org/places/945930915)
+
+
+## Basilica of Saint Sabina (Q592244)
+[https://www.wikidata.org/wiki/Q592244](https://www.wikidata.org/wiki/Q592244)  
+
+### alignments:
+ - [Santa Sabina](https://pleiades.stoa.org/places/715215852)
 
 
 ## Batanaea (Q2479533)
@@ -1990,6 +1997,13 @@
 
 ### alignments:
  - [Epidauros](https://pleiades.stoa.org/places/570228)
+
+
+## Erana (Q60791986)
+[https://www.wikidata.org/wiki/Q60791986](https://www.wikidata.org/wiki/Q60791986)  
+
+### alignments:
+ - [Erana](https://pleiades.stoa.org/places/662159)
 
 
 ## Erasinos (Q12877267)
@@ -3091,6 +3105,13 @@
  - [Lato](https://pleiades.stoa.org/places/589899)
 
 
+## Lautulae (Q11753303)
+[https://www.wikidata.org/wiki/Q11753303](https://www.wikidata.org/wiki/Q11753303)  
+
+### alignments:
+ - [Lautulae](https://pleiades.stoa.org/places/432903)
+
+
 ## Lefka Ori (Q1137982)
 [https://www.wikidata.org/wiki/Q1137982](https://www.wikidata.org/wiki/Q1137982)  
 
@@ -3166,6 +3187,13 @@
 
 ### alignments:
  - [Lindos](https://pleiades.stoa.org/places/589913)
+
+
+## Lisht (Q287779)
+[https://www.wikidata.org/wiki/Q287779](https://www.wikidata.org/wiki/Q287779)  
+
+### alignments:
+ - [Lisht](https://pleiades.stoa.org/places/797229144)
 
 
 ## Lista (Q21095149)
@@ -4050,6 +4078,13 @@
  - [Pavlopetri](https://pleiades.stoa.org/places/270123726)
 
 
+## Paxos (Q719518)
+[https://www.wikidata.org/wiki/Q719518](https://www.wikidata.org/wiki/Q719518)  
+
+### alignments:
+ - [Paxos (island)](https://pleiades.stoa.org/places/531049)
+
+
 ## Pedachtoë (Q85792628)
 [https://www.wikidata.org/wiki/Q85792628](https://www.wikidata.org/wiki/Q85792628)  
 
@@ -4386,6 +4421,13 @@
  - [Solestà Roman bridge](https://pleiades.stoa.org/places/413249072)
 
 
+## Pontinia (Q128130)
+[https://www.wikidata.org/wiki/Q128130](https://www.wikidata.org/wiki/Q128130)  
+
+### alignments:
+ - [Ad Medias](https://pleiades.stoa.org/places/432629)
+
+
 ## Porta Metronia (Q1964646)
 [https://www.wikidata.org/wiki/Q1964646](https://www.wikidata.org/wiki/Q1964646)  
 
@@ -4575,11 +4617,25 @@
  - [Kainys (promontory)](https://pleiades.stoa.org/places/452350)
 
 
+## Pyramid of Amenemhet I (Q462160)
+[https://www.wikidata.org/wiki/Q462160](https://www.wikidata.org/wiki/Q462160)  
+
+### alignments:
+ - [Pyramid of Amenemhat I](https://pleiades.stoa.org/places/203499429)
+
+
 ## Pyramid of Seila (Q688720)
 [https://www.wikidata.org/wiki/Q688720](https://www.wikidata.org/wiki/Q688720)  
 
 ### alignments:
  - [Seila Pyramid](https://pleiades.stoa.org/places/640732795)
+
+
+## Pyramid of Senusret I (Q206610)
+[https://www.wikidata.org/wiki/Q206610](https://www.wikidata.org/wiki/Q206610)  
+
+### alignments:
+ - [Pyramid of Senusret I](https://pleiades.stoa.org/places/149451361)
 
 
 ## Pyramid of Senusret II (Q1698602)
@@ -6276,13 +6332,6 @@
 
 ### alignments:
  - [Arch of Germanicus](https://pleiades.stoa.org/places/394643748)
-
-
-## Q11753303
-[https://www.wikidata.org/wiki/Q11753303](https://www.wikidata.org/wiki/Q11753303)  
-
-### alignments:
- - [Lautulae](https://pleiades.stoa.org/places/432903)
 
 
 ## Q1177750
@@ -19401,13 +19450,6 @@
  - [Petra](https://pleiades.stoa.org/places/573439)
 
 
-## Q60791986: Erana
-[https://www.wikidata.org/wiki/Q60791986](https://www.wikidata.org/wiki/Q60791986)  
-
-### alignments:
- - [Erana](https://pleiades.stoa.org/places/662159)
-
-
 ## Q60792059: Lapithaeum
 [https://www.wikidata.org/wiki/Q60792059](https://www.wikidata.org/wiki/Q60792059)  
 
@@ -22916,6 +22958,13 @@
  - [Ince fortlet](https://pleiades.stoa.org/places/629766126)
 
 
+## Roman manor house (Q2202580)
+[https://www.wikidata.org/wiki/Q2202580](https://www.wikidata.org/wiki/Q2202580)  
+
+### alignments:
+ - [Neftenbach](https://pleiades.stoa.org/places/41177951)
+
+
 ## Roman ruins of Villa Cardillio (Q10390694)
 [https://www.wikidata.org/wiki/Q10390694](https://www.wikidata.org/wiki/Q10390694)  
 
@@ -23993,6 +24042,13 @@
 
 ### alignments:
  - [Roman baths of Coriovallum](https://pleiades.stoa.org/places/763397652)
+
+
+## Thermes de Cimiez (Q3523863)
+[https://www.wikidata.org/wiki/Q3523863](https://www.wikidata.org/wiki/Q3523863)  
+
+### alignments:
+ - [Thermes romains de Cimiez](https://pleiades.stoa.org/places/425092509)
 
 
 ## Thessaliotis (Q2084400)

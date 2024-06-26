@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-314 alignments exist in _Pleiades_ place references as of 2024-06-25. The following list of alignments is grouped by zotkey.
+319 alignments exist in _Pleiades_ place references as of 2024-06-26. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -92,6 +92,20 @@
  - [Temple of Zeus at Nemea](https://pleiades.stoa.org/places/109791198)
 
 
+## Report 10283: ASOPOS - 1996
+[https://chronique.efa.gr/?kroute=report&id=10283](https://chronique.efa.gr/?kroute=report&id=10283)  
+
+### alignments:
+ - [Kyparissia](https://pleiades.stoa.org/places/570396)
+
+
+## Report 10562: ASOPOS-DAIMONIA - 1994
+[https://chronique.efa.gr/?kroute=report&id=10562](https://chronique.efa.gr/?kroute=report&id=10562)  
+
+### alignments:
+ - [Kyparissia](https://pleiades.stoa.org/places/570396)
+
+
 ## Report 11902: SARANTAPORO. - Dolichè antique - 1996
 [https://chronique.efa.gr/?kroute=report&id=11902](https://chronique.efa.gr/?kroute=report&id=11902)  
 
@@ -111,6 +125,13 @@
 
 ### alignments:
  - [Mitrou](https://pleiades.stoa.org/places/645204824)
+
+
+## Report 128: ASOPOS - 1999
+[https://chronique.efa.gr/?kroute=report&id=128](https://chronique.efa.gr/?kroute=report&id=128)  
+
+### alignments:
+ - [Kyparissia](https://pleiades.stoa.org/places/570396)
 
 
 ## Report 137: GYTHEION. - Epano Vathy Néochoriou - 1999
@@ -244,6 +265,13 @@
 
 ### alignments:
  - [Megalopolis](https://pleiades.stoa.org/places/570467)
+
+
+## Report 2551: PLYTRA (anc. Asopos) - 2010
+[https://chronique.efa.gr/?kroute=report&id=2551](https://chronique.efa.gr/?kroute=report&id=2551)  
+
+### alignments:
+ - [Asopos](https://pleiades.stoa.org/places/570129)
 
 
 ## Report 2795: Panormos - 2009
@@ -651,6 +679,13 @@
 
 ### alignments:
  - [Skiathos/Sciathus (island)](https://pleiades.stoa.org/places/541092)
+
+
+## Toponym 34618: Paxos, Paxoi
+[https://chronique.efa.gr/?kroute=topo_public&id=34618](https://chronique.efa.gr/?kroute=topo_public&id=34618)  
+
+### alignments:
+ - [Paxos (island)](https://pleiades.stoa.org/places/531049)
 
 
 ## Toponym 34849: Andipaxos, Antipaxoi, Propaxos

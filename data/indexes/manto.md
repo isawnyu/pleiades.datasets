@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-451 alignments exist in _Pleiades_ place references as of 2024-06-25. The following list of alignments is grouped by zotkey.
+453 alignments exist in _Pleiades_ place references as of 2024-06-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -785,11 +785,25 @@
  - [Lebadeia](https://pleiades.stoa.org/places/540907)
 
 
+## 10159953: Mount Euboia
+[https://resource.manto.unh.edu/10159953](https://resource.manto.unh.edu/10159953)  
+
+### alignments:
+ - [Euboia (mountain)](https://pleiades.stoa.org/places/570245)
+
+
 ## 10160107: Amphilochia
 [https://resource.manto.unh.edu/10160107](https://resource.manto.unh.edu/10160107)  
 
 ### alignments:
  - [Amphilochia](https://pleiades.stoa.org/places/530797)
+
+
+## 10160314: Temenouthyrai
+[https://resource.manto.unh.edu/10160314](https://resource.manto.unh.edu/10160314)  
+
+### alignments:
+ - [Temenouthyrai](https://pleiades.stoa.org/places/609549)
 
 
 ## 10185031: Rheitoi (Attica) river channels near Eleusis

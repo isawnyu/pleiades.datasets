@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3511 alignments exist in _Pleiades_ place references as of 2024-06-25. The following list of alignments is grouped by zotkey.
+3516 alignments exist in _Pleiades_ place references as of 2024-06-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1553,6 +1553,13 @@
  - [(H)Adriaticum/Superum Mare](https://pleiades.stoa.org/places/1004)
 
 
+## Geo 42520: Paxos
+[https://www.trismegistos.org/place/42520](https://www.trismegistos.org/place/42520)  
+
+### alignments:
+ - [Paxos (island)](https://pleiades.stoa.org/places/531049)
+
+
 ## Geo 42526: Eurotas
 [https://www.trismegistos.org/place/42526](https://www.trismegistos.org/place/42526)  
 
@@ -2643,6 +2650,13 @@
 
 ### alignments:
  - [Heliopolis/Col. Iulia Augusta Felix](https://pleiades.stoa.org/places/678179)
+
+
+## GEO ID 11910: Karandra Sinus
+[http://www.trismegistos.org/place/11910](http://www.trismegistos.org/place/11910)  
+
+### alignments:
+ - [Karandra Sinus](https://pleiades.stoa.org/places/417754467)
 
 
 ## GEO ID 11922: Stratioton
@@ -8015,6 +8029,13 @@
  - [Luteva/*Forum Neronis](https://pleiades.stoa.org/places/148121)
 
 
+## GEO ID 20909: Cularo (Grenoble)
+[http://www.trismegistos.org/place/20909](http://www.trismegistos.org/place/20909)  
+
+### alignments:
+ - [Cularo/Gratianopolis](https://pleiades.stoa.org/places/167734)
+
+
 ## GEO ID 2090: Sardeis (Sart)
 [https://www.trismegistos.org/place/2090](https://www.trismegistos.org/place/2090)  
 
@@ -12250,6 +12271,13 @@
 
 ### alignments:
  - [Setia](https://pleiades.stoa.org/places/423068)
+
+
+## GEO ID 32361
+[http://www.trismegistos.org/place/32361](http://www.trismegistos.org/place/32361)  
+
+### alignments:
+ - [Ad Medias](https://pleiades.stoa.org/places/432629)
 
 
 ## GEO ID 32362: Ad Speluncam (Sperlonga)
@@ -21815,6 +21843,13 @@
 
 ### alignments:
  - [Metal(la) Aeliana Pincensia](https://pleiades.stoa.org/places/209139)
+
+
+## GEO ID 4996: El-Lisht
+[https://www.trismegistos.org/place/4996](https://www.trismegistos.org/place/4996)  
+
+### alignments:
+ - [Lisht](https://pleiades.stoa.org/places/797229144)
 
 
 ## GEO ID 49: Egypt
