@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3516 alignments exist in _Pleiades_ place references as of 2024-06-26. The following list of alignments is grouped by zotkey.
+3518 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1317,6 +1317,13 @@
  - [Pallantion](https://pleiades.stoa.org/places/570548)
 
 
+## Geo 37740: Eua
+[https://www.trismegistos.org/place/37740](https://www.trismegistos.org/place/37740)  
+
+### alignments:
+ - [Eua?](https://pleiades.stoa.org/places/570241)
+
+
 ## Geo 37768: Marathon
 [https://www.trismegistos.org/place/37768](https://www.trismegistos.org/place/37768)  
 
@@ -1502,6 +1509,13 @@
 
 ### alignments:
  - [‘Octacuscum’](https://pleiades.stoa.org/places/658555)
+
+
+## Geo 416: Berenike (Bender el-Kebir)
+[https://www.trismegistos.org/place/416](https://www.trismegistos.org/place/416)  
+
+### alignments:
+ - [Berenice/Berenike](https://pleiades.stoa.org/places/785986)
 
 
 ## Geo 41756: Taricheiai (Henchir el-Mdeina)

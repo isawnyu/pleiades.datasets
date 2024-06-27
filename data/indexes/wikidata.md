@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3518 alignments exist in _Pleiades_ place references as of 2024-06-26. The following list of alignments is grouped by zotkey.
+3522 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1037,6 +1037,13 @@
 
 ### alignments:
  - [Agaros (river)](https://pleiades.stoa.org/places/825219)
+
+
+## Berenice Troglodytica (Q819050)
+[https://www.wikidata.org/wiki/Q819050](https://www.wikidata.org/wiki/Q819050)  
+
+### alignments:
+ - [Berenice/Berenike](https://pleiades.stoa.org/places/785986)
 
 
 ## Berenike (Q4891275)
@@ -2081,6 +2088,13 @@
 
 ### alignments:
  - [Eurotas (river)](https://pleiades.stoa.org/places/570248)
+
+
+## Eva (Cynuria) (Q16565203)
+[https://www.wikidata.org/wiki/Q16565203](https://www.wikidata.org/wiki/Q16565203)  
+
+### alignments:
+ - [Eua?](https://pleiades.stoa.org/places/570241)
 
 
 ## Exomvourgo (Q3560397)
@@ -3397,6 +3411,13 @@
 
 ### alignments:
  - [Mausoleum of Theodoric](https://pleiades.stoa.org/places/861709371)
+
+
+## Mediomatrici (Q1175315)
+[https://www.wikidata.org/wiki/Q1175315](https://www.wikidata.org/wiki/Q1175315)  
+
+### alignments:
+ - [Mediomatrici](https://pleiades.stoa.org/places/109154)
 
 
 ## Medma (Q611318)
@@ -18330,6 +18351,13 @@
  - [Farah Bala Hisar](https://pleiades.stoa.org/places/682990830)
 
 
+## Q5442948: Fen Causeway
+[https://www.wikidata.org/wiki/Q5442948](https://www.wikidata.org/wiki/Q5442948)  
+
+### alignments:
+ - [Fen Causeway](https://pleiades.stoa.org/places/649485970)
+
+
 ## Q546547: Cosa
 [https://www.wikidata.org/wiki/Q546547](https://www.wikidata.org/wiki/Q546547)  
 
@@ -18761,7 +18789,7 @@
 [https://www.wikidata.org/wiki/Q564775](https://www.wikidata.org/wiki/Q564775)  
 
 ### alignments:
- - [Vallatum?](https://pleiades.stoa.org/places/119017)
+ - [Manching](https://pleiades.stoa.org/places/119017)
 
 
 ## Q565736: Drususstein

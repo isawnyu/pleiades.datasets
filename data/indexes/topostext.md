@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3410 alignments exist in _Pleiades_ place references as of 2024-06-26. The following list of alignments is grouped by zotkey.
+3412 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5198,6 +5198,13 @@
 
 ### alignments:
  - [Priscilla](https://pleiades.stoa.org/places/423016)
+
+
+## catacombs (Melos) Tripiti
+[https://topostext.org/place/367244GTri](https://topostext.org/place/367244GTri)  
+
+### alignments:
+ - [Catacombs of Trypiti](https://pleiades.stoa.org/places/694364581)
 
 
 ## Cataracta (Egypt)
@@ -12861,6 +12868,13 @@
 
 ### alignments:
  - [Limenia?](https://pleiades.stoa.org/places/707563)
+
+
+## Limiko Kapsalon dragon house (Euboea)
+[https://topostext.org/place/381242BLKD](https://topostext.org/place/381242BLKD)  
+
+### alignments:
+ - [Limiko Kapsalon dragon house](https://pleiades.stoa.org/places/766613993)
 
 
 ## Limnai (Messenia)

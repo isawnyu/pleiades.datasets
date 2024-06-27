@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-453 alignments exist in _Pleiades_ place references as of 2024-06-26. The following list of alignments is grouped by zotkey.
+454 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -867,6 +867,13 @@
 
 ### alignments:
  - [Genesion/Apobathmoi](https://pleiades.stoa.org/places/570257)
+
+
+## 10192032: Eua
+[https://resource.manto.unh.edu/10192032](https://resource.manto.unh.edu/10192032)  
+
+### alignments:
+ - [Eua?](https://pleiades.stoa.org/places/570241)
 
 
 ## 10194010: Antheia (Argolid)
