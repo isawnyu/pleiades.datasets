@@ -56,23 +56,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/18271457",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:01:53Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype, add reference",
+                    "modified": "2024-06-26T11:07:09Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:01:53Z",
@@ -91,7 +103,19 @@
             ],
             "id": "18271457",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://it.wikipedia.org",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
+                    "citationDetail": "Catacomba di Sant'Ermete",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Via Salaria",
@@ -141,7 +165,7 @@
             "username": null
         }
     ],
-    "description": "S. Ermete is the site of a Paleochristian basilica and catacomb; the catacombs are also referred to as the Catacombs of Bassilla, and both names occur in the documentary sources. ",
+    "description": "S. Ermete is the site of a Paleochristian basilica and catacomb; the catacombs are also referred to as the Catacombs of Bassilla, and both names occur in the documentary sources.",
     "details": "<p>The Barrington Atlas Directory notes: S. Ermete, cemeteries of S. Ermete and “ad clivum cucumeris”?</p>",
     "features": [
         {
@@ -164,6 +188,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update",
+            "modified": "2024-06-26T11:06:04Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2021-08-10T14:58:41Z",
@@ -372,6 +401,7 @@
     "subject": [
         "dare:major=0",
         "dare:ancient=0",
+        "paleochristian",
         "dare:feature=cemetery"
     ],
     "title": "S. Ermete",
