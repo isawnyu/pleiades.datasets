@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.710651,
-        37.809667,
-        22.710651,
-        37.809667
+        22.7102317,
+        37.8094257,
+        22.7107185,
+        37.8096864
     ],
     "connections": [
         {
@@ -109,18 +109,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    22.710651,
-                    37.809667
+                    [
+                        22.7102317,
+                        37.8095638
+                    ],
+                    [
+                        22.7102959,
+                        37.8094257
+                    ],
+                    [
+                        22.7107185,
+                        37.8095482
+                    ],
+                    [
+                        22.7106543,
+                        37.8096864
+                    ],
+                    [
+                        22.7102317,
+                        37.8095638
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "imagery-location-of-the-temple-of-zeus-at-nemea",
+            "id": "osm-location-of-temple-of-zeus-nemea",
             "properties": {
-                "description": "Representative point location of the northeast corner of the temple base, derived from analysis of Google Earth imagery. Dates after Miller, pp. 130-131.",
-                "link": "https://pleiades.stoa.org/places/109791198/imagery-location-of-the-temple-of-zeus-at-nemea",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/109791198/osm-location-of-temple-of-zeus-nemea",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - AD 640",
-                "title": "Imagery location of the Temple of Zeus at Nemea"
+                "snippet": "Temple-2; 550 BC - AD 300",
+                "title": "OSM location of Temple of Zeus Nemea"
             },
             "type": "Feature"
         }
@@ -191,9 +209,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
-            "accuracy_value": 5.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -214,15 +232,11 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2024-05-31T23:57:09Z",
+            "creators": [
                 {
                     "homepage": null,
                     "name": "Jeffrey Becker",
@@ -230,71 +244,92 @@
                     "username": "jbecker"
                 }
             ],
-            "created": "2016-05-27T15:42:35Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                }
-            ],
-            "description": "Representative point location of the northeast corner of the temple base, derived from analysis of Google Earth imagery. Dates after Miller, pp. 130-131.",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "temple-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    22.710651,
-                    37.809667
+                    [
+                        22.7102317,
+                        37.8095638
+                    ],
+                    [
+                        22.7102959,
+                        37.8094257
+                    ],
+                    [
+                        22.7107185,
+                        37.8095482
+                    ],
+                    [
+                        22.7106543,
+                        37.8096864
+                    ],
+                    [
+                        22.7102317,
+                        37.8095638
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Google Earth and Partners Imagery 2016 and following",
-                    "modified": "2023-02-25T16:38:20Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2016-05-27T15:43:51Z",
+                    "modified": "2024-06-27T14:18:06Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2016-05-27T15:43:37Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2024-05-31T23:57:42Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Initial revision",
-                    "modified": "2016-05-27T15:42:39Z",
-                    "modifiedBy": "thomase"
+                    "comment": "add OSM location",
+                    "modified": "2024-05-31T23:57:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-05-31T23:57:09Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2016-05-27T15:42:35Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2024-05-31T23:57:09Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "imagery-location-of-the-temple-of-zeus-at-nemea",
+            "id": "osm-location-of-temple-of-zeus-nemea",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "Pleiades",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 625281334, version 7, osm:changeset=145187637, 2023-12-16T15:10:15Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/625281334",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 625281334",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=625281334",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -550,
-            "title": "Imagery location of the Temple of Zeus at Nemea",
-            "uri": "https://pleiades.stoa.org/places/109791198/imagery-location-of-the-temple-of-zeus-at-nemea"
+            "title": "OSM location of Temple of Zeus Nemea",
+            "uri": "https://pleiades.stoa.org/places/109791198/osm-location-of-temple-of-zeus-nemea"
         }
     ],
     "names": [],
@@ -407,8 +442,8 @@
         }
     ],
     "reprPoint": [
-        22.710651,
-        37.809667
+        22.710475115419904,
+        37.80955603131438
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
