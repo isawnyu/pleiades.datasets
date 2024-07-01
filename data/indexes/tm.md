@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3518 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
+3522 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1247,6 +1247,13 @@
  - [Issus/Nikopolis](https://pleiades.stoa.org/places/658490)
 
 
+## Geo 37599: 37599
+[https://www.trismegistos.org/place/37599](https://www.trismegistos.org/place/37599)  
+
+### alignments:
+ - [Lousoi](https://pleiades.stoa.org/places/570438)
+
+
 ## Geo 37606: Kallipolis
 [https://www.trismegistos.org/place/37606](https://www.trismegistos.org/place/37606)  
 
@@ -1894,6 +1901,13 @@
 
 ### alignments:
  - [Oasis Magna/Thebaidos](https://pleiades.stoa.org/places/776210)
+
+
+## Geo 62623: Teumessos (Mesovouni)
+[https://www.trismegistos.org/place/62623](https://www.trismegistos.org/place/62623)  
+
+### alignments:
+ - [Teumessos](https://pleiades.stoa.org/places/541133)
 
 
 ## Geo 659: Eretria
@@ -18070,6 +18084,13 @@
  - [In Portu](https://pleiades.stoa.org/places/409227)
 
 
+## GEO ID 41804: Tuirtta
+[http://www.trismegistos.org/place/41804](http://www.trismegistos.org/place/41804)  
+
+### alignments:
+ - [Turrita](https://pleiades.stoa.org/places/409240)
+
+
 ## GEO ID 41806: Armenta
 [https://www.trismegistos.org/place/41806](https://www.trismegistos.org/place/41806)  
 
@@ -23106,6 +23127,13 @@
 
 ### alignments:
  - [Bembina](https://pleiades.stoa.org/places/573141)
+
+
+## GEO ID 61206: Phreatto (Phreattys)
+[https://www.trismegistos.org/place/61206](https://www.trismegistos.org/place/61206)  
+
+### alignments:
+ - [Phreatto?](https://pleiades.stoa.org/places/580078)
 
 
 ## GEO ID 61212: Eteonos

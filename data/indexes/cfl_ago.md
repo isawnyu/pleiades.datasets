@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-319 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
+324 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -83,6 +83,13 @@
 
 ### alignments:
  - [Apollo, T.](https://pleiades.stoa.org/places/707481)
+
+
+## MEGALI MAGOULA - Galatas - 2000
+[https://chronique.efa.gr/?kroute=report&id=1935](https://chronique.efa.gr/?kroute=report&id=1935)  
+
+### alignments:
+ - [Megali Magoula](https://pleiades.stoa.org/places/775133290)
 
 
 ## NEMEA - 2014
@@ -251,6 +258,13 @@
 
 ### alignments:
  - [Kition](https://pleiades.stoa.org/places/707534)
+
+
+## Report 1936: KALLONI - Agios Georgios - 2006
+[https://chronique.efa.gr/?kroute=report&id=1936](https://chronique.efa.gr/?kroute=report&id=1936)  
+
+### alignments:
+ - [Kalloni](https://pleiades.stoa.org/places/370424387)
 
 
 ## Report 2418: PALLANTION - 2009
@@ -730,6 +744,13 @@
  - [Taphiassos (mountain)](https://pleiades.stoa.org/places/541123)
 
 
+## Toponym 36622: Astakos
+[https://chronique.efa.gr/?kroute=topo_public&id=36622](https://chronique.efa.gr/?kroute=topo_public&id=36622)  
+
+### alignments:
+ - [Astakos (Acarnania)](https://pleiades.stoa.org/places/530815)
+
+
 ## Toponym 36808: Tanagra, Vratsi (164/1915)
 [https://chronique.efa.gr/?kroute=topo_public&id=36808](https://chronique.efa.gr/?kroute=topo_public&id=36808)  
 
@@ -805,6 +826,13 @@
 
 ### alignments:
  - [Methana/Arsinoe](https://pleiades.stoa.org/places/570482)
+
+
+## Toponym 37590: Peiraia, Le Pirée, Piraeus, Peiraieus, Peiraeus
+[https://chronique.efa.gr/?kroute=topo_public&id=37590](https://chronique.efa.gr/?kroute=topo_public&id=37590)  
+
+### alignments:
+ - [Peiraieus/Piraeus](https://pleiades.stoa.org/places/580062)
 
 
 ## Toponym 37690: Mycènes, Mykines, Mykinai, Mycena, Mycenae
@@ -1374,6 +1402,13 @@
 
 ### alignments:
  - [Siphnos (settlement)](https://pleiades.stoa.org/places/590048)
+
+
+## Toponyme 23733: Kato Lousoi, Kato Soudena, Soudena Ag. Vasileiou (156/1928)
+[https://chronique.efa.gr/?kroute=topo_public&id=23733](https://chronique.efa.gr/?kroute=topo_public&id=23733)  
+
+### alignments:
+ - [Lousoi](https://pleiades.stoa.org/places/570438)
 
 
 ## Toponyme 23835: Kleitoria Kato, Kleitoria, Mazaiika (156/1928)

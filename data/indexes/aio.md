@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-139 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
+139 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -34,6 +34,7 @@
 
 ### alignments:
  - [Acharnai (N)](https://pleiades.stoa.org/places/579842)
+ - [Sanctuary of Bendis](https://pleiades.stoa.org/places/278568881)
 
 
 ## Findspot: Acharnai

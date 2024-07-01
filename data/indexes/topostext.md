@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3412 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
+3420 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4225,6 +4225,13 @@
 
 ### alignments:
  - [Bema](https://pleiades.stoa.org/places/935360966)
+
+
+## Bendis sanctuary (Salamis)
+[https://topostext.org/place/380235SSBe](https://topostext.org/place/380235SSBe)  
+
+### alignments:
+ - [Sanctuary of Bendis](https://pleiades.stoa.org/places/278568881)
 
 
 ## Bene (Irakleio)
@@ -9770,6 +9777,7 @@
 
 ### alignments:
  - [Ikarion](https://pleiades.stoa.org/places/579958)
+ - [Theater of Icarion Aegeidas (Attica)](https://pleiades.stoa.org/places/177668735)
 
 
 ## Ikaros island (Arabia)
@@ -10437,6 +10445,13 @@
  - [Kallithea](https://pleiades.stoa.org/places/540850)
 
 
+## Kalloni excavation (Troizenia)
+[https://topostext.org/place/375233XKal](https://topostext.org/place/375233XKal)  
+
+### alignments:
+ - [Kalloni](https://pleiades.stoa.org/places/370424387)
+
+
 ## Kalogera fort (Lesbos)
 [https://topostext.org/place/392263FKal](https://topostext.org/place/392263FKal)  
 
@@ -11072,6 +11087,13 @@
 
 ### alignments:
  - [Keryn(e)ia/Keraunia](https://pleiades.stoa.org/places/707531)
+
+
+## Keryneia Ai Lia temples (Achaia)
+[https://topostext.org/place/382222SKyr](https://topostext.org/place/382222SKyr)  
+
+### alignments:
+ - [Ai Lia temples](https://pleiades.stoa.org/places/330217806)
 
 
 ## Kestria (Illyria)
@@ -13087,6 +13109,13 @@
  - [Lousia](https://pleiades.stoa.org/places/580015)
 
 
+## Lousoi (Achaia) 19 Lousiko - Λούσοι
+[https://topostext.org/place/380221PLou](https://topostext.org/place/380221PLou)  
+
+### alignments:
+ - [Lousoi](https://pleiades.stoa.org/places/570438)
+
+
 ## Lousonna/Leusonna (Helvetia)
 [https://topostext.org/place/465066ULou](https://topostext.org/place/465066ULou)  
 
@@ -13885,6 +13914,13 @@
 
 ### alignments:
  - [Megali Koryfi](https://pleiades.stoa.org/places/75275879)
+
+
+## Megali Magoula exc. (Troizenia)
+[https://topostext.org/place/375234XMMa](https://topostext.org/place/375234XMMa)  
+
+### alignments:
+ - [Megali Magoula](https://pleiades.stoa.org/places/775133290)
 
 
 ## Megalopolis (Arkadia)
@@ -15364,6 +15400,13 @@
 
 ### alignments:
  - [Noviomagus/Nemetae](https://pleiades.stoa.org/places/109224)
+
+
+## Ntourmiza Corinth Aqueduct arches (Korinthia)
+[https://topostext.org/place/378226WHAD](https://topostext.org/place/378226WHAD)  
+
+### alignments:
+ - [Ntourmiza Corinth Aqueduct arches](https://pleiades.stoa.org/places/610659128)
 
 
 ## Nuceria (Magna Graecia)
@@ -22352,6 +22395,13 @@
  - [Thriasion Pedion](https://pleiades.stoa.org/places/580122)
 
 
+## Throni tower (Methana)
+[https://topostext.org/place/376233FThr](https://topostext.org/place/376233FThr)  
+
+### alignments:
+ - [Throni tower](https://pleiades.stoa.org/places/558185735)
+
+
 ## Thronion (Phthiotida)
 [https://topostext.org/place/388227PThr](https://topostext.org/place/388227PThr)  
 
@@ -23769,6 +23819,13 @@
 
 ### alignments:
  - [Zea Limen](https://pleiades.stoa.org/places/580136)
+
+
+## Zea Theatre (Piraeus) Zea - θέατρο
+[https://topostext.org/place/380236BThe](https://topostext.org/place/380236BThe)  
+
+### alignments:
+ - [Theater of Zea](https://pleiades.stoa.org/places/58858515)
 
 
 ## Zela (Pontus)

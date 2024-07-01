@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-454 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
+461 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -708,6 +708,13 @@
  - [Anchisia (mountain)](https://pleiades.stoa.org/places/570078)
 
 
+## 10158735: Phreattys (Attica)
+[https://resource.manto.unh.edu/10158735](https://resource.manto.unh.edu/10158735)  
+
+### alignments:
+ - [Phreatto?](https://pleiades.stoa.org/places/580078)
+
+
 ## 10158827: River Aroanios (Arcadia)
 [https://resource.manto.unh.edu/10158827](https://resource.manto.unh.edu/10158827)  
 
@@ -827,6 +834,13 @@
  - [Wrestling Grounds of Cercyon (Attica)](https://pleiades.stoa.org/places/684635473)
 
 
+## 10185244: Teumessos
+[https://resource.manto.unh.edu/10185244](https://resource.manto.unh.edu/10185244)  
+
+### alignments:
+ - [Teumessos](https://pleiades.stoa.org/places/541133)
+
+
 ## 10187004: Mount Sepia (Arcadia)
 [https://resource.manto.unh.edu/10187004](https://resource.manto.unh.edu/10187004)  
 
@@ -839,6 +853,13 @@
 
 ### alignments:
  - [Pagai](https://pleiades.stoa.org/places/570543)
+
+
+## 10191948: Temenion
+[https://resource.manto.unh.edu/10191948](https://resource.manto.unh.edu/10191948)  
+
+### alignments:
+ - [Temenion](https://pleiades.stoa.org/places/570710)
 
 
 ## 10191959: Mount Chelydorea (Arcadia/Achaia)
@@ -876,6 +897,13 @@
  - [Eua?](https://pleiades.stoa.org/places/570241)
 
 
+## 10192049: River Amymone
+[https://resource.manto.unh.edu/10192049](https://resource.manto.unh.edu/10192049)  
+
+### alignments:
+ - [Amymone](https://pleiades.stoa.org/places/573086)
+
+
 ## 10194010: Antheia (Argolid)
 [https://resource.manto.unh.edu/10194010](https://resource.manto.unh.edu/10194010)  
 
@@ -883,11 +911,25 @@
  - [Troizen](https://pleiades.stoa.org/places/570756)
 
 
+## 10194327: Hypereia
+[https://resource.manto.unh.edu/10194327](https://resource.manto.unh.edu/10194327)  
+
+### alignments:
+ - [Hypereia](https://pleiades.stoa.org/places/573257)
+
+
 ## 10194970: Anaphylstos (Attica)
 [https://resource.manto.unh.edu/10194970](https://resource.manto.unh.edu/10194970)  
 
 ### alignments:
  - [Anaphlystos](https://pleiades.stoa.org/places/579866)
+
+
+## 10210633: Lousoi
+[https://resource.manto.unh.edu/10210633](https://resource.manto.unh.edu/10210633)  
+
+### alignments:
+ - [Lousoi](https://pleiades.stoa.org/places/570438)
 
 
 ## 10210636: Tripodiscos (Argolid)
@@ -3171,6 +3213,13 @@
 
 ### alignments:
  - [Probalinthos](https://pleiades.stoa.org/places/580091)
+
+
+## River Selleis
+[https://resource.manto.unh.edu/9744210](https://resource.manto.unh.edu/9744210)  
+
+### alignments:
+ - [Selleis (river)](https://pleiades.stoa.org/places/501604)
 
 
 ## Theisoa (Arcadia)

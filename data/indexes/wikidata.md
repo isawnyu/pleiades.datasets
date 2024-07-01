@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3522 alignments exist in _Pleiades_ place references as of 2024-06-27. The following list of alignments is grouped by zotkey.
+3537 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -154,6 +154,13 @@
 
 ### alignments:
  - [Tretos? (island)](https://pleiades.stoa.org/places/590082)
+
+
+## Ai Lia temples (Q111086427)
+[https://www.wikidata.org/wiki/Q111086427](https://www.wikidata.org/wiki/Q111086427)  
+
+### alignments:
+ - [Ai Lia temples](https://pleiades.stoa.org/places/330217806)
 
 
 ## Aiakeion (Q3144678)
@@ -364,6 +371,13 @@
 
 ### alignments:
  - [Roman amphitheater at Thuburbo Maius](https://pleiades.stoa.org/places/883384682)
+
+
+## Amymone (Q121886957)
+[https://www.wikidata.org/wiki/Q121886957](https://www.wikidata.org/wiki/Q121886957)  
+
+### alignments:
+ - [Amymone](https://pleiades.stoa.org/places/573086)
 
 
 ## Amyneion (Q65229287)
@@ -995,6 +1009,13 @@
 
 ### alignments:
  - [Thermae Constantinianae](https://pleiades.stoa.org/places/933584945)
+
+
+## Baths of the Trinacria (Q126181252)
+[https://www.wikidata.org/wiki/Q126181252](https://www.wikidata.org/wiki/Q126181252)  
+
+### alignments:
+ - [Terme della Trinacria](https://pleiades.stoa.org/places/238098310)
 
 
 ## Baths of Titus (Q1231749)
@@ -1816,6 +1837,13 @@
  - [Ferme d'Ithe](https://pleiades.stoa.org/places/108928)
 
 
+## Diogeneion (Q2246095)
+[https://www.wikidata.org/wiki/Q2246095](https://www.wikidata.org/wiki/Q2246095)  
+
+### alignments:
+ - [Diogeneion](https://pleiades.stoa.org/places/736170760)
+
+
 ## Dipylon (Q3708916)
 [https://www.wikidata.org/wiki/Q3708916](https://www.wikidata.org/wiki/Q3708916)  
 
@@ -2482,6 +2510,13 @@
  - [Horti Spei Veteris](https://pleiades.stoa.org/places/874244230)
 
 
+## House of Bacchus and Ariadne (Q1047006)
+[https://www.wikidata.org/wiki/Q1047006](https://www.wikidata.org/wiki/Q1047006)  
+
+### alignments:
+ - [Caseggiato di Bacco e Arianna](https://pleiades.stoa.org/places/432599299)
+
+
 ## House of Leda and the Swan (Q124723161)
 [https://www.wikidata.org/wiki/Q124723161](https://www.wikidata.org/wiki/Q124723161)  
 
@@ -2515,6 +2550,13 @@
 
 ### alignments:
  - [House of Obellius Firmus](https://pleiades.stoa.org/places/182931390)
+
+
+## House of Plotilla (Q27688138)
+[https://www.wikidata.org/wiki/Q27688138](https://www.wikidata.org/wiki/Q27688138)  
+
+### alignments:
+ - [House of Plotilla](https://pleiades.stoa.org/places/583930486)
 
 
 ## House of Simon the cobbler (Q20379266)
@@ -2592,6 +2634,13 @@
 
 ### alignments:
  - [Hyperdexion](https://pleiades.stoa.org/places/554238)
+
+
+## Hypereia (Q125966733)
+[https://www.wikidata.org/wiki/Q125966733](https://www.wikidata.org/wiki/Q125966733)  
+
+### alignments:
+ - [Hypereia](https://pleiades.stoa.org/places/573257)
 
 
 ## Hyperesia (polis) (Q3563508)
@@ -3252,6 +3301,13 @@
  - [Lixus (river)](https://pleiades.stoa.org/places/275667)
 
 
+## Lousoi (Q1572206)
+[https://www.wikidata.org/wiki/Q1572206](https://www.wikidata.org/wiki/Q1572206)  
+
+### alignments:
+ - [Lousoi](https://pleiades.stoa.org/places/570438)
+
+
 ## Lugii (Q1094816)
 [https://www.wikidata.org/wiki/Q1094816](https://www.wikidata.org/wiki/Q1094816)  
 
@@ -3425,6 +3481,13 @@
 
 ### alignments:
  - [Medma](https://pleiades.stoa.org/places/452375)
+
+
+## Megali Magoula (Q1884054)
+[https://www.wikidata.org/wiki/Q1884054](https://www.wikidata.org/wiki/Q1884054)  
+
+### alignments:
+ - [Megali Magoula](https://pleiades.stoa.org/places/775133290)
 
 
 ## Megalopolis (Q36024972)
@@ -4323,6 +4386,13 @@
  - [Pindus (mountain range)](https://pleiades.stoa.org/places/541062)
 
 
+## Piraeus (Q13426467)
+[https://www.wikidata.org/wiki/Q13426467](https://www.wikidata.org/wiki/Q13426467)  
+
+### alignments:
+ - [Peiraieus/Piraeus](https://pleiades.stoa.org/places/580062)
+
+
 ## Pistyros (Q1356251)
 [https://www.wikidata.org/wiki/Q1356251](https://www.wikidata.org/wiki/Q1356251)  
 
@@ -4456,11 +4526,25 @@
  - [Porta Metronia](https://pleiades.stoa.org/places/591390531)
 
 
+## Porta Naevia (Q1058810)
+[https://www.wikidata.org/wiki/Q1058810](https://www.wikidata.org/wiki/Q1058810)  
+
+### alignments:
+ - [Porta Naevia](https://pleiades.stoa.org/places/37637607)
+
+
 ## Porta Nomentana (Q644765)
 [https://www.wikidata.org/wiki/Q644765](https://www.wikidata.org/wiki/Q644765)  
 
 ### alignments:
  - [Porta Nomentana](https://pleiades.stoa.org/places/187832462)
+
+
+## porta Raudusculana (Q687636)
+[https://www.wikidata.org/wiki/Q687636](https://www.wikidata.org/wiki/Q687636)  
+
+### alignments:
+ - [Porta Rauduscula](https://pleiades.stoa.org/places/354601172)
 
 
 ## Porta Salaria (Q1657663)
@@ -8320,6 +8404,7 @@
  - [Temple of Iuno Sospita, Lanuvium](https://pleiades.stoa.org/places/879109673)
  - [Tomb of Seti I](https://pleiades.stoa.org/places/422247194)
  - [Yaat](https://pleiades.stoa.org/places/668398)
+ - [Çatıören](https://pleiades.stoa.org/places/779964391)
 
 
 ## Q15209931: Kotilion mountain
@@ -12087,13 +12172,6 @@
  - [Patti Marina](https://pleiades.stoa.org/places/462414)
 
 
-## Q2246095
-[https://www.wikidata.org/wiki/Q2246095](https://www.wikidata.org/wiki/Q2246095)  
-
-### alignments:
- - [Diogeneion](https://pleiades.stoa.org/places/736170760)
-
-
 ## Q224692: Torri in Sabina
 [https://www.wikidata.org/wiki/Q224692](https://www.wikidata.org/wiki/Q224692)  
 
@@ -13542,13 +13620,6 @@
 
 ### alignments:
  - [Milev](https://pleiades.stoa.org/places/305109)
-
-
-## Q28217926
-[https://www.wikidata.org/wiki/Q28217926](https://www.wikidata.org/wiki/Q28217926)  
-
-### alignments:
- - [Theater of Zea](https://pleiades.stoa.org/places/58858515)
 
 
 ## Q28217951: Theatre of Orchomenos (Boeotia)
@@ -23792,6 +23863,13 @@
  - [Telmessos](https://pleiades.stoa.org/places/639137)
 
 
+## Temenium (Q12160445)
+[https://www.wikidata.org/wiki/Q12160445](https://www.wikidata.org/wiki/Q12160445)  
+
+### alignments:
+ - [Temenion](https://pleiades.stoa.org/places/570710)
+
+
 ## Temple of Apollo (Corinth)
 [https://www.wikidata.org/wiki/Q3561843](https://www.wikidata.org/wiki/Q3561843)  
 
@@ -23995,6 +24073,13 @@
  - [Testruna](https://pleiades.stoa.org/places/416870)
 
 
+## Teumessus (Q15627845)
+[https://www.wikidata.org/wiki/Q15627845](https://www.wikidata.org/wiki/Q15627845)  
+
+### alignments:
+ - [Teumessos](https://pleiades.stoa.org/places/541133)
+
+
 ## Teuthrone (Q48781583)
 [https://www.wikidata.org/wiki/Q48781583](https://www.wikidata.org/wiki/Q48781583)  
 
@@ -24042,6 +24127,13 @@
 
 ### alignments:
  - [Theater of Nero](https://pleiades.stoa.org/places/406270378)
+
+
+## Theatre of Zea (Q28217926)
+[https://www.wikidata.org/wiki/Q28217926](https://www.wikidata.org/wiki/Q28217926)  
+
+### alignments:
+ - [Theater of Zea](https://pleiades.stoa.org/places/58858515)
 
 
 ## Thebes (Q11225429)
@@ -24140,6 +24232,13 @@
 
 ### alignments:
  - [Starosel Monumental Tomb](https://pleiades.stoa.org/places/655392792)
+
+
+## Throni Tower (Q107472534)
+[https://www.wikidata.org/wiki/Q107472534](https://www.wikidata.org/wiki/Q107472534)  
+
+### alignments:
+ - [Throni tower](https://pleiades.stoa.org/places/558185735)
 
 
 ## Thyssus (Q17631597)
@@ -24604,6 +24703,13 @@
 
 ### alignments:
  - [D(o)ura/Europos](https://pleiades.stoa.org/places/893990)
+
+
+## Workshop of Anteros (VIII.3.9) (Q27688115)
+[https://www.wikidata.org/wiki/Q27688115](https://www.wikidata.org/wiki/Q27688115)  
+
+### alignments:
+ - [Workshop of Anteros](https://pleiades.stoa.org/places/399961131)
 
 
 ## Xypete (Q13424319)
