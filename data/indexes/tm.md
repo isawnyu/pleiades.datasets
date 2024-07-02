@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3522 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
+3528 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -330,6 +330,13 @@
 
 ### alignments:
  - [Glenlochar Roman Fort](https://pleiades.stoa.org/places/92163)
+
+
+## Geo 15629: Aigosthena (Porto Germeno)
+[https://www.trismegistos.org/place/15629](https://www.trismegistos.org/place/15629)  
+
+### alignments:
+ - [Aigosthena](https://pleiades.stoa.org/places/570051)
 
 
 ## Geo 15654: Ortygia
@@ -1289,6 +1296,13 @@
  - [Mycenae](https://pleiades.stoa.org/places/570491)
 
 
+## Geo 37674: Alea
+[https://www.trismegistos.org/place/37674](https://www.trismegistos.org/place/37674)  
+
+### alignments:
+ - [Alea](https://pleiades.stoa.org/places/570062)
+
+
 ## Geo 37675: Alipheira
 [https://www.trismegistos.org/place/37675](https://www.trismegistos.org/place/37675)  
 
@@ -1324,6 +1338,13 @@
  - [Pallantion](https://pleiades.stoa.org/places/570548)
 
 
+## Geo 37707: Thelphousa
+[https://www.trismegistos.org/place/37707](https://www.trismegistos.org/place/37707)  
+
+### alignments:
+ - [Thelpousa](https://pleiades.stoa.org/places/570722)
+
+
 ## Geo 37740: Eua
 [https://www.trismegistos.org/place/37740](https://www.trismegistos.org/place/37740)  
 
@@ -1336,6 +1357,13 @@
 
 ### alignments:
  - [Marathon](https://pleiades.stoa.org/places/580021)
+
+
+## Geo 37803:  Salamis
+[https://www.trismegistos.org/place/37803](https://www.trismegistos.org/place/37803)  
+
+### alignments:
+ - [Salamis (island)](https://pleiades.stoa.org/places/580101)
 
 
 ## Geo 37810: Thorikos
@@ -1357,6 +1385,13 @@
 
 ### alignments:
  - [Tenea](https://pleiades.stoa.org/places/570711)
+
+
+## Geo 37874: Pylos
+[https://www.trismegistos.org/place/37874](https://www.trismegistos.org/place/37874)  
+
+### alignments:
+ - [Pylos/Koryphasion](https://pleiades.stoa.org/places/570640)
 
 
 ## Geo 37888: Gitana (Gkoumani)
@@ -2797,6 +2832,13 @@
 
 ### alignments:
  - [Oldenoi](https://pleiades.stoa.org/places/501534)
+
+
+## GEO ID 1208
+[http://www.trismegistos.org/place/1208](http://www.trismegistos.org/place/1208)  
+
+### alignments:
+ - [Cyzicus](https://pleiades.stoa.org/places/511218)
 
 
 ## GEO ID 12097: Potidaia (Kassandra)

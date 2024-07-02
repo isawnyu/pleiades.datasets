@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3537 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
+3543 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -231,6 +231,13 @@
 
 ### alignments:
  - [Albaniana](https://pleiades.stoa.org/places/98908)
+
+
+## Alea (Arcadia) (Q3609405)
+[https://www.wikidata.org/wiki/Q3609405](https://www.wikidata.org/wiki/Q3609405)  
+
+### alignments:
+ - [Alea](https://pleiades.stoa.org/places/570062)
 
 
 ## Alesiae (Q124615475)
@@ -644,6 +651,13 @@
 
 ### alignments:
  - [Arco Augusteo di Siracusa](https://pleiades.stoa.org/places/74136618)
+
+
+## Arco di Caio e Lucio Cesari (Q126374488)
+[https://www.wikidata.org/wiki/Q126374488](https://www.wikidata.org/wiki/Q126374488)  
+
+### alignments:
+ - [Arch of Caius and Lucius Caesar (Pompeii)](https://pleiades.stoa.org/places/877963847)
 
 
 ## Ardettus (Q12873973)
@@ -1857,6 +1871,13 @@
 ### alignments:
  - [Doukki Gel](https://pleiades.stoa.org/places/938346135)
  - [Pnoups](https://pleiades.stoa.org/places/40253)
+
+
+## Dolia villa (Q113276183)
+[https://www.wikidata.org/wiki/Q113276183](https://www.wikidata.org/wiki/Q113276183)  
+
+### alignments:
+ - [Dolia Roman Villa](https://pleiades.stoa.org/places/898047097)
 
 
 ## Doliche (Q3565767)
@@ -23204,6 +23225,13 @@
  - [Salamis/Konstantia](https://pleiades.stoa.org/places/707617)
 
 
+## Salamis Island (Q202422)
+[https://www.wikidata.org/wiki/Q202422](https://www.wikidata.org/wiki/Q202422)  
+
+### alignments:
+ - [Salamis (island)](https://pleiades.stoa.org/places/580101)
+
+
 ## Salinello (Q647364)
 [https://www.wikidata.org/wiki/Q647364](https://www.wikidata.org/wiki/Q647364)  
 
@@ -24150,6 +24178,13 @@
  - [Theisoa](https://pleiades.stoa.org/places/570720)
 
 
+## Thelpusa (Q1142954)
+[https://www.wikidata.org/wiki/Q1142954](https://www.wikidata.org/wiki/Q1142954)  
+
+### alignments:
+ - [Thelpousa](https://pleiades.stoa.org/places/570722)
+
+
 ## Therapne (Q15940498)
 [https://www.wikidata.org/wiki/Q15940498](https://www.wikidata.org/wiki/Q15940498)  
 
@@ -24366,6 +24401,13 @@
 
 ### alignments:
  - [Sep. Scipionum](https://pleiades.stoa.org/places/999196280)
+
+
+## Tomb of the sons of Sextus Pompeius Justus (Q97623608)
+[https://www.wikidata.org/wiki/Q97623608](https://www.wikidata.org/wiki/Q97623608)  
+
+### alignments:
+ - [Tomb of the sons of Sextus Pompeius Justus](https://pleiades.stoa.org/places/402816478)
 
 
 ## Tomba di Nerone (Q56256439)

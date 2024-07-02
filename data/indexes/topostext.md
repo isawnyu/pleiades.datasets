@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3420 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
+3426 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6594,6 +6594,13 @@
 
 ### alignments:
  - [Dodona](https://pleiades.stoa.org/places/530843)
+
+
+## Dolia Roman Villa (Epidauros)
+[https://topostext.org/place/376232XDoV](https://topostext.org/place/376232XDoV)  
+
+### alignments:
+ - [Dolia Roman Villa](https://pleiades.stoa.org/places/898047097)
 
 
 ## Doliche (Syria)
@@ -13670,6 +13677,13 @@
  - [Marios](https://pleiades.stoa.org/places/570461)
 
 
+## Marmara sanct. (Achaia)
+[https://topostext.org/place/381224SMar](https://topostext.org/place/381224SMar)  
+
+### alignments:
+ - [Marmara sanctuary](https://pleiades.stoa.org/places/716756355)
+
+
 ## Marmarion (Euboea)
 [https://topostext.org/place/380243UMar](https://topostext.org/place/380243UMar)  
 
@@ -15044,6 +15058,13 @@
  - [Nemausus](https://pleiades.stoa.org/places/148142)
 
 
+## Nemea EC basilica (Korinthia)
+[https://topostext.org/place/378227EStH](https://topostext.org/place/378227EStH)  
+
+### alignments:
+ - [Nemea Early Christian basilica](https://pleiades.stoa.org/places/328243339)
+
+
 ## Nemean Zeus sanct. (Korinthia)
 [https://topostext.org/place/378227SNem](https://topostext.org/place/378227SNem)  
 
@@ -16394,6 +16415,13 @@
 
 ### alignments:
  - [Palike](https://pleiades.stoa.org/places/465970)
+
+
+## Paliopyrgos tower (Arkadia)
+[https://topostext.org/place/378226FPal](https://topostext.org/place/378226FPal)  
+
+### alignments:
+ - [Paliopyrgos tower](https://pleiades.stoa.org/places/226445170)
 
 
 ## Palladion sanct. (Athens) 19 Phaleron? - Παλλάδιον
@@ -19768,6 +19796,7 @@
 [https://topostext.org/place/379235PSal](https://topostext.org/place/379235PSal)  
 
 ### alignments:
+ - [Salamis (island)](https://pleiades.stoa.org/places/580101)
  - [Salamis (settlement)](https://pleiades.stoa.org/places/580100)
 
 
@@ -22703,6 +22732,13 @@
  - [Sep. Scipionum](https://pleiades.stoa.org/places/999196280)
 
 
+## Tomb of the sons of Sextus Pompeius Justus (Rome)
+[https://topostext.org/place/419125GSPo](https://topostext.org/place/419125GSPo)  
+
+### alignments:
+ - [Tomb of the sons of Sextus Pompeius Justus](https://pleiades.stoa.org/places/402816478)
+
+
 ## Tomis (Pontus)
 [https://topostext.org/place/442287PTom](https://topostext.org/place/442287PTom)  
 
@@ -23196,6 +23232,13 @@
 
 ### alignments:
  - [Tyrrhenum/Inferum Mare](https://pleiades.stoa.org/places/1356)
+
+
+## Tzoungiza exc. (Korinthia)
+[https://topostext.org/place/378227XTzo](https://topostext.org/place/378227XTzo)  
+
+### alignments:
+ - [Tzoungiza](https://pleiades.stoa.org/places/328243338)
 
 
 ## Ucubi/Col. Claritas Iulia (Iberia)

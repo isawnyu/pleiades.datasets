@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-324 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
+327 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -835,6 +835,20 @@
  - [Peiraieus/Piraeus](https://pleiades.stoa.org/places/580062)
 
 
+## Toponym 37604: Salamina, Salamis
+[https://chronique.efa.gr/?kroute=topo_public&id=37604](https://chronique.efa.gr/?kroute=topo_public&id=37604)  
+
+### alignments:
+ - [Salamis (island)](https://pleiades.stoa.org/places/580101)
+
+
+## Toponym 37672: Argos
+[https://chronique.efa.gr/?kroute=topo_public&id=37672](https://chronique.efa.gr/?kroute=topo_public&id=37672)  
+
+### alignments:
+ - [Argos](https://pleiades.stoa.org/places/570106)
+
+
 ## Toponym 37690: Mycènes, Mykines, Mykinai, Mycena, Mycenae
 [https://chronique.efa.gr/?kroute=topo_public&id=37690](https://chronique.efa.gr/?kroute=topo_public&id=37690)  
 
@@ -854,6 +868,13 @@
 
 ### alignments:
  - [Selino(u)s](https://pleiades.stoa.org/places/570658)
+
+
+## Toponym 37936: Pylos, Navarino, Neon Kastrov
+[https://chronique.efa.gr/?kroute=topo_public&id=37936](https://chronique.efa.gr/?kroute=topo_public&id=37936)  
+
+### alignments:
+ - [Pylos/Koryphasion](https://pleiades.stoa.org/places/570640)
 
 
 ## Toponym 37965: Nomos Arkadias, Arcadia

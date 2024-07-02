@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-461 alignments exist in _Pleiades_ place references as of 2024-07-01. The following list of alignments is grouped by zotkey.
+466 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -953,6 +953,34 @@
  - [Orontes (river)](https://pleiades.stoa.org/places/658560)
 
 
+## 10210702: Aigosthena
+[https://resource.manto.unh.edu/10210702](https://resource.manto.unh.edu/10210702)  
+
+### alignments:
+ - [Aigosthena](https://pleiades.stoa.org/places/570051)
+
+
+## 10210705: Larymna
+[https://resource.manto.unh.edu/10210705](https://resource.manto.unh.edu/10210705)  
+
+### alignments:
+ - [Larymna (Boeotia)](https://pleiades.stoa.org/places/540906)
+
+
+## 10214245: Alea
+[https://resource.manto.unh.edu/10214245](https://resource.manto.unh.edu/10214245)  
+
+### alignments:
+ - [Alea](https://pleiades.stoa.org/places/570062)
+
+
+## 10214322: Thelpousa
+[https://resource.manto.unh.edu/10214322](https://resource.manto.unh.edu/10214322)  
+
+### alignments:
+ - [Thelpousa](https://pleiades.stoa.org/places/570722)
+
+
 ## 10214416: River Bouphagos (Arcadia)
 [https://resource.manto.unh.edu/10214416](https://resource.manto.unh.edu/10214416)  
 
@@ -1897,6 +1925,13 @@
 
 ### alignments:
  - [Salamis (island)](https://pleiades.stoa.org/places/580101)
+
+
+## 8228853: Argos (city)
+[https://resource.manto.unh.edu/8228853](https://resource.manto.unh.edu/8228853)  
+
+### alignments:
+ - [Argos](https://pleiades.stoa.org/places/570106)
 
 
 ## 8228860: Pylos (Messenia)
