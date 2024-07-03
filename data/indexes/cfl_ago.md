@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-327 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
+328 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -917,6 +917,13 @@
 
 ### alignments:
  - [Karpathos (island)](https://pleiades.stoa.org/places/589841)
+
+
+## Toponym 38826: Kasos
+[https://chronique.efa.gr/?kroute=topo_public&id=38826](https://chronique.efa.gr/?kroute=topo_public&id=38826)  
+
+### alignments:
+ - [Kasos (island)](https://pleiades.stoa.org/places/589846)
 
 
 ## Toponym 39081: Astypalaia

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3426 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
+3429 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -10694,7 +10694,7 @@
 [https://topostext.org/place/354269PKas](https://topostext.org/place/354269PKas)  
 
 ### alignments:
- - [Kasos](https://pleiades.stoa.org/places/589845)
+ - [Kasos (settlement)](https://pleiades.stoa.org/places/589845)
 
 
 ## Kassiope (Kerkyra)
@@ -15624,6 +15624,13 @@
 
 ### alignments:
  - [Oescus](https://pleiades.stoa.org/places/216907)
+
+
+## Ogas (Methana)
+[https://topostext.org/place/376234FOga](https://topostext.org/place/376234FOga)  
+
+### alignments:
+ - [Ogas](https://pleiades.stoa.org/places/370424386)
 
 
 ## Ogdaimoi? (Egypt)
@@ -21233,6 +21240,13 @@
  - [Strongyle (island)](https://pleiades.stoa.org/places/452455)
 
 
+## Strongylo Aqueduct bridge (Korinthia)
+[https://topostext.org/place/378227WHAS](https://topostext.org/place/378227WHAS)  
+
+### alignments:
+ - [Strongylo Aqueduct bridge](https://pleiades.stoa.org/places/650138313)
+
+
 ## Strouthos? cape (Argolid)
 [https://topostext.org/place/373233LStr](https://topostext.org/place/373233LStr)  
 
@@ -22401,6 +22415,13 @@
 
 ### alignments:
  - [Sybaris/Thurii/Copia](https://pleiades.stoa.org/places/452457)
+
+
+## Thourion (Boeotia)
+[https://topostext.org/place/385228LTho](https://topostext.org/place/385228LTho)  
+
+### alignments:
+ - [Thourion](https://pleiades.stoa.org/places/487031708)
 
 
 ## Thria (Attica)

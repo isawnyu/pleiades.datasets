@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-466 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
+468 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -993,6 +993,13 @@
 
 ### alignments:
  - [Gortynios/Lousios (river)](https://pleiades.stoa.org/places/570266)
+
+
+## 10214471: Basilis
+[https://resource.manto.unh.edu/10214471](https://resource.manto.unh.edu/10214471)  
+
+### alignments:
+ - [Basilis](https://pleiades.stoa.org/places/570147)
 
 
 ## 10214585: Mount Thaumasion (Arcadia)
@@ -2884,6 +2891,13 @@
 
 ### alignments:
  - [Ladon/Selleis (river)](https://pleiades.stoa.org/places/570409)
+
+
+## 9719923: Casos (island)
+[https://resource.manto.unh.edu/9719923](https://resource.manto.unh.edu/9719923)  
+
+### alignments:
+ - [Kasos (island)](https://pleiades.stoa.org/places/589846)
 
 
 ## 9719924: Cos (city)

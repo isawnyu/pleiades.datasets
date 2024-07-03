@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3543 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
+3552 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -483,6 +483,13 @@
 
 ### alignments:
  - [Anigros/Minyeios (river)](https://pleiades.stoa.org/places/573093)
+
+
+## Antinoeion (Q102234817)
+[https://www.wikidata.org/wiki/Q102234817](https://www.wikidata.org/wiki/Q102234817)  
+
+### alignments:
+ - [Antinoeion at Hadrian's Villa](https://pleiades.stoa.org/places/652231746)
 
 
 ## Antiochia ad Taurum (Q303856)
@@ -1002,6 +1009,13 @@
 
 ### alignments:
  - [Santa Sabina](https://pleiades.stoa.org/places/715215852)
+
+
+## Basilis (Q4867451)
+[https://www.wikidata.org/wiki/Q4867451](https://www.wikidata.org/wiki/Q4867451)  
+
+### alignments:
+ - [Basilis](https://pleiades.stoa.org/places/570147)
 
 
 ## Batanaea (Q2479533)
@@ -1950,6 +1964,13 @@
  - [Basilica of Lechaion](https://pleiades.stoa.org/places/660349527)
 
 
+## Early-christian Basilica of Villa Gordiani (Q123514137)
+[https://www.wikidata.org/wiki/Q123514137](https://www.wikidata.org/wiki/Q123514137)  
+
+### alignments:
+ - [Paleochristian Basilica](https://pleiades.stoa.org/places/759838643)
+
+
 ## East Building (Q24204680)
 [https://www.wikidata.org/wiki/Q24204680](https://www.wikidata.org/wiki/Q24204680)  
 
@@ -2223,6 +2244,13 @@
  - [Galatia](https://pleiades.stoa.org/places/619161)
 
 
+## Garden (II.5.5) (Q27685742)
+[https://www.wikidata.org/wiki/Q27685742](https://www.wikidata.org/wiki/Q27685742)  
+
+### alignments:
+ - [Forum Boarium (at Pompeii)](https://pleiades.stoa.org/places/305567842)
+
+
 ## Gargettos (Q12874917)
 [https://www.wikidata.org/wiki/Q12874917](https://www.wikidata.org/wiki/Q12874917)  
 
@@ -2326,6 +2354,13 @@
 
 ### alignments:
  - [Golgoi](https://pleiades.stoa.org/places/707512)
+
+
+## Greek Theatre at Hadrian's Villa (Q56513543)
+[https://www.wikidata.org/wiki/Q56513543](https://www.wikidata.org/wiki/Q56513543)  
+
+### alignments:
+ - [Greek Theater at Hadrian's Villa](https://pleiades.stoa.org/places/519235462)
 
 
 ## Greek Theatre of Priene (Q56194553)
@@ -2851,6 +2886,20 @@
 
 ### alignments:
  - [Karystos](https://pleiades.stoa.org/places/570336)
+
+
+## Kasos (Q533410)
+[https://www.wikidata.org/wiki/Q533410](https://www.wikidata.org/wiki/Q533410)  
+
+### alignments:
+ - [Kasos (island)](https://pleiades.stoa.org/places/589846)
+
+
+## Kasos (Q65082025)
+[https://www.wikidata.org/wiki/Q65082025](https://www.wikidata.org/wiki/Q65082025)  
+
+### alignments:
+ - [Kasos (settlement)](https://pleiades.stoa.org/places/589845)
 
 
 ## Kastanas (Q12282586)
@@ -3392,6 +3441,13 @@
  - [Macedonia (region)](https://pleiades.stoa.org/places/491656)
 
 
+## Macellum of Pompeii (Q1882599)
+[https://www.wikidata.org/wiki/Q1882599](https://www.wikidata.org/wiki/Q1882599)  
+
+### alignments:
+ - [Macellum (Pompeii)](https://pleiades.stoa.org/places/825838273)
+
+
 ## Madra Mountains (Q4833452)
 [https://www.wikidata.org/wiki/Q4833452](https://www.wikidata.org/wiki/Q4833452)  
 
@@ -3719,6 +3775,13 @@
 
 ### alignments:
  - [Lykaion (mountain)](https://pleiades.stoa.org/places/570441)
+
+
+## Mount Thourion (Q6924107)
+[https://www.wikidata.org/wiki/Q6924107](https://www.wikidata.org/wiki/Q6924107)  
+
+### alignments:
+ - [Thourion](https://pleiades.stoa.org/places/487031708)
 
 
 ## Mount Titanus (Q60790426)
@@ -4959,13 +5022,6 @@
 
 ### alignments:
  - [Messene](https://pleiades.stoa.org/places/570479)
-
-
-## Q102234817: Antinoeion
-[https://www.wikidata.org/wiki/Q102234817](https://www.wikidata.org/wiki/Q102234817)  
-
-### alignments:
- - [Antinoeion at Hadrian's Villa](https://pleiades.stoa.org/places/652231746)
 
 
 ## Q102355646: Garšana
@@ -13340,13 +13396,6 @@
 
 ### alignments:
  - [House of Venus in the shell](https://pleiades.stoa.org/places/981889086)
-
-
-## Q27685742: Garden (II.5.5)
-[https://www.wikidata.org/wiki/Q27685742](https://www.wikidata.org/wiki/Q27685742)  
-
-### alignments:
- - [Forum Boarium (at Pompeii)](https://pleiades.stoa.org/places/305567842)
 
 
 ## Q27685760: House of the garden of Hercules
@@ -23302,6 +23351,13 @@
  - [San Manno hypogeum](https://pleiades.stoa.org/places/685284437)
 
 
+## San Marcello al Corso (Q972881)
+[https://www.wikidata.org/wiki/Q972881](https://www.wikidata.org/wiki/Q972881)  
+
+### alignments:
+ - [San Marcello al Corso](https://pleiades.stoa.org/places/662909765)
+
+
 ## San Marco d'Alunzio (Q498180)
 [https://www.wikidata.org/wiki/Q498180](https://www.wikidata.org/wiki/Q498180)  
 
@@ -23769,6 +23825,13 @@
 
 ### alignments:
  - [Stratos](https://pleiades.stoa.org/places/531104)
+
+
+## Strongylo Aqueduct bridge (Q126369522)
+[https://www.wikidata.org/wiki/Q126369522](https://www.wikidata.org/wiki/Q126369522)  
+
+### alignments:
+ - [Strongylo Aqueduct bridge](https://pleiades.stoa.org/places/650138313)
 
 
 ## Susa (Q180773)

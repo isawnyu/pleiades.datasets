@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3528 alignments exist in _Pleiades_ place references as of 2024-07-02. The following list of alignments is grouped by zotkey.
+3530 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -860,6 +860,13 @@
 
 ### alignments:
  - [Karpathos (island)](https://pleiades.stoa.org/places/589841)
+
+
+## Geo 33228: Kasos
+[https://www.trismegistos.org/place/33228](https://www.trismegistos.org/place/33228)  
+
+### alignments:
+ - [Kasos (settlement)](https://pleiades.stoa.org/places/589845)
 
 
 ## Geo 33229: Leros
@@ -22742,6 +22749,13 @@
 
 ### alignments:
  - [Dolopia](https://pleiades.stoa.org/places/540737)
+
+
+## GEO ID 58700: Thourion
+[https://www.trismegistos.org/place/58700](https://www.trismegistos.org/place/58700)  
+
+### alignments:
+ - [Thourion](https://pleiades.stoa.org/places/487031708)
 
 
 ## GEO ID 58777: Anchiale (Yümüktepe)
