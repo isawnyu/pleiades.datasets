@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/462492",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:45:28Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2024-07-03T21:43:42Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:45:28Z",
@@ -46,15 +58,97 @@
             ],
             "id": "462492",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "47 F4 Kasmenai",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Sicilia (island)",
             "uri": "https://pleiades.stoa.org/places/462269/462492"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                }
+            ],
+            "connectionType": "founded",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/founded",
+            "connectsTo": "https://pleiades.stoa.org/places/462503",
+            "contributors": [],
+            "created": "2024-07-03T15:45:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Chris de Lisle",
+                    "uri": "https://pleiades.stoa.org/author/cdlisle",
+                    "username": "cdlisle"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -550,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-07-03T21:28:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-07-03T15:45:42Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-07-03T15:45:37Z",
+                    "modifiedBy": "cdlisle"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-07-03T15:45:37Z",
+                    "modifiedBy": "cdlisle"
+                }
+            ],
+            "id": "syracusae-syrakousai",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EFG24VXW",
+                    "citationDetail": "6.5",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Thucydides. <i>Thucydidis Historiae; recognovit brevique adnotatione critica instruxit Henricus Stuart Jones ..</i> Edited by Henry Stuart Jones and J. Enoch Powell. 2 vols. Oxonii: e typographeo Clarendoniano, 1942. http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Thuc. Hist. (Jones; Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": -750,
+            "title": "Syracusae/Syrakousai",
+            "uri": "https://pleiades.stoa.org/places/462269/syracusae-syrakousai"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/462492"
+        "https://pleiades.stoa.org/places/462492",
+        "https://pleiades.stoa.org/places/462503"
     ],
     "contributors": [
         {
@@ -150,6 +244,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references; fix broken New Pauly reference",
+            "modified": "2024-07-03T21:28:12Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "references",
             "modified": "2017-10-17T03:15:13Z",
@@ -512,6 +611,12 @@
                     "name": "Jonathan Prag",
                     "uri": "https://pleiades.stoa.org/author/jprag",
                     "username": "jprag"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2015-11-30T17:39:56Z",
@@ -527,6 +632,11 @@
             "details": "",
             "end": -330,
             "history": [
+                {
+                    "comment": "update references",
+                    "modified": "2024-07-03T21:29:11Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2015-11-30T22:28:27Z",
@@ -561,34 +671,34 @@
                 {
                     "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:6.5",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EFG24VXW",
+                    "citationDetail": "6.5.2",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "Thuc. (Jowett: Perseus) 6.5.2",
+                    "formattedCitation": "<div class=\"csl-entry\">Thucydides. <i>Thucydidis Historiae; recognovit brevique adnotatione critica instruxit Henricus Stuart Jones ..</i> Edited by Henry Stuart Jones and J. Enoch Powell. 2 vols. Oxonii: e typographeo Clarendoniano, 1942. http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Thuc. Hist. (Jones; Perseus)",
                     "type": "citesAsEvidence"
                 },
                 {
-                    "accessURI": "",
+                    "accessURI": "http://www.worldcat.org/oclc/8494638",
                     "alternateURI": "",
-                    "bibliographicURI": "http://atlantides.org/bibliography/m.html#Manni-1981",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U2CF7U8D",
+                    "citationDetail": "156",
                     "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Manni 1981, 156",
+                    "formattedCitation": "<div class=\"csl-entry\">Manni, Eugenio. <i>Geografia fisica e politica della Sicilia antica</i>. Supplementi a Kókalos 4. Rome: G. Bretschneider, 1981. http://www.worldcat.org/oclc/8494638.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Manni 1981",
                     "type": "seeFurther"
                 },
                 {
-                    "accessURI": "",
+                    "accessURI": "https://www.persee.fr/collection/btcgi",
                     "alternateURI": "",
-                    "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-X",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
+                    "citationDetail": "X, 289-96",
                     "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "BTCGI X, 289-96",
+                    "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977. https://www.persee.fr/collection/btcgi.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "BTCGI",
                     "type": "seeFurther"
                 }
             ],
@@ -631,14 +741,14 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.persee.fr/collection/btcgi",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-X",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
+            "citationDetail": "X, 289-96",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BTCGI X, 289-96",
+            "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977. https://www.persee.fr/collection/btcgi.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "BTCGI",
             "type": "seeFurther"
         },
         {
@@ -655,78 +765,78 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DC%3Aentry+group%3D8%3Aentry%3Dcasmenae-geo",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "citationDetail": "CÁSMENAE",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), CÁSMENAE",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Smith 1854 (Perseus)",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%206.5&lang=original",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EFG24VXW",
+            "citationDetail": "6.5.2",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Thuc. 6.5.2",
+            "formattedCitation": "<div class=\"csl-entry\">Thucydides. <i>Thucydidis Historiae; recognovit brevique adnotatione critica instruxit Henricus Stuart Jones ..</i> Edited by Henry Stuart Jones and J. Enoch Powell. 2 vols. Oxonii: e typographeo Clarendoniano, 1942. http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Thuc. Hist. (Jones; Perseus)",
             "type": "citesAsEvidence"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=kasmenai",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "KASMENAI Sicily",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), KASMENAI Sicily",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Hdt.%207.155&lang=original",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXF7J4U2",
+            "citationDetail": "7.155",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Hdt. 7.155",
+            "formattedCitation": "<div class=\"csl-entry\">Herodotus. <i>Herodotus</i>. Edited by A. D Godley. 4 vols. Loeb Classical Library. London; New York: W. Heinemann; G.P. Putnam’s Sons, 1921. http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Hdt. (Godley: Perseus)",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Diod.%2016.9.5&lang=original",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N6CPV4WG",
+            "citationDetail": "16.9.5",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Diod. Sic. 16.9.5 ",
+            "formattedCitation": "<div class=\"csl-entry\">Diodorus. <i>Diodorus of Sicily in Twelve Volumes</i>. Edited by C. H. Oldfather, Charles L. Sherman, C. Bradford Welles, Russel M. Geer, and Francis R. Walton. 12 vols. Loeb Classical Library. Cambridge, Mass., London: Harvard Univ. Press ; W. Heinemann, 1970. http://data.perseus.org/texts/urn:cts:greekLit:tlg0060.tlg001.perseus-grc3.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "DiodSic (Oldfather; Perseus)",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/33116",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 33116: Kasmenai (Buscemi)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 33116",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "citesAsRelated"
         },
         {
-            "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/casmenae-e610020",
+            "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e610020",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Casmenae (G. Falco and H-P Drögemüller)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "New Pauly, Casmenae",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brill.com/display/db/npoe.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "New Pauly",
             "type": "seeFurther"
         },
         {

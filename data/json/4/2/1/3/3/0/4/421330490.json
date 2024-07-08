@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.8225455,
-        37.9710806,
-        13.8225455,
-        37.9710806
+        13.8226064,
+        37.970705,
+        13.823948,
+        37.971487
     ],
     "connections": [
         {
@@ -91,16 +91,34 @@
             "username": "vvitale"
         }
     ],
-    "description": "Area on the north-east side of the Piana di Himera, delimited by walls and containing four religious buildings (temples A, B, C and D), probably dedicated to Athena. The foundations are still visible in the archaeological site of Himera.",
+    "description": "The area on the northeast side of the Piana di Himera is delimited by walls and contains four religious buildings (temples A, B, C, and D), probably dedicated to Athena. The foundations are still visible in the archaeological site of Himera.",
     "details": "",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    13.8225455,
-                    37.9710806
+                    [
+                        13.8226064,
+                        37.9710871
+                    ],
+                    [
+                        13.8226324,
+                        37.970705
+                    ],
+                    [
+                        13.823948,
+                        37.9707381
+                    ],
+                    [
+                        13.823886,
+                        37.971487
+                    ],
+                    [
+                        13.8226064,
+                        37.9710871
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "agora",
             "properties": {
@@ -114,6 +132,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2024-07-04T17:31:47Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2021-12-12T04:02:13Z",
@@ -212,12 +235,35 @@
             ],
             "geometry": {
                 "coordinates": [
-                    13.8225455,
-                    37.9710806
+                    [
+                        13.8226064,
+                        37.9710871
+                    ],
+                    [
+                        13.8226324,
+                        37.970705
+                    ],
+                    [
+                        13.823948,
+                        37.9707381
+                    ],
+                    [
+                        13.823886,
+                        37.971487
+                    ],
+                    [
+                        13.8226064,
+                        37.9710871
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-07-04T17:30:31Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Edited",
                     "modified": "2016-07-25T21:20:15Z",
@@ -260,7 +306,7 @@
                 "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
                 "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "OpenStreetMap (Way 282694737, version 2, osm:changeset=31961097, 2015-06-14T12:23:20Z)",
+            "provenance": "OpenStreetMap (Way 282694737, version 6, osm:changeset=146603433, 2024-01-23T18:16:51Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/282694737",
@@ -386,12 +432,14 @@
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/wall",
         "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
-        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
+        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
+        "https://pleiades.stoa.org/vocabularies/place-types/wall-2"
     ],
     "placeTypes": [
         "wall",
         "sanctuary",
-        "architecturalcomplex"
+        "architecturalcomplex",
+        "wall-2"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -409,12 +457,12 @@
         {
             "accessURI": "http://www.regione.sicilia.it/beniculturali/dirbenicult/musei/guide_brevi/Himera/Guida%20breve%20-%20Himera.html",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/C4TEDIN2",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Regione Sicilia, Guida breve di Himera",
+            "formattedCitation": "<div class=\"csl-entry\">Vassallo, Stefano. <i>Himera, città greca: guida alla storia e ai monumenti</i>. Beni culturali Palermo. Palermo: Regione Sicilia, Assessorato dei beni culturali, ambientali e della pubblica istruzione, Dipartimento dei beni culturali, ambientali e dell’educazione permanente, 2005. http://www.worldcat.org/title/himera-citta-greca-guida-alla-storia-e-ai-monumenti/oclc/799989874?referer=di&amp;ht=edition.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Vassallo 2005",
             "type": "seeFurther"
         },
         {
@@ -440,7 +488,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.persee.fr/doc/btcgi_0000-0009_1990_num_8_1_3595",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
             "citationDetail": "VIII, 248-73",
@@ -452,8 +500,8 @@
         }
     ],
     "reprPoint": [
-        13.8225455,
-        37.9710806
+        13.823331117784747,
+        37.97101665740431
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

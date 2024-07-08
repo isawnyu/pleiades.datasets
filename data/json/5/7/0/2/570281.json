@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.144303,
-        38.220538,
-        22.144303,
-        38.220538
+        22.1318096,
+        38.2220318,
+        22.1318096,
+        38.2220318
     ],
     "connections": [],
     "connectsWith": [],
@@ -71,23 +71,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    22.144303,
-                    38.220538
+                    22.1318096,
+                    38.2220318
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-12696",
+            "id": "osm-location-of-oi1ioi1ii1-4ii-iiii1i1-4ii1-2-ii-i",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/570281/darmc-location-12696",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/570281/osm-location-of-oi1ioi1ii1-4ii-iiii1i1-4ii1-2-ii-i",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 330 BC",
-                "title": "DARMC location 12696"
+                "snippet": "Archaeological-site; 750 BC - AD 300",
+                "title": "OSM location of Oικισμός πρώιμων Ελληνιστικών χρόνων"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-07-03T15:51:08Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Strabo 8.7.2",
             "modified": "2024-03-22T10:52:39Z",
@@ -148,8 +153,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -165,93 +170,98 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "classical",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-25T18:27:08Z",
-            "creators": [
-                {
-                    "name": "J. McK. Camp II",
-                    "username": null
                 },
                 {
-                    "name": "G. Reger",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 12696",
-            "end": -330,
+            "contributors": [],
+            "created": "2024-06-06T16:52:40Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    22.144303,
-                    38.220538
+                    22.1318096,
+                    38.2220318
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:27:29Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-25T19:01:20Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-07-03T15:50:44Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-25T18:27:09Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-06-06T16:53:20Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-25T18:27:09Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2024-06-06T16:53:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-06-06T16:52:40Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-25T18:27:08Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-06-06T16:52:40Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-12696",
+            "id": "osm-location-of-oi1ioi1ii1-4ii-iiii1i1-4ii1-2-ii-i",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 12696",
+            "provenance": "OpenStreetMap (Node 9160301491, version 3, osm:changeset=138539769, 2023-07-15T10:49:33Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/9160301491",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12696",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 9160301491",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12696.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=9160301491",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 12696",
-            "uri": "https://pleiades.stoa.org/places/570281/darmc-location-12696"
+            "title": "OSM location of Oικισμός πρώιμων Ελληνιστικών χρόνων",
+            "uri": "https://pleiades.stoa.org/places/570281/osm-location-of-oi1ioi1ii1-4ii-iiii1i1-4ii1-2-ii-i"
         }
     ],
     "names": [
@@ -477,11 +487,22 @@
             "otherIdentifier": "",
             "shortTitle": "Str. (Meineke: Perseus)",
             "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12696",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        22.144303,
-        38.220538
+        22.1318096,
+        38.2220318
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
