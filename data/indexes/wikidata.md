@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3552 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
+3571 alignments exist in _Pleiades_ place references as of 2024-07-08. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -457,6 +457,20 @@
  - [Théâtre antique de Tarquimpol](https://pleiades.stoa.org/places/865005128)
 
 
+## Ancient theatre of Philippi (Q27864544)
+[https://www.wikidata.org/wiki/Q27864544](https://www.wikidata.org/wiki/Q27864544)  
+
+### alignments:
+ - [Theater at Philippi](https://pleiades.stoa.org/places/762595495)
+
+
+## Andros (polis) (Q62944263)
+[https://www.wikidata.org/wiki/Q62944263](https://www.wikidata.org/wiki/Q62944263)  
+
+### alignments:
+ - [Andros (settlement)](https://pleiades.stoa.org/places/589692)
+
+
 ## Anfiteatro y necrópolis romana (Q97645802)
 [https://www.wikidata.org/wiki/Q97645802](https://www.wikidata.org/wiki/Q97645802)  
 
@@ -595,6 +609,13 @@
 
 ### alignments:
  - [Arcadia](https://pleiades.stoa.org/places/570102)
+
+
+## Arch of Augustus (Q126374489)
+[https://www.wikidata.org/wiki/Q126374489](https://www.wikidata.org/wiki/Q126374489)  
+
+### alignments:
+ - [Arch of Augustus (Pompeii)](https://pleiades.stoa.org/places/766559454)
 
 
 ## Arch of Augustus (Q1891991)
@@ -756,6 +777,13 @@
 
 ### alignments:
  - [Sanctuary of Artemis Aristoboule](https://pleiades.stoa.org/places/42368654)
+
+
+## Artemis Orthosia temple of Epidaurus (Q107433989)
+[https://www.wikidata.org/wiki/Q107433989](https://www.wikidata.org/wiki/Q107433989)  
+
+### alignments:
+ - [Temple of Artemis Orthosia](https://pleiades.stoa.org/places/845103545)
 
 
 ## Arycanda (Q718048)
@@ -1179,6 +1207,13 @@
  - [Sanctuary of Artemis Brauronia on the Acropolis](https://pleiades.stoa.org/places/573299847)
 
 
+## Bridge at Oinoanda (Q996029)
+[https://www.wikidata.org/wiki/Q996029](https://www.wikidata.org/wiki/Q996029)  
+
+### alignments:
+ - [Oenoanda bridge](https://pleiades.stoa.org/places/204230210)
+
+
 ## Bridge over the Oued Cherchira (Q42758015)
 [https://www.wikidata.org/wiki/Q42758015](https://www.wikidata.org/wiki/Q42758015)  
 
@@ -1277,6 +1312,13 @@
  - [Son Espases Roman Camp](https://pleiades.stoa.org/places/400546522)
 
 
+## Cangas de Onís Roman Bridge (Q9064489)
+[https://www.wikidata.org/wiki/Q9064489](https://www.wikidata.org/wiki/Q9064489)  
+
+### alignments:
+ - [Cangas de Onís](https://pleiades.stoa.org/places/154654590)
+
+
 ## Canovium (Q5033467)
 [https://www.wikidata.org/wiki/Q5033467](https://www.wikidata.org/wiki/Q5033467)  
 
@@ -1296,6 +1338,13 @@
 
 ### alignments:
  - [Carchemish](https://pleiades.stoa.org/places/658465)
+
+
+## Carmine Roman tomb (Q3852984)
+[https://www.wikidata.org/wiki/Q3852984](https://www.wikidata.org/wiki/Q3852984)  
+
+### alignments:
+ - [Carmine Roman tomb](https://pleiades.stoa.org/places/116548159)
 
 
 ## Carmylessus (Q18712835)
@@ -1331,6 +1380,13 @@
 
 ### alignments:
  - [House of Anicetus](https://pleiades.stoa.org/places/850954730)
+
+
+## Casa di Pane (Q27688146)
+[https://www.wikidata.org/wiki/Q27688146](https://www.wikidata.org/wiki/Q27688146)  
+
+### alignments:
+ - [Casa di Pane](https://pleiades.stoa.org/places/722871113)
 
 
 ## Castellum Amerinum (Q124155966)
@@ -2244,6 +2300,13 @@
  - [Galatia](https://pleiades.stoa.org/places/619161)
 
 
+## Gallo-Roman theatre of Sanxay (Q28971473)
+[https://www.wikidata.org/wiki/Q28971473](https://www.wikidata.org/wiki/Q28971473)  
+
+### alignments:
+ - [Théatre Gallo-Romains](https://pleiades.stoa.org/places/162936020)
+
+
 ## Garden (II.5.5) (Q27685742)
 [https://www.wikidata.org/wiki/Q27685742](https://www.wikidata.org/wiki/Q27685742)  
 
@@ -2921,6 +2984,13 @@
 
 ### alignments:
  - [Kastri Livadiou ancient settlement](https://pleiades.stoa.org/places/897490752)
+
+
+## Kastro Kourounas Tower (Q111363494)
+[https://www.wikidata.org/wiki/Q111363494](https://www.wikidata.org/wiki/Q111363494)  
+
+### alignments:
+ - [Kastro Kourounas Tower](https://pleiades.stoa.org/places/172755092)
 
 
 ## Katakekaumene (Q28135909)
@@ -3971,6 +4041,13 @@
 
 ### alignments:
  - [Nuraghe Sa Domu 'e s'Orcu (Sarroch)](https://pleiades.stoa.org/places/687584524)
+
+
+## Nymphaeum of the via degli Annibaldi (Q126759730)
+[https://www.wikidata.org/wiki/Q126759730](https://www.wikidata.org/wiki/Q126759730)  
+
+### alignments:
+ - [Nymphaeum of via degli Annibaldi](https://pleiades.stoa.org/places/420447351)
 
 
 ## Nymphaion (Laconia) (Q60792072)
@@ -13174,13 +13251,6 @@
  - [Ishān Dulaiyhim](https://pleiades.stoa.org/places/531025067)
 
 
-## Q2692390: Via Cornelia
-[https://www.wikidata.org/wiki/Q2692390](https://www.wikidata.org/wiki/Q2692390)  
-
-### alignments:
- - [Via Cornelia](https://pleiades.stoa.org/places/438877)
-
-
 ## Q26961007: Caupona of Epagatus (I.1.1)
 [https://www.wikidata.org/wiki/Q26961007](https://www.wikidata.org/wiki/Q26961007)  
 
@@ -19269,13 +19339,6 @@
  - [Arcus Dolabellae et Silani](https://pleiades.stoa.org/places/159953179)
 
 
-## Q583459
-[https://www.wikidata.org/wiki/Q583459](https://www.wikidata.org/wiki/Q583459)  
-
-### alignments:
- - [Roman theater of Zaragoza](https://pleiades.stoa.org/places/320965806)
-
-
 ## Q583490: Antissa
 [https://www.wikidata.org/wiki/Q583490](https://www.wikidata.org/wiki/Q583490)  
 
@@ -23085,6 +23148,13 @@
  - [Roman amphitheater at Ancona](https://pleiades.stoa.org/places/536995786)
 
 
+## Roman amphitheatre of Catania (Q2844406)
+[https://www.wikidata.org/wiki/Q2844406](https://www.wikidata.org/wiki/Q2844406)  
+
+### alignments:
+ - [Roman amphitheater of Catania](https://pleiades.stoa.org/places/540685097)
+
+
 ## Roman Amphitheatre of Rusellae (Q3616685)
 [https://www.wikidata.org/wiki/Q3616685](https://www.wikidata.org/wiki/Q3616685)  
 
@@ -23125,6 +23195,13 @@
 
 ### alignments:
  - [Ince fortlet](https://pleiades.stoa.org/places/629766126)
+
+
+## Roman Forum of Clunia Sulpicia (Q5864106)
+[https://www.wikidata.org/wiki/Q5864106](https://www.wikidata.org/wiki/Q5864106)  
+
+### alignments:
+ - [Roman forum of Col. Clunia (Sulpicia)](https://pleiades.stoa.org/places/838441539)
 
 
 ## Roman manor house (Q2202580)
@@ -23176,6 +23253,13 @@
  - [Roman theater at Brixia](https://pleiades.stoa.org/places/417977726)
 
 
+## Roman Theatre of Carsulae (Q118149257)
+[https://www.wikidata.org/wiki/Q118149257](https://www.wikidata.org/wiki/Q118149257)  
+
+### alignments:
+ - [Roman theater at Carsulae](https://pleiades.stoa.org/places/983118964)
+
+
 ## Roman Theatre of Gubbio (Q55164614)
 [https://www.wikidata.org/wiki/Q55164614](https://www.wikidata.org/wiki/Q55164614)  
 
@@ -23197,11 +23281,32 @@
  - [Theater at Saepinum](https://pleiades.stoa.org/places/319990513)
 
 
+## Roman Theatre of Saguntum (Q3896297)
+[https://www.wikidata.org/wiki/Q3896297](https://www.wikidata.org/wiki/Q3896297)  
+
+### alignments:
+ - [Roman theater at Saguntum](https://pleiades.stoa.org/places/794072270)
+
+
 ## Roman theatre of Scythopolis (Q56257615)
 [https://www.wikidata.org/wiki/Q56257615](https://www.wikidata.org/wiki/Q56257615)  
 
 ### alignments:
  - [Roman theater of Scythopolis](https://pleiades.stoa.org/places/719634078)
+
+
+## Roman Theatre of Trieste (Q752696)
+[https://www.wikidata.org/wiki/Q752696](https://www.wikidata.org/wiki/Q752696)  
+
+### alignments:
+ - [Roman theater at Tergeste](https://pleiades.stoa.org/places/683009535)
+
+
+## Roman Theatre of Zaragoza (Q583459)
+[https://www.wikidata.org/wiki/Q583459](https://www.wikidata.org/wiki/Q583459)  
+
+### alignments:
+ - [Roman theater of Zaragoza](https://pleiades.stoa.org/places/320965806)
 
 
 ## Roman Thermae in Varna (Q12292389)
@@ -24150,6 +24255,13 @@
  - [Yeha Temple](https://pleiades.stoa.org/places/763458797)
 
 
+## Termessos Minor (Q6003016)
+[https://www.wikidata.org/wiki/Q6003016](https://www.wikidata.org/wiki/Q6003016)  
+
+### alignments:
+ - [Oenoanda/Termessos Mikra](https://pleiades.stoa.org/places/639013)
+
+
 ## Termez (Q491879)
 [https://www.wikidata.org/wiki/Q491879](https://www.wikidata.org/wiki/Q491879)  
 
@@ -24211,6 +24323,20 @@
 
 ### alignments:
  - [Theater at Cyrrus/Hagioupolis](https://pleiades.stoa.org/places/48167299)
+
+
+## Theatre of Heraclea Lyncestis (Q70772454)
+[https://www.wikidata.org/wiki/Q70772454](https://www.wikidata.org/wiki/Q70772454)  
+
+### alignments:
+ - [Roman theater at Herakleia](https://pleiades.stoa.org/places/185859210)
+
+
+## theatre of Isthmia (Q38283549)
+[https://www.wikidata.org/wiki/Q38283549](https://www.wikidata.org/wiki/Q38283549)  
+
+### alignments:
+ - [Graeco-Roman theater at Isthmia](https://pleiades.stoa.org/places/513030903)
 
 
 ## Theatre of Nero (Q120926285)
@@ -24695,6 +24821,13 @@
 
 ### alignments:
  - [Via Cassia](https://pleiades.stoa.org/places/447759107)
+
+
+## Via Cornelia (Q2692390)
+[https://www.wikidata.org/wiki/Q2692390](https://www.wikidata.org/wiki/Q2692390)  
+
+### alignments:
+ - [Via Cornelia](https://pleiades.stoa.org/places/438877)
 
 
 ## Via Curia (Q28670463)

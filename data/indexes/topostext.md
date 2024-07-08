@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3429 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
+3434 alignments exist in _Pleiades_ place references as of 2024-07-08. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1796,6 +1796,13 @@
  - [Andronpolis](https://pleiades.stoa.org/places/727071)
 
 
+## Andros (Cyclades) 100 Palaiopolis - Άνδρος
+[https://topostext.org/place/378248PAnd](https://topostext.org/place/378248PAnd)  
+
+### alignments:
+ - [Andros (settlement)](https://pleiades.stoa.org/places/589692)
+
+
 ## Anemosa (Arkadia)
 [https://topostext.org/place/376222UAne](https://topostext.org/place/376222UAne)  
 
@@ -3118,6 +3125,13 @@
 
 ### alignments:
  - [Temple of Artemis Orthia](https://pleiades.stoa.org/places/139216315)
+
+
+## Artemis Orthosia temple (Epidauros)
+[https://topostext.org/place/376232SArT](https://topostext.org/place/376232SArT)  
+
+### alignments:
+ - [Temple of Artemis Orthosia](https://pleiades.stoa.org/places/845103545)
 
 
 ## Artemis Tauropolos temple (Ikaria)
@@ -10802,6 +10816,13 @@
  - [Palaiokastro](https://pleiades.stoa.org/places/560670)
 
 
+## Kastro Kourounas (Argolid)
+[https://topostext.org/place/378226FKKo](https://topostext.org/place/378226FKKo)  
+
+### alignments:
+ - [Kastro Kourounas Tower](https://pleiades.stoa.org/places/172755092)
+
+
 ## Katane/Catina (Sicily)
 [https://topostext.org/place/375151PCat](https://topostext.org/place/375151PCat)  
 
@@ -18387,6 +18408,13 @@
  - [Plakia](https://pleiades.stoa.org/places/511366)
 
 
+## Plakomenos sacred deposit (Korinthia)
+[https://topostext.org/place/378226XPla](https://topostext.org/place/378226XPla)  
+
+### alignments:
+ - [Plakomenos](https://pleiades.stoa.org/places/664676167)
+
+
 ## Plakoto fort (Attica)
 [https://topostext.org/place/381235FPla](https://topostext.org/place/381235FPla)  
 
@@ -22065,6 +22093,13 @@
 
 ### alignments:
  - [Theater at Delphi](https://pleiades.stoa.org/places/333036424)
+
+
+## Theater (Isthmia) 1 Isthmia - Ισθμία
+[https://topostext.org/place/379230BThI](https://topostext.org/place/379230BThI)  
+
+### alignments:
+ - [Graeco-Roman theater at Isthmia](https://pleiades.stoa.org/places/513030903)
 
 
 ## Theater of Dionysos (Sikyon)

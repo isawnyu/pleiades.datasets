@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-468 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
+470 alignments exist in _Pleiades_ place references as of 2024-07-08. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1261,6 +1261,13 @@
  - [Rhamnous](https://pleiades.stoa.org/places/580097)
 
 
+## 10272323: Andros (city)
+[https://resource.manto.unh.edu/10272323](https://resource.manto.unh.edu/10272323)  
+
+### alignments:
+ - [Andros (settlement)](https://pleiades.stoa.org/places/589692)
+
+
 ## 10272345: Pharsalos (Thessaly)
 [https://resource.manto.unh.edu/10272345](https://resource.manto.unh.edu/10272345)  
 
@@ -1497,6 +1504,13 @@
 
 ### alignments:
  - [Magnesia ad Sipylum](https://pleiades.stoa.org/places/550706)
+
+
+## 11289334: the Temple of Athena Apaturia (Argolid)
+[https://resource.manto.unh.edu/11289334](https://resource.manto.unh.edu/11289334)  
+
+### alignments:
+ - [Temple of Athena Apaturia](https://pleiades.stoa.org/places/603144223)
 
 
 ## 11289361: Pagasai (Thessaly)

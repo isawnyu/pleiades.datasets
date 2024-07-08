@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-328 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
+330 alignments exist in _Pleiades_ place references as of 2024-07-08. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -83,6 +83,13 @@
 
 ### alignments:
  - [Apollo, T.](https://pleiades.stoa.org/places/707481)
+
+
+## LEONTIO - Plakomenos - 2003
+[https://chronique.efa.gr/?kroute=report&id=3796](https://chronique.efa.gr/?kroute=report&id=3796)  
+
+### alignments:
+ - [Plakomenos](https://pleiades.stoa.org/places/664676167)
 
 
 ## MEGALI MAGOULA - Galatas - 2000
@@ -2258,6 +2265,13 @@
 
 ### alignments:
  - [Pyrrichos](https://pleiades.stoa.org/places/570642)
+
+
+## Toponyme 7899: Palaiopolis, Anc. Andros
+[https://chronique.efa.gr/?kroute=topo_public&id=7899](https://chronique.efa.gr/?kroute=topo_public&id=7899)  
+
+### alignments:
+ - [Andros (settlement)](https://pleiades.stoa.org/places/589692)
 
 
 ## Toponyme 7933: Samothrace, Palaiopolis, Sanctuaire des Grands Dieux, Sanctuary of the Great Gods

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3530 alignments exist in _Pleiades_ place references as of 2024-07-03. The following list of alignments is grouped by zotkey.
+3536 alignments exist in _Pleiades_ place references as of 2024-07-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -528,6 +528,7 @@
 
 ### alignments:
  - [Andros (island)](https://pleiades.stoa.org/places/589693)
+ - [Andros (settlement)](https://pleiades.stoa.org/places/589692)
 
 
 ## Geo 18239: Thimisua
@@ -6853,6 +6854,13 @@
  - [Saltus Massipianus](https://pleiades.stoa.org/places/324806)
 
 
+## GEO ID 17666: Adiabene
+[http://www.trismegistos.org/place/17666](http://www.trismegistos.org/place/17666)  
+
+### alignments:
+ - [Adiabene](https://pleiades.stoa.org/places/893935)
+
+
 ## GEO ID 1767: Philai
 [http://www.trismegistos.org/place/1767](http://www.trismegistos.org/place/1767)  
 
@@ -8601,6 +8609,13 @@
 
 ### alignments:
  - [Takyris](https://pleiades.stoa.org/places/737063)
+
+
+## GEO ID 22331: Akrai (Palazzolo Acreide)
+[http://www.trismegistos.org/place/22331](http://www.trismegistos.org/place/22331)  
+
+### alignments:
+ - [Acrae](https://pleiades.stoa.org/places/462068)
 
 
 ## GEO ID 22334: Hippana (Prizzi)
@@ -13253,6 +13268,13 @@
  - [Nares Lucanae](https://pleiades.stoa.org/places/442685)
 
 
+## GEO ID 33116: Kasmenai (Buscemi)
+[http://www.trismegistos.org/place/33116](http://www.trismegistos.org/place/33116)  
+
+### alignments:
+ - [Kasmenai](https://pleiades.stoa.org/places/462269)
+
+
 ## GEO ID 3311: Capua (Santa Maria Capua Vetere)
 [http://www.trismegistos.org/place/3311](http://www.trismegistos.org/place/3311)  
 
@@ -15634,6 +15656,13 @@
  - [Phoenicusa (island)](https://pleiades.stoa.org/places/462425)
 
 
+## GEO ID 38467: Herakleia Minoia (Cattolica Eraclea)
+[http://www.trismegistos.org/place/38467](http://www.trismegistos.org/place/38467)  
+
+### alignments:
+ - [Heraclea Minoa](https://pleiades.stoa.org/places/462237)
+
+
 ## GEO ID 38471: Leonforte
 [http://www.trismegistos.org/place/38471](http://www.trismegistos.org/place/38471)  
 
@@ -15653,6 +15682,13 @@
 
 ### alignments:
  - [Sabucina](https://pleiades.stoa.org/places/462483)
+
+
+## GEO ID 38485: Brikinniai (Monte San Basilio)
+[http://www.trismegistos.org/place/38485](http://www.trismegistos.org/place/38485)  
+
+### alignments:
+ - [Brikinniai?](https://pleiades.stoa.org/places/462118)
 
 
 ## GEO ID 38488: Terravecchia di Cuti
@@ -19909,6 +19945,13 @@
 
 ### alignments:
  - [Via Clodia](https://pleiades.stoa.org/places/737328394)
+
+
+## GEO ID 43141: Via Triumphalis
+[http://www.trismegistos.org/place/43141](http://www.trismegistos.org/place/43141)  
+
+### alignments:
+ - [Via Triumphalis](https://pleiades.stoa.org/places/839719167)
 
 
 ## GEO ID 43147: Via Laurentina
