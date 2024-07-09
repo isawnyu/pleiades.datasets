@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3571 alignments exist in _Pleiades_ place references as of 2024-07-08. The following list of alignments is grouped by zotkey.
+3573 alignments exist in _Pleiades_ place references as of 2024-07-09. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -560,6 +560,13 @@
 
 ### alignments:
  - [Aphytis](https://pleiades.stoa.org/places/491525)
+
+
+## Apiolae (Q4779852)
+[https://www.wikidata.org/wiki/Q4779852](https://www.wikidata.org/wiki/Q4779852)  
+
+### alignments:
+ - [Apiolae](https://pleiades.stoa.org/places/438677)
 
 
 ## Apollonieis (Q19829611)
@@ -1807,6 +1814,13 @@
 
 ### alignments:
  - [Pityoussa/Petrossa? (island)](https://pleiades.stoa.org/places/648739)
+
+
+## Dara (Q585145)
+[https://www.wikidata.org/wiki/Q585145](https://www.wikidata.org/wiki/Q585145)  
+
+### alignments:
+ - [Dara/Anastasioupolis](https://pleiades.stoa.org/places/874444)
 
 
 ## Daseae (Q5226539)
@@ -3299,6 +3313,13 @@
 
 ### alignments:
  - [Vari](https://pleiades.stoa.org/places/580129)
+
+
+## Latium (Q1048669)
+[https://www.wikidata.org/wiki/Q1048669](https://www.wikidata.org/wiki/Q1048669)  
+
+### alignments:
+ - [Latium Vetus (region)](https://pleiades.stoa.org/places/422958)
 
 
 ## Lato (Q1807000)
@@ -5470,13 +5491,6 @@
 
 ### alignments:
  - [Mars, Aedes](https://pleiades.stoa.org/places/699284690)
-
-
-## Q1048669: Latium
-[https://www.wikidata.org/wiki/Q1048669](https://www.wikidata.org/wiki/Q1048669)  
-
-### alignments:
- - [Latium Vetus (region)](https://pleiades.stoa.org/places/422958)
 
 
 ## Q104876336: Cerfennia
@@ -17820,13 +17834,6 @@
  - [Thapsos](https://pleiades.stoa.org/places/462511)
 
 
-## Q4779852: Apiolae
-[https://www.wikidata.org/wiki/Q4779852](https://www.wikidata.org/wiki/Q4779852)  
-
-### alignments:
- - [Apiolae](https://pleiades.stoa.org/places/438677)
-
-
 ## Q478011: Athenian Treasury
 [https://www.wikidata.org/wiki/Q478011](https://www.wikidata.org/wiki/Q478011)  
 
@@ -23258,6 +23265,13 @@
 
 ### alignments:
  - [Roman theater at Carsulae](https://pleiades.stoa.org/places/983118964)
+
+
+## Roman Theatre of Catania (Q600690)
+[https://www.wikidata.org/wiki/Q600690](https://www.wikidata.org/wiki/Q600690)  
+
+### alignments:
+ - [Roman theater of Catania](https://pleiades.stoa.org/places/101729909)
 
 
 ## Roman Theatre of Gubbio (Q55164614)

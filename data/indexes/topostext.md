@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3434 alignments exist in _Pleiades_ place references as of 2024-07-08. The following list of alignments is grouped by zotkey.
+3435 alignments exist in _Pleiades_ place references as of 2024-07-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6080,6 +6080,13 @@
 
 ### alignments:
  - [Daphni Monastery](https://pleiades.stoa.org/places/606653928)
+
+
+## Dara/Anastasioupolis (Mesopotamia) 62 Oğuz
+[https://topostext.org/place/372410UDar](https://topostext.org/place/372410UDar)  
+
+### alignments:
+ - [Dara/Anastasioupolis](https://pleiades.stoa.org/places/874444)
 
 
 ## Dardanos (Turkey)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-470 alignments exist in _Pleiades_ place references as of 2024-07-08. The following list of alignments is grouped by zotkey.
+471 alignments exist in _Pleiades_ place references as of 2024-07-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1707,6 +1707,13 @@
 
 ### alignments:
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
+
+
+## 11310149: Latium (Italy)
+[https://resource.manto.unh.edu/11310149](https://resource.manto.unh.edu/11310149)  
+
+### alignments:
+ - [Latium Vetus (region)](https://pleiades.stoa.org/places/422958)
 
 
 ## 11311527: Astyra (Troad)

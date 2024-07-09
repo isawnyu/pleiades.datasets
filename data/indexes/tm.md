@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3536 alignments exist in _Pleiades_ place references as of 2024-07-08. The following list of alignments is grouped by zotkey.
+3539 alignments exist in _Pleiades_ place references as of 2024-07-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14976,6 +14976,13 @@
  - [Nippur/Nufar/‘Hippareni’](https://pleiades.stoa.org/places/912910)
 
 
+## GEO ID 37320: Nikephorion (Al-Raqqah)
+[http://www.trismegistos.org/place/37320](http://www.trismegistos.org/place/37320)  
+
+### alignments:
+ - [Nicephorium/Callinicum/Leontopolis](https://pleiades.stoa.org/places/668318)
+
+
 ## GEO ID 37346: Tabgha
 [https://www.trismegistos.org/place/37346](https://www.trismegistos.org/place/37346)  
 
@@ -21692,6 +21699,13 @@
  - [Circesium/Qarquza/Habora/Phaliga?](https://pleiades.stoa.org/places/893974)
 
 
+## GEO ID 47871: Dara (Oğuz)
+[http://www.trismegistos.org/place/47871](http://www.trismegistos.org/place/47871)  
+
+### alignments:
+ - [Dara/Anastasioupolis](https://pleiades.stoa.org/places/874444)
+
+
 ## GEO ID 47879: Euphratesia
 [http://www.trismegistos.org/place/47879](http://www.trismegistos.org/place/47879)  
 
@@ -21746,6 +21760,13 @@
 
 ### alignments:
  - [Pyramos (river)](https://pleiades.stoa.org/places/658576)
+
+
+## GEO ID 47915: Skirtos (Daisan)
+[http://www.trismegistos.org/place/47915](http://www.trismegistos.org/place/47915)  
+
+### alignments:
+ - [Skirtos (river)](https://pleiades.stoa.org/places/658602)
 
 
 ## GEO ID 47920: Urmia
