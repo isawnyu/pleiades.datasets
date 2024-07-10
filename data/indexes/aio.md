@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-139 alignments exist in _Pleiades_ place references as of 2024-07-09. The following list of alignments is grouped by zotkey.
+140 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -322,6 +322,13 @@
 
 ### alignments:
  - [Ikarion](https://pleiades.stoa.org/places/579958)
+
+
+## Findspot: Karpathos
+[https://www.atticinscriptions.com/browse/byfindspot/karpathos/](https://www.atticinscriptions.com/browse/byfindspot/karpathos/)  
+
+### alignments:
+ - [Karpathos (island)](https://pleiades.stoa.org/places/589841)
 
 
 ## Findspot: Katsipodi

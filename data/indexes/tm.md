@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3539 alignments exist in _Pleiades_ place references as of 2024-07-09. The following list of alignments is grouped by zotkey.
+3547 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -148,6 +148,13 @@
 
 ### alignments:
  - [Ad Tygrem/Amida](https://pleiades.stoa.org/places/874298)
+
+
+## Geo 11321: Pathmos
+[https://www.trismegistos.org/place/11321](https://www.trismegistos.org/place/11321)  
+
+### alignments:
+ - [Patmos (island)](https://pleiades.stoa.org/places/599872)
 
 
 ## Geo 11322: Chalkidike
@@ -302,6 +309,13 @@
 
 ### alignments:
  - [Mallos/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648702)
+
+
+## Geo 13150: Ialysos
+[https://topostext.org/place/364282PIal](https://topostext.org/place/364282PIal)  
+
+### alignments:
+ - [Ialysos](https://pleiades.stoa.org/places/589815)
 
 
 ## Geo 13603: Etruria
@@ -1509,6 +1523,7 @@
  - [Ischalis?](https://pleiades.stoa.org/places/79534)
  - [Kleitor](https://pleiades.stoa.org/places/570359)
  - [Ouenikones](https://pleiades.stoa.org/places/89266)
+ - [Paroria](https://pleiades.stoa.org/places/570562)
  - [Portus](https://pleiades.stoa.org/places/423012)
 
 
@@ -2133,6 +2148,13 @@
 
 ### alignments:
  - [Kerkesoucha](https://pleiades.stoa.org/places/741493)
+
+
+## GEO ID 1068: Istros (Istria)
+[http://www.trismegistos.org/place/1068](http://www.trismegistos.org/place/1068)  
+
+### alignments:
+ - [Histria](https://pleiades.stoa.org/places/216839)
 
 
 ## GEO ID 1070: Kerkesoucha Orous
@@ -3526,6 +3548,13 @@
 
 ### alignments:
  - [Piercebridge](https://pleiades.stoa.org/places/89274)
+
+
+## GEO ID 13697: Arbela (Erbil)
+[http://www.trismegistos.org/place/13697](http://www.trismegistos.org/place/13697)  
+
+### alignments:
+ - [Arbela/Arba-ilu](https://pleiades.stoa.org/places/874341)
 
 
 ## GEO ID 1375: Miletos (Balat)
@@ -5725,6 +5754,13 @@
 
 ### alignments:
  - [Onchesmos](https://pleiades.stoa.org/places/531019)
+
+
+## GEO ID 15926: Elimeia
+[https://www.trismegistos.org/place/15926](https://www.trismegistos.org/place/15926)  
+
+### alignments:
+ - [Elimeia](https://pleiades.stoa.org/places/491587)
 
 
 ## GEO ID 15971: Phalanna (Damasi)
@@ -10726,11 +10762,32 @@
  - [Alta Ripa](https://pleiades.stoa.org/places/197109)
 
 
+## GEO ID 29281: Acumincum (Stari Slankamen)
+[https://www.trismegistos.org/place/29281](https://www.trismegistos.org/place/29281)  
+
+### alignments:
+ - [Acumincum](https://pleiades.stoa.org/places/206874)
+
+
 ## GEO ID 29294: Singidunum (Beograd)
 [https://www.trismegistos.org/place/29294](https://www.trismegistos.org/place/29294)  
 
 ### alignments:
  - [Singidunum](https://pleiades.stoa.org/places/207443)
+
+
+## GEO ID 29301: Burgenae (Novi Banovci)
+[https://www.trismegistos.org/place/29301](https://www.trismegistos.org/place/29301)  
+
+### alignments:
+ - [Burgenae](https://pleiades.stoa.org/places/207001)
+
+
+## GEO ID 29302: Rittium (Surduk)
+[https://www.trismegistos.org/place/29302](https://www.trismegistos.org/place/29302)  
+
+### alignments:
+ - [Rittium](https://pleiades.stoa.org/places/207392)
 
 
 ## GEO ID 29303: Taurunum (Zemun)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-330 alignments exist in _Pleiades_ place references as of 2024-07-09. The following list of alignments is grouped by zotkey.
+332 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -955,11 +955,25 @@
  - [Pserimos (island)](https://pleiades.stoa.org/places/599910)
 
 
+## Toponym 39550: Patmos
+[https://chronique.efa.gr/?kroute=topo_public&id=39550](https://chronique.efa.gr/?kroute=topo_public&id=39550)  
+
+### alignments:
+ - [Patmos (island)](https://pleiades.stoa.org/places/599872)
+
+
 ## Toponym 39730: Leros
 [https://chronique.efa.gr/?kroute=topo_public&id=39730](https://chronique.efa.gr/?kroute=topo_public&id=39730)  
 
 ### alignments:
  - [Leros (island)](https://pleiades.stoa.org/places/599764)
+
+
+## Toponym 39775: Ialysos, Trianta
+[https://chronique.efa.gr/?kroute=topo_public&id=39775](https://chronique.efa.gr/?kroute=topo_public&id=39775)  
+
+### alignments:
+ - [Ialysos](https://pleiades.stoa.org/places/589815)
 
 
 ## Toponym 41079: Keros, Keria, Karos, Kereia

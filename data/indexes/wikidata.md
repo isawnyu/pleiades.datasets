@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3573 alignments exist in _Pleiades_ place references as of 2024-07-09. The following list of alignments is grouped by zotkey.
+3592 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -81,6 +81,13 @@
 
 ## Acumincum (Q4677883)
 [https://www.wikidata.org/wiki/Q4677883](https://www.wikidata.org/wiki/Q4677883)  
+
+### alignments:
+ - [Acumincum](https://pleiades.stoa.org/places/206874)
+
+
+## Acumincum (Samian Ware Discovery Site) (Q103138215)
+[https://www.wikidata.org/wiki/Q103138215](https://www.wikidata.org/wiki/Q103138215)  
 
 ### alignments:
  - [Acumincum](https://pleiades.stoa.org/places/206874)
@@ -1396,6 +1403,13 @@
  - [Casa di Pane](https://pleiades.stoa.org/places/722871113)
 
 
+## Caselette Roman villa (Q125163027)
+[https://www.wikidata.org/wiki/Q125163027](https://www.wikidata.org/wiki/Q125163027)  
+
+### alignments:
+ - [Villa Romana di Caselette](https://pleiades.stoa.org/places/65232414)
+
+
 ## Castellum Amerinum (Q124155966)
 [https://www.wikidata.org/wiki/Q124155966](https://www.wikidata.org/wiki/Q124155966)  
 
@@ -2104,6 +2118,13 @@
  - [Eleusis](https://pleiades.stoa.org/places/599607)
 
 
+## Elimiotis (Q1329498)
+[https://www.wikidata.org/wiki/Q1329498](https://www.wikidata.org/wiki/Q1329498)  
+
+### alignments:
+ - [Elimeia](https://pleiades.stoa.org/places/491587)
+
+
 ## Elissonas (Q3723337)
 [https://www.wikidata.org/wiki/Q3723337](https://www.wikidata.org/wiki/Q3723337)  
 
@@ -2270,6 +2291,13 @@
 
 ### alignments:
  - [Krios (river)](https://pleiades.stoa.org/places/570384)
+
+
+## Foro romano di Catania (Q3748449)
+[https://www.wikidata.org/wiki/Q3748449](https://www.wikidata.org/wiki/Q3748449)  
+
+### alignments:
+ - [Roman Forum of Catania](https://pleiades.stoa.org/places/38551021)
 
 
 ## Fortress of Eleutherai (Q1328318)
@@ -2461,6 +2489,13 @@
  - [Henchir el Khaway](https://pleiades.stoa.org/places/344386)
 
 
+## Gulf of Salerno (Q828574)
+[https://www.wikidata.org/wiki/Q828574](https://www.wikidata.org/wiki/Q828574)  
+
+### alignments:
+ - [Paestanus Sinus](https://pleiades.stoa.org/places/442704)
+
+
 ## Gulf of Çandarlı (Q999074)
 [https://www.wikidata.org/wiki/Q999074](https://www.wikidata.org/wiki/Q999074)  
 
@@ -2650,11 +2685,25 @@
  - [Caseggiato di Bacco e Arianna](https://pleiades.stoa.org/places/432599299)
 
 
+## house of Farnesina (Q1046588)
+[https://www.wikidata.org/wiki/Q1046588](https://www.wikidata.org/wiki/Q1046588)  
+
+### alignments:
+ - [Casa della Farnesina](https://pleiades.stoa.org/places/975276181)
+
+
 ## House of Leda and the Swan (Q124723161)
 [https://www.wikidata.org/wiki/Q124723161](https://www.wikidata.org/wiki/Q124723161)  
 
 ### alignments:
  - [House of Leda and the Swan](https://pleiades.stoa.org/places/99692383)
+
+
+## House of Livia (Q833875)
+[https://www.wikidata.org/wiki/Q833875](https://www.wikidata.org/wiki/Q833875)  
+
+### alignments:
+ - [House of Livia](https://pleiades.stoa.org/places/904782880)
 
 
 ## House of M. Spurius Saturninus and D. Volcius Modestus (Q27687127)
@@ -2795,6 +2844,13 @@
 
 ### alignments:
  - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
+
+
+## Ialysos (Q29963099)
+[https://www.wikidata.org/wiki/Q29963099](https://www.wikidata.org/wiki/Q29963099)  
+
+### alignments:
+ - [Ialysos](https://pleiades.stoa.org/places/589815)
 
 
 ## Imbrasos (Q25123205)
@@ -4029,6 +4085,20 @@
  - [Nisyros (island)](https://pleiades.stoa.org/places/599830)
 
 
+## Novi Banovci (Q779333)
+[https://www.wikidata.org/wiki/Q779333](https://www.wikidata.org/wiki/Q779333)  
+
+### alignments:
+ - [Burgenae](https://pleiades.stoa.org/places/207001)
+
+
+## Novi Banovci (Samian Ware Discovery Site) (Q103187651)
+[https://www.wikidata.org/wiki/Q103187651](https://www.wikidata.org/wiki/Q103187651)  
+
+### alignments:
+ - [Burgenae](https://pleiades.stoa.org/places/207001)
+
+
 ## nuraghe Adoni (Q16583231)
 [https://www.wikidata.org/wiki/Q16583231](https://www.wikidata.org/wiki/Q16583231)  
 
@@ -4104,6 +4174,13 @@
 
 ### alignments:
  - [Odeion of Agrippa](https://pleiades.stoa.org/places/832198698)
+
+
+## Odeon of Catania (Q3880841)
+[https://www.wikidata.org/wiki/Q3880841](https://www.wikidata.org/wiki/Q3880841)  
+
+### alignments:
+ - [Odeon at Catania](https://pleiades.stoa.org/places/674092819)
 
 
 ## Odeon of Pericles (Q2704249)
@@ -4246,6 +4323,13 @@
  - [Samothrace (settlement)](https://pleiades.stoa.org/places/501596)
 
 
+## Palatine stadium (Q2484732)
+[https://www.wikidata.org/wiki/Q2484732](https://www.wikidata.org/wiki/Q2484732)  
+
+### alignments:
+ - [Palatine Stadium](https://pleiades.stoa.org/places/132886213)
+
+
 ## Pallantion (Q11939941)
 [https://www.wikidata.org/wiki/Q11939941](https://www.wikidata.org/wiki/Q11939941)  
 
@@ -4314,6 +4398,13 @@
 
 ### alignments:
  - [Parium/Col. Gemella Iulia *Hadriana](https://pleiades.stoa.org/places/511354)
+
+
+## Paroria (Q3605950)
+[https://www.wikidata.org/wiki/Q3605950](https://www.wikidata.org/wiki/Q3605950)  
+
+### alignments:
+ - [Paroria](https://pleiades.stoa.org/places/570562)
 
 
 ## Paros (Q201272)
@@ -4631,6 +4722,13 @@
  - [Polyrrenia](https://pleiades.stoa.org/places/590003)
 
 
+## Pompeii Comitium (Q27688101)
+[https://www.wikidata.org/wiki/Q27688101](https://www.wikidata.org/wiki/Q27688101)  
+
+### alignments:
+ - [Comitium of Pompeii](https://pleiades.stoa.org/places/980900398)
+
+
 ## Pompeion (Q2372311)
 [https://www.wikidata.org/wiki/Q2372311](https://www.wikidata.org/wiki/Q2372311)  
 
@@ -4734,6 +4832,13 @@
 
 ### alignments:
  - [Porta Salaria](https://pleiades.stoa.org/places/758962698)
+
+
+## Porta Settimiana (Q1422040)
+[https://www.wikidata.org/wiki/Q1422040](https://www.wikidata.org/wiki/Q1422040)  
+
+### alignments:
+ - [Porta Settimiana](https://pleiades.stoa.org/places/940826763)
 
 
 ## Porta Viminale (Q1516087)
@@ -9014,6 +9119,7 @@
 
 ### alignments:
  - [House of Augustus](https://pleiades.stoa.org/places/250568480)
+ - [House of Augustus](https://pleiades.stoa.org/places/960271818)
 
 
 ## Q15926: Trebnje
@@ -21530,13 +21636,6 @@
  - [Bruto e Pisoni](https://pleiades.stoa.org/places/422853)
 
 
-## Q764141: Temple of Veiovis
-[https://www.wikidata.org/wiki/Q764141](https://www.wikidata.org/wiki/Q764141)  
-
-### alignments:
- - [Temple of Veiovis](https://pleiades.stoa.org/places/243075423)
-
-
 ## Q766840: Juvanum
 [https://www.wikidata.org/wiki/Q766840](https://www.wikidata.org/wiki/Q766840)  
 
@@ -23729,6 +23828,13 @@
  - [Shortugai](https://pleiades.stoa.org/places/717754049)
 
 
+## Sibillini Mountains (Q691073)
+[https://www.wikidata.org/wiki/Q691073](https://www.wikidata.org/wiki/Q691073)  
+
+### alignments:
+ - [Tetricus (mountains)](https://pleiades.stoa.org/places/413336)
+
+
 ## Sicily (Q4951156)
 [https://www.wikidata.org/wiki/Q4951156](https://www.wikidata.org/wiki/Q4951156)  
 
@@ -24094,6 +24200,13 @@
  - [Temple of Apollo](https://pleiades.stoa.org/places/780913480)
 
 
+## Temple of Apollo Palatinus (Q1236860)
+[https://www.wikidata.org/wiki/Q1236860](https://www.wikidata.org/wiki/Q1236860)  
+
+### alignments:
+ - [Aedes Apollinis Palatini](https://pleiades.stoa.org/places/257097394)
+
+
 ## Temple of Apollo Patroos (Q3142437)
 [https://www.wikidata.org/wiki/Q3142437](https://www.wikidata.org/wiki/Q3142437)  
 
@@ -24248,6 +24361,13 @@
  - [Temple of Thutmose III](https://pleiades.stoa.org/places/326151648)
 
 
+## Temple of Veiovis (Q764141)
+[https://www.wikidata.org/wiki/Q764141](https://www.wikidata.org/wiki/Q764141)  
+
+### alignments:
+ - [Temple of Veiovis](https://pleiades.stoa.org/places/243075423)
+
+
 ## Temple of Venus and Roma (Q430792)
 [https://www.wikidata.org/wiki/Q430792](https://www.wikidata.org/wiki/Q430792)  
 
@@ -24267,6 +24387,13 @@
 
 ### alignments:
  - [Yeha Temple](https://pleiades.stoa.org/places/763458797)
+
+
+## Terme Achilliane (Q3984379)
+[https://www.wikidata.org/wiki/Q3984379](https://www.wikidata.org/wiki/Q3984379)  
+
+### alignments:
+ - [Terme Achilliane](https://pleiades.stoa.org/places/991638694)
 
 
 ## Termessos Minor (Q6003016)
@@ -25039,6 +25166,13 @@
 
 ### alignments:
  - [Ziggurat at Nippur](https://pleiades.stoa.org/places/745146970)
+
+
+## Zoetia (Q8073335)
+[https://www.wikidata.org/wiki/Q8073335](https://www.wikidata.org/wiki/Q8073335)  
+
+### alignments:
+ - [Zoitia](https://pleiades.stoa.org/places/570765)
 
 
 ## Zvartnots Cathedral (Q17054090)

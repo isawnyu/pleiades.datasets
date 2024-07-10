@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3435 alignments exist in _Pleiades_ place references as of 2024-07-09. The following list of alignments is grouped by zotkey.
+3440 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -9524,6 +9524,7 @@
 
 ### alignments:
  - [House of Augustus](https://pleiades.stoa.org/places/250568480)
+ - [House of Augustus](https://pleiades.stoa.org/places/960271818)
 
 
 ## House of the Arrephoroi (Athens Acropolis) 1 Acropolis of Athens
@@ -9700,6 +9701,13 @@
 
 ### alignments:
  - [Iader](https://pleiades.stoa.org/places/197312)
+
+
+## Ialysos (Rhodes) 30 Ialysos - Ιαλυσός
+[https://topostext.org/place/364282PIal](https://topostext.org/place/364282PIal)  
+
+### alignments:
+ - [Ialysos](https://pleiades.stoa.org/places/589815)
 
 
 ## Iamneia (Palestine)
@@ -16438,6 +16446,13 @@
  - [Palatinus Mons](https://pleiades.stoa.org/places/971691208)
 
 
+## Palatine Stadium (Rome)
+[https://topostext.org/place/419125BStB](https://topostext.org/place/419125BStB)  
+
+### alignments:
+ - [Palatine Stadium](https://pleiades.stoa.org/places/132886213)
+
+
 ## Pale (Kefallenia)
 [https://topostext.org/place/382204UPal](https://topostext.org/place/382204UPal)  
 
@@ -16775,6 +16790,13 @@
  - [Parnes (mountain)](https://pleiades.stoa.org/places/580059)
 
 
+## Paroria (Arkadia) 12 Palaiomoiri? - Παρώρεια
+[https://topostext.org/place/375221UPar](https://topostext.org/place/375221UPar)  
+
+### alignments:
+ - [Paroria](https://pleiades.stoa.org/places/570562)
+
+
 ## Paros (Cyclades) 192 Parikia - Πάρος
 [https://topostext.org/place/371252PPar](https://topostext.org/place/371252PPar)  
 
@@ -16850,6 +16872,7 @@
 [https://topostext.org/place/373265IPat](https://topostext.org/place/373265IPat)  
 
 ### alignments:
+ - [Patmos (island)](https://pleiades.stoa.org/places/599872)
  - [Patmos](https://pleiades.stoa.org/places/599871)
 
 
@@ -18876,6 +18899,13 @@
 
 ### alignments:
  - [Porta Salaria](https://pleiades.stoa.org/places/758962698)
+
+
+## Porta Settimiana (Rome)
+[https://topostext.org/place/419125FPSt](https://topostext.org/place/419125FPSt)  
+
+### alignments:
+ - [Porta Settimiana](https://pleiades.stoa.org/places/940826763)
 
 
 ## Porta Tiburtina (Rome)
@@ -21854,6 +21884,13 @@
 
 ### alignments:
  - [Tempe](https://pleiades.stoa.org/places/541131)
+
+
+## Temple of Apollo Palatinus (Rome)
+[https://topostext.org/place/419125SApP](https://topostext.org/place/419125SApP)  
+
+### alignments:
+ - [Aedes Apollinis Palatini](https://pleiades.stoa.org/places/257097394)
 
 
 ## Temple of Ares (Athens Agora)
