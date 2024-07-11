@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3547 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
+3550 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1344,6 +1344,13 @@
 
 ### alignments:
  - [Heraia](https://pleiades.stoa.org/places/570287)
+
+
+## Geo 37687: Lepreon
+[https://www.trismegistos.org/place/37687](https://www.trismegistos.org/place/37687)  
+
+### alignments:
+ - [Lepreon](https://pleiades.stoa.org/places/570423)
 
 
 ## Geo 37698: Nestane
@@ -8934,6 +8941,13 @@
  - [Aquae Neri/*Neriomagus](https://pleiades.stoa.org/places/138185)
 
 
+## GEO ID 23223: Neuvy-sur-Barangeon
+[http://www.trismegistos.org/place/23223](http://www.trismegistos.org/place/23223)  
+
+### alignments:
+ - [Neuvy-sur-Barangeon](https://pleiades.stoa.org/places/138484)
+
+
 ## GEO ID 23243: Tarbelli
 [http://www.trismegistos.org/place/23243](http://www.trismegistos.org/place/23243)  
 
@@ -13540,6 +13554,13 @@
 
 ### alignments:
  - [Syme (island)](https://pleiades.stoa.org/places/599951)
+
+
+## GEO ID 33241
+[http://www.trismegistos.org/place/33241](http://www.trismegistos.org/place/33241)  
+
+### alignments:
+ - [Gyaros (island)](https://pleiades.stoa.org/places/589797)
 
 
 ## GEO ID 33244: Kinaros

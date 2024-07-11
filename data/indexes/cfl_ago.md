@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-332 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
+335 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -976,6 +976,13 @@
  - [Ialysos](https://pleiades.stoa.org/places/589815)
 
 
+## Toponym 40761: Samos
+[https://chronique.efa.gr/?kroute=topo_public&id=40761](https://chronique.efa.gr/?kroute=topo_public&id=40761)  
+
+### alignments:
+ - [Samos (island)](https://pleiades.stoa.org/places/599926)
+
+
 ## Toponym 41079: Keros, Keria, Karos, Kereia
 [https://chronique.efa.gr/?kroute=topo_public&id=41079](https://chronique.efa.gr/?kroute=topo_public&id=41079)  
 
@@ -1002,6 +1009,13 @@
 
 ### alignments:
  - [Asea](https://pleiades.stoa.org/places/570122)
+
+
+## Toponym 41492: Gyaros, Nisos Yioura
+[https://chronique.efa.gr/?kroute=topo_public&id=41492](https://chronique.efa.gr/?kroute=topo_public&id=41492)  
+
+### alignments:
+ - [Gyaros (island)](https://pleiades.stoa.org/places/589797)
 
 
 ## Toponym 41531: Melos, Nisos Milos, Zefyria
@@ -2062,6 +2076,13 @@
 
 ### alignments:
  - [(Nea) Paphos](https://pleiades.stoa.org/places/707586)
+
+
+## Toponyme 6061: Lepreon, Strofiltsi, Strovitsi
+[https://chronique.efa.gr/?kroute=topo_public&id=6061](https://chronique.efa.gr/?kroute=topo_public&id=6061)  
+
+### alignments:
+ - [Lepreon](https://pleiades.stoa.org/places/570423)
 
 
 ## Toponyme 60758: Kition Citium Kitium

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3440 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
+3440 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -20009,6 +20009,7 @@
 [https://topostext.org/place/377269PSam](https://topostext.org/place/377269PSam)  
 
 ### alignments:
+ - [Samos (island)](https://pleiades.stoa.org/places/599926)
  - [Samos (settlement)](https://pleiades.stoa.org/places/599925)
 
 

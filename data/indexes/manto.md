@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-505 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
+510 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1128,6 +1128,13 @@
  - [Bady (river)](https://pleiades.stoa.org/places/573137)
 
 
+## 10215556: Lepreon
+[https://resource.manto.unh.edu/10215556](https://resource.manto.unh.edu/10215556)  
+
+### alignments:
+ - [Lepreon](https://pleiades.stoa.org/places/570423)
+
+
 ## 10215572: Spring Arene (Elis) near Lepreon
 [https://resource.manto.unh.edu/10215572](https://resource.manto.unh.edu/10215572)  
 
@@ -1639,6 +1646,13 @@
  - [Babylon](https://pleiades.stoa.org/places/893951)
 
 
+## 11302746: the House of Cacios (Rome)
+[https://resource.manto.unh.edu/11302746](https://resource.manto.unh.edu/11302746)  
+
+### alignments:
+ - [Atrium Caci](https://pleiades.stoa.org/places/35711529)
+
+
 ## 11302797: Poseidonia (Italy)
 [https://resource.manto.unh.edu/11302797](https://resource.manto.unh.edu/11302797)  
 
@@ -1808,6 +1822,13 @@
  - [Astyra](https://pleiades.stoa.org/places/501364)
 
 
+## 11311843: the Aventine Hill (Rome)
+[https://resource.manto.unh.edu/11311843](https://resource.manto.unh.edu/11311843)  
+
+### alignments:
+ - [Aventinus mons](https://pleiades.stoa.org/places/865014139)
+
+
 ## 11312457: Ophryneion (Troad)
 [https://resource.manto.unh.edu/11312457](https://resource.manto.unh.edu/11312457)  
 
@@ -1953,6 +1974,20 @@
 
 ### alignments:
  - [Ara Maxima Herculis](https://pleiades.stoa.org/places/207271757)
+
+
+## 11320079: Private Dwelling VII 4, 22-23 (Pompeii)
+[https://resource.manto.unh.edu/11320079](https://resource.manto.unh.edu/11320079)  
+
+### alignments:
+ - [Shop with dwelling (VII.4.22)](https://pleiades.stoa.org/places/743364991)
+
+
+## 11320309: Baths of Caracalla (Rome)
+[https://resource.manto.unh.edu/11320309](https://resource.manto.unh.edu/11320309)  
+
+### alignments:
+ - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
 
 
 ## 8188816: Epidauros (Argolid)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3592 alignments exist in _Pleiades_ place references as of 2024-07-10. The following list of alignments is grouped by zotkey.
+3598 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -918,6 +918,13 @@
 
 ### alignments:
  - [Klepsydra](https://pleiades.stoa.org/places/538107005)
+
+
+## Atrium of Cacus (Q127328176)
+[https://www.wikidata.org/wiki/Q127328176](https://www.wikidata.org/wiki/Q127328176)  
+
+### alignments:
+ - [Atrium Caci](https://pleiades.stoa.org/places/35711529)
 
 
 ## Attica (Q122443)
@@ -2342,6 +2349,13 @@
  - [Galatia](https://pleiades.stoa.org/places/619161)
 
 
+## Gallo-Roman sanctuary, Puy-Lautard (Q22951437)
+[https://www.wikidata.org/wiki/Q22951437](https://www.wikidata.org/wiki/Q22951437)  
+
+### alignments:
+ - [Puy-Lautard](https://pleiades.stoa.org/places/138527)
+
+
 ## Gallo-Roman theatre of Sanxay (Q28971473)
 [https://www.wikidata.org/wiki/Q28971473](https://www.wikidata.org/wiki/Q28971473)  
 
@@ -2501,6 +2515,13 @@
 
 ### alignments:
  - [Elaitikos Sinus](https://pleiades.stoa.org/places/550525)
+
+
+## Gyaros (Q1147663)
+[https://www.wikidata.org/wiki/Q1147663](https://www.wikidata.org/wiki/Q1147663)  
+
+### alignments:
+ - [Gyaros (island)](https://pleiades.stoa.org/places/589797)
 
 
 ## Hadrian's Library (Q1455447)
@@ -23534,6 +23555,13 @@
  - [Samnite Sanctuary at Pietrabbondante](https://pleiades.stoa.org/places/433025)
 
 
+## Samos (Q156882)
+[https://www.wikidata.org/wiki/Q156882](https://www.wikidata.org/wiki/Q156882)  
+
+### alignments:
+ - [Samos (island)](https://pleiades.stoa.org/places/599926)
+
+
 ## Samothrace temple complex (Q1791563)
 [https://www.wikidata.org/wiki/Q1791563](https://www.wikidata.org/wiki/Q1791563)  
 
@@ -23819,6 +23847,13 @@
 
 ### alignments:
  - [Chatby Necropolis](https://pleiades.stoa.org/places/941771942)
+
+
+## Shop with dwelling (VII.4.22) (Q27686910)
+[https://www.wikidata.org/wiki/Q27686910](https://www.wikidata.org/wiki/Q27686910)  
+
+### alignments:
+ - [Shop with dwelling (VII.4.22)](https://pleiades.stoa.org/places/743364991)
 
 
 ## Shortugai (Q1550221)
@@ -24457,6 +24492,13 @@
 
 ### alignments:
  - [Theangela](https://pleiades.stoa.org/places/599969)
+
+
+## Theatre of Clunia Sulpicia (Q7777503)
+[https://www.wikidata.org/wiki/Q7777503](https://www.wikidata.org/wiki/Q7777503)  
+
+### alignments:
+ - [Teatro Clunia](https://pleiades.stoa.org/places/930330531)
 
 
 ## Theatre of Cyrrhus (Q70772478)
