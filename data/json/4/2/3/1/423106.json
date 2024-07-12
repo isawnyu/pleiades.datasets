@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.87111,
-        41.56472,
-        12.87111,
-        41.56472
+        12.872907,
+        41.5606427,
+        12.8756576,
+        41.5627075
     ],
     "connections": [
         {
@@ -128,18 +128,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.87111,
-                    41.56472
+                    [
+                        12.8736003,
+                        41.5627075
+                    ],
+                    [
+                        12.8756576,
+                        41.5611584
+                    ],
+                    [
+                        12.8749638,
+                        41.5606427
+                    ],
+                    [
+                        12.872907,
+                        41.5621922
+                    ],
+                    [
+                        12.8736003,
+                        41.5627075
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "dare-location",
+            "id": "osm-location-of-tres-tabernae",
             "properties": {
-                "description": "Representative point location, village precision",
-                "link": "https://pleiades.stoa.org/places/423106/dare-location",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/423106/osm-location-of-tres-tabernae",
                 "location_precision": "precise",
-                "snippet": "Station; 330 BC - AD 640",
-                "title": "DARE Location"
+                "snippet": "Archaeological-site, Station; 330 BC - AD 640",
+                "title": "OSM location of Tres Tabernae"
             },
             "type": "Feature"
         }
@@ -240,8 +258,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -266,78 +284,104 @@
                 }
             ],
             "contributors": [],
-            "created": "2012-10-20T23:47:14Z",
+            "created": "2024-06-25T08:02:38Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Representative point location, village precision",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 640,
             "featureType": [
+                "archaeological-site",
                 "station"
             ],
             "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
                 "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
             "geometry": {
                 "coordinates": [
-                    12.87111,
-                    41.56472
+                    [
+                        12.8736003,
+                        41.5627075
+                    ],
+                    [
+                        12.8756576,
+                        41.5611584
+                    ],
+                    [
+                        12.8749638,
+                        41.5606427
+                    ],
+                    [
+                        12.872907,
+                        41.5621922
+                    ],
+                    [
+                        12.8736003,
+                        41.5627075
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2012-10-20T23:47:15Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-07-11T17:40:23Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2012-10-20T23:47:15Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-06-25T08:03:17Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-                    "modified": "2012-10-20T23:47:15Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-06-25T08:03:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-06-25T08:02:38Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2012-10-20T23:47:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-06-25T08:02:38Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "dare-location",
+            "id": "osm-location-of-tres-tabernae",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
                 "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
-            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "provenance": "OpenStreetMap (Way 1083776318, version 3, osm:changeset=153144364, 2024-06-25T08:02:13Z)",
             "references": [
                 {
-                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1083776318",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "citationDetail": "Way 1083776318",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1083776318",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARE Location",
-            "uri": "https://pleiades.stoa.org/places/423106/dare-location"
+            "title": "OSM location of Tres Tabernae",
+            "uri": "https://pleiades.stoa.org/places/423106/osm-location-of-tres-tabernae"
         }
     ],
     "names": [
@@ -680,8 +724,8 @@
         }
     ],
     "reprPoint": [
-        12.87111,
-        41.56472
+        12.874282278683129,
+        41.56167513388507
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

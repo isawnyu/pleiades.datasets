@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.4841869,
-        40.7507464,
-        14.4841869,
-        40.7507464
+        14.4844954,
+        40.7500994,
+        14.4846183,
+        40.7501507
     ],
     "connections": [
         {
@@ -79,18 +79,44 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.4841869,
-                    40.7507464
+                    [
+                        14.4844954,
+                        40.7501214
+                    ],
+                    [
+                        14.4845557,
+                        40.750137
+                    ],
+                    [
+                        14.4846084,
+                        40.7501507
+                    ],
+                    [
+                        14.4846183,
+                        40.7501287
+                    ],
+                    [
+                        14.4845673,
+                        40.7501155
+                    ],
+                    [
+                        14.4845053,
+                        40.7500994
+                    ],
+                    [
+                        14.4844954,
+                        40.7501214
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "arco-onorario",
+            "id": "osm-location-of-arco-onorario",
             "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/795615129/arco-onorario",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/795615129/osm-location-of-arco-onorario",
                 "location_precision": "precise",
-                "snippet": "Arch, ; 30 BC - AD 300",
-                "title": "OSM location of so-called \"Arco Onorario\""
+                "snippet": "Arch; AD 1 - AD 99",
+                "title": "OSM location of Arco Onorario"
             },
             "type": "Feature"
         }
@@ -148,18 +174,20 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-ce"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2024-06-15T15:18:37Z",
+            "creators": [
                 {
                     "homepage": null,
                     "name": "Jeffrey Becker",
@@ -167,96 +195,100 @@
                     "username": "jbecker"
                 }
             ],
-            "created": "2015-05-29T11:06:31Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Athanasia Varveri",
-                    "uri": "https://pleiades.stoa.org/author/avarveri",
-                    "username": "avarveri"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 99,
             "featureType": [
-                "arch",
-                ""
+                "arch"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/arch",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
             "geometry": {
                 "coordinates": [
-                    14.4841869,
-                    40.7507464
+                    [
+                        14.4844954,
+                        40.7501214
+                    ],
+                    [
+                        14.4845557,
+                        40.750137
+                    ],
+                    [
+                        14.4846084,
+                        40.7501507
+                    ],
+                    [
+                        14.4846183,
+                        40.7501287
+                    ],
+                    [
+                        14.4845673,
+                        40.7501155
+                    ],
+                    [
+                        14.4845053,
+                        40.7500994
+                    ],
+                    [
+                        14.4844954,
+                        40.7501214
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2015-08-04T14:41:19Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2024-07-11T17:36:59Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2015-08-04T14:41:13Z",
+                    "modified": "2024-06-15T15:19:08Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "added reference",
-                    "modified": "2015-06-24T21:18:57Z",
+                    "comment": "supersedes previously published location whose underlying OSM data is now deprecated",
+                    "modified": "2024-06-15T15:19:03Z",
                     "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2015-05-29T11:09:21Z",
-                    "modifiedBy": "avarveri"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2015-05-29T11:07:06Z",
-                    "modifiedBy": "avarveri"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2015-05-29T11:06:36Z",
-                    "modifiedBy": "avarveri"
+                    "modified": "2024-06-15T15:18:37Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2015-05-29T11:06:33Z",
-                    "modifiedBy": "avarveri"
+                    "modified": "2024-06-15T15:18:37Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "arco-onorario",
+            "id": "osm-location-of-arco-onorario",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/arch",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
-            "provenance": "OpenStreetMap (Way 192721895, version 1, osm:changeset=14034387, 2012-11-25T18:39:27Z)",
+            "provenance": "OpenStreetMap (Way 192699311, version 3, osm:changeset=115529073, 2021-12-29T16:52:32Z)",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/way/192721895#map=19/40.75029/14.48477",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/192699311",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
+                    "citationDetail": "Way 192699311",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:way=192721895",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "formattedCitation": "osm:way=192699311",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "OSM location of so-called \"Arco Onorario\"",
-            "uri": "https://pleiades.stoa.org/places/795615129/arco-onorario"
+            "start": 1,
+            "title": "OSM location of Arco Onorario",
+            "uri": "https://pleiades.stoa.org/places/795615129/osm-location-of-arco-onorario"
         }
     ],
     "names": [],
@@ -292,8 +324,8 @@
         }
     ],
     "reprPoint": [
-        14.4841869,
-        40.7507464
+        14.484556850574904,
+        40.75012504778435
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
