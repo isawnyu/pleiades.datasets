@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-335 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
+341 alignments exist in _Pleiades_ place references as of 2024-07-12. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -330,6 +330,13 @@
  - [Kastri Livadiou ancient settlement](https://pleiades.stoa.org/places/897490752)
 
 
+## Report 5031: AGIOS KONSTANTINOS, Mamousia - 2006
+[https://chronique.efa.gr/?kroute=report&id=5031](https://chronique.efa.gr/?kroute=report&id=5031)  
+
+### alignments:
+ - [Hellenistic Funerary Monument (Keryneia)](https://pleiades.stoa.org/places/814820460)
+
+
 ## Report 5103: KARTHAIA
 [https://chronique.efa.gr/?kroute=report&id=5103](https://chronique.efa.gr/?kroute=report&id=5103)  
 
@@ -370,6 +377,13 @@
 
 ### alignments:
  - [Kastro Phaneromenis/Kastro Kochylou](https://pleiades.stoa.org/places/451513645)
+
+
+## Reports 12962: STELIDA - 2019
+[https://chronique.efa.gr/?kroute=report&id=12962](https://chronique.efa.gr/?kroute=report&id=12962)  
+
+### alignments:
+ - [Stelida](https://pleiades.stoa.org/places/507121565)
 
 
 ## THÈBES DE PHTHIOTIDE. - Théâtre - 2010
@@ -1018,6 +1032,13 @@
  - [Gyaros (island)](https://pleiades.stoa.org/places/589797)
 
 
+## Toponym 41514: Naxos, Dia
+[https://chronique.efa.gr/?kroute=topo_public&id=41514](https://chronique.efa.gr/?kroute=topo_public&id=41514)  
+
+### alignments:
+ - [Naxos (island)](https://pleiades.stoa.org/places/599822)
+
+
 ## Toponym 41531: Melos, Nisos Milos, Zefyria
 [https://chronique.efa.gr/?kroute=topo_public&id=41531](https://chronique.efa.gr/?kroute=topo_public&id=41531)  
 
@@ -1037,6 +1058,13 @@
 
 ### alignments:
  - [Mykonos (island)](https://pleiades.stoa.org/places/599808)
+
+
+## Toponym 41589: Kythnos, Thermia
+[https://chronique.efa.gr/?kroute=topo_public&id=41589](https://chronique.efa.gr/?kroute=topo_public&id=41589)  
+
+### alignments:
+ - [Kythnos (island)](https://pleiades.stoa.org/places/570403)
 
 
 ## Toponym 41635: Mykonos, Chora, Kamenaki
@@ -2134,6 +2162,13 @@
  - [Phalasarna](https://pleiades.stoa.org/places/589989)
 
 
+## Toponyme 67540: Stelida
+[https://chronique.efa.gr/?kroute=topo_public&id=67540](https://chronique.efa.gr/?kroute=topo_public&id=67540)  
+
+### alignments:
+ - [Stelida](https://pleiades.stoa.org/places/507121565)
+
+
 ## Toponyme 67631: Klima
 [https://chronique.efa.gr/?kroute=topo_public&id=67631](https://chronique.efa.gr/?kroute=topo_public&id=67631)  
 
@@ -2202,6 +2237,13 @@
 
 ### alignments:
  - [Hephaistia](https://pleiades.stoa.org/places/550569)
+
+
+## Toponyme 70023: Strophilas
+[https://chronique.efa.gr/?kroute=topo_public&id=70023](https://chronique.efa.gr/?kroute=topo_public&id=70023)  
+
+### alignments:
+ - [Strophilas ](https://pleiades.stoa.org/places/392437877)
 
 
 ## Toponyme 70031: Epidaurus Limera

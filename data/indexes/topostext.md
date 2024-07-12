@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3440 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
+3442 alignments exist in _Pleiades_ place references as of 2024-07-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3513,6 +3513,13 @@
  - [Aternum](https://pleiades.stoa.org/places/413039)
 
 
+## Athena Alea (Arkadia) 11 Alea - Αθηνά Αλέα
+[https://topostext.org/place/375224SAth](https://topostext.org/place/375224SAth)  
+
+### alignments:
+ - [Temple of Athena Alea at Tegea](https://pleiades.stoa.org/places/372843530)
+
+
 ## Athena Archigetis Gate (Athens)
 [https://topostext.org/place/380237BAth](https://topostext.org/place/380237BAth)  
 
@@ -5219,6 +5226,13 @@
 
 ### alignments:
  - [Priscilla](https://pleiades.stoa.org/places/423016)
+
+
+## Catacomb of San Sebastiano (Rome)
+[https://topostext.org/place/419125GSSe](https://topostext.org/place/419125GSSe)  
+
+### alignments:
+ - [Catacombe di San Sebastiano](https://pleiades.stoa.org/places/743154153)
 
 
 ## catacombs (Melos) Tripiti
@@ -12082,6 +12096,7 @@
 [https://topostext.org/place/374244PKyt](https://topostext.org/place/374244PKyt)  
 
 ### alignments:
+ - [Kythnos (island)](https://pleiades.stoa.org/places/570403)
  - [Kythnos](https://pleiades.stoa.org/places/570402)
 
 
@@ -15000,6 +15015,7 @@
 [https://topostext.org/place/371255INax](https://topostext.org/place/371255INax)  
 
 ### alignments:
+ - [Naxos (island)](https://pleiades.stoa.org/places/599822)
  - [Naxos (settlement)](https://pleiades.stoa.org/places/599821)
 
 

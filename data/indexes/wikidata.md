@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3598 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
+3613 alignments exist in _Pleiades_ place references as of 2024-07-12. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -420,6 +420,13 @@
 
 ### alignments:
  - [Corsica/Kyrnos (island)](https://pleiades.stoa.org/places/472063)
+
+
+## Ancient Gela (Q58008539)
+[https://www.wikidata.org/wiki/Q58008539](https://www.wikidata.org/wiki/Q58008539)  
+
+### alignments:
+ - [Gela](https://pleiades.stoa.org/places/462214)
 
 
 ## Ancient Greek theatre of Eretria (Q20552028)
@@ -934,6 +941,13 @@
  - [Attica](https://pleiades.stoa.org/places/579888)
 
 
+## Auguratorium (Q107353667)
+[https://www.wikidata.org/wiki/Q107353667](https://www.wikidata.org/wiki/Q107353667)  
+
+### alignments:
+ - [Auguratorium](https://pleiades.stoa.org/places/989620426)
+
+
 ## Augusta Bagiennorum amphitheatre (Q28977997)
 [https://www.wikidata.org/wiki/Q28977997](https://www.wikidata.org/wiki/Q28977997)  
 
@@ -1403,11 +1417,25 @@
  - [House of Anicetus](https://pleiades.stoa.org/places/850954730)
 
 
+## Casa di Cecilio Giocondo (Q3661299)
+[https://www.wikidata.org/wiki/Q3661299](https://www.wikidata.org/wiki/Q3661299)  
+
+### alignments:
+ - [House of Caecilius Jucundus](https://pleiades.stoa.org/places/495398788)
+
+
 ## Casa di Pane (Q27688146)
 [https://www.wikidata.org/wiki/Q27688146](https://www.wikidata.org/wiki/Q27688146)  
 
 ### alignments:
  - [Casa di Pane](https://pleiades.stoa.org/places/722871113)
+
+
+## Casa Romuli (Q1046434)
+[https://www.wikidata.org/wiki/Q1046434](https://www.wikidata.org/wiki/Q1046434)  
+
+### alignments:
+ - [Tugurium Romuli](https://pleiades.stoa.org/places/251058809)
 
 
 ## Caselette Roman villa (Q125163027)
@@ -1527,6 +1555,13 @@
 
 ### alignments:
  - [Otzenhausen Hillfort](https://pleiades.stoa.org/places/109042)
+
+
+## Cento Camerelle (Q859383)
+[https://www.wikidata.org/wiki/Q859383](https://www.wikidata.org/wiki/Q859383)  
+
+### alignments:
+ - [Cento Camerelle (Bacoli)](https://pleiades.stoa.org/places/632219266)
 
 
 ## Ceramus (Q1054607)
@@ -2699,6 +2734,13 @@
  - [Horti Spei Veteris](https://pleiades.stoa.org/places/874244230)
 
 
+## Hospitium (I.1.3) (Q27055760)
+[https://www.wikidata.org/wiki/Q27055760](https://www.wikidata.org/wiki/Q27055760)  
+
+### alignments:
+ - [Hospitium (I.1.3) ](https://pleiades.stoa.org/places/865766495)
+
+
 ## House of Bacchus and Ariadne (Q1047006)
 [https://www.wikidata.org/wiki/Q1047006](https://www.wikidata.org/wiki/Q1047006)  
 
@@ -2809,6 +2851,13 @@
 
 ### alignments:
  - [House of the Painters at Work](https://pleiades.stoa.org/places/746630758)
+
+
+## House of via Graziosa (Q3279805)
+[https://www.wikidata.org/wiki/Q3279805](https://www.wikidata.org/wiki/Q3279805)  
+
+### alignments:
+ - [Unnamed domus in Via Graziosa](https://pleiades.stoa.org/places/405322395)
 
 
 ## Hvar (Q5993)
@@ -3277,6 +3326,7 @@
 [https://www.wikidata.org/wiki/Q739779](https://www.wikidata.org/wiki/Q739779)  
 
 ### alignments:
+ - [Kythnos (island)](https://pleiades.stoa.org/places/570403)
  - [Kythnos](https://pleiades.stoa.org/places/570402)
 
 
@@ -3530,6 +3580,13 @@
 
 ### alignments:
  - [Makra Teiche](https://pleiades.stoa.org/places/585128)
+
+
+## Longovicium (Q6674222)
+[https://www.wikidata.org/wiki/Q6674222](https://www.wikidata.org/wiki/Q6674222)  
+
+### alignments:
+ - [Longovicium](https://pleiades.stoa.org/places/89230)
 
 
 ## Loukkos River (Q52598)
@@ -4027,6 +4084,13 @@
 
 ### alignments:
  - [Naxos (settlement)](https://pleiades.stoa.org/places/599821)
+
+
+## Naxos Island (Q188527)
+[https://www.wikidata.org/wiki/Q188527](https://www.wikidata.org/wiki/Q188527)  
+
+### alignments:
+ - [Naxos (island)](https://pleiades.stoa.org/places/599822)
 
 
 ## Nea Anchialos (Q583647)
@@ -5975,13 +6039,6 @@
 
 ### alignments:
  - [domus Philippi](https://pleiades.stoa.org/places/600787940)
-
-
-## Q107713881: vicus vitrarius
-[https://www.wikidata.org/wiki/Q107713881](https://www.wikidata.org/wiki/Q107713881)  
-
-### alignments:
- - [vicus vitrarius](https://pleiades.stoa.org/places/88851260)
 
 
 ## Q107851220: Temple of Zeus Aglaios
@@ -15213,6 +15270,13 @@
  - [Sallentini](https://pleiades.stoa.org/places/442762)
 
 
+## Q3471734: Sanctuary of Cybèle
+[https://www.wikidata.org/wiki/Q3471734](https://www.wikidata.org/wiki/Q3471734)  
+
+### alignments:
+ - [Sanctuary of Cybèle](https://pleiades.stoa.org/places/41413690)
+
+
 ## Q3471739
 [https://www.wikidata.org/wiki/Q3471739](https://www.wikidata.org/wiki/Q3471739)  
 
@@ -20852,13 +20916,6 @@
  - [Kyz Kala](https://pleiades.stoa.org/places/61601089)
 
 
-## Q6674222
-[https://www.wikidata.org/wiki/Q6674222](https://www.wikidata.org/wiki/Q6674222)  
-
-### alignments:
- - [Longovicium](https://pleiades.stoa.org/places/89230)
-
-
 ## Q66813871: Eye of Lileika
 [https://www.wikidata.org/wiki/Q66813871](https://www.wikidata.org/wiki/Q66813871)  
 
@@ -22777,6 +22834,13 @@
  - [Pons Fabricius](https://pleiades.stoa.org/places/68481414)
 
 
+## Q94522462: Apollo Ptoios
+[https://www.wikidata.org/wiki/Q94522462](https://www.wikidata.org/wiki/Q94522462)  
+
+### alignments:
+ - [Sanctuary of Ptoan Apollo](https://pleiades.stoa.org/places/541078)
+
+
 ## Q94592884: Tomb of Eumachia
 [https://www.wikidata.org/wiki/Q94592884](https://www.wikidata.org/wiki/Q94592884)  
 
@@ -23751,6 +23815,13 @@
  - [Kriou Metopon Pr.](https://pleiades.stoa.org/places/226671)
 
 
+## Scalae Caci (Q3951416)
+[https://www.wikidata.org/wiki/Q3951416](https://www.wikidata.org/wiki/Q3951416)  
+
+### alignments:
+ - [Scalae caci](https://pleiades.stoa.org/places/606719480)
+
+
 ## Scarbantia (Q12902033)
 [https://www.wikidata.org/wiki/Q12902033](https://www.wikidata.org/wiki/Q12902033)  
 
@@ -23980,6 +24051,13 @@
 
 ### alignments:
  - [Horologium Augusti](https://pleiades.stoa.org/places/986274170)
+
+
+## Somapura Mahavihara (Q305044)
+[https://www.wikidata.org/wiki/Q305044](https://www.wikidata.org/wiki/Q305044)  
+
+### alignments:
+ - [Somapura Mahavihara](https://pleiades.stoa.org/places/510167491)
 
 
 ## Southeast Temple (Q24204674)
@@ -24277,6 +24355,13 @@
  - [Temple of Athena at Assos](https://pleiades.stoa.org/places/989985817)
 
 
+## Temple of Athena Alea (Tegea) (Q3983230)
+[https://www.wikidata.org/wiki/Q3983230](https://www.wikidata.org/wiki/Q3983230)  
+
+### alignments:
+ - [Temple of Athena Alea at Tegea](https://pleiades.stoa.org/places/372843530)
+
+
 ## Temple of Athena at Cape Sounion (Q24204542)
 [https://www.wikidata.org/wiki/Q24204542](https://www.wikidata.org/wiki/Q24204542)  
 
@@ -24527,6 +24612,13 @@
 
 ### alignments:
  - [Theater of Nero](https://pleiades.stoa.org/places/406270378)
+
+
+## Theatre of Tegea (Q17581805)
+[https://www.wikidata.org/wiki/Q17581805](https://www.wikidata.org/wiki/Q17581805)  
+
+### alignments:
+ - [Theater of Tegea](https://pleiades.stoa.org/places/953624202)
 
 
 ## Theatre of Zea (Q28217926)
@@ -24964,6 +25056,13 @@
  - [Tempe](https://pleiades.stoa.org/places/541131)
 
 
+## Vatican Necropolis (Q2119637)
+[https://www.wikidata.org/wiki/Q2119637](https://www.wikidata.org/wiki/Q2119637)  
+
+### alignments:
+ - [Vatican necropolis](https://pleiades.stoa.org/places/975276180)
+
+
 ## Velian Hill (Q967948)
 [http://www.wikidata.org/entity/Q967948](http://www.wikidata.org/entity/Q967948)  
 
@@ -25040,6 +25139,13 @@
 
 ### alignments:
  - [Vicus Matrini](https://pleiades.stoa.org/places/413381)
+
+
+## vicus vitrarius (Q107713881)
+[https://www.wikidata.org/wiki/Q107713881](https://www.wikidata.org/wiki/Q107713881)  
+
+### alignments:
+ - [vicus vitrarius](https://pleiades.stoa.org/places/88851260)
 
 
 ## Villa dei Casoni (Q27961117)

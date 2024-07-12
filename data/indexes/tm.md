@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3550 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
+3555 alignments exist in _Pleiades_ place references as of 2024-07-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -176,6 +176,13 @@
 
 ### alignments:
  - [Neapolis/Lepcis Magna](https://pleiades.stoa.org/places/344448)
+
+
+## Geo 1204: Kythnos
+[http://www.trismegistos.org/place/1204](http://www.trismegistos.org/place/1204)  
+
+### alignments:
+ - [Kythnos (island)](https://pleiades.stoa.org/places/570403)
 
 
 ## Geo 1204: Kythnos
@@ -1980,6 +1987,13 @@
 
 ### alignments:
  - [Eretria](https://pleiades.stoa.org/places/579925)
+
+
+## Geo 702: Gela
+[http://www.trismegistos.org/place/702](http://www.trismegistos.org/place/702)  
+
+### alignments:
+ - [Gela](https://pleiades.stoa.org/places/462214)
 
 
 ## Geo 7518: Tenedos (Bozcaada)
@@ -4780,6 +4794,13 @@
 
 ### alignments:
  - [Isca Dumnoniorum](https://pleiades.stoa.org/places/79531)
+
+
+## GEO ID 14543: Longovicium (Lanchester)
+[http://www.trismegistos.org/place/14543](http://www.trismegistos.org/place/14543)  
+
+### alignments:
+ - [Longovicium](https://pleiades.stoa.org/places/89230)
 
 
 ## GEO ID 14546: Cunetio (Mildenhall)
@@ -21049,6 +21070,13 @@
  - [Fundus Caelanus](https://pleiades.stoa.org/places/978853094)
 
 
+## GEO ID 44805: Fundus Flaminianus
+[http://www.trismegistos.org/place/44805](http://www.trismegistos.org/place/44805)  
+
+### alignments:
+ - [Fundus Flaminianus](https://pleiades.stoa.org/places/215361873)
+
+
 ## GEO ID 44853: Amanos (Nur Dağları)
 [http://www.trismegistos.org/place/44853](http://www.trismegistos.org/place/44853)  
 
@@ -23346,6 +23374,13 @@
 
 ### alignments:
  - [Pylos](https://pleiades.stoa.org/places/570639)
+
+
+## GEO ID 61245: Kastraki
+[https://www.trismegistos.org/place/61245](https://www.trismegistos.org/place/61245)  
+
+### alignments:
+ - [Sanctuary of Ptoan Apollo](https://pleiades.stoa.org/places/541078)
 
 
 ## GEO ID 61300: Arrolos

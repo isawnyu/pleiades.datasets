@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-510 alignments exist in _Pleiades_ place references as of 2024-07-11. The following list of alignments is grouped by zotkey.
+516 alignments exist in _Pleiades_ place references as of 2024-07-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1177,6 +1177,20 @@
  - [Palatinus Mons](https://pleiades.stoa.org/places/971691208)
 
 
+## 10266956: Rome
+[https://resource.manto.unh.edu/10266956](https://resource.manto.unh.edu/10266956)  
+
+### alignments:
+ - [Roma](https://pleiades.stoa.org/places/423025)
+
+
+## 10266964: Gela
+[https://resource.manto.unh.edu/10266964](https://resource.manto.unh.edu/10266964)  
+
+### alignments:
+ - [Gela](https://pleiades.stoa.org/places/462214)
+
+
 ## 10267115: The Sanctuary of Apollo and Artemis (Didyma)
 [https://resource.manto.unh.edu/10267115](https://resource.manto.unh.edu/10267115)  
 
@@ -1695,6 +1709,13 @@
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
 
 
+## 11306299: the Steps of Cacios (Rome)
+[https://resource.manto.unh.edu/11306299](https://resource.manto.unh.edu/11306299)  
+
+### alignments:
+ - [Scalae caci](https://pleiades.stoa.org/places/606719480)
+
+
 ## 11306302: Lake Avernus (Italy)
 [https://resource.manto.unh.edu/11306302](https://resource.manto.unh.edu/11306302)  
 
@@ -1960,6 +1981,13 @@
 
 ### alignments:
  - [House of the Ara Maxima](https://pleiades.stoa.org/places/340380318)
+
+
+## 11319759: House in the Via Graziosa (Rome)
+[https://resource.manto.unh.edu/11319759](https://resource.manto.unh.edu/11319759)  
+
+### alignments:
+ - [Unnamed domus in Via Graziosa](https://pleiades.stoa.org/places/405322395)
 
 
 ## 11319931: Forum Boarium (Rome)
@@ -2957,6 +2985,13 @@
  - [Acarnania](https://pleiades.stoa.org/places/530767)
 
 
+## 9614063: the Sanctuary of Athena Alea (Tegea)
+[https://resource.manto.unh.edu/9614063](https://resource.manto.unh.edu/9614063)  
+
+### alignments:
+ - [Temple of Athena Alea at Tegea](https://pleiades.stoa.org/places/372843530)
+
+
 ## 9615905: The Troad (region around Troy)
 [https://resource.manto.unh.edu/9615905](https://resource.manto.unh.edu/9615905)  
 
@@ -3564,6 +3599,13 @@
 
 ### alignments:
  - [Selleis (river)](https://pleiades.stoa.org/places/501604)
+
+
+## the Sanctuary of Apollo Ptoios (Boiotia)
+[https://resource.manto.unh.edu/10055555](https://resource.manto.unh.edu/10055555)  
+
+### alignments:
+ - [Sanctuary of Ptoan Apollo](https://pleiades.stoa.org/places/541078)
 
 
 ## Theisoa (Arcadia)
