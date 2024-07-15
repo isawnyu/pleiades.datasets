@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3555 alignments exist in _Pleiades_ place references as of 2024-07-12. The following list of alignments is grouped by zotkey.
+3564 alignments exist in _Pleiades_ place references as of 2024-07-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -673,6 +673,13 @@
  - [Telmessos](https://pleiades.stoa.org/places/639137)
 
 
+## Geo 2304: Temnos (Görece)
+[https://www.trismegistos.org/place/2304](https://www.trismegistos.org/place/2304)  
+
+### alignments:
+ - [Temnos](https://pleiades.stoa.org/places/550908)
+
+
 ## Geo 2346: Thasos
 [https://www.trismegistos.org/place/2346](https://www.trismegistos.org/place/2346)  
 
@@ -1344,6 +1351,13 @@
 
 ### alignments:
  - [Asea](https://pleiades.stoa.org/places/570122)
+
+
+## Geo 37681: Gortys
+[https://www.trismegistos.org/place/37681](https://www.trismegistos.org/place/37681)  
+
+### alignments:
+ - [Gortys](https://pleiades.stoa.org/places/570267)
 
 
 ## Geo 37682: Heraia
@@ -4817,7 +4831,7 @@
  - [Regulbium](https://pleiades.stoa.org/places/79654)
 
 
-## GEO ID 14553
+## GEO ID 14553: Abona (Sea Mills)
 [https://www.trismegistos.org/place/14553](https://www.trismegistos.org/place/14553)  
 
 ### alignments:
@@ -8262,6 +8276,13 @@
  - [Alebaece Reiorum Apollinarium/Apollinaris Reiorum/Reii](https://pleiades.stoa.org/places/157805)
 
 
+## GEO ID 21224
+[http://www.trismegistos.org/place/21224](http://www.trismegistos.org/place/21224)  
+
+### alignments:
+ - [Carcas(s)o/Col. Iulia](https://pleiades.stoa.org/places/246294)
+
+
 ## GEO ID 21242: Sostomagus (Castelnaudary)
 [https://www.trismegistos.org/place/21242](https://www.trismegistos.org/place/21242)  
 
@@ -9410,6 +9431,13 @@
  - [Asciburgium](https://pleiades.stoa.org/places/108761)
 
 
+## GEO ID 24571: Confluentes (Koblenz)
+[http://www.trismegistos.org/place/24571](http://www.trismegistos.org/place/24571)  
+
+### alignments:
+ - [Confluentes](https://pleiades.stoa.org/places/108903)
+
+
 ## GEO ID 2458: Touphion (Tod)
 [http://www.trismegistos.org/place/2458](http://www.trismegistos.org/place/2458)  
 
@@ -9429,6 +9457,13 @@
 
 ### alignments:
  - [Novaesium](https://pleiades.stoa.org/places/109215)
+
+
+## GEO ID 24626: Rigomagus (Remagen)
+[http://www.trismegistos.org/place/24626](http://www.trismegistos.org/place/24626)  
+
+### alignments:
+ - [Rigomagus](https://pleiades.stoa.org/places/109281)
 
 
 ## GEO ID 24629: Arenacum (Rindern)
@@ -10040,6 +10075,13 @@
  - [Lopodunum](https://pleiades.stoa.org/places/118813)
 
 
+## GEO ID 26924: Antunnacum (Andernach)
+[http://www.trismegistos.org/place/26924](http://www.trismegistos.org/place/26924)  
+
+### alignments:
+ - [Antunnacum](https://pleiades.stoa.org/places/108746)
+
+
 ## GEO ID 26934: Cruciniacum (Bad Kreuznach)
 [http://www.trismegistos.org/place/26934](http://www.trismegistos.org/place/26934)  
 
@@ -10430,6 +10472,13 @@
 
 ### alignments:
  - [Lenzburg](https://pleiades.stoa.org/places/177557)
+
+
+## GEO ID 28087: Vitudurum (Oberwinterthur)
+[http://www.trismegistos.org/place/28087](http://www.trismegistos.org/place/28087)  
+
+### alignments:
+ - [Vitudurum](https://pleiades.stoa.org/places/187624)
 
 
 ## GEO ID 2809: Titis (Qertassi)
@@ -12322,6 +12371,13 @@
 
 ### alignments:
  - [Vettona](https://pleiades.stoa.org/places/413377)
+
+
+## GEO ID 32265
+[http://www.trismegistos.org/place/32265](http://www.trismegistos.org/place/32265)  
+
+### alignments:
+ - [Urvinum Mataurense](https://pleiades.stoa.org/places/413366)
 
 
 ## GEO ID 32271: Castrimoenium (Marino)
@@ -21887,6 +21943,13 @@
 
 ### alignments:
  - [Thospia/Bouana/‘Ospa’/Ṭušpa](https://pleiades.stoa.org/places/874771)
+
+
+## GEO ID 47971
+[http://www.trismegistos.org/place/47971](http://www.trismegistos.org/place/47971)  
+
+### alignments:
+ - [Crac des Chevaliers](https://pleiades.stoa.org/places/587486981)
 
 
 ## GEO ID 47982: Eriza (Erzincan)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-516 alignments exist in _Pleiades_ place references as of 2024-07-12. The following list of alignments is grouped by zotkey.
+518 alignments exist in _Pleiades_ place references as of 2024-07-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1191,11 +1191,25 @@
  - [Gela](https://pleiades.stoa.org/places/462214)
 
 
+## 10267106: Temnos
+[https://resource.manto.unh.edu/10267106](https://resource.manto.unh.edu/10267106)  
+
+### alignments:
+ - [Temnos](https://pleiades.stoa.org/places/550908)
+
+
 ## 10267115: The Sanctuary of Apollo and Artemis (Didyma)
 [https://resource.manto.unh.edu/10267115](https://resource.manto.unh.edu/10267115)  
 
 ### alignments:
  - [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
+
+
+## 10267364: Gortyna
+[https://resource.manto.unh.edu/10267364](https://resource.manto.unh.edu/10267364)  
+
+### alignments:
+ - [Gortys](https://pleiades.stoa.org/places/570267)
 
 
 ## 10267540: Ionia region in western Asia Minor

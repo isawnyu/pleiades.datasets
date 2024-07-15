@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3613 alignments exist in _Pleiades_ place references as of 2024-07-12. The following list of alignments is grouped by zotkey.
+3620 alignments exist in _Pleiades_ place references as of 2024-07-15. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -2083,6 +2083,13 @@
  - [Visigothic necropolis, Duratón](https://pleiades.stoa.org/places/581247661)
 
 
+## Durnomagus (Q1267419)
+[https://www.wikidata.org/wiki/Q1267419](https://www.wikidata.org/wiki/Q1267419)  
+
+### alignments:
+ - [Durnomagus](https://pleiades.stoa.org/places/108941)
+
+
 ## Early Christian Basilica of Lechaeum (Q56398333)
 [https://www.wikidata.org/wiki/Q56875671](https://www.wikidata.org/wiki/Q56875671)  
 
@@ -2363,6 +2370,13 @@
  - [Aurelium Cananefatium/Forum Hadriani](https://pleiades.stoa.org/places/98918)
 
 
+## Forum of Augustus (Q770797)
+[https://www.wikidata.org/wiki/Q770797](https://www.wikidata.org/wiki/Q770797)  
+
+### alignments:
+ - [Forum Augusti](https://pleiades.stoa.org/places/47606496)
+
+
 ## Fratte Hill archaeological site (Salerno, Italy) (Q3621981)
 [https://www.wikidata.org/wiki/Q3621981](https://www.wikidata.org/wiki/Q3621981)  
 
@@ -2508,6 +2522,13 @@
 
 ### alignments:
  - [Golgoi](https://pleiades.stoa.org/places/707512)
+
+
+## Gortys (Arcadia) (Q1538431)
+[https://www.wikidata.org/wiki/Q1538431](https://www.wikidata.org/wiki/Q1538431)  
+
+### alignments:
+ - [Gortys](https://pleiades.stoa.org/places/570267)
 
 
 ## Greek Theatre at Hadrian's Villa (Q56513543)
@@ -21812,13 +21833,6 @@
  - [Hatti (region)](https://pleiades.stoa.org/places/56567731)
 
 
-## Q770797: Forum of Augustus
-[https://www.wikidata.org/wiki/Q770797](https://www.wikidata.org/wiki/Q770797)  
-
-### alignments:
- - [Forum Augusti](https://pleiades.stoa.org/places/47606496)
-
-
 ## Q770847: Mausoleum of Augustus
 [https://www.wikidata.org/wiki/Q770847](https://www.wikidata.org/wiki/Q770847)  
 
@@ -23324,6 +23338,13 @@
  - [Helvia Ricina](https://pleiades.stoa.org/places/413166)
 
 
+## Rigomagus (Q3431966)
+[https://www.wikidata.org/wiki/Q3431966](https://www.wikidata.org/wiki/Q3431966)  
+
+### alignments:
+ - [Rigomagus](https://pleiades.stoa.org/places/109281)
+
+
 ## Rizinia (Q1650066)
 [https://www.wikidata.org/wiki/Q1650066](https://www.wikidata.org/wiki/Q1650066)  
 
@@ -23948,6 +23969,13 @@
  - [Sicilia (island)](https://pleiades.stoa.org/places/462492)
 
 
+## Sifnos (Q212029)
+[https://www.wikidata.org/wiki/Q212029](https://www.wikidata.org/wiki/Q212029)  
+
+### alignments:
+ - [Siphnos (island)](https://pleiades.stoa.org/places/590049)
+
+
 ## Sigron (Q65121169)
 [https://www.wikidata.org/wiki/Q65121169](https://www.wikidata.org/wiki/Q65121169)  
 
@@ -24172,6 +24200,13 @@
  - [Strongylo Aqueduct bridge](https://pleiades.stoa.org/places/650138313)
 
 
+## Su Nuraxi di Barumini (Q253241)
+[https://www.wikidata.org/wiki/Q253241](https://www.wikidata.org/wiki/Q253241)  
+
+### alignments:
+ - [Su Nuraxi di Barumini](https://pleiades.stoa.org/places/948291971)
+
+
 ## Susa (Q180773)
 [https://www.wikidata.org/wiki/Q180773](https://www.wikidata.org/wiki/Q180773)  
 
@@ -24297,6 +24332,13 @@
 
 ### alignments:
  - [Temenion](https://pleiades.stoa.org/places/570710)
+
+
+## Temnos (Q376084)
+[https://www.wikidata.org/wiki/Q376084](https://www.wikidata.org/wiki/Q376084)  
+
+### alignments:
+ - [Temnos](https://pleiades.stoa.org/places/550908)
 
 
 ## Temple of Apollo (Corinth)
@@ -25146,6 +25188,13 @@
 
 ### alignments:
  - [vicus vitrarius](https://pleiades.stoa.org/places/88851260)
+
+
+## Vicus Wareswald (Q2522913)
+[https://www.wikidata.org/wiki/Q2522913](https://www.wikidata.org/wiki/Q2522913)  
+
+### alignments:
+ - [Tholey-Vareswald](https://pleiades.stoa.org/places/109377)
 
 
 ## Villa dei Casoni (Q27961117)

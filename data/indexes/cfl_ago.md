@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-341 alignments exist in _Pleiades_ place references as of 2024-07-12. The following list of alignments is grouped by zotkey.
+343 alignments exist in _Pleiades_ place references as of 2024-07-15. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1074,6 +1074,13 @@
  - [Mykonos (settlement)](https://pleiades.stoa.org/places/599807)
 
 
+## Toponym 41656: Siphnos, Sifnos, Meropi, Siphanto
+[https://chronique.efa.gr/?kroute=topo_public&id=41656](https://chronique.efa.gr/?kroute=topo_public&id=41656)  
+
+### alignments:
+ - [Siphnos (island)](https://pleiades.stoa.org/places/590049)
+
+
 ## Toponym 41665: Paros, Paroikia
 [https://chronique.efa.gr/?kroute=topo_public&id=41665](https://chronique.efa.gr/?kroute=topo_public&id=41665)  
 
@@ -1086,6 +1093,13 @@
 
 ### alignments:
  - [Seriphos (island)](https://pleiades.stoa.org/places/590044)
+
+
+## Toponym 42568: Chios, Scio, Sakiz Adasi, Pityousa
+[https://chronique.efa.gr/?kroute=topo_public&id=42568](https://chronique.efa.gr/?kroute=topo_public&id=42568)  
+
+### alignments:
+ - [Chios (island)](https://pleiades.stoa.org/places/550497)
 
 
 ## Toponym 43355: Lemnos
