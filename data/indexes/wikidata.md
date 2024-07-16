@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3620 alignments exist in _Pleiades_ place references as of 2024-07-15. The following list of alignments is grouped by zotkey.
+3620 alignments exist in _Pleiades_ place references as of 2024-07-16. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  

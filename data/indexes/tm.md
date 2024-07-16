@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3564 alignments exist in _Pleiades_ place references as of 2024-07-15. The following list of alignments is grouped by zotkey.
+3567 alignments exist in _Pleiades_ place references as of 2024-07-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4859,6 +4859,13 @@
  - [Turret 45A (Walltown)](https://pleiades.stoa.org/places/967060344)
 
 
+## GEO ID 14561: Durocornovium (Wanborough)
+[http://www.trismegistos.org/place/14561](http://www.trismegistos.org/place/14561)  
+
+### alignments:
+ - [Durocornovium](https://pleiades.stoa.org/places/79435)
+
+
 ## GEO ID 14567: Pons Aelii (Newcastle upon Tyne)
 [http://www.trismegistos.org/place/14567](http://www.trismegistos.org/place/14567)  
 
@@ -8087,6 +8094,13 @@
  - [Roma](https://pleiades.stoa.org/places/423025)
 
 
+## GEO ID 20592: Aquae Sextiae (Aix-les-Bains)
+[http://www.trismegistos.org/place/20592](http://www.trismegistos.org/place/20592)  
+
+### alignments:
+ - [Aquae Sextiae](https://pleiades.stoa.org/places/167650)
+
+
 ## GEO ID 205: Antiocheia (Antakya)
 [http://www.trismegistos.org/place/205](http://www.trismegistos.org/place/205)  
 
@@ -10054,7 +10068,7 @@
  - [Asturica (Augusta)](https://pleiades.stoa.org/places/236352)
 
 
-## GEO ID 26856
+## GEO ID 26856: Legio VII Gemina (León)
 [https://www.trismegistos.org/place/26856](https://www.trismegistos.org/place/26856)  
 
 ### alignments:
@@ -10711,6 +10725,13 @@
 
 ### alignments:
  - [Faviana](https://pleiades.stoa.org/places/118673)
+
+
+## GEO ID 28623
+[http://www.trismegistos.org/place/28623](http://www.trismegistos.org/place/28623)  
+
+### alignments:
+ - [‘In Murio’](https://pleiades.stoa.org/places/187420)
 
 
 ## GEO ID 2871: Paneuei
