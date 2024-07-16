@@ -32,3 +32,7 @@ nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z BCQIKDKS -f markd
 # https://www.zotero.org/groups/2533/items/TN3GJAU8
 nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z TN3GJAU8 -f json > $PD_HOME/data/indexes/tm.json
 nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z TN3GJAU8 -f markdown -g zotkey > $PD_HOME/data/indexes/tm.md
+
+# Paus. (Spiro: Perseus)
+nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z GTGBFEI9 -f json > $PD_HOME/data/indexes/paus-spiro-perseus.json
+nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z GTGBFEI9 -f markdown -g zotkey > $PD_HOME/data/indexes/paus-spiro-perseus.md
