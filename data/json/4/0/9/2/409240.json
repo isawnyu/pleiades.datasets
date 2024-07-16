@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        10.4763463,
+        43.5582559,
+        10.4770088,
+        43.5585435
+    ],
     "connections": [],
     "connectsWith": [
         "https://pleiades.stoa.org/places/502042016"
@@ -40,14 +45,38 @@
     "details": "<p>The Barrington Atlas Directory notes: road station near Pisae</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    [
+                        10.4763783,
+                        43.558482
+                    ],
+                    [
+                        10.4763463,
+                        43.5582986
+                    ],
+                    [
+                        10.4770008,
+                        43.5582559
+                    ],
+                    [
+                        10.4770088,
+                        43.5585435
+                    ],
+                    [
+                        10.4763783,
+                        43.558482
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-parco-archeologico-di-torretta",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/409240/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/409240/osm-location-of-parco-archeologico-di-torretta",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site, Station; 30 BC - AD 300",
+                "title": "OSM location of Parco archeologico di Torretta Vecchia"
             },
             "type": "Feature"
         }
@@ -113,87 +142,139 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-15T18:59:10Z",
+            "contributors": [],
+            "created": "2022-12-03T20:48:57Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "archaeological-site",
+                "station"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    [
+                        10.4763783,
+                        43.558482
+                    ],
+                    [
+                        10.4763463,
+                        43.5582986
+                    ],
+                    [
+                        10.4770008,
+                        43.5582559
+                    ],
+                    [
+                        10.4770088,
+                        43.5585435
+                    ],
+                    [
+                        10.4763783,
+                        43.558482
+                    ]
+                ],
+                "type": "LineString"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:46:28Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-15T19:06:28Z",
+                    "modified": "2024-07-15T20:13:45Z",
                     "modifiedBy": "thomase"
                 },
                 {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-06-30T16:10:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "wikipedia",
+                    "modified": "2022-12-03T20:50:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Submit for review",
-                    "modified": "2010-11-15T19:02:38Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2022-12-03T20:49:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2022-12-03T20:49:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2022-12-03T20:48:57Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-15T18:59:10Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2022-12-03T20:48:57Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-parco-archeologico-di-torretta",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
             ],
-            "provenance": "Barrington Atlas: BAtlas 41 Turrita",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 985616305, version 1, osm:changeset=111512863, 2021-09-21T19:54:50Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/985616305",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 985616305",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=985616305",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://it.wikipedia.org/wiki/Mansio_di_Torretta_Vecchia",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UMFZH98D",
+                    "citationDetail": "Mansio di Torretta Vecchia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: L’enciclopedia libera e collaborativa</i>. Wikimedia Foundation, 2001. https://it.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Italian)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": 300,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/409240/batlas-location"
+            "start": -30,
+            "title": "OSM location of Parco archeologico di Torretta Vecchia",
+            "uri": "https://pleiades.stoa.org/places/409240/osm-location-of-parco-archeologico-di-torretta"
         }
     ],
     "names": [
@@ -339,7 +420,10 @@
             "type": "citesAsEvidence"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        10.47670192266032,
+        43.558393774856064
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],

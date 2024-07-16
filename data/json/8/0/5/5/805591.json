@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.190286,
-        16.570227,
-        33.190286,
-        16.570227
+        33.1124,
+        16.5106027,
+        33.1131626,
+        16.511335
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    33.190286,
-                    16.570227
+                    [
+                        33.1126652,
+                        16.511335
+                    ],
+                    [
+                        33.1124,
+                        16.5108557
+                    ],
+                    [
+                        33.1128975,
+                        16.5106027
+                    ],
+                    [
+                        33.1131626,
+                        16.5110821
+                    ],
+                    [
+                        33.1126652,
+                        16.511335
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-21409",
+            "id": "osm-location-of-wad-ban-naqa",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/805591/darmc-location-21409",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/805591/osm-location-of-wad-ban-naqa",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 21409"
+                "snippet": "Architecturalcomplex, Ruin; 330 BC - AD 300",
+                "title": "OSM location of Wad ban Naqa"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-07-15T20:59:36Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-05-14T19:44:37Z",
@@ -121,15 +144,15 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "hellenistic-republican",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
                 },
@@ -140,87 +163,110 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:36:36Z",
+            "contributors": [],
+            "created": "2024-05-14T19:43:20Z",
             "creators": [
                 {
-                    "name": "N.B. Millet",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21409",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "architecturalcomplex",
+                "ruin"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
             "geometry": {
                 "coordinates": [
-                    33.190286,
-                    16.570227
+                    [
+                        33.1126652,
+                        16.511335
+                    ],
+                    [
+                        33.1124,
+                        16.5108557
+                    ],
+                    [
+                        33.1128975,
+                        16.5106027
+                    ],
+                    [
+                        33.1131626,
+                        16.5110821
+                    ],
+                    [
+                        33.1126652,
+                        16.511335
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:35:41Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:15:43Z",
+                    "modified": "2024-07-15T20:59:05Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T00:36:38Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-06-15T03:27:53Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:36:37Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2024-06-15T03:27:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-05-14T19:43:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-05-14T19:43:22Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T00:36:36Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-05-14T19:43:20Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21409",
+            "id": "osm-location-of-wad-ban-naqa",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
-            "provenance": "DARMC OBJECTID: 21409",
+            "provenance": "OpenStreetMap (Way 1282993616, version 1, osm:changeset=151329613, 2024-05-14T19:41:32Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1282993616",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21409",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1282993616",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21409.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1282993616",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 21409",
-            "uri": "https://pleiades.stoa.org/places/805591/darmc-location-21409"
+            "title": "OSM location of Wad ban Naqa",
+            "uri": "https://pleiades.stoa.org/places/805591/osm-location-of-wad-ban-naqa"
         }
     ],
     "names": [
@@ -359,11 +405,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21409",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        33.190286,
-        16.570227
+        33.112781321337316,
+        16.510968858192765
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

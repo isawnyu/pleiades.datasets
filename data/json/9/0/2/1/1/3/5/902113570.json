@@ -1,8 +1,8 @@
 {
     "@type": "Place",
     "bbox": [
-        68.138889,
-        27.329167,
+        68.1365933,
+        27.321657,
         68.138889,
         27.329167
     ],
@@ -31,18 +31,36 @@
         {
             "geometry": {
                 "coordinates": [
+                    68.1365933,
+                    27.321657
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-mohenjo-daro",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/902113570/osm-location-of-mohenjo-daro",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site, Settlement; 3000 BC - 2000 BC",
+                "title": "OSM location of Mohenjo-daro"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     68.138889,
                     27.329167
                 ],
                 "type": "Point"
             },
-            "id": "approximate-centerpoint-of-archaeological-site",
+            "id": "imagery-location-approximate-centerpoint-of-archaeological-site",
             "properties": {
                 "description": "verified in Google Earth 2012",
-                "link": "https://pleiades.stoa.org/places/902113570/approximate-centerpoint-of-archaeological-site",
+                "link": "https://pleiades.stoa.org/places/902113570/imagery-location-approximate-centerpoint-of-archaeological-site",
                 "location_precision": "precise",
-                "snippet": "; 3000 BC - 2000 BC",
-                "title": "Approximate centerpoint of archaeological site"
+                "snippet": "Unknown; 3000 BC - 2000 BC",
+                "title": "Imagery Location: Approximate centerpoint of archaeological site"
             },
             "type": "Feature"
         }
@@ -88,6 +106,103 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "3rd-millennium-bc",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-07-14T14:32:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": -2000,
+            "featureType": [
+                "archaeological-site",
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    68.1365933,
+                    27.321657
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-07-15T19:55:51Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-07-14T14:33:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-07-14T14:33:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-07-14T14:32:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-07-14T14:32:23Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-mohenjo-daro",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "OpenStreetMap (Node 253161850, version 13, osm:changeset=143081908, 2023-10-24T20:05:24Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/253161850",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 253161850",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=253161850",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -3000,
+            "title": "OSM location of Mohenjo-daro",
+            "uri": "https://pleiades.stoa.org/places/902113570/osm-location-of-mohenjo-daro"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
@@ -101,7 +216,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/3rd-millennium-bc"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2012-11-30T16:28:59Z",
             "creators": [
                 {
@@ -114,12 +236,8 @@
             "description": "verified in Google Earth 2012",
             "details": "",
             "end": -2000,
-            "featureType": [
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     68.138889,
@@ -128,6 +246,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "central point",
+                    "modified": "2024-07-15T19:56:48Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "adjusted chronology",
                     "modified": "2013-05-19T20:56:02Z",
@@ -159,19 +282,17 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "approximate-centerpoint-of-archaeological-site",
+            "id": "imagery-location-approximate-centerpoint-of-archaeological-site",
             "locationType": [
-                "representative"
+                "central_point"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "locationTypeURI": [],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": -3000,
-            "title": "Approximate centerpoint of archaeological site",
-            "uri": "https://pleiades.stoa.org/places/902113570/approximate-centerpoint-of-archaeological-site"
+            "title": "Imagery Location: Approximate centerpoint of archaeological site",
+            "uri": "https://pleiades.stoa.org/places/902113570/imagery-location-approximate-centerpoint-of-archaeological-site"
         }
     ],
     "names": [
@@ -370,8 +491,8 @@
         }
     ],
     "reprPoint": [
-        68.138889,
-        27.329167
+        68.13774115000001,
+        27.325412
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
