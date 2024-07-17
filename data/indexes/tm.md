@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3567 alignments exist in _Pleiades_ place references as of 2024-07-16. The following list of alignments is grouped by zotkey.
+3567 alignments exist in _Pleiades_ place references as of 2024-07-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -20228,7 +20228,7 @@
  - [Forum Novum](https://pleiades.stoa.org/places/383656)
 
 
-## GEO ID 43244
+## GEO ID 43244: Forum Novum (Fornovo S. Giovanni)
 [https://www.trismegistos.org/place/43244](https://www.trismegistos.org/place/43244)  
 
 ### alignments:

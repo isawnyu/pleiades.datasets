@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3620 alignments exist in _Pleiades_ place references as of 2024-07-16. The following list of alignments is grouped by zotkey.
+3623 alignments exist in _Pleiades_ place references as of 2024-07-17. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -4903,6 +4903,13 @@
 
 ### alignments:
  - [Ad Medias](https://pleiades.stoa.org/places/432629)
+
+
+## Porta di Stabia (Q125810167)
+[https://www.wikidata.org/wiki/Q125810167](https://www.wikidata.org/wiki/Q125810167)  
+
+### alignments:
+ - [Stabian Gate](https://pleiades.stoa.org/places/260329425)
 
 
 ## Porta Metronia (Q1964646)
@@ -16061,13 +16068,6 @@
  - [Samnite House](https://pleiades.stoa.org/places/214908564)
 
 
-## Q3661653: Case romane del Celio
-[https://www.wikidata.org/wiki/Q3661653](https://www.wikidata.org/wiki/Q3661653)  
-
-### alignments:
- - [Case Romane del Celio](https://pleiades.stoa.org/places/445192365)
-
-
 ## Q3662995: Castellum aquae
 [https://www.wikidata.org/wiki/Q3662995](https://www.wikidata.org/wiki/Q3662995)  
 
@@ -16143,6 +16143,13 @@
 
 ### alignments:
  - [Catacombs of San Senatore](https://pleiades.stoa.org/places/789855015)
+
+
+## Q3663213
+[https://www.wikidata.org/wiki/Q3663213](https://www.wikidata.org/wiki/Q3663213)  
+
+### alignments:
+ - [Catacomba di San Giovanni](https://pleiades.stoa.org/places/560149180)
 
 
 ## Q3663214: Vigna Randanini
@@ -23416,6 +23423,13 @@
  - [Roman forum of Col. Clunia (Sulpicia)](https://pleiades.stoa.org/places/838441539)
 
 
+## Roman houses of the Caelian (Q3661653)
+[https://www.wikidata.org/wiki/Q3661653](https://www.wikidata.org/wiki/Q3661653)  
+
+### alignments:
+ - [Case Romane del Celio](https://pleiades.stoa.org/places/445192365)
+
+
 ## Roman manor house (Q2202580)
 [https://www.wikidata.org/wiki/Q2202580](https://www.wikidata.org/wiki/Q2202580)  
 
@@ -24844,6 +24858,13 @@
 
 ### alignments:
  - [Myrgion/Tithion (mountain)](https://pleiades.stoa.org/places/573382)
+
+
+## Tomb of Annedia and Lucius Caesius (Q127510370)
+[https://www.wikidata.org/wiki/Q127510370](https://www.wikidata.org/wiki/Q127510370)  
+
+### alignments:
+ - [Tomb of Annedia and Lucius Caesius](https://pleiades.stoa.org/places/95829693)
 
 
 ## Tomb of Arellia Tertulla (Q29887296)
