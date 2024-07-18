@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3623 alignments exist in _Pleiades_ place references as of 2024-07-17. The following list of alignments is grouped by zotkey.
+3626 alignments exist in _Pleiades_ place references as of 2024-07-18. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -644,6 +644,13 @@
 
 ### alignments:
  - [Arch of Augustus at Aosta](https://pleiades.stoa.org/places/437204184)
+
+
+## Arch of Campanus (Q2023885)
+[https://www.wikidata.org/wiki/Q2023885](https://www.wikidata.org/wiki/Q2023885)  
+
+### alignments:
+ - [Arc de Campanus](https://pleiades.stoa.org/places/614234198)
 
 
 ## Arch of Marcus Aurelius (Q3621785)
@@ -1933,6 +1940,13 @@
 
 ### alignments:
  - [Rusuccuru](https://pleiades.stoa.org/places/295334)
+
+
+## Delos (Q173148)
+[https://www.wikidata.org/wiki/Q173148](https://www.wikidata.org/wiki/Q173148)  
+
+### alignments:
+ - [Delos (settlement)](https://pleiades.stoa.org/places/599587)
 
 
 ## Delphinium (Q60791095)
@@ -24921,6 +24935,13 @@
 
 ### alignments:
  - [Tumba de Servilia (Servilia Tomb)](https://pleiades.stoa.org/places/56416876)
+
+
+## Tomb of Servius Sulpicius Galba (Q127505183)
+[https://www.wikidata.org/wiki/Q127505183](https://www.wikidata.org/wiki/Q127505183)  
+
+### alignments:
+ - [Tomb of Servius Sulpicius Galba](https://pleiades.stoa.org/places/123222198)
 
 
 ## Tomb of the Scipios (Q1540716)

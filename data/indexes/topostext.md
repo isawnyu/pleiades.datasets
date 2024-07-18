@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3442 alignments exist in _Pleiades_ place references as of 2024-07-17. The following list of alignments is grouped by zotkey.
+3442 alignments exist in _Pleiades_ place references as of 2024-07-18. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6194,11 +6194,12 @@
  - [Delion](https://pleiades.stoa.org/places/540725)
 
 
-## Delos (Cyclades)
+## Delos (Cyclades) 392 Dilos - Δήλος
 [https://topostext.org/place/374253PDel](https://topostext.org/place/374253PDel)  
 
 ### alignments:
  - [Delos (island)](https://pleiades.stoa.org/places/599588)
+ - [Delos (settlement)](https://pleiades.stoa.org/places/599587)
 
 
 ## Delphic Oracle, Pytho (Delphi)

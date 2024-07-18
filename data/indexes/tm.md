@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3567 alignments exist in _Pleiades_ place references as of 2024-07-17. The following list of alignments is grouped by zotkey.
+3569 alignments exist in _Pleiades_ place references as of 2024-07-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1847,6 +1847,13 @@
 
 ### alignments:
  - [Imbrasos (river)](https://pleiades.stoa.org/places/599669)
+
+
+## Geo 542: Delos
+[https://www.trismegistos.org/place/542](https://www.trismegistos.org/place/542)  
+
+### alignments:
+ - [Delos (settlement)](https://pleiades.stoa.org/places/599587)
 
 
 ## Geo 54336: Al-Sabaa wa Arbain
@@ -15570,6 +15577,13 @@
 
 ### alignments:
  - [Mases](https://pleiades.stoa.org/places/570463)
+
+
+## GEO ID 37923: Philanoreia
+[https://www.trismegistos.org/place/37923](https://www.trismegistos.org/place/37923)  
+
+### alignments:
+ - [Philanorion](https://pleiades.stoa.org/places/570601)
 
 
 ## GEO ID 37924: Aulon (Kepi Triportit)
