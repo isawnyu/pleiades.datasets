@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.4899262,
-        40.7483501,
-        14.4899262,
-        40.7483501
+        14.4899552,
+        40.7483283,
+        14.4899552,
+        40.7483283
     ],
     "connections": [
         {
@@ -149,7 +149,10 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/433032",
         "https://pleiades.stoa.org/places/824486497",
-        "https://pleiades.stoa.org/places/538911200"
+        "https://pleiades.stoa.org/places/538911200",
+        "https://pleiades.stoa.org/places/71552717",
+        "https://pleiades.stoa.org/places/495101026",
+        "https://pleiades.stoa.org/places/358482340"
     ],
     "contributors": [
         {
@@ -174,18 +177,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.4899262,
-                    40.7483501
+                    14.4899552,
+                    40.7483283
                 ],
                 "type": "Point"
             },
-            "id": "porta-stabia",
+            "id": "osm-location-of-porta-di-stabia",
             "properties": {
-                "description": "Representative location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/260329425/porta-stabia",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/260329425/osm-location-of-porta-di-stabia",
                 "location_precision": "precise",
-                "snippet": "City-gate, ; 30 BC - AD 300",
-                "title": "OSM location of Porta Stabia"
+                "snippet": "City-gate; 100 BC - AD 99",
+                "title": "OSM location of Porta di Stabia"
             },
             "type": "Feature"
         }
@@ -255,11 +258,19 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "first-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-bce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-ce"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2024-07-16T19:55:45Z",
+            "creators": [
                 {
                     "homepage": null,
                     "name": "Jeffrey Becker",
@@ -267,101 +278,74 @@
                     "username": "jbecker"
                 }
             ],
-            "created": "2015-06-02T12:46:15Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Athanasia Varveri",
-                    "uri": "https://pleiades.stoa.org/author/avarveri",
-                    "username": "avarveri"
-                }
-            ],
-            "description": "Representative location based on OpenStreetMap.",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 99,
             "featureType": [
-                "city-gate",
-                ""
+                "city-gate"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/city-gate",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
             ],
             "geometry": {
                 "coordinates": [
-                    14.4899262,
-                    40.7483501
+                    14.4899552,
+                    40.7483283
                 ],
                 "type": "Point"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2016-03-12T22:12:16Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2024-07-17T10:37:01Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2016-02-20T14:18:22Z",
+                    "modified": "2024-07-16T19:56:22Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2016-02-20T14:17:44Z",
+                    "comment": "supersedes previously published location whose underlying OSM data is now deprecated",
+                    "modified": "2024-07-16T19:56:18Z",
                     "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2015-06-24T16:39:09Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2015-06-02T12:48:21Z",
-                    "modifiedBy": "avarveri"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2015-06-02T12:46:48Z",
-                    "modifiedBy": "avarveri"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2015-06-02T12:46:17Z",
-                    "modifiedBy": "avarveri"
+                    "modified": "2024-07-16T19:55:46Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2015-06-02T12:46:17Z",
-                    "modifiedBy": "avarveri"
+                    "modified": "2024-07-16T19:55:45Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "porta-stabia",
+            "id": "osm-location-of-porta-di-stabia",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/city-gate",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/city-gate"
             ],
-            "provenance": "OpenStreetMap (Node 3566062058, version 2, osm:changeset=31662794, 2015-06-02T12:41:35Z)",
+            "provenance": "OpenStreetMap (Node 305070757, version 12, osm:changeset=154029892, 2024-07-16T19:18:35Z)",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/node/3566062058#map=19/40.74835/14.48992",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/305070757",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
+                    "citationDetail": "Node 305070757",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=/3566062058",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "formattedCitation": "osm:node=305070757",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "OSM location of Porta Stabia",
-            "uri": "https://pleiades.stoa.org/places/260329425/porta-stabia"
+            "start": -100,
+            "title": "OSM location of Porta di Stabia",
+            "uri": "https://pleiades.stoa.org/places/260329425/osm-location-of-porta-di-stabia"
         }
     ],
     "names": [],
@@ -474,8 +458,8 @@
         }
     ],
     "reprPoint": [
-        14.4899262,
-        40.7483501
+        14.4899552,
+        40.7483283
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
