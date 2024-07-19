@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        81.008119,
-        7.932882,
-        81.008119,
-        7.932882
+        81.0008382,
+        7.9469273,
+        81.0019565,
+        7.9480255
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/50298",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:34:57Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located on",
+                    "modified": "2024-07-18T19:32:04Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:34:57Z",
@@ -54,7 +66,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/50298"
+        "https://pleiades.stoa.org/places/50298",
+        "https://pleiades.stoa.org/places/847284570"
     ],
     "contributors": [
         {
@@ -79,23 +92,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    81.008119,
-                    7.932882
+                    [
+                        81.0008508,
+                        7.9480068
+                    ],
+                    [
+                        81.0008382,
+                        7.9469304
+                    ],
+                    [
+                        81.0016636,
+                        7.9469273
+                    ],
+                    [
+                        81.0019565,
+                        7.9480255
+                    ],
+                    [
+                        81.0008508,
+                        7.9480068
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "location-of-polonnaruwa",
+            "id": "osm-location-of-polonnaruwa-quadrangle",
             "properties": {
-                "description": "verified in Google Earth 2012",
-                "link": "https://pleiades.stoa.org/places/348371058/location-of-polonnaruwa",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/348371058/osm-location-of-polonnaruwa-quadrangle",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; AD 640 - AD 1453",
-                "title": "location of Polonnaruwa"
+                "snippet": "Archaeological-site",
+                "title": "OSM location of Polonnaruwa Quadrangle"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added Wikidata reference",
+            "modified": "2024-07-18T19:33:44Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update UWHS",
             "modified": "2021-12-03T18:32:06Z",
@@ -136,21 +172,14 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
-            "accuracy_value": 5.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "mediaeval-byzantine",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
-                }
-            ],
+            "attestations": [],
             "contributors": [],
-            "created": "2012-12-29T03:28:41Z",
+            "created": "2024-07-18T13:39:54Z",
             "creators": [
                 {
                     "homepage": null,
@@ -159,78 +188,102 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "verified in Google Earth 2012",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 1453,
+            "end": null,
             "featureType": [
-                "settlement",
-                ""
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    81.008119,
-                    7.932882
+                    [
+                        81.0008508,
+                        7.9480068
+                    ],
+                    [
+                        81.0008382,
+                        7.9469304
+                    ],
+                    [
+                        81.0016636,
+                        7.9469273
+                    ],
+                    [
+                        81.0019565,
+                        7.9480255
+                    ],
+                    [
+                        81.0008508,
+                        7.9480068
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2013-01-21T00:08:48Z",
+                    "modified": "2024-07-18T19:31:43Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2013-01-20T20:09:44Z",
+                    "modified": "2024-07-18T13:40:25Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "edited coordinates",
-                    "modified": "2013-01-20T20:09:37Z",
+                    "comment": "supersedes previously published location.",
+                    "modified": "2024-07-18T13:40:14Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2012-12-29T03:29:20Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2012-12-29T03:28:43Z",
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-07-18T13:39:54Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2012-12-29T03:28:41Z",
+                    "modified": "2024-07-18T13:39:54Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-polonnaruwa",
+            "id": "osm-location-of-polonnaruwa-quadrangle",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Pleiades",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 1011920999, version 2, osm:changeset=116604968, 2022-01-25T23:27:13Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1011920999",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1011920999",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1011920999",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": 640,
-            "title": "location of Polonnaruwa",
-            "uri": "https://pleiades.stoa.org/places/348371058/location-of-polonnaruwa"
+            "start": null,
+            "title": "OSM location of Polonnaruwa Quadrangle",
+            "uri": "https://pleiades.stoa.org/places/348371058/osm-location-of-polonnaruwa-quadrangle"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -255,11 +308,22 @@
             "otherIdentifier": " ",
             "shortTitle": "WHL",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q7225955",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Polonnaruwa Vatadage (Q7225955)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        81.008119,
-        7.932882
+        81.00133944621713,
+        7.9475093461190465
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
