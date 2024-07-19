@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3442 alignments exist in _Pleiades_ place references as of 2024-07-18. The following list of alignments is grouped by zotkey.
+3444 alignments exist in _Pleiades_ place references as of 2024-07-19. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7284,6 +7284,13 @@
  - [Encheleioi](https://pleiades.stoa.org/places/481829)
 
 
+## Enetoi (Italy) 91 Veneto - Ενετοί
+[https://topostext.org/place/457120REne](https://topostext.org/place/457120REne)  
+
+### alignments:
+ - [Venetia (region)](https://pleiades.stoa.org/places/393511)
+
+
 ## Engyon (Sicily)
 [https://topostext.org/place/378146PEng](https://topostext.org/place/378146PEng)  
 
@@ -10997,7 +11004,7 @@
 [https://topostext.org/place/378228LKel](https://topostext.org/place/378228LKel)  
 
 ### alignments:
- - [Kelossa M.](https://pleiades.stoa.org/places/570345)
+ - [Kelossa (mountain)](https://pleiades.stoa.org/places/570345)
 
 
 ## Kenchreai (Argolid)
@@ -19585,6 +19592,13 @@
  - [Rheneia (settlement)](https://pleiades.stoa.org/places/599918)
 
 
+## Rhenus river (Gallia) 431 Rhine - Ρήνος
+[https://topostext.org/place/507071WRhi](https://topostext.org/place/507071WRhi)  
+
+### alignments:
+ - [Rhenus (river)](https://pleiades.stoa.org/places/109277)
+
+
 ## Rhithymna (Rethymno)
 [https://topostext.org/place/354245URhi](https://topostext.org/place/354245URhi)  
 
@@ -21174,6 +21188,7 @@
 
 ### alignments:
  - [Monastery of Saint Simeon Stylites](https://pleiades.stoa.org/places/658606)
+ - [Qal’at Sem’an/Church of Saint Simeon Stylites](https://pleiades.stoa.org/places/336554371)
 
 
 ## Stabiae (Italy)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3626 alignments exist in _Pleiades_ place references as of 2024-07-18. The following list of alignments is grouped by zotkey.
+3635 alignments exist in _Pleiades_ place references as of 2024-07-19. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1625,6 +1625,13 @@
 
 ### alignments:
  - [Starosel Monumental Tomb](https://pleiades.stoa.org/places/655392792)
+
+
+## Church of Saint Nicholas Orphanos (Q1504317)
+[https://www.wikidata.org/wiki/Q1504317](https://www.wikidata.org/wiki/Q1504317)  
+
+### alignments:
+ - [Church of St. Nicholas Orphanos](https://pleiades.stoa.org/places/74062405)
 
 
 ## Church of Sant'Ilario a Port'Aurea (Q3672838)
@@ -3838,7 +3845,7 @@
 [https://www.wikidata.org/wiki/Q16332483](https://www.wikidata.org/wiki/Q16332483)  
 
 ### alignments:
- - [Kelossa M.](https://pleiades.stoa.org/places/570345)
+ - [Kelossa (mountain)](https://pleiades.stoa.org/places/570345)
 
 
 ## Meinarti Island (Q49658086)
@@ -4819,6 +4826,13 @@
 
 ### alignments:
  - [Pogon](https://pleiades.stoa.org/places/570622)
+
+
+## Polonnaruwa Vatadage (Q7225955)
+[https://www.wikidata.org/wiki/Q7225955](https://www.wikidata.org/wiki/Q7225955)  
+
+### alignments:
+ - [Polonnaruwa](https://pleiades.stoa.org/places/348371058)
 
 
 ## Polyandrion of the Thespians (Q94626879)
@@ -6417,6 +6431,7 @@
 
 ### alignments:
  - [Monastery of Saint Simeon Stylites](https://pleiades.stoa.org/places/658606)
+ - [Qal’at Sem’an/Church of Saint Simeon Stylites](https://pleiades.stoa.org/places/336554371)
 
 
 ## Q111381364: Casalotti Roman villa
@@ -23479,6 +23494,20 @@
  - [Roman theater at Ferentinum](https://pleiades.stoa.org/places/705896050)
 
 
+## Roman Theatre at Bosra (Q3056297)
+[https://www.wikidata.org/wiki/Q3056297](https://www.wikidata.org/wiki/Q3056297)  
+
+### alignments:
+ - [Roman Theater at Bosra](https://pleiades.stoa.org/places/188349326)
+
+
+## Roman Theatre of Anzio (Q3982364)
+[https://www.wikidata.org/wiki/Q3982364](https://www.wikidata.org/wiki/Q3982364)  
+
+### alignments:
+ - [Roman theater at Antium](https://pleiades.stoa.org/places/224930295)
+
+
 ## Roman Theatre of Augusta Raurica (Q3527590)
 [https://www.wikidata.org/wiki/Q3527590](https://www.wikidata.org/wiki/Q3527590)  
 
@@ -23841,6 +23870,13 @@
 
 ### alignments:
  - [Sarantaporo ancient settlement](https://pleiades.stoa.org/places/99004197)
+
+
+## Sarazm (Q422929)
+[https://www.wikidata.org/wiki/Q422929](https://www.wikidata.org/wiki/Q422929)  
+
+### alignments:
+ - [Sarazm](https://pleiades.stoa.org/places/85264970)
 
 
 ## Sarno (Q1084625)
@@ -24916,6 +24952,13 @@
  - [Sep. Bibuli](https://pleiades.stoa.org/places/503777175)
 
 
+## Tomb of Gnaeus Alleius Nigidius Maius (Q127510242)
+[https://www.wikidata.org/wiki/Q127510242](https://www.wikidata.org/wiki/Q127510242)  
+
+### alignments:
+ - [Tomb of Nigidius Alleius Maius](https://pleiades.stoa.org/places/495101026)
+
+
 ## Tomb of Kar (Q56397568)
 [https://www.wikidata.org/wiki/Q56397568](https://www.wikidata.org/wiki/Q56397568)  
 
@@ -24923,11 +24966,25 @@
  - [Tomb of Kar (Megarid)](https://pleiades.stoa.org/places/513113841)
 
 
+## Tomb of Marcus Tullius (Q127510222)
+[https://www.wikidata.org/wiki/Q127510222](https://www.wikidata.org/wiki/Q127510222)  
+
+### alignments:
+ - [Tomb of Marcus Tullius](https://pleiades.stoa.org/places/71552717)
+
+
 ## Tomb of Menidi (Q19631492)
 [https://www.wikidata.org/wiki/Q19631492](https://www.wikidata.org/wiki/Q19631492)  
 
 ### alignments:
  - [Tomb of Menidi](https://pleiades.stoa.org/places/137893603)
+
+
+## Tomb of Numerius Agrestinus Equitius Pulcher (Q127510359)
+[https://www.wikidata.org/wiki/Q127510359](https://www.wikidata.org/wiki/Q127510359)  
+
+### alignments:
+ - [Tomb of Numerius Agrestinus Equitius Pulcher](https://pleiades.stoa.org/places/719121735)
 
 
 ## Tomb of Servilia (Q75826742)
@@ -25426,6 +25483,13 @@
 
 ### alignments:
  - [Iulium Carnicum](https://pleiades.stoa.org/places/187430)
+
+
+## Ägelmoos (Q2894013)
+[https://www.wikidata.org/wiki/Q2894013](https://www.wikidata.org/wiki/Q2894013)  
+
+### alignments:
+ - [Ägelmoos](https://pleiades.stoa.org/places/80236838)
 
 
 ## Żejtun Roman villa (Q15949942)

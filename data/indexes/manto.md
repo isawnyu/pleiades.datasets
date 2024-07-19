@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-518 alignments exist in _Pleiades_ place references as of 2024-07-18. The following list of alignments is grouped by zotkey.
+522 alignments exist in _Pleiades_ place references as of 2024-07-19. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1821,6 +1821,20 @@
  - [Ap(p)enninus M.](https://pleiades.stoa.org/places/815)
 
 
+## 11309770: River Rhine
+[https://resource.manto.unh.edu/11309770](https://resource.manto.unh.edu/11309770)  
+
+### alignments:
+ - [Rhenus (river)](https://pleiades.stoa.org/places/109277)
+
+
+## 11309771: River Rhone
+[https://resource.manto.unh.edu/11309771](https://resource.manto.unh.edu/11309771)  
+
+### alignments:
+ - [Rhodanus (river)](https://pleiades.stoa.org/places/148168)
+
+
 ## 11309855: the Gulf of Poseidon (Tyrrhenian Sea)
 [https://resource.manto.unh.edu/11309855](https://resource.manto.unh.edu/11309855)  
 
@@ -1925,6 +1939,13 @@
 
 ### alignments:
  - [Cures](https://pleiades.stoa.org/places/413114)
+
+
+## 11313752: Antium (Italy)
+[https://resource.manto.unh.edu/11313752](https://resource.manto.unh.edu/11313752)  
+
+### alignments:
+ - [Antium](https://pleiades.stoa.org/places/422837)
 
 
 ## 11313780: Lake Acherousia (Italy)
@@ -2822,6 +2843,13 @@
 
 ### alignments:
  - [Anaphe (island)](https://pleiades.stoa.org/places/599492)
+
+
+## 9587596: the Ligurian Sea
+[https://resource.manto.unh.edu/9587596](https://resource.manto.unh.edu/9587596)  
+
+### alignments:
+ - [Ligusticum Mare](https://pleiades.stoa.org/places/157878)
 
 
 ## 9587597: Aigina (island off Attica)

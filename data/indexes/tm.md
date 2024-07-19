@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3569 alignments exist in _Pleiades_ place references as of 2024-07-18. The following list of alignments is grouped by zotkey.
+3573 alignments exist in _Pleiades_ place references as of 2024-07-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2855,6 +2855,13 @@
 
 ### alignments:
  - [Cyrene](https://pleiades.stoa.org/places/373778)
+
+
+## GEO ID 12025: Venetia
+[http://www.trismegistos.org/place/12025](http://www.trismegistos.org/place/12025)  
+
+### alignments:
+ - [Venetia (region)](https://pleiades.stoa.org/places/393511)
 
 
 ## GEO ID 12029: Akmonia (Ahat)
@@ -11196,7 +11203,7 @@
  - [Oescus](https://pleiades.stoa.org/places/216907)
 
 
-## GEO ID 2987
+## GEO ID 2987: Bostra (Bosra)
 [http://www.trismegistos.org/place/2987](http://www.trismegistos.org/place/2987)  
 
 ### alignments:
@@ -14655,6 +14662,13 @@
  - [Patavium](https://pleiades.stoa.org/places/393473)
 
 
+## GEO ID 35083: Rhenus (Rhine)
+[https://www.trismegistos.org/place/35083](https://www.trismegistos.org/place/35083)  
+
+### alignments:
+ - [Rhenus (river)](https://pleiades.stoa.org/places/109277)
+
+
 ## GEO ID 35102: Vicus Bibiensium (Sandweier)
 [https://www.trismegistos.org/place/35102](https://www.trismegistos.org/place/35102)  
 
@@ -14758,6 +14772,13 @@
 
 ### alignments:
  - [*Sioua](https://pleiades.stoa.org/places/776223)
+
+
+## GEO ID 3570: Bosra
+[http://www.trismegistos.org/place/3570](http://www.trismegistos.org/place/3570)  
+
+### alignments:
+ - [Bostra/Col. Nova Traiana Alexandriana](https://pleiades.stoa.org/places/678073)
 
 
 ## GEO ID 3575: Magnesia (Manisa)
@@ -15376,7 +15397,7 @@
  - [Tiryns](https://pleiades.stoa.org/places/570740)
 
 
-## GEO ID 37677
+## GEO ID 37677: Bassai
 [http://www.trismegistos.org/place/37677](http://www.trismegistos.org/place/37677)  
 
 ### alignments:
@@ -23129,6 +23150,13 @@
 
 ### alignments:
  - [Numidia (region)](https://pleiades.stoa.org/places/305120)
+
+
+## GEO ID 60565: Monastery of Saint Symeon
+[https://www.trismegistos.org/place/60565](https://www.trismegistos.org/place/60565)  
+
+### alignments:
+ - [Qal’at Sem’an/Church of Saint Simeon Stylites](https://pleiades.stoa.org/places/336554371)
 
 
 ## GEO ID 6057: Pnoups (Dokki Gel)
