@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-344 alignments exist in _Pleiades_ place references as of 2024-07-19. The following list of alignments is grouped by zotkey.
+345 alignments exist in _Pleiades_ place references as of 2024-07-26. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -20,6 +20,13 @@
 
 ### alignments:
  - [Thermopylae](https://pleiades.stoa.org/places/541140)
+
+
+## 1036: KARLA (LAC DE). - Ancienne Boibéis - 2003
+[https://chronique.efa.gr/?kroute=report&id=1036](https://chronique.efa.gr/?kroute=report&id=1036)  
+
+### alignments:
+ - [Boibe](https://pleiades.stoa.org/places/543654)
 
 
 ## 18568: NEA PAPHOS - 2022

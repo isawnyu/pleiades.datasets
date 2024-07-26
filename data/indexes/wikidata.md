@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3635 alignments exist in _Pleiades_ place references as of 2024-07-19. The following list of alignments is grouped by zotkey.
+3652 alignments exist in _Pleiades_ place references as of 2024-07-26. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -261,6 +261,13 @@
  - [Alipheira](https://pleiades.stoa.org/places/570065)
 
 
+## Alkyonides Gulf (Q3561967)
+[https://www.wikidata.org/wiki/Q3561967](https://www.wikidata.org/wiki/Q3561967)  
+
+### alignments:
+ - [(H)Alkyonis Sinus](https://pleiades.stoa.org/places/570276)
+
+
 ## Allahdino (Q4730348)
 [https://www.wikidata.org/wiki/Q4730348](https://www.wikidata.org/wiki/Q4730348)  
 
@@ -399,6 +406,13 @@
 
 ### alignments:
  - [Sanctuary of Amynos and Asklepios](https://pleiades.stoa.org/places/122735559)
+
+
+## Amyrus (Q16913108)
+[https://www.wikidata.org/wiki/Q16913108](https://www.wikidata.org/wiki/Q16913108)  
+
+### alignments:
+ - [Amyros](https://pleiades.stoa.org/places/540631)
 
 
 ## Anagyrous (Q4750861)
@@ -779,6 +793,13 @@
  - [Podouke/Arikamedu](https://pleiades.stoa.org/places/50221)
 
 
+## Armenium (Q60790470)
+[https://www.wikidata.org/wiki/Q60790470](https://www.wikidata.org/wiki/Q60790470)  
+
+### alignments:
+ - [Armenion](https://pleiades.stoa.org/places/540662)
+
+
 ## Arsenal of Athens (Q24204689)
 [https://www.wikidata.org/wiki/Q24204689](https://www.wikidata.org/wiki/Q24204689)  
 
@@ -1123,6 +1144,13 @@
  - [Thermae Titi (Tïtianae)](https://pleiades.stoa.org/places/855441498)
 
 
+## Bathynias (Q6012993)
+[https://www.wikidata.org/wiki/Q6012993](https://www.wikidata.org/wiki/Q6012993)  
+
+### alignments:
+ - [Bathynias (river)](https://pleiades.stoa.org/places/511181)
+
+
 ## Battle of Crocus Field (Q1887681)
 [https://www.wikidata.org/wiki/Q1887681](https://www.wikidata.org/wiki/Q1887681)  
 
@@ -1317,6 +1345,13 @@
 
 ### alignments:
  - [Mithraeum at Segontium](https://pleiades.stoa.org/places/702114508)
+
+
+## Caesaromagus (Q1025463)
+[https://www.wikidata.org/wiki/Q1025463](https://www.wikidata.org/wiki/Q1025463)  
+
+### alignments:
+ - [Caesaromagus](https://pleiades.stoa.org/places/79364)
 
 
 ## Caetobriga (Q1057789)
@@ -1578,6 +1613,13 @@
  - [Keramos](https://pleiades.stoa.org/places/599707)
 
 
+## Cercinium (Q60790538)
+[https://www.wikidata.org/wiki/Q60790538](https://www.wikidata.org/wiki/Q60790538)  
+
+### alignments:
+ - [Kerkineion](https://pleiades.stoa.org/places/540862)
+
+
 ## Cerro de San Esteban (archaeological site) (Q104811691)
 [https://www.wikidata.org/wiki/Q104811691](https://www.wikidata.org/wiki/Q104811691)  
 
@@ -1611,6 +1653,13 @@
 
 ### alignments:
  - [Charisiai/Charisia](https://pleiades.stoa.org/places/573167)
+
+
+## Cheimerion (Q5089691)
+[https://www.wikidata.org/wiki/Q5089691](https://www.wikidata.org/wiki/Q5089691)  
+
+### alignments:
+ - [Cheimerion? Pr.](https://pleiades.stoa.org/places/530833)
 
 
 ## Chesterholm-Vindolanda (Samian Ware Discovery Site) (Q103159561)
@@ -1744,6 +1793,13 @@
 
 ### alignments:
  - [Comana Pontica/Hierocaesarea](https://pleiades.stoa.org/places/857095)
+
+
+## Complesso dei Riti Magici (Q27685705)
+[https://www.wikidata.org/wiki/Q27685705](https://www.wikidata.org/wiki/Q27685705)  
+
+### alignments:
+ - [Complesso dei Riti Magici](https://pleiades.stoa.org/places/515998862)
 
 
 ## Contenebra (Q3688820)
@@ -1998,6 +2054,13 @@
  - [Mandra (Despotiko)](https://pleiades.stoa.org/places/854812387)
 
 
+## Deva (Q14370)
+[https://www.wikidata.org/wiki/Q14370](https://www.wikidata.org/wiki/Q14370)  
+
+### alignments:
+ - [Devales? (river)](https://pleiades.stoa.org/places/236452)
+
+
 ## Dibsi Faraj (Q5272299)
 [https://www.wikidata.org/wiki/Q5272299](https://www.wikidata.org/wiki/Q5272299)  
 
@@ -2214,6 +2277,13 @@
 
 ### alignments:
  - [Emporium Discoduraterae](https://pleiades.stoa.org/places/216803)
+
+
+## Enipeas (Q256390)
+[https://www.wikidata.org/wiki/Q256390](https://www.wikidata.org/wiki/Q256390)  
+
+### alignments:
+ - [Enipeus (river)](https://pleiades.stoa.org/places/540763)
 
 
 ## Ennea Hodoi (Q1266039)
@@ -2783,6 +2853,13 @@
  - [Hospitium (I.1.3) ](https://pleiades.stoa.org/places/865766495)
 
 
+## House (VIII.2.13) (Q27688054)
+[https://www.wikidata.org/wiki/Q27688054](https://www.wikidata.org/wiki/Q27688054)  
+
+### alignments:
+ - [House VIII.2.13](https://pleiades.stoa.org/places/546141835)
+
+
 ## House of Bacchus and Ariadne (Q1047006)
 [https://www.wikidata.org/wiki/Q1047006](https://www.wikidata.org/wiki/Q1047006)  
 
@@ -2951,6 +3028,13 @@
  - [Hyperteleaton](https://pleiades.stoa.org/places/570302)
 
 
+## Hypogeum of via Livenza (Q3801615)
+[https://www.wikidata.org/wiki/Q3801615](https://www.wikidata.org/wiki/Q3801615)  
+
+### alignments:
+ - [Via Livenza hypogeum](https://pleiades.stoa.org/places/123625165)
+
+
 ## Hypsus (Q12885662)
 [https://www.wikidata.org/wiki/Q12885662](https://www.wikidata.org/wiki/Q12885662)  
 
@@ -3005,6 +3089,13 @@
 
 ### alignments:
  - [Ionia (region)](https://pleiades.stoa.org/places/550597)
+
+
+## Iruña-Veleia (Q796596)
+[https://www.wikidata.org/wiki/Q796596](https://www.wikidata.org/wiki/Q796596)  
+
+### alignments:
+ - [Bele(g)ia/Veleia](https://pleiades.stoa.org/places/246232)
 
 
 ## Isinda (Lycia) (Q1673974)
@@ -4714,6 +4805,13 @@
 
 ### alignments:
  - [Phigaleia](https://pleiades.stoa.org/places/570598)
+
+
+## Phila (Q1986111)
+[https://www.wikidata.org/wiki/Q1986111](https://www.wikidata.org/wiki/Q1986111)  
+
+### alignments:
+ - [Phila](https://pleiades.stoa.org/places/541045)
 
 
 ## Philaidai (Q13526169)
@@ -24278,6 +24376,13 @@
  - [Susa/Seleucia ad Eulaeum](https://pleiades.stoa.org/places/912936)
 
 
+## Sycurium (Q60790514)
+[https://www.wikidata.org/wiki/Q60790514](https://www.wikidata.org/wiki/Q60790514)  
+
+### alignments:
+ - [Sykyrion](https://pleiades.stoa.org/places/541118)
+
+
 ## Syia (Q2373876)
 [https://www.wikidata.org/wiki/Q2373876](https://www.wikidata.org/wiki/Q2373876)  
 
@@ -24973,6 +25078,13 @@
  - [Tomb of Marcus Tullius](https://pleiades.stoa.org/places/71552717)
 
 
+## Tomb of Medusa (Q127686972)
+[https://www.wikidata.org/wiki/Q127686972](https://www.wikidata.org/wiki/Q127686972)  
+
+### alignments:
+ - [Tomba della Medusa (Roma)](https://pleiades.stoa.org/places/305841487)
+
+
 ## Tomb of Menidi (Q19631492)
 [https://www.wikidata.org/wiki/Q19631492](https://www.wikidata.org/wiki/Q19631492)  
 
@@ -25406,6 +25518,13 @@
 
 ### alignments:
  - [Yāsūj](https://pleiades.stoa.org/places/7211087)
+
+
+## Ydrousa (Q25069916)
+[https://www.wikidata.org/wiki/Q25069916](https://www.wikidata.org/wiki/Q25069916)  
+
+### alignments:
+ - [Hydroussa (island)](https://pleiades.stoa.org/places/579953)
 
 
 ## Zabala (Q1074177)

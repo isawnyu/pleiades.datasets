@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3573 alignments exist in _Pleiades_ place references as of 2024-07-19. The following list of alignments is grouped by zotkey.
+3587 alignments exist in _Pleiades_ place references as of 2024-07-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2073,6 +2073,13 @@
  - [Kalynda](https://pleiades.stoa.org/places/638891)
 
 
+## GEO ID 1000: Kanopias
+[http://www.trismegistos.org/place/1000](http://www.trismegistos.org/place/1000)  
+
+### alignments:
+ - [Kanopias](https://pleiades.stoa.org/places/741489)
+
+
 ## GEO ID 1001: Kanopos (Abuqir)
 [http://www.trismegistos.org/place/1001](http://www.trismegistos.org/place/1001)  
 
@@ -2533,6 +2540,13 @@
 
 ### alignments:
  - [Col. Vienna](https://pleiades.stoa.org/places/167719)
+
+
+## GEO ID 11829: Tainaron (Cape Matapan)
+[https://www.trismegistos.org/place/11829](https://www.trismegistos.org/place/11829)  
+
+### alignments:
+ - [Tainaron (promontory)](https://pleiades.stoa.org/places/570703)
 
 
 ## GEO ID 11829: Tainaron
@@ -5147,6 +5161,13 @@
  - [Condate](https://pleiades.stoa.org/places/79400)
 
 
+## GEO ID 14907: Trimontium (Newstead)
+[http://www.trismegistos.org/place/14907](http://www.trismegistos.org/place/14907)  
+
+### alignments:
+ - [Trimontium](https://pleiades.stoa.org/places/89304)
+
+
 ## GEO ID 14914: Castra Exploratorum (Netherby)
 [http://www.trismegistos.org/place/14914](http://www.trismegistos.org/place/14914)  
 
@@ -5250,6 +5271,13 @@
 
 ### alignments:
  - [Lancaster](https://pleiades.stoa.org/places/89222)
+
+
+## GEO ID 15069: Canonium (Kelvedon)
+[http://www.trismegistos.org/place/15069](http://www.trismegistos.org/place/15069)  
+
+### alignments:
+ - [Canonium](https://pleiades.stoa.org/places/79373)
 
 
 ## GEO ID 15074: Irchester
@@ -5369,6 +5397,13 @@
 
 ### alignments:
  - [Noviomagus](https://pleiades.stoa.org/places/79622)
+
+
+## GEO ID 15327: Caesaromagus (Chelmsford)
+[https://www.trismegistos.org/place/15327](https://www.trismegistos.org/place/15327)  
+
+### alignments:
+ - [Caesaromagus](https://pleiades.stoa.org/places/79364)
 
 
 ## GEO ID 15334: Cawfields
@@ -7492,6 +7527,13 @@
  - [Trisanton (river)](https://pleiades.stoa.org/places/79723)
 
 
+## GEO ID 19653: Celnius (River Deveron)
+[http://www.trismegistos.org/place/19653](http://www.trismegistos.org/place/19653)  
+
+### alignments:
+ - [Kailios (river)](https://pleiades.stoa.org/places/89213)
+
+
 ## GEO ID 19658: Bodotria (River Forth)
 [http://www.trismegistos.org/place/19658](http://www.trismegistos.org/place/19658)  
 
@@ -7665,6 +7707,13 @@
 
 ### alignments:
  - [Minox](https://pleiades.stoa.org/places/83865)
+
+
+## GEO ID 19838: Certis
+[https://www.trismegistos.org/place/19838](https://www.trismegistos.org/place/19838)  
+
+### alignments:
+ - [Certisnassa (river)](https://pleiades.stoa.org/places/92127)
 
 
 ## GEO ID 19840: Intraum
@@ -11546,6 +11595,13 @@
  - [Kabasites Nomos](https://pleiades.stoa.org/places/727134)
 
 
+## GEO ID 3071: Mareotes
+[https://www.trismegistos.org/place/3071](https://www.trismegistos.org/place/3071)  
+
+### alignments:
+ - [Mareotes Nomos](https://pleiades.stoa.org/places/716594)
+
+
 ## GEO ID 3072: Metelites
 [https://www.trismegistos.org/place/3072](https://www.trismegistos.org/place/3072)  
 
@@ -14067,6 +14123,13 @@
  - [Meliboia](https://pleiades.stoa.org/places/543784)
 
 
+## GEO ID 33538: Sykourion (Neromylo Ayias)
+[https://www.trismegistos.org/place/33538](https://www.trismegistos.org/place/33538)  
+
+### alignments:
+ - [Sykyrion](https://pleiades.stoa.org/places/541118)
+
+
 ## GEO ID 3353: Palmyra
 [http://www.trismegistos.org/place/3353](http://www.trismegistos.org/place/3353)  
 
@@ -14079,6 +14142,13 @@
 
 ### alignments:
  - [Argoura](https://pleiades.stoa.org/places/540659)
+
+
+## GEO ID 33546: Armenion
+[https://www.trismegistos.org/place/33546](https://www.trismegistos.org/place/33546)  
+
+### alignments:
+ - [Armenion](https://pleiades.stoa.org/places/540662)
 
 
 ## GEO ID 33549: Ossa
@@ -14263,6 +14333,13 @@
  - [Abu Simbel](https://pleiades.stoa.org/places/721417202)
 
 
+## GEO ID 34000: Phila
+[https://www.trismegistos.org/place/34000](https://www.trismegistos.org/place/34000)  
+
+### alignments:
+ - [Phila](https://pleiades.stoa.org/places/541045)
+
+
 ## GEO ID 34001: Skotina
 [http://www.trismegistos.org/place/34001](http://www.trismegistos.org/place/34001)  
 
@@ -14422,6 +14499,13 @@
 
 ### alignments:
  - [Maiandros/Maiandroupolis?](https://pleiades.stoa.org/places/599779)
+
+
+## GEO ID 3431: Mareia (Lake Maryut)
+[http://www.trismegistos.org/place/3431](http://www.trismegistos.org/place/3431)  
+
+### alignments:
+ - [Mareotis L.](https://pleiades.stoa.org/places/727154)
 
 
 ## GEO ID 34335: Laranda
@@ -21294,6 +21378,13 @@
  - [Portus Itius](https://pleiades.stoa.org/places/114791)
 
 
+## GEO ID 44992: Alutus
+[http://www.trismegistos.org/place/44992](http://www.trismegistos.org/place/44992)  
+
+### alignments:
+ - [Alutus (river)](https://pleiades.stoa.org/places/216701)
+
+
 ## GEO ID 44997: Ulcirus Mons (Ilica)
 [http://www.trismegistos.org/place/44997](http://www.trismegistos.org/place/44997)  
 
@@ -23248,6 +23339,13 @@
 
 ### alignments:
  - [Oinoe](https://pleiades.stoa.org/places/580040)
+
+
+## GEO ID 60751: Hydroussa (Prasonisi)
+[https://www.trismegistos.org/place/60751](https://www.trismegistos.org/place/60751)  
+
+### alignments:
+ - [Hydroussa (island)](https://pleiades.stoa.org/places/579953)
 
 
 ## GEO ID 60754: Pharmakoussai (Kyrades)

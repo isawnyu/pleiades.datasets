@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3444 alignments exist in _Pleiades_ place references as of 2024-07-19. The following list of alignments is grouped by zotkey.
+3460 alignments exist in _Pleiades_ place references as of 2024-07-26. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3310,6 +3310,13 @@
  - [Askra](https://pleiades.stoa.org/places/540670)
 
 
+## Askyris (Thessaly)
+[https://topostext.org/place/400223UAsk](https://topostext.org/place/400223UAsk)  
+
+### alignments:
+ - [Askyris](https://pleiades.stoa.org/places/540671)
+
+
 ## Asopos (Lakonia) 13 Plytra - Ασωπός
 [https://topostext.org/place/367229UAso](https://topostext.org/place/367229UAso)  
 
@@ -5487,6 +5494,13 @@
  - [Charybdis](https://pleiades.stoa.org/places/462157)
 
 
+## Cheimerion cape (Preveza)
+[https://topostext.org/place/393203LChe](https://topostext.org/place/393203LChe)  
+
+### alignments:
+ - [Cheimerion? Pr.](https://pleiades.stoa.org/places/530833)
+
+
 ## Cheimo (Egypt)
 [https://topostext.org/place/308293UChe](https://topostext.org/place/308293UChe)  
 
@@ -6716,6 +6730,13 @@
  - [Dotion](https://pleiades.stoa.org/places/550518)
 
 
+## Dotion plain (Thessaly)
+[https://topostext.org/place/398228LDot](https://topostext.org/place/398228LDot)  
+
+### alignments:
+ - [Dotion Pedion](https://pleiades.stoa.org/places/540741)
+
+
 ## Drabeskos (Serres)
 [https://topostext.org/place/409239UDra](https://topostext.org/place/409239UDra)  
 
@@ -7298,6 +7319,20 @@
  - [Engyon](https://pleiades.stoa.org/places/462195)
 
 
+## Enipeus R. (Eleia) 7 Lestenitsa - Ενιπεύς
+[https://topostext.org/place/378218WEni](https://topostext.org/place/378218WEni)  
+
+### alignments:
+ - [Enipeus (river)](https://pleiades.stoa.org/places/570225)
+
+
+## Enipeus R. (Thessaly) 22 river - Ενιπεύς
+[https://topostext.org/place/393223WEni](https://topostext.org/place/393223WEni)  
+
+### alignments:
+ - [Enipeus (river)](https://pleiades.stoa.org/places/540763)
+
+
 ## Enispe? (Arkadia)
 [https://topostext.org/place/368228UEni](https://topostext.org/place/368228UEni)  
 
@@ -7604,6 +7639,13 @@
 
 ### alignments:
  - [Eudemia (island)](https://pleiades.stoa.org/places/540778)
+
+
+## Eudieron/Dierum? (Thessaly)
+[https://topostext.org/place/399224UEud](https://topostext.org/place/399224UEud)  
+
+### alignments:
+ - [(Eu)Dieron?](https://pleiades.stoa.org/places/540779)
 
 
 ## Euesperides/Berenike (Libya)
@@ -8805,6 +8847,13 @@
  - [Halisarna](https://pleiades.stoa.org/places/550562)
 
 
+## Halkyonic Gulf (Korinthia) 4 Alkyonidon Kolpos - Αλκυονίδος θάλασσα
+[https://topostext.org/place/381231WHal](https://topostext.org/place/381231WHal)  
+
+### alignments:
+ - [(H)Alkyonis Sinus](https://pleiades.stoa.org/places/570276)
+
+
 ## Halmyris (Dacia)
 [https://topostext.org/place/450292UHal](https://topostext.org/place/450292UHal)  
 
@@ -9597,6 +9646,13 @@
 
 ### alignments:
  - [Hydata Hypsitana/Forum Traiani](https://pleiades.stoa.org/places/471947)
+
+
+## Hydroussa (Attica)
+[https://topostext.org/place/378237IHyd](https://topostext.org/place/378237IHyd)  
+
+### alignments:
+ - [Hydroussa (island)](https://pleiades.stoa.org/places/579953)
 
 
 ## Hydroussa (Hydra)
@@ -11756,6 +11812,13 @@
  - [Koumasa prepalatial cemetery ](https://pleiades.stoa.org/places/170529772)
 
 
+## Kouralios R. (Thessaly) 9 Xerias - Κουράλιος
+[https://topostext.org/place/393223WKou](https://topostext.org/place/393223WKou)  
+
+### alignments:
+ - [Ko(u)ralios (river)](https://pleiades.stoa.org/places/540872)
+
+
 ## Kourion Apollo Hylates sanct. (Cyprus)
 [https://topostext.org/place/347329SApo](https://topostext.org/place/347329SApo)  
 
@@ -12211,6 +12274,13 @@
 
 ### alignments:
  - [Lagousa (island)](https://pleiades.stoa.org/places/589892)
+
+
+## Lakereia (Thessaly)
+[https://topostext.org/place/396225ULak](https://topostext.org/place/396225ULak)  
+
+### alignments:
+ - [Lakereia](https://pleiades.stoa.org/places/540901)
 
 
 ## Lakiadai (Attica)
@@ -13692,6 +13762,13 @@
 
 ### alignments:
  - [Mareia?/Philoxenite](https://pleiades.stoa.org/places/727153)
+
+
+## Mareotis/Mareia lake (Egypt)
+[https://topostext.org/place/311298WMar](https://topostext.org/place/311298WMar)  
+
+### alignments:
+ - [Mareotis L.](https://pleiades.stoa.org/places/727154)
 
 
 ## Margana? (Eleia)
@@ -21520,6 +21597,13 @@
  - [Tel Shiqmona](https://pleiades.stoa.org/places/678404)
 
 
+## Sykyrion (Thessaly)
+[https://topostext.org/place/397228USyk](https://topostext.org/place/397228USyk)  
+
+### alignments:
+ - [Sykyrion](https://pleiades.stoa.org/places/541118)
+
+
 ## Symaithos R. (Sicily)
 [https://topostext.org/place/374150WSym](https://topostext.org/place/374150WSym)  
 
@@ -21588,6 +21672,13 @@
 
 ### alignments:
  - [Tainaron (settlement)](https://pleiades.stoa.org/places/570702)
+
+
+## Tainaron cape (Lakonia)
+[https://topostext.org/place/364225LTai](https://topostext.org/place/364225LTai)  
+
+### alignments:
+ - [Tainaron (promontory)](https://pleiades.stoa.org/places/570703)
 
 
 ## Talabriga (Lusitania)
@@ -21910,6 +22001,13 @@
 
 ### alignments:
  - [Temnos](https://pleiades.stoa.org/places/550908)
+
+
+## Tempe Apollo (Thessaly)
+[https://topostext.org/place/399226XTAp](https://topostext.org/place/399226XTAp)  
+
+### alignments:
+ - [Apollo, T.](https://pleiades.stoa.org/places/540648)
 
 
 ## Tempe pass (Thessaly) 135 Tempi - Τέμπη
@@ -22786,6 +22884,13 @@
 
 ### alignments:
  - [Titane](https://pleiades.stoa.org/places/570741)
+
+
+## Titanos Mt. (Thessaly) 5 Titanos - Τίτανος
+[https://topostext.org/place/396222LTit](https://topostext.org/place/396222LTit)  
+
+### alignments:
+ - [Titanos (mountain)](https://pleiades.stoa.org/places/541150)
 
 
 ## Tithorea (Phthiotida)
@@ -24086,6 +24191,13 @@
 
 ### alignments:
  - [Ash Altar of Zeus Lykaios](https://pleiades.stoa.org/places/535233377)
+
+
+## Zeus Olympios (Pieria)
+[https://topostext.org/place/400224SOly](https://topostext.org/place/400224SOly)  
+
+### alignments:
+ - [Zeus Olympios, T.](https://pleiades.stoa.org/places/491756)
 
 
 ## Zeus Ombrios on Parnes (Attica)

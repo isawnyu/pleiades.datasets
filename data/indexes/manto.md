@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-522 alignments exist in _Pleiades_ place references as of 2024-07-19. The following list of alignments is grouped by zotkey.
+525 alignments exist in _Pleiades_ place references as of 2024-07-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -902,6 +902,13 @@
 
 ### alignments:
  - [Amymone](https://pleiades.stoa.org/places/573086)
+
+
+## 10193061: the Saronic Gulf
+[https://resource.manto.unh.edu/10193061](https://resource.manto.unh.edu/10193061)  
+
+### alignments:
+ - [Saronicus Sinus](https://pleiades.stoa.org/places/570654)
 
 
 ## 10194010: Antheia (Argolid)
@@ -2341,6 +2348,13 @@
  - [Phylake](https://pleiades.stoa.org/places/541053)
 
 
+## 8228905: Ormenion (Thessaly)
+[https://resource.manto.unh.edu/8228905](https://resource.manto.unh.edu/8228905)  
+
+### alignments:
+ - [Armenion](https://pleiades.stoa.org/places/540662)
+
+
 ## 8228911: Magnesia (region in Thessaly)
 [https://resource.manto.unh.edu/8228911](https://resource.manto.unh.edu/8228911)  
 
@@ -3312,6 +3326,13 @@
 
 ### alignments:
  - [Pteleon](https://pleiades.stoa.org/places/541077)
+
+
+## 9720431: Boibe (Thessaly)
+[https://resource.manto.unh.edu/9720431](https://resource.manto.unh.edu/9720431)  
+
+### alignments:
+ - [Boibe](https://pleiades.stoa.org/places/543654)
 
 
 ## 9720433: Lake Boibe (Thessaly)
