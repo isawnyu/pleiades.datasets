@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/707498",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:38:53Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "change type, add BAtlas reference",
+                    "modified": "2024-07-22T15:30:18Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:38:53Z",
@@ -46,20 +58,120 @@
             ],
             "id": "707498",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "72 D2 Toumpa",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Cyprus (island)",
             "uri": "https://pleiades.stoa.org/places/707634/707498"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "seventh-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/seventh-bce"
+                }
+            ],
+            "connectionType": "south_of",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/south_of",
+            "connectsTo": "https://pleiades.stoa.org/places/707617",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2024-07-22T15:22:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -601,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-07-22T15:34:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add BAtl Dir reference",
+                    "modified": "2024-07-22T15:34:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-07-22T15:22:27Z",
+                    "modifiedBy": "gmckee"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-07-22T15:22:22Z",
+                    "modifiedBy": "gmckee"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-07-22T15:22:21Z",
+                    "modifiedBy": "gmckee"
+                }
+            ],
+            "id": "salamis-konstantia",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 1100",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -700,
+            "title": "Salamis/Konstantia",
+            "uri": "https://pleiades.stoa.org/places/707634/salamis-konstantia"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/707498"
+        "https://pleiades.stoa.org/places/707498",
+        "https://pleiades.stoa.org/places/707617"
     ],
     "contributors": [
         {
             "name": "DARMC",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Gabriel Mckee",
+            "uri": "https://pleiades.stoa.org/author/gmckee",
+            "username": "gmckee"
         },
         {
             "name": "R. Talbert",
@@ -73,15 +185,15 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2009-10-20T09:32:40Z",
@@ -91,7 +203,7 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 72 D2 Toumpa",
+    "description": "Iron Age sanctuary site located approximately 4.5 km south of the city of Salamis.",
     "details": "<p>The Barrington Atlas Directory notes: Toumpa, S Salamis</p>",
     "features": [
         {
@@ -114,6 +226,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2024-07-22T15:21:11Z",
+            "modifiedBy": "gmckee"
+        },
         {
             "comment": "Edited",
             "modified": "2019-04-26T14:13:33Z",
@@ -272,7 +389,86 @@
             "uri": "https://pleiades.stoa.org/places/707634/darmc-location-16236"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                }
+            ],
+            "attested": "Τουμπα",
+            "contributors": [],
+            "created": "2024-07-22T15:19:58Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
+                }
+            ],
+            "description": "Modern Greek name of the site.",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-07-22T15:29:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-07-22T15:20:28Z",
+                    "modifiedBy": "gmckee"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-07-22T15:20:00Z",
+                    "modifiedBy": "gmckee"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-07-22T15:19:58Z",
+                    "modifiedBy": "gmckee"
+                }
+            ],
+            "id": "toumba",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://worldcat.org/oclc/1176240179",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/A8AZA9GR",
+                    "citationDetail": "plate 3",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Karageorghis, Vassos, and Thomas Michael Kiely. <i>Salamis-Toumba: An Iron Age Sanctuary in Cyprus Rediscovered : (Excavations of the Cyprus Exploration Fund, 1890)</i>. Nicosia: The Cyprus Institute, 2019. https://worldcat.org/oclc/1176240179.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Karageorghis 2019",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Toumba, Toumpa",
+            "start": 1800,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/707634/toumba"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
     ],
