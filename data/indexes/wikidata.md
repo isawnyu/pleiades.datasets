@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3652 alignments exist in _Pleiades_ place references as of 2024-07-26. The following list of alignments is grouped by zotkey.
+3665 alignments exist in _Pleiades_ place references as of 2024-07-29. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -448,6 +448,13 @@
 
 ### alignments:
  - [Ancient theater of Eretria](https://pleiades.stoa.org/places/75526757)
+
+
+## Ancient Maroneia (Q12874068)
+[https://www.wikidata.org/wiki/Q12874068](https://www.wikidata.org/wiki/Q12874068)  
+
+### alignments:
+ - [Maroneia](https://pleiades.stoa.org/places/501507)
 
 
 ## Ancient Methone (Q48965819)
@@ -1277,6 +1284,13 @@
  - [Sanctuary of Artemis Brauronia on the Acropolis](https://pleiades.stoa.org/places/573299847)
 
 
+## Brazda lui Novac (Q3643972)
+[https://www.wikidata.org/wiki/Q3643972](https://www.wikidata.org/wiki/Q3643972)  
+
+### alignments:
+ - [Brazda lui Novac de Nord](https://pleiades.stoa.org/places/208383)
+
+
 ## Bridge at Oinoanda (Q996029)
 [https://www.wikidata.org/wiki/Q996029](https://www.wikidata.org/wiki/Q996029)  
 
@@ -1674,6 +1688,13 @@
 
 ### alignments:
  - [Starosel Monumental Tomb](https://pleiades.stoa.org/places/655392792)
+
+
+## Christian Basilica (Q810067)
+[https://www.wikidata.org/wiki/Q810067](https://www.wikidata.org/wiki/Q810067)  
+
+### alignments:
+ - [Christian Basilica, Ostia](https://pleiades.stoa.org/places/732059512)
 
 
 ## Church of Saint Nicholas Orphanos (Q1504317)
@@ -2193,6 +2214,13 @@
 
 ### alignments:
  - [East Building](https://pleiades.stoa.org/places/337294882)
+
+
+## Ecbatana (Q696193)
+[https://www.wikidata.org/wiki/Q696193](https://www.wikidata.org/wiki/Q696193)  
+
+### alignments:
+ - [Ecbatana/Hagmatana/Achmeta/Epiphaneia/Ahmadan](https://pleiades.stoa.org/places/903021)
 
 
 ## Edoni (Q987699)
@@ -3666,6 +3694,20 @@
  - [Lilaia](https://pleiades.stoa.org/places/540915)
 
 
+## Limes Dacicus (Q14752597)
+[https://www.wikidata.org/wiki/Q14752597](https://www.wikidata.org/wiki/Q14752597)  
+
+### alignments:
+ - [Limes Daciae](https://pleiades.stoa.org/places/207241)
+
+
+## Limnaion (Q60790520)
+[https://www.wikidata.org/wiki/Q60790520](https://www.wikidata.org/wiki/Q60790520)  
+
+### alignments:
+ - [Limnaion](https://pleiades.stoa.org/places/540916)
+
+
 ## Lindus (Q65122097)
 [https://www.wikidata.org/wiki/Q65122097](https://www.wikidata.org/wiki/Q65122097)  
 
@@ -3874,6 +3916,13 @@
 
 ### alignments:
  - [Elaioussa (island)](https://pleiades.stoa.org/places/550524)
+
+
+## Maroneia Dionysus sanctuary (Q12878111)
+[https://www.wikidata.org/wiki/Q12878111](https://www.wikidata.org/wiki/Q12878111)  
+
+### alignments:
+ - [Dionysus Sanctuary](https://pleiades.stoa.org/places/595596935)
 
 
 ## Massa Veternensis (Q11936119)
@@ -5148,6 +5197,13 @@
 
 ### alignments:
  - [Preah Ko](https://pleiades.stoa.org/places/615575177)
+
+
+## Prehistoric settlement of Palaioskala (Q38282355)
+[https://www.wikidata.org/wiki/Q38282355](https://www.wikidata.org/wiki/Q38282355)  
+
+### alignments:
+ - [Paleoskala](https://pleiades.stoa.org/places/763750643)
 
 
 ## Priansus (Q17625909)
@@ -23388,6 +23444,13 @@
  - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
 
 
+## Qaryat al-Faw (Q2829327)
+[https://www.wikidata.org/wiki/Q2829327](https://www.wikidata.org/wiki/Q2829327)  
+
+### alignments:
+ - [Dhāt Kāhl](https://pleiades.stoa.org/places/45016677)
+
+
 ## Qasr Bshir (Q13860025)
 [https://www.wikidata.org/wiki/Q13860025](https://www.wikidata.org/wiki/Q13860025)  
 
@@ -25001,6 +25064,13 @@
  - [Titane](https://pleiades.stoa.org/places/570741)
 
 
+## Titaros (Q25122853)
+[https://www.wikidata.org/wiki/Q25122853](https://www.wikidata.org/wiki/Q25122853)  
+
+### alignments:
+ - [Titarion (mountain)](https://pleiades.stoa.org/places/491744)
+
+
 ## Titriş Höyük (Q6100053)
 [https://www.wikidata.org/wiki/Q6100053](https://www.wikidata.org/wiki/Q6100053)  
 
@@ -25097,6 +25167,13 @@
 
 ### alignments:
  - [Tomb of Numerius Agrestinus Equitius Pulcher](https://pleiades.stoa.org/places/719121735)
+
+
+## Tomb of Quintus Sulpicius Maximus (Q1540900)
+[https://www.wikidata.org/wiki/Q1540900](https://www.wikidata.org/wiki/Q1540900)  
+
+### alignments:
+ - [Tomb of Quintus Sulpicius Maximus](https://pleiades.stoa.org/places/358004061)
 
 
 ## Tomb of Servilia (Q75826742)
@@ -25457,6 +25534,13 @@
  - [Ouindinon/Subdinnum](https://pleiades.stoa.org/places/109236)
 
 
+## Virunum amphitheatre (Q28970912)
+[https://www.wikidata.org/wiki/Q28970912](https://www.wikidata.org/wiki/Q28970912)  
+
+### alignments:
+ - [Roman amphitheater of Virunum](https://pleiades.stoa.org/places/212586562)
+
+
 ## Vitellia (Q12902621)
 [https://www.wikidata.org/wiki/Q12902621](https://www.wikidata.org/wiki/Q12902621)  
 
@@ -25469,6 +25553,13 @@
 
 ### alignments:
  - [Viviers Roman bridge](https://pleiades.stoa.org/places/169128)
+
+
+## Volustana (Q7941102)
+[https://www.wikidata.org/wiki/Q7941102](https://www.wikidata.org/wiki/Q7941102)  
+
+### alignments:
+ - [Volustana](https://pleiades.stoa.org/places/491753)
 
 
 ## walls of Rusellae (Q971697)

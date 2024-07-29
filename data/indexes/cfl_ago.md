@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-345 alignments exist in _Pleiades_ place references as of 2024-07-26. The following list of alignments is grouped by zotkey.
+347 alignments exist in _Pleiades_ place references as of 2024-07-29. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -43,11 +43,25 @@
  - [Keryneia](https://pleiades.stoa.org/places/570354)
 
 
+## 3988: SYKEONAS - 2004
+[https://chronique.efa.gr/?kroute=report&id=3988](https://chronique.efa.gr/?kroute=report&id=3988)  
+
+### alignments:
+ - [Sykeon Roman bath (Thessaly)](https://pleiades.stoa.org/places/731893156)
+
+
 ## 5460: LÉBADÉE - 2006
 [https://chronique.efa.gr/?kroute=report&id=5460](https://chronique.efa.gr/?kroute=report&id=5460)  
 
 ### alignments:
  - [Fifth century baths at Lebadeia](https://pleiades.stoa.org/places/690059595)
+
+
+## 5714: PETRA. - Kastro Adrianou - 2008
+[https://chronique.efa.gr/?kroute=report&id=5714](https://chronique.efa.gr/?kroute=report&id=5714)  
+
+### alignments:
+ - [Petra](https://pleiades.stoa.org/places/491691)
 
 
 ## AIGES - 2000

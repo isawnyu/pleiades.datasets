@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3587 alignments exist in _Pleiades_ place references as of 2024-07-26. The following list of alignments is grouped by zotkey.
+3592 alignments exist in _Pleiades_ place references as of 2024-07-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1008,6 +1008,13 @@
 
 ### alignments:
  - [Eretria (Thessaly)](https://pleiades.stoa.org/places/540767)
+
+
+## Geo 33431: Limnaion (Blochos)
+[https://www.trismegistos.org/place/33431](https://www.trismegistos.org/place/33431)  
+
+### alignments:
+ - [Limnaion](https://pleiades.stoa.org/places/540916)
 
 
 ## Geo 33468: Pelinna
@@ -10327,6 +10334,13 @@
  - [Boon](https://pleiades.stoa.org/places/795791)
 
 
+## GEO ID 27502: Valentia (Valencia)
+[http://www.trismegistos.org/place/27502](http://www.trismegistos.org/place/27502)  
+
+### alignments:
+ - [Valentia](https://pleiades.stoa.org/places/266090)
+
+
 ## GEO ID 2751: Dahshur
 [http://www.trismegistos.org/place/2751](http://www.trismegistos.org/place/2751)  
 
@@ -14032,6 +14046,13 @@
  - [Aiginion](https://pleiades.stoa.org/places/530787)
 
 
+## GEO ID 33454: Gomphoi
+[http://www.trismegistos.org/place/33454](http://www.trismegistos.org/place/33454)  
+
+### alignments:
+ - [Gomphoi](https://pleiades.stoa.org/places/540792)
+
+
 ## GEO ID 33459: Trikka (Trikala)
 [http://www.trismegistos.org/place/33459](http://www.trismegistos.org/place/33459)  
 
@@ -15912,7 +15933,7 @@
 [http://www.trismegistos.org/place/38440](http://www.trismegistos.org/place/38440)  
 
 ### alignments:
- - [Marzabotto](https://pleiades.stoa.org/places/393448)
+ - [Kainua](https://pleiades.stoa.org/places/393448)
 
 
 ## GEO ID 38443: Castello di Monteserico
@@ -17799,6 +17820,13 @@
  - [Başbulak](https://pleiades.stoa.org/places/874637)
 
 
+## GEO ID 41447: Catispi (Hatsiun)
+[https://www.trismegistos.org/place/41447](https://www.trismegistos.org/place/41447)  
+
+### alignments:
+ - [Catispi/Hatsiun](https://pleiades.stoa.org/places/874415)
+
+
 ## GEO ID 414: Beni Hasan
 [https://www.trismegistos.org/place/414](https://www.trismegistos.org/place/414)  
 
@@ -19043,6 +19071,13 @@
 
 ### alignments:
  - [Sisila/Sissilisson Phrourion/Ziziola](https://pleiades.stoa.org/places/876704)
+
+
+## GEO ID 42144: Sorvae (Tsortsor?)
+[https://www.trismegistos.org/place/42144](https://www.trismegistos.org/place/42144)  
+
+### alignments:
+ - [Sorvae/Zourzoua](https://pleiades.stoa.org/places/876706)
 
 
 ## GEO ID 42160: Ktesiphon (Al-Maaridh)

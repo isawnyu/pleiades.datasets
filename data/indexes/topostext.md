@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3460 alignments exist in _Pleiades_ place references as of 2024-07-26. The following list of alignments is grouped by zotkey.
+3466 alignments exist in _Pleiades_ place references as of 2024-07-29. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -16575,6 +16575,13 @@
  - [Paliopyrgos tower](https://pleiades.stoa.org/places/226445170)
 
 
+## Palioskala exc. (Larisa) Kalamaki - Παλιόσκαλα
+[https://topostext.org/place/395228XPal](https://topostext.org/place/395228XPal)  
+
+### alignments:
+ - [Paleoskala](https://pleiades.stoa.org/places/763750643)
+
+
 ## Palladion sanct. (Athens) 19 Phaleron? - Παλλάδιον
 [https://topostext.org/place/380237BPal](https://topostext.org/place/380237BPal)  
 
@@ -17360,6 +17367,13 @@
 
 ### alignments:
  - [Petra](https://pleiades.stoa.org/places/697725)
+
+
+## Petra (Pieria)
+[https://topostext.org/place/402222LPet](https://topostext.org/place/402222LPet)  
+
+### alignments:
+ - [Petra](https://pleiades.stoa.org/places/491691)
 
 
 ## Peumata? (Thessaly)
@@ -21597,6 +21611,13 @@
  - [Tel Shiqmona](https://pleiades.stoa.org/places/678404)
 
 
+## Sykeon Roman bath exc. (Thessaly) Sykeon
+[https://topostext.org/place/395222XSyB](https://topostext.org/place/395222XSyB)  
+
+### alignments:
+ - [Sykeon Roman bath (Thessaly)](https://pleiades.stoa.org/places/731893156)
+
+
 ## Sykyrion (Thessaly)
 [https://topostext.org/place/397228USyk](https://topostext.org/place/397228USyk)  
 
@@ -22007,7 +22028,7 @@
 [https://topostext.org/place/399226XTAp](https://topostext.org/place/399226XTAp)  
 
 ### alignments:
- - [Apollo, T.](https://pleiades.stoa.org/places/540648)
+ - [Temple of Apollo at Tempe](https://pleiades.stoa.org/places/540648)
 
 
 ## Tempe pass (Thessaly) 135 Tempi - Τέμπη
@@ -22893,6 +22914,13 @@
  - [Titanos (mountain)](https://pleiades.stoa.org/places/541150)
 
 
+## Titarion Mt. (Thessaly)
+[https://topostext.org/place/402221LTit](https://topostext.org/place/402221LTit)  
+
+### alignments:
+ - [Titarion (mountain)](https://pleiades.stoa.org/places/491744)
+
+
 ## Tithorea (Phthiotida)
 [https://topostext.org/place/386227UTit](https://topostext.org/place/386227UTit)  
 
@@ -23351,6 +23379,13 @@
 
 ### alignments:
  - [Tsepi at Marathon](https://pleiades.stoa.org/places/877327047)
+
+
+## Tserli farm excavation (Thessaly) Kato Kalamaki - Τσερλή
+[https://topostext.org/place/395228XTse](https://topostext.org/place/395228XTse)  
+
+### alignments:
+ - [Tserli](https://pleiades.stoa.org/places/519794781)
 
 
 ## Tucci (Iberia)
@@ -23925,6 +23960,13 @@
 
 ### alignments:
  - [Volubilis](https://pleiades.stoa.org/places/275740)
+
+
+## Volustana pass (Pieria)
+[https://topostext.org/place/401220LVol](https://topostext.org/place/401220LVol)  
+
+### alignments:
+ - [Volustana](https://pleiades.stoa.org/places/491753)
 
 
 ## Voni Apollo Agyates sanct. (Cyprus)
