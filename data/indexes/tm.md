@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3592 alignments exist in _Pleiades_ place references as of 2024-07-29. The following list of alignments is grouped by zotkey.
+3596 alignments exist in _Pleiades_ place references as of 2024-07-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -13360,6 +13360,13 @@
  - [Aequum Tuticum/Equus Tuticus](https://pleiades.stoa.org/places/442452)
 
 
+## GEO ID 33003: Butuntum (Bitonto)
+[http://www.trismegistos.org/place/33003](http://www.trismegistos.org/place/33003)  
+
+### alignments:
+ - [Butuntum](https://pleiades.stoa.org/places/442511)
+
+
 ## GEO ID 33006: Cannae (Canne)
 [http://www.trismegistos.org/place/33006](http://www.trismegistos.org/place/33006)  
 
@@ -18049,6 +18056,13 @@
 
 ### alignments:
  - [Aradarum/Hardea/Ardea](https://pleiades.stoa.org/places/30207)
+
+
+## GEO ID 41664: Archedotis
+[https://www.trismegistos.org/place/41664](https://www.trismegistos.org/place/41664)  
+
+### alignments:
+ - [Archedotis/Arciotis](https://pleiades.stoa.org/places/30209)
 
 
 ## GEO ID 41674: Caumatis
@@ -24147,6 +24161,13 @@
  - [Tel Shiqmona](https://pleiades.stoa.org/places/678404)
 
 
+## GEO ID 747: Haueris (Hawara)
+[http://www.trismegistos.org/place/747](http://www.trismegistos.org/place/747)  
+
+### alignments:
+ - [Haueris](https://pleiades.stoa.org/places/736918)
+
+
 ## GEO ID 748: Haurana (Hauran)
 [https://www.trismegistos.org/place/748](https://www.trismegistos.org/place/748)  
 
@@ -24237,6 +24258,13 @@
 
 ### alignments:
  - [Arca/Herakleia en Phoinike/Caesarea ad Libanum](https://pleiades.stoa.org/places/668198)
+
+
+## GEO ID 7767: Tchonemyris (Qasr el-Zaiyan)
+[http://www.trismegistos.org/place/7767](http://www.trismegistos.org/place/7767)  
+
+### alignments:
+ - [Tchonemyris](https://pleiades.stoa.org/places/776228)
 
 
 ## GEO ID 7796: Utica (Henchir Bou Chateur)

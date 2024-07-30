@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3665 alignments exist in _Pleiades_ place references as of 2024-07-29. The following list of alignments is grouped by zotkey.
+3668 alignments exist in _Pleiades_ place references as of 2024-07-30. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1170,6 +1170,13 @@
 
 ### alignments:
  - [Bayon at Angkor Thom](https://pleiades.stoa.org/places/96853716)
+
+
+## Belice (Q815590)
+[https://www.wikidata.org/wiki/Q815590](https://www.wikidata.org/wiki/Q815590)  
+
+### alignments:
+ - [Hypsa(s) (river)](https://pleiades.stoa.org/places/462255)
 
 
 ## Bema of Phaidros (Q85746507)
@@ -3503,6 +3510,13 @@
 
 ### alignments:
  - [La Celsa](https://pleiades.stoa.org/places/727890049)
+
+
+## La Marmotta (Q125876858)
+[https://www.wikidata.org/wiki/Q125876858](https://www.wikidata.org/wiki/Q125876858)  
+
+### alignments:
+ - [La Marmotta](https://pleiades.stoa.org/places/424390148)
 
 
 ## Lacus Juturnae (Q1714672)
@@ -7735,6 +7749,13 @@
 
 ### alignments:
  - [Karagündüz](https://pleiades.stoa.org/places/183120909)
+
+
+## Q128048879
+[https://www.wikidata.org/wiki/Q128048879](https://www.wikidata.org/wiki/Q128048879)  
+
+### alignments:
+ - [Acqua Claudia](https://pleiades.stoa.org/places/432623)
 
 
 ## Q128139: Priverno
