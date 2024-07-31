@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3596 alignments exist in _Pleiades_ place references as of 2024-07-30. The following list of alignments is grouped by zotkey.
+3601 alignments exist in _Pleiades_ place references as of 2024-07-31. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3823,6 +3823,13 @@
  - [Monte Sannace](https://pleiades.stoa.org/places/442674)
 
 
+## GEO ID 14267: Egnatia (Egnazia)
+[https://www.trismegistos.org/place/14267](https://www.trismegistos.org/place/14267)  
+
+### alignments:
+ - [Egnatia/Gnathia](https://pleiades.stoa.org/places/442573)
+
+
 ## GEO ID 14268: Mesochorum (Grottaglie)
 [http://www.trismegistos.org/place/14268](http://www.trismegistos.org/place/14268)  
 
@@ -3863,6 +3870,13 @@
 
 ### alignments:
  - [Muro Tenente (Scamnum?)](https://pleiades.stoa.org/places/442790)
+
+
+## GEO ID 14276: Diria (Monopoli)
+[https://www.trismegistos.org/place/14276](https://www.trismegistos.org/place/14276)  
+
+### alignments:
+ - [Diria?](https://pleiades.stoa.org/places/442566)
 
 
 ## GEO ID 14279: Herdonia (Ordona)
@@ -7882,6 +7896,13 @@
 
 ### alignments:
  - [Cemenelum](https://pleiades.stoa.org/places/157834)
+
+
+## GEO ID 19942: Forum Germanorum (San Lorenzo di Caraglio)
+[https://www.trismegistos.org/place/19942](https://www.trismegistos.org/place/19942)  
+
+### alignments:
+ - [*Forum Germanici](https://pleiades.stoa.org/places/383653)
 
 
 ## GEO ID 19943: Rotomagus (Rouen)
@@ -13351,6 +13372,13 @@
 
 ### alignments:
  - [Ad Pirum](https://pleiades.stoa.org/places/442443)
+
+
+## GEO ID 32988: Barium (Bari)
+[http://www.trismegistos.org/place/32988](http://www.trismegistos.org/place/32988)  
+
+### alignments:
+ - [Barium](https://pleiades.stoa.org/places/442500)
 
 
 ## GEO ID 32990: Aequum Tuticum (Ariano Irpino)
@@ -23051,6 +23079,13 @@
 
 ### alignments:
  - [Melanogaitouloi?](https://pleiades.stoa.org/places/285484)
+
+
+## GEO ID 56864: Peucetii
+[https://www.trismegistos.org/place/56864](https://www.trismegistos.org/place/56864)  
+
+### alignments:
+ - [Peucetii](https://pleiades.stoa.org/places/442714)
 
 
 ## GEO ID 5697: Mendesion Stoma

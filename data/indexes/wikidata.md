@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3668 alignments exist in _Pleiades_ place references as of 2024-07-30. The following list of alignments is grouped by zotkey.
+3671 alignments exist in _Pleiades_ place references as of 2024-07-31. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -2643,6 +2643,13 @@
  - [Glyfa](https://pleiades.stoa.org/places/873325866)
 
 
+## Gnatia (Q732732)
+[https://www.wikidata.org/wiki/Q732732](https://www.wikidata.org/wiki/Q732732)  
+
+### alignments:
+ - [Egnatia/Gnathia](https://pleiades.stoa.org/places/442573)
+
+
 ## Golgoi (Q3561710)
 [https://www.wikidata.org/wiki/Q3561710](https://www.wikidata.org/wiki/Q3561710)  
 
@@ -4812,6 +4819,13 @@
 
 ### alignments:
  - [Roman theater at Petra](https://pleiades.stoa.org/places/612060179)
+
+
+## Peuceti (Q1267337)
+[https://www.wikidata.org/wiki/Q1267337](https://www.wikidata.org/wiki/Q1267337)  
+
+### alignments:
+ - [Peucetii](https://pleiades.stoa.org/places/442714)
 
 
 ## Peuma (Q17624989)
@@ -24290,6 +24304,13 @@
 
 ### alignments:
  - [Roman amphitheater at Sipous/Sipontum](https://pleiades.stoa.org/places/249792106)
+
+
+## Sirkap (Q1340954)
+[https://www.wikidata.org/wiki/Q1340954](https://www.wikidata.org/wiki/Q1340954)  
+
+### alignments:
+ - [Sirkap](https://pleiades.stoa.org/places/801825162)
 
 
 ## Skala Roman villa (Q56240191)

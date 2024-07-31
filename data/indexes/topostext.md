@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3466 alignments exist in _Pleiades_ place references as of 2024-07-30. The following list of alignments is grouped by zotkey.
+3467 alignments exist in _Pleiades_ place references as of 2024-07-31. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -17374,6 +17374,13 @@
 
 ### alignments:
  - [Petra](https://pleiades.stoa.org/places/491691)
+
+
+## Peucetia region (Italy)
+[https://topostext.org/place/409167RPeu](https://topostext.org/place/409167RPeu)  
+
+### alignments:
+ - [Peucetii](https://pleiades.stoa.org/places/442714)
 
 
 ## Peumata? (Thessaly)
