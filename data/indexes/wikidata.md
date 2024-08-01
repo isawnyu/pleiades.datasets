@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3671 alignments exist in _Pleiades_ place references as of 2024-07-31. The following list of alignments is grouped by zotkey.
+3678 alignments exist in _Pleiades_ place references as of 2024-08-01. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -462,6 +462,13 @@
 
 ### alignments:
  - [Methone (Pieria)](https://pleiades.stoa.org/places/491663)
+
+
+## Ancient Roman circus of Iruña-Veleia (Q127515157)
+[https://www.wikidata.org/wiki/Q127515157](https://www.wikidata.org/wiki/Q127515157)  
+
+### alignments:
+ - [Roman circus of Iruña-Veleia](https://pleiades.stoa.org/places/150463094)
 
 
 ## Ancient Roman quarries of Cartagena (Q5747793)
@@ -2139,6 +2146,13 @@
  - [Doliche](https://pleiades.stoa.org/places/491576)
 
 
+## Domus and Mitreo delle Pareti Dipinte (Q124218142)
+[https://www.wikidata.org/wiki/Q124218142](https://www.wikidata.org/wiki/Q124218142)  
+
+### alignments:
+ - [Domus and Mitreo delle Pareti Dipinte](https://pleiades.stoa.org/places/834171137)
+
+
 ## Domus del Chirurgo (Q3713399)
 [https://www.wikidata.org/wiki/Q3713399](https://www.wikidata.org/wiki/Q3713399)  
 
@@ -2732,6 +2746,13 @@
 
 ### alignments:
  - [Halmyris?](https://pleiades.stoa.org/places/226617)
+
+
+## Hama (Q173545)
+[https://www.wikidata.org/wiki/Q173545](https://www.wikidata.org/wiki/Q173545)  
+
+### alignments:
+ - [Amathe/Epiphaneia](https://pleiades.stoa.org/places/668182)
 
 
 ## Harpinates river (Q16327010)
@@ -3355,6 +3376,13 @@
 
 ### alignments:
  - [Kephisia](https://pleiades.stoa.org/places/579972)
+
+
+## Khanpur Cave (Q66134639)
+[https://www.wikidata.org/wiki/Q66134639](https://www.wikidata.org/wiki/Q66134639)  
+
+### alignments:
+ - [Khanpur Cave](https://pleiades.stoa.org/places/107421147)
 
 
 ## Khaybar (Q27125)
@@ -8990,6 +9018,7 @@
  - [Magdala/Taricheai](https://pleiades.stoa.org/places/678272)
  - [Marad](https://pleiades.stoa.org/places/912901)
  - [Mount Judi](https://pleiades.stoa.org/places/471828778)
+ - [Necropoli del Cavone di Monte Li Santi](https://pleiades.stoa.org/places/706729425)
  - [Per-Sopdu](https://pleiades.stoa.org/places/738393046)
  - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
  - [Roman Odeon of Gortyn](https://pleiades.stoa.org/places/481346137)
@@ -13791,6 +13820,13 @@
 
 ### alignments:
  - [House of the Four Styles](https://pleiades.stoa.org/places/644629084)
+
+
+## Q27070550
+[https://www.wikidata.org/wiki/Q27070550](https://www.wikidata.org/wiki/Q27070550)  
+
+### alignments:
+ - [Pompeii I.14.1](https://pleiades.stoa.org/places/5121770)
 
 
 ## Q27070567: Casa della Nave Europa
@@ -24313,6 +24349,13 @@
  - [Sirkap](https://pleiades.stoa.org/places/801825162)
 
 
+## Sirsukh (Q938289)
+[https://www.wikidata.org/wiki/Q938289](https://www.wikidata.org/wiki/Q938289)  
+
+### alignments:
+ - [Sirsukh](https://pleiades.stoa.org/places/74261593)
+
+
 ## Skala Roman villa (Q56240191)
 [https://www.wikidata.org/wiki/Q56240191](https://www.wikidata.org/wiki/Q56240191)  
 
@@ -24571,6 +24614,13 @@
 
 ### alignments:
  - [Tel Batash (Timnah)](https://pleiades.stoa.org/places/925655548)
+
+
+## Tell Afis (Q7697374)
+[https://www.wikidata.org/wiki/Q7697374](https://www.wikidata.org/wiki/Q7697374)  
+
+### alignments:
+ - [Tell Afis](https://pleiades.stoa.org/places/725486993)
 
 
 ## Tell Beit Mirsim (Q2402197)

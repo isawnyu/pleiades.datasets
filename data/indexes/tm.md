@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3601 alignments exist in _Pleiades_ place references as of 2024-07-31. The following list of alignments is grouped by zotkey.
+3602 alignments exist in _Pleiades_ place references as of 2024-08-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9996,6 +9996,13 @@
 
 ### alignments:
  - [Hispalis/Col. Romula](https://pleiades.stoa.org/places/256210)
+
+
+## GEO ID 26254
+[http://www.trismegistos.org/geo/26254](http://www.trismegistos.org/geo/26254)  
+
+### alignments:
+ - [Munigua](https://pleiades.stoa.org/places/256318)
 
 
 ## GEO ID 26286: Nertobriga (Fregenal de la Sierra)

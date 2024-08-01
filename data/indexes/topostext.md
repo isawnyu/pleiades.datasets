@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3467 alignments exist in _Pleiades_ place references as of 2024-07-31. The following list of alignments is grouped by zotkey.
+3468 alignments exist in _Pleiades_ place references as of 2024-08-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7415,6 +7415,13 @@
 
 ### alignments:
  - [Epikephisia](https://pleiades.stoa.org/places/579922)
+
+
+## Epiphaneia/Hamath/Amathe (Syria)
+[https://topostext.org/place/351367UEpi](https://topostext.org/place/351367UEpi)  
+
+### alignments:
+ - [Amathe/Epiphaneia](https://pleiades.stoa.org/places/668182)
 
 
 ## Epiros region (Thesprotia)
