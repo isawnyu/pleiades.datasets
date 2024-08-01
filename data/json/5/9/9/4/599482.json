@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        26.5255318,
-        37.2687988,
-        26.6142973,
-        37.3807027
+        26.53333,
+        37.38333,
+        26.53333,
+        37.38333
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_physical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
             "connectsTo": "https://pleiades.stoa.org/places/599872",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:40:44Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "part of (physical/topographic); BAtlas reference",
+                    "modified": "2024-07-31T16:00:52Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:40:44Z",
@@ -46,7 +58,19 @@
             ],
             "id": "599872",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 D3 Patmos",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Patmos (island)",
@@ -80,7 +104,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T09:03:00Z",
+    "created": "2024-07-31T15:56:46Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -91,49 +115,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 61 D3 Amazonion Pr.",
+    "description": "Cape Zoluphi, the northwest promontory of the island of Patmos, was known in ancient Greek as the Amazonion promontory.",
     "details": "<p>The Barrington Atlas Directory notes: Geranos, Patmos GRE</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.5,
-                            37.0
-                        ],
-                        [
-                            27.0,
-                            37.0
-                        ],
-                        [
-                            27.0,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.0
-                        ]
-                    ]
+                    26.53333,
+                    37.38333
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "geonames-location-approximate-of-akra-zouloufi",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/599482/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Undetermined location"
+                "description": "Coordinates following GeoNames, compared with BAtlas map 61 and Google Earth imagery.",
+                "link": "https://pleiades.stoa.org/places/599482/geonames-location-approximate-of-akra-zouloufi",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 1700 - AD 2100",
+                "title": "GeoNames location (approximate) of Ákra Zouloúfi"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2024-07-31T17:57:45Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-07-31T15:56:46Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2022-06-01T20:58:22Z",
@@ -179,110 +193,114 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-500m-horizontal-accuracy",
+            "accuracy_value": 500.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                }
+            ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2009-10-15T09:03:01Z",
+            "created": "2016-05-09T14:52:05Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Coordinates following GeoNames, compared with BAtlas map 61 and Google Earth imagery.",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.5,
-                            37.0
-                        ],
-                        [
-                            27.0,
-                            37.0
-                        ],
-                        [
-                            27.0,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.0
-                        ]
-                    ]
+                    26.53333,
+                    37.38333
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:56:06Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2009-10-15T18:04:03Z",
+                    "modified": "2024-07-31T15:56:04Z",
                     "modifiedBy": "thomase"
                 },
                 {
+                    "comment": "Edited",
+                    "modified": "2024-07-31T15:55:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2024-07-31T15:55:10Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "update geonames reference",
+                    "modified": "2024-07-31T01:08:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Submit for review",
-                    "modified": "2009-10-15T09:19:23Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2016-05-09T14:52:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2016-05-09T14:52:11Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2009-10-15T09:03:01Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2016-05-09T14:52:07Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "undetermined",
+            "id": "geonames-location-approximate-of-akra-zouloufi",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 61 D3 Amazonion Pr.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/251176/akra-zouloufi.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "251176: Ákra Zouloúfi",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": " ",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599482/undetermined"
+            "start": 1700,
+            "title": "GeoNames location (approximate) of Ákra Zouloúfi",
+            "uri": "https://pleiades.stoa.org/places/599482/geonames-location-approximate-of-akra-zouloufi"
         }
     ],
     "names": [
@@ -389,13 +407,13 @@
         }
     ],
     "reprPoint": [
-        26.563766182507585,
-        37.3275321806911
+        26.53333,
+        37.38333
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Amazonion Pr.",
+    "title": "Amazonion (promontory)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/599482"
 }
