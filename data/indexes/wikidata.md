@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3678 alignments exist in _Pleiades_ place references as of 2024-08-01. The following list of alignments is grouped by zotkey.
+3684 alignments exist in _Pleiades_ place references as of 2024-08-02. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1687,7 +1687,7 @@
 [https://www.wikidata.org/wiki/Q5089691](https://www.wikidata.org/wiki/Q5089691)  
 
 ### alignments:
- - [Cheimerion? Pr.](https://pleiades.stoa.org/places/530833)
+ - [Cheimerion? (promontory)](https://pleiades.stoa.org/places/530833)
 
 
 ## Chesterholm-Vindolanda (Samian Ware Discovery Site) (Q103159561)
@@ -2706,6 +2706,13 @@
  - [Henchir el Khaway](https://pleiades.stoa.org/places/344386)
 
 
+## Guild Temple and Mithraeum of Fructosus (Q127872528)
+[https://www.wikidata.org/wiki/Q127872528](https://www.wikidata.org/wiki/Q127872528)  
+
+### alignments:
+ - [Guild Temple and Mithraeum of Fructosus](https://pleiades.stoa.org/places/352230499)
+
+
 ## Gulf of Salerno (Q828574)
 [https://www.wikidata.org/wiki/Q828574](https://www.wikidata.org/wiki/Q828574)  
 
@@ -3229,6 +3236,13 @@
 
 ### alignments:
  - [Ioppe](https://pleiades.stoa.org/places/687931)
+
+
+## Julian Column (Q1712135)
+[https://www.wikidata.org/wiki/Q1712135](https://www.wikidata.org/wiki/Q1712135)  
+
+### alignments:
+ - [Column of Julian](https://pleiades.stoa.org/places/99394312)
 
 
 ## Kafkanas (Q21080095)
@@ -23649,6 +23663,13 @@
  - [Roman Bath House, Castleford](https://pleiades.stoa.org/places/337037056)
 
 
+## Roman Bridge (Q2179571)
+[https://www.wikidata.org/wiki/Q2179571](https://www.wikidata.org/wiki/Q2179571)  
+
+### alignments:
+ - [Saint-Thibéry Roman Bridge](https://pleiades.stoa.org/places/601039651)
+
+
 ## Roman bridge (Q98502872)
 [https://www.wikidata.org/wiki/Q98502872](https://www.wikidata.org/wiki/Q98502872)  
 
@@ -24130,6 +24151,13 @@
 
 ### alignments:
  - [Kriou Metopon Pr.](https://pleiades.stoa.org/places/226671)
+
+
+## Sasso Pinzuto necropolis (Q91088328)
+[https://www.wikidata.org/wiki/Q91088328](https://www.wikidata.org/wiki/Q91088328)  
+
+### alignments:
+ - [Sasso Pinzuto necropolis](https://pleiades.stoa.org/places/562679827)
 
 
 ## Scalae Caci (Q3951416)
@@ -24840,6 +24868,13 @@
  - [Aedes Salus](https://pleiades.stoa.org/places/377055053)
 
 
+## Temple of the Ship Carpenters (Q107095495)
+[https://www.wikidata.org/wiki/Q107095495](https://www.wikidata.org/wiki/Q107095495)  
+
+### alignments:
+ - [Temple of the Fabri Navales](https://pleiades.stoa.org/places/282772660)
+
+
 ## Temple of Thutmose III (Q86675259)
 [https://www.wikidata.org/wiki/Q86675259](https://www.wikidata.org/wiki/Q86675259)  
 
@@ -25539,6 +25574,13 @@
 
 ### alignments:
  - [*Via Curia](https://pleiades.stoa.org/places/358077243)
+
+
+## Via Minucia (Q94144672)
+[https://www.wikidata.org/wiki/Q94144672](https://www.wikidata.org/wiki/Q94144672)  
+
+### alignments:
+ - [Via Minucia / Traiana](https://pleiades.stoa.org/places/395708592)
 
 
 ## Via Popilia (Q1235451)
