@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        8.47938,
+        36.6761,
+        8.47938,
+        36.6761
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -31,7 +36,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-28T04:52:35Z",
+    "created": "2024-08-01T21:49:06Z",
     "creators": [
         {
             "name": "R.B. Hitchner",
@@ -39,22 +44,38 @@
         }
     ],
     "description": "A mountain, possibly Djebel Tegma.",
-    "details": "The Barrington Atlas Directory notes: Djebel Tegma?",
+    "details": "<p>The Barrington Atlas Directory notes: Djebel Tegma?</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    8.47938,
+                    36.6761
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-of-jabal-tegma",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/321706/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Coordinates following GeoNames.",
+                "link": "https://pleiades.stoa.org/places/321706/geonames-location-of-jabal-tegma",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "GeoNames location of Jabal Tegma"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "deleted pro forma BAtlas reference; added BAtlDir reference",
+            "modified": "2024-08-01T21:50:32Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-08-01T21:49:06Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-07-20T21:04:58Z",
@@ -100,91 +121,109 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-28T04:52:36Z",
+            "created": "2016-04-17T15:41:24Z",
             "creators": [
                 {
-                    "name": "R.B. Hitchner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Coordinates following GeoNames.",
             "details": "",
-            "end": 300,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    8.47938,
+                    36.6761
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:15:06Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-29T10:29:28Z",
+                    "modified": "2024-08-01T21:48:40Z",
                     "modifiedBy": "thomase"
                 },
                 {
+                    "comment": "uncertain",
+                    "modified": "2024-08-01T21:48:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2024-07-20T21:06:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Submit for review",
-                    "modified": "2010-09-28T05:08:44Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2016-04-17T15:41:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2016-04-17T15:41:38Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-28T04:52:36Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2016-04-17T15:41:28Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "geonames-location-of-jabal-tegma",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "provenance": "Barrington Atlas: BAtlas 32 Thammes M.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/2477354/jabal-tegma.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "2477354: Jabal Tegma",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": " ",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/321706/batlas-location"
+            "start": 1700,
+            "title": "GeoNames location of Jabal Tegma",
+            "uri": "https://pleiades.stoa.org/places/321706/geonames-location-of-jabal-tegma"
         }
     ],
     "names": [
@@ -282,17 +321,6 @@
     "provenance": "Barrington Atlas: BAtlas 32 Thammes M.",
     "references": [
         {
-            "accessURI": "http://www.worldcat.org/oclc/43970336",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "32 Thammes M.",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
-            "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
-            "type": "seeFurther"
-        },
-        {
             "accessURI": "http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&viewer=picture",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
@@ -302,9 +330,23 @@
             "otherIdentifier": "",
             "shortTitle": "AAA",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 506 see \"Thammes M.\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "BAtlDir",
+            "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        8.47938,
+        36.6761
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],

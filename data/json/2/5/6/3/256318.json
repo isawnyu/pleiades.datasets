@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -5.740734,
-        37.713343,
-        -5.740734,
-        37.713343
+        -5.7416796,
+        37.7127135,
+        -5.740258,
+        37.71394
     ],
     "connections": [],
     "connectsWith": [],
@@ -61,23 +61,70 @@
         {
             "geometry": {
                 "coordinates": [
-                    -5.740734,
-                    37.713343
+                    [
+                        -5.7410627,
+                        37.7127135
+                    ],
+                    [
+                        -5.7413953,
+                        37.7127814
+                    ],
+                    [
+                        -5.7416796,
+                        37.7134095
+                    ],
+                    [
+                        -5.7415455,
+                        37.7134732
+                    ],
+                    [
+                        -5.7414328,
+                        37.7136769
+                    ],
+                    [
+                        -5.7408052,
+                        37.71394
+                    ],
+                    [
+                        -5.7405316,
+                        37.7136684
+                    ],
+                    [
+                        -5.7403009,
+                        37.7133501
+                    ],
+                    [
+                        -5.740258,
+                        37.7130743
+                    ],
+                    [
+                        -5.7407355,
+                        37.7128027
+                    ],
+                    [
+                        -5.7410627,
+                        37.7127135
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-20506",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/256318/darmc-location-20506",
+                "description": "Representative location based on OpenStreetMap.",
+                "link": "https://pleiades.stoa.org/places/256318/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 20506"
+                "snippet": "Settlement; 30 BC - AD 300",
+                "title": "OSM location of Conjunto arqueológico de Mulva - Munigua"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-08-01T15:13:21Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-08-01T02:58:57Z",
@@ -138,9 +185,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -151,91 +198,136 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:15:05Z",
+            "contributors": [],
+            "created": "2014-07-04T14:56:27Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 20506",
+            "description": "Representative location based on OpenStreetMap.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    -5.740734,
-                    37.713343
+                    [
+                        -5.7410627,
+                        37.7127135
+                    ],
+                    [
+                        -5.7413953,
+                        37.7127814
+                    ],
+                    [
+                        -5.7416796,
+                        37.7134095
+                    ],
+                    [
+                        -5.7415455,
+                        37.7134732
+                    ],
+                    [
+                        -5.7414328,
+                        37.7136769
+                    ],
+                    [
+                        -5.7408052,
+                        37.71394
+                    ],
+                    [
+                        -5.7405316,
+                        37.7136684
+                    ],
+                    [
+                        -5.7403009,
+                        37.7133501
+                    ],
+                    [
+                        -5.740258,
+                        37.7130743
+                    ],
+                    [
+                        -5.7407355,
+                        37.7128027
+                    ],
+                    [
+                        -5.7410627,
+                        37.7127135
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:45:20Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:14:54Z",
+                    "modified": "2024-08-01T15:12:55Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-10T00:15:07Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-08-01T02:58:22Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:15:06Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2018-04-08T03:11:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2014-07-04T14:57:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-07-04T14:56:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-07-04T14:56:29Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T00:15:05Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-07-04T14:56:29Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20506",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 20506",
+            "provenance": "OpenStreetMap (Way 156255475, version 6, osm:changeset=96203843, 2020-12-21T15:10:54Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/156255475",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20506",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 156255475",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20506.",
+                    "formattedCitation": "osm:way=156255475",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 20506",
-            "uri": "https://pleiades.stoa.org/places/256318/darmc-location-20506"
+            "title": "OSM location of Conjunto arqueológico de Mulva - Munigua",
+            "uri": "https://pleiades.stoa.org/places/256318/osm-location"
         }
     ],
     "names": [
@@ -383,11 +475,22 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20506",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -5.740734,
-        37.713343
+        -5.740966549934419,
+        37.713293112007165
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

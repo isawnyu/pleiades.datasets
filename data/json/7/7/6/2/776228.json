@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        30.551462,
-        25.234759,
-        30.551462,
-        25.234759
+        30.5707787,
+        25.2511395,
+        30.5710772,
+        25.2518204
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    30.551462,
-                    25.234759
+                    [
+                        30.5707787,
+                        25.2518107
+                    ],
+                    [
+                        30.5708082,
+                        25.2511395
+                    ],
+                    [
+                        30.5710772,
+                        25.2511491
+                    ],
+                    [
+                        30.5710477,
+                        25.2518204
+                    ],
+                    [
+                        30.5707787,
+                        25.2518107
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-15032",
+            "id": "location-of-temple",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/776228/darmc-location-15032",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/776228/location-of-temple",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 15032"
+                "snippet": "Temple-2; 30 BC - AD 640",
+                "title": "OSM location of Qasr ez-Zaiyan"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-08-01T17:53:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-07-30T00:30:07Z",
@@ -126,8 +149,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -135,97 +158,132 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-31T19:57:20Z",
+            "contributors": [],
+            "created": "2014-03-09T23:51:09Z",
             "creators": [
                 {
-                    "name": "G. Wagner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 15032",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "temple-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    30.551462,
-                    25.234759
+                    [
+                        30.5707787,
+                        25.2518107
+                    ],
+                    [
+                        30.5708082,
+                        25.2511395
+                    ],
+                    [
+                        30.5710772,
+                        25.2511491
+                    ],
+                    [
+                        30.5710477,
+                        25.2518204
+                    ],
+                    [
+                        30.5707787,
+                        25.2518107
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:23:53Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2024-08-01T17:52:55Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-01-31T20:01:44Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "update",
+                    "modified": "2024-07-30T00:29:06Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-07-30T00:28:29Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-31T19:57:21Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2016-08-29T03:00:51Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T19:57:21Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2016-08-29T03:00:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-03-09T23:52:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-09T23:51:13Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-31T19:57:20Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-03-09T23:51:10Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-15032",
+            "id": "location-of-temple",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "DARMC OBJECTID: 15032",
+            "provenance": "OpenStreetMap (Way 265345189, version 1, osm:changeset=21016936, 2014-03-09T23:50:42Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/265345189",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15032",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 265345189",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15032.",
+                    "formattedCitation": "osm:way=265345189",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://de.wikivoyage.org/wiki/Qa%E1%B9%A3r_ez-Zaiy%C4%81n",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Qaṣr ez-Zaiyān",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 15032",
-            "uri": "https://pleiades.stoa.org/places/776228/darmc-location-15032"
+            "title": "OSM location of Qasr ez-Zaiyan",
+            "uri": "https://pleiades.stoa.org/places/776228/location-of-temple"
         }
     ],
     "names": [
@@ -351,11 +409,22 @@
             "otherIdentifier": " ",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15032",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        30.551462,
-        25.234759
+        30.570927957111127,
+        25.251479925895396
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
