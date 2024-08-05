@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3684 alignments exist in _Pleiades_ place references as of 2024-08-02. The following list of alignments is grouped by zotkey.
+3689 alignments exist in _Pleiades_ place references as of 2024-08-05. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1431,6 +1431,13 @@
  - [Kanovium/Conovium](https://pleiades.stoa.org/places/79542)
 
 
+## Capdenac (Q1064107)
+[https://www.wikidata.org/wiki/Q1064107](https://www.wikidata.org/wiki/Q1064107)  
+
+### alignments:
+ - [Capdenac](https://pleiades.stoa.org/places/267375511)
+
+
 ## Cappadocia (Q217265)
 [https://www.wikidata.org/wiki/Q217265](https://www.wikidata.org/wiki/Q217265)  
 
@@ -1548,6 +1555,13 @@
 
 ### alignments:
  - [Duel](https://pleiades.stoa.org/places/187365)
+
+
+## Castra of Waldmössingen (Q1735435)
+[https://www.wikidata.org/wiki/Q1735435](https://www.wikidata.org/wiki/Q1735435)  
+
+### alignments:
+ - [Kastell Waldmössingen](https://pleiades.stoa.org/places/118956)
 
 
 ## Castra of Zăvoi (Q5050761)
@@ -2552,6 +2566,13 @@
  - [Théatre Gallo-Romains](https://pleiades.stoa.org/places/162936020)
 
 
+## Gallo-Roman villa of Lamarque (Q3559074)
+[https://www.wikidata.org/wiki/Q3559074](https://www.wikidata.org/wiki/Q3559074)  
+
+### alignments:
+ - [Lamarque Gallo-Roman Villa](https://pleiades.stoa.org/places/249936)
+
+
 ## Garden (II.5.5) (Q27685742)
 [https://www.wikidata.org/wiki/Q27685742](https://www.wikidata.org/wiki/Q27685742)  
 
@@ -3320,6 +3341,13 @@
 
 ### alignments:
  - [Kastanas](https://pleiades.stoa.org/places/455250148)
+
+
+## Kastell Neckarburken (Q1343017)
+[https://www.wikidata.org/wiki/Q1343017](https://www.wikidata.org/wiki/Q1343017)  
+
+### alignments:
+ - [Neckarburken](https://pleiades.stoa.org/places/118862)
 
 
 ## Kastelorizo (Q212096)
@@ -5372,6 +5400,13 @@
 
 ### alignments:
  - [Kainys (promontory)](https://pleiades.stoa.org/places/452350)
+
+
+## Puy d'Issolud (Q16964768)
+[https://www.wikidata.org/wiki/Q16964768](https://www.wikidata.org/wiki/Q16964768)  
+
+### alignments:
+ - [Puy d'Issolud](https://pleiades.stoa.org/places/562348631)
 
 
 ## Pyramid of Amenemhet I (Q462160)

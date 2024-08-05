@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3602 alignments exist in _Pleiades_ place references as of 2024-08-02. The following list of alignments is grouped by zotkey.
+3603 alignments exist in _Pleiades_ place references as of 2024-08-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -664,6 +664,13 @@
 
 ### alignments:
  - [Tanis](https://pleiades.stoa.org/places/727236)
+
+
+## Geo 22898: Castelculier
+[https://www.trismegistos.org/place/22898](https://www.trismegistos.org/place/22898)  
+
+### alignments:
+ - [Lamarque Gallo-Roman Villa](https://pleiades.stoa.org/places/249936)
 
 
 ## Geo 2299: Telmessos (Fethiye)
@@ -14568,7 +14575,7 @@
 [http://www.trismegistos.org/place/3431](http://www.trismegistos.org/place/3431)  
 
 ### alignments:
- - [Mareotis L.](https://pleiades.stoa.org/places/727154)
+ - [Mareotis (lake)](https://pleiades.stoa.org/places/727154)
 
 
 ## GEO ID 34335: Laranda
