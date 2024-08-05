@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -9.157016,
-        39.362156,
-        -9.157016,
-        39.362156
+        -9.1497877,
+        39.3604813,
+        -9.1320642,
+        39.3685681
     ],
     "connections": [],
     "connectsWith": [],
@@ -67,23 +67,190 @@
         {
             "geometry": {
                 "coordinates": [
-                    -9.157016,
-                    39.362156
+                    [
+                        -9.1373846,
+                        39.363509
+                    ],
+                    [
+                        -9.1368851,
+                        39.3642306
+                    ],
+                    [
+                        -9.1358384,
+                        39.3651968
+                    ],
+                    [
+                        -9.1346891,
+                        39.3657442
+                    ],
+                    [
+                        -9.1333133,
+                        39.3660758
+                    ],
+                    [
+                        -9.1320642,
+                        39.3662614
+                    ],
+                    [
+                        -9.1321436,
+                        39.3667333
+                    ],
+                    [
+                        -9.1330562,
+                        39.3667224
+                    ],
+                    [
+                        -9.134243,
+                        39.3671098
+                    ],
+                    [
+                        -9.1348827,
+                        39.3678705
+                    ],
+                    [
+                        -9.1349613,
+                        39.3685212
+                    ],
+                    [
+                        -9.1416477,
+                        39.3685681
+                    ],
+                    [
+                        -9.1427043,
+                        39.3669198
+                    ],
+                    [
+                        -9.1429669,
+                        39.3660429
+                    ],
+                    [
+                        -9.1439648,
+                        39.3657162
+                    ],
+                    [
+                        -9.1480539,
+                        39.3624588
+                    ],
+                    [
+                        -9.1492304,
+                        39.3625353
+                    ],
+                    [
+                        -9.1495449,
+                        39.3626885
+                    ],
+                    [
+                        -9.1497877,
+                        39.3604813
+                    ],
+                    [
+                        -9.1493721,
+                        39.3605962
+                    ],
+                    [
+                        -9.1480687,
+                        39.3605936
+                    ],
+                    [
+                        -9.1448248,
+                        39.3608875
+                    ],
+                    [
+                        -9.1438115,
+                        39.3609078
+                    ],
+                    [
+                        -9.1430375,
+                        39.3606919
+                    ],
+                    [
+                        -9.1427034,
+                        39.3606045
+                    ],
+                    [
+                        -9.1422123,
+                        39.3607201
+                    ],
+                    [
+                        -9.1416806,
+                        39.361001
+                    ],
+                    [
+                        -9.1409819,
+                        39.3614136
+                    ],
+                    [
+                        -9.1401103,
+                        39.3616415
+                    ],
+                    [
+                        -9.1395259,
+                        39.3614835
+                    ],
+                    [
+                        -9.1390295,
+                        39.361248
+                    ],
+                    [
+                        -9.1384737,
+                        39.3610832
+                    ],
+                    [
+                        -9.1367484,
+                        39.3607193
+                    ],
+                    [
+                        -9.1360233,
+                        39.3606793
+                    ],
+                    [
+                        -9.1359712,
+                        39.3608678
+                    ],
+                    [
+                        -9.1360585,
+                        39.3610148
+                    ],
+                    [
+                        -9.1367097,
+                        39.3612772
+                    ],
+                    [
+                        -9.1371449,
+                        39.3619078
+                    ],
+                    [
+                        -9.1374578,
+                        39.3623703
+                    ],
+                    [
+                        -9.1375379,
+                        39.3630074
+                    ],
+                    [
+                        -9.1373846,
+                        39.363509
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-19771",
+            "id": "osm-location",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/256153/darmc-location-19771",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/256153/osm-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 19771"
+                "snippet": "Settlement; 30 BC - AD 300",
+                "title": "OSM location of Cidade Romana de Eburobrittium"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-08-02T22:08:04Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updated refs., added topostext, RE, wikidata",
             "modified": "2020-11-20T21:43:26Z",
@@ -139,9 +306,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -152,91 +319,256 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:50:24Z",
+            "contributors": [],
+            "created": "2014-05-03T18:24:21Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
-                    "username": null
-                },
-                {
-                    "name": "F.H. Stanley, Jr.",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 19771",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    -9.157016,
-                    39.362156
+                    [
+                        -9.1373846,
+                        39.363509
+                    ],
+                    [
+                        -9.1368851,
+                        39.3642306
+                    ],
+                    [
+                        -9.1358384,
+                        39.3651968
+                    ],
+                    [
+                        -9.1346891,
+                        39.3657442
+                    ],
+                    [
+                        -9.1333133,
+                        39.3660758
+                    ],
+                    [
+                        -9.1320642,
+                        39.3662614
+                    ],
+                    [
+                        -9.1321436,
+                        39.3667333
+                    ],
+                    [
+                        -9.1330562,
+                        39.3667224
+                    ],
+                    [
+                        -9.134243,
+                        39.3671098
+                    ],
+                    [
+                        -9.1348827,
+                        39.3678705
+                    ],
+                    [
+                        -9.1349613,
+                        39.3685212
+                    ],
+                    [
+                        -9.1416477,
+                        39.3685681
+                    ],
+                    [
+                        -9.1427043,
+                        39.3669198
+                    ],
+                    [
+                        -9.1429669,
+                        39.3660429
+                    ],
+                    [
+                        -9.1439648,
+                        39.3657162
+                    ],
+                    [
+                        -9.1480539,
+                        39.3624588
+                    ],
+                    [
+                        -9.1492304,
+                        39.3625353
+                    ],
+                    [
+                        -9.1495449,
+                        39.3626885
+                    ],
+                    [
+                        -9.1497877,
+                        39.3604813
+                    ],
+                    [
+                        -9.1493721,
+                        39.3605962
+                    ],
+                    [
+                        -9.1480687,
+                        39.3605936
+                    ],
+                    [
+                        -9.1448248,
+                        39.3608875
+                    ],
+                    [
+                        -9.1438115,
+                        39.3609078
+                    ],
+                    [
+                        -9.1430375,
+                        39.3606919
+                    ],
+                    [
+                        -9.1427034,
+                        39.3606045
+                    ],
+                    [
+                        -9.1422123,
+                        39.3607201
+                    ],
+                    [
+                        -9.1416806,
+                        39.361001
+                    ],
+                    [
+                        -9.1409819,
+                        39.3614136
+                    ],
+                    [
+                        -9.1401103,
+                        39.3616415
+                    ],
+                    [
+                        -9.1395259,
+                        39.3614835
+                    ],
+                    [
+                        -9.1390295,
+                        39.361248
+                    ],
+                    [
+                        -9.1384737,
+                        39.3610832
+                    ],
+                    [
+                        -9.1367484,
+                        39.3607193
+                    ],
+                    [
+                        -9.1360233,
+                        39.3606793
+                    ],
+                    [
+                        -9.1359712,
+                        39.3608678
+                    ],
+                    [
+                        -9.1360585,
+                        39.3610148
+                    ],
+                    [
+                        -9.1367097,
+                        39.3612772
+                    ],
+                    [
+                        -9.1371449,
+                        39.3619078
+                    ],
+                    [
+                        -9.1374578,
+                        39.3623703
+                    ],
+                    [
+                        -9.1375379,
+                        39.3630074
+                    ],
+                    [
+                        -9.1373846,
+                        39.363509
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:43:43Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:13:52Z",
+                    "modified": "2024-08-02T22:07:39Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T23:50:25Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-08-02T22:06:44Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:50:25Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "edited title, summary. set remains to traces",
+                    "modified": "2020-11-20T21:44:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2014-05-03T18:25:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-05-03T18:24:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-03T18:24:24Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T23:50:24Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-05-03T18:24:23Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-19771",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 19771",
+            "provenance": "OpenStreetMap (Way 279019161, version 24, osm:changeset=149713640, 2024-04-08T00:10:27Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/279019161",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19771",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 279019161",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19771.",
+                    "formattedCitation": "osm:way=279019161",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 19771",
-            "uri": "https://pleiades.stoa.org/places/256153/darmc-location-19771"
+            "title": "OSM location of Cidade Romana de Eburobrittium",
+            "uri": "https://pleiades.stoa.org/places/256153/osm-location"
         }
     ],
     "names": [
@@ -462,11 +794,22 @@
             "otherIdentifier": "",
             "shortTitle": "RE",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "19771",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -9.157016,
-        39.362156
+        -9.14076428468125,
+        39.364112251477465
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
