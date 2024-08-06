@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3689 alignments exist in _Pleiades_ place references as of 2024-08-05. The following list of alignments is grouped by zotkey.
+3690 alignments exist in _Pleiades_ place references as of 2024-08-06. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1436,6 +1436,13 @@
 
 ### alignments:
  - [Capdenac](https://pleiades.stoa.org/places/267375511)
+
+
+## Capo Sant'Andrea (Q34835749)
+[https://www.wikidata.org/wiki/Q34835749](https://www.wikidata.org/wiki/Q34835749)  
+
+### alignments:
+ - [Argennon Akron](https://pleiades.stoa.org/places/462102)
 
 
 ## Cappadocia (Q217265)

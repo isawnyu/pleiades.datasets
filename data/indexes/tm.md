@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3603 alignments exist in _Pleiades_ place references as of 2024-08-05. The following list of alignments is grouped by zotkey.
+3605 alignments exist in _Pleiades_ place references as of 2024-08-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2323,6 +2323,13 @@
 
 ### alignments:
  - [Anthedon/Agrippias](https://pleiades.stoa.org/places/687826)
+
+
+## GEO ID 11129: Glaukon Akron
+[https://www.trismegistos.org/place/11129](https://www.trismegistos.org/place/11129)  
+
+### alignments:
+ - [Glaukon Akron](https://pleiades.stoa.org/places/716564)
 
 
 ## GEO ID 11131: Pelousiakon Stoma
@@ -7560,6 +7567,13 @@
 
 ### alignments:
  - [Kailios (river)](https://pleiades.stoa.org/places/89213)
+
+
+## GEO ID 19654: Taexalorum Promontorium (Kinnairds Head)
+[http://www.trismegistos.org/place/19654](http://www.trismegistos.org/place/19654)  
+
+### alignments:
+ - [Taixalon Akron](https://pleiades.stoa.org/places/89296)
 
 
 ## GEO ID 19658: Bodotria (River Forth)
