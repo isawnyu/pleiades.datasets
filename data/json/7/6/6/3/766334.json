@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.24015,
-        26.670416,
-        33.24015,
-        26.670416
+        33.2401794,
+        26.6713721,
+        33.2411825,
+        26.672187
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,28 +44,51 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 78 C4 Abu Zawal",
-    "details": "The Barrington Atlas Directory notes: Abu Zawal, road station and mine",
+    "details": "<p>The Barrington Atlas Directory notes: Abu Zawal, road station and mine</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    33.24015,
-                    26.670416
+                    [
+                        33.2410055,
+                        26.672187
+                    ],
+                    [
+                        33.2401794,
+                        26.6718946
+                    ],
+                    [
+                        33.2403832,
+                        26.6713721
+                    ],
+                    [
+                        33.2411825,
+                        26.6716166
+                    ],
+                    [
+                        33.2410055,
+                        26.672187
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-21558",
+            "id": "location-of-abu-zawal",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/766334/darmc-location-21558",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/766334/location-of-abu-zawal",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 21558"
+                "snippet": "Fort, ; 30 BC - AD 300",
+                "title": "OSM location of Abu Zawal"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-08-06T19:39:30Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-07-19T20:36:25Z",
@@ -111,8 +134,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -124,87 +147,110 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:42:32Z",
+            "contributors": [],
+            "created": "2014-03-09T01:00:21Z",
             "creators": [
                 {
-                    "name": "S.E. Sidebotham",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21558",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fort",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    33.24015,
-                    26.670416
+                    [
+                        33.2410055,
+                        26.672187
+                    ],
+                    [
+                        33.2401794,
+                        26.6718946
+                    ],
+                    [
+                        33.2403832,
+                        26.6713721
+                    ],
+                    [
+                        33.2411825,
+                        26.6716166
+                    ],
+                    [
+                        33.2410055,
+                        26.672187
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:22:06Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:16:01Z",
+                    "modified": "2024-08-06T19:39:07Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-10T00:42:33Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-07-19T20:33:36Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:42:33Z",
-                    "modifiedBy": "sgillies"
+                    "action": "Submit for review",
+                    "modified": "2014-03-09T01:05:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-03-09T01:02:28Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-09T01:00:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T00:42:32Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-03-09T01:00:23Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21558",
+            "id": "location-of-abu-zawal",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 21558",
+            "provenance": "OpenStreetMap (Way 265139373, version 1, osm:changeset=20997918, 2014-03-09T00:59:52Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/265139373",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21558",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 265139373",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21558.",
+                    "formattedCitation": "osm:way=265139373",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 21558",
-            "uri": "https://pleiades.stoa.org/places/766334/darmc-location-21558"
+            "title": "OSM location of Abu Zawal",
+            "uri": "https://pleiades.stoa.org/places/766334/location-of-abu-zawal"
         }
     ],
     "names": [],
@@ -250,11 +296,22 @@
             "otherIdentifier": "",
             "shortTitle": "Klein 1988",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21558",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        33.24015,
-        26.670416
+        33.2406914600836,
+        26.671773128499986
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        34.098712,
-        25.115601,
-        34.098712,
-        25.115601
+        34.0774592,
+        25.1728423,
+        34.0780654,
+        25.1732719
     ],
     "connections": [],
     "connectsWith": [],
@@ -52,28 +52,51 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 80 E3 Bezah",
-    "details": "The Barrington Atlas Directory notes: Bezah",
+    "details": "<p>The Barrington Atlas Directory notes: Bezah</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    34.098712,
-                    25.115601
+                    [
+                        34.0775316,
+                        25.1732719
+                    ],
+                    [
+                        34.0774592,
+                        25.1729272
+                    ],
+                    [
+                        34.0779849,
+                        25.1728423
+                    ],
+                    [
+                        34.0780654,
+                        25.1732137
+                    ],
+                    [
+                        34.0775316,
+                        25.1732719
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-7355",
+            "id": "bezah",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/785987/darmc-location-7355",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/785987/bezah",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 7355"
+                "snippet": "Fort, ; 30 BC - AD 640",
+                "title": "OSM location of Bezah"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-08-06T19:26:07Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-07-19T21:13:55Z",
@@ -119,8 +142,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -128,105 +151,130 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-early-empire-late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-early-empire-late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:45:12Z",
+            "contributors": [],
+            "created": "2014-03-08T21:56:15Z",
             "creators": [
                 {
-                    "name": "J. Keenan",
-                    "username": null
-                },
-                {
-                    "name": "S.E. Sidebotham",
-                    "username": null
-                },
-                {
-                    "name": "T. Wilfong",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 7355",
+            "description": "Location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort",
+                ""
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
             "geometry": {
                 "coordinates": [
-                    34.098712,
-                    25.115601
+                    [
+                        34.0775316,
+                        25.1732719
+                    ],
+                    [
+                        34.0774592,
+                        25.1729272
+                    ],
+                    [
+                        34.0779849,
+                        25.1728423
+                    ],
+                    [
+                        34.0780654,
+                        25.1732137
+                    ],
+                    [
+                        34.0775316,
+                        25.1732719
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:24:55Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:00:35Z",
+                    "modified": "2024-08-06T19:25:43Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T19:45:14Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-07-19T20:50:05Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:45:13Z",
-                    "modifiedBy": "sgillies"
+                    "action": "Submit for review",
+                    "modified": "2014-03-08T22:00:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added reference",
+                    "modified": "2014-03-08T21:57:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-03-08T21:56:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-03-08T21:56:19Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:45:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-03-08T21:56:17Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-7355",
+            "id": "bezah",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort",
+                "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "DARMC OBJECTID: 7355",
+            "provenance": "OpenStreetMap (Way 265117128, version 1, osm:changeset=20995756, 2014-03-08T21:55:54Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.openstreetmap.org/browse/way/265117128",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7355",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 265117128",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7355.",
+                    "formattedCitation": "osm:way=265117128",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://vici.org/vici/7766",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "vici.org, 7766",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 7355",
-            "uri": "https://pleiades.stoa.org/places/785987/darmc-location-7355"
+            "title": "OSM location of Bezah",
+            "uri": "https://pleiades.stoa.org/places/785987/bezah"
         }
     ],
     "names": [],
@@ -259,11 +307,22 @@
             "otherIdentifier": "",
             "shortTitle": "Sidebotham 1995",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7355",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        34.098712,
-        25.115601
+        34.07776445678184,
+        25.173063665304266
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
