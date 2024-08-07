@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3690 alignments exist in _Pleiades_ place references as of 2024-08-06. The following list of alignments is grouped by zotkey.
+3692 alignments exist in _Pleiades_ place references as of 2024-08-07. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1317,6 +1317,13 @@
 
 ### alignments:
  - [Oued Cherchira Roman Bridge](https://pleiades.stoa.org/places/798954739)
+
+
+## Broxtowe Roman fort (Q72578139)
+[https://www.wikidata.org/wiki/Q72578139](https://www.wikidata.org/wiki/Q72578139)  
+
+### alignments:
+ - [Broxtowe Roman fort](https://pleiades.stoa.org/places/985158683)
 
 
 ## Bu Njem (Gholaia) (Q1918358)
@@ -4357,6 +4364,13 @@
 
 ### alignments:
  - [Nauplia](https://pleiades.stoa.org/places/570501)
+
+
+## Navicella nuragica (Q111902598)
+[https://www.wikidata.org/wiki/Q111902598](https://www.wikidata.org/wiki/Q111902598)  
+
+### alignments:
+ - [Tomba del Duce, Vetulonia](https://pleiades.stoa.org/places/182270778)
 
 
 ## Naxos (polis) (Q96575378)
@@ -21737,13 +21751,6 @@
  - [Ptolemais Theron](https://pleiades.stoa.org/places/39409)
 
 
-## Q72578139
-[https://www.wikidata.org/wiki/Q72578139](https://www.wikidata.org/wiki/Q72578139)  
-
-### alignments:
- - [Broxtowe Roman fort](https://pleiades.stoa.org/places/985158683)
-
-
 ## Q7267043: Qasr al Abd
 [https://www.wikidata.org/wiki/Q7267043](https://www.wikidata.org/wiki/Q7267043)  
 
@@ -25371,6 +25378,13 @@
 
 ### alignments:
  - [Tomb of the sons of Sextus Pompeius Justus](https://pleiades.stoa.org/places/402816478)
+
+
+## Tomba del Duce (Q3531029)
+[https://www.wikidata.org/wiki/Q3531029](https://www.wikidata.org/wiki/Q3531029)  
+
+### alignments:
+ - [Tomba del Duce, Vetulonia](https://pleiades.stoa.org/places/182270778)
 
 
 ## Tomba di Nerone (Q56256439)
