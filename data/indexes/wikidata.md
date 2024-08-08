@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3692 alignments exist in _Pleiades_ place references as of 2024-08-07. The following list of alignments is grouped by zotkey.
+3693 alignments exist in _Pleiades_ place references as of 2024-08-08. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -41,6 +41,13 @@
 
 ### alignments:
  - [Achaea/Achaia (region)](https://pleiades.stoa.org/places/570028)
+
+
+## Achaion Limen (Q64827485)
+[https://www.wikidata.org/wiki/Q64827485](https://www.wikidata.org/wiki/Q64827485)  
+
+### alignments:
+ - [Achaion Limen](https://pleiades.stoa.org/places/550399)
 
 
 ## Acherdous (Q13426470)
