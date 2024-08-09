@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3693 alignments exist in _Pleiades_ place references as of 2024-08-08. The following list of alignments is grouped by zotkey.
+3694 alignments exist in _Pleiades_ place references as of 2024-08-09. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3327,6 +3327,13 @@
 
 ### alignments:
  - [Karanis](https://pleiades.stoa.org/places/736932)
+
+
+## Karataş inscription (Q1664380)
+[https://www.wikidata.org/wiki/Q1664380](https://www.wikidata.org/wiki/Q1664380)  
+
+### alignments:
+ - [Karataş](https://pleiades.stoa.org/places/665894864)
 
 
 ## Karfi (Q1734354)
