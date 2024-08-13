@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3468 alignments exist in _Pleiades_ place references as of 2024-08-09. The following list of alignments is grouped by zotkey.
+3470 alignments exist in _Pleiades_ place references as of 2024-08-13. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5599,6 +5599,13 @@
  - [Chyretiai](https://pleiades.stoa.org/places/540712)
 
 
+## Cibalae (Pannonia)
+[https://topostext.org/place/453188UCib](https://topostext.org/place/453188UCib)  
+
+### alignments:
+ - [Cibalae](https://pleiades.stoa.org/places/197207)
+
+
 ## Cibyra (Caria)
 [https://topostext.org/place/372295UCib](https://topostext.org/place/372295UCib)  
 
@@ -9307,6 +9314,13 @@
 
 ### alignments:
  - [Temple of Hercules Victor](https://pleiades.stoa.org/places/825969667)
+
+
+## Hercynian Forest (Germania)
+[https://topostext.org/place/484084RHer](https://topostext.org/place/484084RHer)  
+
+### alignments:
+ - [Hercynia Silva](https://pleiades.stoa.org/places/123090)
 
 
 ## Herdoniae/Ardaneae/Civitas Serdonis (Italy)

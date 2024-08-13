@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-470 alignments exist in _Pleiades_ place references as of 2024-08-09. The following list of alignments is grouped by zotkey.
+471 alignments exist in _Pleiades_ place references as of 2024-08-13. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -708,6 +708,13 @@
 
 ### alignments:
  - [Antikyra](https://pleiades.stoa.org/places/540642)
+
+
+## 10.36.5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.36.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.36.5)  
+
+### alignments:
+ - [Artemis Diktynnaia, T.](https://pleiades.stoa.org/places/540664)
 
 
 ## 10.38.4

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3605 alignments exist in _Pleiades_ place references as of 2024-08-09. The following list of alignments is grouped by zotkey.
+3618 alignments exist in _Pleiades_ place references as of 2024-08-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9746,6 +9746,13 @@
  - [Aeminium](https://pleiades.stoa.org/places/236321)
 
 
+## GEO ID 25783: Conimbriga (Condeixa-a-Velha)
+[https://www.trismegistos.org/place/25783](https://www.trismegistos.org/place/25783)  
+
+### alignments:
+ - [Conimbriga](https://pleiades.stoa.org/places/236443)
+
+
 ## GEO ID 25813: Ossonoba (Faro)
 [https://www.trismegistos.org/place/25813](https://www.trismegistos.org/place/25813)  
 
@@ -9870,6 +9877,13 @@
 
 ### alignments:
  - [Ulia (Fidentia)](https://pleiades.stoa.org/places/256499)
+
+
+## GEO ID 26085: Acci Vetus (Iznalloz)
+[http://www.trismegistos.org/place/26085](http://www.trismegistos.org/place/26085)  
+
+### alignments:
+ - [Agatucci?](https://pleiades.stoa.org/places/265784)
 
 
 ## GEO ID 26108: Arucci (Aroche)
@@ -10958,6 +10972,13 @@
  - [Teutoburgium](https://pleiades.stoa.org/places/197551)
 
 
+## GEO ID 29142: Cibalae (Vinkovci)
+[https://www.trismegistos.org/place/29142](https://www.trismegistos.org/place/29142)  
+
+### alignments:
+ - [Cibalae](https://pleiades.stoa.org/places/197207)
+
+
 ## GEO ID 29147: Vetus Salina (Adony)
 [https://www.trismegistos.org/place/29147](https://www.trismegistos.org/place/29147)  
 
@@ -11299,6 +11320,13 @@
 
 ### alignments:
  - [Ratiaria](https://pleiades.stoa.org/places/207376)
+
+
+## GEO ID 29791: Bononia (Vidin)
+[https://www.trismegistos.org/place/29791](https://www.trismegistos.org/place/29791)  
+
+### alignments:
+ - [Bononia](https://pleiades.stoa.org/places/206975)
 
 
 ## GEO ID 297: Argaitidos Euergetou Dioryx
@@ -11756,6 +11784,13 @@
  - [Lepidoton Polis](https://pleiades.stoa.org/places/756591)
 
 
+## GEO ID 30969: Ad Malum (Materija)
+[https://www.trismegistos.org/place/30969](https://www.trismegistos.org/place/30969)  
+
+### alignments:
+ - [Ad Malum](https://pleiades.stoa.org/places/197070)
+
+
 ## GEO ID 31016
 [http://www.trismegistos.org/place/31016](http://www.trismegistos.org/place/31016)  
 
@@ -11845,6 +11880,13 @@
 
 ### alignments:
  - [Batnae/Markopolis](https://pleiades.stoa.org/places/658405)
+
+
+## GEO ID 31487: Industria (Monteu da Po)
+[https://www.trismegistos.org/place/31487](https://www.trismegistos.org/place/31487)  
+
+### alignments:
+ - [Industria/Bodincomagum?](https://pleiades.stoa.org/places/383677)
 
 
 ## GEO ID 3148: Masada (El-Sebbe)
@@ -12882,6 +12924,13 @@
 
 ### alignments:
  - [Sublanuvio](https://pleiades.stoa.org/places/423077)
+
+
+## GEO ID 32481: Liternum (Literno)
+[http://www.trismegistos.org/place/32481](http://www.trismegistos.org/place/32481)  
+
+### alignments:
+ - [Liternum](https://pleiades.stoa.org/places/432911)
 
 
 ## GEO ID 32486: Mons Albanus (Rocca di Papa)
@@ -14172,7 +14221,7 @@
  - [Eurymenai](https://pleiades.stoa.org/places/540784)
 
 
-## GEO ID 3350
+## GEO ID 3350: Placentia (Piacenza)
 [http://www.trismegistos.org/place/3350](http://www.trismegistos.org/place/3350)  
 
 ### alignments:
@@ -16476,6 +16525,13 @@
  - [Didymai? (islands)](https://pleiades.stoa.org/places/727109)
 
 
+## GEO ID 40413: Ulmo (Tovarnik)
+[https://www.trismegistos.org/place/40413](https://www.trismegistos.org/place/40413)  
+
+### alignments:
+ - [Spaneta](https://pleiades.stoa.org/places/207460)
+
+
 ## GEO ID 40418: Axuenna (Évergnicourt)
 [http://www.trismegistos.org/place/40418](http://www.trismegistos.org/place/40418)  
 
@@ -16761,6 +16817,13 @@
 
 ### alignments:
  - [Ad Vincesimum/Magnana](https://pleiades.stoa.org/places/857012)
+
+
+## GEO ID 40706: Dorticum
+[https://www.trismegistos.org/place/40706](https://www.trismegistos.org/place/40706)  
+
+### alignments:
+ - [Dorticum](https://pleiades.stoa.org/places/207093)
 
 
 ## GEO ID 40712: Ad Salices
@@ -17629,6 +17692,13 @@
 
 ### alignments:
  - [Ad Labores Pontis Ulcae/‘Leutuoano’](https://pleiades.stoa.org/places/197065)
+
+
+## GEO ID 41310: Causilena (Orolik)
+[https://www.trismegistos.org/place/41310](https://www.trismegistos.org/place/41310)  
+
+### alignments:
+ - [Causilena](https://pleiades.stoa.org/places/197204)
 
 
 ## GEO ID 41312: Ad Basante (Bosut)
@@ -18511,6 +18581,13 @@
 
 ### alignments:
  - [Ad Figlinas](https://pleiades.stoa.org/places/383544)
+
+
+## GEO ID 41782: Ad Padum
+[https://www.trismegistos.org/place/41782](https://www.trismegistos.org/place/41782)  
+
+### alignments:
+ - [Ad Padum](https://pleiades.stoa.org/places/383552)
 
 
 ## GEO ID 41786: Quadrata
@@ -21168,6 +21245,13 @@
  - [Latobici](https://pleiades.stoa.org/places/197344)
 
 
+## GEO ID 43946: Naulochos
+[http://www.trismegistos.org/place/43946](http://www.trismegistos.org/place/43946)  
+
+### alignments:
+ - [Naulochos?](https://pleiades.stoa.org/places/540959)
+
+
 ## GEO ID 43962: Lepontii
 [http://www.trismegistos.org/place/43962](http://www.trismegistos.org/place/43962)  
 
@@ -22567,6 +22651,13 @@
 
 ### alignments:
  - [Gabbutūnu](https://pleiades.stoa.org/places/329386245)
+
+
+## GEO ID 5085: Pi-Ramesse (Qantir)
+[https://www.trismegistos.org/place/5085](https://www.trismegistos.org/place/5085)  
+
+### alignments:
+ - [Avaris/Ramesses](https://pleiades.stoa.org/places/727080)
 
 
 ## GEO ID 5089: Chenoboskia (Qasr el-Saiyad)

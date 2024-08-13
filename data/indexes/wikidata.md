@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3694 alignments exist in _Pleiades_ place references as of 2024-08-09. The following list of alignments is grouped by zotkey.
+3699 alignments exist in _Pleiades_ place references as of 2024-08-13. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -476,6 +476,13 @@
 
 ### alignments:
  - [Roman circus of Iruña-Veleia](https://pleiades.stoa.org/places/150463094)
+
+
+## Ancient Roman forum (Q3748446)
+[https://www.wikidata.org/wiki/Q3748446](https://www.wikidata.org/wiki/Q3748446)  
+
+### alignments:
+ - [Foro Romano](https://pleiades.stoa.org/places/207859673)
 
 
 ## Ancient Roman quarries of Cartagena (Q5747793)
@@ -1263,6 +1270,13 @@
  - [Bilhorod-Dnistrovskyi fortress](https://pleiades.stoa.org/places/903729115)
 
 
+## Bisagno (Q866011)
+[https://www.wikidata.org/wiki/Q866011](https://www.wikidata.org/wiki/Q866011)  
+
+### alignments:
+ - [Fertor (river)](https://pleiades.stoa.org/places/383647)
+
+
 ## Blaundos (Q263669)
 [https://www.wikidata.org/wiki/Q263669](https://www.wikidata.org/wiki/Q263669)  
 
@@ -1450,6 +1464,13 @@
 
 ### alignments:
  - [Capdenac](https://pleiades.stoa.org/places/267375511)
+
+
+## Cape Aspro (Q22991976)
+[https://www.wikidata.org/wiki/Q22991976](https://www.wikidata.org/wiki/Q22991976)  
+
+### alignments:
+ - [Phrourion?/Boosoura? (promontory)](https://pleiades.stoa.org/places/707612)
 
 
 ## Capo Sant'Andrea (Q34835749)
@@ -2893,6 +2914,13 @@
 
 ### alignments:
  - [Herakleopolis](https://pleiades.stoa.org/places/736920)
+
+
+## Hercynian Forest (Q699675)
+[https://www.wikidata.org/wiki/Q699675](https://www.wikidata.org/wiki/Q699675)  
+
+### alignments:
+ - [Hercynia Silva](https://pleiades.stoa.org/places/123090)
 
 
 ## Hermeskeil Roman Camp (Q1243560)
@@ -8017,6 +8045,13 @@
  - [Pallene](https://pleiades.stoa.org/places/580051)
 
 
+## Q128852908
+[https://www.wikidata.org/wiki/Q128852908](https://www.wikidata.org/wiki/Q128852908)  
+
+### alignments:
+ - [Dorticum](https://pleiades.stoa.org/places/207093)
+
+
 ## Q12885360: Tithronio
 [https://www.wikidata.org/wiki/Q12885360](https://www.wikidata.org/wiki/Q12885360)  
 
@@ -13119,13 +13154,6 @@
 
 ### alignments:
  - [Basilica di Santa Balbina all'Aventino](https://pleiades.stoa.org/places/356557088)
-
-
-## Q2360379: Roman amphitheatre of Mérida
-[https://www.wikidata.org/wiki/Q2360379](https://www.wikidata.org/wiki/Q2360379)  
-
-### alignments:
- - [Roman Amphitheater at Mérida](https://pleiades.stoa.org/places/525258361)
 
 
 ## Q2364239
@@ -23710,6 +23738,13 @@
 
 ### alignments:
  - [Roman amphitheater of Catania](https://pleiades.stoa.org/places/540685097)
+
+
+## Roman amphitheatre of Mérida (Q2360379)
+[https://www.wikidata.org/wiki/Q2360379](https://www.wikidata.org/wiki/Q2360379)  
+
+### alignments:
+ - [Roman Amphitheater at Mérida](https://pleiades.stoa.org/places/525258361)
 
 
 ## Roman Amphitheatre of Rusellae (Q3616685)
