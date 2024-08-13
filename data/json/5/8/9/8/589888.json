@@ -1,23 +1,117 @@
 {
     "@type": "Place",
     "bbox": [
-        26.0,
-        34.5,
-        26.5,
-        35.0
+        27.7669,
+        36.1729,
+        27.7669,
+        36.1729
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/590031",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2024-08-09T10:58:29Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "John Muccigrosso",
+                    "uri": "https://pleiades.stoa.org/author/jmuccigr",
+                    "username": "jmuccigr"
+                }
+            ],
+            "description": "Located on the island of Rhodes",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-08-09T12:24:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added reference",
+                    "modified": "2024-08-09T12:24:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-08-09T11:00:39Z",
+                    "modifiedBy": "jmuccigr"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2024-08-09T10:59:27Z",
+                    "modifiedBy": "jmuccigr"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-08-09T10:58:30Z",
+                    "modifiedBy": "jmuccigr"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-08-09T10:58:29Z",
+                    "modifiedBy": "jmuccigr"
+                }
+            ],
+            "id": "rhodos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 925 see \"Kymisala\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Rhodos (island)",
+            "uri": "https://pleiades.stoa.org/places/589888/rhodos-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/590031"
+    ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
         {
             "name": "R. Talbert",
             "username": null
         },
         {
             "homepage": null,
-            "name": "Brady Kiesling",
-            "uri": "https://pleiades.stoa.org/author/bkiesling",
-            "username": "bkiesling"
+            "name": "John Muccigrosso",
+            "uri": "https://pleiades.stoa.org/author/jmuccigr",
+            "username": "jmuccigr"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -30,15 +124,9 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
-        },
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:21:56Z",
+    "created": "2024-08-09T10:44:51Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -55,43 +143,33 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            34.5
-                        ]
-                    ]
+                    27.7669,
+                    36.1729
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "topostext-location-kymisala",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589888/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Representative location for the ancient site",
+                "link": "https://pleiades.stoa.org/places/589888/topostext-location-kymisala",
+                "location_precision": "precise",
+                "snippet": "Ruin; 330 BC - 30 BC",
+                "title": "ToposText Location: Kymisala"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "place type = settlement",
+            "modified": "2024-08-09T12:26:44Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "updated connection by @jmuccigr",
+            "modified": "2024-08-09T12:22:55Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "refs.",
             "modified": "2021-06-02T02:08:29Z",
@@ -132,129 +210,109 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/topostext-high-confidence",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "hellenistic-republican",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-22T19:21:56Z",
+            "created": "2024-08-09T10:53:55Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "John Muccigrosso",
+                    "uri": "https://pleiades.stoa.org/author/jmuccigr",
+                    "username": "jmuccigr"
                 }
             ],
-            "description": "",
+            "description": "Representative location for the ancient site",
             "details": "",
-            "end": 300,
+            "end": -30,
             "featureType": [
-                "unknown"
+                "ruin"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            34.5
-                        ],
-                        [
-                            26.5,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            35.0
-                        ],
-                        [
-                            26.0,
-                            34.5
-                        ]
-                    ]
+                    27.7669,
+                    36.1729
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:49:22Z",
-                    "modifiedBy": "admin"
+                    "comment": "feature type = ruin; archaeological remains = substantive",
+                    "modified": "2024-08-09T12:26:25Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:04:18Z",
+                    "modified": "2024-08-09T12:21:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added reference and PAA",
+                    "modified": "2024-08-09T12:21:09Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:58:31Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-08-09T10:55:50Z",
+                    "modifiedBy": "jmuccigr"
+                },
+                {
+                    "comment": "Using ToposText location",
+                    "modified": "2024-08-09T10:53:58Z",
+                    "modifiedBy": "jmuccigr"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:21:56Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-08-09T10:53:55Z",
+                    "modifiedBy": "jmuccigr"
                 }
             ],
-            "id": "batlas-location",
+            "id": "topostext-location-kymisala",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 F3 Kymisala",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://topostext.org/place/362278PKym",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Kymisala (Rhodes) Lakki - Κυμισαλα",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589888/batlas-location"
+            "start": -330,
+            "title": "ToposText Location: Kymisala",
+            "uri": "https://pleiades.stoa.org/places/589888/topostext-location-kymisala"
         }
     ],
     "names": [
@@ -349,10 +407,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/ruin",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unknown"
+        "ruin",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 F3 Kymisala",
     "references": [
@@ -413,8 +473,8 @@
         }
     ],
     "reprPoint": [
-        26.25,
-        34.75
+        27.7669,
+        36.1729
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
