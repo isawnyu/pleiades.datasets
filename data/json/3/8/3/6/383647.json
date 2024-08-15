@@ -1,12 +1,75 @@
 {
     "@type": "Place",
     "bbox": [
-        8.5,
-        44.0,
-        9.0,
-        44.5
+        8.9433401,
+        44.395359,
+        8.9496405,
+        44.4068212
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/157878",
+            "contributors": [],
+            "created": "2024-08-12T14:14:12Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-08-14T14:00:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-08-12T14:14:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2024-08-12T14:14:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-08-12T14:14:12Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "ligusticum-mare",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q866011",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Bisagno (Q866011)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Ligusticum Mare",
+            "uri": "https://pleiades.stoa.org/places/383647/ligusticum-mare"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/157878"
     ],
@@ -52,37 +115,47 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            8.5,
-                            44.0
-                        ],
-                        [
-                            9.0,
-                            44.0
-                        ],
-                        [
-                            9.0,
-                            44.5
-                        ],
-                        [
-                            8.5,
-                            44.5
-                        ],
-                        [
-                            8.5,
-                            44.0
-                        ]
+                        8.9496405,
+                        44.4068212
+                    ],
+                    [
+                        8.948507,
+                        44.4058273
+                    ],
+                    [
+                        8.9474694,
+                        44.4047572
+                    ],
+                    [
+                        8.9471555,
+                        44.4040628
+                    ],
+                    [
+                        8.9470842,
+                        44.4039035
+                    ],
+                    [
+                        8.9462455,
+                        44.4021075
+                    ],
+                    [
+                        8.9455168,
+                        44.4004584
+                    ],
+                    [
+                        8.9433401,
+                        44.395359
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/383647/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/383647/osm-location",
+                "location_precision": "precise",
+                "snippet": "River; AD 1700 - AD 2100",
+                "title": "OSM location of Torrente Bisagno"
             },
             "type": "Feature"
         }
@@ -138,123 +211,147 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-15T17:56:25Z",
+            "contributors": [],
+            "created": "2014-04-27T19:42:36Z",
             "creators": [
                 {
-                    "name": "M. Pearce",
-                    "username": null
-                },
-                {
-                    "name": "P. Tozzi",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            8.5,
-                            44.0
-                        ],
-                        [
-                            9.0,
-                            44.0
-                        ],
-                        [
-                            9.0,
-                            44.5
-                        ],
-                        [
-                            8.5,
-                            44.5
-                        ],
-                        [
-                            8.5,
-                            44.0
-                        ]
+                        8.9496405,
+                        44.4068212
+                    ],
+                    [
+                        8.948507,
+                        44.4058273
+                    ],
+                    [
+                        8.9474694,
+                        44.4047572
+                    ],
+                    [
+                        8.9471555,
+                        44.4040628
+                    ],
+                    [
+                        8.9470842,
+                        44.4039035
+                    ],
+                    [
+                        8.9462455,
+                        44.4021075
+                    ],
+                    [
+                        8.9455168,
+                        44.4004584
+                    ],
+                    [
+                        8.9433401,
+                        44.395359
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:33:25Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-15T18:29:14Z",
+                    "modified": "2024-08-14T14:00:14Z",
                     "modifiedBy": "thomase"
                 },
                 {
+                    "comment": "Edited",
+                    "modified": "2024-08-12T14:10:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-08-12T14:10:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2023-12-26T05:31:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2018-07-08T14:23:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Submit for review",
-                    "modified": "2010-11-15T18:07:52Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-04-27T19:43:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-04-27T19:43:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-04-27T19:42:38Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-15T17:56:25Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-04-27T19:42:37Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
-            "provenance": "Barrington Atlas: BAtlas 39 D5 Fertor fl.",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 116236970, version 6, osm:changeset=147995305, 2024-02-28T02:44:45Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/116236970",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 116236970",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=116236970",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/383647/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Torrente Bisagno",
+            "uri": "https://pleiades.stoa.org/places/383647/osm-location"
         }
     ],
     "names": [
@@ -442,8 +539,8 @@
         }
     ],
     "reprPoint": [
-        8.75,
-        44.25
+        8.946089182556845,
+        44.401368590589534
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

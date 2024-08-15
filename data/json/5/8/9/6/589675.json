@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        25.428883,
-        35.165365,
-        25.428883,
-        35.165365
+        25.45,
+        35.1647,
+        25.45,
+        35.1647
     ],
     "connections": [
         {
@@ -171,23 +171,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    25.428883,
-                    35.165365
+                    25.45,
+                    35.1647
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-15846",
+            "id": "location-of-psychro-cave",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/589675/darmc-location-15846",
+                "description": "coordinates after GeoHack.",
+                "link": "https://pleiades.stoa.org/places/589675/location-of-psychro-cave",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "DARMC location 15846"
+                "snippet": "Cave; AD 1700 - AD 2100",
+                "title": "Imagery location of Psychro Cave"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-08-14T21:09:04Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "reference cleanup",
             "modified": "2020-07-18T18:06:32Z",
@@ -248,8 +253,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -257,101 +262,103 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T22:44:48Z",
+            "contributors": [],
+            "created": "2013-05-01T19:19:02Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 15846",
-            "end": 300,
+            "description": "coordinates after GeoHack.",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "cave"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cave"
             ],
             "geometry": {
                 "coordinates": [
-                    25.428883,
-                    35.165365
+                    25.45,
+                    35.1647
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:47:07Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:10:54Z",
+                    "modified": "2024-08-14T21:08:38Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T22:44:50Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added accuracy assessment",
+                    "modified": "2020-07-18T18:05:02Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T22:44:50Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2016-07-31T14:46:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2013-07-24T20:30:35Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T22:44:49Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2013-07-24T20:26:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Retract",
+                    "modified": "2013-07-24T20:24:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2013-05-01T19:20:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2013-05-01T19:19:04Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-15846",
+            "id": "location-of-psychro-cave",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cave"
             ],
-            "provenance": "DARMC OBJECTID: 15846",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://toolserver.org/~geohack/geohack.php?pagename=Psychro_Cave&params=35.162806_N_25.444897_E_",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15846",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15846.",
+                    "formattedCitation": "GeoHack - Psychro Cave",
                     "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "shortTitle": "",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 15846",
-            "uri": "https://pleiades.stoa.org/places/589675/darmc-location-15846"
+            "start": 1700,
+            "title": "Imagery location of Psychro Cave",
+            "uri": "https://pleiades.stoa.org/places/589675/location-of-psychro-cave"
         }
     ],
     "names": [
@@ -492,11 +499,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15846",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.428883,
-        35.165365
+        25.45,
+        35.1647
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
