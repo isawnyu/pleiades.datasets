@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3699 alignments exist in _Pleiades_ place references as of 2024-08-14. The following list of alignments is grouped by zotkey.
+3708 alignments exist in _Pleiades_ place references as of 2024-08-15. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1550,6 +1550,13 @@
  - [Casa di Pane](https://pleiades.stoa.org/places/722871113)
 
 
+## Casa Herrera Basilica (Q64850540)
+[https://www.wikidata.org/https://www.wikidata.org/wiki/Q64850540](https://www.wikidata.org/https://www.wikidata.org/wiki/Q64850540)  
+
+### alignments:
+ - [Basílica Casa Herrera](https://pleiades.stoa.org/places/324534809)
+
+
 ## Casa Romuli (Q1046434)
 [https://www.wikidata.org/wiki/Q1046434](https://www.wikidata.org/wiki/Q1046434)  
 
@@ -1907,6 +1914,13 @@
  - [conventus Caesaraugustanus](https://pleiades.stoa.org/places/941635509)
 
 
+## Conímbriga amphitheatre (Q28974262)
+[https://www.wikidata.org/wiki/Q28974262](https://www.wikidata.org/wiki/Q28974262)  
+
+### alignments:
+ - [Conímbriga amphitheatre](https://pleiades.stoa.org/places/64451004)
+
+
 ## Coriaria Septimiana (Q123848604)
 [https://www.wikidata.org/wiki/Q123848604](https://www.wikidata.org/wiki/Q123848604)  
 
@@ -2209,6 +2223,13 @@
  - [Domus and Mitreo delle Pareti Dipinte](https://pleiades.stoa.org/places/834171137)
 
 
+## Domus Augustana (Q908472)
+[https://www.wikidata.org/wiki/Q908472](https://www.wikidata.org/wiki/Q908472)  
+
+### alignments:
+ - [Domus Augustana](https://pleiades.stoa.org/places/792237246)
+
+
 ## Domus del Chirurgo (Q3713399)
 [https://www.wikidata.org/wiki/Q3713399](https://www.wikidata.org/wiki/Q3713399)  
 
@@ -2270,6 +2291,13 @@
 
 ### alignments:
  - [Durnomagus](https://pleiades.stoa.org/places/108941)
+
+
+## Durrington Walls (Q471738)
+[https://www.wikidata.org/wiki/Q471738](https://www.wikidata.org/wiki/Q471738)  
+
+### alignments:
+ - [Durrington Walls](https://pleiades.stoa.org/places/99800872)
 
 
 ## Early Christian Basilica of Lechaeum (Q56398333)
@@ -23796,6 +23824,13 @@
  - [Ince fortlet](https://pleiades.stoa.org/places/629766126)
 
 
+## Roman Forum (Q7361967)
+[https://www.wikidata.org/wiki/Q7361967](https://www.wikidata.org/wiki/Q7361967)  
+
+### alignments:
+ - [Roman Forum (Mérida)](https://pleiades.stoa.org/places/943493132)
+
+
 ## Roman Forum of Clunia Sulpicia (Q5864106)
 [https://www.wikidata.org/wiki/Q5864106](https://www.wikidata.org/wiki/Q5864106)  
 
@@ -23941,6 +23976,13 @@
 
 ### alignments:
  - [Roman Thermae (Varna)](https://pleiades.stoa.org/places/292442603)
+
+
+## Roman Wall and Albarrana Islamic Tower (Q64850834)
+[https://www.wikidata.org/wiki/Q64850834](https://www.wikidata.org/wiki/Q64850834)  
+
+### alignments:
+ - [Roman Wall and Albarrana Islamic Tower](https://pleiades.stoa.org/places/324534810)
 
 
 ## Rotomagus (Q3442995)
@@ -24102,6 +24144,13 @@
 
 ### alignments:
  - [Haluntium](https://pleiades.stoa.org/places/462228)
+
+
+## San Vitale (Q1579529)
+[https://www.wikidata.org/wiki/Q1579529](https://www.wikidata.org/wiki/Q1579529)  
+
+### alignments:
+ - [San Vitale](https://pleiades.stoa.org/places/535299163)
 
 
 ## Sanctuaire gallo-romain de Villards d’Héria (Q3471772)
@@ -24620,6 +24669,20 @@
 
 ### alignments:
  - [Stoa Poikile](https://pleiades.stoa.org/places/143098101)
+
+
+## Stonehenge (Q39671)
+[https://www.wikidata.org/wiki/Q39671](https://www.wikidata.org/wiki/Q39671)  
+
+### alignments:
+ - [Stonehenge](https://pleiades.stoa.org/places/509089189)
+
+
+## Stonehenge, Avebury and Associated Sites (Q587584)
+[https://www.wikidata.org/wiki/Q587584](https://www.wikidata.org/wiki/Q587584)  
+
+### alignments:
+ - [Stonehenge](https://pleiades.stoa.org/places/509089189)
 
 
 ## Stratos (Q25408797)
