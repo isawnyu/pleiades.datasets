@@ -6,23 +6,46 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "in",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/in",
             "connectsTo": "https://pleiades.stoa.org/places/413360",
-            "contributors": [],
-            "created": "2016-07-13T14:01:10Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2024-08-15T19:17:07Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "added Pliny reference; located in",
+                    "modified": "2024-08-15T21:05:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2024-08-15T19:17:06Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:01:10Z",
@@ -41,15 +64,91 @@
             ],
             "id": "413360",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/253/1504-1513#253",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.114.9",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "start": null,
-            "title": "Umbria",
+            "title": "Umbria (region)",
             "uri": "https://pleiades.stoa.org/places/416792/413360"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
+            "connectsTo": "https://pleiades.stoa.org/places/413178",
+            "contributors": [],
+            "created": "2024-08-15T19:20:17Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-08-15T21:06:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-08-15T19:20:25Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-08-15T19:20:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-08-15T19:20:17Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "interamna-nahars",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 615 see \"Clusiolum\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Interamna Nahars",
+            "uri": "https://pleiades.stoa.org/places/416792/interamna-nahars"
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/413360"
+        "https://pleiades.stoa.org/places/413360",
+        "https://pleiades.stoa.org/places/413360",
+        "https://pleiades.stoa.org/places/413178"
     ],
     "contributors": [
         {
@@ -84,20 +183,7 @@
     ],
     "description": "Clusiolum is an unlocated site in Umbria. Pliny the Elder discusses it in connection with the Felginates who at one point held Clusiolum. Its location is described as being above Interamna (\"supra Interamnam\").",
     "details": "<p>The <em>Barrington Atlas Directory</em> notes: Umbrian settlement near Interamna Nahars</p>",
-    "features": [
-        {
-            "geometry": null,
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/416792/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "features": [],
     "history": [
         {
             "comment": "wikidata Clusiolum (Q124156569)",
@@ -176,92 +262,7 @@
         }
     ],
     "id": "416792",
-    "locations": [
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-12T15:22:09Z",
-            "creators": [
-                {
-                    "name": "W.V. Harris",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:53:19Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2010-11-14T14:04:04Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-11-12T15:53:27Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2010-11-12T15:22:09Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 42 Clusiolum",
-            "references": [],
-            "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/416792/batlas-location"
-        }
-    ],
+    "locations": [],
     "names": [
         {
             "@type": "Name",
