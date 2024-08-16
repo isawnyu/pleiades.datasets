@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3708 alignments exist in _Pleiades_ place references as of 2024-08-15. The following list of alignments is grouped by zotkey.
+3714 alignments exist in _Pleiades_ place references as of 2024-08-16. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -329,6 +329,13 @@
 
 ### alignments:
  - [Great altar of Athena](https://pleiades.stoa.org/places/521295193)
+
+
+## Altar of the Neronian fire (Q3621161)
+[https://www.wikidata.org/wiki/Q3621161](https://www.wikidata.org/wiki/Q3621161)  
+
+### alignments:
+ - [Arae incendii Neroniani](https://pleiades.stoa.org/places/488174951)
 
 
 ## Altar of the Twelve Gods (Q2872376)
@@ -3701,6 +3708,13 @@
  - [Lago dell'Accesa (lake)](https://pleiades.stoa.org/places/532675709)
 
 
+## Lake Chiusi (Q655536)
+[https://www.wikidata.org/wiki/Q655536](https://www.wikidata.org/wiki/Q655536)  
+
+### alignments:
+ - [Clusinus (lake)](https://pleiades.stoa.org/places/413095)
+
+
 ## Lake Flevo (Q2283279)
 [https://www.wikidata.org/wiki/Q2283279](https://www.wikidata.org/wiki/Q2283279)  
 
@@ -5456,6 +5470,13 @@
 
 ### alignments:
  - [Puente Mocho (Río Guadalimar)](https://pleiades.stoa.org/places/267283)
+
+
+## Puente Romano (Q588535)
+[https://www.wikidata.org/wiki/Q588535](https://www.wikidata.org/wiki/Q588535)  
+
+### alignments:
+ - [Roman bridge, Mérida](https://pleiades.stoa.org/places/257469)
 
 
 ## Puente romano (Q97625652)
@@ -25316,6 +25337,13 @@
  - [Ticinus (river)](https://pleiades.stoa.org/places/383799)
 
 
+## Tigris (Q35591)
+[https://www.wikidata.org/wiki/Q35591](https://www.wikidata.org/wiki/Q35591)  
+
+### alignments:
+ - [Tigris/Diglitus (river)](https://pleiades.stoa.org/places/912964)
+
+
 ## Tilmen Höyük (Q1379828)
 [https://www.wikidata.org/wiki/Q1379828](https://www.wikidata.org/wiki/Q1379828)  
 
@@ -25794,6 +25822,13 @@
  - [Villa dei Casoni](https://pleiades.stoa.org/places/991900272)
 
 
+## Villa Maxentii (Q2363459)
+[https://www.wikidata.org/wiki/Q2363459](https://www.wikidata.org/wiki/Q2363459)  
+
+### alignments:
+ - [Villa Maxentii](https://pleiades.stoa.org/places/423129)
+
+
 ## Villa Romana del Tellaro (Q499234)
 [https://www.wikidata.org/wiki/Q499234](https://www.wikidata.org/wiki/Q499234)  
 
@@ -25883,6 +25918,13 @@
 
 ### alignments:
  - [D(o)ura/Europos](https://pleiades.stoa.org/places/893990)
+
+
+## Woodhenge (Q534028)
+[https://www.wikidata.org/wiki/Q534028](https://www.wikidata.org/wiki/Q534028)  
+
+### alignments:
+ - [Woodhenge](https://pleiades.stoa.org/places/99800871)
 
 
 ## Workshop of Anteros (VIII.3.9) (Q27688115)
