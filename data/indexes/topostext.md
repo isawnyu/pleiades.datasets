@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3470 alignments exist in _Pleiades_ place references as of 2024-08-16. The following list of alignments is grouped by zotkey.
+3471 alignments exist in _Pleiades_ place references as of 2024-08-19. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -933,6 +933,13 @@
 
 ### alignments:
  - [Akakesion](https://pleiades.stoa.org/places/573060)
+
+
+## Akampsis river (Pontus)
+[https://topostext.org/place/416416WAka](https://topostext.org/place/416416WAka)  
+
+### alignments:
+ - [Akampsis (river)](https://pleiades.stoa.org/places/857015)
 
 
 ## Akanthos (Halkidiki)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3618 alignments exist in _Pleiades_ place references as of 2024-08-16. The following list of alignments is grouped by zotkey.
+3625 alignments exist in _Pleiades_ place references as of 2024-08-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3564,6 +3564,14 @@
  - [Rhodanus (river)](https://pleiades.stoa.org/places/148168)
 
 
+## GEO ID 1363: Mesopotamia
+[https://www.trismegistos.org/place/1363](https://www.trismegistos.org/place/1363)  
+
+### alignments:
+ - [Mesopotamia (region)](https://pleiades.stoa.org/places/874602)
+ - [Mesopotamia](https://pleiades.stoa.org/places/981534)
+
+
 ## GEO ID 1364
 [https://www.trismegistos.org/place/1364](https://www.trismegistos.org/place/1364)  
 
@@ -4852,7 +4860,7 @@
  - [‘Cocanges’/‘Concangios’](https://pleiades.stoa.org/places/89146)
 
 
-## GEO ID 14534
+## GEO ID 14534: Banna (Birdoswald)
 [http://www.trismegistos.org/place/14534](http://www.trismegistos.org/place/14534)  
 
 ### alignments:
@@ -4997,6 +5005,13 @@
 
 ### alignments:
  - [Isca Silurum](https://pleiades.stoa.org/places/79532)
+
+
+## GEO ID 14586: Salinae (Middlewich)
+[http://www.trismegistos.org/place/14586](http://www.trismegistos.org/place/14586)  
+
+### alignments:
+ - [Salinae](https://pleiades.stoa.org/places/79667)
 
 
 ## GEO ID 14587: Venta Icenorum (Caistor Saint Edmund)
@@ -5488,6 +5503,13 @@
 
 ### alignments:
  - [Segontium](https://pleiades.stoa.org/places/79678)
+
+
+## GEO ID 15380: Magis (Burrow Walls)
+[http://www.trismegistos.org/place/15380](http://www.trismegistos.org/place/15380)  
+
+### alignments:
+ - [Magis?](https://pleiades.stoa.org/places/89237)
 
 
 ## GEO ID 15384: Aballava (Burgh by Sands)
@@ -10704,6 +10726,13 @@
 
 ### alignments:
  - [Losodica](https://pleiades.stoa.org/places/118815)
+
+
+## GEO ID 28193: Abusina (Eining)
+[http://www.trismegistos.org/place/28193](http://www.trismegistos.org/place/28193)  
+
+### alignments:
+ - [Abusina](https://pleiades.stoa.org/places/118539)
 
 
 ## GEO ID 28195: Septemiacum (Nördlingen)
@@ -16553,6 +16582,13 @@
  - [Fines](https://pleiades.stoa.org/places/138358)
 
 
+## GEO ID 40432: Carvo (Kesteren)
+[https://www.trismegistos.org/place/40432](https://www.trismegistos.org/place/40432)  
+
+### alignments:
+ - [Carvo?](https://pleiades.stoa.org/places/98933)
+
+
 ## GEO ID 40433: Castra Vetera (Birten)
 [http://www.trismegistos.org/place/40433](http://www.trismegistos.org/place/40433)  
 
@@ -22281,6 +22317,13 @@
  - [Thospia/Bouana/‘Ospa’/Ṭušpa](https://pleiades.stoa.org/places/874771)
 
 
+## GEO ID 47958: Boumelos (Khazir)
+[http://www.trismegistos.org/place/47958](http://www.trismegistos.org/place/47958)  
+
+### alignments:
+ - [Boumelos? (river)](https://pleiades.stoa.org/places/874406)
+
+
 ## GEO ID 47971
 [http://www.trismegistos.org/place/47971](http://www.trismegistos.org/place/47971)  
 
@@ -22468,6 +22511,13 @@
 
 ### alignments:
  - [Per-Ptah](https://pleiades.stoa.org/places/795843)
+
+
+## GEO ID 49845: Khabur
+[http://www.trismegistos.org/place/49845](http://www.trismegistos.org/place/49845)  
+
+### alignments:
+ - [Lesser Khabur R.](https://pleiades.stoa.org/places/874565)
 
 
 ## GEO ID 4984: Qubbet el-Hawa

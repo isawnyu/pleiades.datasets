@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3714 alignments exist in _Pleiades_ place references as of 2024-08-16. The following list of alignments is grouped by zotkey.
+3728 alignments exist in _Pleiades_ place references as of 2024-08-19. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1270,6 +1270,13 @@
  - [Biannos](https://pleiades.stoa.org/places/589730)
 
 
+## Bibra Roman Fort (Q17642650)
+[https://www.wikidata.org/wiki/Q17642650](https://www.wikidata.org/wiki/Q17642650)  
+
+### alignments:
+ - [B(r)ibra?](https://pleiades.stoa.org/places/89125)
+
+
 ## Bilhorod-Dnistrovskyi fortress (Q1968086)
 [https://www.wikidata.org/wiki/Q1968086](https://www.wikidata.org/wiki/Q1968086)  
 
@@ -1298,6 +1305,13 @@
  - [Boia(i)](https://pleiades.stoa.org/places/570156)
 
 
+## Boothby Roman fort (Q17659532)
+[https://www.wikidata.org/wiki/Q17659532](https://www.wikidata.org/wiki/Q17659532)  
+
+### alignments:
+ - [Boothby Roman fort](https://pleiades.stoa.org/places/24547396)
+
+
 ## Botzdorf Roman villa (Q15843466)
 [https://www.wikidata.org/wiki/Q15843466](https://www.wikidata.org/wiki/Q15843466)  
 
@@ -1317,6 +1331,13 @@
 
 ### alignments:
  - [Salbake (mountain)](https://pleiades.stoa.org/places/639088)
+
+
+## Brampton Old Church Roman fort and the medieval Church of St Martin (Q17659606)
+[https://www.wikidata.org/wiki/Q17659606](https://www.wikidata.org/wiki/Q17659606)  
+
+### alignments:
+ - [Brampton Old Church](https://pleiades.stoa.org/places/337405873)
 
 
 ## Brauroneion (Q902329)
@@ -1359,6 +1380,13 @@
 
 ### alignments:
  - [Gholaia](https://pleiades.stoa.org/places/344377)
+
+
+## Burmageçit, Tunceli (Q116788474)
+[https://www.wikidata.org/wiki/Q116788474](https://www.wikidata.org/wiki/Q116788474)  
+
+### alignments:
+ - [Burmageçit tomb](https://pleiades.stoa.org/places/908428262)
 
 
 ## Buto (Q739278)
@@ -1585,6 +1613,13 @@
  - [Castellum Amerinum](https://pleiades.stoa.org/places/416789)
 
 
+## Castra Abusina (Q1735352)
+[https://www.wikidata.org/wiki/Q1735352](https://www.wikidata.org/wiki/Q1735352)  
+
+### alignments:
+ - [Abusina](https://pleiades.stoa.org/places/118539)
+
+
 ## Castra Albana (Q3663109)
 [https://www.wikidata.org/wiki/Q3663109](https://www.wikidata.org/wiki/Q3663109)  
 
@@ -1646,6 +1681,20 @@
 
 ### alignments:
  - [Castromaior](https://pleiades.stoa.org/places/641265240)
+
+
+## Castrum Carvo (Q1046175)
+[https://www.wikidata.org/wiki/Q1046175](https://www.wikidata.org/wiki/Q1046175)  
+
+### alignments:
+ - [Carvo?](https://pleiades.stoa.org/places/98933)
+
+
+## Castrum Celeusum (Q1735406)
+[https://www.wikidata.org/wiki/Q1735406](https://www.wikidata.org/wiki/Q1735406)  
+
+### alignments:
+ - [Celeusum](https://pleiades.stoa.org/places/118628)
 
 
 ## Castrum Harenatium (Q1585258)
@@ -2286,6 +2335,13 @@
  - [Neviodunum](https://pleiades.stoa.org/places/197408)
 
 
+## Drumburgh Roman fort and Hadrian's Wall between Burgh Marsh and Westfield House in wall miles 76 and 77 (Q17662343)
+[https://www.wikidata.org/wiki/Q17662343](https://www.wikidata.org/wiki/Q17662343)  
+
+### alignments:
+ - [Congavata](https://pleiades.stoa.org/places/89151)
+
+
 ## Duratón Necropolis (Q30728461)
 [https://www.wikidata.org/wiki/Q30728461](https://www.wikidata.org/wiki/Q30728461)  
 
@@ -2718,6 +2774,13 @@
 
 ### alignments:
  - [(Col. Iulia Aug. Felix) Germa](https://pleiades.stoa.org/places/609351)
+
+
+## Germania Inferior (Q152136)
+[https://www.wikidata.org/wiki/Q152136](https://www.wikidata.org/wiki/Q152136)  
+
+### alignments:
+ - [Germania Inferior](https://pleiades.stoa.org/places/981524)
 
 
 ## Gheriat el-Garbia (Q2120559)
@@ -3574,6 +3637,13 @@
  - [Klimataria](https://pleiades.stoa.org/places/962493324)
 
 
+## Klukhorski Pass (Q3646487)
+[https://www.wikidata.org/wiki/Q3646487](https://www.wikidata.org/wiki/Q3646487)  
+
+### alignments:
+ - [Klukhor Pass](https://pleiades.stoa.org/places/857192)
+
+
 ## Koiliaris (Q3198324)
 [https://www.wikidata.org/wiki/Q3198324](https://www.wikidata.org/wiki/Q3198324)  
 
@@ -4065,6 +4135,13 @@
  - [Magarsa/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648701)
 
 
+## Magis Roman Fort (Q17642617)
+[https://www.wikidata.org/wiki/Q17642617](https://www.wikidata.org/wiki/Q17642617)  
+
+### alignments:
+ - [Magis?](https://pleiades.stoa.org/places/89237)
+
+
 ## Mainalo (Q2703145)
 [https://www.wikidata.org/wiki/Q2703145](https://www.wikidata.org/wiki/Q2703145)  
 
@@ -4282,6 +4359,13 @@
  - [Mieza](https://pleiades.stoa.org/places/491664)
 
 
+## Milecastle 76 (Q6851196)
+[https://www.wikidata.org/wiki/Q6851196](https://www.wikidata.org/wiki/Q6851196)  
+
+### alignments:
+ - [Milecastle 76 (Drumburgh)](https://pleiades.stoa.org/places/967060411)
+
+
 ## Milton of Tassiesholm (Samian Ware Discovery Site) (Q103183271)
 [https://www.wikidata.org/wiki/Q103183271](https://www.wikidata.org/wiki/Q103183271)  
 
@@ -4385,6 +4469,13 @@
 
 ### alignments:
  - [Titanos (mountain)](https://pleiades.stoa.org/places/541150)
+
+
+## Muradiye (Q1000878)
+[https://www.wikidata.org/wiki/Q1000878](https://www.wikidata.org/wiki/Q1000878)  
+
+### alignments:
+ - [Muradiye](https://pleiades.stoa.org/places/521184308)
 
 
 ## Muziris (Q2974112)
@@ -15818,13 +15909,6 @@
  - [Temple of Augustus et Livia](https://pleiades.stoa.org/places/306618381)
 
 
-## Q3517528: Temple of Isis
-[https://www.wikidata.org/wiki/Q3517528](https://www.wikidata.org/wiki/Q3517528)  
-
-### alignments:
- - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
-
-
 ## Q3517583: Temple of Mercury (Puy de Dôme)
 [https://www.wikidata.org/wiki/Q3517583](https://www.wikidata.org/wiki/Q3517583)  
 
@@ -24552,6 +24636,13 @@
  - [Sirsukh](https://pleiades.stoa.org/places/74261593)
 
 
+## Sisapo amphitheatre (Q29001109)
+[https://www.wikidata.org/wiki/Q29001109](https://www.wikidata.org/wiki/Q29001109)  
+
+### alignments:
+ - [Sisapo?](https://pleiades.stoa.org/places/266043)
+
+
 ## Skala Roman villa (Q56240191)
 [https://www.wikidata.org/wiki/Q56240191](https://www.wikidata.org/wiki/Q56240191)  
 
@@ -25020,6 +25111,13 @@
 
 ### alignments:
  - [Temple of Hera I (the "Basilica")](https://pleiades.stoa.org/places/608476833)
+
+
+## Temple of Isis (Q3517528)
+[https://www.wikidata.org/wiki/Q3517528](https://www.wikidata.org/wiki/Q3517528)  
+
+### alignments:
+ - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
 
 
 ## Temple of Jupiter (Q3309400)
