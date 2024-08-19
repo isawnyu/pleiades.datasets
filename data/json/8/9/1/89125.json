@@ -10,24 +10,43 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "connectionType": "part_of_analytical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_analytical",
             "connectsTo": "https://pleiades.stoa.org/places/579047271",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:02:55Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 410,
             "history": [
+                {
+                    "comment": "change type, add reference",
+                    "modified": "2024-08-17T13:44:38Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:02:55Z",
@@ -46,9 +65,21 @@
             ],
             "id": "579047271",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q17642650",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Bibra Roman Fort (Q17642650)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": 43,
             "title": "Hadrian's Wall (Cumbrian Coast)",
             "uri": "https://pleiades.stoa.org/places/89125/579047271"
         }
@@ -160,6 +191,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add UWHS",
+            "modified": "2024-08-17T13:34:38Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2023-08-29T02:44:38Z",
@@ -411,6 +447,11 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-08-17T13:32:26Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2023-08-28T20:38:11Z",
@@ -883,6 +924,39 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q17642650",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Bibra Roman Fort (Q17642650)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://historicengland.org.uk/listing/the-list/list-entry/1007170",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KG4R9RD2",
+            "citationDetail": "1007170: Beckfoot Roman fort",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. “Listing.” HIstoric England. Accessed April 22, 2021. http://historicengland.org.uk/listing/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "HEListing",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://whc.unesco.org/en/list/430ter-031",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "citationDetail": "430ter-031: Beckfoot Roman fort",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "WHL",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
@@ -894,7 +968,8 @@
     "subject": [
         "dare:ancient=1",
         "dare:major=0",
-        "dare:feature=fort"
+        "dare:feature=fort",
+        "UWHS"
     ],
     "title": "B(r)ibra?",
     "type": "FeatureCollection",

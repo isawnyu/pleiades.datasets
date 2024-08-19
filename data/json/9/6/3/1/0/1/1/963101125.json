@@ -1,14 +1,20 @@
 {
     "@type": "Place",
     "bbox": [
-        6.934241,
-        44.584964,
-        6.934241,
-        44.584964
+        6.9241936,
+        44.5710655,
+        6.9241936,
+        44.5710655
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
         {
             "homepage": null,
             "name": "Sean Gillies",
@@ -29,29 +35,39 @@
             "username": null
         }
     ],
-    "description": "An unnamed pass in the Alpes Cottiae near Vesulus Mons",
+    "description": "A pass (ancient name unknown) in the Alpes Cottiae near Monte Viso (ancient Vesulus mons).",
     "details": "",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    6.934241,
-                    44.584964
+                    6.9241936,
+                    44.5710655
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-19595",
+            "id": "osm-location-of-colle-dellautaret",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/963101125/darmc-location-19595",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/963101125/osm-location-of-colle-dellautaret",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "DARMC location 19595"
+                "snippet": "Pass; AD 1700 - AD 2100",
+                "title": "OSM location of Colle dell'Autaret"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2024-08-18T23:44:31Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-08-18T23:43:19Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-21T00:22:33Z",
@@ -87,95 +103,107 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "DARMC",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2011-09-09T21:24:11Z",
+            "contributors": [],
+            "created": "2018-07-18T02:45:54Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 19595",
-            "end": null,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "pass"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
             "geometry": {
                 "coordinates": [
-                    6.934241,
-                    44.584964
+                    6.9241936,
+                    44.5710655
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:49:59Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2024-08-18T23:42:49Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-09-09T21:24:12Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-08-16T18:56:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2023-04-09T03:00:05Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-09-09T21:24:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2018-07-18T02:48:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations.",
-                    "modified": "2011-09-09T21:24:12Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added OSM location",
+                    "modified": "2018-07-18T02:46:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2018-07-18T02:45:54Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-09-09T21:24:11Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2018-07-18T02:45:54Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-19595",
+            "id": "osm-location-of-colle-dellautaret",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
-            "provenance": "DARMC OBJECTID: 19595",
+            "provenance": "OpenStreetMap (Node 1362095141, version 6, osm:changeset=104959647, 2021-05-19T12:04:04Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1362095141",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19595",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1362095141",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19595.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=1362095141",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "DARMC location 19595",
-            "uri": "https://pleiades.stoa.org/places/963101125/darmc-location-19595"
+            "start": 1700,
+            "title": "OSM location of Colle dell'Autaret",
+            "uri": "https://pleiades.stoa.org/places/963101125/osm-location-of-colle-dellautaret"
         }
     ],
     "names": [],
@@ -197,11 +225,22 @@
             "otherIdentifier": " ",
             "shortTitle": "BAtlas",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "19595",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        6.934241,
-        44.584964
+        6.9241936,
+        44.5710655
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -210,7 +249,7 @@
         "dare:feature=pass",
         "dare:ancient=2"
     ],
-    "title": "Unnamed Pass",
+    "title": "Colle dell'Autaret (pass)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/963101125"
 }

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        2.689575,
-        36.466553,
-        2.689575,
-        36.466553
+        2.6879953,
+        36.4674416,
+        2.6879953,
+        36.4674416
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,23 +53,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    2.689575,
-                    36.466553
+                    2.6879953,
+                    36.4674416
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21921",
+            "id": "osm-location-of-mouzaia",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/295244/darmc-location-21921",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/295244/osm-location-of-mouzaia",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 21921"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Mouzaia"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-08-16T20:56:53Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added precise AAA link",
             "modified": "2023-07-25T21:42:59Z",
@@ -125,106 +130,114 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-08-02T20:36:02Z",
+            "created": "2023-07-22T20:29:19Z",
             "creators": [
                 {
-                    "name": "T.W. Potter",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 21921",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    2.689575,
-                    36.466553
+                    2.6879953,
+                    36.4674416
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:01:06Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2024-08-16T20:56:27Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-08-02T21:57:35Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "less certain",
+                    "modified": "2024-08-16T20:56:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-08-16T13:50:40Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-02T20:36:03Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-07-22T20:29:52Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:36:03Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2023-07-22T20:29:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2023-07-22T20:29:20Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-02T20:36:02Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2023-07-22T20:29:19Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21921",
+            "id": "osm-location-of-mouzaia",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 21921",
+            "provenance": "OpenStreetMap (Node 394180743, version 21, osm:changeset=144340990, 2023-11-22T19:47:03Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/394180743",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21921",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 394180743",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21921.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=394180743",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 21921",
-            "uri": "https://pleiades.stoa.org/places/295244/darmc-location-21921"
+            "start": 2000,
+            "title": "OSM location of Mouzaia",
+            "uri": "https://pleiades.stoa.org/places/295244/osm-location-of-mouzaia"
         }
     ],
     "names": [
@@ -365,11 +378,22 @@
             "otherIdentifier": "",
             "shortTitle": "vici.org",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21921",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        2.689575,
-        36.466553
+        2.6879953,
+        36.4674416
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

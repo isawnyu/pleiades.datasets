@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/1224",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:44:00Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "change type to flows into, add wikidata reference",
+                    "modified": "2024-08-16T17:38:32Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:44:00Z",
@@ -46,7 +58,19 @@
             ],
             "id": "1224",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q1972264",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Bzyb River (Q1972264)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Pontus Euxinus",
@@ -102,7 +126,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 87 F1 Korax? fl.",
-    "details": "The Barrington Atlas Directory notes: Bzyb' GEO",
+    "details": "<p>The Barrington Atlas Directory notes: Bzyb' GEO</p>",
     "features": [
         {
             "geometry": {
@@ -162,6 +186,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2024-08-16T17:39:28Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added connection",
             "modified": "2013-11-20T05:41:20Z",
@@ -507,32 +536,32 @@
             "alternateURI": "",
             "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-5.8.4",
             "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "Ptol. 5.8.4",
             "otherIdentifier": "",
             "shortTitle": "",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/26130905",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M7PUW7FX",
+            "citationDetail": "141-42",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kacharava, D. D., and G. T. Kvirkvelii͡a. <i>Goroda i Poselenii͡a Prichernomorʹi͡a Antichnoĭ Ėpokhi : Malyĭ Ėnt͡siklopedicheskiĭ Spravochnik</i>. Tbilisi: Metsniereba, 1991. http://www.worldcat.org/oclc/26130905.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Kacharava 1991",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/750042209",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/k.html#Kacharava-1991",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3BU5SK98",
+            "citationDetail": "47, 198",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Kacharava 1991, 141-42",
+            "formattedCitation": "<div class=\"csl-entry\">Braund, David. <i>Georgia in Antiquity: A History of Colchis and Transcaucasian Iberia, 550 BC-AD 562</i>. New York: Oxford University Press, 1994. http://www.worldcat.org/oclc/750042209.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Braund-1994",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Braund 1994, 47, 198",
-            "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Braund 1994",
             "type": "seeFurther"
         },
         {
