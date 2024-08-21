@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-347 alignments exist in _Pleiades_ place references as of 2024-08-20. The following list of alignments is grouped by zotkey.
+348 alignments exist in _Pleiades_ place references as of 2024-08-21. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -76,6 +76,13 @@
 
 ### alignments:
  - [Necropolis at Archontiko](https://pleiades.stoa.org/places/409986438)
+
+
+## ATHENS - Philopappos Hill - 2003
+[https://chronique.efa.gr/?kroute=report&id=4558](https://chronique.efa.gr/?kroute=report&id=4558)  
+
+### alignments:
+ - [Philopappos Monument](https://pleiades.stoa.org/places/491444298)
 
 
 ## Kastelli Hill - Chania - 2022

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-471 alignments exist in _Pleiades_ place references as of 2024-08-20. The following list of alignments is grouped by zotkey.
+472 alignments exist in _Pleiades_ place references as of 2024-08-21. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -129,6 +129,13 @@
 
 ### alignments:
  - [Mouseion Hill](https://pleiades.stoa.org/places/968858713)
+
+
+## 1.25.8
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.25.8](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.25.8)  
+
+### alignments:
+ - [Philopappos Monument](https://pleiades.stoa.org/places/491444298)
 
 
 ## 1.26.5
