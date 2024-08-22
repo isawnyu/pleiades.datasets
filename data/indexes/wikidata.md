@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3728 alignments exist in _Pleiades_ place references as of 2024-08-21. The following list of alignments is grouped by zotkey.
+3730 alignments exist in _Pleiades_ place references as of 2024-08-22. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -2440,6 +2440,13 @@
  - [Elateia](https://pleiades.stoa.org/places/540755)
 
 
+## Elephas herbarius (Q112654314)
+[https://www.wikidata.org/wiki/Q112654314](https://www.wikidata.org/wiki/Q112654314)  
+
+### alignments:
+ - [Elephas herbarius](https://pleiades.stoa.org/places/563278254)
+
+
 ## Eleusis (Q65084298)
 [https://www.wikidata.org/wiki/Q65084298](https://www.wikidata.org/wiki/Q65084298)  
 
@@ -4366,6 +4373,13 @@
  - [Milecastle 76 (Drumburgh)](https://pleiades.stoa.org/places/967060411)
 
 
+## Milefortlet 1 (Q16247408)
+[https://www.wikidata.org/wiki/Q16247408](https://www.wikidata.org/wiki/Q16247408)  
+
+### alignments:
+ - [Milefortlet 1 (Biglands House)](https://pleiades.stoa.org/places/988627262)
+
+
 ## Milton of Tassiesholm (Samian Ware Discovery Site) (Q103183271)
 [https://www.wikidata.org/wiki/Q103183271](https://www.wikidata.org/wiki/Q103183271)  
 
@@ -4588,6 +4602,13 @@
 
 ### alignments:
  - [Neda (river)](https://pleiades.stoa.org/places/570502)
+
+
+## Nemrik 9 (Q13708140)
+[https://www.wikidata.org/wiki/Q13708140](https://www.wikidata.org/wiki/Q13708140)  
+
+### alignments:
+ - [Namrīk](https://pleiades.stoa.org/places/901571868)
 
 
 ## Nestane (Q60791907)
@@ -6980,13 +7001,6 @@
  - [Tavolara (island)](https://pleiades.stoa.org/places/471944)
 
 
-## Q112654314
-[https://www.wikidata.org/wiki/Q112654314](https://www.wikidata.org/wiki/Q112654314)  
-
-### alignments:
- - [Elephas herbarius](https://pleiades.stoa.org/places/563278254)
-
-
 ## Q112662701: Parion, Roman baths
 [https://www.wikidata.org/wiki/Q112662701](https://www.wikidata.org/wiki/Q112662701)  
 
@@ -8737,13 +8751,6 @@
 
 ### alignments:
  - [At(h)esis (river)](https://pleiades.stoa.org/places/393383)
-
-
-## Q13708140
-[https://www.wikidata.org/wiki/Q13708140](https://www.wikidata.org/wiki/Q13708140)  
-
-### alignments:
- - [Namrīk](https://pleiades.stoa.org/places/901571868)
 
 
 ## Q13712: Tiber
@@ -24640,7 +24647,7 @@
 [https://www.wikidata.org/wiki/Q29001109](https://www.wikidata.org/wiki/Q29001109)  
 
 ### alignments:
- - [Sisapo?](https://pleiades.stoa.org/places/266043)
+ - [Sisapo](https://pleiades.stoa.org/places/266043)
 
 
 ## Skala Roman villa (Q56240191)
@@ -26002,6 +26009,13 @@
 
 ### alignments:
  - [Circuit wall of Rusellae](https://pleiades.stoa.org/places/999951524)
+
+
+## Walwick Fell Roman temporary camp (Q17650321)
+[https://www.wikidata.org/wiki/Q17650321](https://www.wikidata.org/wiki/Q17650321)  
+
+### alignments:
+ - [Walwick Fell Roman temporary camp](https://pleiades.stoa.org/places/34684511)
 
 
 ## Wikidata Q56666560: Easter Happrew, Roman fort

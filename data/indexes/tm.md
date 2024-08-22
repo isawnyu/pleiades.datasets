@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3625 alignments exist in _Pleiades_ place references as of 2024-08-21. The following list of alignments is grouped by zotkey.
+3627 alignments exist in _Pleiades_ place references as of 2024-08-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4011,6 +4011,13 @@
 
 ### alignments:
  - [Nola](https://pleiades.stoa.org/places/432981)
+
+
+## GEO ID 14343: Calatia (San Giacomo delle Galazze)
+[http://www.trismegistos.org/place/14343](http://www.trismegistos.org/place/14343)  
+
+### alignments:
+ - [Calatia](https://pleiades.stoa.org/places/432738)
 
 
 ## GEO ID 14344: Praeneste (Palestrina)
@@ -13333,7 +13340,7 @@
  - [Monte Vairano](https://pleiades.stoa.org/places/432965)
 
 
-## GEO ID 3280
+## GEO ID 3280: Caesarodunum (Tours)
 [http://www.trismegistos.org/place/3280](http://www.trismegistos.org/place/3280)  
 
 ### alignments:
@@ -20724,6 +20731,13 @@
 
 ### alignments:
  - [Thudedenses](https://pleiades.stoa.org/places/295356)
+
+
+## GEO ID 43451: Fundus Palladii
+[https://www.trismegistos.org/place/43451](https://www.trismegistos.org/place/43451)  
+
+### alignments:
+ - [Fundus Palladii](https://pleiades.stoa.org/places/474915)
 
 
 ## GEO ID 43463: Vofricenses

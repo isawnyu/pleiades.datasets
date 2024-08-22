@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3471 alignments exist in _Pleiades_ place references as of 2024-08-21. The following list of alignments is grouped by zotkey.
+3472 alignments exist in _Pleiades_ place references as of 2024-08-22. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4869,6 +4869,13 @@
 
 ### alignments:
  - [Stratonos Pyrgos/Caesarea](https://pleiades.stoa.org/places/678401)
+
+
+## Caesarodunum/civitas Turonorum (Gallia)
+[https://topostext.org/place/474007UCae](https://topostext.org/place/474007UCae)  
+
+### alignments:
+ - [Caesarodunum](https://pleiades.stoa.org/places/138255)
 
 
 ## Caesaromagus (Britannia)
