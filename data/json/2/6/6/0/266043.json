@@ -3,10 +3,85 @@
     "bbox": [
         -4.518296,
         38.645383,
-        -4.517906,
-        38.646441
+        -4.5171656,
+        38.646534
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/981510",
+            "contributors": [],
+            "created": "2019-03-03T23:00:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-08-21T14:19:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "reference added - Plin. NH",
+                    "modified": "2024-08-17T19:51:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2019-03-03T23:00:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2019-03-03T23:00:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2019-03-03T23:00:34Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "baetica",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/2442/197-203,1501-1507",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "33.118.4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Baetica",
+            "uri": "https://pleiades.stoa.org/places/266043/baetica"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/981510"
     ],
@@ -48,14 +123,14 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-09-24T19:05:58Z",
+    "created": "2024-08-21T14:19:44Z",
     "creators": [
         {
             "name": "P.O. Spann",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 27 A3 Sisapo?",
+    "description": "An ancient settlement of Baetica, mentioned by Pliny and in inscriptions found at Los Castillejos de La Bienvenida in Spain where the site has been partially excavated.",
     "details": "<p>The Barrington Atlas Directory notes: Los Castillejos de La Bienvenida, 20 miles W Almodóvar del Campo</p>",
     "features": [
         {
@@ -93,9 +168,75 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -4.5175922,
+                        38.645687
+                    ],
+                    [
+                        -4.5171952,
+                        38.6459129
+                    ],
+                    [
+                        -4.5173204,
+                        38.6460369
+                    ],
+                    [
+                        -4.5173284,
+                        38.6461546
+                    ],
+                    [
+                        -4.5171656,
+                        38.6462587
+                    ],
+                    [
+                        -4.5174334,
+                        38.646534
+                    ],
+                    [
+                        -4.5175505,
+                        38.6464678
+                    ],
+                    [
+                        -4.5178842,
+                        38.6464457
+                    ],
+                    [
+                        -4.5178868,
+                        38.6459781
+                    ],
+                    [
+                        -4.5175922,
+                        38.645687
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-sisapo",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/266043/osm-location-of-sisapo",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site; 330 BC - AD 300",
+                "title": "OSM location of Sisapo"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary",
+            "modified": "2024-08-21T16:05:04Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-08-21T14:19:42Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-08-17T19:57:54Z",
@@ -373,13 +514,151 @@
             "start": -330,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/266043/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-08-17T19:53:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "archaeological-site"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        -4.5175922,
+                        38.645687
+                    ],
+                    [
+                        -4.5171952,
+                        38.6459129
+                    ],
+                    [
+                        -4.5173204,
+                        38.6460369
+                    ],
+                    [
+                        -4.5173284,
+                        38.6461546
+                    ],
+                    [
+                        -4.5171656,
+                        38.6462587
+                    ],
+                    [
+                        -4.5174334,
+                        38.646534
+                    ],
+                    [
+                        -4.5175505,
+                        38.6464678
+                    ],
+                    [
+                        -4.5178842,
+                        38.6464457
+                    ],
+                    [
+                        -4.5178868,
+                        38.6459781
+                    ],
+                    [
+                        -4.5175922,
+                        38.645687
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-08-21T14:19:15Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-08-17T19:53:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-08-17T19:53:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-08-17T19:53:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-08-17T19:53:00Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-sisapo",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+            ],
+            "provenance": "OpenStreetMap (Way 1278814007, version 2, osm:changeset=155387676, 2024-08-17T19:52:29Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1278814007",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1278814007",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1278814007",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -330,
+            "title": "OSM location of Sisapo",
+            "uri": "https://pleiades.stoa.org/places/266043/osm-location-of-sisapo"
         }
     ],
     "names": [
         {
             "@type": "Name",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -400,7 +679,7 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Sisapo",
             "contributors": [
                 {
                     "name": "R. Warner",
@@ -429,7 +708,7 @@
                     "username": "jbecker"
                 }
             ],
-            "created": "2010-09-24T19:05:58Z",
+            "created": "2024-08-21T14:25:54Z",
             "creators": [
                 {
                     "name": "P.O. Spann",
@@ -440,6 +719,16 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "certain; attested form; cleaned up Cicero reference",
+                    "modified": "2024-08-21T16:04:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2024-08-21T14:25:53Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "reference",
                     "modified": "2018-11-11T20:02:18Z",
@@ -474,12 +763,12 @@
                 {
                     "accessURI": "http://latin.packhum.org/loc/474/35/1/32562-32588",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KMEZI2ZD",
+                    "citationDetail": "Phil. 2.49.1",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "Cic. Phil. 2.49.1",
+                    "formattedCitation": "<div class=\"csl-entry\">Cicero, Marcus Tullius. <i>Epistulae ad familiares</i>. Edited by David Roy Shackleton Bailey. 2 vols. Cambridge classical texts and commentaries 16–17. Cambridge: Cambridge University Press, 1977. https://latin.packhum.org/loc/474/56/0#0.</div>",
                     "otherIdentifier": "",
-                    "shortTitle": "",
+                    "shortTitle": "Cic. ad Fam. (Shackleton Bailey: PHI)",
                     "type": "citesAsEvidence"
                 }
             ],
@@ -808,8 +1097,8 @@
         }
     ],
     "reprPoint": [
-        -4.518101,
-        38.645912
+        -4.517914753634677,
+        38.64598581787221
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -820,7 +1109,7 @@
         "dare:feature=settlement",
         "silver"
     ],
-    "title": "Sisapo?",
+    "title": "Sisapo",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/266043"
 }
