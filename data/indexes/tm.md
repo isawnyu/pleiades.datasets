@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3627 alignments exist in _Pleiades_ place references as of 2024-08-22. The following list of alignments is grouped by zotkey.
+3629 alignments exist in _Pleiades_ place references as of 2024-08-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -178,6 +178,13 @@
  - [Neapolis/Lepcis Magna](https://pleiades.stoa.org/places/344448)
 
 
+## Geo 11897: Taphos (Meganisi)
+[https://www.trismegistos.org/place/11897](https://www.trismegistos.org/place/11897)  
+
+### alignments:
+ - [Taphos (island)](https://pleiades.stoa.org/places/531114)
+
+
 ## Geo 1204: Kythnos
 [http://www.trismegistos.org/place/1204](http://www.trismegistos.org/place/1204)  
 
@@ -260,6 +267,13 @@
 
 ### alignments:
  - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
+
+
+## Geo 1246: Leukas
+[https://www.trismegistos.org/place/1246](https://www.trismegistos.org/place/1246)  
+
+### alignments:
+ - [Leucas (island)](https://pleiades.stoa.org/places/530975)
 
 
 ## Geo 1257: Soknopaiou Nesos (Dimeh)

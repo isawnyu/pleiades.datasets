@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3730 alignments exist in _Pleiades_ place references as of 2024-08-22. The following list of alignments is grouped by zotkey.
+3732 alignments exist in _Pleiades_ place references as of 2024-08-23. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3897,6 +3897,13 @@
  - [Leuka (mountain)](https://pleiades.stoa.org/places/589907)
 
 
+## Lefkada (Q190138)
+[https://www.wikidata.org/wiki/Q190138](https://www.wikidata.org/wiki/Q190138)  
+
+### alignments:
+ - [Leucas (island)](https://pleiades.stoa.org/places/530975)
+
+
 ## Lefkandi (Q634655)
 [https://www.wikidata.org/wiki/Q634655](https://www.wikidata.org/wiki/Q634655)  
 
@@ -4259,6 +4266,13 @@
 
 ### alignments:
  - [Kelossa (mountain)](https://pleiades.stoa.org/places/570345)
+
+
+## Meganisi (Q539628)
+[https://www.wikidata.org/wiki/Q539628](https://www.wikidata.org/wiki/Q539628)  
+
+### alignments:
+ - [Taphos (island)](https://pleiades.stoa.org/places/531114)
 
 
 ## Meinarti Island (Q49658086)
