@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3629 alignments exist in _Pleiades_ place references as of 2024-08-23. The following list of alignments is grouped by zotkey.
+3633 alignments exist in _Pleiades_ place references as of 2024-08-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4839,6 +4839,13 @@
  - [Bourton-on-the-Water](https://pleiades.stoa.org/places/79339)
 
 
+## GEO ID 14520: Sulloniacis (Brockley Hill)
+[http://www.trismegistos.org/place/14520](http://www.trismegistos.org/place/14520)  
+
+### alignments:
+ - [Sulloniacis](https://pleiades.stoa.org/places/79701)
+
+
 ## GEO ID 14522: Navio (Brough-on-Noe)
 [http://www.trismegistos.org/place/14522](http://www.trismegistos.org/place/14522)  
 
@@ -5783,6 +5790,13 @@
 
 ### alignments:
  - [Krokeai](https://pleiades.stoa.org/places/570385)
+
+
+## GEO ID 15745: Epitalion
+[http://www.trismegistos.org/place/15745](http://www.trismegistos.org/place/15745)  
+
+### alignments:
+ - [Epitalion](https://pleiades.stoa.org/places/570231)
 
 
 ## GEO ID 15746: Isthmia (Kyras Vrysi)
@@ -22345,6 +22359,13 @@
  - [Thospia/Bouana/‘Ospa’/Ṭušpa](https://pleiades.stoa.org/places/874771)
 
 
+## GEO ID 47938: Bokhtan
+[http://www.trismegistos.org/place/47938](http://www.trismegistos.org/place/47938)  
+
+### alignments:
+ - [Kentrites/Tigris/Zirmas (river)](https://pleiades.stoa.org/places/874545)
+
+
 ## GEO ID 47958: Boumelos (Khazir)
 [http://www.trismegistos.org/place/47958](http://www.trismegistos.org/place/47958)  
 
@@ -22842,6 +22863,13 @@
 
 ### alignments:
  - [Messapii](https://pleiades.stoa.org/places/442657)
+
+
+## GEO ID 51942: Temple of Artemis (Selçuk)
+[https://www.trismegistos.org/place/51942](https://www.trismegistos.org/place/51942)  
+
+### alignments:
+ - [Temple of Artemis at Ephesus](https://pleiades.stoa.org/places/873985034)
 
 
 ## GEO ID 51: Aethiopia

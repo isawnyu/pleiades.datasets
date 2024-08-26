@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3472 alignments exist in _Pleiades_ place references as of 2024-08-23. The following list of alignments is grouped by zotkey.
+3473 alignments exist in _Pleiades_ place references as of 2024-08-26. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -19289,6 +19289,13 @@
 
 ### alignments:
  - [Priene/‘Lince’?](https://pleiades.stoa.org/places/599905)
+
+
+## Prinassos (Caria)
+[https://topostext.org/place/368285UPri](https://topostext.org/place/368285UPri)  
+
+### alignments:
+ - [Prinassos](https://pleiades.stoa.org/places/606358)
 
 
 ## Priniatikos Pyrgos excavation (Crete)

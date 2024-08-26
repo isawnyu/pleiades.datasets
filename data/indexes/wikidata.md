@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3732 alignments exist in _Pleiades_ place references as of 2024-08-23. The following list of alignments is grouped by zotkey.
+3738 alignments exist in _Pleiades_ place references as of 2024-08-26. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1256,6 +1256,13 @@
  - [Beta Samati](https://pleiades.stoa.org/places/253102124)
 
 
+## Bezabde (Q65088734)
+[https://www.wikidata.org/wiki/Q65088734](https://www.wikidata.org/wiki/Q65088734)  
+
+### alignments:
+ - [Bezabde/Zabdaion Chorion](https://pleiades.stoa.org/places/874402)
+
+
 ## Beşparmak Mountains (Q854649)
 [https://www.wikidata.org/wiki/Q854649](https://www.wikidata.org/wiki/Q854649)  
 
@@ -1310,6 +1317,13 @@
 
 ### alignments:
  - [Boothby Roman fort](https://pleiades.stoa.org/places/24547396)
+
+
+## Botan River (Q894622)
+[https://www.wikidata.org/wiki/Q894622](https://www.wikidata.org/wiki/Q894622)  
+
+### alignments:
+ - [Kentrites/Tigris/Zirmas (river)](https://pleiades.stoa.org/places/874545)
 
 
 ## Botzdorf Roman villa (Q15843466)
@@ -4107,6 +4121,13 @@
  - [Maadi](https://pleiades.stoa.org/places/718296310)
 
 
+## Maccarae (Q60790619)
+[https://www.wikidata.org/wiki/Q60790619](https://www.wikidata.org/wiki/Q60790619)  
+
+### alignments:
+ - [Makkarai?](https://pleiades.stoa.org/places/540925)
+
+
 ## Macedonia (Q103251)
 [https://www.wikidata.org/wiki/Q103251](https://www.wikidata.org/wiki/Q103251)  
 
@@ -5547,6 +5568,13 @@
 
 ### alignments:
  - [Prifernum](https://pleiades.stoa.org/places/416846)
+
+
+## Prinassos (Q114231562)
+[https://www.wikidata.org/wiki/Q114231562](https://www.wikidata.org/wiki/Q114231562)  
+
+### alignments:
+ - [Prinassos](https://pleiades.stoa.org/places/606358)
 
 
 ## Priniatikos Pyrgos (Q7245224
@@ -18181,13 +18209,6 @@
  - [Castillo de Irulegui](https://pleiades.stoa.org/places/461726239)
 
 
-## Q43018: Temple of Artemis
-[https://www.wikidata.org/wiki/Q43018](https://www.wikidata.org/wiki/Q43018)  
-
-### alignments:
- - [Temple of Artemis at Ephesus](https://pleiades.stoa.org/places/873985034)
-
-
 ## Q43048: Rhodes
 [https://www.wikidata.org/wiki/Q43048](https://www.wikidata.org/wiki/Q43048)  
 
@@ -24650,6 +24671,13 @@
  - [Sirkap](https://pleiades.stoa.org/places/801825162)
 
 
+## Sirkeli Höyük (Q1561662)
+[https://www.wikidata.org/wiki/Q1561662](https://www.wikidata.org/wiki/Q1561662)  
+
+### alignments:
+ - [Sirkeli Höyük](https://pleiades.stoa.org/places/16844227)
+
+
 ## Sirsukh (Q938289)
 [https://www.wikidata.org/wiki/Q938289](https://www.wikidata.org/wiki/Q938289)  
 
@@ -24837,6 +24865,13 @@
 
 ### alignments:
  - [Su Nuraxi di Barumini](https://pleiades.stoa.org/places/948291971)
+
+
+## Sulloniacis (Q7636455)
+[https://www.wikidata.org/wiki/Q7636455](https://www.wikidata.org/wiki/Q7636455)  
+
+### alignments:
+ - [Sulloniacis](https://pleiades.stoa.org/places/79701)
 
 
 ## Susa (Q180773)
@@ -25111,6 +25146,13 @@
 
 ### alignments:
  - [Dionysos Bresagenes, T.](https://pleiades.stoa.org/places/550514)
+
+
+## Temple of Ephesian Artemis (Q43018)
+[https://www.wikidata.org/wiki/Q43018](https://www.wikidata.org/wiki/Q43018)  
+
+### alignments:
+ - [Temple of Artemis at Ephesus](https://pleiades.stoa.org/places/873985034)
 
 
 ## Temple of Flora in Rome (Q3983248)
