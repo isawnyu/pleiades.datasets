@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3633 alignments exist in _Pleiades_ place references as of 2024-08-26. The following list of alignments is grouped by zotkey.
+3634 alignments exist in _Pleiades_ place references as of 2024-08-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -24959,6 +24959,13 @@
 
 ### alignments:
  - [Poseidonia/Paestum](https://pleiades.stoa.org/places/442733)
+
+
+## GEO ID, 1589
+[http://www.trismegistos.org/place/1589](http://www.trismegistos.org/place/1589)  
+
+### alignments:
+ - [Panopolis/Schmin](https://pleiades.stoa.org/places/756613)
 
 
 ## GEO ID, 16473: Melitene (Malatya)
