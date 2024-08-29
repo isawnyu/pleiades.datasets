@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3738 alignments exist in _Pleiades_ place references as of 2024-08-28. The following list of alignments is grouped by zotkey.
+3744 alignments exist in _Pleiades_ place references as of 2024-08-29. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1396,6 +1396,13 @@
  - [Gholaia](https://pleiades.stoa.org/places/344377)
 
 
+## Burgh by Sands Roman fort, Beaumont camp, Burgh Castle and Hadrian's Wall from boundary west of churchyard, Beaumont to Burgh Head in wall miles 70 and 71 (Q17675704)
+[https://www.wikidata.org/wiki/Q17675704](https://www.wikidata.org/wiki/Q17675704)  
+
+### alignments:
+ - [Aballava](https://pleiades.stoa.org/places/89092)
+
+
 ## Burmageçit, Tunceli (Q116788474)
 [https://www.wikidata.org/wiki/Q116788474](https://www.wikidata.org/wiki/Q116788474)  
 
@@ -1653,6 +1660,13 @@
 
 ### alignments:
  - [Gelduba](https://pleiades.stoa.org/places/109002)
+
+
+## Castra of Burladingen (Q1735342)
+[https://www.wikidata.org/wiki/Q1735342](https://www.wikidata.org/wiki/Q1735342)  
+
+### alignments:
+ - [Burladingen](https://pleiades.stoa.org/places/118618)
 
 
 ## Castra of Duel (Q1299984)
@@ -3820,6 +3834,13 @@
  - [Eupilis (lake)](https://pleiades.stoa.org/places/383645)
 
 
+## Lake of the Idols (Q21055316)
+[https://www.wikidata.org/wiki/Q21055316](https://www.wikidata.org/wiki/Q21055316)  
+
+### alignments:
+ - [Le Ciliegeta](https://pleiades.stoa.org/places/413079)
+
+
 ## Lake Uluabat (Q4809067)
 [https://www.wikidata.org/wiki/Q4809067](https://www.wikidata.org/wiki/Q4809067)  
 
@@ -3951,6 +3972,13 @@
 
 ### alignments:
  - [Letoon](https://pleiades.stoa.org/places/638958)
+
+
+## Library of Pantainus (Q5727966)
+[https://www.wikidata.org/wiki/Q5727966](https://www.wikidata.org/wiki/Q5727966)  
+
+### alignments:
+ - [Library of Pantainos](https://pleiades.stoa.org/places/582559069)
 
 
 ## Licates (Q1824839)
@@ -4476,6 +4504,13 @@
 
 ### alignments:
  - [Monopteros](https://pleiades.stoa.org/places/87615187)
+
+
+## Monte Falterona (Q749841)
+[https://www.wikidata.org/wiki/Q749841](https://www.wikidata.org/wiki/Q749841)  
+
+### alignments:
+ - [Monte Falterona](https://pleiades.stoa.org/places/676201591)
 
 
 ## Monument of the Eponymous Heroes (Q2094507)
@@ -12972,6 +13007,13 @@
 
 ### alignments:
  - [Hedemünden](https://pleiades.stoa.org/places/19570166)
+
+
+## Q2179593
+[https://www.wikidata.org/wiki/Q2179593](https://www.wikidata.org/wiki/Q2179593)  
+
+### alignments:
+ - [Lahnau-Dorlar](https://pleiades.stoa.org/places/109097)
 
 
 ## Q2194126: Forum Suarium

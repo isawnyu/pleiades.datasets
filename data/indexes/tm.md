@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3634 alignments exist in _Pleiades_ place references as of 2024-08-28. The following list of alignments is grouped by zotkey.
+3635 alignments exist in _Pleiades_ place references as of 2024-08-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9066,6 +9066,13 @@
 
 ### alignments:
  - [Burdigala](https://pleiades.stoa.org/places/138248)
+
+
+## GEO ID 22875: Divona (Cahors)
+[https://www.trismegistos.org/place/22875](https://www.trismegistos.org/place/22875)  
+
+### alignments:
+ - [Divona](https://pleiades.stoa.org/places/138329)
 
 
 ## GEO ID 2287: Tebtynis (Umm el-Baragat)
@@ -24961,7 +24968,7 @@
  - [Poseidonia/Paestum](https://pleiades.stoa.org/places/442733)
 
 
-## GEO ID, 1589
+## GEO ID, 1589: Panopolis (Akhmim)
 [http://www.trismegistos.org/place/1589](http://www.trismegistos.org/place/1589)  
 
 ### alignments:

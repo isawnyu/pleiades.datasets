@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-140 alignments exist in _Pleiades_ place references as of 2024-08-28. The following list of alignments is grouped by zotkey.
+144 alignments exist in _Pleiades_ place references as of 2024-08-29. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -126,6 +126,13 @@
 
 ### alignments:
  - [Athmonon](https://pleiades.stoa.org/places/579887)
+
+
+## Findspot: Bakcheion
+[https://www.atticinscriptions.com/browse/byfindspot/bakcheion/](https://www.atticinscriptions.com/browse/byfindspot/bakcheion/)  
+
+### alignments:
+ - [Bakcheion](https://pleiades.stoa.org/places/576630079)
 
 
 ## Findspot: Brauron
@@ -625,6 +632,13 @@
  - [Teithras](https://pleiades.stoa.org/places/580115)
 
 
+## Findspot: Tenos
+[https://www.atticinscriptions.com/browse/byfindspot/tenos/](https://www.atticinscriptions.com/browse/byfindspot/tenos/)  
+
+### alignments:
+ - [Tenos (island)](https://pleiades.stoa.org/places/590074)
+
+
 ## Findspot: Theatre of Dionysos
 [https://www.atticinscriptions.com/browse/byfindspot/theatre-of-dionysus/](https://www.atticinscriptions.com/browse/byfindspot/theatre-of-dionysus/)  
 
@@ -658,6 +672,20 @@
 
 ### alignments:
  - [Anagyrous](https://pleiades.stoa.org/places/579863)
+
+
+## IG II² 5185
+[https://www.atticinscriptions.com/inscription/IGII2/5185](https://www.atticinscriptions.com/inscription/IGII2/5185)  
+
+### alignments:
+ - [Arch of Hadrian at Athens](https://pleiades.stoa.org/places/235795850)
+
+
+## IG II³ 4, 1405
+[https://www.atticinscriptions.com/inscription/IGII34/1405](https://www.atticinscriptions.com/inscription/IGII34/1405)  
+
+### alignments:
+ - [Library of Pantainos](https://pleiades.stoa.org/places/582559069)
 
 
 ## Original Location: Acharnai
