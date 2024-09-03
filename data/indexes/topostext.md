@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3474 alignments exist in _Pleiades_ place references as of 2024-08-29. The following list of alignments is grouped by zotkey.
+3476 alignments exist in _Pleiades_ place references as of 2024-09-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -17615,6 +17615,13 @@
  - [Phaselis](https://pleiades.stoa.org/places/639051)
 
 
+## Phasis R. (Georgia)
+[https://topostext.org/place/422417WPha](https://topostext.org/place/422417WPha)  
+
+### alignments:
+ - [Phasis (river)](https://pleiades.stoa.org/places/857276)
+
+
 ## Phayttos (Thessaly) Zarko - Φάϋττος
 [https://topostext.org/place/396222UPha](https://topostext.org/place/396222UPha)  
 
@@ -20027,6 +20034,13 @@
 
 ### alignments:
  - [Sagalassos](https://pleiades.stoa.org/places/639087)
+
+
+## Saguntum (Iberia)
+[https://topostext.org/place/397-03USag](https://topostext.org/place/397-03USag)  
+
+### alignments:
+ - [Saguntum/Arse](https://pleiades.stoa.org/places/266021)
 
 
 ## Sais (Egypt)

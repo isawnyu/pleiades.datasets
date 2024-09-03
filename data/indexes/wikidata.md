@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3744 alignments exist in _Pleiades_ place references as of 2024-08-29. The following list of alignments is grouped by zotkey.
+3757 alignments exist in _Pleiades_ place references as of 2024-09-03. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -27,6 +27,13 @@
 
 ### alignments:
  - [Akakesion](https://pleiades.stoa.org/places/573060)
+
+
+## Acerenza (Q52511)
+[https://www.wikidata.org/wiki/Q52511](https://www.wikidata.org/wiki/Q52511)  
+
+### alignments:
+ - [Ac(h)eruntia](https://pleiades.stoa.org/places/442436)
 
 
 ## Acerrae Vatriae (Q4673211)
@@ -1494,6 +1501,13 @@
  - [Kalynda](https://pleiades.stoa.org/places/638891)
 
 
+## Camerino (Q73489)
+[https://www.wikidata.org/wiki/Q73489](https://www.wikidata.org/wiki/Q73489)  
+
+### alignments:
+ - [Camerinum](https://pleiades.stoa.org/places/413060)
+
+
 ## Campament romà de Son Espases (Q95900928)
 [https://www.wikidata.org/wiki/Q95900928](https://www.wikidata.org/wiki/Q95900928)  
 
@@ -2692,6 +2706,13 @@
  - [Aurelium Cananefatium/Forum Hadriani](https://pleiades.stoa.org/places/98918)
 
 
+## Forum Iulii (Q127430247)
+[https://www.wikidata.org/wiki/Q127430247](https://www.wikidata.org/wiki/Q127430247)  
+
+### alignments:
+ - [Col. Forum Iulii](https://pleiades.stoa.org/places/157836)
+
+
 ## Forum of Augustus (Q770797)
 [https://www.wikidata.org/wiki/Q770797](https://www.wikidata.org/wiki/Q770797)  
 
@@ -3735,6 +3756,13 @@
  - [Kuntillat 'Ajrud](https://pleiades.stoa.org/places/686550284)
 
 
+## Kutaisi (Q172415)
+[https://www.wikidata.org/wiki/Q172415](https://www.wikidata.org/wiki/Q172415)  
+
+### alignments:
+ - [Kotais](https://pleiades.stoa.org/places/863830)
+
+
 ## Kynosoura (Q25018940)
 [https://www.wikidata.org/wiki/Q25018940](https://www.wikidata.org/wiki/Q25018940)  
 
@@ -3769,6 +3797,13 @@
 ### alignments:
  - [Kythnos (island)](https://pleiades.stoa.org/places/570403)
  - [Kythnos](https://pleiades.stoa.org/places/570402)
+
+
+## Küllüoba Höyüğü (Q6101388)
+[https://www.wikidata.org/wiki/Q6101388](https://www.wikidata.org/wiki/Q6101388)  
+
+### alignments:
+ - [Küllüoba Höyüğü](https://pleiades.stoa.org/places/334862818)
 
 
 ## La Cabañeta (Q10971491)
@@ -4485,6 +4520,13 @@
  - [Agora Mint](https://pleiades.stoa.org/places/100638613)
 
 
+## Mochadion (Q65046358)
+[https://www.wikidata.org/wiki/Q65046358](https://www.wikidata.org/wiki/Q65046358)  
+
+### alignments:
+ - [Mochadion](https://pleiades.stoa.org/places/521086)
+
+
 ## Monastery of St. Elian (Q20858492)
 [https://www.wikidata.org/wiki/Q20858492](https://www.wikidata.org/wiki/Q20858492)  
 
@@ -4511,6 +4553,13 @@
 
 ### alignments:
  - [Monte Falterona](https://pleiades.stoa.org/places/676201591)
+
+
+## Monte San Mauro (Q3861964)
+[https://www.wikidata.org/wiki/Q3861964](https://www.wikidata.org/wiki/Q3861964)  
+
+### alignments:
+ - [Monte S. Mauro di Caltagirone](https://pleiades.stoa.org/places/462365)
 
 
 ## Monument of the Eponymous Heroes (Q2094507)
@@ -5164,6 +5213,13 @@
  - [Perraibia](https://pleiades.stoa.org/places/491689)
 
 
+## Perrhidae (Q19341018)
+[https://www.wikidata.org/wiki/Q19341018](https://www.wikidata.org/wiki/Q19341018)  
+
+### alignments:
+ - [Perrhidai](https://pleiades.stoa.org/places/585942)
+
+
 ## Persepolis (Q129072)
 [https://www.wikidata.org/wiki/Q129072](https://www.wikidata.org/wiki/Q129072)  
 
@@ -5554,6 +5610,13 @@
 
 ### alignments:
  - [Portus](https://pleiades.stoa.org/places/423012)
+
+
+## Portus Aggasus (Q130215698)
+[https://www.wikidata.org/wiki/Q130215698](https://www.wikidata.org/wiki/Q130215698)  
+
+### alignments:
+ - [Portus Aggasus](https://pleiades.stoa.org/places/446282)
 
 
 ## Poseidon Temple of Isthmia (Q18385210)
@@ -17304,13 +17367,6 @@
  - [Santa Prisca](https://pleiades.stoa.org/places/45016678)
 
 
-## Q3861964: Monte San Mauro
-[https://www.wikidata.org/wiki/Q3861964](https://www.wikidata.org/wiki/Q3861964)  
-
-### alignments:
- - [Monte S. Mauro di Caltagirone](https://pleiades.stoa.org/places/462365)
-
-
 ## Q3862149: Monte del Grano
 [https://www.wikidata.org/wiki/Q3862149](https://www.wikidata.org/wiki/Q3862149)  
 
@@ -19166,13 +19222,6 @@
 
 ### alignments:
  - [Tureng tepe/Khosro-shad-Peroz](https://pleiades.stoa.org/places/942331)
-
-
-## Q52511: Acerenza
-[https://www.wikidata.org/wiki/Q52511](https://www.wikidata.org/wiki/Q52511)  
-
-### alignments:
- - [Ac(h)eruntia](https://pleiades.stoa.org/places/442436)
 
 
 ## Q5276996
@@ -22087,13 +22136,6 @@
  - [Fosso Marangone](https://pleiades.stoa.org/places/723746844)
 
 
-## Q73489: Camerino
-[https://www.wikidata.org/wiki/Q73489](https://www.wikidata.org/wiki/Q73489)  
-
-### alignments:
- - [Camerinum](https://pleiades.stoa.org/places/413060)
-
-
 ## Q7361310: Rollright Stones
 [https://www.wikidata.org/wiki/Q7361310](https://www.wikidata.org/wiki/Q7361310)  
 
@@ -23886,6 +23928,13 @@
  - [Red Basilica](https://pleiades.stoa.org/places/923431995)
 
 
+## Red House Roman camp (Q17643372)
+[https://www.wikidata.org/wiki/Q17643372](https://www.wikidata.org/wiki/Q17643372)  
+
+### alignments:
+ - [Red House Roman Camp](https://pleiades.stoa.org/places/64136857)
+
+
 ## Regillum (Q11945118)
 [https://www.wikidata.org/wiki/Q11945118](https://www.wikidata.org/wiki/Q11945118)  
 
@@ -23935,12 +23984,26 @@
  - [Rigomagus](https://pleiades.stoa.org/places/109281)
 
 
+## Ringwall Dünsberg (Q2154139)
+[https://www.wikidata.org/wiki/Q2154139](https://www.wikidata.org/wiki/Q2154139)  
+
+### alignments:
+ - [Dünsberg](https://pleiades.stoa.org/places/108940)
+
+
 ## Rizinia (Q1650066)
 [https://www.wikidata.org/wiki/Q1650066](https://www.wikidata.org/wiki/Q1650066)  
 
 ### alignments:
  - [Prinias (Patela)](https://pleiades.stoa.org/places/589981)
  - [Rhittenia?](https://pleiades.stoa.org/places/590029)
+
+
+## Roman amphitheater of Fréjus (Q276063)
+[https://www.wikidata.org/wiki/Q276063](https://www.wikidata.org/wiki/Q276063)  
+
+### alignments:
+ - [Arènes de Fréjus](https://pleiades.stoa.org/places/165979068)
 
 
 ## Roman Amphitheatre of Ancona (Q3616680)
@@ -24004,6 +24067,13 @@
 
 ### alignments:
  - [Ponte de Trajano](https://pleiades.stoa.org/places/566027117)
+
+
+## Roman camp, 290m north west of Seldom Seen (Q17643393)
+[https://www.wikidata.org/wiki/Q17643393](https://www.wikidata.org/wiki/Q17643393)  
+
+### alignments:
+ - [Roman camp, Seldom Seen](https://pleiades.stoa.org/places/36195364)
 
 
 ## Roman fortlet at Ince, 150m north east of Hall Farm (Q17662482)
@@ -25926,6 +25996,13 @@
  - [Velia](https://pleiades.stoa.org/places/157710058)
 
 
+## Vescera (Q737094)
+[https://www.wikidata.org/wiki/Q737094](https://www.wikidata.org/wiki/Q737094)  
+
+### alignments:
+ - [Vescera](https://pleiades.stoa.org/places/334663)
+
+
 ## Vestiges antiques de Riez (Q3556380)
 [https://www.wikidata.org/wiki/Q3556380](https://www.wikidata.org/wiki/Q3556380)  
 
@@ -26102,6 +26179,13 @@
  - [Volustana](https://pleiades.stoa.org/places/491753)
 
 
+## Waldgirmes Forum (Q318775)
+[https://www.wikidata.org/wiki/Q318775](https://www.wikidata.org/wiki/Q318775)  
+
+### alignments:
+ - [Römisches Forum Waldgirmes](https://pleiades.stoa.org/places/889344376)
+
+
 ## walls of Rusellae (Q971697)
 [https://www.wikidata.org/wiki/Q971697](https://www.wikidata.org/wiki/Q971697)  
 
@@ -26254,6 +26338,13 @@
 
 ### alignments:
  - [Ägelmoos](https://pleiades.stoa.org/places/80236838)
+
+
+## Çelebibağı (Q6103464)
+[https://www.wikidata.org/wiki/Q6103464](https://www.wikidata.org/wiki/Q6103464)  
+
+### alignments:
+ - [Çelebibağı](https://pleiades.stoa.org/places/662610533)
 
 
 ## Żejtun Roman villa (Q15949942)

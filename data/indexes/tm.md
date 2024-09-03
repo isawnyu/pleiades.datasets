@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3635 alignments exist in _Pleiades_ place references as of 2024-08-29. The following list of alignments is grouped by zotkey.
+3650 alignments exist in _Pleiades_ place references as of 2024-09-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3277,7 +3277,7 @@
  - [Neilopolites](https://pleiades.stoa.org/places/730128)
 
 
-## GEO ID 12386
+## GEO ID 12386: Pessinous (Ballıhisar)
 [http://www.trismegistos.org/place/12386](http://www.trismegistos.org/place/12386)  
 
 ### alignments:
@@ -3766,6 +3766,13 @@
 
 ### alignments:
  - [Mytilene](https://pleiades.stoa.org/places/550763)
+
+
+## GEO ID 14134: Saguntum (Sagunto)
+[https://www.trismegistos.org/place/14134](https://www.trismegistos.org/place/14134)  
+
+### alignments:
+ - [Saguntum/Arse](https://pleiades.stoa.org/places/266021)
 
 
 ## GEO ID 1413: Nabataea
@@ -6044,6 +6051,13 @@
  - [Kotiaeion](https://pleiades.stoa.org/places/609444)
 
 
+## GEO ID 16146: Dorylaion (Eskişehir)
+[https://www.trismegistos.org/place/16146](https://www.trismegistos.org/place/16146)  
+
+### alignments:
+ - [Dorylaion](https://pleiades.stoa.org/places/609367)
+
+
 ## GEO ID 16148: Amorion (Hissarköy)
 [http://www.trismegistos.org/place/16148](http://www.trismegistos.org/place/16148)  
 
@@ -7752,6 +7766,13 @@
  - [Macatonion](https://pleiades.stoa.org/places/83859)
 
 
+## GEO ID 19790
+[http://www.trismegistos.org/place/19790](http://www.trismegistos.org/place/19790)  
+
+### alignments:
+ - [‘Lavobrinta’?](https://pleiades.stoa.org/places/79556)
+
+
 ## GEO ID 19792: Tamus (River Tame)
 [http://www.trismegistos.org/place/19792](http://www.trismegistos.org/place/19792)  
 
@@ -7806,6 +7827,13 @@
 
 ### alignments:
  - [Minox](https://pleiades.stoa.org/places/83865)
+
+
+## GEO ID 19831
+[http://www.trismegistos.org/place/19831](http://www.trismegistos.org/place/19831)  
+
+### alignments:
+ - [Isca (river)](https://pleiades.stoa.org/places/79533)
 
 
 ## GEO ID 19838: Certis
@@ -9012,6 +9040,13 @@
  - [Taposiris Megale](https://pleiades.stoa.org/places/727241)
 
 
+## GEO ID 22613: Acitodunum (Ahun)
+[http://www.trismegistos.org/place/22613](http://www.trismegistos.org/place/22613)  
+
+### alignments:
+ - [Acitodunum](https://pleiades.stoa.org/places/138167)
+
+
 ## GEO ID 22676: Iculisma (Angoulême)
 [http://www.trismegistos.org/place/22676](http://www.trismegistos.org/place/22676)  
 
@@ -9682,6 +9717,13 @@
 
 ### alignments:
  - [Cocheren-Le Hérapel](https://pleiades.stoa.org/places/108893)
+
+
+## GEO ID 2470: Trikomia
+[http://www.trismegistos.org/place/2470](http://www.trismegistos.org/place/2470)  
+
+### alignments:
+ - [Trikomia](https://pleiades.stoa.org/places/741644)
 
 
 ## GEO ID 2478: Troas
@@ -10952,6 +10994,13 @@
  - [Paneuei](https://pleiades.stoa.org/places/741545)
 
 
+## GEO ID 2877: Petne [Mese] (Etnia)
+[http://www.trismegistos.org/place/2877](http://www.trismegistos.org/place/2877)  
+
+### alignments:
+ - [Petne](https://pleiades.stoa.org/places/737002)
+
+
 ## GEO ID 28793: Asseria (Podgrađe)
 [http://www.trismegistos.org/place/28793](http://www.trismegistos.org/place/28793)  
 
@@ -11405,6 +11454,13 @@
 
 ### alignments:
  - [Argaitidos (Diorux)](https://pleiades.stoa.org/places/736892)
+
+
+## GEO ID 29824: Montana
+[http://www.trismegistos.org/place/29824](http://www.trismegistos.org/place/29824)  
+
+### alignments:
+ - [Montana](https://pleiades.stoa.org/places/207293)
 
 
 ## GEO ID 29839: Oescus (Gigen)
@@ -16035,6 +16091,13 @@
  - [Oiantheia/Euantheia?](https://pleiades.stoa.org/places/540969)
 
 
+## GEO ID 38196: Phasis (Rioni)
+[http://www.trismegistos.org/place/38196](http://www.trismegistos.org/place/38196)  
+
+### alignments:
+ - [Phasis/Rheon (river)](https://pleiades.stoa.org/places/863867)
+
+
 ## GEO ID 38222: Naulochos (Obzor)
 [https://www.trismegistos.org/place/38222](https://www.trismegistos.org/place/38222)  
 
@@ -17406,6 +17469,13 @@
 
 ### alignments:
  - [Condate](https://pleiades.stoa.org/places/167722)
+
+
+## GEO ID 41052: Durotincum (La Grave)
+[http://www.trismegistos.org/place/41052](http://www.trismegistos.org/place/41052)  
+
+### alignments:
+ - [Durotincum](https://pleiades.stoa.org/places/167748)
 
 
 ## GEO ID 41056
@@ -19305,6 +19375,13 @@
  - [Sorvae/Zourzoua](https://pleiades.stoa.org/places/876706)
 
 
+## GEO ID 42158: Rhasum
+[https://www.trismegistos.org/place/42158](https://www.trismegistos.org/place/42158)  
+
+### alignments:
+ - [Rhasum](https://pleiades.stoa.org/places/884910)
+
+
 ## GEO ID 42160: Ktesiphon (Al-Maaridh)
 [http://www.trismegistos.org/place/42160](http://www.trismegistos.org/place/42160)  
 
@@ -20458,6 +20535,13 @@
 
 ### alignments:
  - [Ap(p)enninus M.](https://pleiades.stoa.org/places/815)
+
+
+## GEO ID 42943: Genusia (Ginosa)
+[http://www.trismegistos.org/place/42943](http://www.trismegistos.org/place/42943)  
+
+### alignments:
+ - [Genusia](https://pleiades.stoa.org/places/442598)
 
 
 ## GEO ID 42944: Pastorianensis Mons (Gebel Guern el-Slem)
@@ -22858,6 +22942,13 @@
  - [Assyria (kingdom)](https://pleiades.stoa.org/places/29492)
 
 
+## GEO ID 51867: Monte San Mauro
+[https://www.trismegistos.org/place/51867](https://www.trismegistos.org/place/51867)  
+
+### alignments:
+ - [Monte S. Mauro di Caltagirone](https://pleiades.stoa.org/places/462365)
+
+
 ## GEO ID 51901: Sidicini
 [https://www.trismegistos.org/place/51901](https://www.trismegistos.org/place/51901)  
 
@@ -24070,6 +24161,13 @@
  - [Sebennytikon Stoma](https://pleiades.stoa.org/places/727224)
 
 
+## GEO ID 63898: Aggasus
+[https://www.trismegistos.org/place/63898](https://www.trismegistos.org/place/63898)  
+
+### alignments:
+ - [Portus Aggasus](https://pleiades.stoa.org/places/446282)
+
+
 ## GEO ID 63967: Paesinates
 [https://www.trismegistos.org/place/63967](https://www.trismegistos.org/place/63967)  
 
@@ -24082,6 +24180,13 @@
 
 ### alignments:
  - [Brundulum](https://pleiades.stoa.org/places/393393)
+
+
+## GEO ID 64019: Flamonienses
+[https://www.trismegistos.org/place/64019](https://www.trismegistos.org/place/64019)  
+
+### alignments:
+ - [Flamonienses](https://pleiades.stoa.org/places/194047)
 
 
 ## GEO ID 6453: Pekty
