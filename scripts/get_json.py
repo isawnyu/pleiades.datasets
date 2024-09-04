@@ -17,20 +17,32 @@ import requests
 
 DEFAULT_LOG_LEVEL = logging.WARNING
 OPTIONAL_ARGUMENTS = [
-    ['-l', '--loglevel', 'NOTSET',
-        'desired logging level (' +
-        'case-insensitive string: DEBUG, INFO, WARNING, or ERROR',
-        False],
-    ['-v', '--verbose', False, 'verbose output (logging level == INFO)',
-        False],
-    ['-w', '--veryverbose', False,
-        'very verbose output (logging level == DEBUG)', False],
-    ['-u', '--user_agent', 'Pleiades Playground 0.1', 'user agent for header',
-        False],
-    ['-f', '--from', '', 'email address', False],
-    ['-x', '--overwrite', False,
-        'parse dates in files instead of timestamps on files', False],
-    ['-r', '--rewrite', False, 'write everything', False]
+    [
+        "-l",
+        "--loglevel",
+        "NOTSET",
+        "desired logging level ("
+        + "case-insensitive string: DEBUG, INFO, WARNING, or ERROR",
+        False,
+    ],
+    ["-v", "--verbose", False, "verbose output (logging level == INFO)", False],
+    [
+        "-w",
+        "--veryverbose",
+        False,
+        "very verbose output (logging level == DEBUG)",
+        False,
+    ],
+    ["-u", "--user_agent", "Pleiades Playground 0.1", "user agent for header", False],
+    ["-f", "--from", "", "email address", False],
+    [
+        "-x",
+        "--overwrite",
+        False,
+        "parse dates in files instead of timestamps on files",
+        False,
+    ],
+    ["-r", "--rewrite", False, "write everything", False],
 ]
 POSITIONAL_ARGUMENTS = [
     # each row is a list with 3 elements: name, type, help
@@ -40,23 +52,24 @@ logger = logging.getLogger()
 
 
 def get_last_mod(p):
-    dates = [parse_date(h['modified']) for h in p['history']]
-    for loc in p['locations']:
-        dates.extend([parse_date(h['modified']) for h in loc['history']])
-        dates.append(parse_date(loc['created']))
-    for nam in p['names']:
-        dates.extend([parse_date(h['modified']) for h in nam['history']])
-        dates.append(parse_date(nam['created']))
-    for con in p['connections']:
-        dates.extend([parse_date(h['modified']) for h in con['history']])
-        dates.append(parse_date(con['created']))
+    dates = [parse_date(h["modified"]) for h in p["history"]]
+    for loc in p["locations"]:
+        dates.extend([parse_date(h["modified"]) for h in loc["history"]])
+        dates.append(parse_date(loc["created"]))
+    for nam in p["names"]:
+        dates.extend([parse_date(h["modified"]) for h in nam["history"]])
+        dates.append(parse_date(nam["created"]))
+    for con in p["connections"]:
+        dates.extend([parse_date(h["modified"]) for h in con["history"]])
+        dates.append(parse_date(con["created"]))
     sorted_dates = sorted(dates)
     try:
         last_date = sorted_dates[-1]
     except IndexError:
         logger.error(
-            'Could not find created or last modified date for place {}'
-            ''.format(p['id']))
+            "Could not find created or last modified date for place {}"
+            "".format(p["id"])
+        )
         raise
     return last_date
 
@@ -66,15 +79,15 @@ def main(**kwargs):
     main function
     """
     # logger = logging.getLogger(sys._getframe().f_code.co_name)
-    headers = {
-        'User-Agent': kwargs['user_agent']
-    }
-    if kwargs['from'] != '':
-        headers['From'] = kwargs['from']
-    url = ('http://atlantides.org/downloads/pleiades/json/'
-           'pleiades-places-latest.json.gz')
-    local_filename = url.split('/')[-1]
-    path = join('data', 'json', local_filename)
+    headers = {"User-Agent": kwargs["user_agent"]}
+    if kwargs["from"] != "":
+        headers["From"] = kwargs["from"]
+    url = (
+        "http://atlantides.org/downloads/pleiades/json/"
+        "pleiades-places-latest.json.gz"
+    )
+    local_filename = url.split("/")[-1]
+    path = join("data", "json", local_filename)
     fetch_json = False
     try:
         modified = datetime.fromtimestamp(getmtime(path), timezone.utc)
@@ -86,36 +99,41 @@ def main(**kwargs):
             fetch_json = True
     if fetch_json:
         r = requests.get(url, stream=True)
-        with open(path, 'wb') as f:
-            for chunk in r.iter_content(chunk_size=1024):
+        chunk_mb = 1  # 1 MB
+        chunk_size = chunk_mb * 1024 * 1024  # bytes
+        size = 0
+        with open(path, "wb") as f:
+            for chunk in r.iter_content(chunk_size=chunk_size):
                 if chunk:  # filter out keep-alive new chunks
+                    size += chunk_mb
+                    print(f"> read {size} MB of ?")
                     f.write(chunk)
-        print('downloaded {}'.format(path))
+        print(f"downloaded {size} MB to {path}")
     else:
         print("already have today's version of {}".format(path))
-    with gzip.open(path, 'rb') as f:
+    with gzip.open(path, "rb") as f:
         j = json.load(f)
-    places = j['@graph']
-    del(j)
-    print('There are {} places in this file.'.format(len(places)))
+    places = j["@graph"]
+    del j
+    print("There are {} places in this file.".format(len(places)))
     total = len(places)
     for i, p in enumerate(places):
-        if (i % 1000 == 0):
-            print('percent complete: {}'.format(int(i/total * 100.)))
-        pid = p['id']
+        if i % 1000 == 0:
+            print("percent complete: {}".format(int(i / total * 100.0)))
+        pid = p["id"]
         parts = list(pid)
-        parts = parts[0:len(parts)-2]
-        parts.insert(0, 'json')
-        parts.insert(0, 'data')
+        parts = parts[0 : len(parts) - 2]
+        parts.insert(0, "json")
+        parts.insert(0, "data")
         parts.append(pid)
-        path = '{}.json'.format(join(*parts))
+        path = "{}.json".format(join(*parts))
         path = abspath(realpath(path))
         save = False
-        if kwargs['rewrite']:
+        if kwargs["rewrite"]:
             save = True
-        elif kwargs['overwrite']:
+        elif kwargs["overwrite"]:
             try:
-                with open(path, 'r') as f:
+                with open(path, "r") as f:
                     fp = json.load(f)
             except FileNotFoundError:
                 save = True
@@ -125,8 +143,7 @@ def main(**kwargs):
                 del fp
         else:
             try:
-                file_modified = datetime.fromtimestamp(
-                    getmtime(path), timezone.utc)
+                file_modified = datetime.fromtimestamp(getmtime(path), timezone.utc)
             except FileNotFoundError:
                 save = True
         if not save:
@@ -135,12 +152,15 @@ def main(**kwargs):
                 save = True
         if save:
             makedirs(dirname(path), exist_ok=True)
-            with open(path, 'w') as f:
+            with open(path, "w") as f:
                 json.dump(p, f, sort_keys=True, indent=4, ensure_ascii=False)
 
         #
 
 
 if __name__ == "__main__":
-    main(**configure_commandline(
-            OPTIONAL_ARGUMENTS, POSITIONAL_ARGUMENTS, DEFAULT_LOG_LEVEL))
+    main(
+        **configure_commandline(
+            OPTIONAL_ARGUMENTS, POSITIONAL_ARGUMENTS, DEFAULT_LOG_LEVEL
+        )
+    )
