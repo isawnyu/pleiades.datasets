@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3757 alignments exist in _Pleiades_ place references as of 2024-09-04. The following list of alignments is grouped by zotkey.
+3759 alignments exist in _Pleiades_ place references as of 2024-09-05. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1639,6 +1639,13 @@
 
 ### alignments:
  - [Villa Romana di Caselette](https://pleiades.stoa.org/places/65232414)
+
+
+## Castellina del Marangone (Q104551269)
+[https://www.wikidata.org/wiki/Q104551269](https://www.wikidata.org/wiki/Q104551269)  
+
+### alignments:
+ - [Castellina del Marangone](https://pleiades.stoa.org/places/440105873)
 
 
 ## Castellum Amerinum (Q124155966)
@@ -6276,13 +6283,6 @@
 
 ### alignments:
  - [Tomb of Lucius Ceius Serapio](https://pleiades.stoa.org/places/135433596)
-
-
-## Q104551269: Castellina del Marangone
-[https://www.wikidata.org/wiki/Q104551269](https://www.wikidata.org/wiki/Q104551269)  
-
-### alignments:
- - [Castellina del Marangone](https://pleiades.stoa.org/places/440105873)
 
 
 ## Q104551617: Tumulus of Montetosto
@@ -24643,6 +24643,13 @@
  - [Seriphos (settlement)](https://pleiades.stoa.org/places/590043)
 
 
+## Serpent Column (Q588892)
+[https://www.wikidata.org/wiki/Q588892](https://www.wikidata.org/wiki/Q588892)  
+
+### alignments:
+ - [Serpent Column](https://pleiades.stoa.org/places/927063702)
+
+
 ## Sesebi (Q2274450)
 [https://www.wikidata.org/wiki/Q2274450](https://www.wikidata.org/wiki/Q2274450)  
 
@@ -25791,6 +25798,13 @@
 
 ### alignments:
  - [Tomb of the sons of Sextus Pompeius Justus](https://pleiades.stoa.org/places/402816478)
+
+
+## Tomb of the Stronnii (Q127510403)
+[https://www.wikidata.org/wiki/Q127510403](https://www.wikidata.org/wiki/Q127510403)  
+
+### alignments:
+ - [Tomb of the Stronnii](https://pleiades.stoa.org/places/90074311)
 
 
 ## Tomba del Duce (Q3531029)
