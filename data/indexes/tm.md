@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3653 alignments exist in _Pleiades_ place references as of 2024-09-05. The following list of alignments is grouped by zotkey.
+3665 alignments exist in _Pleiades_ place references as of 2024-09-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5007,7 +5007,7 @@
  - [Arbeia](https://pleiades.stoa.org/places/89104)
 
 
-## GEO ID 14573
+## GEO ID 14573: Camboglanna (Castlesteads)
 [https://www.trismegistos.org/place/14573](https://www.trismegistos.org/place/14573)  
 
 ### alignments:
@@ -10363,6 +10363,13 @@
  - [Segovia](https://pleiades.stoa.org/places/236658)
 
 
+## GEO ID 26982: Termes (Montejo de Tiermes)
+[https://www.trismegistos.org/place/26982](https://www.trismegistos.org/place/26982)  
+
+### alignments:
+ - [Termes](https://pleiades.stoa.org/places/246688)
+
+
 ## GEO ID 2698: Migdol (Tell el-Heir)
 [http://www.trismegistos.org/place/2698](http://www.trismegistos.org/place/2698)  
 
@@ -15468,6 +15475,13 @@
  - [Meroe](https://pleiades.stoa.org/places/658533)
 
 
+## GEO ID 37147: Orsoua (Rsas)
+[https://www.trismegistos.org/place/37147](https://www.trismegistos.org/place/37147)  
+
+### alignments:
+ - [Orsoua](https://pleiades.stoa.org/places/678318)
+
+
 ## GEO ID 37157
 [http://www.trismegistos.org/place/37157](http://www.trismegistos.org/place/37157)  
 
@@ -16112,6 +16126,13 @@
  - [Phasis/Rheon (river)](https://pleiades.stoa.org/places/863867)
 
 
+## GEO ID 3820: Byblos (Jubayl)
+[http://www.trismegistos.org/place/3820](http://www.trismegistos.org/place/3820)  
+
+### alignments:
+ - [Byblos](https://pleiades.stoa.org/places/668216)
+
+
 ## GEO ID 38222: Naulochos (Obzor)
 [https://www.trismegistos.org/place/38222](https://www.trismegistos.org/place/38222)  
 
@@ -16321,6 +16342,13 @@
 
 ### alignments:
  - [Caetobriga](https://pleiades.stoa.org/places/256040)
+
+
+## GEO ID 3858: Botrys (Batroun)
+[https://www.trismegistos.org/place/3858](https://www.trismegistos.org/place/3858)  
+
+### alignments:
+ - [Botrys](https://pleiades.stoa.org/places/668214)
 
 
 ## GEO ID 3871: Bulla Regia (Hammam Darradji)
@@ -18862,6 +18890,13 @@
 
 ### alignments:
  - [Marta (river)](https://pleiades.stoa.org/places/413193)
+
+
+## GEO ID 41813: Minio
+[https://www.trismegistos.org/place/41813](https://www.trismegistos.org/place/41813)  
+
+### alignments:
+ - [Minio (river)](https://pleiades.stoa.org/places/413202)
 
 
 ## GEO ID 41816: Pallanum
@@ -22955,6 +22990,13 @@
  - [Thymbra](https://pleiades.stoa.org/places/550927)
 
 
+## GEO ID 51690: Mobolla (Muğla)
+[https://www.trismegistos.org/place/51690](https://www.trismegistos.org/place/51690)  
+
+### alignments:
+ - [*Mobolla](https://pleiades.stoa.org/places/599801)
+
+
 ## GEO ID 5181: Assyria
 [https://www.trismegistos.org/place/5181](https://www.trismegistos.org/place/5181)  
 
@@ -23622,6 +23664,13 @@
  - [Lamponia](https://pleiades.stoa.org/places/550678)
 
 
+## GEO ID 58945: Hypana (Platiana)
+[https://www.trismegistos.org/place/58945](https://www.trismegistos.org/place/58945)  
+
+### alignments:
+ - [Hypana](https://pleiades.stoa.org/places/570301)
+
+
 ## GEO ID 58961: Euhippe (Dalama)
 [https://www.trismegistos.org/place/58961](https://www.trismegistos.org/place/58961)  
 
@@ -23937,6 +23986,13 @@
  - [Kale Peuke](https://pleiades.stoa.org/places/550607)
 
 
+## GEO ID 60980: Argyria (Karaidin Maden)
+[https://www.trismegistos.org/place/60980](https://www.trismegistos.org/place/60980)  
+
+### alignments:
+ - [Argyria?](https://pleiades.stoa.org/places/550451)
+
+
 ## GEO ID 60984: Pedasos
 [https://www.trismegistos.org/place/60984](https://www.trismegistos.org/place/60984)  
 
@@ -24056,6 +24112,13 @@
  - [Stenykleros](https://pleiades.stoa.org/places/570690)
 
 
+## GEO ID 61399: Zagora
+[https://www.trismegistos.org/place/61399](https://www.trismegistos.org/place/61399)  
+
+### alignments:
+ - [Zagora](https://pleiades.stoa.org/places/590097)
+
+
 ## GEO ID 61455: Batanaia
 [https://www.trismegistos.org/place/61455](https://www.trismegistos.org/place/61455)  
 
@@ -24068,6 +24131,13 @@
 
 ### alignments:
  - [Skolopoeis](https://pleiades.stoa.org/places/599940)
+
+
+## GEO ID 61475: Xanthos (Esen Çay)
+[https://www.trismegistos.org/place/61475](https://www.trismegistos.org/place/61475)  
+
+### alignments:
+ - [Xanthos/Sirbis (river)](https://pleiades.stoa.org/places/639167)
 
 
 ## GEO ID 61481: Tibarenoi
@@ -24138,6 +24208,13 @@
 
 ### alignments:
  - [Noviodunum](https://pleiades.stoa.org/places/138494)
+
+
+## GEO ID 62390: Aipion (Tripiti)
+[https://www.trismegistos.org/place/62390](https://www.trismegistos.org/place/62390)  
+
+### alignments:
+ - [Ep(e)ion](https://pleiades.stoa.org/places/570226)
 
 
 ## GEO ID 62450: Aspledon (Avrokastro)
@@ -24229,6 +24306,13 @@
 
 ### alignments:
  - [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
+
+
+## GEO ID 64991: Kalydnioi
+[https://www.trismegistos.org/place/64991](https://www.trismegistos.org/place/64991)  
+
+### alignments:
+ - [Kalydnioi (islands)](https://pleiades.stoa.org/places/599683)
 
 
 ## GEO ID 650: Epidauros

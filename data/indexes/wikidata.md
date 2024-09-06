@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3759 alignments exist in _Pleiades_ place references as of 2024-09-05. The following list of alignments is grouped by zotkey.
+3771 alignments exist in _Pleiades_ place references as of 2024-09-06. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -217,6 +217,13 @@
 
 ### alignments:
  - [Acharnian Gate](https://pleiades.stoa.org/places/249767015)
+
+
+## Aipy (Q12872855)
+[https://www.wikidata.org/wiki/Q12872855](https://www.wikidata.org/wiki/Q12872855)  
+
+### alignments:
+ - [Ep(e)ion](https://pleiades.stoa.org/places/570226)
 
 
 ## Aixone (Q13424322)
@@ -828,6 +835,20 @@
  - [Argyra](https://pleiades.stoa.org/places/573118)
 
 
+## Argyria (Q65043752)
+[https://www.wikidata.org/wiki/Q65043752](https://www.wikidata.org/wiki/Q65043752)  
+
+### alignments:
+ - [Argyria?](https://pleiades.stoa.org/places/550451)
+
+
+## Argyria (Q65043760)
+[https://www.wikidata.org/wiki/Q65043760](https://www.wikidata.org/wiki/Q65043760)  
+
+### alignments:
+ - [Argyria](https://pleiades.stoa.org/places/857043)
+
+
 ## Arikamedu (Q2861278)
 [https://www.wikidata.org/wiki/Q2861278](https://www.wikidata.org/wiki/Q2861278)  
 
@@ -1193,6 +1214,13 @@
  - [Bathynias (river)](https://pleiades.stoa.org/places/511181)
 
 
+## Batroun (Q3285145)
+[https://www.wikidata.org/wiki/Q3285145](https://www.wikidata.org/wiki/Q3285145)  
+
+### alignments:
+ - [Botrys](https://pleiades.stoa.org/places/668214)
+
+
 ## Battle of Crocus Field (Q1887681)
 [https://www.wikidata.org/wiki/Q1887681](https://www.wikidata.org/wiki/Q1887681)  
 
@@ -1354,6 +1382,13 @@
  - [Salbake (mountain)](https://pleiades.stoa.org/places/639088)
 
 
+## Braich y Pwll (Q24654328)
+[https://www.wikidata.org/wiki/Q24654328](https://www.wikidata.org/wiki/Q24654328)  
+
+### alignments:
+ - [Ganganon Akron](https://pleiades.stoa.org/places/79474)
+
+
 ## Brampton Old Church Roman fort and the medieval Church of St Martin (Q17659606)
 [https://www.wikidata.org/wiki/Q17659606](https://www.wikidata.org/wiki/Q17659606)  
 
@@ -1494,11 +1529,25 @@
  - [Kaloukones?](https://pleiades.stoa.org/places/98993)
 
 
+## Calydnian isles (Q25536001)
+[https://www.wikidata.org/wiki/Q25536001](https://www.wikidata.org/wiki/Q25536001)  
+
+### alignments:
+ - [Kalydnioi (islands)](https://pleiades.stoa.org/places/599683)
+
+
 ## Calynda (Q5024669)
 [https://www.wikidata.org/wiki/Q5024669](https://www.wikidata.org/wiki/Q5024669)  
 
 ### alignments:
  - [Kalynda](https://pleiades.stoa.org/places/638891)
+
+
+## Camboglanna (Q3651196)
+[https://www.wikidata.org/wiki/Q3651196](https://www.wikidata.org/wiki/Q3651196)  
+
+### alignments:
+ - [*Camboglanna](https://pleiades.stoa.org/places/89133)
 
 
 ## Camerino (Q73489)
@@ -1653,6 +1702,13 @@
 
 ### alignments:
  - [Castellum Amerinum](https://pleiades.stoa.org/places/416789)
+
+
+## Castlesteads Roman fort and the vallum between the track to the east of Castlesteads fort and the Cam Beck in the west (Q17650705)
+[https://www.wikidata.org/wiki/Q64811669](https://www.wikidata.org/wiki/Q64811669)  
+
+### alignments:
+ - [*Camboglanna](https://pleiades.stoa.org/places/89133)
 
 
 ## Castra Abusina (Q1735352)
@@ -2657,6 +2713,13 @@
  - [Exomvourgo](https://pleiades.stoa.org/places/853662205)
 
 
+## Eşen River (Q18690050)
+[https://www.wikidata.org/wiki/Q18690050](https://www.wikidata.org/wiki/Q18690050)  
+
+### alignments:
+ - [Xanthos/Sirbis (river)](https://pleiades.stoa.org/places/639167)
+
+
 ## Fag el-Gamous (Q22919830)
 [https://www.wikidata.org/wiki/Q22919830](https://www.wikidata.org/wiki/Q22919830)  
 
@@ -3299,6 +3362,13 @@
 
 ### alignments:
  - [Hyllarima](https://pleiades.stoa.org/places/599659)
+
+
+## Hypana (Q11925666)
+[https://www.wikidata.org/wiki/Q11925666](https://www.wikidata.org/wiki/Q11925666)  
+
+### alignments:
+ - [Hypana](https://pleiades.stoa.org/places/570301)
 
 
 ## Hyperdexion (Q65121321)
@@ -4296,6 +4366,13 @@
  - [Dionysus Sanctuary](https://pleiades.stoa.org/places/595596935)
 
 
+## Mashkan-shapir (Q2574582)
+[https://www.wikidata.org/wiki/Q2574582](https://www.wikidata.org/wiki/Q2574582)  
+
+### alignments:
+ - [Mashkan-Shapir](https://pleiades.stoa.org/places/715980704)
+
+
 ## Massa Veternensis (Q11936119)
 [https://www.wikidata.org/wiki/Q11936119](https://www.wikidata.org/wiki/Q11936119)  
 
@@ -4525,6 +4602,13 @@
 
 ### alignments:
  - [Agora Mint](https://pleiades.stoa.org/places/100638613)
+
+
+## Mobolla (Q65066479)
+[https://www.wikidata.org/wiki/Q65066479](https://www.wikidata.org/wiki/Q65066479)  
+
+### alignments:
+ - [*Mobolla](https://pleiades.stoa.org/places/599801)
 
 
 ## Mochadion (Q65046358)
@@ -4973,6 +5057,13 @@
 
 ### alignments:
  - [Oropos](https://pleiades.stoa.org/places/580044)
+
+
+## Orsoua (Q114722873)
+[https://www.wikidata.org/wiki/Q114722873](https://www.wikidata.org/wiki/Q114722873)  
+
+### alignments:
+ - [Orsoua](https://pleiades.stoa.org/places/678318)
 
 
 ## Orthos (Q17624080)
@@ -16665,13 +16756,6 @@
  - [Takrit/Birta](https://pleiades.stoa.org/places/894099)
 
 
-## Q3651196
-[https://www.wikidata.org/wiki/Q3651196](https://www.wikidata.org/wiki/Q3651196)  
-
-### alignments:
- - [*Camboglanna](https://pleiades.stoa.org/places/89133)
-
-
 ## Q3655761: Roman shipyard of Stifone
 [https://www.wikidata.org/wiki/Q3655761](https://www.wikidata.org/wiki/Q3655761)  
 
@@ -21219,13 +21303,6 @@
  - [(A)Esica](https://pleiades.stoa.org/places/89095)
 
 
-## Q64811669
-[https://www.wikidata.org/wiki/Q64811669](https://www.wikidata.org/wiki/Q64811669)  
-
-### alignments:
- - [*Camboglanna](https://pleiades.stoa.org/places/89133)
-
-
 ## Q64811678
 [https://www.wikidata.org/wiki/Q64811678](https://www.wikidata.org/wiki/Q64811678)  
 
@@ -23526,7 +23603,7 @@
 [https://www.wikidata.org/wiki/Q94946184](https://www.wikidata.org/wiki/Q94946184)  
 
 ### alignments:
- - [Nemesis](https://pleiades.stoa.org/places/580034)
+ - [Temple of Nemesis](https://pleiades.stoa.org/places/580034)
 
 
 ## Q94978: Tolentino
@@ -25615,6 +25692,13 @@
 
 ### alignments:
  - [Ticinus (river)](https://pleiades.stoa.org/places/383799)
+
+
+## Tiermes (Q2429023)
+[https://www.wikidata.org/wiki/Q2429023](https://www.wikidata.org/wiki/Q2429023)  
+
+### alignments:
+ - [Termes](https://pleiades.stoa.org/places/246688)
 
 
 ## Tigris (Q35591)
