@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        41.548571,
-        37.334281,
-        41.548571,
-        37.334281
+        41.5382874,
+        37.3216631,
+        41.5386684,
+        37.3219216
     ],
     "connections": [],
     "connectsWith": [],
@@ -61,23 +61,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    41.548571,
-                    37.334281
+                    [
+                        41.5382874,
+                        37.3218202
+                    ],
+                    [
+                        41.5383845,
+                        37.3216631
+                    ],
+                    [
+                        41.5386684,
+                        37.3217493
+                    ],
+                    [
+                        41.5385593,
+                        37.3219216
+                    ],
+                    [
+                        41.5382874,
+                        37.3218202
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-22576",
+            "id": "osm-location-of-mor-gabriel-monastery",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/874583/darmc-location-22576",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/874583/osm-location-of-mor-gabriel-monastery",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 22576"
+                "snippet": "Monastery",
+                "title": "OSM location of Mor Gabriel Monastery"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-09-05T14:15:48Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added reference",
             "modified": "2017-01-20T04:33:53Z",
@@ -128,112 +151,108 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:14:37Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2024-09-04T20:53:49Z",
             "creators": [
                 {
-                    "name": "S.E. Kroll",
-                    "username": null
-                },
-                {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
-                },
-                {
-                    "name": "T. Sinclair",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22576",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": null,
             "featureType": [
-                "unknown"
+                "monastery"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/monastery"
             ],
             "geometry": {
                 "coordinates": [
-                    41.548571,
-                    37.334281
+                    [
+                        41.5382874,
+                        37.3218202
+                    ],
+                    [
+                        41.5383845,
+                        37.3216631
+                    ],
+                    [
+                        41.5386684,
+                        37.3217493
+                    ],
+                    [
+                        41.5385593,
+                        37.3219216
+                    ],
+                    [
+                        41.5382874,
+                        37.3218202
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:02:25Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:19:12Z",
+                    "modified": "2024-09-05T14:15:16Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T01:14:38Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-09-04T23:16:21Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:14:38Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-09-04T20:54:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-09-04T20:53:50Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T01:14:37Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-09-04T20:53:49Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-22576",
+            "id": "osm-location-of-mor-gabriel-monastery",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/monastery"
             ],
-            "provenance": "DARMC OBJECTID: 22576",
+            "provenance": "OpenStreetMap (Way 555289010, version 19, osm:changeset=140207753, 2023-08-22T03:54:56Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/555289010",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22576",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 555289010",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22576.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=555289010",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 22576",
-            "uri": "https://pleiades.stoa.org/places/874583/darmc-location-22576"
+            "start": null,
+            "title": "OSM location of Mor Gabriel Monastery",
+            "uri": "https://pleiades.stoa.org/places/874583/osm-location-of-mor-gabriel-monastery"
         }
     ],
     "names": [
@@ -376,11 +395,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22576",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        41.548571,
-        37.334281
+        41.53847798582398,
+        37.32178892633991
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
