@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        42.763933,
-        41.812541,
-        42.763933,
-        41.812541
+        42.8618381,
+        41.8276309,
+        42.8618381,
+        41.8276309
     ],
     "connections": [],
     "connectsWith": [],
@@ -48,28 +48,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 88 A3 no. 4 (Zekari)",
-    "details": "The Barrington Atlas Directory notes: Zekari",
+    "details": "<p>The Barrington Atlas Directory notes: Zekari</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    42.763933,
-                    41.812541
+                    42.8618381,
+                    41.8276309
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-32774",
+            "id": "osm-location-of-zekari",
             "properties": {
-                "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/864480/darmc-location-32774",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/864480/osm-location-of-zekari",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "DARMC location 32774"
+                "snippet": "Pass; AD 2000 - AD 2099",
+                "title": "OSM location of Zekari"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-09-07T18:52:15Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-08-31T01:27:56Z",
@@ -115,93 +120,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2011-08-17T22:13:35Z",
+            "contributors": [],
+            "created": "2024-08-31T01:28:17Z",
             "creators": [
                 {
-                    "name": "David Braund",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 32774",
-            "end": null,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "pass"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
             "geometry": {
                 "coordinates": [
-                    42.763933,
-                    41.812541
+                    42.8618381,
+                    41.8276309
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:58:33Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-17T22:13:36Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-09-07T18:51:38Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-17T22:13:36Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-08-31T01:28:46Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-17T22:13:36Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-08-31T01:28:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-08-31T01:28:17Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-17T22:13:35Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-08-31T01:28:17Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-32774",
+            "id": "osm-location-of-zekari",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
-            "provenance": "DARMC OBJECTID: 32774",
+            "provenance": "OpenStreetMap (Node 11412684064, version 3, osm:changeset=151776405, 2024-05-24T15:30:33Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/11412684064",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "32774",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 11412684064",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 32774.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=11412684064",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "DARMC location 32774",
-            "uri": "https://pleiades.stoa.org/places/864480/darmc-location-32774"
+            "start": 2000,
+            "title": "OSM location of Zekari",
+            "uri": "https://pleiades.stoa.org/places/864480/osm-location-of-zekari"
         }
     ],
     "names": [],
@@ -234,11 +243,22 @@
             "otherIdentifier": "",
             "shortTitle": "Braund 1994",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "32774",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        42.763933,
-        41.812541
+        42.8618381,
+        41.8276309
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        42.501583,
-        41.659703,
-        42.501583,
-        41.659703
+        42.5102808,
+        41.6325898,
+        42.5102808,
+        41.6325898
     ],
     "connections": [],
     "connectsWith": [],
@@ -48,28 +48,38 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 88 A3 no. 3 (Goderdzi)",
-    "details": "The Barrington Atlas Directory notes: Goderdzi",
+    "details": "<p>The Barrington Atlas Directory notes: Goderdzi</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    42.501583,
-                    41.659703
+                    42.5102808,
+                    41.6325898
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-32776",
+            "id": "osm-location-of-goderdzi-pass",
             "properties": {
-                "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/864479/darmc-location-32776",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/864479/osm-location-of-goderdzi-pass",
                 "location_precision": "precise",
-                "snippet": "Unknown",
-                "title": "DARMC location 32776"
+                "snippet": "Pass; AD 2000 - AD 2099",
+                "title": "OSM location of Goderdzi Pass"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title",
+            "modified": "2024-09-07T19:05:21Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-09-07T19:04:41Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-08-31T01:29:41Z",
@@ -115,93 +125,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2011-08-17T22:15:01Z",
+            "contributors": [],
+            "created": "2024-08-31T01:30:25Z",
             "creators": [
                 {
-                    "name": "David Braund",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 32776",
-            "end": null,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "pass"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
             "geometry": {
                 "coordinates": [
-                    42.501583,
-                    41.659703
+                    42.5102808,
+                    41.6325898
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:58:32Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-17T22:15:02Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-09-07T19:04:08Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-17T22:15:02Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-08-31T01:31:00Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-17T22:15:02Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-08-31T01:30:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-08-31T01:30:25Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-17T22:15:01Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-08-31T01:30:25Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-32776",
+            "id": "osm-location-of-goderdzi-pass",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
             ],
-            "provenance": "DARMC OBJECTID: 32776",
+            "provenance": "OpenStreetMap (Node 1269572587, version 7, osm:changeset=134440850, 2023-04-03T07:29:24Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1269572587",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "32776",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1269572587",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 32776.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=1269572587",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "DARMC location 32776",
-            "uri": "https://pleiades.stoa.org/places/864479/darmc-location-32776"
+            "start": 2000,
+            "title": "OSM location of Goderdzi Pass",
+            "uri": "https://pleiades.stoa.org/places/864479/osm-location-of-goderdzi-pass"
         }
     ],
     "names": [],
@@ -234,11 +248,22 @@
             "otherIdentifier": "",
             "shortTitle": "Braund 1994",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "32776",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        42.501583,
-        41.659703
+        42.5102808,
+        41.6325898
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -247,7 +272,7 @@
         "dare:feature=pass",
         "dare:ancient=2"
     ],
-    "title": "Untitled",
+    "title": "Goderdzi Pass",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/864479"
 }
