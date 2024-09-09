@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-526 alignments exist in _Pleiades_ place references as of 2024-09-06. The following list of alignments is grouped by zotkey.
+527 alignments exist in _Pleiades_ place references as of 2024-09-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1273,6 +1273,13 @@
 
 ### alignments:
  - [Lebedos/Ptolemais](https://pleiades.stoa.org/places/599754)
+
+
+## 10268887: River Parthenia (Elis)
+[https://resource.manto.unh.edu/10268887](https://resource.manto.unh.edu/10268887)  
+
+### alignments:
+ - [Parthenias (river)](https://pleiades.stoa.org/places/570565)
 
 
 ## 10268894: River Harpinates (Elis)

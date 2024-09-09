@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3771 alignments exist in _Pleiades_ place references as of 2024-09-06. The following list of alignments is grouped by zotkey.
+3792 alignments exist in _Pleiades_ place references as of 2024-09-09. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -920,6 +920,13 @@
  - [Asklepieion, Thesmophorion?, Apollo, T.](https://pleiades.stoa.org/places/599529)
 
 
+## Asclepieion of Athens (Q2278514)
+[https://www.wikidata.org/wiki/Q2278514](https://www.wikidata.org/wiki/Q2278514)  
+
+### alignments:
+ - [Sanctuary of Asklepios at Athens](https://pleiades.stoa.org/places/954340915)
+
+
 ## Asea (Q60791566)
 [https://www.wikidata.org/wiki/Q60791566](https://www.wikidata.org/wiki/Q60791566)  
 
@@ -1228,6 +1235,13 @@
  - [Krokion Pedion](https://pleiades.stoa.org/places/540890)
 
 
+## Bavares (Q2892078)
+[https://www.wikidata.org/wiki/Q2892078](https://www.wikidata.org/wiki/Q2892078)  
+
+### alignments:
+ - [Bavares](https://pleiades.stoa.org/places/285419)
+
+
 ## Bayon (Q654024)
 [https://www.wikidata.org/wiki/Q654024](https://www.wikidata.org/wiki/Q654024)  
 
@@ -1310,6 +1324,13 @@
 
 ### alignments:
  - [Biannos](https://pleiades.stoa.org/places/589730)
+
+
+## Białęcino (Q856007)
+[https://www.wikidata.org/wiki/Q856007](https://www.wikidata.org/wiki/Q856007)  
+
+### alignments:
+ - [Białęcino](https://pleiades.stoa.org/places/20407)
 
 
 ## Bibra Roman Fort (Q17642650)
@@ -2061,6 +2082,13 @@
  - [Complesso dei Riti Magici](https://pleiades.stoa.org/places/515998862)
 
 
+## Concordia Sagittaria (Q47189)
+[https://www.wikidata.org/wiki/Q47189](https://www.wikidata.org/wiki/Q47189)  
+
+### alignments:
+ - [Iulia Concordia](https://pleiades.stoa.org/places/393441)
+
+
 ## Contenebra (Q3688820)
 [https://www.wikidata.org/wiki/Q3688820](https://www.wikidata.org/wiki/Q3688820)  
 
@@ -2426,6 +2454,13 @@
  - [Hippokoronion (mountain)](https://pleiades.stoa.org/places/589809)
 
 
+## Drava (Q171009)
+[https://www.wikidata.org/wiki/Q171009](https://www.wikidata.org/wiki/Q171009)  
+
+### alignments:
+ - [Dravus (river)](https://pleiades.stoa.org/places/197253)
+
+
 ## Dreros (Q5306985)
 [https://www.wikidata.org/wiki/Q5306985](https://www.wikidata.org/wiki/Q5306985)  
 
@@ -2529,6 +2564,13 @@
 
 ### alignments:
  - [Ekklesiasterion at Akragas](https://pleiades.stoa.org/places/383918623)
+
+
+## El Chuche (Q6171619)
+[https://www.wikidata.org/wiki/Q6171619](https://www.wikidata.org/wiki/Q6171619)  
+
+### alignments:
+ - [El Chuche (settlement)](https://pleiades.stoa.org/places/266085)
 
 
 ## El-Lahun (Q56924)
@@ -2802,6 +2844,13 @@
 
 ### alignments:
  - [Frosolone](https://pleiades.stoa.org/places/432851)
+
+
+## Gail (Q876978)
+[https://www.wikidata.org/wiki/Q876978](https://www.wikidata.org/wiki/Q876978)  
+
+### alignments:
+ - [*Licus? (river)](https://pleiades.stoa.org/places/187457)
 
 
 ## Galatia (Q1249412)
@@ -3110,6 +3159,13 @@
 
 ### alignments:
  - [Hephaistia](https://pleiades.stoa.org/places/550569)
+
+
+## Heracleium (Q65070153)
+[https://www.wikidata.org/wiki/Q65070153](https://www.wikidata.org/wiki/Q65070153)  
+
+### alignments:
+ - [Lamyron/Herakleion](https://pleiades.stoa.org/places/857207)
 
 
 ## Heracleopolis Parva (Q104542569)
@@ -3595,11 +3651,25 @@
  - [Karataş](https://pleiades.stoa.org/places/665894864)
 
 
+## Karbala (Q85773621)
+[https://www.wikidata.org/wiki/Q85773621](https://www.wikidata.org/wiki/Q85773621)  
+
+### alignments:
+ - [Karbala](https://pleiades.stoa.org/places/619181)
+
+
 ## Karfi (Q1734354)
 [https://www.wikidata.org/wiki/Q1734354](https://www.wikidata.org/wiki/Q1734354)  
 
 ### alignments:
  - [Karphi](https://pleiades.stoa.org/places/589842)
+
+
+## Karun River (Q461557)
+[https://www.wikidata.org/wiki/Q461557](https://www.wikidata.org/wiki/Q461557)  
+
+### alignments:
+ - [Karun (river)](https://pleiades.stoa.org/places/912879)
 
 
 ## Karystos (Q13554032)
@@ -3904,6 +3974,13 @@
  - [La Marmotta](https://pleiades.stoa.org/places/424390148)
 
 
+## La Tejada Roman Villa (Q1115216)
+[https://www.wikidata.org/wiki/Q1115216](https://www.wikidata.org/wiki/Q1115216)  
+
+### alignments:
+ - [Quintanilla de la Cueza](https://pleiades.stoa.org/places/236624)
+
+
 ## Lacus Juturnae (Q1714672)
 [https://www.wikidata.org/wiki/Q1714672](https://www.wikidata.org/wiki/Q1714672)  
 
@@ -4140,6 +4217,13 @@
 
 ### alignments:
  - [Lindos](https://pleiades.stoa.org/places/589913)
+
+
+## Lippen Wood Roman villa (Q17645586)
+[https://www.wikidata.org/wiki/Q17645586](https://www.wikidata.org/wiki/Q17645586)  
+
+### alignments:
+ - [West Meon](https://pleiades.stoa.org/places/79754)
 
 
 ## Lisht (Q287779)
@@ -4658,6 +4742,13 @@
 
 ### alignments:
  - [Monument of the Eponymous Heroes](https://pleiades.stoa.org/places/660025690)
+
+
+## Mor Gabriel Monastery (Q1434981)
+[https://www.wikidata.org/wiki/Q1434981](https://www.wikidata.org/wiki/Q1434981)  
+
+### alignments:
+ - [Mar Samuel, Simeon](https://pleiades.stoa.org/places/874583)
 
 
 ## Motronynske Hill Fort (Q4304935)
@@ -5213,6 +5304,13 @@
  - [Paros (settlement)](https://pleiades.stoa.org/places/599867)
 
 
+## Parthenias river (Q15148064)
+[https://www.wikidata.org/wiki/Q15148064](https://www.wikidata.org/wiki/Q15148064)  
+
+### alignments:
+ - [Parthenias (river)](https://pleiades.stoa.org/places/570565)
+
+
 ## Passaron (Q2055889)
 [https://www.wikidata.org/wiki/Q2055889](https://www.wikidata.org/wiki/Q2055889)  
 
@@ -5358,6 +5456,13 @@
 
 ### alignments:
  - [Phaistos](https://pleiades.stoa.org/places/589987)
+
+
+## Phalara (Q56292782)
+[https://www.wikidata.org/wiki/Q56292782](https://www.wikidata.org/wiki/Q56292782)  
+
+### alignments:
+ - [Phalara](https://pleiades.stoa.org/places/541034)
 
 
 ## Pharae (Q3562963)
@@ -21625,13 +21730,6 @@
  - [Volsci](https://pleiades.stoa.org/places/433208)
 
 
-## Q664800
-[https://www.wikidata.org/wiki/Q664800](https://www.wikidata.org/wiki/Q664800)  
-
-### alignments:
- - [Ubii](https://pleiades.stoa.org/places/109400)
-
-
 ## Q666004: Lukmanier Pass
 [https://www.wikidata.org/wiki/Q666004](https://www.wikidata.org/wiki/Q666004)  
 
@@ -23970,6 +24068,13 @@
  - [Castra Praetorii Mobeni](https://pleiades.stoa.org/places/697647)
 
 
+## Qaşr al Maqdam (Q104884242)
+[https://www.wikidata.org/wiki/Q104884242](https://www.wikidata.org/wiki/Q104884242)  
+
+### alignments:
+ - [Gasr Beni Gdem](https://pleiades.stoa.org/places/373796)
+
+
 ## Qohaito (Q4236500)
 [https://www.wikidata.org/wiki/Q4236500](https://www.wikidata.org/wiki/Q4236500)  
 
@@ -24739,6 +24844,13 @@
 
 ### alignments:
  - [Catribana Roman bridge](https://pleiades.stoa.org/places/792786060)
+
+
+## Sette Bassi aqueduct (Q130252090)
+[https://www.wikidata.org/wiki/Q130252090](https://www.wikidata.org/wiki/Q130252090)  
+
+### alignments:
+ - [Acquedotto dei Sette Bassi](https://pleiades.stoa.org/places/583864320)
 
 
 ## Shahr-e Sukhteh (Q1025825)
@@ -25708,6 +25820,13 @@
  - [Tigris/Diglitus (river)](https://pleiades.stoa.org/places/912964)
 
 
+## Til Barsip (Q176458)
+[https://www.wikidata.org/wiki/Q176458](https://www.wikidata.org/wiki/Q176458)  
+
+### alignments:
+ - [Bersiba](https://pleiades.stoa.org/places/658410)
+
+
 ## Tilmen Höyük (Q1379828)
 [https://www.wikidata.org/wiki/Q1379828](https://www.wikidata.org/wiki/Q1379828)  
 
@@ -26052,6 +26171,13 @@
  - [Typhrestos/Tymphrestos (mountain)](https://pleiades.stoa.org/places/542836711)
 
 
+## Ubii (Q664800)
+[https://www.wikidata.org/wiki/Q664800](https://www.wikidata.org/wiki/Q664800)  
+
+### alignments:
+ - [Ubii](https://pleiades.stoa.org/places/109400)
+
+
 ## Umm el-Marra (Q7881676)
 [https://www.wikidata.org/wiki/Q7881676](https://www.wikidata.org/wiki/Q7881676)  
 
@@ -26064,6 +26190,13 @@
 
 ### alignments:
  - [Lamptrai Kathyperthen](https://pleiades.stoa.org/places/580008)
+
+
+## Urci (Q5485281)
+[https://www.wikidata.org/wiki/Q5485281](https://www.wikidata.org/wiki/Q5485281)  
+
+### alignments:
+ - [El Chuche (settlement)](https://pleiades.stoa.org/places/266085)
 
 
 ## Vagal
@@ -26200,11 +26333,25 @@
  - [Villa dei Casoni](https://pleiades.stoa.org/places/991900272)
 
 
+## Villa delle Vignacce (Q7930568)
+[https://www.wikidata.org/wiki/Q7930568](https://www.wikidata.org/wiki/Q7930568)  
+
+### alignments:
+ - [Le Vignacce](https://pleiades.stoa.org/places/423122)
+
+
 ## Villa Maxentii (Q2363459)
 [https://www.wikidata.org/wiki/Q2363459](https://www.wikidata.org/wiki/Q2363459)  
 
 ### alignments:
  - [Villa Maxentii](https://pleiades.stoa.org/places/423129)
+
+
+## Villa of the Sette Bassi (Q4012682)
+[https://www.wikidata.org/wiki/Q4012682](https://www.wikidata.org/wiki/Q4012682)  
+
+### alignments:
+ - [Sette Bassi](https://pleiades.stoa.org/places/423069)
 
 
 ## Villa Romana del Tellaro (Q499234)

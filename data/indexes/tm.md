@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3665 alignments exist in _Pleiades_ place references as of 2024-09-06. The following list of alignments is grouped by zotkey.
+3675 alignments exist in _Pleiades_ place references as of 2024-09-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8732,6 +8732,13 @@
  - [Syron](https://pleiades.stoa.org/places/741609)
 
 
+## GEO ID 22180: Hybla Maior
+[http://www.trismegistos.org/place/22180](http://www.trismegistos.org/place/22180)  
+
+### alignments:
+ - [Hybla Gereatis](https://pleiades.stoa.org/places/462251)
+
+
 ## GEO ID 22201: Nora (Pula)
 [http://www.trismegistos.org/place/22201](http://www.trismegistos.org/place/22201)  
 
@@ -10244,6 +10251,13 @@
  - [Capera](https://pleiades.stoa.org/places/236405)
 
 
+## GEO ID 26576: Urci (Pechina)
+[https://www.trismegistos.org/place/26576](https://www.trismegistos.org/place/26576)  
+
+### alignments:
+ - [El Chuche (settlement)](https://pleiades.stoa.org/places/266085)
+
+
 ## GEO ID 26590: Carruca (Cortijo de los Cosmes)
 [http://www.trismegistos.org/place/26590](http://www.trismegistos.org/place/26590)  
 
@@ -11202,6 +11216,13 @@
 
 ### alignments:
  - [Bova (island)](https://pleiades.stoa.org/places/197177)
+
+
+## GEO ID 29362: Epetium (Stobreč)
+[https://www.trismegistos.org/place/29362](https://www.trismegistos.org/place/29362)  
+
+### alignments:
+ - [Epetium](https://pleiades.stoa.org/places/197262)
 
 
 ## GEO ID 29369: Tragurium (Trogir)
@@ -15146,6 +15167,13 @@
  - [Bostra/Col. Nova Traiana Alexandriana](https://pleiades.stoa.org/places/678073)
 
 
+## GEO ID 35728: Hernals
+[https://www.trismegistos.org/place/35728](https://www.trismegistos.org/place/35728)  
+
+### alignments:
+ - [Hernals](https://pleiades.stoa.org/places/128408)
+
+
 ## GEO ID 3575: Magnesia (Manisa)
 [https://www.trismegistos.org/place/3575](https://www.trismegistos.org/place/3575)  
 
@@ -18008,6 +18036,13 @@
 
 ### alignments:
  - [Glykys/Elaias?/Cheimerion? Limen](https://pleiades.stoa.org/places/530879)
+
+
+## GEO ID 41348: Phalara (Stilida)
+[https://www.trismegistos.org/place/41348](https://www.trismegistos.org/place/41348)  
+
+### alignments:
+ - [Phalara](https://pleiades.stoa.org/places/541034)
 
 
 ## GEO ID 41349: Skarpheia (Skarfia)
@@ -20915,6 +20950,13 @@
  - [Fundus Palladii](https://pleiades.stoa.org/places/474915)
 
 
+## GEO ID 43461: Bavares
+[https://www.trismegistos.org/place/43461](https://www.trismegistos.org/place/43461)  
+
+### alignments:
+ - [Bavares](https://pleiades.stoa.org/places/285419)
+
+
 ## GEO ID 43463: Vofricenses
 [https://www.trismegistos.org/place/43463](https://www.trismegistos.org/place/43463)  
 
@@ -22506,6 +22548,13 @@
  - [Thospia/Bouana/‘Ospa’/Ṭušpa](https://pleiades.stoa.org/places/874771)
 
 
+## GEO ID 47932: Monastery of Mor Gabriel
+[http://www.trismegistos.org/place/47932](http://www.trismegistos.org/place/47932)  
+
+### alignments:
+ - [Mar Samuel, Simeon](https://pleiades.stoa.org/places/874583)
+
+
 ## GEO ID 47938: Bokhtan
 [http://www.trismegistos.org/place/47938](http://www.trismegistos.org/place/47938)  
 
@@ -22953,6 +23002,13 @@
 
 ### alignments:
  - [Shalfak](https://pleiades.stoa.org/places/665675512)
+
+
+## GEO ID 51250: Dravus (Drava)
+[https://www.trismegistos.org/place/51250](https://www.trismegistos.org/place/51250)  
+
+### alignments:
+ - [Dravus (river)](https://pleiades.stoa.org/places/197253)
 
 
 ## GEO ID 512: Chios
@@ -24021,6 +24077,13 @@
  - [Adrasteia](https://pleiades.stoa.org/places/511138)
 
 
+## GEO ID 61019: Thermodon (Terme Çayı)
+[https://www.trismegistos.org/place/61019](https://www.trismegistos.org/place/61019)  
+
+### alignments:
+ - [Thermodon (river)](https://pleiades.stoa.org/places/857352)
+
+
 ## GEO ID 61126: Encheleioi
 [https://www.trismegistos.org/place/61126](https://www.trismegistos.org/place/61126)  
 
@@ -24215,6 +24278,13 @@
 
 ### alignments:
  - [Ep(e)ion](https://pleiades.stoa.org/places/570226)
+
+
+## GEO ID 62399: Parthenias (Bakireiko)
+[https://www.trismegistos.org/place/62399](https://www.trismegistos.org/place/62399)  
+
+### alignments:
+ - [Parthenias (river)](https://pleiades.stoa.org/places/570565)
 
 
 ## GEO ID 62450: Aspledon (Avrokastro)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3478 alignments exist in _Pleiades_ place references as of 2024-09-06. The following list of alignments is grouped by zotkey.
+3479 alignments exist in _Pleiades_ place references as of 2024-09-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -16968,6 +16968,13 @@
 
 ### alignments:
  - [Parrasia](https://pleiades.stoa.org/places/570564)
+
+
+## Parthenias R. (Eleia)
+[https://topostext.org/place/378218WPar](https://topostext.org/place/378218WPar)  
+
+### alignments:
+ - [Parthenias (river)](https://pleiades.stoa.org/places/570565)
 
 
 ## Parthenion (Euboea)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-472 alignments exist in _Pleiades_ place references as of 2024-09-06. The following list of alignments is grouped by zotkey.
+474 alignments exist in _Pleiades_ place references as of 2024-09-09. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1944,6 +1944,13 @@
  - [Thronion](https://pleiades.stoa.org/places/484015)
 
 
+## 5.23.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:5.23.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:5.23.6)  
+
+### alignments:
+ - [Hybla Gereatis](https://pleiades.stoa.org/places/462251)
+
+
 ## 5.23.7
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:5.23.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:5.23.7)  
 
@@ -2134,6 +2141,13 @@
 
 ### alignments:
  - [Pholoe (mountain)](https://pleiades.stoa.org/places/570607)
+
+
+## 6.21.7
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.21.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.21.7)  
+
+### alignments:
+ - [Parthenias (river)](https://pleiades.stoa.org/places/570565)
 
 
 ## 6.21.8
