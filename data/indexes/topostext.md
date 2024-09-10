@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3479 alignments exist in _Pleiades_ place references as of 2024-09-09. The following list of alignments is grouped by zotkey.
+3482 alignments exist in _Pleiades_ place references as of 2024-09-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1297,6 +1297,13 @@
 
 ### alignments:
  - [Alopeke](https://pleiades.stoa.org/places/579858)
+
+
+## Aloros (Emathia)
+[https://topostext.org/place/406226PAlo](https://topostext.org/place/406226PAlo)  
+
+### alignments:
+ - [Aloros](https://pleiades.stoa.org/places/491519)
 
 
 ## Alpa (Phokida)
@@ -5779,6 +5786,13 @@
 
 ### alignments:
  - [Comana Pontica/Hierocaesarea](https://pleiades.stoa.org/places/857095)
+
+
+## Combretovium (Britannia)
+[https://topostext.org/place/521011UCom](https://topostext.org/place/521011UCom)  
+
+### alignments:
+ - [Combretovium](https://pleiades.stoa.org/places/79399)
 
 
 ## Complutum (Iberia)
@@ -13041,6 +13055,13 @@
 
 ### alignments:
  - [Libyssa](https://pleiades.stoa.org/places/511305)
+
+
+## Liger river (Gallia)
+[https://topostext.org/place/471-15WLig](https://topostext.org/place/471-15WLig)  
+
+### alignments:
+ - [Liger (river)](https://pleiades.stoa.org/places/138420)
 
 
 ## Lilaia (Phokida)

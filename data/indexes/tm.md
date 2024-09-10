@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3675 alignments exist in _Pleiades_ place references as of 2024-09-09. The following list of alignments is grouped by zotkey.
+3680 alignments exist in _Pleiades_ place references as of 2024-09-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7451,6 +7451,13 @@
  - [Sitomagus](https://pleiades.stoa.org/places/83883)
 
 
+## GEO ID 18977: Combretovium (Baylham House)
+[http://www.trismegistos.org/place/18977](http://www.trismegistos.org/place/18977)  
+
+### alignments:
+ - [Combretovium](https://pleiades.stoa.org/places/79399)
+
+
 ## GEO ID 18978: Ad Ansam (Higham?)
 [http://www.trismegistos.org/place/18978](http://www.trismegistos.org/place/18978)  
 
@@ -9325,6 +9332,13 @@
 
 ### alignments:
  - [Iuliomagus](https://pleiades.stoa.org/places/138400)
+
+
+## GEO ID 23636: Autessiodurum (Auxerre)
+[https://www.trismegistos.org/place/23636](https://www.trismegistos.org/place/23636)  
+
+### alignments:
+ - [Autessiodurum](https://pleiades.stoa.org/places/138206)
 
 
 ## GEO ID 23656: Segessera (Bar-sur-Aube)
@@ -14579,6 +14593,13 @@
  - [Sketis](https://pleiades.stoa.org/places/727232)
 
 
+## GEO ID 33769: Aloros (Kypsele)
+[https://www.trismegistos.org/place/33769](https://www.trismegistos.org/place/33769)  
+
+### alignments:
+ - [Aloros](https://pleiades.stoa.org/places/491519)
+
+
 ## GEO ID 3385: Peene (Baha)
 [http://www.trismegistos.org/place/3385](http://www.trismegistos.org/place/3385)  
 
@@ -19620,6 +19641,13 @@
  - [Ad Duodecimum](https://pleiades.stoa.org/places/713204842)
 
 
+## GEO ID 42347: Liger (Loire)
+[https://www.trismegistos.org/place/42347](https://www.trismegistos.org/place/42347)  
+
+### alignments:
+ - [Liger (river)](https://pleiades.stoa.org/places/138420)
+
+
 ## GEO ID 42348: Planasia (Île Saint-Honorat)
 [http://www.trismegistos.org/place/42348](http://www.trismegistos.org/place/42348)  
 
@@ -24355,6 +24383,13 @@
 
 ### alignments:
  - [Flamonienses](https://pleiades.stoa.org/places/194047)
+
+
+## GEO ID 64205: Ouallai
+[https://www.trismegistos.org/place/64205](https://www.trismegistos.org/place/64205)  
+
+### alignments:
+ - [Ouallai/Vallaei](https://pleiades.stoa.org/places/494601)
 
 
 ## GEO ID 6453: Pekty

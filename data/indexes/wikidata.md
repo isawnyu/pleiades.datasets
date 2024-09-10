@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3792 alignments exist in _Pleiades_ place references as of 2024-09-09. The following list of alignments is grouped by zotkey.
+3797 alignments exist in _Pleiades_ place references as of 2024-09-10. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -112,6 +112,13 @@
 
 ### alignments:
  - [ad Capita bubula](https://pleiades.stoa.org/places/20202878)
+
+
+## Ad Decimum catacombs (Q3663193)
+[https://www.wikidata.org/wiki/Q3663193](https://www.wikidata.org/wiki/Q3663193)  
+
+### alignments:
+ - [Catacombe Ad Decimum](https://pleiades.stoa.org/places/484666730)
 
 
 ## Adro Vello (Q12382506)
@@ -315,6 +322,13 @@
 
 ### alignments:
  - [Alopeke](https://pleiades.stoa.org/places/579858)
+
+
+## Aloros (Q3612912)
+[https://www.wikidata.org/wiki/Q3612912](https://www.wikidata.org/wiki/Q3612912)  
+
+### alignments:
+ - [Aloros](https://pleiades.stoa.org/places/491519)
 
 
 ## Alos, Greece (Q4734643)
@@ -1060,6 +1074,13 @@
  - [Aurasius (mountain)](https://pleiades.stoa.org/places/334497)
 
 
+## Avallon (Q207572)
+[https://www.wikidata.org/wiki/Q207572](https://www.wikidata.org/wiki/Q207572)  
+
+### alignments:
+ - [Aballo](https://pleiades.stoa.org/places/177427)
+
+
 ## Aveia (Q2873418)
 [https://www.wikidata.org/wiki/Q2873418](https://www.wikidata.org/wiki/Q2873418)  
 
@@ -1240,6 +1261,13 @@
 
 ### alignments:
  - [Bavares](https://pleiades.stoa.org/places/285419)
+
+
+## Baylham House (Samian Ware Discovery Site) (Q103146020)
+[https://www.wikidata.org/wiki/Q103146020](https://www.wikidata.org/wiki/Q103146020)  
+
+### alignments:
+ - [Combretovium](https://pleiades.stoa.org/places/79399)
 
 
 ## Bayon (Q654024)
@@ -4252,6 +4280,13 @@
 
 ### alignments:
  - [Roman amphitheater at Lixus](https://pleiades.stoa.org/places/35858006)
+
+
+## Loire (Q1469)
+[https://www.wikidata.org/wiki/Q1469](https://www.wikidata.org/wiki/Q1469)  
+
+### alignments:
+ - [Liger (river)](https://pleiades.stoa.org/places/138420)
 
 
 ## London Mithraeum (Q1408799)
