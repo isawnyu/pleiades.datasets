@@ -78,6 +78,13 @@ def get_pd_commits(recent):
                     pass
                 else:
                     success = True
+            elif k == "bibliography":
+                try:
+                    c = commits["updated bibliogreaphy"]
+                except KeyError:
+                    pass
+                else:
+                    success = True
             if not success:
                 goofy_k = [ak for ak in commits.keys() if k in ak]
                 if len(goofy_k) == 1:
