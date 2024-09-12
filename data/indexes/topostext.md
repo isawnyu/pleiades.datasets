@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3482 alignments exist in _Pleiades_ place references as of 2024-09-11. The following list of alignments is grouped by zotkey.
+3483 alignments exist in _Pleiades_ place references as of 2024-09-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2383,6 +2383,13 @@
 
 ### alignments:
  - [Temple of Apollo Zoster](https://pleiades.stoa.org/places/579875)
+
+
+## Apollonas kouros (Naxos) Apollonas
+[https://topostext.org/place/372255AApo](https://topostext.org/place/372255AApo)  
+
+### alignments:
+ - [Apollonas (quarry)](https://pleiades.stoa.org/places/599508)
 
 
 ## Apollonia (Illyria)
@@ -21812,7 +21819,7 @@
 [https://topostext.org/place/406000UTal](https://topostext.org/place/406000UTal)  
 
 ### alignments:
- - [Talabriga](https://pleiades.stoa.org/places/236673)
+ - [Cabeço do Vouga](https://pleiades.stoa.org/places/236673)
 
 
 ## Talomanaccio temple (Etruria) 6 Talamone - Τελαμών

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-348 alignments exist in _Pleiades_ place references as of 2024-09-11. The following list of alignments is grouped by zotkey.
+350 alignments exist in _Pleiades_ place references as of 2024-09-12. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -181,6 +181,13 @@
 
 ### alignments:
  - [Arainon](https://pleiades.stoa.org/places/570099)
+
+
+## Report 14756: NAXOS. - Apollonas - 1988
+[https://chronique.efa.gr/?r=report&id=14756](https://chronique.efa.gr/?r=report&id=14756)  
+
+### alignments:
+ - [Apollonas (quarry)](https://pleiades.stoa.org/places/599508)
 
 
 ## Report 16022: PARAPOTAMOS. - Tsifliki - 1988
@@ -2420,6 +2427,13 @@
 
 ### alignments:
  - [Metapa](https://pleiades.stoa.org/places/540945)
+
+
+## Toponyme 858: Apollonas-Απόλλων,ο
+[https://chronique.efa.gr/?r=topo_public&id=858](https://chronique.efa.gr/?r=topo_public&id=858)  
+
+### alignments:
+ - [Apollonas (quarry)](https://pleiades.stoa.org/places/599508)
 
 
 ## Toponyme 8968: Methoni

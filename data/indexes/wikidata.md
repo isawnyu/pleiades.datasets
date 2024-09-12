@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3797 alignments exist in _Pleiades_ place references as of 2024-09-11. The following list of alignments is grouped by zotkey.
+3800 alignments exist in _Pleiades_ place references as of 2024-09-12. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -770,6 +770,13 @@
 
 ### alignments:
  - [Casalbore](https://pleiades.stoa.org/places/442531)
+
+
+## Archaeological site of Cabeço do Vouga (Q10276240)
+[https://www.wikidata.org/wiki/Q10276240](https://www.wikidata.org/wiki/Q10276240)  
+
+### alignments:
+ - [Cabeço do Vouga](https://pleiades.stoa.org/places/236673)
 
 
 ## Archaeological site of Cercadilla (Q6169526)
@@ -1772,6 +1779,13 @@
 
 ### alignments:
  - [Castra Albana](https://pleiades.stoa.org/places/422885)
+
+
+## Castra Caput Stenarum (Q499858)
+[https://www.wikidata.org/wiki/Q499858](https://www.wikidata.org/wiki/Q499858)  
+
+### alignments:
+ - [Caput Stenarum](https://pleiades.stoa.org/places/216749)
 
 
 ## Castra Clarenna (Q1678826)
@@ -25264,6 +25278,13 @@
 
 ### alignments:
  - [Daphnai](https://pleiades.stoa.org/places/727103)
+
+
+## Talabriga (Q10377931)
+[https://www.wikidata.org/wiki/Q10377931](https://www.wikidata.org/wiki/Q10377931)  
+
+### alignments:
+ - [Cabeço do Vouga](https://pleiades.stoa.org/places/236673)
 
 
 ## Tall Bazi (Q2390471)

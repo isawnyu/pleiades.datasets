@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3680 alignments exist in _Pleiades_ place references as of 2024-09-11. The following list of alignments is grouped by zotkey.
+3682 alignments exist in _Pleiades_ place references as of 2024-09-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1571,6 +1571,7 @@
  - [Aproi/Col. Claudia Aprensis/Nova Theodosiopolis](https://pleiades.stoa.org/places/511153)
  - [Argithea](https://pleiades.stoa.org/places/540658)
  - [Blanda](https://pleiades.stoa.org/places/452274)
+ - [Caput Bubali](https://pleiades.stoa.org/places/207009)
  - [Curiga](https://pleiades.stoa.org/places/256147)
  - [Firronanus Saltus](https://pleiades.stoa.org/places/74926636)
  - [Gabala](https://pleiades.stoa.org/places/40144)
@@ -13998,6 +13999,13 @@
  - [Raetia](https://pleiades.stoa.org/places/187523)
 
 
+## GEO ID 33206: Tria Capita
+[http://www.trismegistos.org/place/33206](http://www.trismegistos.org/place/33206)  
+
+### alignments:
+ - [Tria Capita](https://pleiades.stoa.org/places/246705)
+
+
 ## GEO ID 33214: Drangiane
 [https://www.trismegistos.org/place/33214](https://www.trismegistos.org/place/33214)  
 
@@ -17576,7 +17584,7 @@
  - [Durotincum](https://pleiades.stoa.org/places/167748)
 
 
-## GEO ID 41056
+## GEO ID 41056: Alba Docilia (Albisola)
 [http://www.trismegistos.org/place/41056](http://www.trismegistos.org/place/41056)  
 
 ### alignments:
@@ -18666,6 +18674,13 @@
 
 ### alignments:
  - [T(h)amascani](https://pleiades.stoa.org/places/334635)
+
+
+## GEO ID 41733: Ad Capsum Iuliani
+[https://www.trismegistos.org/place/41733](https://www.trismegistos.org/place/41733)  
+
+### alignments:
+ - [Ad Capsum Iuliani/Ad Capsu Iuliani](https://pleiades.stoa.org/places/338243)
 
 
 ## GEO ID 41735: Ad Lali
