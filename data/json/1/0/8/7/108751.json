@@ -10,24 +10,43 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "capital",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/capital",
             "connectsTo": "https://pleiades.stoa.org/places/981524",
-            "contributors": [],
-            "created": "2016-07-13T14:03:38Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2019-09-18T15:35:46Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "history": [
+                {
+                    "comment": "added references, time period, changed connection type to 'capital of'; update references by @jbecker",
+                    "modified": "2024-09-12T21:40:59Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Baseline created",
                     "modified": "2019-09-18T15:35:46Z",
@@ -51,9 +70,32 @@
             ],
             "id": "981524",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e303050",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+                    "citationDetail": "Colonia Agrippinensis (K. Dietz)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "New Pauly",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://www.degruyter.com/view/j/gik.1993.33.issue-1/gik.1993.33.1.5/gik.1993.33.1.5.xml",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4WKQQCFJ",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Haensch, Rudolf. “Das Römische Köln Als „Hauptstadt“ Der Provinz Germania Inferior.” <i>Geschichte in Köln</i> 33, no. 1 (1993): 5–40. https://doi.org/10.7788/gik.1993.33.1.5.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Haensch 1993",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Germania Inferior",
             "uri": "https://pleiades.stoa.org/places/108751/981524"
         },
