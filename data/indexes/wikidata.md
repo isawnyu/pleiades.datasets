@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3800 alignments exist in _Pleiades_ place references as of 2024-09-12. The following list of alignments is grouped by zotkey.
+3801 alignments exist in _Pleiades_ place references as of 2024-09-13. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -476,6 +476,13 @@
 
 ### alignments:
  - [Corsica/Kyrnos (island)](https://pleiades.stoa.org/places/472063)
+
+
+## ancient Dion (Q9207638)
+[https://www.wikidata.org/wiki/Q9207638](https://www.wikidata.org/wiki/Q9207638)  
+
+### alignments:
+ - [Dion](https://pleiades.stoa.org/places/491572)
 
 
 ## Ancient Gela (Q58008539)

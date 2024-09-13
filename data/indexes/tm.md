@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3682 alignments exist in _Pleiades_ place references as of 2024-09-12. The following list of alignments is grouped by zotkey.
+3685 alignments exist in _Pleiades_ place references as of 2024-09-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -213,6 +213,13 @@
  - [Eion](https://pleiades.stoa.org/places/501410)
 
 
+## Geo 12098: Dion (Karitsa)
+[https://www.trismegistos.org/place/12098](https://www.trismegistos.org/place/12098)  
+
+### alignments:
+ - [Dion](https://pleiades.stoa.org/places/491572)
+
+
 ## Geo 12100: Europos
 [https://www.trismegistos.org/place/12100](https://www.trismegistos.org/place/12100)  
 
@@ -344,6 +351,13 @@
 
 ### alignments:
  - [Etruria/Tuscia (region)](https://pleiades.stoa.org/places/413122)
+
+
+## Geo 1405: Myrina
+[https://www.trismegistos.org/place/1405](https://www.trismegistos.org/place/1405)  
+
+### alignments:
+ - [Myrina](https://pleiades.stoa.org/places/550755)
 
 
 ## Geo 14800: Verulamium (Saint Albans)
@@ -14410,6 +14424,13 @@
 
 ### alignments:
  - [Eurymenai](https://pleiades.stoa.org/places/540784)
+
+
+## GEO ID 33507: Goritsa
+[http://www.trismegistos.org/place/33507](http://www.trismegistos.org/place/33507)  
+
+### alignments:
+ - [Goritsa](https://pleiades.stoa.org/places/540795)
 
 
 ## GEO ID 3350: Placentia (Piacenza)

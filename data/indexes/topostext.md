@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3483 alignments exist in _Pleiades_ place references as of 2024-09-12. The following list of alignments is grouped by zotkey.
+3484 alignments exist in _Pleiades_ place references as of 2024-09-13. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -8614,6 +8614,13 @@
 
 ### alignments:
  - [Gorditanum Pr.](https://pleiades.stoa.org/places/471936)
+
+
+## Goritsa/Methone? (Magnesia)
+[https://topostext.org/place/394230XGor](https://topostext.org/place/394230XGor)  
+
+### alignments:
+ - [Goritsa](https://pleiades.stoa.org/places/540795)
 
 
 ## Gorsium/Herculia (Pannonia)

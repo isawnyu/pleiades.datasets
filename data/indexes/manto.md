@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-527 alignments exist in _Pleiades_ place references as of 2024-09-12. The following list of alignments is grouped by zotkey.
+530 alignments exist in _Pleiades_ place references as of 2024-09-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1226,6 +1226,13 @@
  - [Ionia (region)](https://pleiades.stoa.org/places/550597)
 
 
+## 10267610: Ascra
+[https://resource.manto.unh.edu/10267610](https://resource.manto.unh.edu/10267610)  
+
+### alignments:
+ - [Askra](https://pleiades.stoa.org/places/540670)
+
+
 ## 10267634: River Acheron (Thesprotia; northern Greece)
 [https://resource.manto.unh.edu/10267634](https://resource.manto.unh.edu/10267634)  
 
@@ -1247,11 +1254,25 @@
  - [Macedonia (region)](https://pleiades.stoa.org/places/491656)
 
 
+## 10267722: Orthia
+[https://resource.manto.unh.edu/10267722](https://resource.manto.unh.edu/10267722)  
+
+### alignments:
+ - [Orthia](https://pleiades.stoa.org/places/573420)
+
+
 ## 10267743: River Garates (Arcadia)
 [https://resource.manto.unh.edu/10267743](https://resource.manto.unh.edu/10267743)  
 
 ### alignments:
  - [Garates (river)](https://pleiades.stoa.org/places/570253)
+
+
+## 10268173: Dion
+[https://resource.manto.unh.edu/10268173](https://resource.manto.unh.edu/10268173)  
+
+### alignments:
+ - [Dion](https://pleiades.stoa.org/places/491572)
 
 
 ## 10268768: Lampsacos (Troad)

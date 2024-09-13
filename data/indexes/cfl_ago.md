@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-350 alignments exist in _Pleiades_ place references as of 2024-09-12. The following list of alignments is grouped by zotkey.
+352 alignments exist in _Pleiades_ place references as of 2024-09-13. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -786,6 +786,13 @@
  - [Corcyra (settlement)](https://pleiades.stoa.org/places/530834)
 
 
+## Toponym 35504: Leukas, Lefkada, Santa Maura
+[https://chronique.efa.gr/?kroute=topo_public&id=35504](https://chronique.efa.gr/?kroute=topo_public&id=35504)  
+
+### alignments:
+ - [Leucas (island)](https://pleiades.stoa.org/places/530975)
+
+
 ## Toponym 35974: Zakynthos, Zante
 [https://chronique.efa.gr/?kroute=topo_public&id=35974](https://chronique.efa.gr/?kroute=topo_public&id=35974)  
 
@@ -1142,6 +1149,13 @@
 
 ### alignments:
  - [Chios (island)](https://pleiades.stoa.org/places/550497)
+
+
+## Toponym 43248: Myrina, Kastron
+[https://chronique.efa.gr/?kroute=topo_public&id=43248](https://chronique.efa.gr/?kroute=topo_public&id=43248)  
+
+### alignments:
+ - [Myrina](https://pleiades.stoa.org/places/550755)
 
 
 ## Toponym 43355: Lemnos
