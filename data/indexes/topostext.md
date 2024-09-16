@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3484 alignments exist in _Pleiades_ place references as of 2024-09-13. The following list of alignments is grouped by zotkey.
+3488 alignments exist in _Pleiades_ place references as of 2024-09-16. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -8616,6 +8616,13 @@
  - [Gorditanum Pr.](https://pleiades.stoa.org/places/471936)
 
 
+## Goritsa Neromyloi site (Pella)
+[https://topostext.org/place/410222XGoN](https://topostext.org/place/410222XGoN)  
+
+### alignments:
+ - [Goritsa Neromyloi site](https://pleiades.stoa.org/places/167846411)
+
+
 ## Goritsa/Methone? (Magnesia)
 [https://topostext.org/place/394230XGor](https://topostext.org/place/394230XGor)  
 
@@ -9969,6 +9976,13 @@
 
 ### alignments:
  - [E-kara/Icarus (island)](https://pleiades.stoa.org/places/912841)
+
+
+## Iklaina exc. (Messenia)
+[https://topostext.org/place/370217XIkl](https://topostext.org/place/370217XIkl)  
+
+### alignments:
+ - [Iklaina](https://pleiades.stoa.org/places/658873856)
 
 
 ## Ikonion (Cappadocia)
@@ -13547,6 +13561,13 @@
  - [Lysimacheia](https://pleiades.stoa.org/places/530986)
 
 
+## Lyson and Kallikles Tomb (Emathia)
+[https://topostext.org/place/407221GLaK](https://topostext.org/place/407221GLaK)  
+
+### alignments:
+ - [Tomb of Lison and Kallikles ](https://pleiades.stoa.org/places/836423101)
+
+
 ## Lystra (Lykaonia)
 [https://topostext.org/place/376323ULys](https://topostext.org/place/376323ULys)  
 
@@ -14597,6 +14618,13 @@
 
 ### alignments:
  - [Mieza](https://pleiades.stoa.org/places/491664)
+
+
+## Mieza Nymphaion (Emathia)
+[https://topostext.org/place/406221SNym](https://topostext.org/place/406221SNym)  
+
+### alignments:
+ - [Mieza Nymphaion](https://pleiades.stoa.org/places/111698661)
 
 
 ## Milatos (Lasithi)

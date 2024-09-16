@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3801 alignments exist in _Pleiades_ place references as of 2024-09-13. The following list of alignments is grouped by zotkey.
+3818 alignments exist in _Pleiades_ place references as of 2024-09-16. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -280,6 +280,27 @@
 
 ### alignments:
  - [Alesiai](https://pleiades.stoa.org/places/570063)
+
+
+## Alexandria Bucephalous (Q786725)
+[https://www.wikidata.org/wiki/Q786725](https://www.wikidata.org/wiki/Q786725)  
+
+### alignments:
+ - [Boukephala](https://pleiades.stoa.org/places/59750)
+
+
+## Alexandria Eschate (Q2280882)
+[https://www.wikidata.org/wiki/Q2280882](https://www.wikidata.org/wiki/Q2280882)  
+
+### alignments:
+ - [Alexandria Eschate](https://pleiades.stoa.org/places/59672)
+
+
+## Alexandria Troas (Q1393407)
+[https://www.wikidata.org/wiki/Q1393407](https://www.wikidata.org/wiki/Q1393407)  
+
+### alignments:
+ - [Antigoneia/(Col. Augusta) Alexandria Troas](https://pleiades.stoa.org/places/550434)
 
 
 ## Aliphera (Q38281053)
@@ -805,6 +826,13 @@
 
 ### alignments:
  - [Arch of Caius and Lucius Caesar (Pompeii)](https://pleiades.stoa.org/places/877963847)
+
+
+## Arco Felice (Q13178344)
+[https://www.wikidata.org/wiki/Q13178344](https://www.wikidata.org/wiki/Q13178344)  
+
+### alignments:
+ - [Arco Felice Vecchio](https://pleiades.stoa.org/places/466414611)
 
 
 ## Ardettus (Q12873973)
@@ -1347,6 +1375,13 @@
  - [Beta Samati](https://pleiades.stoa.org/places/253102124)
 
 
+## Betar (Q637954)
+[https://www.wikidata.org/wiki/Q637954](https://www.wikidata.org/wiki/Q637954)  
+
+### alignments:
+ - [Bethar](https://pleiades.stoa.org/places/687851)
+
+
 ## Bezabde (Q65088734)
 [https://www.wikidata.org/wiki/Q65088734](https://www.wikidata.org/wiki/Q65088734)  
 
@@ -1751,6 +1786,20 @@
 
 ### alignments:
  - [Villa Romana di Caselette](https://pleiades.stoa.org/places/65232414)
+
+
+## Castel d'Asso (Q18455411)
+[https://www.wikidata.org/wiki/Q18455411](https://www.wikidata.org/wiki/Q18455411)  
+
+### alignments:
+ - [Axia](https://pleiades.stoa.org/places/413048)
+
+
+## Castel d'Asso (Samian Ware Discovery Site) (Q103158925)
+[https://www.wikidata.org/wiki/Q103158925](https://www.wikidata.org/wiki/Q103158925)  
+
+### alignments:
+ - [Axia](https://pleiades.stoa.org/places/413048)
 
 
 ## Castellina del Marangone (Q104551269)
@@ -2222,6 +2271,13 @@
  - [Krya](https://pleiades.stoa.org/places/638947)
 
 
+## Cumae amphitheatre (Q28977996)
+[https://www.wikidata.org/wiki/Q28977996](https://www.wikidata.org/wiki/Q28977996)  
+
+### alignments:
+ - [Roman amphitheater at Cumae](https://pleiades.stoa.org/places/471357300)
+
+
 ## Cutina (Q11916329)
 [https://www.wikidata.org/wiki/Q11916329](https://www.wikidata.org/wiki/Q11916329)  
 
@@ -2664,6 +2720,13 @@
  - [Helisson (river in modern Sikyona municipality)](https://pleiades.stoa.org/places/570283)
 
 
+## Emperor Claudius' sunken nymphaeum (Q18747381)
+[https://www.wikidata.org/wiki/Q18747381](https://www.wikidata.org/wiki/Q18747381)  
+
+### alignments:
+ - [Punta Epitaffio nymphaeum](https://pleiades.stoa.org/places/575914088)
+
+
 ## Emporium (Q3053354)
 [https://www.wikidata.org/wiki/Q3053354](https://www.wikidata.org/wiki/Q3053354)  
 
@@ -3054,6 +3117,13 @@
 
 ### alignments:
  - [Golgoi](https://pleiades.stoa.org/places/707512)
+
+
+## Goritsa, Neromyloi (Q52427888)
+[https://www.wikidata.org/wiki/Q52427888](https://www.wikidata.org/wiki/Q52427888)  
+
+### alignments:
+ - [Goritsa Neromyloi site](https://pleiades.stoa.org/places/167846411)
 
 
 ## Gortys (Arcadia) (Q1538431)
@@ -3525,6 +3595,13 @@
  - [Ialysos](https://pleiades.stoa.org/places/589815)
 
 
+## Iklaina (Q2918696)
+[https://www.wikidata.org/wiki/Q2918696](https://www.wikidata.org/wiki/Q2918696)  
+
+### alignments:
+ - [Iklaina](https://pleiades.stoa.org/places/658873856)
+
+
 ## Imbrasos (Q25123205)
 [https://www.wikidata.org/wiki/Q25123205](https://www.wikidata.org/wiki/Q25123205)  
 
@@ -3565,6 +3642,13 @@
 
 ### alignments:
  - [Ionia (region)](https://pleiades.stoa.org/places/550597)
+
+
+## Irminones (Q241194)
+[https://www.wikidata.org/wiki/Q241194](https://www.wikidata.org/wiki/Q241194)  
+
+### alignments:
+ - [Hermiones](https://pleiades.stoa.org/places/929385152)
 
 
 ## Iruña-Veleia (Q796596)
@@ -4688,6 +4772,13 @@
  - [Mieza](https://pleiades.stoa.org/places/491664)
 
 
+## Mieza Nymphaion (Q24264125)
+[https://www.wikidata.org/wiki/Q24264125](https://www.wikidata.org/wiki/Q24264125)  
+
+### alignments:
+ - [Mieza Nymphaion](https://pleiades.stoa.org/places/111698661)
+
+
 ## Milecastle 76 (Q6851196)
 [https://www.wikidata.org/wiki/Q6851196](https://www.wikidata.org/wiki/Q6851196)  
 
@@ -4938,6 +5029,13 @@
 
 ### alignments:
  - [Pyrasos](https://pleiades.stoa.org/places/541081)
+
+
+## necropolis of Castel d'Asso (Q3346847)
+[https://www.wikidata.org/wiki/Q3346847](https://www.wikidata.org/wiki/Q3346847)  
+
+### alignments:
+ - [Axia](https://pleiades.stoa.org/places/413048)
 
 
 ## Necropolis of Montessu (Q1369420)
@@ -5323,6 +5421,13 @@
 
 ### alignments:
  - [Parapotamos](https://pleiades.stoa.org/places/531045)
+
+
+## parco sommerso di Baia (Q3895759)
+[https://www.wikidata.org/wiki/Q3895759](https://www.wikidata.org/wiki/Q3895759)  
+
+### alignments:
+ - [Parco Archeologico Sommerso di Baia](https://pleiades.stoa.org/places/766163673)
 
 
 ## Parion, Theatre (Q112662697)
@@ -5771,6 +5876,13 @@
 
 ### alignments:
  - [Solestà Roman bridge](https://pleiades.stoa.org/places/413249072)
+
+
+## Ponte Romito (Q118145821)
+[https://www.wikidata.org/wiki/Q118145821](https://www.wikidata.org/wiki/Q118145821)  
+
+### alignments:
+ - [Ponte Romito](https://pleiades.stoa.org/places/414499)
 
 
 ## Pontinia (Q128130)
@@ -10616,13 +10728,6 @@
  - [Methone (Magnesian)](https://pleiades.stoa.org/places/540946)
 
 
-## Q16608446: Stadium of Antoninus Pius
-[https://www.wikidata.org/wiki/Q16608446](https://www.wikidata.org/wiki/Q16608446)  
-
-### alignments:
- - [Stadium of Antoninus Pius (Puteoli)](https://pleiades.stoa.org/places/468479783)
-
-
 ## Q16612568: theatre of Herculaneum
 [https://www.wikidata.org/wiki/Q16612568](https://www.wikidata.org/wiki/Q16612568)  
 
@@ -13525,13 +13630,6 @@
 
 ### alignments:
  - [Nomentum](https://pleiades.stoa.org/places/422986)
-
-
-## Q2280882
-[https://www.wikidata.org/wiki/Q2280882](https://www.wikidata.org/wiki/Q2280882)  
-
-### alignments:
- - [Alexandria Eschate](https://pleiades.stoa.org/places/59672)
 
 
 ## Q2287023: Clivus Capitolinus
@@ -24293,6 +24391,13 @@
  - [Niebla Roman Bridge](https://pleiades.stoa.org/places/257472)
 
 
+## Roman bridge in Pogi (Q107741264)
+[https://www.wikidata.org/wiki/Q107741264](https://www.wikidata.org/wiki/Q107741264)  
+
+### alignments:
+ - [Ponte di Pogi](https://pleiades.stoa.org/places/414500)
+
+
 ## Roman bridge of Calamocha (Q5476973)
 [https://www.wikidata.org/wiki/Q5476973](https://www.wikidata.org/wiki/Q5476973)  
 
@@ -25168,6 +25273,13 @@
  - [Choziba](https://pleiades.stoa.org/places/687876)
 
 
+## Stadium of Antoninus Pius (Q16608446)
+[https://www.wikidata.org/wiki/Q16608446](https://www.wikidata.org/wiki/Q16608446)  
+
+### alignments:
+ - [Stadium of Antoninus Pius (Puteoli)](https://pleiades.stoa.org/places/468479783)
+
+
 ## Stadium of Nemea (Q27779883)
 [https://www.wikidata.org/wiki/Q27779883](https://www.wikidata.org/wiki/Q27779883)  
 
@@ -26001,6 +26113,13 @@
 
 ### alignments:
  - [Tomb of Kar (Megarid)](https://pleiades.stoa.org/places/513113841)
+
+
+## Tomb of Lison and Kallikles (Q24262437)
+[https://www.wikidata.org/wiki/Q24262437](https://www.wikidata.org/wiki/Q24262437)  
+
+### alignments:
+ - [Tomb of Lison and Kallikles ](https://pleiades.stoa.org/places/836423101)
 
 
 ## Tomb of Marcus Tullius (Q127510222)

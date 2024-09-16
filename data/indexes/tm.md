@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3685 alignments exist in _Pleiades_ place references as of 2024-09-13. The following list of alignments is grouped by zotkey.
+3689 alignments exist in _Pleiades_ place references as of 2024-09-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1568,6 +1568,13 @@
 
 ### alignments:
  - [Titane](https://pleiades.stoa.org/places/570741)
+
+
+## Geo 3816: Betaron (Battir)
+[https://www.trismegistos.org/place/3816](https://www.trismegistos.org/place/3816)  
+
+### alignments:
+ - [Bethar](https://pleiades.stoa.org/places/687851)
 
 
 ## Geo 38: Achaia
@@ -10574,6 +10581,13 @@
  - [Valentia](https://pleiades.stoa.org/places/266090)
 
 
+## GEO ID 27513
+[http://www.trismegistos.org/place/27513](http://www.trismegistos.org/place/27513)  
+
+### alignments:
+ - [Caranicum](https://pleiades.stoa.org/places/236406)
+
+
 ## GEO ID 2751: Dahshur
 [http://www.trismegistos.org/place/2751](http://www.trismegistos.org/place/2751)  
 
@@ -12569,6 +12583,13 @@
 ### alignments:
  - [Piammiano](https://pleiades.stoa.org/places/413321)
  - [Poggio Buco](https://pleiades.stoa.org/places/413266)
+
+
+## GEO ID 32124: Axia (Castel d'Asso)
+[https://www.trismegistos.org/place/32124](https://www.trismegistos.org/place/32124)  
+
+### alignments:
+ - [Axia](https://pleiades.stoa.org/places/413048)
 
 
 ## GEO ID 32134: Salebro (Serrata Martini)
@@ -19262,6 +19283,13 @@
 
 ### alignments:
  - [Bigis/Bestia Desolata/Parabeste](https://pleiades.stoa.org/places/59747)
+
+
+## GEO ID 41982: Boukephala
+[http://www.trismegistos.org/place/41982](http://www.trismegistos.org/place/41982)  
+
+### alignments:
+ - [Boukephala](https://pleiades.stoa.org/places/59750)
 
 
 ## GEO ID 41994: Ad Vicum
