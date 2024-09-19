@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3689 alignments exist in _Pleiades_ place references as of 2024-09-16. The following list of alignments is grouped by zotkey.
+3694 alignments exist in _Pleiades_ place references as of 2024-09-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5926,6 +5926,13 @@
  - [Scodra](https://pleiades.stoa.org/places/481986)
 
 
+## GEO ID 15850: Parthikopolis (Sandanski)
+[https://www.trismegistos.org/place/15850](https://www.trismegistos.org/place/15850)  
+
+### alignments:
+ - [Paroikopolis/Parthikopolis](https://pleiades.stoa.org/places/491683)
+
+
 ## GEO ID 15863: Philippopolis (Plovdiv)
 [https://www.trismegistos.org/place/15863](https://www.trismegistos.org/place/15863)  
 
@@ -8955,6 +8962,13 @@
 
 ### alignments:
  - [Acrae](https://pleiades.stoa.org/places/462068)
+
+
+## GEO ID 22332: Parthenicum (Partinico)
+[http://www.trismegistos.org/place/22332](http://www.trismegistos.org/place/22332)  
+
+### alignments:
+ - [Parthenicum](https://pleiades.stoa.org/places/462413)
 
 
 ## GEO ID 22334: Hippana (Prizzi)
@@ -14685,6 +14699,13 @@
  - [Mekyberna](https://pleiades.stoa.org/places/491660)
 
 
+## GEO ID 33932: Parthenopolis (Parthenon)
+[https://www.trismegistos.org/place/33932](https://www.trismegistos.org/place/33932)  
+
+### alignments:
+ - [Parthenopolis (Chalkidike)](https://pleiades.stoa.org/places/501553)
+
+
 ## GEO ID 33966: Galepsos
 [https://www.trismegistos.org/place/33966](https://www.trismegistos.org/place/33966)  
 
@@ -15385,8 +15406,8 @@
  - [Arabicus Sinus/Erythr(ae)um/Rubrum Mare](https://pleiades.stoa.org/places/39290)
 
 
-## GEO ID 3634
-[http://www.trismegistos.org/place/http://www.trismegistos.org/place/3634](http://www.trismegistos.org/place/http://www.trismegistos.org/place/3634)  
+## GEO ID 3634: Sousa
+[http://www.trismegistos.org/place/3634](http://www.trismegistos.org/place/3634)  
 
 ### alignments:
  - [Susa/Seleucia ad Eulaeum](https://pleiades.stoa.org/places/912936)
@@ -15691,6 +15712,13 @@
 
 ### alignments:
  - [Samaria/Sebaste](https://pleiades.stoa.org/places/678370)
+
+
+## GEO ID 37496: Nisa
+[http://www.trismegistos.org/place/37496](http://www.trismegistos.org/place/37496)  
+
+### alignments:
+ - [Nisa(ia)/Parthaunisa/Mithradatkert/Shahr-ram-Peroz](https://pleiades.stoa.org/places/952093)
 
 
 ## GEO ID 37500: Naqsh-e Rostam
@@ -24419,6 +24447,13 @@
 
 ### alignments:
  - [Sebennytikon Stoma](https://pleiades.stoa.org/places/727224)
+
+
+## GEO ID 6322: Parthia
+[https://www.trismegistos.org/place/6322](https://www.trismegistos.org/place/6322)  
+
+### alignments:
+ - [Parthyene/Parthia](https://pleiades.stoa.org/places/952097)
 
 
 ## GEO ID 63898: Aggasus

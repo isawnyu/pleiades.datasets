@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3488 alignments exist in _Pleiades_ place references as of 2024-09-16. The following list of alignments is grouped by zotkey.
+3490 alignments exist in _Pleiades_ place references as of 2024-09-19. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -15526,6 +15526,13 @@
  - [Nisaia](https://pleiades.stoa.org/places/570508)
 
 
+## Nisaia (Parthia)
+[https://topostext.org/place/380582UNis](https://topostext.org/place/380582UNis)  
+
+### alignments:
+ - [Nisa(ia)/Parthaunisa/Mithradatkert/Shahr-ram-Peroz](https://pleiades.stoa.org/places/952093)
+
+
 ## Nisaki fortress (Methana)
 [https://topostext.org/place/376234FMeN](https://topostext.org/place/376234FMeN)  
 
@@ -17051,7 +17058,14 @@
 [https://topostext.org/place/401239UPar](https://topostext.org/place/401239UPar)  
 
 ### alignments:
- - [Parthenopolis](https://pleiades.stoa.org/places/501553)
+ - [Parthenopolis (Chalkidike)](https://pleiades.stoa.org/places/501553)
+
+
+## Parthia (Asia)
+[https://topostext.org/place/370585RPar](https://topostext.org/place/370585RPar)  
+
+### alignments:
+ - [Parthyene/Parthia](https://pleiades.stoa.org/places/952097)
 
 
 ## Parthicopolis (Thrace)

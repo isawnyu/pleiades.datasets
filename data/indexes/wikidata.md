@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3818 alignments exist in _Pleiades_ place references as of 2024-09-16. The following list of alignments is grouped by zotkey.
+3822 alignments exist in _Pleiades_ place references as of 2024-09-19. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3273,6 +3273,13 @@
  - [Skydra Hellenistic Temple](https://pleiades.stoa.org/places/648569776)
 
 
+## Hemşin River (Q19285342)
+[https://www.wikidata.org/wiki/Q19285342](https://www.wikidata.org/wiki/Q19285342)  
+
+### alignments:
+ - [Zagatis (river)](https://pleiades.stoa.org/places/857378)
+
+
 ## Hephaistia (Q5731882)
 [https://www.wikidata.org/wiki/Q5731882](https://www.wikidata.org/wiki/Q5731882)  
 
@@ -5094,6 +5101,13 @@
  - [Helikore/Nicaea](https://pleiades.stoa.org/places/511268)
 
 
+## Nisa (Q854672)
+[https://www.wikidata.org/wiki/Q854672](https://www.wikidata.org/wiki/Q854672)  
+
+### alignments:
+ - [Nisa(ia)/Parthaunisa/Mithradatkert/Shahr-ram-Peroz](https://pleiades.stoa.org/places/952093)
+
+
 ## Nisaea (Q2537089)
 [https://www.wikidata.org/wiki/Q2537089](https://www.wikidata.org/wiki/Q2537089)  
 
@@ -5470,6 +5484,27 @@
 
 ### alignments:
  - [Parthenias (river)](https://pleiades.stoa.org/places/570565)
+
+
+## Parthenopolis (Q60793086)
+[https://www.wikidata.org/wiki/Q60793086](https://www.wikidata.org/wiki/Q60793086)  
+
+### alignments:
+ - [Parthenopolis (Chalkidike)](https://pleiades.stoa.org/places/501553)
+
+
+## Parthia (Q1645483)
+[https://www.wikidata.org/wiki/Q1645483](https://www.wikidata.org/wiki/Q1645483)  
+
+### alignments:
+ - [Parthyene/Parthia](https://pleiades.stoa.org/places/952097)
+
+
+## Parthicopolis (Q140130)
+[https://www.wikidata.org/wiki/Q140130](https://www.wikidata.org/wiki/Q140130)  
+
+### alignments:
+ - [Paroikopolis/Parthikopolis](https://pleiades.stoa.org/places/491683)
 
 
 ## Passaron (Q2055889)
@@ -23284,13 +23319,6 @@
  - [Ipagrum/Epagrum](https://pleiades.stoa.org/places/256226)
 
 
-## Q854672
-[https://www.wikidata.org/wiki/Q854672](https://www.wikidata.org/wiki/Q854672)  
-
-### alignments:
- - [Nisa(ia)/Parthaunisa/Mithradatkert/Shahr-ram-Peroz](https://pleiades.stoa.org/places/952093)
-
-
 ## Q854843: Kamarina
 [https://www.wikidata.org/wiki/Q854843](https://www.wikidata.org/wiki/Q854843)  
 
@@ -23681,13 +23709,6 @@
 
 ### alignments:
  - [Necropolis of Pantalica](https://pleiades.stoa.org/places/934642205)
-
-
-## Q93180: Seleucid Empire
-[https://www.wikidata.org/wiki/Q93180](https://www.wikidata.org/wiki/Q93180)  
-
-### alignments:
- - [Seleucid Empire](https://pleiades.stoa.org/places/45635759)
 
 
 ## Q93281670: Via Aurelia Aeclanensis
@@ -24949,6 +24970,13 @@
 
 ### alignments:
  - [Šeḫa River Land](https://pleiades.stoa.org/places/415460394)
+
+
+## Seleucid Empire (Q93180)
+[https://www.wikidata.org/wiki/Q93180](https://www.wikidata.org/wiki/Q93180)  
+
+### alignments:
+ - [Seleucid Empire](https://pleiades.stoa.org/places/45635759)
 
 
 ## Sellasia (Q59431661)
