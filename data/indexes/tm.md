@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3694 alignments exist in _Pleiades_ place references as of 2024-09-19. The following list of alignments is grouped by zotkey.
+3696 alignments exist in _Pleiades_ place references as of 2024-09-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -21168,6 +21168,13 @@
  - [Pagus Epotius](https://pleiades.stoa.org/places/338574126)
 
 
+## GEO ID 43521: Cadiseni
+[https://www.trismegistos.org/place/43521](https://www.trismegistos.org/place/43521)  
+
+### alignments:
+ - [Kadisenoi](https://pleiades.stoa.org/places/876642)
+
+
 ## GEO ID 43544: Chrysoroas (Le Basi Jerash)
 [https://www.trismegistos.org/place/43544](https://www.trismegistos.org/place/43544)  
 
@@ -22764,6 +22771,13 @@
 
 ### alignments:
  - [Iris (river)](https://pleiades.stoa.org/places/857171)
+
+
+## GEO ID 48169: Mount Sindjar
+[http://www.trismegistos.org/place/48169](http://www.trismegistos.org/place/48169)  
+
+### alignments:
+ - [Singaras](https://pleiades.stoa.org/places/874700)
 
 
 ## GEO ID 48243: Qasr Serij

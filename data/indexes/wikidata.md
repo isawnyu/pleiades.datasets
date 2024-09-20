@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3822 alignments exist in _Pleiades_ place references as of 2024-09-19. The following list of alignments is grouped by zotkey.
+3829 alignments exist in _Pleiades_ place references as of 2024-09-20. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -5178,6 +5178,13 @@
  - [Nuraghe Sa Domu 'e s'Orcu (Sarroch)](https://pleiades.stoa.org/places/687584524)
 
 
+## Nuraghe Succoronis (Q37283518)
+[https://www.wikidata.org/wiki/Q37283518](https://www.wikidata.org/wiki/Q37283518)  
+
+### alignments:
+ - [Nuraghe Succoronis](https://pleiades.stoa.org/places/799685245)
+
+
 ## Nymphaeum of the via degli Annibaldi (Q126759730)
 [https://www.wikidata.org/wiki/Q126759730](https://www.wikidata.org/wiki/Q126759730)  
 
@@ -8142,6 +8149,13 @@
  - [House of the Centenary](https://pleiades.stoa.org/places/717810706)
 
 
+## Q120638202
+[https://www.wikidata.org/wiki/Q120638202](https://www.wikidata.org/wiki/Q120638202)  
+
+### alignments:
+ - [Nuraghe Su Nuraxi 'e Pauli](https://pleiades.stoa.org/places/942968783)
+
+
 ## Q12064005: Newport Roman Villa
 [https://www.wikidata.org/wiki/Q12064005](https://www.wikidata.org/wiki/Q12064005)  
 
@@ -8196,6 +8210,20 @@
 
 ### alignments:
  - [Tall al-Umayri](https://pleiades.stoa.org/places/4629903)
+
+
+## Q122188896
+[https://www.wikidata.org/wiki/Q122188896](https://www.wikidata.org/wiki/Q122188896)  
+
+### alignments:
+ - [Nuraghe Poddinosa](https://pleiades.stoa.org/places/872425940)
+
+
+## Q122198672
+[https://www.wikidata.org/wiki/Q122198672](https://www.wikidata.org/wiki/Q122198672)  
+
+### alignments:
+ - [Nuraghe Terra Tenera](https://pleiades.stoa.org/places/41722592)
 
 
 ## Q1225372: Dikti
@@ -24356,6 +24384,13 @@
  - [Rhittenia?](https://pleiades.stoa.org/places/590029)
 
 
+## Roman agora of Corinth (Q125523468)
+[https://www.wikidata.org/wiki/Q125523468](https://www.wikidata.org/wiki/Q125523468)  
+
+### alignments:
+ - [Agora of Corinth](https://pleiades.stoa.org/places/958275306)
+
+
 ## Roman amphitheater of Fréjus (Q276063)
 [https://www.wikidata.org/wiki/Q276063](https://www.wikidata.org/wiki/Q276063)  
 
@@ -24958,6 +24993,13 @@
  - [Skione](https://pleiades.stoa.org/places/501620)
 
 
+## Scratchbury Camp (Q7438847)
+[https://www.wikidata.org/wiki/Q7438847](https://www.wikidata.org/wiki/Q7438847)  
+
+### alignments:
+ - [Scratchbury Camp ](https://pleiades.stoa.org/places/103500678)
+
+
 ## Scydra (Q111472152)
 [https://www.wikidata.org/wiki/Q111472152](https://www.wikidata.org/wiki/Q111472152)  
 
@@ -25138,6 +25180,13 @@
 
 ### alignments:
  - [Sindos](https://pleiades.stoa.org/places/491717)
+
+
+## Singitic Gulf (Q1332013)
+[https://www.wikidata.org/wiki/Q1332013](https://www.wikidata.org/wiki/Q1332013)  
+
+### alignments:
+ - [Singitikos Kolpos](https://pleiades.stoa.org/places/501612)
 
 
 ## Singus (Q2289300)

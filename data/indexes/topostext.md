@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3490 alignments exist in _Pleiades_ place references as of 2024-09-19. The following list of alignments is grouped by zotkey.
+3491 alignments exist in _Pleiades_ place references as of 2024-09-20. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -20983,6 +20983,13 @@
 
 ### alignments:
  - [Singili(a) Barba](https://pleiades.stoa.org/places/256453)
+
+
+## Singitic Gulf (Chalkidike)
+[https://topostext.org/place/402240WSin](https://topostext.org/place/402240WSin)  
+
+### alignments:
+ - [Singitikos Kolpos](https://pleiades.stoa.org/places/501612)
 
 
 ## Singos (Chalkidike)
