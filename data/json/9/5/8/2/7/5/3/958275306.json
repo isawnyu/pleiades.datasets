@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.8793472,
+        22.8791162,
         37.9049161,
-        22.8793472,
-        37.9049161
+        22.8810117,
+        37.9057912
     ],
     "connections": [
         {
@@ -85,10 +85,52 @@
         {
             "geometry": {
                 "coordinates": [
-                    22.8793472,
-                    37.9049161
+                    [
+                        22.8791162,
+                        37.9054403
+                    ],
+                    [
+                        22.880027,
+                        37.9056663
+                    ],
+                    [
+                        22.8800198,
+                        37.9057799
+                    ],
+                    [
+                        22.8802093,
+                        37.9057912
+                    ],
+                    [
+                        22.8802383,
+                        37.9054914
+                    ],
+                    [
+                        22.8809242,
+                        37.9057045
+                    ],
+                    [
+                        22.8810117,
+                        37.90539
+                    ],
+                    [
+                        22.8802976,
+                        37.9052027
+                    ],
+                    [
+                        22.8793472,
+                        37.9049161
+                    ],
+                    [
+                        22.8792391,
+                        37.9051168
+                    ],
+                    [
+                        22.8791162,
+                        37.9054403
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "location-of-agora",
             "properties": {
@@ -102,6 +144,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata Roman agora of Corinth (Q125523468)",
+            "modified": "2024-09-19T22:37:10Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added topostext, Scranton 1951",
             "modified": "2021-05-14T00:23:03Z",
@@ -206,12 +253,59 @@
             ],
             "geometry": {
                 "coordinates": [
-                    22.8793472,
-                    37.9049161
+                    [
+                        22.8791162,
+                        37.9054403
+                    ],
+                    [
+                        22.880027,
+                        37.9056663
+                    ],
+                    [
+                        22.8800198,
+                        37.9057799
+                    ],
+                    [
+                        22.8802093,
+                        37.9057912
+                    ],
+                    [
+                        22.8802383,
+                        37.9054914
+                    ],
+                    [
+                        22.8809242,
+                        37.9057045
+                    ],
+                    [
+                        22.8810117,
+                        37.90539
+                    ],
+                    [
+                        22.8802976,
+                        37.9052027
+                    ],
+                    [
+                        22.8793472,
+                        37.9049161
+                    ],
+                    [
+                        22.8792391,
+                        37.9051168
+                    ],
+                    [
+                        22.8791162,
+                        37.9054403
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-09-19T22:36:15Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2017-02-24T16:48:36Z",
@@ -255,7 +349,7 @@
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/plaza"
             ],
-            "provenance": "OpenStreetMap (Way 146857122, version 2, osm:changeset=10482498, 2012-01-24T09:09:00Z)",
+            "provenance": "OpenStreetMap (Way 146857122, version 9, osm:changeset=145187380, 2023-12-16T15:01:18Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/146857122",
@@ -277,10 +371,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/plaza"
+        "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+        "https://pleiades.stoa.org/vocabularies/place-types/agora"
     ],
     "placeTypes": [
-        "plaza"
+        "plaza",
+        "agora"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -290,7 +386,7 @@
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RRVJUG46",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Donati, Jamieson. “Marks of State Ownership and the Greek Agora at Corinth.” <i>American Journal of Archaeology</i> 114, no. 1 (2010): 3–26. doi:10.3764/aja.114.1.3.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Donati, Jamieson. “Marks of State Ownership and the Greek Agora at Corinth.” <i>American Journal of Archaeology</i> 114, no. 1 (2010): 3–26. https://doi.org/10.3764/aja.114.1.3.</div>",
             "otherIdentifier": "",
             "shortTitle": "Donati 2010, 3-26",
             "type": "seeFurther"
@@ -338,11 +434,22 @@
             "otherIdentifier": "",
             "shortTitle": "Scranton 1951",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q125523468",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Roman agora of Corinth (Q125523468)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        22.8793472,
-        37.9049161
+        22.88005815408859,
+        37.90539441350485
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
