@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2024/09/15 06:47:32.057323 GMT-4
+# Date: 2024/09/22 06:47:31.362495 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1050
+# Triple count: 1056
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -477,6 +477,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
     skos:prefLabel "gorge"@en;
     skos:scopeNote "A gorge (landform) as defined by the Getty Art and Architecture Thesaurus: Deep, rocky land depressions with steep sides, larger than ravines, with a river or stream at the bottom; distinct from \"canyons,\" which tend to be larger and less rocky."@en .
+
+<https://pleiades.stoa.org/vocabularies/place-types/grama> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/grama>,
+        <https://www.wisdomlib.org/definition/grama>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/place-types>;
+    skos:prefLabel "grama/gama"@en;
+    skos:scopeNote "A village/hamlet (Sanskrit and prakrits)"@en .
 
 <https://pleiades.stoa.org/vocabularies/place-types/grove> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/place-types/grove>;
