@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        24.6704025,
-        35.3380334,
-        24.6704025,
-        35.3380334
+        24.6703288,
+        35.3380095,
+        24.6704283,
+        35.3380731
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/589748",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:40:29Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located on",
+                    "modified": "2024-09-20T16:20:43Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:40:29Z",
@@ -49,7 +61,7 @@
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Creta Ins.",
+            "title": "Creta (island)",
             "uri": "https://pleiades.stoa.org/places/591168/589748"
         }
     ],
@@ -101,18 +113,24 @@
         {
             "geometry": {
                 "coordinates": [
-                    24.6704025,
-                    35.3380334
+                    [
+                        24.6703288,
+                        35.3380095
+                    ],
+                    [
+                        24.6704283,
+                        35.3380731
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "location-of-eleutherna-bridge",
+            "id": "osm-location-eleutherna-bridge",
             "properties": {
                 "description": "Representative location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/591168/location-of-eleutherna-bridge",
+                "link": "https://pleiades.stoa.org/places/591168/osm-location-eleutherna-bridge",
                 "location_precision": "precise",
                 "snippet": "Bridge; 330 BC - 30 BC",
-                "title": "OSM location of Eleutherna Bridge "
+                "title": "OSM location: Eleutherna Bridge"
             },
             "type": "Feature"
         }
@@ -185,7 +203,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "substantive",
+            "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -197,7 +215,7 @@
                 }
             ],
             "contributors": [],
-            "created": "2013-09-28T02:56:12Z",
+            "created": "2024-09-20T14:42:43Z",
             "creators": [
                 {
                     "homepage": null,
@@ -217,68 +235,69 @@
             ],
             "geometry": {
                 "coordinates": [
-                    24.6704025,
-                    35.3380334
+                    [
+                        24.6703288,
+                        35.3380095
+                    ],
+                    [
+                        24.6704283,
+                        35.3380731
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "update title, summary",
-                    "modified": "2021-10-22T14:31:30Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2013-10-12T23:33:08Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2024-09-20T16:20:12Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2013-09-28T02:57:12Z",
+                    "modified": "2024-09-20T14:43:07Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "added location",
-                    "modified": "2013-09-28T02:56:39Z",
+                    "comment": "supersedes previously published location whose underlying OSM data is now deprecated",
+                    "modified": "2024-09-20T14:43:01Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-09-28T02:56:15Z",
+                    "modified": "2024-09-20T14:42:43Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2013-09-28T02:56:13Z",
+                    "modified": "2024-09-20T14:42:43Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-eleutherna-bridge",
+            "id": "osm-location-eleutherna-bridge",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "OpenStreetMap (Node 1285382544, version 3, osm:changeset=18070909, 2013-09-28T02:55:39Z)",
+            "provenance": "OpenStreetMap (Way 82457504, version 2, osm:changeset=54003716, 2017-11-22T15:06:44Z)",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/1285382544",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/82457504",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Node 1285382544",
+                    "citationDetail": "Way 82457504",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=1285382544",
-                    "otherIdentifier": " ",
+                    "formattedCitation": "osm:way=82457504",
+                    "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "OSM location of Eleutherna Bridge ",
-            "uri": "https://pleiades.stoa.org/places/591168/location-of-eleutherna-bridge"
+            "title": "OSM location: Eleutherna Bridge",
+            "uri": "https://pleiades.stoa.org/places/591168/osm-location-eleutherna-bridge"
         }
     ],
     "names": [],
@@ -358,8 +377,8 @@
         }
     ],
     "reprPoint": [
-        24.6704025,
-        35.3380334
+        24.670378550000002,
+        35.3380413
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
