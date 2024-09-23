@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3491 alignments exist in _Pleiades_ place references as of 2024-09-20. The following list of alignments is grouped by zotkey.
+3493 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -9996,7 +9996,7 @@
 [https://topostext.org/place/392239PIko](https://topostext.org/place/392239PIko)  
 
 ### alignments:
- - [Ikos](https://pleiades.stoa.org/places/540835)
+ - [Ikos (settlement)](https://pleiades.stoa.org/places/540835)
 
 
 ## Ildum (Iberia)
@@ -18224,6 +18224,13 @@
  - [Pityous](https://pleiades.stoa.org/places/857283)
 
 
+## Pityoussa (Baleares)
+[https://topostext.org/place/389014IPit](https://topostext.org/place/389014IPit)  
+
+### alignments:
+ - [Pityussae (islands)](https://pleiades.stoa.org/places/266001)
+
+
 ## Pityoussa (Cilicia)
 [https://topostext.org/place/362338IPit](https://topostext.org/place/362338IPit)  
 
@@ -21124,6 +21131,13 @@
 
 ### alignments:
  - [Skandeia](https://pleiades.stoa.org/places/570673)
+
+
+## Skandira (Sporades)
+[https://topostext.org/place/391241ISca](https://topostext.org/place/391241ISca)  
+
+### alignments:
+ - [Scandira (island)](https://pleiades.stoa.org/places/541089)
 
 
 ## Skarpheia (Phthiotida)

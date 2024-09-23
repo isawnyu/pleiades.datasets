@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3696 alignments exist in _Pleiades_ place references as of 2024-09-20. The following list of alignments is grouped by zotkey.
+3701 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -713,6 +713,13 @@
 
 ### alignments:
  - [Temnos](https://pleiades.stoa.org/places/550908)
+
+
+## Geo 2314: Teos (Sığacık)
+[https://www.trismegistos.org/place/2314](https://www.trismegistos.org/place/2314)  
+
+### alignments:
+ - [Teos](https://pleiades.stoa.org/places/550913)
 
 
 ## Geo 2346: Thasos
@@ -2947,6 +2954,13 @@
 
 ### alignments:
  - [Apollonia/Sozousa](https://pleiades.stoa.org/places/678025)
+
+
+## GEO ID 12033: Sebaste (Sivas)
+[https://www.trismegistos.org/place/12033](https://www.trismegistos.org/place/12033)  
+
+### alignments:
+ - [Sebasteia/Megalopolis?/Talaura?](https://pleiades.stoa.org/places/629075)
 
 
 ## GEO ID 12049: Apollonia (Nea Apollonia)
@@ -10651,6 +10665,13 @@
  - [Turris Augusti](https://pleiades.stoa.org/places/236698)
 
 
+## GEO ID 27681: Isla de Cabrera
+[https://www.trismegistos.org/place/27681](https://www.trismegistos.org/place/27681)  
+
+### alignments:
+ - [Capraria (island)](https://pleiades.stoa.org/places/265840)
+
+
 ## GEO ID 2771: Porphyrites (Gebel Dokhan)
 [https://www.trismegistos.org/place/2771](https://www.trismegistos.org/place/2771)  
 
@@ -14083,6 +14104,13 @@
  - [Aegaeum Mare](https://pleiades.stoa.org/places/560221)
 
 
+## GEO ID 33232: Sporades
+[http://www.trismegistos.org/place/33232](http://www.trismegistos.org/place/33232)  
+
+### alignments:
+ - [Sporades (archipelago)](https://pleiades.stoa.org/places/599944)
+
+
 ## GEO ID 33233: Syme
 [http://www.trismegistos.org/place/33233](http://www.trismegistos.org/place/33233)  
 
@@ -15943,6 +15971,13 @@
 
 ### alignments:
  - [Anagyrous](https://pleiades.stoa.org/places/579863)
+
+
+## GEO ID 37731: Athmonon
+[https://www.trismegistos.org/place/37731](https://www.trismegistos.org/place/37731)  
+
+### alignments:
+ - [Athmonon](https://pleiades.stoa.org/places/579887)
 
 
 ## GEO ID 37734: Brauron

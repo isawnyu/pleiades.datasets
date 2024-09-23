@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-352 alignments exist in _Pleiades_ place references as of 2024-09-20. The following list of alignments is grouped by zotkey.
+354 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -419,6 +419,13 @@
 
 ### alignments:
  - [Stelida](https://pleiades.stoa.org/places/507121565)
+
+
+## SKANDIRA (Halonisos) - 2009
+[https://chronique.efa.gr/?kroute=report&id=4730](https://chronique.efa.gr/?kroute=report&id=4730)  
+
+### alignments:
+ - [Scandira (island)](https://pleiades.stoa.org/places/541089)
 
 
 ## SKOPELOS. – Péparéthos - 2009
@@ -1464,6 +1471,13 @@
 
 ### alignments:
  - [Eretria](https://pleiades.stoa.org/places/579925)
+
+
+## Toponyme 18743: Frixa, Prixa, Anemochorakion-Δ.Δ.Φρίξης
+[https://chronique.efa.gr/?r=topo_public&id=18743](https://chronique.efa.gr/?r=topo_public&id=18743)  
+
+### alignments:
+ - [Phrixa(i)](https://pleiades.stoa.org/places/570609)
 
 
 ## Toponyme 19241: Glyfa

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-530 alignments exist in _Pleiades_ place references as of 2024-09-20. The following list of alignments is grouped by zotkey.
+534 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -566,6 +566,13 @@
 
 ### alignments:
  - [Himera](https://pleiades.stoa.org/places/462244)
+
+
+## 10150294: Athmonon (Attica)
+[https://resource.manto.unh.edu/10150294](https://resource.manto.unh.edu/10150294)  
+
+### alignments:
+ - [Athmonon](https://pleiades.stoa.org/places/579887)
 
 
 ## 10150358: Cappadocia (Pontos) region south of the Black Sea
@@ -1275,6 +1282,13 @@
  - [Dion](https://pleiades.stoa.org/places/491572)
 
 
+## 10268192: Myous
+[https://resource.manto.unh.edu/10268192](https://resource.manto.unh.edu/10268192)  
+
+### alignments:
+ - [Myous](https://pleiades.stoa.org/places/599813)
+
+
 ## 10268768: Lampsacos (Troad)
 [https://resource.manto.unh.edu/10268768](https://resource.manto.unh.edu/10268768)  
 
@@ -1289,11 +1303,25 @@
  - [Erymanthos (river)](https://pleiades.stoa.org/places/570237)
 
 
+## 10268856: Phrixa
+[https://resource.manto.unh.edu/10268856](https://resource.manto.unh.edu/10268856)  
+
+### alignments:
+ - [Phrixa(i)](https://pleiades.stoa.org/places/570609)
+
+
 ## 10268868: Lebedos (Asia Minor)
 [https://resource.manto.unh.edu/10268868](https://resource.manto.unh.edu/10268868)  
 
 ### alignments:
  - [Lebedos/Ptolemais](https://pleiades.stoa.org/places/599754)
+
+
+## 10268885: Teos
+[https://resource.manto.unh.edu/10268885](https://resource.manto.unh.edu/10268885)  
+
+### alignments:
+ - [Teos](https://pleiades.stoa.org/places/550913)
 
 
 ## 10268887: River Parthenia (Elis)

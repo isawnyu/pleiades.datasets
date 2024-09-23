@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3829 alignments exist in _Pleiades_ place references as of 2024-09-20. The following list of alignments is grouped by zotkey.
+3844 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1079,6 +1079,13 @@
 
 ### alignments:
  - [Klepsydra](https://pleiades.stoa.org/places/538107005)
+
+
+## Athmonon (Q12872216)
+[https://www.wikidata.org/wiki/Q12872216](https://www.wikidata.org/wiki/Q12872216)  
+
+### alignments:
+ - [Athmonon](https://pleiades.stoa.org/places/579887)
 
 
 ## Atrium of Cacus (Q127328176)
@@ -4632,6 +4639,13 @@
  - [Mausoleum of Theodoric](https://pleiades.stoa.org/places/861709371)
 
 
+## Maó (Q49550)
+[https://www.wikidata.org/wiki/Q49550](https://www.wikidata.org/wiki/Q49550)  
+
+### alignments:
+ - [Mago](https://pleiades.stoa.org/places/265960)
+
+
 ## Mediomatrici (Q1175315)
 [https://www.wikidata.org/wiki/Q1175315](https://www.wikidata.org/wiki/Q1175315)  
 
@@ -4996,6 +5010,13 @@
  - [Myrmekion](https://pleiades.stoa.org/places/854710)
 
 
+## Myus (Q1195800)
+[https://www.wikidata.org/wiki/Q1195800](https://www.wikidata.org/wiki/Q1195800)  
+
+### alignments:
+ - [Myous](https://pleiades.stoa.org/places/599813)
+
+
 ## Naucratis (Q137721)
 [https://www.wikidata.org/wiki/Q137721](https://www.wikidata.org/wiki/Q137721)  
 
@@ -5157,6 +5178,20 @@
  - [Nuraghe Antigori](https://pleiades.stoa.org/places/502869645)
 
 
+## Nuraghe Appiu (Q56258155)
+[https://www.wikidata.org/wiki/Q56258155](https://www.wikidata.org/wiki/Q56258155)  
+
+### alignments:
+ - [Nuraghe Appiu](https://pleiades.stoa.org/places/685296232)
+
+
+## nuraghe Genna Maria (Q994358)
+[https://www.wikidata.org/wiki/Q994358](https://www.wikidata.org/wiki/Q994358)  
+
+### alignments:
+ - [Villanovaforru, Nuraghe Genna Maria](https://pleiades.stoa.org/places/460094535)
+
+
 ## Nuraghe Losa (Q622890)
 [https://www.wikidata.org/wiki/Q622890](https://www.wikidata.org/wiki/Q622890)  
 
@@ -5183,6 +5218,13 @@
 
 ### alignments:
  - [Nuraghe Succoronis](https://pleiades.stoa.org/places/799685245)
+
+
+## Nuraghe Toscono (Q52151253)
+[https://www.wikidata.org/wiki/Q52151253](https://www.wikidata.org/wiki/Q52151253)  
+
+### alignments:
+ - [Nuraghe Toscono](https://pleiades.stoa.org/places/708974068)
 
 
 ## Nymphaeum of the via degli Annibaldi (Q126759730)
@@ -5738,6 +5780,13 @@
  - [Phrearroi](https://pleiades.stoa.org/places/580077)
 
 
+## Phrixa (Q5505071)
+[https://www.wikidata.org/wiki/Q5505071](https://www.wikidata.org/wiki/Q5505071)  
+
+### alignments:
+ - [Phrixa(i)](https://pleiades.stoa.org/places/570609)
+
+
 ## Phyllus (Q16567947)
 [https://www.wikidata.org/wiki/Q16567947](https://www.wikidata.org/wiki/Q16567947)  
 
@@ -5883,6 +5932,13 @@
 
 ### alignments:
  - [Ponte da Ladeira dos Envendos](https://pleiades.stoa.org/places/256371)
+
+
+## Ponte di Pioraco (Q2103768)
+[https://www.wikidata.org/wiki/Q2103768](https://www.wikidata.org/wiki/Q2103768)  
+
+### alignments:
+ - [Ponte di Pioraco](https://pleiades.stoa.org/places/965004100)
 
 
 ## Ponte di San Vito (Q124528663)
@@ -6163,6 +6219,13 @@
 
 ### alignments:
  - [Puente de Génave Roman Bridge](https://pleiades.stoa.org/places/267284)
+
+
+## Puig des Molins, Ibiza (Q3346918)
+[https://www.wikidata.org/wiki/Q3346918](https://www.wikidata.org/wiki/Q3346918)  
+
+### alignments:
+ - [Puig des Molins necropolis](https://pleiades.stoa.org/places/482947335)
 
 
 ## Pula (Q4656)
@@ -14338,6 +14401,13 @@
 
 ### alignments:
  - [Dur-Sharrukin](https://pleiades.stoa.org/places/874458)
+
+
+## Q25383632
+[https://www.wikidata.org/wiki/Q25383632](https://www.wikidata.org/wiki/Q25383632)  
+
+### alignments:
+ - [Nuraghe Armungia](https://pleiades.stoa.org/places/26249986)
 
 
 ## Q25384040
@@ -24678,6 +24748,13 @@
  - [Bad Neuenahr-Ahrweiler](https://pleiades.stoa.org/places/108786)
 
 
+## Sa Caleta Phoenician Settlement (Q1822057)
+[https://www.wikidata.org/wiki/Q1822057](https://www.wikidata.org/wiki/Q1822057)  
+
+### alignments:
+ - [Sa Caleta](https://pleiades.stoa.org/places/482947334)
+
+
 ## Sabaeans (Q940785)
 [https://www.wikidata.org/wiki/Q940785](https://www.wikidata.org/wiki/Q940785)  
 
@@ -24972,6 +25049,13 @@
  - [Scalae caci](https://pleiades.stoa.org/places/606719480)
 
 
+## Scantia Silva (Q130337406)
+[https://www.wikidata.org/wiki/Q130337406](https://www.wikidata.org/wiki/Q130337406)  
+
+### alignments:
+ - [Scantia Silva](https://pleiades.stoa.org/places/438828)
+
+
 ## Scarbantia (Q12902033)
 [https://www.wikidata.org/wiki/Q12902033](https://www.wikidata.org/wiki/Q12902033)  
 
@@ -25243,6 +25327,13 @@
 
 ### alignments:
  - [Nea Skala](https://pleiades.stoa.org/places/531010)
+
+
+## Skantzoura (Q520124)
+[https://www.wikidata.org/wiki/Q520124](https://www.wikidata.org/wiki/Q520124)  
+
+### alignments:
+ - [Scandira (island)](https://pleiades.stoa.org/places/541089)
 
 
 ## Skiathos (Q7534982)
@@ -25813,6 +25904,13 @@
  - [Yeha Temple](https://pleiades.stoa.org/places/763458797)
 
 
+## Teos (Q17586)
+[https://www.wikidata.org/wiki/Q17586](https://www.wikidata.org/wiki/Q17586)  
+
+### alignments:
+ - [Teos](https://pleiades.stoa.org/places/550913)
+
+
 ## Terme Achilliane (Q3984379)
 [https://www.wikidata.org/wiki/Q3984379](https://www.wikidata.org/wiki/Q3984379)  
 
@@ -26330,6 +26428,13 @@
 
 ### alignments:
  - [Traron](https://pleiades.stoa.org/places/550942)
+
+
+## Trepucó (Q43109399)
+[https://www.wikidata.org/wiki/Q43109399](https://www.wikidata.org/wiki/Q43109399)  
+
+### alignments:
+ - [Es Trepucó](https://pleiades.stoa.org/places/13999296)
 
 
 ## Triopium (Q65088955)
