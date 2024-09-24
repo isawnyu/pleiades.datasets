@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-475 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
+477 alignments exist in _Pleiades_ place references as of 2024-09-24. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1773,6 +1773,13 @@
  - [Balyra (river)](https://pleiades.stoa.org/places/570146)
 
 
+## 4.33.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.33.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.33.6)  
+
+### alignments:
+ - [Polichne](https://pleiades.stoa.org/places/570625)
+
+
 ## 4.33.7
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:4.33.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:4.33.7)  
 
@@ -2490,6 +2497,13 @@
 
 ### alignments:
  - [Biblis](https://pleiades.stoa.org/places/851937516)
+
+
+## 7.5.9
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.5.9](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.5.9)  
+
+### alignments:
+ - [Temple of Athena Polias](https://pleiades.stoa.org/places/595976578)
 
 
 ## 7.8.7

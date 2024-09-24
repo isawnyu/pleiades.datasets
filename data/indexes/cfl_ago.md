@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-354 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
+355 alignments exist in _Pleiades_ place references as of 2024-09-24. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -132,6 +132,13 @@
 
 ### alignments:
  - [Temple of Zeus at Nemea](https://pleiades.stoa.org/places/109791198)
+
+
+## POLICHNI - 2007
+[https://chronique.efa.gr/?kroute=report&id=2569](https://chronique.efa.gr/?kroute=report&id=2569)  
+
+### alignments:
+ - [Polichne](https://pleiades.stoa.org/places/570625)
 
 
 ## Report 10283: ASOPOS - 1996

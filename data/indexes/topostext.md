@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3493 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
+3495 alignments exist in _Pleiades_ place references as of 2024-09-24. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1409,6 +1409,13 @@
 
 ### alignments:
  - [Ambracia](https://pleiades.stoa.org/places/530794)
+
+
+## Ambracian Gulf (Aitolia)
+[https://topostext.org/place/390210WAmb](https://topostext.org/place/390210WAmb)  
+
+### alignments:
+ - [Ambracius Sinus](https://pleiades.stoa.org/places/530795)
 
 
 ## Ambrossos (Boeotia)
@@ -6952,6 +6959,13 @@
 
 ### alignments:
  - [Dyme](https://pleiades.stoa.org/places/570205)
+
+
+## Dystos (Euboea)
+[https://topostext.org/place/384241PDys](https://topostext.org/place/384241PDys)  
+
+### alignments:
+ - [Dystos](https://pleiades.stoa.org/places/540746)
 
 
 ## Ebora (Lusitania)
@@ -23225,6 +23239,7 @@
  - [Paiania Hypenerthen](https://pleiades.stoa.org/places/580046)
  - [Sanctuary of Artemis at Avlonas](https://pleiades.stoa.org/places/581674476)
  - [Toronaikos Kolpos](https://pleiades.stoa.org/places/501647)
+ - [Vroulia](https://pleiades.stoa.org/places/590093)
 
 
 ## Torone (Halkidiki)

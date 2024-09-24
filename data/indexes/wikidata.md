@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3844 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
+3854 alignments exist in _Pleiades_ place references as of 2024-09-24. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -413,6 +413,13 @@
 
 ### alignments:
  - [Amarynthos](https://pleiades.stoa.org/places/579859)
+
+
+## Ambracian Gulf (Q284841)
+[https://www.wikidata.org/wiki/Q284841](https://www.wikidata.org/wiki/Q284841)  
+
+### alignments:
+ - [Ambracius Sinus](https://pleiades.stoa.org/places/530795)
 
 
 ## Amnya (Q1072523)
@@ -1247,6 +1254,13 @@
 
 ### alignments:
  - [Basilis](https://pleiades.stoa.org/places/570147)
+
+
+## Basílica des Fornàs de Torelló (Q11908698)
+[https://www.wikidata.org/wiki/Q11908698](https://www.wikidata.org/wiki/Q11908698)  
+
+### alignments:
+ - [Basílica des Fornàs de Torelló](https://pleiades.stoa.org/places/654811925)
 
 
 ## Batanaea (Q2479533)
@@ -5430,6 +5444,13 @@
  - [Palatine Stadium](https://pleiades.stoa.org/places/132886213)
 
 
+## Paleochristian Basilica of l'illa del Rei (Q8840707)
+[https://www.wikidata.org/wiki/Q8840707](https://www.wikidata.org/wiki/Q8840707)  
+
+### alignments:
+ - [Paleochristian basilica, Illa del Rei](https://pleiades.stoa.org/places/260468071)
+
+
 ## Pallantion (Q11939941)
 [https://www.wikidata.org/wiki/Q11939941](https://www.wikidata.org/wiki/Q11939941)  
 
@@ -5864,11 +5885,32 @@
  - [Pnyx](https://pleiades.stoa.org/places/205264674)
 
 
+## Poblat de Torretrencada (Q25270256)
+[https://www.wikidata.org/wiki/Q25270256](https://www.wikidata.org/wiki/Q25270256)  
+
+### alignments:
+ - [Torretrencada](https://pleiades.stoa.org/places/316244303)
+
+
+## Poblat talaiòtic de Montefí (Q21600634)
+[https://www.wikidata.org/wiki/Q21600634](https://www.wikidata.org/wiki/Q21600634)  
+
+### alignments:
+ - [Montefí Talayotic settlement](https://pleiades.stoa.org/places/367256898)
+
+
 ## Pogon (Q25168416)
 [https://www.wikidata.org/wiki/Q25168416](https://www.wikidata.org/wiki/Q25168416)  
 
 ### alignments:
  - [Pogon](https://pleiades.stoa.org/places/570622)
+
+
+## Polichne (Messenia) (Q48781606)
+[https://www.wikidata.org/wiki/Q48781606](https://www.wikidata.org/wiki/Q48781606)  
+
+### alignments:
+ - [Polichne](https://pleiades.stoa.org/places/570625)
 
 
 ## Polonnaruwa Vatadage (Q7225955)
@@ -24958,6 +25000,13 @@
  - [Kragos (mountain)](https://pleiades.stoa.org/places/638942)
 
 
+## Sant Agustí Vell (Q2222644)
+[https://www.wikidata.org/wiki/Q2222644](https://www.wikidata.org/wiki/Q2222644)  
+
+### alignments:
+ - [Sant Agustí Vell](https://pleiades.stoa.org/places/142936702)
+
+
 ## Santa Cecilia in Trastevere (Q1479873)
 [https://www.wikidata.org/wiki/Q1479873](https://www.wikidata.org/wiki/Q1479873)  
 
@@ -25572,6 +25621,13 @@
 
 ### alignments:
  - [Cabeço do Vouga](https://pleiades.stoa.org/places/236673)
+
+
+## Talatí de Dalt (Q2389896)
+[https://www.wikidata.org/wiki/Q2389896](https://www.wikidata.org/wiki/Q2389896)  
+
+### alignments:
+ - [Talati de Dalt](https://pleiades.stoa.org/places/269068128)
 
 
 ## Tall Bazi (Q2390471)
@@ -26402,6 +26458,13 @@
  - [Torre Ciega](https://pleiades.stoa.org/places/180293130)
 
 
+## Torrellafuda (Q18413417)
+[https://www.wikidata.org/wiki/Q18413417](https://www.wikidata.org/wiki/Q18413417)  
+
+### alignments:
+ - [Torrellafuda](https://pleiades.stoa.org/places/676647078)
+
+
 ## Tower of Chrysokamaro (Q108664776)
 [https://www.wikidata.org/wiki/Q108664776](https://www.wikidata.org/wiki/Q108664776)  
 
@@ -26786,6 +26849,13 @@
 
 ### alignments:
  - [Volustana](https://pleiades.stoa.org/places/491753)
+
+
+## Vroulia (Q38282160)
+[https://www.wikidata.org/wiki/Q38282160](https://www.wikidata.org/wiki/Q38282160)  
+
+### alignments:
+ - [Vroulia](https://pleiades.stoa.org/places/590093)
 
 
 ## Waldgirmes Forum (Q318775)

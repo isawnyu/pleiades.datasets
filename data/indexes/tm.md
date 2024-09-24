@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3701 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
+3705 alignments exist in _Pleiades_ place references as of 2024-09-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -10672,6 +10672,13 @@
  - [Capraria (island)](https://pleiades.stoa.org/places/265840)
 
 
+## GEO ID 27682: Colubraria (Formentera)
+[https://www.trismegistos.org/place/27682](https://www.trismegistos.org/place/27682)  
+
+### alignments:
+ - [Colubraria/Ophiussa (island)](https://pleiades.stoa.org/places/265875)
+
+
 ## GEO ID 2771: Porphyrites (Gebel Dokhan)
 [https://www.trismegistos.org/place/2771](https://www.trismegistos.org/place/2771)  
 
@@ -14300,6 +14307,13 @@
  - [Onchestos](https://pleiades.stoa.org/places/540984)
 
 
+## GEO ID 33362: Dystos
+[https://www.trismegistos.org/place/33362](https://www.trismegistos.org/place/33362)  
+
+### alignments:
+ - [Dystos](https://pleiades.stoa.org/places/540746)
+
+
 ## GEO ID 33366: Skolos (Neokhorakion)
 [https://www.trismegistos.org/place/33366](https://www.trismegistos.org/place/33366)  
 
@@ -16181,6 +16195,13 @@
 
 ### alignments:
  - [Amphax(it)is](https://pleiades.stoa.org/places/491520)
+
+
+## GEO ID 38093: Andania
+[https://www.trismegistos.org/place/38093](https://www.trismegistos.org/place/38093)  
+
+### alignments:
+ - [Andania](https://pleiades.stoa.org/places/570079)
 
 
 ## GEO ID 38107: Methone
@@ -23922,6 +23943,13 @@
 
 ### alignments:
  - [Satyrion/Saturum](https://pleiades.stoa.org/places/442789)
+
+
+## GEO ID 60127: Vroulia
+[https://www.trismegistos.org/place/60127](https://www.trismegistos.org/place/60127)  
+
+### alignments:
+ - [Vroulia](https://pleiades.stoa.org/places/590093)
 
 
 ## GEO ID 60357: Kynoskephalai

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-534 alignments exist in _Pleiades_ place references as of 2024-09-23. The following list of alignments is grouped by zotkey.
+535 alignments exist in _Pleiades_ place references as of 2024-09-24. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3578,6 +3578,13 @@
 
 ### alignments:
  - [Othrys (mountain)](https://pleiades.stoa.org/places/540994)
+
+
+## 9880159: Andania (Messenia)
+[https://resource.manto.unh.edu/9880159](https://resource.manto.unh.edu/9880159)  
+
+### alignments:
+ - [Andania](https://pleiades.stoa.org/places/570079)
 
 
 ## 9882132: Etruria (Italy)
