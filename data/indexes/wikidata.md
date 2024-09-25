@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3854 alignments exist in _Pleiades_ place references as of 2024-09-24. The following list of alignments is grouped by zotkey.
+3855 alignments exist in _Pleiades_ place references as of 2024-09-25. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3236,6 +3236,13 @@
 
 ### alignments:
  - [Amathe/Epiphaneia](https://pleiades.stoa.org/places/668182)
+
+
+## Harpina (Q5663572)
+[https://www.wikidata.org/wiki/Q5663572](https://www.wikidata.org/wiki/Q5663572)  
+
+### alignments:
+ - [Harpina](https://pleiades.stoa.org/places/570278)
 
 
 ## Harpinates river (Q16327010)

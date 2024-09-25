@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-355 alignments exist in _Pleiades_ place references as of 2024-09-24. The following list of alignments is grouped by zotkey.
+356 alignments exist in _Pleiades_ place references as of 2024-09-25. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2174,6 +2174,13 @@
 
 ### alignments:
  - [Kythnos](https://pleiades.stoa.org/places/570402)
+
+
+## Toponyme 5258: Archaia Pisa, Miraka-Δ.Δ.Αρχαίας Πίσας (τ.Δ.Δ.Μιράκας)
+[https://chronique.efa.gr/?r=topo_public&id=5258](https://chronique.efa.gr/?r=topo_public&id=5258)  
+
+### alignments:
+ - [Harpina](https://pleiades.stoa.org/places/570278)
 
 
 ## Toponyme 5343: Lilaia, Kato Agoriani
