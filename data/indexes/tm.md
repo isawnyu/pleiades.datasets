@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3705 alignments exist in _Pleiades_ place references as of 2024-09-25. The following list of alignments is grouped by zotkey.
+3706 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8843,6 +8843,13 @@
 
 ### alignments:
  - [Adranon](https://pleiades.stoa.org/places/462074)
+
+
+## GEO ID 22269
+[http://www.trismegistos.org/place/22269](http://www.trismegistos.org/place/22269)  
+
+### alignments:
+ - [Agyrium](https://pleiades.stoa.org/places/462082)
 
 
 ## GEO ID 22270: Akragas (Agrigento)

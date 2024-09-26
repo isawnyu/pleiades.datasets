@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3495 alignments exist in _Pleiades_ place references as of 2024-09-25. The following list of alignments is grouped by zotkey.
+3496 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -14625,6 +14625,13 @@
 
 ### alignments:
  - [Middle Stoa](https://pleiades.stoa.org/places/337294881)
+
+
+## Midea (Argolid) 18 near Dendra - Μιδέα
+[https://topostext.org/place/376229UMid](https://topostext.org/place/376229UMid)  
+
+### alignments:
+ - [Midea](https://pleiades.stoa.org/places/570485)
 
 
 ## Mieza (Edessa)

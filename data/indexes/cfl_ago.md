@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-356 alignments exist in _Pleiades_ place references as of 2024-09-25. The following list of alignments is grouped by zotkey.
+357 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1205,6 +1205,13 @@
 
 ### alignments:
  - [Akrokorinthos](https://pleiades.stoa.org/places/570059)
+
+
+## Toponym 4980: Midea, Gkermpesi (193/1928)
+[https://chronique.efa.gr/?kroute=topo_public&id=4980](https://chronique.efa.gr/?kroute=topo_public&id=4980)  
+
+### alignments:
+ - [Midea](https://pleiades.stoa.org/places/570485)
 
 
 ## Toponym 51826: Eutresis (ant.), Arkopodi

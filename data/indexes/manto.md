@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-536 alignments exist in _Pleiades_ place references as of 2024-09-25. The following list of alignments is grouped by zotkey.
+538 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1343,6 +1343,13 @@
 
 ### alignments:
  - [Harpinates](https://pleiades.stoa.org/places/573243)
+
+
+## 10268901: Hybla Gereatis
+[https://resource.manto.unh.edu/10268901](https://resource.manto.unh.edu/10268901)  
+
+### alignments:
+ - [Hybla Gereatis](https://pleiades.stoa.org/places/462251)
 
 
 ## 10268982: Gargettos (Attica)
@@ -3704,6 +3711,13 @@
 
 ### alignments:
  - [Megalopolis](https://pleiades.stoa.org/places/570467)
+
+
+## Mideia (Argolid)
+[https://resource.manto.unh.edu/8253958](https://resource.manto.unh.edu/8253958)  
+
+### alignments:
+ - [Midea](https://pleiades.stoa.org/places/570485)
 
 
 ## Mount Tmaros (Epeiros)

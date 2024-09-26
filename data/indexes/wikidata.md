@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3855 alignments exist in _Pleiades_ place references as of 2024-09-25. The following list of alignments is grouped by zotkey.
+3858 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3560,6 +3560,13 @@
  - [Pharus (island)](https://pleiades.stoa.org/places/197434)
 
 
+## Hybla Gereatis (Q3787772)
+[https://www.wikidata.org/wiki/Q3787772](https://www.wikidata.org/wiki/Q3787772)  
+
+### alignments:
+ - [Hybla Gereatis](https://pleiades.stoa.org/places/462251)
+
+
 ## Hydramia (Q65075205)
 [https://www.wikidata.org/wiki/Q65075205](https://www.wikidata.org/wiki/Q65075205)  
 
@@ -4805,6 +4812,13 @@
 
 ### alignments:
  - [Middle Stoa](https://pleiades.stoa.org/places/337294881)
+
+
+## Midea (Q502897)
+[https://www.wikidata.org/wiki/Q502897](https://www.wikidata.org/wiki/Q502897)  
+
+### alignments:
+ - [Midea](https://pleiades.stoa.org/places/570485)
 
 
 ## Mieza (Q132472)
@@ -25425,6 +25439,13 @@
 
 ### alignments:
  - [Somapura Mahavihara](https://pleiades.stoa.org/places/510167491)
+
+
+## Son Mercer de Baix (Q1137979)
+[https://www.wikidata.org/wiki/Q1137979](https://www.wikidata.org/wiki/Q1137979)  
+
+### alignments:
+ - [Son Mercer de Baix](https://pleiades.stoa.org/places/43375550)
 
 
 ## Southeast Temple (Q24204674)
