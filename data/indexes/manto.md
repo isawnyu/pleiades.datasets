@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-538 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
+541 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1352,6 +1352,13 @@
  - [Hybla Gereatis](https://pleiades.stoa.org/places/462251)
 
 
+## 10268958: Tyre
+[https://resource.manto.unh.edu/10268958](https://resource.manto.unh.edu/10268958)  
+
+### alignments:
+ - [Tyrus/Col. Septimia Severa](https://pleiades.stoa.org/places/678437)
+
+
 ## 10268982: Gargettos (Attica)
 [https://resource.manto.unh.edu/10268982](https://resource.manto.unh.edu/10268982)  
 
@@ -1371,6 +1378,13 @@
 
 ### alignments:
  - [Korykion Antron (Parnassos)](https://pleiades.stoa.org/places/540883)
+
+
+## 10269165: Tronis
+[https://resource.manto.unh.edu/10269165](https://resource.manto.unh.edu/10269165)  
+
+### alignments:
+ - [(Pa)Tronis?](https://pleiades.stoa.org/places/541015)
 
 
 ## 10270184: Pamphylia region of Asia Minor
@@ -1469,6 +1483,13 @@
 
 ### alignments:
  - [Krathis (river)](https://pleiades.stoa.org/places/570381)
+
+
+## 10274687: Abai
+[https://resource.manto.unh.edu/10274687](https://resource.manto.unh.edu/10274687)  
+
+### alignments:
+ - [Abai](https://pleiades.stoa.org/places/540582)
 
 
 ## 10276492: River Crios (Achaia)

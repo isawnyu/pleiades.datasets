@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-357 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
+362 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -624,6 +624,13 @@
  - [Kaisareia](https://pleiades.stoa.org/places/491625)
 
 
+## Toponym 21301: Kalapodi, Kalapodion, Abai
+[https://chronique.efa.gr/?kroute=topo_public&id=21301](https://chronique.efa.gr/?kroute=topo_public&id=21301)  
+
+### alignments:
+ - [Abai](https://pleiades.stoa.org/places/540582)
+
+
 ## Toponym 21333: Elis, Ilis, Palaiopolis
 [https://chronique.efa.gr/?kroute=topo_public&id=21333](https://chronique.efa.gr/?kroute=topo_public&id=21333)  
 
@@ -643,6 +650,20 @@
 
 ### alignments:
  - [Kaloi Limenes](https://pleiades.stoa.org/places/589834)
+
+
+## Toponym 2295: Salamis, Koulouri
+[https://chronique.efa.gr/?kroute=topo_public&id=2295](https://chronique.efa.gr/?kroute=topo_public&id=2295)  
+
+### alignments:
+ - [Salamis (island)](https://pleiades.stoa.org/places/580101)
+
+
+## Toponym 23233: Kimolos
+[https://chronique.efa.gr/?kroute=topo_public&id=23233](https://chronique.efa.gr/?kroute=topo_public&id=23233)  
+
+### alignments:
+ - [Kimolos (island)](https://pleiades.stoa.org/places/589868)
 
 
 ## Toponym 23624: Krannon
@@ -1445,6 +1466,13 @@
  - [Lyktos](https://pleiades.stoa.org/places/589918)
 
 
+## Toponyme 14720: Ag. Marina LOKRIDAS-Δ.Δ.Αγίας Μαρίνης Λοκρίδος
+[https://chronique.efa.gr/?r=topo_public&id=14720](https://chronique.efa.gr/?r=topo_public&id=14720)  
+
+### alignments:
+ - [(Pa)Tronis?](https://pleiades.stoa.org/places/541015)
+
+
 ## Toponyme 15809: Abdère, Abdera, Avdira
 [https://chronique.efa.gr/?kroute=topo_public&id=15809](https://chronique.efa.gr/?kroute=topo_public&id=15809)  
 
@@ -1485,6 +1513,13 @@
 
 ### alignments:
  - [Eretria](https://pleiades.stoa.org/places/579925)
+
+
+## Toponyme 18559: Exarchos
+[https://chronique.efa.gr/?kroute=topo_public&id=18559](https://chronique.efa.gr/?kroute=topo_public&id=18559)  
+
+### alignments:
+ - [Abai](https://pleiades.stoa.org/places/540582)
 
 
 ## Toponyme 18743: Frixa, Prixa, Anemochorakion-Δ.Δ.Φρίξης

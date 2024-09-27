@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3858 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
+3861 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3985,6 +3985,13 @@
 
 ### alignments:
  - [Kikynna?](https://pleiades.stoa.org/places/579979)
+
+
+## Kimolos (Q919194)
+[https://www.wikidata.org/wiki/Q919194](https://www.wikidata.org/wiki/Q919194)  
+
+### alignments:
+ - [Kimolos (island)](https://pleiades.stoa.org/places/589868)
 
 
 ## Kinaidokolpitai (Q96385960)
@@ -26563,6 +26570,13 @@
  - [Troizen](https://pleiades.stoa.org/places/570756)
 
 
+## Troneia (Q17563248)
+[https://www.wikidata.org/wiki/Q17563248](https://www.wikidata.org/wiki/Q17563248)  
+
+### alignments:
+ - [(Pa)Tronis?](https://pleiades.stoa.org/places/541015)
+
+
 ## Trossulum (Q113577306)
 [https://www.wikidata.org/wiki/Q113577306](https://www.wikidata.org/wiki/Q113577306)  
 
@@ -26624,6 +26638,13 @@
 
 ### alignments:
  - [Typhrestos/Tymphrestos (mountain)](https://pleiades.stoa.org/places/542836711)
+
+
+## Tyre (Q3991738)
+[https://www.wikidata.org/wiki/Q3991738](https://www.wikidata.org/wiki/Q3991738)  
+
+### alignments:
+ - [Tyrus/Col. Septimia Severa](https://pleiades.stoa.org/places/678437)
 
 
 ## Ubii (Q664800)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3496 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
+3496 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -99,6 +99,13 @@
 ### alignments:
  - [Porta Latina](https://pleiades.stoa.org/places/870073463)
  - [Via Latina](https://pleiades.stoa.org/places/93042695)
+
+
+## Abai (Phokis) 17 Palaiokhori - Άβαι
+[https://topostext.org/place/386229PAba](https://topostext.org/place/386229PAba)  
+
+### alignments:
+ - [Abai](https://pleiades.stoa.org/places/540582)
 
 
 ## Abarnis (Mysia)
@@ -2313,13 +2320,6 @@
 
 ### alignments:
  - [Apollo Nasiotas, T.](https://pleiades.stoa.org/places/540653)
-
-
-## Apollo of Abai (Phokis)
-[https://topostext.org/place/386229SAba](https://topostext.org/place/386229SAba)  
-
-### alignments:
- - [Abai](https://pleiades.stoa.org/places/540582)
 
 
 ## Apollo Patroos Temple

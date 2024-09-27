@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3706 alignments exist in _Pleiades_ place references as of 2024-09-26. The following list of alignments is grouped by zotkey.
+3707 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1563,6 +1563,13 @@
  - [Abia](https://pleiades.stoa.org/places/570027)
 
 
+## Geo 38116: Abai
+[https://www.trismegistos.org/place/38116](https://www.trismegistos.org/place/38116)  
+
+### alignments:
+ - [Abai](https://pleiades.stoa.org/places/540582)
+
+
 ## Geo 38118: Antikyra
 [https://www.trismegistos.org/place/38118](https://www.trismegistos.org/place/38118)  
 
@@ -2030,6 +2037,13 @@
 
 ### alignments:
  - [Mykenai](https://pleiades.stoa.org/places/589941)
+
+
+## Geo 61339: Patronis (Hagia Marina)
+[https://www.trismegistos.org/place/61339](https://www.trismegistos.org/place/61339)  
+
+### alignments:
+ - [(Pa)Tronis?](https://pleiades.stoa.org/places/541015)
 
 
 ## Geo 61452: Pharis
@@ -16225,13 +16239,6 @@
  - [Pherai](https://pleiades.stoa.org/places/570596)
 
 
-## GEO ID 38116: Abai
-[http://www.trismegistos.org/place/38116](http://www.trismegistos.org/place/38116)  
-
-### alignments:
- - [Abai](https://pleiades.stoa.org/places/540582)
-
-
 ## GEO ID 38120: Drymaia
 [https://www.trismegistos.org/place/38120](https://www.trismegistos.org/place/38120)  
 
@@ -20276,7 +20283,7 @@
 [http://www.trismegistos.org/place/42495](http://www.trismegistos.org/place/42495)  
 
 ### alignments:
- - [Paropamisos/Caucasus M.](https://pleiades.stoa.org/places/59983)
+ - [Hindu Kush (mountains)](https://pleiades.stoa.org/places/59983)
 
 
 ## GEO ID 42497: Ad Palmam
