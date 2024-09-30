@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3707 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
+3709 alignments exist in _Pleiades_ place references as of 2024-09-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1031,6 +1031,13 @@
  - [Dreros](https://pleiades.stoa.org/places/589767)
 
 
+## Geo 33288: Milatos
+[https://www.trismegistos.org/place/33288](https://www.trismegistos.org/place/33288)  
+
+### alignments:
+ - [Milatos](https://pleiades.stoa.org/places/589932)
+
+
 ## Geo 33296: Tylisos
 [https://www.trismegistos.org/place/33296](https://www.trismegistos.org/place/33296)  
 
@@ -2043,7 +2050,7 @@
 [https://www.trismegistos.org/place/61339](https://www.trismegistos.org/place/61339)  
 
 ### alignments:
- - [(Pa)Tronis?](https://pleiades.stoa.org/places/541015)
+ - [Psilo Kastro (Ag. Marina)](https://pleiades.stoa.org/places/541015)
 
 
 ## Geo 61452: Pharis
@@ -21630,6 +21637,13 @@
 
 ### alignments:
  - [Sucaelo/Siccaenum](https://pleiades.stoa.org/places/270374)
+
+
+## GEO ID 43879: Nonakris (Solos)
+[http://www.trismegistos.org/place/43879](http://www.trismegistos.org/place/43879)  
+
+### alignments:
+ - [Nonakris](https://pleiades.stoa.org/places/570510)
 
 
 ## GEO ID 43881: Campus Martius

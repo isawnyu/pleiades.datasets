@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-362 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
+364 alignments exist in _Pleiades_ place references as of 2024-09-30. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -398,6 +398,13 @@
 
 ### alignments:
  - [Klima](https://pleiades.stoa.org/places/449126342)
+
+
+## Report 6288: AMPOURIA PARNASSOU. - Grotte de Pan et des Nymphes - 2012
+[https://chronique.efa.gr/?r=report&id=6288](https://chronique.efa.gr/?r=report&id=6288)  
+
+### alignments:
+ - [Ampouria Parnassou](https://pleiades.stoa.org/places/252533527)
 
 
 ## Report 6602: PISTYROS - 2017
@@ -1242,6 +1249,13 @@
  - [Eutresis (Boeotia)](https://pleiades.stoa.org/places/540787)
 
 
+## Toponym 5744: Milatos
+[https://chronique.efa.gr/?kroute=topo_public&id=5744](https://chronique.efa.gr/?kroute=topo_public&id=5744)  
+
+### alignments:
+ - [Milatos](https://pleiades.stoa.org/places/589932)
+
+
 ## Toponym 60239: Yeronisos, Geronisos Island
 [https://chronique.efa.gr/?kroute=topo_public&id=60239](https://chronique.efa.gr/?kroute=topo_public&id=60239)  
 
@@ -1470,7 +1484,8 @@
 [https://chronique.efa.gr/?r=topo_public&id=14720](https://chronique.efa.gr/?r=topo_public&id=14720)  
 
 ### alignments:
- - [(Pa)Tronis?](https://pleiades.stoa.org/places/541015)
+ - [Ampouria Parnassou](https://pleiades.stoa.org/places/252533527)
+ - [Psilo Kastro (Ag. Marina)](https://pleiades.stoa.org/places/541015)
 
 
 ## Toponyme 15809: Abdère, Abdera, Avdira

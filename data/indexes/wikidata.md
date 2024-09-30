@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3861 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
+3872 alignments exist in _Pleiades_ place references as of 2024-09-30. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -842,6 +842,13 @@
  - [Arco Felice Vecchio](https://pleiades.stoa.org/places/466414611)
 
 
+## Arda (Q500954)
+[https://www.wikidata.org/wiki/Q500954](https://www.wikidata.org/wiki/Q500954)  
+
+### alignments:
+ - [Harpessos (river)](https://pleiades.stoa.org/places/501430)
+
+
 ## Ardettus (Q12873973)
 [https://www.wikidata.org/wiki/Q12873973](https://www.wikidata.org/wiki/Q12873973)  
 
@@ -1009,6 +1016,13 @@
 
 ### alignments:
  - [Asine](https://pleiades.stoa.org/places/570125)
+
+
+## Asklepieion of Pheneos (Q111381592)
+[https://www.wikidata.org/wiki/Q111381592](https://www.wikidata.org/wiki/Q111381592)  
+
+### alignments:
+ - [Asklepieion of Pheneos](https://pleiades.stoa.org/places/627870063)
 
 
 ## Asopos (Q12874174)
@@ -3707,6 +3721,13 @@
  - [Isinda (Lycian)](https://pleiades.stoa.org/places/638871)
 
 
+## Italia Suburbicaria (Q3804151)
+[https://www.wikidata.org/wiki/Q3804151](https://www.wikidata.org/wiki/Q3804151)  
+
+### alignments:
+ - [Italia Suburbicaria](https://pleiades.stoa.org/places/116722325)
+
+
 ## Itanos (Q6093995)
 [https://www.wikidata.org/wiki/Q6093995](https://www.wikidata.org/wiki/Q6093995)  
 
@@ -4499,6 +4520,13 @@
  - [Luxmanda archaeological site](https://pleiades.stoa.org/places/896643025)
 
 
+## Lycian League (Q1485014)
+[https://www.wikidata.org/wiki/Q1485014](https://www.wikidata.org/wiki/Q1485014)  
+
+### alignments:
+ - [Lycian League](https://pleiades.stoa.org/places/68843864)
+
+
 ## Lykaion Zeus sanctuary (Q111046342)
 [https://www.wikidata.org/wiki/Q111046342](https://www.wikidata.org/wiki/Q111046342)  
 
@@ -4842,6 +4870,13 @@
  - [Mieza Nymphaion](https://pleiades.stoa.org/places/111698661)
 
 
+## Milatos (Q17325188)
+[https://www.wikidata.org/wiki/Q17325188](https://www.wikidata.org/wiki/Q17325188)  
+
+### alignments:
+ - [Milatos](https://pleiades.stoa.org/places/589932)
+
+
 ## Milecastle 76 (Q6851196)
 [https://www.wikidata.org/wiki/Q6851196](https://www.wikidata.org/wiki/Q6851196)  
 
@@ -5001,6 +5036,13 @@
 
 ### alignments:
  - [Muradiye](https://pleiades.stoa.org/places/521184308)
+
+
+## Muranum (Q16966200)
+[https://www.wikidata.org/wiki/Q16966200](https://www.wikidata.org/wiki/Q16966200)  
+
+### alignments:
+ - [Muranum](https://pleiades.stoa.org/places/452386)
 
 
 ## Muziris (Q2974112)
@@ -5190,6 +5232,13 @@
 
 ### alignments:
  - [Nisyros (island)](https://pleiades.stoa.org/places/599830)
+
+
+## Nonakris (Q7049180)
+[https://www.wikidata.org/wiki/Q7049180](https://www.wikidata.org/wiki/Q7049180)  
+
+### alignments:
+ - [Nonakris](https://pleiades.stoa.org/places/570510)
 
 
 ## Novi Banovci (Q779333)
@@ -6051,6 +6100,13 @@
 
 ### alignments:
  - [Ponte Romito](https://pleiades.stoa.org/places/414499)
+
+
+## Ponte sodo (Q130380905)
+[https://www.wikidata.org/wiki/Q130380905](https://www.wikidata.org/wiki/Q130380905)  
+
+### alignments:
+ - [Ponte Sodo](https://pleiades.stoa.org/places/980216943)
 
 
 ## Pontinia (Q128130)
@@ -8960,6 +9016,20 @@
 
 ### alignments:
  - [Ehulhul](https://pleiades.stoa.org/places/100593149)
+
+
+## Q130380932
+[https://www.wikidata.org/wiki/Q130380932](https://www.wikidata.org/wiki/Q130380932)  
+
+### alignments:
+ - [Archaeological area of Villa di Campetti](https://pleiades.stoa.org/places/607885597)
+
+
+## Q130382645
+[https://www.wikidata.org/wiki/Q130382645](https://www.wikidata.org/wiki/Q130382645)  
+
+### alignments:
+ - [Monte Calvo](https://pleiades.stoa.org/places/413207)
 
 
 ## Q130958: The Great Sphinx
@@ -25588,6 +25658,13 @@
  - [Strongylo Aqueduct bridge](https://pleiades.stoa.org/places/650138313)
 
 
+## Studenberg, Celtic oppidum (Q29675362)
+[https://www.wikidata.org/wiki/Q29675362](https://www.wikidata.org/wiki/Q29675362)  
+
+### alignments:
+ - [Jensberg Celtic oppidum](https://pleiades.stoa.org/places/139153222)
+
+
 ## Su Nuraxi di Barumini (Q253241)
 [https://www.wikidata.org/wiki/Q253241](https://www.wikidata.org/wiki/Q253241)  
 
@@ -26574,7 +26651,7 @@
 [https://www.wikidata.org/wiki/Q17563248](https://www.wikidata.org/wiki/Q17563248)  
 
 ### alignments:
- - [(Pa)Tronis?](https://pleiades.stoa.org/places/541015)
+ - [Psilo Kastro (Ag. Marina)](https://pleiades.stoa.org/places/541015)
 
 
 ## Trossulum (Q113577306)

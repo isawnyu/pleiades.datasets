@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-541 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
+543 alignments exist in _Pleiades_ place references as of 2024-09-30. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -876,6 +876,13 @@
  - [Chelydorea (mountain)](https://pleiades.stoa.org/places/573169)
 
 
+## 10191970: Nonacris (Arcadia/Achaia)
+[https://resource.manto.unh.edu/10191970](https://resource.manto.unh.edu/10191970)  
+
+### alignments:
+ - [Nonakris](https://pleiades.stoa.org/places/570510)
+
+
 ## 10191984: Tanagra (Boiotia)
 [https://resource.manto.unh.edu/10191984](https://resource.manto.unh.edu/10191984)  
 
@@ -1384,7 +1391,7 @@
 [https://resource.manto.unh.edu/10269165](https://resource.manto.unh.edu/10269165)  
 
 ### alignments:
- - [(Pa)Tronis?](https://pleiades.stoa.org/places/541015)
+ - [Psilo Kastro (Ag. Marina)](https://pleiades.stoa.org/places/541015)
 
 
 ## 10270184: Pamphylia region of Asia Minor
@@ -3739,6 +3746,13 @@
 
 ### alignments:
  - [Midea](https://pleiades.stoa.org/places/570485)
+
+
+## Miletos (Crete)
+[https://resource.manto.unh.edu/9719438](https://resource.manto.unh.edu/9719438)  
+
+### alignments:
+ - [Milatos](https://pleiades.stoa.org/places/589932)
 
 
 ## Mount Tmaros (Epeiros)

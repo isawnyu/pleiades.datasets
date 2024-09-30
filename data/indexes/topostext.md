@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3496 alignments exist in _Pleiades_ place references as of 2024-09-27. The following list of alignments is grouped by zotkey.
+3500 alignments exist in _Pleiades_ place references as of 2024-09-30. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3317,6 +3317,13 @@
  - [Sanctuary of Asklepios at Epidauros](https://pleiades.stoa.org/places/570127)
 
 
+## Asklepieion of Pheneos (Arkadia)
+[https://topostext.org/place/379223SAsP](https://topostext.org/place/379223SAsP)  
+
+### alignments:
+ - [Asklepieion of Pheneos](https://pleiades.stoa.org/places/627870063)
+
+
 ## Asklepieion/Lerna (Corinth)
 [https://topostext.org/place/379229SAsk](https://topostext.org/place/379229SAsk)  
 
@@ -5982,6 +5989,13 @@
 
 ### alignments:
  - [Cotinussa (island)](https://pleiades.stoa.org/places/256138)
+
+
+## Crathis river (Calabria)
+[https://topostext.org/place/397165WCra](https://topostext.org/place/397165WCra)  
+
+### alignments:
+ - [Crathis/Crater (river)](https://pleiades.stoa.org/places/452315)
 
 
 ## Cremera R. (Rome)
@@ -15603,6 +15617,13 @@
  - [Nomentum](https://pleiades.stoa.org/places/422986)
 
 
+## Nonakris (Achaia)
+[https://topostext.org/place/380222PNon](https://topostext.org/place/380222PNon)  
+
+### alignments:
+ - [Nonakris](https://pleiades.stoa.org/places/570510)
+
+
 ## Nora (Sardinia)
 [https://topostext.org/place/390090UNor](https://topostext.org/place/390090UNor)  
 
@@ -21577,6 +21598,13 @@
  - [Stobi](https://pleiades.stoa.org/places/491731)
 
 
+## Stoichades islands (Gallia)
+[https://topostext.org/place/432054ISto](https://topostext.org/place/432054ISto)  
+
+### alignments:
+ - [Stoechades (islands)](https://pleiades.stoa.org/places/157929)
+
+
 ## Stolos (Halkidiki)
 [https://topostext.org/place/404237PSto](https://topostext.org/place/404237PSto)  
 
@@ -23548,7 +23576,7 @@
 [https://topostext.org/place/386227UPat](https://topostext.org/place/386227UPat)  
 
 ### alignments:
- - [(Pa)Tronis?](https://pleiades.stoa.org/places/541015)
+ - [Psilo Kastro (Ag. Marina)](https://pleiades.stoa.org/places/541015)
 
 
 ## Tropaea Pompeii (Gallia)
