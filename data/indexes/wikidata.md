@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3872 alignments exist in _Pleiades_ place references as of 2024-09-30. The following list of alignments is grouped by zotkey.
+3875 alignments exist in _Pleiades_ place references as of 2024-10-01. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3280,6 +3280,13 @@
  - [The Queen's Megaron (Palace of Minos)](https://pleiades.stoa.org/places/271668241)
 
 
+## Hecatompylos (Q1518300)
+[https://www.wikidata.org/wiki/Q1518300](https://www.wikidata.org/wiki/Q1518300)  
+
+### alignments:
+ - [Hecatompylos?/Komish/[(Shahr-i) Qumis]](https://pleiades.stoa.org/places/942276)
+
+
 ## Heidentor (Q1594216)
 [https://www.wikidata.org/wiki/Q1594216](https://www.wikidata.org/wiki/Q1594216)  
 
@@ -4842,6 +4849,13 @@
  - [Old Bouleuterion/Metroon](https://pleiades.stoa.org/places/415689443)
 
 
+## Mezad Tamar (Q6620770)
+[https://www.wikidata.org/wiki/Q6620770](https://www.wikidata.org/wiki/Q6620770)  
+
+### alignments:
+ - [Mezad Thamar](https://pleiades.stoa.org/places/687974)
+
+
 ## Middle Stoa (Q17630694)
 [https://www.wikidata.org/wiki/Q17630694](https://www.wikidata.org/wiki/Q17630694)  
 
@@ -5232,6 +5246,13 @@
 
 ### alignments:
  - [Nisyros (island)](https://pleiades.stoa.org/places/599830)
+
+
+## Nitzana (Q2909861)
+[https://www.wikidata.org/wiki/Q2909861](https://www.wikidata.org/wiki/Q2909861)  
+
+### alignments:
+ - [Nessana](https://pleiades.stoa.org/places/687988)
 
 
 ## Nonakris (Q7049180)
@@ -20449,13 +20470,6 @@
  - [Shrine of Strenia](https://pleiades.stoa.org/places/582254847)
 
 
-## Q56476980
-[https://www.wikidata.org/wiki/Q56476980](https://www.wikidata.org/wiki/Q56476980)  
-
-### alignments:
- - [Theater at Sybaris/Thurii/Copia](https://pleiades.stoa.org/places/178686122)
-
-
 ## Q56477142: Roman Theatre of Tusculum
 [https://www.wikidata.org/wiki/Q56477142](https://www.wikidata.org/wiki/Q56477142)  
 
@@ -24823,6 +24837,13 @@
 
 ### alignments:
  - [Roman theater of Scythopolis](https://pleiades.stoa.org/places/719634078)
+
+
+## Roman Theatre of Sybaris (Q56476980)
+[https://www.wikidata.org/wiki/Q56476980](https://www.wikidata.org/wiki/Q56476980)  
+
+### alignments:
+ - [Theater at Sybaris/Thurii/Copia](https://pleiades.stoa.org/places/178686122)
 
 
 ## Roman Theatre of Trieste (Q752696)

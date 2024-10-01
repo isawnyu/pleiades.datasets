@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3709 alignments exist in _Pleiades_ place references as of 2024-09-30. The following list of alignments is grouped by zotkey.
+3711 alignments exist in _Pleiades_ place references as of 2024-10-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12213,6 +12213,13 @@
  - [Sibrium](https://pleiades.stoa.org/places/383780)
 
 
+## GEO ID 3162: Nessana (Auja Hafir)
+[http://www.trismegistos.org/place/3162](http://www.trismegistos.org/place/3162)  
+
+### alignments:
+ - [Nessana](https://pleiades.stoa.org/places/687988)
+
+
 ## GEO ID 31639: Pitinum Mergens (Pian di Valeria)
 [http://www.trismegistos.org/place/31639](http://www.trismegistos.org/place/31639)  
 
@@ -18424,6 +18431,13 @@
  - [Thelser/Zelfir](https://pleiades.stoa.org/places/897859)
 
 
+## GEO ID 41558: Rhagai (Rey)
+[http://www.trismegistos.org/place/41558](http://www.trismegistos.org/place/41558)  
+
+### alignments:
+ - [Rhaga(i)/Europos/Arsakia/Ray](https://pleiades.stoa.org/places/903104)
+
+
 ## GEO ID 41561: Kalos Limen (Chernomorskoye)
 [http://www.trismegistos.org/place/41561](http://www.trismegistos.org/place/41561)  
 
@@ -20724,7 +20738,7 @@
 [http://www.trismegistos.org/place/42866](http://www.trismegistos.org/place/42866)  
 
 ### alignments:
- - [Vesuvius M.](https://pleiades.stoa.org/places/433189)
+ - [Vesuvius (volcano)](https://pleiades.stoa.org/places/433189)
 
 
 ## GEO ID 42870: Munda

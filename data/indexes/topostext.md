@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3500 alignments exist in _Pleiades_ place references as of 2024-09-30. The following list of alignments is grouped by zotkey.
+3501 alignments exist in _Pleiades_ place references as of 2024-10-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -24059,7 +24059,7 @@
 [https://topostext.org/place/408144LVes](https://topostext.org/place/408144LVes)  
 
 ### alignments:
- - [Vesuvius M.](https://pleiades.stoa.org/places/433189)
+ - [Vesuvius (volcano)](https://pleiades.stoa.org/places/433189)
 
 
 ## Vetulonia/Vatl (Italy)
@@ -24424,6 +24424,13 @@
 
 ### alignments:
  - [Zerynthos](https://pleiades.stoa.org/places/501664)
+
+
+## Zeus Aglaos (Magna Graecia)
+[https://topostext.org/place/404167SZAg](https://topostext.org/place/404167SZAg)  
+
+### alignments:
+ - [Zeus Aglaios (temple)](https://pleiades.stoa.org/places/442859)
 
 
 ## Zeus Akraios sanct. (Magnesia) 1 Pelion
