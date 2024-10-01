@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
             "connectsTo": "https://pleiades.stoa.org/places/1113",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:47:38Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "update references",
+                    "modified": "2024-09-30T21:55:18Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:47:38Z",
@@ -46,7 +58,19 @@
             ],
             "id": "1113",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Sybaris",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Sybaris",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Magna Graecia",
@@ -57,6 +81,7 @@
         "https://pleiades.stoa.org/places/1113",
         "https://pleiades.stoa.org/places/452459",
         "https://pleiades.stoa.org/places/455287",
+        "https://pleiades.stoa.org/places/452315",
         "https://pleiades.stoa.org/places/453003",
         "https://pleiades.stoa.org/places/452422",
         "https://pleiades.stoa.org/places/178686122"
@@ -153,6 +178,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "add TrecEnc",
+            "modified": "2024-09-30T21:51:34Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "add TGN",
+            "modified": "2024-09-30T15:22:30Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update reference",
             "modified": "2023-08-25T15:40:22Z",
@@ -873,11 +908,13 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/port"
+        "https://pleiades.stoa.org/vocabularies/place-types/port",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
         "settlement",
-        "port"
+        "port",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 46 D2 Sybaris/Thurii/Copia",
     "references": [
@@ -1055,6 +1092,28 @@
             "formattedCitation": "<div class=\"csl-entry\">Crudo, Maurizio. “Indigenous and Greek People at the Dawn of Sybaris: Economy and Pottery Production.” Thesis fully internal (DIV), University of Groningen, 2023. https://doi.org/10.33612/diss.612979857.</div>",
             "otherIdentifier": "",
             "shortTitle": "Crudo 2023",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.getty.edu/research/tools/vocabularies/tgn/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "citationDetail": "7004265: Sybaris (deserted settlement)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TGN",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.treccani.it/enciclopedia/sibari/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HHA9M2F7",
+            "citationDetail": "Sibari",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Treccani Enciclopedia</i>. Roma: Istituto della Enciclopedia Italiana fondata da Giovanni Treccani. Accessed June 6, 2022. https://www.treccani.it/enciclopedia/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TrecEnc",
             "type": "seeFurther"
         }
     ],
